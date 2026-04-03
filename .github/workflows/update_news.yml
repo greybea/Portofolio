@@ -1,0 +1,39 @@
+name: Update AI News Daily
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Τρέχει κάθε μέρα στις 08:00 το πρωί (UTC)
+  workflow_dispatch: # Σου επιτρέπει να το τρέχεις και χειροκίνητα όποτε θες με ένα κουμπί
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Κατεβάζει τον κώδικά σου στον server
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. Ετοιμάζει την Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      # 3. Κάνει εγκατάσταση το requests
+      - name: Install dependencies
+        run: pip install requests
+
+      # 4. Τρέχει το Python script σου χρησιμοποιώντας το κρυφό API KEY
+      - name: Run script to fetch news
+        env:
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+        run: python AI_news.py
+
+      # 5. Κάνει commit και push το νέο JSON (αν υπάρχουν αλλαγές)
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add AI_news.json
+          git commit -m "Auto-updated AI news" || echo "Δεν υπήρξαν αλλαγές για commit"
+          git push
