@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Nikos Efthymiou — Backend Engineer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;600;700&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<canvas id="starfield"></canvas>
+
+<nav>
+  <a href="#hero" class="nav-logo">NE<span>.dev</span></a>
+  <ul class="nav-links">
+    <li><a href="#about">About</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#news">AI News</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<section id="hero">
+  <div class="hero-tag">Backend Engineer</div>
+  <h1 class="hero-name">Nikos<br><span class="accent">Efthymiou</span></h1>
+  <p class="hero-subtitle">
+    <span id="typed" class="typed"></span><span class="cursor"></span>
+  </p>
+  <div class="hero-cta">
+    <a href="#projects" class="btn btn-primary">View Projects</a>
+    <a href="#contact" class="btn btn-ghost">Get in Touch</a>
+  </div>
+  <div class="hero-status">
+    <div class="status-dot"></div>
+    <span>Available for opportunities &amp; collaborations</span>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about">
+  <div class="reveal">
+    <p class="section-label">About me</p>
+    <h2 class="section-title">Who I am</h2>
+    <div class="about-grid">
+      <div class="about-text">
+        <p>Φοιτητής στο <strong style="color:#fff">ΣΑΕΚ Πάτρας</strong> με πάθος για την ανάπτυξη λογισμικού και την επίλυση σύνθετων προβλημάτων μέσω κώδικα.</p>
+        <p>Εστιάζω στο backend development — αρχιτεκτονική συστημάτων, αλγόριθμοι και χαμηλού επιπέδου προγραμματισμός. Μου αρέσει να χτίζω πράγματα που <em style="color:var(--accent)">λειτουργούν</em>.</p>
+        <p>Όταν δεν γράφω κώδικα, με βρίσκεις με έναν καφέ να διαβάζω για νέες τεχνολογίες ☕</p>
+      </div>
+      <div class="terminal-card">
+        <div class="terminal-bar">
+          <div class="dot r"></div>
+          <div class="dot y"></div>
+          <div class="dot g"></div>
+          <span class="terminal-filename">nikos.json</span>
+        </div>
+        <div class="terminal-body">
+          <div class="t-comment">// profile</div>
+          {<br>
+          &nbsp;&nbsp;<span class="t-key">"name"</span>: <span class="t-str">"Nikos Efthymiou"</span>,<br>
+          &nbsp;&nbsp;<span class="t-key">"role"</span>: <span class="t-str">"Backend Engineer"</span>,<br>
+          &nbsp;&nbsp;<span class="t-key">"location"</span>: <span class="t-str">"Πάτρα, GR"</span>,<br>
+          &nbsp;&nbsp;<span class="t-key">"education"</span>: <span class="t-str">"ΣΑΕΚ Πάτρας"</span>,<br>
+          &nbsp;&nbsp;<span class="t-key">"coffee_cups"</span>: <span class="t-num">∞</span>,<br>
+          &nbsp;&nbsp;<span class="t-key">"open_to_work"</span>: <span class="t-val">true</span><br>
+          }
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SKILLS -->
+<section id="skills">
+  <div class="reveal">
+    <p class="section-label">Tech stack</p>
+    <h2 class="section-title">Skills &amp; Technologies</h2>
+    <div class="skills-grid">
+      <div class="skill-card">
+        <div class="skill-icon">🐍</div>
+        <div class="skill-name">Python</div>
+        <div class="skill-type">Primary Language</div>
+      </div>
+      <div class="skill-card">
+        <div class="skill-icon">⚙️</div>
+        <div class="skill-name">C</div>
+        <div class="skill-type">Systems Programming</div>
+      </div>
+      <div class="skill-card">
+        <div class="skill-icon">➕</div>
+        <div class="skill-name">C++</div>
+        <div class="skill-type">OOP &amp; Performance</div>
+      </div>
+      <div class="skill-card">
+        <div class="skill-icon">☕</div>
+        <div class="skill-name">Java</div>
+        <div class="skill-type">Object-Oriented</div>
+      </div>
+      <div class="skill-card">
+        <div class="skill-icon">🔀</div>
+        <div class="skill-name">Git</div>
+        <div class="skill-type">Version Control</div>
+      </div>
+      <div class="skill-card">
+        <div class="skill-icon">🐙</div>
+        <div class="skill-name">GitHub</div>
+        <div class="skill-type">Collaboration</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects">
+  <div class="reveal">
+    <p class="section-label">My work</p>
+    <h2 class="section-title">Projects</h2>
+    <div class="project-card">
+      <div class="project-header">
+        <span class="project-number">01 / 02</span>
+        <div class="project-links">
+          <a href="https://github.com/greybea/RPG_Game" target="_blank" rel="noopener" class="project-link">GitHub ↗</a>
+        </div>
+      </div>
+      <h3 class="project-name">RPG_Game</h3>
+      <p class="project-desc">
+        A text-based, turn-based RPG game built entirely in Python. Players navigate through battles,
+        level up their characters and make strategic decisions in a classic adventure experience —
+        all rendered in the terminal.
+      </p>
+      <div class="tech-stack">
+        <span class="tech-tag">Python</span>
+        <span class="tech-tag">Git</span>
+        <span class="tech-tag">GitHub</span>
+        <span class="tech-tag">CLI</span>
+      </div>
+    </div>
+    <div class="project-card" style="margin-top:1.5rem;">
+      <div class="project-header">
+        <span class="project-number">02 / 02</span>
+        <div class="project-links">
+          <a href="https://github.com/greybea/myPokedex" target="_blank" rel="noopener" class="project-link">GitHub ↗</a>
+        </div>
+      </div>
+      <h3 class="project-name">Pokedex</h3>
+      <p class="project-desc">
+        Μια εφαρμογή Pokedex με γραφικό περιβάλλον που αναζητά και εμφανίζει πληροφορίες για Pokémon από αρχείο JSON μέσω API. Χτισμένη με Python και Tkinter για native desktop εμπειρία.
+      </p>
+      <div class="tech-stack">
+        <span class="tech-tag">Python</span>
+        <span class="tech-tag">Tkinter</span>
+        <span class="tech-tag">API</span>
+        <span class="tech-tag">JSON</span>
+        <span class="tech-tag">Git</span>
+        <span class="tech-tag">GitHub</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- AI NEWS -->
+<section id="news">
+  <div class="reveal">
+    <p class="section-label">Live feed</p>
+    <h2 class="section-title">AI News</h2>
+    <div class="news-grid" id="news-grid">
+      <!-- Populated by script.js -->
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+  <div class="reveal">
+    <p class="section-label">Get in touch</p>
+    <h2 class="section-title">Contact</h2>
+    <div class="contact-grid">
+      <a href="https://github.com/greybea" target="_blank" rel="noopener" class="contact-card">
+        <div class="contact-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+          </svg>
+        </div>
+        <div>
+          <div class="contact-label">GitHub</div>
+          <div class="contact-value">github.com/greybea</div>
+        </div>
+      </a>
+      <a href="#" class="contact-card" onclick="return false;" style="opacity:0.5;cursor:default;">
+        <div class="contact-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/>
+          </svg>
+        </div>
+        <div>
+          <div class="contact-label">LinkedIn</div>
+          <div class="contact-value">Add your profile</div>
+        </div>
+      </a>
+      <a href="#" class="contact-card" onclick="return false;" style="opacity:0.5;cursor:default;grid-column:1/-1;">
+        <div class="contact-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/>
+          </svg>
+        </div>
+        <div>
+          <div class="contact-label">Email</div>
+          <div class="contact-value">Add your email address</div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>Built with <span>&#60;/&#62;</span> by Nikos Efthymiou &nbsp;·&nbsp; <span>2025</span></p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
