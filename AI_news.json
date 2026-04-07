@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 302331,
+    "totalArticles": 302909,
     "articles": [
         {
-            "id": "814c91cf20eeeaf2a05bedddb69961b5",
-            "title": "Wipro Acquires Singapore-Based Firm For $375 Million As Part Of $1 Billion Contract Win",
-            "description": "The Indian IT major is set to buy 100% of Mindsprint to drive an AI-powered digital transformation for the global food and agri-business giant over eight years.",
-            "content": "At a time when Indian IT services firms are doubling down on acquisitions, Wipro, too, appears to have joined the party by acquiring a Singapore-based IT services company called Mindsprint, for a total consideration of around $375 million.\nThe Indian... [1727 chars]",
-            "url": "https://www.ndtvprofit.com/business/wipro-acquires-singapore-based-firm-for-375-million-as-part-of-1-billion-contract-win-11315985",
-            "image": "https://c.ndtvimg.com/2026-01/1i84fckc_wipro_625x300_19_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-            "publishedAt": "2026-04-06T01:17:25Z",
+            "id": "1dd237f7878cf21049119ec591264f77",
+            "title": "As Meta Flounders, It Reportedly Plans to Open Source Its New AI Models",
+            "description": "At least if it sucks, everyone will be able to see why.",
+            "content": "To say Meta’s attempts to become a leader in AI have thus far fallen short would be like calling Mount Everest a short hike. But the company is pot-committed to the project, with plans to spend more than $600 billion earmarked for AI, so it might as ... [1755 chars]",
+            "url": "https://gizmodo.com/as-meta-flounders-it-reportedly-plans-to-open-source-its-new-ai-models-2000743047",
+            "image": "https://gizmodo.com/app/uploads/2025/10/shutterstock_2633202687-e1761169652467-1200x675.jpg",
+            "publishedAt": "2026-04-06T20:50:20Z",
             "lang": "en",
             "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c6902fc19c75f22d27865b391b3fec71",
+            "title": "Nvidia-SchedMD deal raises AI software access concerns",
+            "description": "TORONTO/SAN FRANCISCO - A niche acquisition by Nvidia NVDA.O has raised concerns among artificial-intelligence and supercomputer specialists who see the move as a test of the biggest AI chip company's commitment to maintaining a fair playing field for chip rivals and AI data center builders.",
+            "content": "TORONTO/SAN FRANCISCO - A niche acquisition by Nvidia NVDA.O has raised concerns among artificial-intelligence and supercomputer specialists who see the move as a test of the biggest AI chip company's commitment to maintaining a fair playing field fo... [4644 chars]",
+            "url": "https://www.manilatimes.net/2026/04/07/business/sunday-business-it/nvidiaschedmd-deal-raises-ai-software-access-concerns/2314994",
+            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/07/1002866.jpg",
+            "publishedAt": "2026-04-06T20:49:00Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "99361f016e0afda6035b2814db0fde04",
+            "title": "Spain’s Xoople raises $130m to build the data infrastructure AI needs to understand Earth",
+            "description": "Madrid startup Xoople has raised $130mn in a Series B led by Nazca Capital to build its own satellite constellation and EarthAI platform for continuous Earth monitoring.",
+            "content": "In short: Xoople, a Madrid-based geospatial data company founded in 2019, has raised a $130 million Series B led by Nazca Capital, bringing its total funding to $225 million and pushing its valuation into unicorn territory. The round was co-invested ... [6919 chars]",
+            "url": "https://thenextweb.com/news/xoople-130m-series-b-earth-ai",
+            "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/xoople-130m-series-b-earth-ai.png",
+            "publishedAt": "2026-04-06T20:48:56Z",
+            "lang": "en",
+            "source": {
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "a59d9ac45e0c536e01ed99b3c003a691",
+            "title": "Punjab & Haryana High Court cautions judges against using AI for writing verdicts",
+            "description": "Second HC to restrict AI after Gujarat court.",
+            "content": "The Punjab and Haryana High Court has asked judicial officers not to use artificial intelligence tools — including ChatGPT, Gemini, Microsoft Copilot and Meta AI — for writing judgments or conducting legal research, while warning that any violation “... [2496 chars]",
+            "url": "https://www.tribuneindia.com/news/india/punjab-haryana-high-court-cautions-judges-against-using-ai-for-writing-verdicts/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI3YmRlNDkwLTMxZjktMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+            "publishedAt": "2026-04-06T20:42:36Z",
+            "lang": "en",
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
                 "country": "in"
             }
         },
         {
-            "id": "6880aa88a195bdb2f28daa496ee8dfd4",
-            "title": "Column: How C S Ranga Iyer responded to a racist American book about 1920s India",
-            "description": "C S Ranga Iyer wrote a book, titled 'Father India' that brilliantly exposed Mayo's work 'Mother India' for the racist colonial drivel that it was..C S Ranga Iyer, Indian independence movement, fight against untouchability, social equality India, Katherine Mayo Mother India, Father India book, racist colonial drivel, critique of Mother India, Kerala social issues, Malabar Rebellion 1921, Vaikom satyagraha, AI historical analysis, LLM historical interpretation, countering Western propaganda India, social reformer C S Ranga Iyer",
-            "content": "Journalist, independence activist and social reformer C S Ranga Iyer is best remembered for his strong fight against untouchability. His key belief at a time when the Indian independence movement was gaining momentum under Mahatma Gandhi’s leadership... [5695 chars]",
-            "url": "https://www.onmanorama.com/lifestyle/keralaspora/2026/04/05/cs-ranga-iyer-father-india-vs-mother-india-katherine-mayo.html",
-            "image": "https://img.onmanorama.com/content/dam/mm/en/archive/lifestyle/keralaspora/images/2026/4/5/mother-india-c.jpg",
-            "publishedAt": "2026-04-06T01:10:21Z",
+            "id": "ab2f3749c30e1cef1efa09c80c586cb8",
+            "title": "Three Times the US Government Already Failed at Tech",
+            "description": "investigative report draws on years of federal cybersecurity coverage to warn that US government is repeating old mistakes as it rushes into AI",
+            "content": "A new investigation published argues that the federal government is rushing into artificial intelligence the same way it rushed into cloud computing a decade ago, and with the same structural vulnerabilities still in place.\nProPublica’s Renee Dudley ... [3343 chars]",
+            "url": "https://crypto.news/three-times-the-us-government-already-failed-at-tech/",
+            "image": "https://crypto.news/app/uploads/2023/11/crypto-news-USA-flag-New-York-blurry-blockchain-background-low-poly-style02.webp",
+            "publishedAt": "2026-04-06T20:40:00Z",
             "lang": "en",
             "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
+                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+                "name": "Crypto News",
+                "url": "https://crypto.news",
+                "country": "lt"
             }
         },
         {
-            "id": "76ea43e48968a633a0b6bd7b6377958b",
-            "title": "IPL billions and the price of asymmetric capitalism",
-            "description": "The article highlights the immense financial growth and corporatisation of cricket in India..IPL viewership, cricket monetization, corporatisation of cricket, business ethics India, Gandhian economics, capitalism with a conscience, LLM impact on sports business, AI in sports viewership, sports franchise valuation, Indian business ethos, Vaibhav Suryavanshi salary, Gundappa Viswanath earnings, asymmetric capitalism India, Vikasit Bharat corporate ethics, trusteeship model India",
-            "content": "It is IPL season again, and viewership across streaming platforms has touched a staggering 52 crore. In India, cricket remains the undisputed leader—unlike football, which dominates globally. World Cup matches routinely draw upwards of 70 crore viewe... [4326 chars]",
-            "url": "https://www.onmanorama.com/news/economix/2026/04/05/ipl-cricket-viewership-growth.html",
-            "image": "https://img.onmanorama.com/content/dam/mm/en/sports/cricket/images/2025/3/22/eden-gardens-ipl-eve.jpg",
-            "publishedAt": "2026-04-06T01:09:53Z",
+            "id": "584321bcf18d7714eb4c79558c3367b3",
+            "title": "Blue Owl stock closes at record low as private credit investors head for exits",
+            "description": "Blue Owl (OWL) hits record low as private credit fears spur redemptions; BDCs pressured by software/AI risk.",
+            "content": "Blue Owl stock closes at record low as private credit investors head for exits\nApr 06, 2026, 4:37 PM ETBlue Owl Capital Inc. (OWL) StockBy : Liz Kiesche, SA News Editor\nComments\nBlue Owl Capital Inc. (OWL) stock dropped 1.4% to $8.45 on Monday, bring... [342 chars]",
+            "url": "https://seekingalpha.com/news/4572807-blue-owl-stock-closes-at-record-low-as-private-credit-investors-head-for-exits",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1698775154/image_1698775154.jpg?io=getty-c-w630",
+            "publishedAt": "2026-04-06T20:37:39Z",
             "lang": "en",
             "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
             }
         },
         {
-            "id": "ac94852399464adfa61f79e26d76e94b",
-            "title": "Crypto Presale Update: What Separates Early Investors This Cycle",
-            "description": "Get the latest Crypto Presale Update with insights on AI token growth and market trends for April 2026. Stay informed.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nAI tokens climbed 30% in a single month while every other sector bled red, and the Fear and Greed Index has not left extreme territory in over two weeks, which tells anyone paying attention that the market rewards precis... [5204 chars]",
-            "url": "https://techbullion.com/crypto-presale-update-what-separates-early-investors-this-cycle/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/04/70-1000x600.jpg",
-            "publishedAt": "2026-04-06T01:04:35Z",
+            "id": "e6b1f44af550a12727d2c81fa91b2336",
+            "title": "College graduates' outlook on the job market is only getting bleaker",
+            "description": "According to a March 2026 study from job search and resume company Monster, 89% of respondents worry that AI could replace entry-level roles, up from 64%.",
+            "content": "College students who are about to enter the workforce are becoming increasingly worried about artificial intelligence gobbling up entry-level jobs, a new study shows.\nAccording to a March 2026 study from job search and resume company Monster, 89% of ... [2947 chars]",
+            "url": "https://www.sfgate.com/bayarea/article/college-graduates-job-market-22192065.php",
+            "image": "https://s.hdnux.com/photos/01/65/70/21/30901325/3/rawImage.jpg",
+            "publishedAt": "2026-04-06T20:23:33Z",
             "lang": "en",
             "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
+                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
+                "name": "SFGATE",
+                "url": "https://www.sfgate.com",
+                "country": "us"
             }
         },
         {
-            "id": "f0515dfc5515e438f57ef529a02bd154",
-            "title": "India evolving into core AI-play; SMIDs to drive innovation: Prateek Indwar",
-            "description": "The SmallCap and MidCap space will drive innovation as companies in this space to agile enough to build around AI-native stack, said Indwar",
-            "content": "The SmallCap and MidCap space will drive innovation as companies in this space to agile enough to build around AI-native stack, said Indwar\nPrateek Indwar of InCred Capital believes India is rapidly evolving into a core AI-play\nAnanya Chaudhuri Mumba... [4567 chars]",
-            "url": "https://www.business-standard.com/markets/news/india-evolving-into-core-ai-play-smids-to-drive-innovation-prateek-indwar-126040300194_1.html",
-            "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/03/full/1775192521-7738.jpeg",
-            "publishedAt": "2026-04-06T01:02:20Z",
+            "id": "9ad616001305b771af886043727f393a",
+            "title": "AI complexity reshapes modern infrastructure",
+            "description": "AI complexity is reshaping Kubernetes, security and platforms, pushing enterprises to rethink infrastructure design and operations at scale.",
+            "content": "Modern infrastructure is being reshaped as artificial intelligence drives new levels of AI complexity across the stack.\nKubernetes has moved into the center of AI-driven operations, but the shift is exposing a stubborn reality. Teams are still dealin... [11558 chars]",
+            "url": "https://siliconangle.com/2026/04/06/three-insights-from-kubecon-ai-complexity-thecube-kubeconeu/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Brian-Stevens-SVP-and-AI-chief-technology-officer-of-Red-Hat-KubeCon-CloudNativeCon-EU-2026.png",
+            "publishedAt": "2026-04-06T20:21:55Z",
             "lang": "en",
             "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
             }
         },
         {
-            "id": "d6ee20483bd305a3cf4f2ec5197cb474",
-            "title": "‘Cook dinner instead of ordering in, GDP falls’: Nithin Kamath sparks debate on economic metrics",
-            "description": "In a post on X (formerly Twitter), Kamath revisited the history of GDP and argued that the world may need to rethink its reliance on the metric — especially as economies face profound shifts driven by artificial intelligence and environmental challenges.",
-            "content": "Is GDP still the right way to measure progress in the 21st century? That question has resurfaced after Nithin Kamath, founder and CEO of Zerodha, shared a detailed reflection on the origins and limitations of Gross Domestic Product, echoing concerns ... [3316 chars]",
-            "url": "https://www.businesstoday.in/latest/corporate/story/cook-dinner-instead-of-ordering-in-gdp-falls-nithin-kamath-sparks-debate-on-economic-metrics-524110-2026-04-06",
-            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202604/69d28ad1832a5-kamath-cited-remarks-from-antnio-guterres--who-recently-warned-that-the-global-economy-must-move-be-051612253-16x9.jpg",
-            "publishedAt": "2026-04-06T01:00:03Z",
+            "id": "79a1b898fc5cbf7d013d67241e83c0a1",
+            "title": "Nvidia invests $2 billion in Marvell to integrate custom chips into its AI ecosystem and rack-scale NVLink Fusion network",
+            "description": "Nvidia expands AI ecosystem with $2 billion Marvell deal",
+            "content": "Nvidia invests $2 billion to bring Marvell into the NVLink Fusion ecosystem\nNVLink Fusion enables third-party accelerators to communicate with Nvidia GPUs efficiently\nMarvell provides custom XPUs and scale-up networking for heterogeneous AI infrastru... [3734 chars]",
+            "url": "https://www.techradar.com/pro/the-inference-inflection-has-arrived-nvidia-pumps-usd2-billion-into-chipmaker-marvell-to-boost-its-ai-factories-to-the-next-level-so-does-this-mean-itll-be-working-with-amazon-trainium-soon",
+            "image": "https://cdn.mos.cms.futurecdn.net/D9pZcgdPinp5ty7pPDjKeY-1920-80.png",
+            "publishedAt": "2026-04-06T20:20:00Z",
             "lang": "en",
             "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
             }
         },
         {
-            "id": "bd5bcc95006f22e7fab8560d59ec5f9e",
-            "title": "IT rules have made the internet less free",
-            "description": "It is unfortunate that demands for accountability have been repeatedly deflected and changes to the IT Rules have been framed as a response to deepfakes and AI-generated misinformation.",
-            "content": "Advertisement\nThe IT Rules, 2021, were earlier expanded on February 10, compressing take-down timelines to three hours. The amendments did not contain any exemptions for parody and satire, and in many ways rekindled a fact-checking power for AI-gener... [1856 chars]",
-            "url": "https://indianexpress.com/article/opinion/columns/it-rules-have-made-the-internet-less-free-10620936/",
-            "image": "https://images.indianexpress.com/2026/04/IT-rules.jpg",
-            "publishedAt": "2026-04-06T00:49:11Z",
+            "id": "f807a80690d0d6f519e93640b7b9ae45",
+            "title": "Netflix’s new AI doesn’t create videos - it rewrites reality (and it's open source)",
+            "description": "Netflix just open-sourced a new AI called VOID that can rewrite real video footage — not generate it. Here’s how it works and why it could change how we trust what we see.",
+            "content": "I’ve spent a lot of time testing every AI video tool that hits the market, from OpenAI’s Sora to the latest Runway updates. Usually, the pitch is the same: \"Type a prompt, get a movie.\"\nBut Netflix just quietly released a research model called VOID, ... [3140 chars]",
+            "url": "https://www.tomsguide.com/ai/netflixs-new-ai-doesnt-create-videos-it-rewrites-reality-and-its-open-source",
+            "image": "https://cdn.mos.cms.futurecdn.net/o89sBsutjJUmJaP6gYWVHT-2000-80.jpg",
+            "publishedAt": "2026-04-06T20:16:18Z",
             "lang": "en",
             "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "1976b7e207369666a297385c04422b65",
-            "title": "Power supply lessons for AI",
-            "description": "Explore how a transformer-based model enhances forecasting for India's complex power grid, revealing insights into demand and supply challenges.",
-            "content": "India’s electricity grid has long resisted the forecasting methods that work elsewhere. A recent study, ‘Indian peak power demand forecasting: Transformer-based implementation of temporal architecture’, by Vishvaditya Luhach and Shashwat Jha, applied... [3852 chars]",
-            "url": "https://www.thehindubusinessline.com/business-tech/power-supply-lessons-for-ai/article70827695.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/ihwxtx/article70827697.ece/alternates/LANDSCAPE_1200/BL0604_Quantum_Second.jpg",
-            "publishedAt": "2026-04-06T00:45:00Z",
-            "lang": "en",
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "3a8f0b71bc8e211e9691b972f91ca2ed",
-            "title": "Best Crypto Presale to Buy Now as AI Tokens Lead and Pepeto Targets 1000x",
-            "description": "Discover the best crypto presale to buy now and take advantage of high returns from confirmed listings like Pepeto.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nAI tokens grew 30% in one month to $19 billion combined while every other sector bled. This proves the market rewards specific conviction during fear. Additionally, the wallets applying that principle to presale entries ... [5326 chars]",
-            "url": "https://techbullion.com/best-crypto-presale-to-buy-now-as-ai-tokens-lead-and-pepeto-targets-1000x/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/02/best-crypto-presale-1000x600.png",
-            "publishedAt": "2026-04-06T00:44:15Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "471f6ae3be71b1554b2dc05ec0ef5173",
-            "title": "Semicon Mission 2.0 set to prioritise memory chips",
-            "description": "India's semiconductor mission is shifting focus to advanced memory packaging. High Bandwidth Memory, crucial for AI data centers, will be prioritized. This move aims to integrate India into the global manufacturing value chain for this critical technology. Officials confirm that applications for HBM production will receive precedence under the new mission phase.",
-            "content": "Synopsis\nIndia's semiconductor mission is shifting focus to advanced memory packaging. High Bandwidth Memory, crucial for AI data centers, will be prioritized. This move aims to integrate India into the global manufacturing value chain for this criti... [2455 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/technology/semicon-mission-2-0-set-to-prioritise-memory-chips/articleshow/130045533.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-137486,resizemode-75,msid-130045533/tech/technology/semicon-mission-2-0-set-to-prioritise-memory-chips.jpg",
-            "publishedAt": "2026-04-06T00:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
+                "id": "dcc4f4c6eb081eb8a9ee9cca215517f5",
+                "name": "Tom's Guide",
+                "url": "https://www.tomsguide.com",
+                "country": "us"
             }
         }
     ]
