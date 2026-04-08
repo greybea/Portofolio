@@ -556,6 +556,127 @@ h3.project-name{
 }
 .news-footer::after{content:'↗'}
 
+/* EMAIL MODAL */
+.contact-card-email{
+  font-family:'JetBrains Mono',monospace;
+  color:var(--text);
+  transition:all 0.25s;
+  display:flex;
+  align-items:center;
+  gap:1rem;
+  padding:1.25rem 1.5rem;
+  border-radius:6px;
+}
+.contact-card-email:hover{
+  border-color:var(--accent) !important;
+  color:var(--accent);
+  transform:translateY(-2px);
+}
+.contact-card-email:hover .contact-label{color:var(--text-dim)}
+.contact-card-hint{
+  margin-left:auto;
+  font-size:0.7rem;
+  letter-spacing:0.1em;
+  color:var(--accent);
+  opacity:0;
+  transform:translateX(-6px);
+  transition:all 0.2s;
+}
+.contact-card-email:hover .contact-card-hint{opacity:1;transform:translateX(0)}
+
+.email-modal-backdrop{
+  position:fixed;
+  inset:0;
+  z-index:500;
+  background:rgba(8,11,15,0.7);
+  backdrop-filter:blur(6px);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:1.5rem;
+  opacity:0;
+  pointer-events:none;
+  transition:opacity 0.25s;
+}
+.email-modal-backdrop.open{
+  opacity:1;
+  pointer-events:all;
+}
+.email-modal{
+  background:var(--surface);
+  border:1px solid var(--border);
+  border-radius:8px;
+  padding:1.5rem;
+  width:100%;
+  max-width:540px;
+  transform:translateY(20px) scale(0.97);
+  transition:transform 0.3s cubic-bezier(0.4,0,0.2,1);
+  box-shadow:0 32px 80px rgba(0,0,0,0.6), 0 0 0 1px rgba(0,232,122,0.08);
+}
+.email-modal-backdrop.open .email-modal{transform:translateY(0) scale(1)}
+.email-modal-close{
+  margin-left:auto;
+  background:none;
+  border:none;
+  color:var(--text-dim);
+  font-size:0.8rem;
+  cursor:pointer;
+  padding:0.2rem 0.4rem;
+  border-radius:3px;
+  transition:color 0.2s,background 0.2s;
+  font-family:'JetBrains Mono',monospace;
+}
+.email-modal-close:hover{color:var(--red);background:rgba(255,71,87,0.1)}
+.email-field{
+  display:flex;
+  align-items:center;
+  gap:0.75rem;
+  border-bottom:1px solid var(--border);
+  padding:0.6rem 0;
+}
+.email-field-body{
+  align-items:flex-start;
+  border-bottom:none;
+}
+.email-label{
+  font-size:0.75rem;
+  min-width:70px;
+  color:var(--text-dim);
+  flex-shrink:0;
+  padding-top:0.1rem;
+}
+.email-input{
+  flex:1;
+  background:transparent;
+  border:none;
+  outline:none;
+  color:var(--text);
+  font-family:'JetBrains Mono',monospace;
+  font-size:0.82rem;
+  line-height:1.6;
+  resize:none;
+}
+.email-input::placeholder{color:var(--text-dim);opacity:0.6}
+.email-textarea{
+  min-height:130px;
+  padding-top:0.1rem;
+}
+.email-modal-footer{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  margin-top:1.25rem;
+  padding-top:1rem;
+  border-top:1px solid var(--border);
+}
+.email-status{
+  font-size:0.72rem;
+  color:var(--text-dim);
+  letter-spacing:0.05em;
+}
+.email-status.success{color:var(--accent)}
+.email-status.error{color:var(--red)}
+
 /* FOOTER */
 footer{
   position:relative;z-index:1;
@@ -589,9 +710,71 @@ footer span{color:var(--accent)}
 }
 .reveal.visible{opacity:1;transform:translateY(0)}
 
+/* HAMBURGER BUTTON */
+.nav-burger{
+  display:none;
+  flex-direction:column;
+  justify-content:center;
+  gap:5px;
+  background:none;
+  border:none;
+  cursor:pointer;
+  padding:0.4rem;
+  z-index:200;
+}
+.nav-burger span{
+  display:block;
+  width:22px;
+  height:2px;
+  background:var(--text);
+  border-radius:2px;
+  transition:transform 0.3s,opacity 0.3s,background 0.2s;
+  transform-origin:center;
+}
+.nav-burger:hover span{background:var(--accent)}
+.nav-burger.open span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+.nav-burger.open span:nth-child(2){opacity:0;transform:scaleX(0)}
+.nav-burger.open span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+
 @media(max-width:680px){
-  nav{padding:1rem 1.5rem}
-  .nav-links{gap:1.2rem}
+  nav{padding:1rem 1.5rem;position:relative}
+  .nav-burger{display:flex}
+  .nav-links{
+    display:flex;
+    flex-direction:column;
+    gap:0;
+    position:fixed;
+    top:0;right:0;
+    width:70vw;
+    max-width:280px;
+    height:100vh;
+    background:rgba(8,11,15,0.97);
+    backdrop-filter:blur(16px);
+    border-left:1px solid var(--border);
+    padding:5rem 2rem 2rem;
+    list-style:none;
+    transform:translateX(100%);
+    transition:transform 0.35s cubic-bezier(0.4,0,0.2,1);
+    z-index:150;
+  }
+  .nav-links.open{transform:translateX(0)}
+  .nav-links li{
+    border-bottom:1px solid var(--border);
+  }
+  .nav-links a{
+    display:block;
+    padding:1rem 0;
+    font-size:0.9rem;
+    letter-spacing:0.12em;
+  }
+  .nav-overlay{
+    display:none;
+    position:fixed;
+    inset:0;
+    z-index:140;
+    background:rgba(8,11,15,0.5);
+  }
+  .nav-overlay.open{display:block}
   .about-grid,.contact-grid{grid-template-columns:1fr}
   .news-grid{grid-template-columns:1fr}
 }

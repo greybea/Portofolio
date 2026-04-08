@@ -12,15 +12,19 @@
 <body>
 
 <canvas id="starfield"></canvas>
+<div class="nav-overlay" id="nav-overlay"></div>
 
 <nav>
   <a href="#hero" class="nav-logo">NE<span>.dev</span></a>
-  <ul class="nav-links">
-    <li><a href="#about">About</a></li>
-    <li><a href="#skills">Skills</a></li>
-    <li><a href="#projects">Projects</a></li>
-    <li><a href="#news">AI News</a></li>
-    <li><a href="#contact">Contact</a></li>
+  <button class="nav-burger" id="nav-burger" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+  <ul class="nav-links" id="nav-links">
+    <li><a href="#about" class="nav-link-item">About</a></li>
+    <li><a href="#skills" class="nav-link-item">Skills</a></li>
+    <li><a href="#projects" class="nav-link-item">Projects</a></li>
+    <li><a href="#news" class="nav-link-item">AI News</a></li>
+    <li><a href="#contact" class="nav-link-item">Contact</a></li>
   </ul>
 </nav>
 
@@ -203,7 +207,7 @@
           <div class="contact-value">Add your profile</div>
         </div>
       </a>
-      <a href="#" class="contact-card" onclick="return false;" style="opacity:0.5;cursor:default;grid-column:1/-1;">
+      <button class="contact-card contact-card-email" id="open-email-modal" style="grid-column:1/-1;width:100%;text-align:left;background:var(--surface);border:1px solid var(--border);cursor:pointer;">
         <div class="contact-icon">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/>
@@ -211,12 +215,42 @@
         </div>
         <div>
           <div class="contact-label">Email</div>
-          <div class="contact-value">nikoseuthimio</div>
+          <div class="contact-value">nikoseuthimiou21@yahoo.gr</div>
         </div>
-      </a>
+        <div class="contact-card-hint">Click to send →</div>
+      </button>
     </div>
   </div>
 </section>
+
+<!-- EMAIL MODAL -->
+<div class="email-modal-backdrop" id="email-modal-backdrop" aria-hidden="true">
+  <div class="email-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="terminal-bar" style="border-radius:6px 6px 0 0;border:none;margin:-1.5rem -1.5rem 1.5rem;">
+      <div class="dot r"></div>
+      <div class="dot y"></div>
+      <div class="dot g"></div>
+      <span class="terminal-filename" id="modal-title">new_message.txt</span>
+      <button class="email-modal-close" id="close-email-modal" aria-label="Close">✕</button>
+    </div>
+    <div class="email-field">
+      <label class="email-label" for="email-from"><span class="t-key">from</span>:</label>
+      <input class="email-input" id="email-from" name="email" type="email" placeholder="your@email.com" autocomplete="email"/>
+    </div>
+    <div class="email-field">
+      <label class="email-label" for="email-subject"><span class="t-key">subject</span>:</label>
+      <input class="email-input" id="email-subject" name="subject" type="text" placeholder="What's this about?"/>
+    </div>
+    <div class="email-field email-field-body">
+      <label class="email-label" for="email-body"><span class="t-key">message</span>:</label>
+      <textarea class="email-input email-textarea" id="email-body" name="message" placeholder="Write your message here..."></textarea>
+    </div>
+    <div class="email-modal-footer">
+      <span class="email-status" id="email-status"></span>
+      <button class="btn btn-primary" id="send-email-btn">Send ↗</button>
+    </div>
+  </div>
+</div>
 
 <footer>
   <p>Built with <span>&#60;/&#62;</span> by Nikos Efthymiou &nbsp;·&nbsp; <span>2025</span></p>
