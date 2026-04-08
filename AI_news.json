@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 303001,
+    "totalArticles": 303781,
     "articles": [
         {
-            "id": "d0e3ed3ac63da6b8af43809e3c868fd4",
-            "title": "Broadcom signs long-term deal to develop Google’s custom AI chips",
-            "description": "April 6 (Reuters) - Broadcom said ⁠on Monday it has signed a long-term agreement with ⁠Google to develop and supply future generations of custom ‌artificial intelligence chips and other components for the company's next-generation AI racks through 2031.",
-            "content": "April 6 (Reuters) - Broadcom said ⁠on Monday it has signed a long-term agreement with ⁠Google to develop and supply future generations of custom ‌artificial intelligence chips and other components for the company's next-generation AI racks through 20... [1385 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/07/broadcom-signs-long-term-deal-to-develop-googles-custom-ai-chips",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/04/07/3847566.jpg",
-            "publishedAt": "2026-04-07T00:40:00Z",
+            "id": "13ed1514742813d3cac5f94a6539f116",
+            "title": "Project Glasswing: Tech giants unite to fix AI",
+            "description": "Anthropic and partners unveil Project Glasswing as AI models begin surpassing humans in vulnerability detection.",
+            "content": "A coalition of major technology firms has launched a new initiative to confront a rapidly escalating cybersecurity threat driven by advanced artificial intelligence.\nThe effort, called Project Glasswing, brings together companies including Amazon Web... [2763 chars]",
+            "url": "https://interestingengineering.com/ai-robotics/project-glasswing-ai-cybersecurity-initiative",
+            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Untitled-design-2026-04-08T020959.038.jpg",
+            "publishedAt": "2026-04-07T20:49:09Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "3062854959434d38ca4a16b8c5225ebb",
-            "title": "Uno faculty named to NSF fellowship expanding AI education",
-            "description": "UNO assistant professor Chun-Hua Tsai is named an inaugural NAIRR AI Education Fellow, advancing equitable access to high-quality undergraduate AI education nationwide.",
-            "content": "Chun-Hua Tsai, Ph.D., an assistant professor in the Department of Information Systems and Quantitative Analysis at the University of Nebraska Omaha's (UNO) College of Information Science & Technology (IS&T), has been selected as one of 25 inaugural N... [2930 chars]",
-            "url": "https://omaha.com/news/community/article_34d5da7f-fa08-5c99-94d9-7071b746bbe2.html",
-            "image": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/f6/5f69402d-b1a9-5a02-88fd-e1b10a3151e6/69d4f1e4364a0.image.png?crop=1200%2C630%2C0%2C85",
-            "publishedAt": "2026-04-07T00:39:52Z",
-            "lang": "en",
-            "source": {
-                "id": "3e4122758db1be4339b4546c2c317037",
-                "name": "Omaha World-Herald",
-                "url": "https://omaha.com",
+                "id": "1a6c3258d04827f52d40713ad8166b1b",
+                "name": "Interesting Engineering",
+                "url": "https://interestingengineering.com",
                 "country": "us"
             }
         },
         {
-            "id": "12f203beea2946819d71d881503ab279",
-            "title": "Australia's Firmus raises $505 million to expand AI infrastructure across Asia-Pacific",
-            "description": "Firmus, an Australian artificial\nintelligence company, said on Tuesday that it has raised $505\nmillion in a funding round led by Coatue Management, and plans\nto use the capital to scale its AI...",
-            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/australia-s-firmus-raises-505-million-to-expand-ai-infrastructure-across-asia-pacific-ce7e51d3d881fe22",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-04-07T00:37:16Z",
+            "id": "f8203f98ffc09b50e803b2c5f9c53f2f",
+            "title": "AI will affect more than half of all U.S. jobs, analysis finds",
+            "description": "Artificial intelligence is more likely to change the nature of work than to supplant masses of workers, according to researchers.",
+            "content": "Artificial intelligence will dramatically change the nature of work, but stop short of replacing most employees, according to a recent analysis.\nOver the next three years, AI will \"reshape\" between 50% and 55% of U.S. jobs, Boston Consulting Group re... [2378 chars]",
+            "url": "https://www.cbsnews.com/sacramento/news/artificial-intelligence-ai-jobs-boston-consulting-group/",
+            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/06/17e36424-6d35-49f3-bab3-fc039eb10935/thumbnail/1200x630/72bf7bdae245f400a09786e9431ce726/gettyimages-2194273729.jpg",
+            "publishedAt": "2026-04-07T20:42:00Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "aa5abb815d0b569e29e7fa0d8f509aab",
-            "title": "Skills: The common language of human",
-            "description": "During a recent webinar, DJ Park of Cornerstone OnDemand explored how AI-powered intelligence is transforming traditional HR into hybrid resource management.",
-            "content": "The traditional boundaries of human resources are undergoing a radical transformation as AI moves from a speculative tool to an integrated “colleague” within the workforce. During a recent webinar co-hosted by Cornerstone OnDemand and HRM Asia, DJ Pa... [3426 chars]",
-            "url": "https://hrmasia.com/skills-the-common-language-of-human-ai-collaboration/",
-            "image": "https://hrmasia.com/wp-content/uploads/2026/04/Cornerstone-Webinar-2026-2-1024x576.jpg",
-            "publishedAt": "2026-04-07T00:32:27Z",
-            "lang": "en",
-            "source": {
-                "id": "42600681ae4c3d6a7f1e7a6f213bce84",
-                "name": "HRM Asia",
-                "url": "https://hrmasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "1483577b20404577c3b54df0c9e3a8f3",
-            "title": "Anthropic Number One AI in Ranking and Revenue - Making $30 Billion Per Year",
-            "description": "Anthropic signed a new agreement with Google and Broadcom for multiple gigawatts of next-generation TPU capacity that we expect to come online starting in",
-            "content": "Anthropic signed a new agreement with Google and Broadcom for multiple gigawatts of next-generation TPU capacity that we expect to come online starting in 2027. This significant expansion of their compute infrastructure will power our frontier Claude... [750 chars]",
-            "url": "https://www.nextbigfuture.com/2026/04/anthropic-number-one-ai-in-ranking-and-revenue-making-30-billion-per-year.html",
-            "image": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/04/Screenshot-2026-04-06-at-5.28.16-PM.jpg",
-            "publishedAt": "2026-04-07T00:30:52Z",
-            "lang": "en",
-            "source": {
-                "id": "21cef40ac6c3ef9110c7f509a6f6e7f6",
-                "name": "NextBigFuture.com",
-                "url": "https://www.nextbigfuture.com",
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
                 "country": "us"
             }
         },
         {
-            "id": "5fbb56c74b8f14da7e506f4421477efd",
-            "title": "Samsung Q1 profit soars 8x to record high as AI chip boom drives prices",
-            "description": "Samsung Electronics expects a record first-quarter profit, surging over eightfold as booming AI chip demand tightens supply and drives up semiconductor prices globally",
-            "content": "Samsung Electronics on Tuesday projected a record-breaking first-quarter performance, with operating profit surging more than eightfold year-on-year, as a global rush to build artificial intelligence (AI) infrastructure tightened chip supply and push... [2142 chars]",
-            "url": "https://www.firstpost.com/business/samsung-q1-profit-ai-chip-demand-semiconductor-prices-record-earnings-13997308.html",
-            "image": "https://images.firstpost.com/uploads/2026/01/2026-01-28T224652Z_1_LYNXMPEM0R1JB_RTROPTP_4_SAMSUNG-ELEC-RESULTS-2026-01-5e74907453ab3e4b29ffdb0997532909-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-04-07T00:30:35Z",
+            "id": "d4eb3ecd970ed8fa1f82644e2ce08d05",
+            "title": "AI will affect more than half of all U.S. jobs, analysis finds",
+            "description": "Artificial intelligence is more likely to change the nature of work than to supplant masses of workers, according to researchers.",
+            "content": "Artificial intelligence will dramatically change the nature of work, but stop short of replacing most employees, according to a recent analysis.\nOver the next three years, AI will \"reshape\" between 50% and 55% of U.S. jobs, Boston Consulting Group re... [2378 chars]",
+            "url": "https://www.cbsnews.com/texas/news/artificial-intelligence-ai-jobs-boston-consulting-group/",
+            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/06/17e36424-6d35-49f3-bab3-fc039eb10935/thumbnail/1200x630/72bf7bdae245f400a09786e9431ce726/gettyimages-2194273729.jpg",
+            "publishedAt": "2026-04-07T20:42:00Z",
             "lang": "en",
             "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "49e1d0d9ec942fcff4782400d0c8745d",
+            "title": "AI will affect more than half of all U.S. jobs, analysis finds",
+            "description": "Artificial intelligence is more likely to change the nature of work than to supplant masses of workers, according to researchers.",
+            "content": "Artificial intelligence will dramatically change the nature of work, but stop short of replacing most employees, according to a recent analysis.\nOver the next three years, AI will \"reshape\" between 50% and 55% of U.S. jobs, Boston Consulting Group re... [2378 chars]",
+            "url": "https://www.cbsnews.com/news/artificial-intelligence-ai-jobs-boston-consulting-group/",
+            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/06/17e36424-6d35-49f3-bab3-fc039eb10935/thumbnail/1200x630/72bf7bdae245f400a09786e9431ce726/gettyimages-2194273729.jpg",
+            "publishedAt": "2026-04-07T20:42:00Z",
+            "lang": "en",
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "465e1012ab94278b837f7ab176808426",
+            "title": "How a Catholic Sister Podcast Became a TikTok Sensation",
+            "description": "No, they're not AI and they're not nuns. Meet the viral sisters from 'Dominican Sisters Open Mic' podcast that's become a TikTok sensation",
+            "content": "Somewhere in a Michigan recording studio, a group of Dominican sisters are making a podcast. Millions of people on TikTok have found it. The sisters themselves? They have almost no idea.\nMembers of the Dominican Sisters of Mary, Mother of the Euchari... [3000 chars]",
+            "url": "https://www.usmagazine.com/entertainment/news/how-a-catholic-sister-podcast-became-a-tiktok-sensation/",
+            "image": "https://www.usmagazine.com/wp-content/uploads/2026/04/dominic-sisters-open-mic-podcast-tiktok.jpg?w=1200&h=630&crop=1&quality=86&strip=all",
+            "publishedAt": "2026-04-07T20:37:34Z",
+            "lang": "en",
+            "source": {
+                "id": "979e74ee88ce49ccc427aa90ec068196",
+                "name": "Us Weekly",
+                "url": "https://www.usmagazine.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "9e3aaa104b3b1d6ee54951ba21ccfc88",
+            "title": "Japan turns cargo ships into floating data centers as Hitachi backs ambitious plan to ease land shortages and rising AI demand",
+            "description": "Old cargo ships could soon host large-scale AI computing systems",
+            "content": "Floating data centers move closer as Hitachi backs ship conversion plan\nJapan explores offshore computing to bypass land shortages and infrastructure limits\nSeawater cooling offers efficiency gains while introducing new engineering complications\nA fl... [2966 chars]",
+            "url": "https://www.techradar.com/pro/floating-data-centers-cruise-a-bit-closer-after-a-major-show-of-support-from-japanese-giant-hitachi",
+            "image": "https://cdn.mos.cms.futurecdn.net/GqDUFQamZMATQXgLgZCVUV-1920-80.jpg",
+            "publishedAt": "2026-04-07T20:35:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "567708e3f8b0da63fbe2837d545346a5",
+            "title": "\"Video games are cooked\": Publisher head says \"it doesn't matter\" how many of us hate gen AI, Pandora's box has opened and \"it's gonna get used now\"",
+            "description": "Kinda gives me the ick to look at gen AI art",
+            "content": "Mike Rose, founder of indie publisher No More Robots, which is perhaps best known for the likes of Yes, Your Grace and Descenders, likens the spread of generative AI use in games to the opening of Pandora's box. Simply put, we ain't getting the lid b... [3186 chars]",
+            "url": "https://www.gamesradar.com/games/video-games-are-cooked-publisher-head-says-it-doesnt-matter-how-many-of-us-hate-gen-ai-pandoras-box-has-opened-and-its-gonna-get-used-now/",
+            "image": "https://cdn.mos.cms.futurecdn.net/fTsQLW46Jk3EgL7iUgRUbJ-1920-80.jpg",
+            "publishedAt": "2026-04-07T20:33:42Z",
+            "lang": "en",
+            "source": {
+                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
+                "name": "GamesRadar+",
+                "url": "https://www.gamesradar.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "45a0fd61e6535dd791834749a4cd62b1",
+            "title": "Mumbai Cyber Cell Arrests Jalna Youth For AI-Generated Defamatory Video Targeting CM Devendra Fadnavis & Ajit Pawar Plane Crash",
+            "description": "Police arrested Jalna resident Uddhav Bhagwan Kapse for allegedly creating an AI-generated video defaming CM Devendra Fadnavis and misrepresenting a plane crash involving Ajit Pawar. The video, which gained 1.5 lakh views, was later deleted. Kapse was remanded to custody till April 10 as police probe possible links and support behind the content.",
+            "content": "Mumbai: The Cyber Cell of the Western Regional Division Police has arrested a youth from Jalna for allegedly creating and circulating an objectionable video on social media that defamed Maharashtra's Chief Minister Devendra Fadnavis and spread mislea... [2382 chars]",
+            "url": "https://www.freepressjournal.in/mumbai/mumbai-cyber-cell-arrests-jalna-youth-for-ai-generated-defamatory-video-targeting-cm-devendra-fadnavis-ajit-pawar-plane-crash",
+            "image": "https://media.assettype.com/freepressjournal/2026-02-23/p39abl9r/Untitled-design-2026-02-23T205806.356.jpg",
+            "publishedAt": "2026-04-07T20:29:59Z",
+            "lang": "en",
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
                 "country": "in"
             }
         },
         {
-            "id": "fb8d0cf2ac6ed4480aaae5396e775337",
-            "title": "Tech firms take foot off hiring pedal on AI turn",
-            "description": "India’s tech sector had 256,000 active job openings in April 2022—thanks to the post-pandemic surge in IT services--and accounted for 83% of all hiring in the country.",
-            "content": "Synopsis\nIndia’s tech sector had 256,000 active job openings in April 2022—thanks to the post-pandemic surge in IT services--and accounted for 83% of all hiring in the country.\nTech hiring has taken a hit at a time when companies are shedding staff, ... [3483 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/technology/tech-firms-take-foot-off-hiring-pedal-on-ai-turn/articleshow/130066549.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1887837,resizemode-75,msid-130066549/tech/technology/tech-firms-take-foot-off-hiring-pedal-on-ai-turn.jpg",
-            "publishedAt": "2026-04-07T00:30:00Z",
+            "id": "d65be6b2dd041129c66a43e40c0773a1",
+            "title": "Anthropic Says Its Latest AI Model Is Too Powerful to Be Released",
+            "description": "Anthropic said Claude Mythos is too good at hacking and that's why you won't be able to use it anytime soon.",
+            "content": "Anthropic said on Tuesday that it has halted the broader release of its newest AI model, Mythos, due to concerns that it is too good at finding \"high-severity vulnerabilities\" in major operating systems and web browsers.\n\"Claude Mythos Preview's larg... [3314 chars]",
+            "url": "https://www.businessinsider.com/anthropic-mythos-latest-ai-model-too-powerful-to-be-released-2026-4",
+            "image": "https://i.insider.com/69d562eaf36fd1a78c051a4a?width=1200&format=jpeg",
+            "publishedAt": "2026-04-07T20:29:36Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
             }
         },
         {
-            "id": "4b6442071c649547ee2bc622538fa620",
-            "title": "ET Graphics: Future of search is on fast track",
-            "description": "​​A new realm is now developing alongside it. Generative engine optimisation (GEO) is about being the source that AI tools like ChatGPT, Perplexity and Google’s AI Overviews draw from when they answer a question. Not a link in a list, the answer itself.",
-            "content": "Synopsis\n​​A new realm is now developing alongside it. Generative engine optimisation (GEO) is about being the source that AI tools like ChatGPT, Perplexity and Google’s AI Overviews draw from when they answer a question. Not a link in a list, the an... [895 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/et-graphics-future-of-search-is-on-fast-track/articleshow/130067614.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-22170,resizemode-75,msid-130067614/tech/artificial-intelligence/et-graphics-future-of-search-is-on-fast-track.jpg",
-            "publishedAt": "2026-04-07T00:30:00Z",
+            "id": "3936c813c40fa091d5e9150905a1d5dc",
+            "title": "Crypto Is Having Its AI Chatbot Moment; You’re Missing It",
+            "description": "Cryptocurrency networks (blockchains) are now quietly emerging as the future plumbing of the entire global financial system.",
+            "content": "Sorry you missed crypto’s chat GPT moment. It’s not your fault. Even if you were trying to pay attention between conversations with your favorite AI, you didn’t see it because it was invisible. The sudden arrival of conversational AI was hard to miss... [4555 chars]",
+            "url": "https://www.newsweek.com/crypto-is-having-its-ai-chatbot-moment-youre-missing-it-11793661",
+            "image": "https://www.newsweek.com/Newsweek_logo_social.jpg",
+            "publishedAt": "2026-04-07T20:18:57Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "303bf7ce79177302ab06c921bcab856e",
-            "title": "AI’s defence push raises alarm bells at top enterprises",
-            "description": "Talking Point Firms are pausing AI projects amid rising fears around data exposure, governance gaps, geopolitical tensions & dependence on global providers, ET writes.",
-            "content": "Synopsis\nTalking Point Firms are pausing AI projects amid rising fears around data exposure, governance gaps, geopolitical tensions & dependence on global providers, ET writes.\nThe growing use of AI in defence strategy is unsettling enterprise users ... [3218 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ais-defence-push-raises-alarm-bells-at-top-enterprises/articleshow/130067575.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-93360,resizemode-75,msid-130067575/tech/artificial-intelligence/ais-defence-push-raises-alarm-bells-at-top-enterprises.jpg",
-            "publishedAt": "2026-04-07T00:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "98c1472356510644384c15e31201cfc2",
-            "title": "Firms take on AI chatbots in visibility fight",
-            "description": "A cross-section of companies may challenge AI platforms over the diversion of users away from their websites and excluding them from AI-generated responses without explanation or recourse, writes ET.",
-            "content": "Synopsis\nA cross-section of companies may challenge AI platforms over the diversion of users away from their websites and excluding them from AI-generated responses without explanation or recourse, writes ET.\nIndian businesses are preparing for a new... [5345 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/firms-take-on-ai-chatbots-in-visibility-fight/articleshow/130067348.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-248616,resizemode-75,msid-130067348/tech/artificial-intelligence/firms-take-on-ai-chatbots-in-visibility-fight.jpg",
-            "publishedAt": "2026-04-07T00:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
+                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+                "name": "Newsweek",
+                "url": "https://www.newsweek.com",
+                "country": "us"
             }
         }
     ]
