@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 302331,
+    "totalArticles": 303781,
     "articles": [
         {
-            "id": "814c91cf20eeeaf2a05bedddb69961b5",
-            "title": "Wipro Acquires Singapore-Based Firm For $375 Million As Part Of $1 Billion Contract Win",
-            "description": "The Indian IT major is set to buy 100% of Mindsprint to drive an AI-powered digital transformation for the global food and agri-business giant over eight years.",
-            "content": "At a time when Indian IT services firms are doubling down on acquisitions, Wipro, too, appears to have joined the party by acquiring a Singapore-based IT services company called Mindsprint, for a total consideration of around $375 million.\nThe Indian... [1727 chars]",
-            "url": "https://www.ndtvprofit.com/business/wipro-acquires-singapore-based-firm-for-375-million-as-part-of-1-billion-contract-win-11315985",
-            "image": "https://c.ndtvimg.com/2026-01/1i84fckc_wipro_625x300_19_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-            "publishedAt": "2026-04-06T01:17:25Z",
+            "id": "13ed1514742813d3cac5f94a6539f116",
+            "title": "Project Glasswing: Tech giants unite to fix AI",
+            "description": "Anthropic and partners unveil Project Glasswing as AI models begin surpassing humans in vulnerability detection.",
+            "content": "A coalition of major technology firms has launched a new initiative to confront a rapidly escalating cybersecurity threat driven by advanced artificial intelligence.\nThe effort, called Project Glasswing, brings together companies including Amazon Web... [2763 chars]",
+            "url": "https://interestingengineering.com/ai-robotics/project-glasswing-ai-cybersecurity-initiative",
+            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Untitled-design-2026-04-08T020959.038.jpg",
+            "publishedAt": "2026-04-07T20:49:09Z",
             "lang": "en",
             "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
+                "id": "1a6c3258d04827f52d40713ad8166b1b",
+                "name": "Interesting Engineering",
+                "url": "https://interestingengineering.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "f8203f98ffc09b50e803b2c5f9c53f2f",
+            "title": "AI will affect more than half of all U.S. jobs, analysis finds",
+            "description": "Artificial intelligence is more likely to change the nature of work than to supplant masses of workers, according to researchers.",
+            "content": "Artificial intelligence will dramatically change the nature of work, but stop short of replacing most employees, according to a recent analysis.\nOver the next three years, AI will \"reshape\" between 50% and 55% of U.S. jobs, Boston Consulting Group re... [2378 chars]",
+            "url": "https://www.cbsnews.com/sacramento/news/artificial-intelligence-ai-jobs-boston-consulting-group/",
+            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/06/17e36424-6d35-49f3-bab3-fc039eb10935/thumbnail/1200x630/72bf7bdae245f400a09786e9431ce726/gettyimages-2194273729.jpg",
+            "publishedAt": "2026-04-07T20:42:00Z",
+            "lang": "en",
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "d4eb3ecd970ed8fa1f82644e2ce08d05",
+            "title": "AI will affect more than half of all U.S. jobs, analysis finds",
+            "description": "Artificial intelligence is more likely to change the nature of work than to supplant masses of workers, according to researchers.",
+            "content": "Artificial intelligence will dramatically change the nature of work, but stop short of replacing most employees, according to a recent analysis.\nOver the next three years, AI will \"reshape\" between 50% and 55% of U.S. jobs, Boston Consulting Group re... [2378 chars]",
+            "url": "https://www.cbsnews.com/texas/news/artificial-intelligence-ai-jobs-boston-consulting-group/",
+            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/06/17e36424-6d35-49f3-bab3-fc039eb10935/thumbnail/1200x630/72bf7bdae245f400a09786e9431ce726/gettyimages-2194273729.jpg",
+            "publishedAt": "2026-04-07T20:42:00Z",
+            "lang": "en",
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "49e1d0d9ec942fcff4782400d0c8745d",
+            "title": "AI will affect more than half of all U.S. jobs, analysis finds",
+            "description": "Artificial intelligence is more likely to change the nature of work than to supplant masses of workers, according to researchers.",
+            "content": "Artificial intelligence will dramatically change the nature of work, but stop short of replacing most employees, according to a recent analysis.\nOver the next three years, AI will \"reshape\" between 50% and 55% of U.S. jobs, Boston Consulting Group re... [2378 chars]",
+            "url": "https://www.cbsnews.com/news/artificial-intelligence-ai-jobs-boston-consulting-group/",
+            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/06/17e36424-6d35-49f3-bab3-fc039eb10935/thumbnail/1200x630/72bf7bdae245f400a09786e9431ce726/gettyimages-2194273729.jpg",
+            "publishedAt": "2026-04-07T20:42:00Z",
+            "lang": "en",
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "465e1012ab94278b837f7ab176808426",
+            "title": "How a Catholic Sister Podcast Became a TikTok Sensation",
+            "description": "No, they're not AI and they're not nuns. Meet the viral sisters from 'Dominican Sisters Open Mic' podcast that's become a TikTok sensation",
+            "content": "Somewhere in a Michigan recording studio, a group of Dominican sisters are making a podcast. Millions of people on TikTok have found it. The sisters themselves? They have almost no idea.\nMembers of the Dominican Sisters of Mary, Mother of the Euchari... [3000 chars]",
+            "url": "https://www.usmagazine.com/entertainment/news/how-a-catholic-sister-podcast-became-a-tiktok-sensation/",
+            "image": "https://www.usmagazine.com/wp-content/uploads/2026/04/dominic-sisters-open-mic-podcast-tiktok.jpg?w=1200&h=630&crop=1&quality=86&strip=all",
+            "publishedAt": "2026-04-07T20:37:34Z",
+            "lang": "en",
+            "source": {
+                "id": "979e74ee88ce49ccc427aa90ec068196",
+                "name": "Us Weekly",
+                "url": "https://www.usmagazine.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "9e3aaa104b3b1d6ee54951ba21ccfc88",
+            "title": "Japan turns cargo ships into floating data centers as Hitachi backs ambitious plan to ease land shortages and rising AI demand",
+            "description": "Old cargo ships could soon host large-scale AI computing systems",
+            "content": "Floating data centers move closer as Hitachi backs ship conversion plan\nJapan explores offshore computing to bypass land shortages and infrastructure limits\nSeawater cooling offers efficiency gains while introducing new engineering complications\nA fl... [2966 chars]",
+            "url": "https://www.techradar.com/pro/floating-data-centers-cruise-a-bit-closer-after-a-major-show-of-support-from-japanese-giant-hitachi",
+            "image": "https://cdn.mos.cms.futurecdn.net/GqDUFQamZMATQXgLgZCVUV-1920-80.jpg",
+            "publishedAt": "2026-04-07T20:35:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "567708e3f8b0da63fbe2837d545346a5",
+            "title": "\"Video games are cooked\": Publisher head says \"it doesn't matter\" how many of us hate gen AI, Pandora's box has opened and \"it's gonna get used now\"",
+            "description": "Kinda gives me the ick to look at gen AI art",
+            "content": "Mike Rose, founder of indie publisher No More Robots, which is perhaps best known for the likes of Yes, Your Grace and Descenders, likens the spread of generative AI use in games to the opening of Pandora's box. Simply put, we ain't getting the lid b... [3186 chars]",
+            "url": "https://www.gamesradar.com/games/video-games-are-cooked-publisher-head-says-it-doesnt-matter-how-many-of-us-hate-gen-ai-pandoras-box-has-opened-and-its-gonna-get-used-now/",
+            "image": "https://cdn.mos.cms.futurecdn.net/fTsQLW46Jk3EgL7iUgRUbJ-1920-80.jpg",
+            "publishedAt": "2026-04-07T20:33:42Z",
+            "lang": "en",
+            "source": {
+                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
+                "name": "GamesRadar+",
+                "url": "https://www.gamesradar.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "45a0fd61e6535dd791834749a4cd62b1",
+            "title": "Mumbai Cyber Cell Arrests Jalna Youth For AI-Generated Defamatory Video Targeting CM Devendra Fadnavis & Ajit Pawar Plane Crash",
+            "description": "Police arrested Jalna resident Uddhav Bhagwan Kapse for allegedly creating an AI-generated video defaming CM Devendra Fadnavis and misrepresenting a plane crash involving Ajit Pawar. The video, which gained 1.5 lakh views, was later deleted. Kapse was remanded to custody till April 10 as police probe possible links and support behind the content.",
+            "content": "Mumbai: The Cyber Cell of the Western Regional Division Police has arrested a youth from Jalna for allegedly creating and circulating an objectionable video on social media that defamed Maharashtra's Chief Minister Devendra Fadnavis and spread mislea... [2382 chars]",
+            "url": "https://www.freepressjournal.in/mumbai/mumbai-cyber-cell-arrests-jalna-youth-for-ai-generated-defamatory-video-targeting-cm-devendra-fadnavis-ajit-pawar-plane-crash",
+            "image": "https://media.assettype.com/freepressjournal/2026-02-23/p39abl9r/Untitled-design-2026-02-23T205806.356.jpg",
+            "publishedAt": "2026-04-07T20:29:59Z",
+            "lang": "en",
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
                 "country": "in"
             }
         },
         {
-            "id": "6880aa88a195bdb2f28daa496ee8dfd4",
-            "title": "Column: How C S Ranga Iyer responded to a racist American book about 1920s India",
-            "description": "C S Ranga Iyer wrote a book, titled 'Father India' that brilliantly exposed Mayo's work 'Mother India' for the racist colonial drivel that it was..C S Ranga Iyer, Indian independence movement, fight against untouchability, social equality India, Katherine Mayo Mother India, Father India book, racist colonial drivel, critique of Mother India, Kerala social issues, Malabar Rebellion 1921, Vaikom satyagraha, AI historical analysis, LLM historical interpretation, countering Western propaganda India, social reformer C S Ranga Iyer",
-            "content": "Journalist, independence activist and social reformer C S Ranga Iyer is best remembered for his strong fight against untouchability. His key belief at a time when the Indian independence movement was gaining momentum under Mahatma Gandhi’s leadership... [5695 chars]",
-            "url": "https://www.onmanorama.com/lifestyle/keralaspora/2026/04/05/cs-ranga-iyer-father-india-vs-mother-india-katherine-mayo.html",
-            "image": "https://img.onmanorama.com/content/dam/mm/en/archive/lifestyle/keralaspora/images/2026/4/5/mother-india-c.jpg",
-            "publishedAt": "2026-04-06T01:10:21Z",
+            "id": "d65be6b2dd041129c66a43e40c0773a1",
+            "title": "Anthropic Says Its Latest AI Model Is Too Powerful to Be Released",
+            "description": "Anthropic said Claude Mythos is too good at hacking and that's why you won't be able to use it anytime soon.",
+            "content": "Anthropic said on Tuesday that it has halted the broader release of its newest AI model, Mythos, due to concerns that it is too good at finding \"high-severity vulnerabilities\" in major operating systems and web browsers.\n\"Claude Mythos Preview's larg... [3314 chars]",
+            "url": "https://www.businessinsider.com/anthropic-mythos-latest-ai-model-too-powerful-to-be-released-2026-4",
+            "image": "https://i.insider.com/69d562eaf36fd1a78c051a4a?width=1200&format=jpeg",
+            "publishedAt": "2026-04-07T20:29:36Z",
             "lang": "en",
             "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
             }
         },
         {
-            "id": "76ea43e48968a633a0b6bd7b6377958b",
-            "title": "IPL billions and the price of asymmetric capitalism",
-            "description": "The article highlights the immense financial growth and corporatisation of cricket in India..IPL viewership, cricket monetization, corporatisation of cricket, business ethics India, Gandhian economics, capitalism with a conscience, LLM impact on sports business, AI in sports viewership, sports franchise valuation, Indian business ethos, Vaibhav Suryavanshi salary, Gundappa Viswanath earnings, asymmetric capitalism India, Vikasit Bharat corporate ethics, trusteeship model India",
-            "content": "It is IPL season again, and viewership across streaming platforms has touched a staggering 52 crore. In India, cricket remains the undisputed leader—unlike football, which dominates globally. World Cup matches routinely draw upwards of 70 crore viewe... [4326 chars]",
-            "url": "https://www.onmanorama.com/news/economix/2026/04/05/ipl-cricket-viewership-growth.html",
-            "image": "https://img.onmanorama.com/content/dam/mm/en/sports/cricket/images/2025/3/22/eden-gardens-ipl-eve.jpg",
-            "publishedAt": "2026-04-06T01:09:53Z",
+            "id": "3936c813c40fa091d5e9150905a1d5dc",
+            "title": "Crypto Is Having Its AI Chatbot Moment; You’re Missing It",
+            "description": "Cryptocurrency networks (blockchains) are now quietly emerging as the future plumbing of the entire global financial system.",
+            "content": "Sorry you missed crypto’s chat GPT moment. It’s not your fault. Even if you were trying to pay attention between conversations with your favorite AI, you didn’t see it because it was invisible. The sudden arrival of conversational AI was hard to miss... [4555 chars]",
+            "url": "https://www.newsweek.com/crypto-is-having-its-ai-chatbot-moment-youre-missing-it-11793661",
+            "image": "https://www.newsweek.com/Newsweek_logo_social.jpg",
+            "publishedAt": "2026-04-07T20:18:57Z",
             "lang": "en",
             "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "ac94852399464adfa61f79e26d76e94b",
-            "title": "Crypto Presale Update: What Separates Early Investors This Cycle",
-            "description": "Get the latest Crypto Presale Update with insights on AI token growth and market trends for April 2026. Stay informed.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nAI tokens climbed 30% in a single month while every other sector bled red, and the Fear and Greed Index has not left extreme territory in over two weeks, which tells anyone paying attention that the market rewards precis... [5204 chars]",
-            "url": "https://techbullion.com/crypto-presale-update-what-separates-early-investors-this-cycle/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/04/70-1000x600.jpg",
-            "publishedAt": "2026-04-06T01:04:35Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "f0515dfc5515e438f57ef529a02bd154",
-            "title": "India evolving into core AI-play; SMIDs to drive innovation: Prateek Indwar",
-            "description": "The SmallCap and MidCap space will drive innovation as companies in this space to agile enough to build around AI-native stack, said Indwar",
-            "content": "The SmallCap and MidCap space will drive innovation as companies in this space to agile enough to build around AI-native stack, said Indwar\nPrateek Indwar of InCred Capital believes India is rapidly evolving into a core AI-play\nAnanya Chaudhuri Mumba... [4567 chars]",
-            "url": "https://www.business-standard.com/markets/news/india-evolving-into-core-ai-play-smids-to-drive-innovation-prateek-indwar-126040300194_1.html",
-            "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/03/full/1775192521-7738.jpeg",
-            "publishedAt": "2026-04-06T01:02:20Z",
-            "lang": "en",
-            "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "d6ee20483bd305a3cf4f2ec5197cb474",
-            "title": "‘Cook dinner instead of ordering in, GDP falls’: Nithin Kamath sparks debate on economic metrics",
-            "description": "In a post on X (formerly Twitter), Kamath revisited the history of GDP and argued that the world may need to rethink its reliance on the metric — especially as economies face profound shifts driven by artificial intelligence and environmental challenges.",
-            "content": "Is GDP still the right way to measure progress in the 21st century? That question has resurfaced after Nithin Kamath, founder and CEO of Zerodha, shared a detailed reflection on the origins and limitations of Gross Domestic Product, echoing concerns ... [3316 chars]",
-            "url": "https://www.businesstoday.in/latest/corporate/story/cook-dinner-instead-of-ordering-in-gdp-falls-nithin-kamath-sparks-debate-on-economic-metrics-524110-2026-04-06",
-            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202604/69d28ad1832a5-kamath-cited-remarks-from-antnio-guterres--who-recently-warned-that-the-global-economy-must-move-be-051612253-16x9.jpg",
-            "publishedAt": "2026-04-06T01:00:03Z",
-            "lang": "en",
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "bd5bcc95006f22e7fab8560d59ec5f9e",
-            "title": "IT rules have made the internet less free",
-            "description": "It is unfortunate that demands for accountability have been repeatedly deflected and changes to the IT Rules have been framed as a response to deepfakes and AI-generated misinformation.",
-            "content": "Advertisement\nThe IT Rules, 2021, were earlier expanded on February 10, compressing take-down timelines to three hours. The amendments did not contain any exemptions for parody and satire, and in many ways rekindled a fact-checking power for AI-gener... [1856 chars]",
-            "url": "https://indianexpress.com/article/opinion/columns/it-rules-have-made-the-internet-less-free-10620936/",
-            "image": "https://images.indianexpress.com/2026/04/IT-rules.jpg",
-            "publishedAt": "2026-04-06T00:49:11Z",
-            "lang": "en",
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "1976b7e207369666a297385c04422b65",
-            "title": "Power supply lessons for AI",
-            "description": "Explore how a transformer-based model enhances forecasting for India's complex power grid, revealing insights into demand and supply challenges.",
-            "content": "India’s electricity grid has long resisted the forecasting methods that work elsewhere. A recent study, ‘Indian peak power demand forecasting: Transformer-based implementation of temporal architecture’, by Vishvaditya Luhach and Shashwat Jha, applied... [3852 chars]",
-            "url": "https://www.thehindubusinessline.com/business-tech/power-supply-lessons-for-ai/article70827695.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/ihwxtx/article70827697.ece/alternates/LANDSCAPE_1200/BL0604_Quantum_Second.jpg",
-            "publishedAt": "2026-04-06T00:45:00Z",
-            "lang": "en",
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "3a8f0b71bc8e211e9691b972f91ca2ed",
-            "title": "Best Crypto Presale to Buy Now as AI Tokens Lead and Pepeto Targets 1000x",
-            "description": "Discover the best crypto presale to buy now and take advantage of high returns from confirmed listings like Pepeto.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nAI tokens grew 30% in one month to $19 billion combined while every other sector bled. This proves the market rewards specific conviction during fear. Additionally, the wallets applying that principle to presale entries ... [5326 chars]",
-            "url": "https://techbullion.com/best-crypto-presale-to-buy-now-as-ai-tokens-lead-and-pepeto-targets-1000x/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/02/best-crypto-presale-1000x600.png",
-            "publishedAt": "2026-04-06T00:44:15Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "471f6ae3be71b1554b2dc05ec0ef5173",
-            "title": "Semicon Mission 2.0 set to prioritise memory chips",
-            "description": "India's semiconductor mission is shifting focus to advanced memory packaging. High Bandwidth Memory, crucial for AI data centers, will be prioritized. This move aims to integrate India into the global manufacturing value chain for this critical technology. Officials confirm that applications for HBM production will receive precedence under the new mission phase.",
-            "content": "Synopsis\nIndia's semiconductor mission is shifting focus to advanced memory packaging. High Bandwidth Memory, crucial for AI data centers, will be prioritized. This move aims to integrate India into the global manufacturing value chain for this criti... [2455 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/technology/semicon-mission-2-0-set-to-prioritise-memory-chips/articleshow/130045533.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-137486,resizemode-75,msid-130045533/tech/technology/semicon-mission-2-0-set-to-prioritise-memory-chips.jpg",
-            "publishedAt": "2026-04-06T00:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
+                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+                "name": "Newsweek",
+                "url": "https://www.newsweek.com",
+                "country": "us"
             }
         }
     ]
