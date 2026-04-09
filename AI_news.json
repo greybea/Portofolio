@@ -4,128 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 303781,
+    "totalArticles": 304601,
     "articles": [
         {
-            "id": "13ed1514742813d3cac5f94a6539f116",
-            "title": "Project Glasswing: Tech giants unite to fix AI",
-            "description": "Anthropic and partners unveil Project Glasswing as AI models begin surpassing humans in vulnerability detection.",
-            "content": "A coalition of major technology firms has launched a new initiative to confront a rapidly escalating cybersecurity threat driven by advanced artificial intelligence.\nThe effort, called Project Glasswing, brings together companies including Amazon Web... [2763 chars]",
-            "url": "https://interestingengineering.com/ai-robotics/project-glasswing-ai-cybersecurity-initiative",
-            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Untitled-design-2026-04-08T020959.038.jpg",
-            "publishedAt": "2026-04-07T20:49:09Z",
+            "id": "bc0b4ff5f2fe5c64fa31dfaff6d156a8",
+            "title": "Researchers Propose New Way to Manage Financial Risk When AI Agents Fumble Trades",
+            "description": "A newly proposed agentic settlement standard would hold fees in escrow and bring underwriters into AI agent transactions.",
+            "content": "As AI agents begin to handle payments, financial trades, and other transactions, there’s growing concern over the financial risks that fall on the human behind the agent when those systems fail. A consortium of researchers argues that current AI safe... [2177 chars]",
+            "url": "https://decrypt.co/363727/agentic-risk-standard-ai-research-finance-trades",
+            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png",
+            "publishedAt": "2026-04-08T20:56:52Z",
             "lang": "en",
             "source": {
-                "id": "1a6c3258d04827f52d40713ad8166b1b",
-                "name": "Interesting Engineering",
-                "url": "https://interestingengineering.com",
+                "id": "6956007add5fc13a6721202ec906b1c4",
+                "name": "Decrypt",
+                "url": "https://decrypt.co",
                 "country": "us"
             }
         },
         {
-            "id": "f8203f98ffc09b50e803b2c5f9c53f2f",
-            "title": "AI will affect more than half of all U.S. jobs, analysis finds",
-            "description": "Artificial intelligence is more likely to change the nature of work than to supplant masses of workers, according to researchers.",
-            "content": "Artificial intelligence will dramatically change the nature of work, but stop short of replacing most employees, according to a recent analysis.\nOver the next three years, AI will \"reshape\" between 50% and 55% of U.S. jobs, Boston Consulting Group re... [2378 chars]",
-            "url": "https://www.cbsnews.com/sacramento/news/artificial-intelligence-ai-jobs-boston-consulting-group/",
-            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/06/17e36424-6d35-49f3-bab3-fc039eb10935/thumbnail/1200x630/72bf7bdae245f400a09786e9431ce726/gettyimages-2194273729.jpg",
-            "publishedAt": "2026-04-07T20:42:00Z",
+            "id": "77bcb6270402c9e4c10fa31bcd6c7211",
+            "title": "No Real People Were Polled: AI Is Now Fabricating What \"The Public Thinks\"",
+            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+            "content": "The other day Axios ran a piece that cited \"findings\" that a majority of people trusted their doctors and nurses. Turns out, those \"findings\" were completely fabricated by a company called Aaru - using AI (causing Axios to issue an editor's note and ... [4047 chars]",
+            "url": "https://www.zerohedge.com/political/no-real-people-were-polled-ai-now-fabricating-what-public-thinks",
+            "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-04/gay-robot-0ba0e189-1ad6-49bf-b685-9374d2547ca-resize-750_80.jpg?itok=MhkChHMm",
+            "publishedAt": "2026-04-08T20:40:00Z",
             "lang": "en",
             "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
+                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+                "name": "ZeroHedge",
+                "url": "https://www.zerohedge.com",
                 "country": "us"
             }
         },
         {
-            "id": "d4eb3ecd970ed8fa1f82644e2ce08d05",
-            "title": "AI will affect more than half of all U.S. jobs, analysis finds",
-            "description": "Artificial intelligence is more likely to change the nature of work than to supplant masses of workers, according to researchers.",
-            "content": "Artificial intelligence will dramatically change the nature of work, but stop short of replacing most employees, according to a recent analysis.\nOver the next three years, AI will \"reshape\" between 50% and 55% of U.S. jobs, Boston Consulting Group re... [2378 chars]",
-            "url": "https://www.cbsnews.com/texas/news/artificial-intelligence-ai-jobs-boston-consulting-group/",
-            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/06/17e36424-6d35-49f3-bab3-fc039eb10935/thumbnail/1200x630/72bf7bdae245f400a09786e9431ce726/gettyimages-2194273729.jpg",
-            "publishedAt": "2026-04-07T20:42:00Z",
+            "id": "216dee4490bdde5fdad83be19a0b6d64",
+            "title": "A Rare Investment Opportunity: The AI Stock I'd Most Want to Buy Right Now",
+            "description": "Get insights into the future of AI stock as new technologies emerge and traditional players adapt in the market.",
+            "content": "Anything with the word artificial intelligence (AI) is minting money. Many analysts fear that an AI bubble is about to burst, as the returns it is generating so far do not justify the money being invested in AI infrastructure. Now, AI is not a hardwa... [2958 chars]",
+            "url": "https://www.fool.ca/2026/04/08/a-rare-investment-opportunity-the-ai-stock-id-most-want-to-buy-right-now/",
+            "image": "https://www.fool.ca/wp-content/uploads/2025/10/gettyimages-1402452876-2-1200x675.jpg",
+            "publishedAt": "2026-04-08T20:40:00Z",
             "lang": "en",
             "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
+                "id": "19d1f502a5658ccbfaaa50f77b89993f",
+                "name": "The Motley Fool Canada",
+                "url": "https://www.fool.ca",
+                "country": "ca"
             }
         },
         {
-            "id": "49e1d0d9ec942fcff4782400d0c8745d",
-            "title": "AI will affect more than half of all U.S. jobs, analysis finds",
-            "description": "Artificial intelligence is more likely to change the nature of work than to supplant masses of workers, according to researchers.",
-            "content": "Artificial intelligence will dramatically change the nature of work, but stop short of replacing most employees, according to a recent analysis.\nOver the next three years, AI will \"reshape\" between 50% and 55% of U.S. jobs, Boston Consulting Group re... [2378 chars]",
-            "url": "https://www.cbsnews.com/news/artificial-intelligence-ai-jobs-boston-consulting-group/",
-            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/06/17e36424-6d35-49f3-bab3-fc039eb10935/thumbnail/1200x630/72bf7bdae245f400a09786e9431ce726/gettyimages-2194273729.jpg",
-            "publishedAt": "2026-04-07T20:42:00Z",
+            "id": "ef727df1034ebd279fabcc0f0592b4e6",
+            "title": "XMax Advances AI Strategy Through Development and Deployment of An AI Inference Platform",
+            "description": "LOS ANGELES, April 08, 2026 (GLOBE NEWSWIRE) -- XMax Inc. (NASDAQ: XWIN) ('XMax” or the 'Company”) today announced a key milestone in its artificial intelligence ('AI”) strategy with the deployment of an AI inference platform, further advancing its expansion toward a software-driven and platform-based AI business.",
+            "content": "LOS ANGELES, April 08, 2026 (GLOBE NEWSWIRE) -- XMax Inc. (NASDAQ: XWIN) (\"XMax” or the \"Company”) today announced a key milestone in its artificial intelligence (\"AI”) strategy with the deployment of an AI inference platform, further advancing its e... [4663 chars]",
+            "url": "https://www.manilatimes.net/2026/04/09/tmt-newswire/globenewswire/xmax-advances-ai-strategy-through-development-and-deployment-of-an-ai-inference-platform/2316826",
+            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/09/1006157.jpg",
+            "publishedAt": "2026-04-08T20:38:39Z",
             "lang": "en",
             "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "465e1012ab94278b837f7ab176808426",
-            "title": "How a Catholic Sister Podcast Became a TikTok Sensation",
-            "description": "No, they're not AI and they're not nuns. Meet the viral sisters from 'Dominican Sisters Open Mic' podcast that's become a TikTok sensation",
-            "content": "Somewhere in a Michigan recording studio, a group of Dominican sisters are making a podcast. Millions of people on TikTok have found it. The sisters themselves? They have almost no idea.\nMembers of the Dominican Sisters of Mary, Mother of the Euchari... [3000 chars]",
-            "url": "https://www.usmagazine.com/entertainment/news/how-a-catholic-sister-podcast-became-a-tiktok-sensation/",
-            "image": "https://www.usmagazine.com/wp-content/uploads/2026/04/dominic-sisters-open-mic-podcast-tiktok.jpg?w=1200&h=630&crop=1&quality=86&strip=all",
-            "publishedAt": "2026-04-07T20:37:34Z",
+            "id": "36d04228fa7e919d746f2370956d565d",
+            "title": "Toronto could get Canada's first 'virtual gated community' using controversial tech",
+            "description": "Rosedale residents are considering an AI-powered surveillance system amid a surge of break-ins.",
+            "content": "Toronto could become home to what’s being described as Canada’s first-ever “virtual gated community.”\nAccording to The Guardian, Rosedale residents are considering implementing an AI-powered surveillance system in an effort to curb a rise in local br... [2428 chars]",
+            "url": "https://mobilesyrup.com/2026/04/08/toronto-canada-first-ever-virtual-gated-community/",
+            "image": "https://production-static.mobilesyrup.com/uploads/2026/04/flock-camera-scaled.jpg",
+            "publishedAt": "2026-04-08T20:33:06Z",
             "lang": "en",
             "source": {
-                "id": "979e74ee88ce49ccc427aa90ec068196",
-                "name": "Us Weekly",
-                "url": "https://www.usmagazine.com",
-                "country": "us"
+                "id": "065af1b88f232671921c1449e7a0035e",
+                "name": "MobileSyrup",
+                "url": "https://mobilesyrup.com",
+                "country": "ca"
             }
         },
         {
-            "id": "9e3aaa104b3b1d6ee54951ba21ccfc88",
-            "title": "Japan turns cargo ships into floating data centers as Hitachi backs ambitious plan to ease land shortages and rising AI demand",
-            "description": "Old cargo ships could soon host large-scale AI computing systems",
-            "content": "Floating data centers move closer as Hitachi backs ship conversion plan\nJapan explores offshore computing to bypass land shortages and infrastructure limits\nSeawater cooling offers efficiency gains while introducing new engineering complications\nA fl... [2966 chars]",
-            "url": "https://www.techradar.com/pro/floating-data-centers-cruise-a-bit-closer-after-a-major-show-of-support-from-japanese-giant-hitachi",
-            "image": "https://cdn.mos.cms.futurecdn.net/GqDUFQamZMATQXgLgZCVUV-1920-80.jpg",
-            "publishedAt": "2026-04-07T20:35:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "567708e3f8b0da63fbe2837d545346a5",
-            "title": "\"Video games are cooked\": Publisher head says \"it doesn't matter\" how many of us hate gen AI, Pandora's box has opened and \"it's gonna get used now\"",
-            "description": "Kinda gives me the ick to look at gen AI art",
-            "content": "Mike Rose, founder of indie publisher No More Robots, which is perhaps best known for the likes of Yes, Your Grace and Descenders, likens the spread of generative AI use in games to the opening of Pandora's box. Simply put, we ain't getting the lid b... [3186 chars]",
-            "url": "https://www.gamesradar.com/games/video-games-are-cooked-publisher-head-says-it-doesnt-matter-how-many-of-us-hate-gen-ai-pandoras-box-has-opened-and-its-gonna-get-used-now/",
-            "image": "https://cdn.mos.cms.futurecdn.net/fTsQLW46Jk3EgL7iUgRUbJ-1920-80.jpg",
-            "publishedAt": "2026-04-07T20:33:42Z",
-            "lang": "en",
-            "source": {
-                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
-                "name": "GamesRadar+",
-                "url": "https://www.gamesradar.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "45a0fd61e6535dd791834749a4cd62b1",
-            "title": "Mumbai Cyber Cell Arrests Jalna Youth For AI-Generated Defamatory Video Targeting CM Devendra Fadnavis & Ajit Pawar Plane Crash",
-            "description": "Police arrested Jalna resident Uddhav Bhagwan Kapse for allegedly creating an AI-generated video defaming CM Devendra Fadnavis and misrepresenting a plane crash involving Ajit Pawar. The video, which gained 1.5 lakh views, was later deleted. Kapse was remanded to custody till April 10 as police probe possible links and support behind the content.",
-            "content": "Mumbai: The Cyber Cell of the Western Regional Division Police has arrested a youth from Jalna for allegedly creating and circulating an objectionable video on social media that defamed Maharashtra's Chief Minister Devendra Fadnavis and spread mislea... [2382 chars]",
-            "url": "https://www.freepressjournal.in/mumbai/mumbai-cyber-cell-arrests-jalna-youth-for-ai-generated-defamatory-video-targeting-cm-devendra-fadnavis-ajit-pawar-plane-crash",
-            "image": "https://media.assettype.com/freepressjournal/2026-02-23/p39abl9r/Untitled-design-2026-02-23T205806.356.jpg",
-            "publishedAt": "2026-04-07T20:29:59Z",
+            "id": "f07c1584efa55c0b42413a9e8300f109",
+            "title": "MP News: AI-Powered System To Feature Criminal Profiling, Predictive Policing And 20-language Translation",
+            "description": "MP is set to roll out CCTNS 2.0, an AI-powered upgrade of the existing police tracking system. The platform will enable criminal profiling, link cases to suspects, predict crime-prone areas, and assist in traffic and surveillance management. FIRs and court warrants will be instantly accessible, with translation support in 20 languages, improving police efficiency and coordination with courts.",
+            "content": "Bhopal (Madhya Pradesh): The Crime and Criminal Tracking Network and Systems (CCTNS) 2.0, set to be introduced in police stations soon, will be smarter and faster.\nThe new system will improve coordination between the police and courts and streamline ... [2749 chars]",
+            "url": "https://www.freepressjournal.in/bhopal/mp-news-ai-powered-system-to-feature-criminal-profiling-predictive-policing-and-20-language-translation",
+            "image": "https://media.assettype.com/freepressjournal/2026-04-08/koy47cn3/Police.png",
+            "publishedAt": "2026-04-08T20:30:00Z",
             "lang": "en",
             "source": {
                 "id": "7eeaf9a839918543cc708f2d331c3be4",
@@ -135,35 +103,67 @@
             }
         },
         {
-            "id": "d65be6b2dd041129c66a43e40c0773a1",
-            "title": "Anthropic Says Its Latest AI Model Is Too Powerful to Be Released",
-            "description": "Anthropic said Claude Mythos is too good at hacking and that's why you won't be able to use it anytime soon.",
-            "content": "Anthropic said on Tuesday that it has halted the broader release of its newest AI model, Mythos, due to concerns that it is too good at finding \"high-severity vulnerabilities\" in major operating systems and web browsers.\n\"Claude Mythos Preview's larg... [3314 chars]",
-            "url": "https://www.businessinsider.com/anthropic-mythos-latest-ai-model-too-powerful-to-be-released-2026-4",
-            "image": "https://i.insider.com/69d562eaf36fd1a78c051a4a?width=1200&format=jpeg",
-            "publishedAt": "2026-04-07T20:29:36Z",
+            "id": "de45e23a110355306437c781084f4b35",
+            "title": "Applied Digital Delivers Strong Q3 Results, Sees 'Clear Acceleration' In AI Data Center Demand",
+            "description": "Applied Digital Corp (NASDAQ:APLD) reports financial results for the third quarter of fiscal 2026 after the market close on Wednesday.",
+            "content": "Applied Digital shares are trending after earnings. What’s driving APLD stock?\nApplied Digital Q3 Highlights\nTotal revenue was up 139% on a year-over-year basis, primarily driven by growth in the company’s HPC hosting business combined with performan... [1634 chars]",
+            "url": "https://www.benzinga.com/markets/earnings/26/04/51719229/applied-digital-delivers-strong-q3-results-sees-clear-acceleration-in-ai-data-center-demand",
+            "image": "https://cdn.benzinga.com/files/images/story/2026/04/08/The-Applied-Digital-Corporation-Logo-Is-_0.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-04-08T20:27:26Z",
             "lang": "en",
             "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
                 "country": "us"
             }
         },
         {
-            "id": "3936c813c40fa091d5e9150905a1d5dc",
-            "title": "Crypto Is Having Its AI Chatbot Moment; You’re Missing It",
-            "description": "Cryptocurrency networks (blockchains) are now quietly emerging as the future plumbing of the entire global financial system.",
-            "content": "Sorry you missed crypto’s chat GPT moment. It’s not your fault. Even if you were trying to pay attention between conversations with your favorite AI, you didn’t see it because it was invisible. The sudden arrival of conversational AI was hard to miss... [4555 chars]",
-            "url": "https://www.newsweek.com/crypto-is-having-its-ai-chatbot-moment-youre-missing-it-11793661",
-            "image": "https://www.newsweek.com/Newsweek_logo_social.jpg",
-            "publishedAt": "2026-04-07T20:18:57Z",
+            "id": "a33b101ff76e141947d32ae72ed0f510",
+            "title": "Anthropic's 'Claude Mythos' model sparks fears of AI doomsday, wave of devastating hacks",
+            "description": "Anthropic has triggered alarm bells by touting the terrifying capabilities of “Claude Mythos” – with executives warning the new AI model is so dangerous that it would cause a wave of catastrophic hacks and terror attacks if it was released to the wider public.",
+            "content": "Anthropic has triggered alarm bells by touting the terrifying capabilities of “Claude Mythos” – with executives warning that the new AI model is so dangerous it would cause a wave of catastrophic hacks and terror attacks if released to the wider publ... [4826 chars]",
+            "url": "https://nypost.com/2026/04/08/business/anthropics-claude-mythos-model-sparks-fears-of-ai-doomsday-wave-of-devastating-hacks/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/125251021.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-04-08T20:27:26Z",
             "lang": "en",
             "source": {
-                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
-                "name": "Newsweek",
-                "url": "https://www.newsweek.com",
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
                 "country": "us"
+            }
+        },
+        {
+            "id": "d6b1e8701640d7efa05153a9572d52d7",
+            "title": "NASCAR Appoints First AI Director as Richard Bowman Steps Into Leadership Role",
+            "description": "NASCAR names Richard Bowman as its first AI Director, signaling a major step toward using artificial intelligence across racing operations",
+            "content": "In a move that shows how technology is shaping the future of stock car racing, NASCAR has named its first Director of Artificial Intelligence. Richard Bowman, who joined the organization in January 2026 as an AI Operations Specialist, has been promot... [2974 chars]",
+            "url": "https://heavy.com/sports/nascar/nascar-appoints-first-ai-director-richard-bowman-leadership-role/",
+            "image": "https://heavy.com/wp-content/uploads/2026/04/GettyImages-2210099386.jpg?quality=65&strip=all&w=780",
+            "publishedAt": "2026-04-08T20:22:11Z",
+            "lang": "en",
+            "source": {
+                "id": "cfda09234da4b4ff42f8876ac13e4be2",
+                "name": "Heavy.",
+                "url": "https://heavy.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "4dd67fc678696c9dd56c2af70ce41113",
+            "title": "Applied Digital beats quarterly revenue estimates on surging AI infrastructure demand",
+            "description": "Applied Digital on\nWednesday beat estimates for quarterly revenue, driven by strong\ndemand for its data center services from enterprises to support\na boom in generative AI applications.\n...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/applied-digital-beats-quarterly-revenue-estimates-on-surging-ai-infrastructure-demand-ce7e50dbdb8cf426",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-04-08T20:17:38Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         }
     ]
