@@ -4,16 +4,80 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 305627,
+    "totalArticles": 306526,
     "articles": [
         {
-            "id": "b98ee9aaa777c12a15b68e269aa73a68",
-            "title": "Celestica: Mr. Market Gives Us A Perfect Opportunity To Load Up (Upgrade)",
-            "description": "Celestica Inc. looks set for sustained growth on hyperscaler AI capex, rising CCS/HPS margins and a tightening valuation gap. Click for this CLS stock update.",
-            "content": "Celestica: Mr. Market Gives Us A Perfect Opportunity To Load Up (Upgrade)\nHunting Alphas\n7.9K Followers\nComment\n(1)\nSummary\nCelestica Inc. is positioned for sustained growth, driven by hyperscaler demand and major AI capex from key customers like Alp... [3754 chars]",
-            "url": "https://seekingalpha.com/article/4889627-celestica-mr-market-gives-us-a-perfect-opportunity-to-load-up-upgrade",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2215562625/image_2215562625.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-04-09T20:55:03Z",
+            "id": "883fda522eae519935751ddd88520c3a",
+            "title": "IMF chief concerned about cybersecurity risks posed by Anthropic's AI model Mythos: \"Time is not our friend\"",
+            "description": "Kristalina Georgieva, the head of the International Monetary Fund, called on key institutions to work together to manage cybersecurity risks.",
+            "content": "Washington — The head of the International Monetary Fund said she is concerned about a powerful new AI model from Anthropic that poses major cybersecurity risks, warning \"time is not our friend on this one.\"\nKristalina Georgieva, the IMF's managing d... [1964 chars]",
+            "url": "https://www.cbsnews.com/news/kristalina-georgieva-imf-ai-anthropic-face-the-nation/",
+            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/10/62c8e5a4-0459-4600-bb99-f93c4d9805e9/thumbnail/1200x630/572386b94ddf54623cbfd9b4e9dea96a/kristalina-georgieva.png",
+            "publishedAt": "2026-04-10T20:27:00Z",
+            "lang": "en",
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "b924ccd0e1e05f31ae1ce5937d69f2d4",
+            "title": "Bank Leaders Warned of Cyber Threats by New AI Model",
+            "description": "U.S. Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell held a critical meeting with major bank CEOs to discuss cyber risks linked to Anthropic's new AI model, Mythos. The meeting emphasized potential vulnerabilities and the need for banks to fortify their systems against cyber threats. The AI model has not been widely released due to these concerns.",
+            "content": "In response to growing cyber threats, U.S. Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell convened a high-level meeting this week with banking executives to discuss the implications of Anthropic's latest AI model, Mythos. Wh... [953 chars]",
+            "url": "https://www.devdiscourse.com/article/technology/3869991-bank-leaders-warned-of-cyber-threats-by-new-ai-model",
+            "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/03_07_2024_09_41_13_5624806.png?width=920&format=jpeg",
+            "publishedAt": "2026-04-10T20:26:56Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "f03e7544112fba608432e7e78314cf37",
+            "title": "China’s state media turns to social media and AI to tell its story - and often mock the US",
+            "description": "The messaging from China’s Communist government may once have been rigid, but not anymore China’s state media turns to social media and AI to",
+            "content": "The messaging from China’s Communist government may once have been rigid, but not anymore\nChina’s state media turns to social media and AI to tell its story — and often mock the USBy DIDI TANG and E. EDUARDO CASTILLOAssociated PressThe Associated Pre... [5513 chars]",
+            "url": "https://www.breitbart.com/news/chinas-state-media-turns-to-social-media-and-ai-to-tell-its-story-and-often-mock-the-us/",
+            "image": "https://media.breitbart.com/media/2026/04/wi/ap/china-ai-propaganda-video-15-49-china-ai-propaganda-video-an-ai-viral-animation-released-by-chinese-640x335.jpg",
+            "publishedAt": "2026-04-10T20:18:39Z",
+            "lang": "en",
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "3c587417f4ee602d30d6b89c6b15d893",
+            "title": "Vance, Bessent questioned tech giants on AI security before Anthropic's Mythos release - CNBC",
+            "description": "April 10 -\nVance, Bessent questioned tech giants on AI security before Anthropic's Mythos release - CNBC\nAnthropic's Amodei, Google's Pichai, OpenAI's Altman, Microsoft's Nadella and heads of...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/vance-bessent-questioned-tech-giants-on-ai-security-before-anthropic-s-mythos-release-cnbc-ce7e50d9da89f121",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-04-10T20:14:25Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "8d266e824c0aa60a5b6d7e2fda3ce57b",
+            "title": "Bank of Canada, major banks discuss Anthropic AI cyber risk - report",
+            "description": "Bank of Canada meets top banks on Anthropic Mythos AI cybersecurity risks, as regulators worry about new cyberattacks on financial firms—read now.",
+            "content": "Bank of Canada, major banks discuss Anthropic AI cyber risk - report\nComments\nThe Bank of Canada and the country's major lenders and financial firms met on Friday to discuss cybersecurity risks associated with Anthropic PBC's (ANTHRO) newest artifici... [253 chars]",
+            "url": "https://seekingalpha.com/news/4574150-bank-of-canada-major-banks-discuss-anthropic-ai-cyber-risk-report",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1834196626/image_1834196626.jpg?io=getty-c-w630",
+            "publishedAt": "2026-04-10T20:06:01Z",
             "lang": "en",
             "source": {
                 "id": "a6d401909ca644c4ffb332486c9cfaea",
@@ -23,146 +87,82 @@
             }
         },
         {
-            "id": "1106f34ababaee545ef4753589c9a42c",
-            "title": "AI news Perplexity jumps 50% after one big change",
-            "description": "AI news today: Perplexity's annual revenue hit $450M after it launched AI agents and switched to usage-based pricing in a single month.",
-            "content": "The AI news out of Perplexity this week confirmed what many had been watching build since February: the company’s annual recurring revenue hit $450 million in March, a 50 percent jump in a single month, after it launched an AI agents product called C... [2120 chars]",
-            "url": "https://crypto.news/ai-news-perplexity-jumps-50-after-one-big-change/",
-            "image": "https://crypto.news/app/uploads/2024/02/crypto-news-artificial-intelligence-blockchain-option03.webp",
-            "publishedAt": "2026-04-09T20:55:00Z",
+            "id": "92e1360acdd95e022aa8c9fbf91556d4",
+            "title": "Eight Things You Should Never Share With an AI Chatbot",
+            "description": "If you wouldn't send a document or repeat information to someone you don't know, you shouldn't include it in a chatbot prompt either.",
+            "content": "It probably goes without saying at this point, but your conversations with AI chatbots aren't private—everything you type or upload to Gemini, ChatGPT, and other models might be read and used in a variety of ways. If you wouldn't send a document or r... [3762 chars]",
+            "url": "https://lifehacker.com/tech/what-not-to-share-with-ai-chatbot",
+            "image": "https://lifehacker.com/imagery/articles/01KNM9495JATZBSH4ED1G3FK4A/hero-image.fill.size_1200x675.png",
+            "publishedAt": "2026-04-10T20:00:00Z",
             "lang": "en",
             "source": {
-                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
-                "name": "Crypto News",
-                "url": "https://crypto.news",
-                "country": "lt"
-            }
-        },
-        {
-            "id": "b607cdecccf1869b7e23fda6b61923b6",
-            "title": "AI data center project breaks ground near Abernathy",
-            "description": "Aligned Data Centers broke ground on Project Caprock, an AI data center near Abernathy, with a $5 billion economic impact.",
-            "content": "An AI data center has broken ground outside of Abernathy, according to a company news release issued Thursday.\nAligned Data Centers, a developer and operator of data centers, officially broke ground on Project Caprock. The project will cover 313 acre... [1811 chars]",
-            "url": "https://www.lubbockonline.com/story/business/2026/04/09/project-caprock-ai-data-center-begins-near-abernathy-hale-county-aligned/89539818007/",
-            "image": "https://www.lubbockonline.com/gcdn/authoring/authoring-images/2026/04/09/NLAJ/89539986007-lbb-abernathy-aerial-view-03-1.jpg?crop=3299,1855,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2026-04-09T20:52:57Z",
-            "lang": "en",
-            "source": {
-                "id": "875c76cd4e7723e023a9156087e736f0",
-                "name": "Lubbock Avalanche-Journal",
-                "url": "https://www.lubbockonline.com",
+                "id": "5240ef9173881b8031afe68dcbb2f7a3",
+                "name": "Lifehacker",
+                "url": "https://lifehacker.com",
                 "country": "us"
             }
         },
         {
-            "id": "8fa7d55945466121f337ba3c91120d2c",
-            "title": "AI data center project breaks ground near Abernathy",
-            "description": "Aligned Data Centers broke ground on Project Caprock, an AI data center near Abernathy, with a $5 billion economic impact.",
-            "content": "An AI data center has broken ground outside of Abernathy, according to a company news release issued Thursday.\nAligned Data Centers, a developer and operator of data centers, officially broke ground on Project Caprock. The project will cover 313 acre... [1811 chars]",
-            "url": "https://www.amarillo.com/story/business/2026/04/09/project-caprock-ai-data-center-begins-near-abernathy-hale-county-aligned/89539818007/",
-            "image": "https://www.amarillo.com/gcdn/authoring/authoring-images/2026/04/09/NLAJ/89539986007-lbb-abernathy-aerial-view-03-1.jpg?crop=3299,1855,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2026-04-09T20:52:57Z",
-            "lang": "en",
-            "source": {
-                "id": "8f37a64b68c7121abda09f27bd21bd68",
-                "name": "Amarillo Globe-News",
-                "url": "https://www.amarillo.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "d37d54be161f5431467666f394f60b28",
-            "title": "Gadgets: A great headset",
-            "description": "BlueParrott’s new M500-XT Bluetooth headset is designed for both professional and day-to-day use, with endless features including AI-powered noise cancellation. The single-piece headset has hands-free cell phone call quality as good as I’ve experienced, along with probably the most important feature: comfort, designed for extended wear. It's designed to be worn on either ear and weighs less ...",
-            "content": "By Gregg Ellman, Tribune News Service\nBlueParrott’s new M500-XT Bluetooth headset is designed for both professional and day-to-day use, with endless features including AI-powered noise cancellation.\nThe single-piece headset has hands-free cell phone ... [4607 chars]",
-            "url": "https://www.baltimoresun.com/2026/04/09/gadgets-a-great-headset-2/",
-            "image": "https://www.baltimoresun.com/wp-content/uploads/2026/04/202604080400MCT_____SS_PACK__PLG-GADGETS-2-MCT_c2fd95.jpg?w=1024&h=819",
-            "publishedAt": "2026-04-09T20:52:38Z",
-            "lang": "en",
-            "source": {
-                "id": "3271eb2093cfa66b030a37cf84a8df5e",
-                "name": "Baltimore Sun",
-                "url": "https://www.baltimoresun.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "be1ce6bee667ab1d856bf9cd412bee23",
-            "title": "OpenAI To Launch Cybersecurity Model To Rival Anthropic's Claude Mythos",
-            "description": "OpenAI is planning to launch a cybersecurity model that rivals Anthropic's cybersecurity artificial intelligence model, Claude Mythos Preview.",
-            "content": "OpenAI is planning to launch a cybersecurity model that rivals Anthropic's cybersecurity artificial intelligence model, Claude Mythos.\nThe AI cybersecurity model, designed to work with advanced hacking and defensive capabilities, will be released to ... [1891 chars]",
-            "url": "https://www.benzinga.com/markets/private-markets/26/04/51745457/openai-to-launch-cybersecurity-model-to-rival-anthropics-claude-mythos",
-            "image": "https://cdn.benzinga.com/files/images/story/2026/04/09/Illustrative-Editorial-Of-Openai-Logo-On_0.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2026-04-09T20:50:26Z",
-            "lang": "en",
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "f15ba090b36f8754c542ce2ccb94a3b9",
-            "title": "HeyGen Avatar V clones faces in 15 seconds",
-            "description": "Latest AI news: HeyGen's Avatar V builds a digital twin from a 15-second clip and generates studio-quality video in 175 languages",
-            "content": "The latest AI video tool to go viral this week is HeyGen’s Avatar V, announced April 8 with 472,000 views on X, which builds a photorealistic digital twin of a user’s face, voice, and gestures from a single 15-second webcam recording and then generat... [2165 chars]",
-            "url": "https://crypto.news/latest-ai-heygen-avatar-v-clones-faces-in-15-seconds/",
-            "image": "https://crypto.news/app/uploads/2023/11/crypto-news-hologram-artificial-intelligence-blurry-epic-art-background-neon-colors01.webp",
-            "publishedAt": "2026-04-09T20:50:00Z",
-            "lang": "en",
-            "source": {
-                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
-                "name": "Crypto News",
-                "url": "https://crypto.news",
-                "country": "lt"
-            }
-        },
-        {
-            "id": "6d0caa73ac00a6756304a61a26bcf949",
-            "title": "As Amazon Takes on Chipmakers, Should You Buy AMZN Stock Here?",
-            "description": "Amazon stock pushed higher as the company revealed plans of selling AI chips and announces $25 billion data center investment in Mississippi. Here’s why these updates warrant buying AMZN shares.",
-            "content": "Amazon (AMZN) shares ripped higher on Thursday after CEO Andy Jassy said the company could start selling artificial intelligence (AI) chips directly to third parties.\nAdding to momentum on April 9 was Amazon's $25 billion commitment to data center ex... [2601 chars]",
-            "url": "https://www.barchart.com/story/news/1230176/as-amazon-takes-on-chipmakers-should-you-buy-amzn-stock-here",
-            "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20A%20-%20I)/Amazon%20-%20Image%20by%20bluestork%20via%20Shutterstock.jpg",
-            "publishedAt": "2026-04-09T20:49:00Z",
-            "lang": "en",
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "bde358859bfce4576955caf91db62e06",
-            "title": "YouTube just eliminated the need to ever film yourself to star in your own videos",
-            "description": "Google is betting you'd rather let AI do the filming.",
-            "content": "YouTube just introduced a feature that lets you build an AI avatar of yourself for Shorts, and while that sounds exciting at first, there's a bit more going on here than a flashy demo might suggest.\nHow YouTube's new AI avatar feature works\nThe proce... [856 chars]",
-            "url": "https://www.phonearena.com/news/youtube-just-eliminated-the-need-to-ever-film-yourself-to-star-in-your-own-videos_id179586",
-            "image": "https://m-cdn.phonearena.com/images/article/179586-wide-two_1200/YouTube-just-eliminated-the-need-to-ever-film-yourself-to-star-in-your-own-videos.jpg",
-            "publishedAt": "2026-04-09T20:48:54Z",
-            "lang": "en",
-            "source": {
-                "id": "82dc94c51bef044035e3d16ef869c7a8",
-                "name": "PhoneArena",
-                "url": "https://www.phonearena.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "db0482b4bf9deed64029b663d176a85d",
-            "title": "AI Capex Surge, Bottlenecks, And The Race For ROI",
-            "description": "Two of Seeking Alpha's top tech analysts, Amrita Roy and Uttam Dey, share how they approach the sector.",
-            "content": "Listen here or on the go via Apple Podcasts and Spotify\nTwo of Seeking Alpha's top tech analysts, Amrita Roy and Uttam Dey, share how they approach the sector (1:00) ROI on AI capex; hyperscalers, optical connectivity and memory (11:45) Lumentum bull... [45680 chars]",
-            "url": "https://seekingalpha.com/article/4889636-ai-capex-surge-bottlenecks-and-the-race-for-roi",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187976145/image_2187976145.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-04-09T20:45:00Z",
+            "id": "043c466f240dc6979bfaaa6425c1e663",
+            "title": "The Magnificent 7 Broke - That's Exactly Why I'm Buying",
+            "description": "Mag 7 tech faces valuation pressure as AI CapEx reshapes returns. Click for what this may mean for the overall market and why I have turned bullish.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of SPX, NDX, NVDA, AAPL, META, GOOGL, MSFT, AMZN either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I ... [720 chars]",
+            "url": "https://seekingalpha.com/article/4889913-magnificent-7-broke-thats-exactly-why-im-buying",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1299608261/image_1299608261.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-04-10T19:55:50Z",
             "lang": "en",
             "source": {
                 "id": "a6d401909ca644c4ffb332486c9cfaea",
                 "name": "Seeking Alpha",
                 "url": "https://seekingalpha.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "17d13ed90bb3af737a5ce50150d57f6d",
+            "title": "From ‘BuddhaBot’ to $1.99 chats with AI Jesus, the faith-based tech boom is here",
+            "description": "CAMARILLO, Calif. — For some evangelical Christians, faith is about having a personal relationship with Jesus. At $1.99 per minute, the tech company Just Like Me is taking that concept to a new level. Users of the platform can join video calls with an avatar of Jesus generated by artificial",
+            "content": "CAMARILLO, Calif. — For some evangelical Christians, faith is about having a personal relationship with Jesus. At $1.99 per minute, the tech company Just Like Me is taking that concept to a new level.\nUsers of the platform can join video calls with a... [7463 chars]",
+            "url": "https://triblive.com/news/world/from-buddhabot-to-1-99-chats-with-ai-jesus-the-faith-based-tech-boom-is-here/",
+            "image": "https://assets-varnish.triblive.com/2026/04/9471973_web1_9471973-7e46b3f0879f42db9033ef9948c6b4cc.jpg",
+            "publishedAt": "2026-04-10T19:54:56Z",
+            "lang": "en",
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "59dbe262472599066d73a9c48fa60fc8",
+            "title": "RBI's Utkarsh 2.0 places focus on better service",
+            "description": "The plan places emphasis on improving customer service and financial inclusion, alongside efforts to strengthen market infrastructure and pricing transparency, particularly in government securities. Technology adoption, including artificial intelligence and digitalisation of internal processes, is expected to play a central role.",
+            "content": "Synopsis\nThe plan places emphasis on improving customer service and financial inclusion, alongside efforts to strengthen market infrastructure and pricing transparency, particularly in government securities. Technology adoption, including artificial ... [1690 chars]",
+            "url": "https://economictimes.indiatimes.com/news/economy/finance/rbis-utkarsh-2-0-places-focus-on-better-service/articleshow/130179611.cms",
+            "image": "https://img.etimg.com/thumb/msid-130179610,width-1200,height-630,imgsize-68204,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-04-10T19:53:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "a686977028f1a68642a3ccf4549b18e8",
+            "title": "Fallout co-creator Tim Cain is \"looking forward\" to generative AI for games, TV, and his doctor appointments in dire predictions: \"Like a game and you want more content? It'll just generate it\"",
+            "description": "Like a game but think it's got a weak storyline? Change it",
+            "content": "Fallout co-creator Tim Cain says a world where AI generates games, TV shows, and even doctor's appointments is inevitable, and he's even \"looking forward\" to that future.\nIn arguably the veteran game developer's saddest \"fun Friday\" video ever, Cain ... [6932 chars]",
+            "url": "https://www.gamesradar.com/games/fallout/fallout-co-creator-tim-cain-is-looking-forward-to-generative-ai-for-games-tv-and-his-doctor-appointments-in-dire-predictions-like-a-game-and-you-want-more-content-itll-just-generate-it/",
+            "image": "https://cdn.mos.cms.futurecdn.net/N2SSV4RrE52JzPSJ8k3Fef-1920-80.jpg",
+            "publishedAt": "2026-04-10T19:51:41Z",
+            "lang": "en",
+            "source": {
+                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
+                "name": "GamesRadar+",
+                "url": "https://www.gamesradar.com",
                 "country": "us"
             }
         }
