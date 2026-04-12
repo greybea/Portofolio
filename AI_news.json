@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 306526,
+    "totalArticles": 306914,
     "articles": [
         {
-            "id": "883fda522eae519935751ddd88520c3a",
-            "title": "IMF chief concerned about cybersecurity risks posed by Anthropic's AI model Mythos: \"Time is not our friend\"",
-            "description": "Kristalina Georgieva, the head of the International Monetary Fund, called on key institutions to work together to manage cybersecurity risks.",
-            "content": "Washington — The head of the International Monetary Fund said she is concerned about a powerful new AI model from Anthropic that poses major cybersecurity risks, warning \"time is not our friend on this one.\"\nKristalina Georgieva, the IMF's managing d... [1964 chars]",
-            "url": "https://www.cbsnews.com/news/kristalina-georgieva-imf-ai-anthropic-face-the-nation/",
-            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/10/62c8e5a4-0459-4600-bb99-f93c4d9805e9/thumbnail/1200x630/572386b94ddf54623cbfd9b4e9dea96a/kristalina-georgieva.png",
-            "publishedAt": "2026-04-10T20:27:00Z",
+            "id": "e30693aeb20be2595ac53d11648d5042",
+            "title": "What Gemini features you get with Google AI Pro [Feb 2026]",
+            "description": "At I/O 2025, Google One AI Premium (and Gemini Advanced) became Google AI Pro, while a more expensive tier was introduced with AI Ultra.",
+            "content": "At I/O 2025, Google One AI Premium (and Gemini Advanced) became “Google AI Pro,” while a higher, more expensive tier was introduced with “Google AI Ultra.”\nUpdated 4/11/26\nFree\nFast (3 Flash): “General access”\nThinking (3 Flash): “Basic access – dail... [9199 chars]",
+            "url": "https://9to5google.com/2026/04/11/google-ai-pro-ultra-features/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Google-One-AI-plans.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-04-11T20:35:00Z",
             "lang": "en",
             "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
+                "id": "151292b021d31d91d452f04b0b225727",
+                "name": "9to5Google",
+                "url": "https://9to5google.com",
                 "country": "us"
             }
         },
         {
-            "id": "b924ccd0e1e05f31ae1ce5937d69f2d4",
-            "title": "Bank Leaders Warned of Cyber Threats by New AI Model",
-            "description": "U.S. Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell held a critical meeting with major bank CEOs to discuss cyber risks linked to Anthropic's new AI model, Mythos. The meeting emphasized potential vulnerabilities and the need for banks to fortify their systems against cyber threats. The AI model has not been widely released due to these concerns.",
-            "content": "In response to growing cyber threats, U.S. Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell convened a high-level meeting this week with banking executives to discuss the implications of Anthropic's latest AI model, Mythos. Wh... [953 chars]",
-            "url": "https://www.devdiscourse.com/article/technology/3869991-bank-leaders-warned-of-cyber-threats-by-new-ai-model",
-            "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/03_07_2024_09_41_13_5624806.png?width=920&format=jpeg",
-            "publishedAt": "2026-04-10T20:26:56Z",
+            "id": "f5dcfb7b182e1f6e2ed80609d4c4e944",
+            "title": "Which Coin is the Next Crypto to Explode? AlphaPepe Eyes 10,000% Gains as Shibarium Devs Unveil AI DEX",
+            "description": "The question the market keeps asking is which coin is the next crypto to explode. In April 2026 the answer is taking shape in a specific way. Not from a community vote. Not from a celebrity endorsement. From a developer with a verifiable track record shipping a live product before any exchange has assigned the […]",
+            "content": "Share\nShare\nShare\nShare\nEmail\nThe question the market keeps asking is which coin is the next crypto to explode. In April 2026 the answer is taking shape in a specific way. Not from a community vote. Not from a celebrity endorsement. From a developer ... [4644 chars]",
+            "url": "https://techbullion.com/which-coin-is-the-next-crypto-to-explode-alphapepe-eyes-10000-gains-as-shibarium-devs-unveil-ai-dex/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/04/Which.png",
+            "publishedAt": "2026-04-11T20:00:46Z",
             "lang": "en",
             "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "ccd23073806f5c2aa7c493e1f7369505",
+            "title": "Brian Cox: ‘We don’t know how powerful AI is going to become - it’s both exciting and potentially a problem’",
+            "description": "The physicist, BBC presenter and author on snowflakes, art v science and the time Paul McCartney quizzed him about one of Saturn’s moons",
+            "content": "What is the inspiration behind your latest live show, Emergence?\nIt came from a book that I’ve loved for years: The Six-Cornered Snowflake by Johannes Kepler. Kepler is most famous for his laws of planetary motion in and around 1610, but he wrote thi... [6465 chars]",
+            "url": "https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney",
+            "image": "https://i.guim.co.uk/img/media/e8512c0e0aef3c770ae596a382ca5333e1826213/692_0_4648_3720/master/4648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8a740a89c5af70cee2673fe51cad2da",
+            "publishedAt": "2026-04-11T20:00:05Z",
+            "lang": "en",
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "e612ffaa2135fdae0740e77f3be8ec49",
+            "title": "Avilom Ignites the Next Evolution of Web3: The Self-Learning Blockchain That Refuses to Stay Static",
+            "description": "Explore Avilom, the first self-evolving AI-native blockchain that learns and adapts in real time to optimize decentralized systems.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nIn a market saturated with incremental upgrades and recycled narratives, Avilom is emerging as something fundamentally different—a protocol that doesn’t just process transactions, but learns, adapts, and evolves in real ... [4633 chars]",
+            "url": "https://techbullion.com/avilom-ignites-the-next-evolution-of-web3-the-self-learning-blockchain-that-refuses-to-stay-static/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/04/Avilom-1000x600.png",
+            "publishedAt": "2026-04-11T19:52:21Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "cb4aafd2559716830de013bc258effdd",
+            "title": "Skills, not degrees, will define careers in AI era, says expert",
+            "description": "Expert Raghavan Santhanam emphasizes that skills, not degrees, will shape careers in the evolving AI-driven job market.",
+            "content": "The rapid rise of artificial intelligence (AI) and data-driven businesses is changing how careers are built and making skills more valuable than degrees, said Raghavan Santhanam, Director, School of Ports, Terminal Management & Logistics, Symbiosis S... [421 chars]",
+            "url": "https://www.thehindu.com/news/cities/chennai/skills-not-degrees-will-define-careers-in-ai-era-says-expert/article70851199.ece",
+            "image": "https://th-i.thgim.com/public/incoming/1soy5a/article70851883.ece/alternates/LANDSCAPE_1200/9217_11_4_2026_18_46_44_4_DSC_8067.JPG",
+            "publishedAt": "2026-04-11T19:45:02Z",
+            "lang": "en",
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
                 "country": "in"
             }
         },
         {
-            "id": "f03e7544112fba608432e7e78314cf37",
-            "title": "China’s state media turns to social media and AI to tell its story - and often mock the US",
-            "description": "The messaging from China’s Communist government may once have been rigid, but not anymore China’s state media turns to social media and AI to",
-            "content": "The messaging from China’s Communist government may once have been rigid, but not anymore\nChina’s state media turns to social media and AI to tell its story — and often mock the USBy DIDI TANG and E. EDUARDO CASTILLOAssociated PressThe Associated Pre... [5513 chars]",
-            "url": "https://www.breitbart.com/news/chinas-state-media-turns-to-social-media-and-ai-to-tell-its-story-and-often-mock-the-us/",
-            "image": "https://media.breitbart.com/media/2026/04/wi/ap/china-ai-propaganda-video-15-49-china-ai-propaganda-video-an-ai-viral-animation-released-by-chinese-640x335.jpg",
-            "publishedAt": "2026-04-10T20:18:39Z",
+            "id": "bf58c2cd2d94e60f8e0962b1bb2f3f3c",
+            "title": "Best Shopify Apps for AI Visibility: How to Get Your Products Recommended in ChatGPT",
+            "description": "Explore Shopify apps for AI visibility and ensure your products are recommended by AI assistants for better sales.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nThe Core Problem: Google SEO and AI Visibility Are Not the Same Thing\nAI visibility for Shopify is the measurable likelihood that an AI language model will recommend your specific products when a shopper asks a relevant ... [8136 chars]",
+            "url": "https://techbullion.com/best-shopify-apps-for-ai-visibility-how-to-get-your-products-recommended-in-chatgpt/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/04/Shopify-Apps-for-AI-Visibility-1000x600.png",
+            "publishedAt": "2026-04-11T19:41:20Z",
             "lang": "en",
             "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "fc0f6ab6b3835f3e93f63ff8c86b14bd",
+            "title": "Best AI Visibility Tools in 2026: SixthShop vs Profound vs Writesonic",
+            "description": "Compare SixthShop vs Profound vs Writesonic to discover which AI visibility platform is best for your brand in 2026.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nThe Way People Search Has Fundamentally Changed\nIn 2026, AI assistants have become the primary discovery layer for millions of consumers. When someone asks ChatGPT “what is the best protein powder for beginners” or asks ... [11280 chars]",
+            "url": "https://techbullion.com/best-ai-visibility-tools-in-2026-sixthshop-vs-profound-vs-writesonic/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/04/sixthshop-1000x600.png",
+            "publishedAt": "2026-04-11T19:35:43Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "35a85bf77d813677f41b41e02977ff64",
+            "title": "Washington’s quiet rollback of AI data center tax breaks sparks industry backlash as states rethink billion-dollar incentives and economic tradeoffs",
+            "description": "Microsoft warns policy changes could distort competition across regions",
+            "content": "Washington trims data center tax breaks as pressure mounts nationwide\nLawmakers rethink incentives as AI infrastructure costs keep rising\nIndustry pushback slows efforts to reform data center tax policies\nThe state of Washington has moved to scale ba... [3227 chars]",
+            "url": "https://www.techradar.com/pro/a-self-inflicted-hit-washington-state-just-rolled-back-sales-tax-exemptions-for-ai-data-centers-worth-hundreds-of-millions",
+            "image": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
+            "publishedAt": "2026-04-11T19:25:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "6221a3521750a4ad7f2a6184e7b338cb",
+            "title": "Attack on Titan studio slammed for AI use and it won't be the last time",
+            "description": "AoT and The ONe Piece's Wit Studios apologized for generative AI use in a new OP, but the anime industry isn't built to quit AI.",
+            "content": "Anime’s darling WIT Studio, makers of Attack on Titan and the upcoming One Piece remake, just went toe-to-toe with its own fans — and lost. The studio released an apology after receiving backlash from its use of generative AI in the opening sequence ... [2409 chars]",
+            "url": "https://www.polygon.com/anime-faces-first-giant-ai-controversy-as-attack-on-titan-studio-steps-in-it-with-fans/",
+            "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/one-piece-concept-art.jpg?w=1200&h=675&fit=crop",
+            "publishedAt": "2026-04-11T19:23:08Z",
+            "lang": "en",
+            "source": {
+                "id": "812689d196c4f757f8cd7c93422c4f09",
+                "name": "Polygon",
+                "url": "https://www.polygon.com",
                 "country": "us"
             }
         },
         {
-            "id": "3c587417f4ee602d30d6b89c6b15d893",
-            "title": "Vance, Bessent questioned tech giants on AI security before Anthropic's Mythos release - CNBC",
-            "description": "April 10 -\nVance, Bessent questioned tech giants on AI security before Anthropic's Mythos release - CNBC\nAnthropic's Amodei, Google's Pichai, OpenAI's Altman, Microsoft's Nadella and heads of...",
-            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Global Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated des... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/vance-bessent-questioned-tech-giants-on-ai-security-before-anthropic-s-mythos-release-cnbc-ce7e50d9da89f121",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-04-10T20:14:25Z",
+            "id": "4b5014d9271b97b9b05f9f4c1e8c3243",
+            "title": "How AWS, Microsoft, Google, Adani and Reliance are driving India’s data centre boom",
+            "description": "How AI, cloud demand and hyperscalers such as AWS, Microsoft and Google are driving India’s data centre boom and reshaping costs, power use and investment opportunities.",
+            "content": "Every digital activity leaves a physical trail. When you make a UPI payment, stream Netflix, back up WhatsApp, place a stock market trade or ask ChatGPT a question, that request travels to a data centre, where servers process it and send a response b... [18891 chars]",
+            "url": "https://www.thehindubusinessline.com/portfolio/big-story/aws-microsoft-google-adani-reliance-india-data-centre-boom-ai-cloud-power-costs/article70842682.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/26e0if/article70850652.ece/alternates/LANDSCAPE_1200/PO12_BS_Data_center.jpg",
+            "publishedAt": "2026-04-11T19:12:15Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "8d266e824c0aa60a5b6d7e2fda3ce57b",
-            "title": "Bank of Canada, major banks discuss Anthropic AI cyber risk - report",
-            "description": "Bank of Canada meets top banks on Anthropic Mythos AI cybersecurity risks, as regulators worry about new cyberattacks on financial firms—read now.",
-            "content": "Bank of Canada, major banks discuss Anthropic AI cyber risk - report\nComments\nThe Bank of Canada and the country's major lenders and financial firms met on Friday to discuss cybersecurity risks associated with Anthropic PBC's (ANTHRO) newest artifici... [253 chars]",
-            "url": "https://seekingalpha.com/news/4574150-bank-of-canada-major-banks-discuss-anthropic-ai-cyber-risk-report",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1834196626/image_1834196626.jpg?io=getty-c-w630",
-            "publishedAt": "2026-04-10T20:06:01Z",
-            "lang": "en",
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "92e1360acdd95e022aa8c9fbf91556d4",
-            "title": "Eight Things You Should Never Share With an AI Chatbot",
-            "description": "If you wouldn't send a document or repeat information to someone you don't know, you shouldn't include it in a chatbot prompt either.",
-            "content": "It probably goes without saying at this point, but your conversations with AI chatbots aren't private—everything you type or upload to Gemini, ChatGPT, and other models might be read and used in a variety of ways. If you wouldn't send a document or r... [3762 chars]",
-            "url": "https://lifehacker.com/tech/what-not-to-share-with-ai-chatbot",
-            "image": "https://lifehacker.com/imagery/articles/01KNM9495JATZBSH4ED1G3FK4A/hero-image.fill.size_1200x675.png",
-            "publishedAt": "2026-04-10T20:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5240ef9173881b8031afe68dcbb2f7a3",
-                "name": "Lifehacker",
-                "url": "https://lifehacker.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "043c466f240dc6979bfaaa6425c1e663",
-            "title": "The Magnificent 7 Broke - That's Exactly Why I'm Buying",
-            "description": "Mag 7 tech faces valuation pressure as AI CapEx reshapes returns. Click for what this may mean for the overall market and why I have turned bullish.",
-            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of SPX, NDX, NVDA, AAPL, META, GOOGL, MSFT, AMZN either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I ... [720 chars]",
-            "url": "https://seekingalpha.com/article/4889913-magnificent-7-broke-thats-exactly-why-im-buying",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1299608261/image_1299608261.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-04-10T19:55:50Z",
-            "lang": "en",
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "17d13ed90bb3af737a5ce50150d57f6d",
-            "title": "From ‘BuddhaBot’ to $1.99 chats with AI Jesus, the faith-based tech boom is here",
-            "description": "CAMARILLO, Calif. — For some evangelical Christians, faith is about having a personal relationship with Jesus. At $1.99 per minute, the tech company Just Like Me is taking that concept to a new level. Users of the platform can join video calls with an avatar of Jesus generated by artificial",
-            "content": "CAMARILLO, Calif. — For some evangelical Christians, faith is about having a personal relationship with Jesus. At $1.99 per minute, the tech company Just Like Me is taking that concept to a new level.\nUsers of the platform can join video calls with a... [7463 chars]",
-            "url": "https://triblive.com/news/world/from-buddhabot-to-1-99-chats-with-ai-jesus-the-faith-based-tech-boom-is-here/",
-            "image": "https://assets-varnish.triblive.com/2026/04/9471973_web1_9471973-7e46b3f0879f42db9033ef9948c6b4cc.jpg",
-            "publishedAt": "2026-04-10T19:54:56Z",
-            "lang": "en",
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "59dbe262472599066d73a9c48fa60fc8",
-            "title": "RBI's Utkarsh 2.0 places focus on better service",
-            "description": "The plan places emphasis on improving customer service and financial inclusion, alongside efforts to strengthen market infrastructure and pricing transparency, particularly in government securities. Technology adoption, including artificial intelligence and digitalisation of internal processes, is expected to play a central role.",
-            "content": "Synopsis\nThe plan places emphasis on improving customer service and financial inclusion, alongside efforts to strengthen market infrastructure and pricing transparency, particularly in government securities. Technology adoption, including artificial ... [1690 chars]",
-            "url": "https://economictimes.indiatimes.com/news/economy/finance/rbis-utkarsh-2-0-places-focus-on-better-service/articleshow/130179611.cms",
-            "image": "https://img.etimg.com/thumb/msid-130179610,width-1200,height-630,imgsize-68204,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-04-10T19:53:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
                 "country": "in"
-            }
-        },
-        {
-            "id": "a686977028f1a68642a3ccf4549b18e8",
-            "title": "Fallout co-creator Tim Cain is \"looking forward\" to generative AI for games, TV, and his doctor appointments in dire predictions: \"Like a game and you want more content? It'll just generate it\"",
-            "description": "Like a game but think it's got a weak storyline? Change it",
-            "content": "Fallout co-creator Tim Cain says a world where AI generates games, TV shows, and even doctor's appointments is inevitable, and he's even \"looking forward\" to that future.\nIn arguably the veteran game developer's saddest \"fun Friday\" video ever, Cain ... [6932 chars]",
-            "url": "https://www.gamesradar.com/games/fallout/fallout-co-creator-tim-cain-is-looking-forward-to-generative-ai-for-games-tv-and-his-doctor-appointments-in-dire-predictions-like-a-game-and-you-want-more-content-itll-just-generate-it/",
-            "image": "https://cdn.mos.cms.futurecdn.net/N2SSV4RrE52JzPSJ8k3Fef-1920-80.jpg",
-            "publishedAt": "2026-04-10T19:51:41Z",
-            "lang": "en",
-            "source": {
-                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
-                "name": "GamesRadar+",
-                "url": "https://www.gamesradar.com",
-                "country": "us"
             }
         }
     ]
