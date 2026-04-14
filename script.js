@@ -121,7 +121,6 @@
 })();
 
 
-const AI_NEWS = {"totalArticles":307967,"articles":[{"title":"Majority of college students use AI for their coursework, poll finds","description":"A majority of college students in the United States uses artificial intelligence tools for their coursework at least once per week, a poll revealed.","url":"https://www.upi.com/Top_News/US/2026/04/02/survey-college-students-artificial-intelligence-coursework/5341775162201/","publishedAt":"2026-04-02T22:15:09Z","source":{"name":"UPI News"}},{"title":"Sony's gaming division just bought an AI startup that turns photos into 3D volumes","description":"Sony purchased an AI startup called Cinemersive Labs to help improve rendering techniques and gameplay visuals on future games.","url":"https://www.engadget.com/gaming/playstation/sonys-gaming-division-just-bought-an-ai-startup-that-turns-photos-into-3d-volumes-220648699.html","publishedAt":"2026-04-02T22:06:48Z","source":{"name":"Engadget"}},{"title":"Take-Two Reshuffles Its AI Team","description":"The AI division was working on 'cutting edge technology' to support game development","url":"https://kotaku.com/take-two-ai-zynga-layoffs-gta-2000684344","publishedAt":"2026-04-02T22:05:32Z","source":{"name":"Kotaku"}},{"title":"NY AG warns of AI tax scams and fraud tips","description":"New York Attorney General Letitia James warns residents about increasing AI-powered tax scams and offers tips to stay safe.","url":"https://www.lohud.com/story/news/ny-news/2026/04/02/ny-ag-warns-of-ai-tax-scams-and-fraud-tips/89442560007/","publishedAt":"2026-04-02T22:05:24Z","source":{"name":"White Plains Journal News"}},{"title":"Hacks Star Hannah Einbinder Did Not Hold Back About AI (And It's Hilarious)","description":"At a press conference for the final season of Hacks, star Hannah Einbinder had strong words for tech bros who are obsessed with artificial intelligence.","url":"https://www.slashfilm.com/2138871/hacks-hannah-einbinder-harsh-words-ai/","publishedAt":"2026-04-02T22:00:00Z","source":{"name":"/FILM"}},{"title":"'Today it's Oracle, tomorrow it'll be you': Ex-staffers share devastating aftermath","description":"30,000 jobs gone in a single morning. Oracle employees worldwide share shock, fear, and irony as AI reshapes the tech workforce.","url":"https://www.financialexpress.com/trending/today-its-oracle-tomorrow-itll-be-you-ex-staffers-share-devastating-aftermath-students-feel-the-anxiety-whats-next-for-big-tech/4193417/","publishedAt":"2026-04-02T22:00:00Z","source":{"name":"The Financial Express"}},{"title":"Meta's AI smart glasses have a creepy reputation, but they are finding a good purpose too","description":"Meta's Ray-Ban smart glasses have a growing privacy problem, but blind artist Clarke Reynolds is using them to do something remarkable — run a full marathon guided by strangers from around the world.","url":"https://www.digitaltrends.com/wearables/metas-ai-smart-glasses-have-a-creep-reputation-but-they-are-finding-a-good-purpose-too/","publishedAt":"2026-04-02T21:57:27Z","source":{"name":"Digital Trends"}},{"title":"PSA: Anyone with a link can view your Granola notes by default","description":"Granola, the AI-powered note-taking app, makes your notes viewable by anyone with a link by default. It also turns on AI training for anyone who's not an enterprise customer.","url":"https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa","publishedAt":"2026-04-02T21:56:16Z","source":{"name":"The Verge"}},{"title":"Are Micron (MU) and SanDisk (SNDK) Stocks Overvalued after AI-Driven Rally?","description":"Semiconductor giants Micron (MU) and SanDisk (SNDK) have emerged as key players riding the AI-driven memory boom. MU stock has surged 315.2% and SNDK stock has rocketed 1353% over the past year.","url":"https://markets.businessinsider.com/news/stocks/are-micron-mu-and-sandisk-sndk-stocks-overvalued-after-ai-driven-rally-1035992828","publishedAt":"2026-04-02T21:36:00Z","source":{"name":"Markets Insider"}},{"title":"Tech Advances on Hopes For AI Outlook - Tech Roundup","description":"Shares of technology companies rose as traders bet the artificial-intelligence boom will survive an energy shock. Chip makers continued a recent recovery rally, led by formerly embattled Intel.","url":"https://www.marketscreener.com/news/tech-advances-on-hopes-for-ai-outlook-tech-roundup-ce7e51dddc8ff320","publishedAt":"2026-04-02T21:31:45Z","source":{"name":"MarketScreener"}}]};
 
 // Hardcoded permanent Unsplash CDN URLs — one per article, in order.
 // These are direct image links (no redirect service) so they always work.
@@ -145,47 +144,64 @@ const BACKUP_IMAGES = [
   'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&h=400&fit=crop',
 ];
 
-(function renderNews() {
+(async function renderNews() {
   const grid = document.getElementById('news-grid');
   if (!grid) return;
 
-  AI_NEWS.articles.forEach((article, index) => {
-    const date    = new Date(article.publishedAt);
-    const dateStr = date.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
-    const imgSrc  = ARTICLE_IMAGES[index] || ARTICLE_IMAGES[0];
+  try {
+    // 1. Κατεβάζουμε το JSON δυναμικά με cache-busting
+    const response = await fetch(`AI_news.json?t=${new Date().getTime()}`);
+    
+    // Ελέγχουμε αν η απάντηση είναι ΟΚ (π.χ. όχι 404 error)
+    if (!response.ok) {
+        throw new Error('Δίκτυο ή αρχείο JSON δεν βρέθηκε');
+    }
+    
+    // 2. Μετατρέπουμε την απάντηση σε αντικείμενο JavaScript
+    const AI_NEWS = await response.json();
 
-    const card = document.createElement('a');
-    card.className = 'news-card';
-    card.href      = article.url;
-    card.target    = '_blank';
-    card.rel       = 'noopener noreferrer';
-    card.innerHTML = `
-      <img class="news-thumb" src="${imgSrc}" alt="" loading="lazy">
-      <div class="news-body">
-        <div class="news-meta">
-          <span class="news-source">${article.source.name}</span>
-          <span class="news-date">${dateStr}</span>
+    // 3. Τρέχουμε την ίδια λούπα που είχες, χρησιμοποιώντας το φρέσκο AI_NEWS
+    AI_NEWS.articles.forEach((article, index) => {
+      const date    = new Date(article.publishedAt);
+      const dateStr = date.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
+      const imgSrc  = ARTICLE_IMAGES[index] || ARTICLE_IMAGES[0];
+
+      const card = document.createElement('a');
+      card.className = 'news-card';
+      card.href      = article.url;
+      card.target    = '_blank';
+      card.rel       = 'noopener noreferrer';
+      card.innerHTML = `
+        <img class="news-thumb" src="${imgSrc}" alt="" loading="lazy">
+        <div class="news-body">
+          <div class="news-meta">
+            <span class="news-source">${article.source.name}</span>
+            <span class="news-date">${dateStr}</span>
+          </div>
+          <div class="news-title">${article.title}</div>
+          <div class="news-desc">${article.description}</div>
+          <div class="news-footer">Read article</div>
         </div>
-        <div class="news-title">${article.title}</div>
-        <div class="news-desc">${article.description}</div>
-        <div class="news-footer">Read article</div>
-      </div>
-    `;
-    grid.appendChild(card);
+      `;
+      grid.appendChild(card);
 
-    const img = card.querySelector('.news-thumb');
-    let retries = 0;
-    img.addEventListener('error', () => {
-      if (retries < BACKUP_IMAGES.length) {
-        img.src = BACKUP_IMAGES[retries++];
-      } else {
-        const placeholder = document.createElement('div');
-        placeholder.className = 'news-thumb-placeholder';
-        placeholder.textContent = 'No image';
-        img.replaceWith(placeholder);
-      }
+      const img = card.querySelector('.news-thumb');
+      let retries = 0;
+      img.addEventListener('error', () => {
+        if (retries < BACKUP_IMAGES.length) {
+          img.src = BACKUP_IMAGES[retries++];
+        } else {
+          const placeholder = document.createElement('div');
+          placeholder.className = 'news-thumb-placeholder';
+          placeholder.textContent = 'No image';
+          img.replaceWith(placeholder);
+        }
+      });
     });
-  });
+  } catch (error) {
+    console.error("Σφάλμα κατά τη φόρτωση των νέων:", error);
+    grid.innerHTML = '<div style="color: white; padding: 20px;">Αδυναμία φόρτωσης νέων. Παρακαλώ δοκιμάστε ξανά αργότερα.</div>';
+  }
 })();
 
 
