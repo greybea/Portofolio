@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 303781,
+    "totalArticles": 308134,
     "articles": [
         {
-            "id": "13ed1514742813d3cac5f94a6539f116",
-            "title": "Project Glasswing: Tech giants unite to fix AI",
-            "description": "Anthropic and partners unveil Project Glasswing as AI models begin surpassing humans in vulnerability detection.",
-            "content": "A coalition of major technology firms has launched a new initiative to confront a rapidly escalating cybersecurity threat driven by advanced artificial intelligence.\nThe effort, called Project Glasswing, brings together companies including Amazon Web... [2763 chars]",
-            "url": "https://interestingengineering.com/ai-robotics/project-glasswing-ai-cybersecurity-initiative",
-            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Untitled-design-2026-04-08T020959.038.jpg",
-            "publishedAt": "2026-04-07T20:49:09Z",
+            "id": "1cec8953a7a14173f89e5d148bf8aba1",
+            "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
+            "description": "OTTAWA — Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company’s new AI model.",
+            "content": "OTTAWA — Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company’s new AI model.\nSolomon says he’s working in close collaboration with Can... [797 chars]",
+            "url": "https://www.baytoday.ca/national-news/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic-12137037",
+            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/4a32ca2a426025623abcc609ed6eab991082e283704873e4d7917c2405d97603.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-04-13T21:05:10Z",
             "lang": "en",
             "source": {
-                "id": "1a6c3258d04827f52d40713ad8166b1b",
-                "name": "Interesting Engineering",
-                "url": "https://interestingengineering.com",
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "bf997338356e4c85aa6c69bb9cca448c",
+            "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
+            "description": "OTTAWA — Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company’s new AI model.",
+            "content": "OTTAWA — Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company’s new AI model.\nSolomon says he’s working in close collaboration with Can... [797 chars]",
+            "url": "https://www.sootoday.com/national-news/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic-12137037",
+            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/4a32ca2a426025623abcc609ed6eab991082e283704873e4d7917c2405d97603.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-04-13T21:05:10Z",
+            "lang": "en",
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "0adfa952de9b843c11fcb00a7464392a",
+            "title": "Court docs: Suspect in Molotov attack on OpenAI CEO's home opposed artificial intelligence",
+            "description": "A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence.",
+            "content": "A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence, according to court documents. The documents also showed that the man had a list of other AI tec... [928 chars]",
+            "url": "https://wjla.com/news/nation-world/court-docs-suspect-in-molotov-attack-on-openai-ceos-home-opposed-artificial-intelligence-sam-altman-kash-patel-fbi-texas-daniel-moreno-gama-molotov-cocktail-property-damage-destruction",
+            "image": "https://wjla.com/resources/media2/16x9/5004/1320/0x369/90/dd386058-0383-4e96-9412-bc7cb51f55c9-GettyImages2218344194.jpg",
+            "publishedAt": "2026-04-13T21:02:58Z",
+            "lang": "en",
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
                 "country": "us"
             }
         },
         {
-            "id": "f8203f98ffc09b50e803b2c5f9c53f2f",
-            "title": "AI will affect more than half of all U.S. jobs, analysis finds",
-            "description": "Artificial intelligence is more likely to change the nature of work than to supplant masses of workers, according to researchers.",
-            "content": "Artificial intelligence will dramatically change the nature of work, but stop short of replacing most employees, according to a recent analysis.\nOver the next three years, AI will \"reshape\" between 50% and 55% of U.S. jobs, Boston Consulting Group re... [2378 chars]",
-            "url": "https://www.cbsnews.com/sacramento/news/artificial-intelligence-ai-jobs-boston-consulting-group/",
-            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/06/17e36424-6d35-49f3-bab3-fc039eb10935/thumbnail/1200x630/72bf7bdae245f400a09786e9431ce726/gettyimages-2194273729.jpg",
-            "publishedAt": "2026-04-07T20:42:00Z",
+            "id": "b7205153fa418bf444e355dbffbd96e3",
+            "title": "Court docs: Suspect in Molotov attack on OpenAI CEO's home opposed artificial intelligence",
+            "description": "A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence.",
+            "content": "A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence, according to court documents. The documents also showed that the man had a list of other AI tec... [928 chars]",
+            "url": "https://foxbaltimore.com/news/nation-world/court-docs-suspect-in-molotov-attack-on-openai-ceos-home-opposed-artificial-intelligence-sam-altman-kash-patel-fbi-texas-daniel-moreno-gama-molotov-cocktail-property-damage-destruction",
+            "image": "https://foxbaltimore.com/resources/media2/16x9/5004/1320/0x369/90/dd386058-0383-4e96-9412-bc7cb51f55c9-GettyImages2218344194.jpg",
+            "publishedAt": "2026-04-13T21:02:58Z",
             "lang": "en",
             "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
                 "country": "us"
             }
         },
         {
-            "id": "d4eb3ecd970ed8fa1f82644e2ce08d05",
-            "title": "AI will affect more than half of all U.S. jobs, analysis finds",
-            "description": "Artificial intelligence is more likely to change the nature of work than to supplant masses of workers, according to researchers.",
-            "content": "Artificial intelligence will dramatically change the nature of work, but stop short of replacing most employees, according to a recent analysis.\nOver the next three years, AI will \"reshape\" between 50% and 55% of U.S. jobs, Boston Consulting Group re... [2378 chars]",
-            "url": "https://www.cbsnews.com/texas/news/artificial-intelligence-ai-jobs-boston-consulting-group/",
-            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/06/17e36424-6d35-49f3-bab3-fc039eb10935/thumbnail/1200x630/72bf7bdae245f400a09786e9431ce726/gettyimages-2194273729.jpg",
-            "publishedAt": "2026-04-07T20:42:00Z",
+            "id": "c32cc31803bb473e9118dbfc1d940949",
+            "title": "Japan's Tech Titans Just Teamed Up to Build a Trillion",
+            "description": "SoftBank, Sony, Honda, and NEC have formed a new company to build physical AI for robots and machines, backed by $6.7 billion in government funding.",
+            "content": "Japan isn't interested in building the next ChatGPT.\nOn Sunday, SoftBank, NEC, Honda, and Sony Group jointly formed a new company with one goal: build a trillion-parameter AI model that runs machines, not conversations.\nThe move is a direct bet on wh... [2387 chars]",
+            "url": "https://decrypt.co/364241/japan-physical-ai-trillion-parameter-softbank-nec-honda-sony",
+            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/japan-decrypt-style-scaled-gID_7.jpg",
+            "publishedAt": "2026-04-13T21:01:03Z",
             "lang": "en",
             "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
+                "id": "6956007add5fc13a6721202ec906b1c4",
+                "name": "Decrypt",
+                "url": "https://decrypt.co",
                 "country": "us"
             }
         },
         {
-            "id": "49e1d0d9ec942fcff4782400d0c8745d",
-            "title": "AI will affect more than half of all U.S. jobs, analysis finds",
-            "description": "Artificial intelligence is more likely to change the nature of work than to supplant masses of workers, according to researchers.",
-            "content": "Artificial intelligence will dramatically change the nature of work, but stop short of replacing most employees, according to a recent analysis.\nOver the next three years, AI will \"reshape\" between 50% and 55% of U.S. jobs, Boston Consulting Group re... [2378 chars]",
-            "url": "https://www.cbsnews.com/news/artificial-intelligence-ai-jobs-boston-consulting-group/",
-            "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/06/17e36424-6d35-49f3-bab3-fc039eb10935/thumbnail/1200x630/72bf7bdae245f400a09786e9431ce726/gettyimages-2194273729.jpg",
-            "publishedAt": "2026-04-07T20:42:00Z",
+            "id": "fd70d71e6803b0e68a0cce26a21a0d3e",
+            "title": "The Shibarium Connection: Former Shiba Inu Devs Power AlphaPepe's AI DEX to $850K Raise",
+            "description": "The developer who built AlphaSwap worked on the Shibarium team at Shiba Inu, the Layer 2 blockchain that Shiba Inu deployed to reduce gas fees and increase transaction throughput across the SHIB ecosystem. Shibarium processed over 500 million mainnet transactions during that period. Five hundred million on-chain transactions. That is the infrastructure-level credential sitting behind […]",
+            "content": "Share\nShare\nShare\nShare\nEmail\nThe developer who built AlphaSwap worked on the Shibarium team at Shiba Inu, the Layer 2 blockchain that Shiba Inu deployed to reduce gas fees and increase transaction throughput across the SHIB ecosystem. Shibarium proc... [5164 chars]",
+            "url": "https://techbullion.com/the-shibarium-connection-former-shiba-inu-devs-power-alphapepes-ai-dex-to-850k-raise/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/04/The-Shibarium.png",
+            "publishedAt": "2026-04-13T21:00:42Z",
             "lang": "en",
             "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "fb0b67ae7a5be94b54dec404cbb179b2",
+            "title": "AI agents are acting like employees, but company structures still treat them like software",
+            "description": "AI agents are now operators, acting on their own accord without the need for a human manager to lead the way.",
+            "content": "Over the past year, organizations have been forced to confront the fact that AI is being deployed faster than it can be governed. The growing use of shadow AI is exposing gaps regarding who, or what, is allowed to act. Our latest research shows 91% o... [5609 chars]",
+            "url": "https://fortune.com/2026/04/13/ai-agents-governance-identity-risk-okta/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Dan-Mountstephen_26-02-26_OKTA-booth-2_3410-e1776089826101.jpg?resize=1200,600",
+            "publishedAt": "2026-04-13T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
                 "country": "us"
             }
         },
         {
-            "id": "465e1012ab94278b837f7ab176808426",
-            "title": "How a Catholic Sister Podcast Became a TikTok Sensation",
-            "description": "No, they're not AI and they're not nuns. Meet the viral sisters from 'Dominican Sisters Open Mic' podcast that's become a TikTok sensation",
-            "content": "Somewhere in a Michigan recording studio, a group of Dominican sisters are making a podcast. Millions of people on TikTok have found it. The sisters themselves? They have almost no idea.\nMembers of the Dominican Sisters of Mary, Mother of the Euchari... [3000 chars]",
-            "url": "https://www.usmagazine.com/entertainment/news/how-a-catholic-sister-podcast-became-a-tiktok-sensation/",
-            "image": "https://www.usmagazine.com/wp-content/uploads/2026/04/dominic-sisters-open-mic-podcast-tiktok.jpg?w=1200&h=630&crop=1&quality=86&strip=all",
-            "publishedAt": "2026-04-07T20:37:34Z",
+            "id": "1be9c9755d14b183df45f304ba8c493c",
+            "title": "Graduates in an AI world must be problem solvers, not armchair thinkers",
+            "description": "Academic mastery no longer suffices. Read more at straitstimes.com.",
+            "content": "Imagine being just 18 years old and outperforming experienced professionals in problem solving, not just in terms of superiority of solutioning, but in the speed of ideation and prototyping as well.\nThis is exactly what is happening with the astronom... [7737 chars]",
+            "url": "https://www.straitstimes.com/opinion/graduates-in-an-ai-world-must-be-problem-solvers-not-armchair-thinkers",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cd3352f1795498a5f9a4262287c7abb0735dfc903cecf3fd23b5f0ff9a1a9bda",
+            "publishedAt": "2026-04-13T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "979e74ee88ce49ccc427aa90ec068196",
-                "name": "Us Weekly",
-                "url": "https://www.usmagazine.com",
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "3a000bf8c77f32de22b8d14f5f2da9b1",
+            "title": "Could Isle of Man’s World-First Data Law Reshape AI Stock Valuations?",
+            "description": "Market Analysis by covering: S&P 500, Snowflake Inc, Palantir Technologies Inc. Read 's Market Analysis on Investing.com",
+            "content": "The Isle of Man has introduced the Foundations (Amendment) Bill 2025, a major move in data law, becoming the first jurisdiction to legally recognize data as a governed asset.\nThis allows organizations to list data assets on balance sheets, license th... [4446 chars]",
+            "url": "https://www.investing.com/analysis/could-isle-of-mans-worldfirst-data-law-reshape-ai-stock-valuations-200678356",
+            "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+            "publishedAt": "2026-04-13T20:56:52Z",
+            "lang": "en",
+            "source": {
+                "id": "e86028f8795c9864b8757b36b53954ef",
+                "name": "Investing.com",
+                "url": "https://www.investing.com",
                 "country": "us"
             }
         },
         {
-            "id": "9e3aaa104b3b1d6ee54951ba21ccfc88",
-            "title": "Japan turns cargo ships into floating data centers as Hitachi backs ambitious plan to ease land shortages and rising AI demand",
-            "description": "Old cargo ships could soon host large-scale AI computing systems",
-            "content": "Floating data centers move closer as Hitachi backs ship conversion plan\nJapan explores offshore computing to bypass land shortages and infrastructure limits\nSeawater cooling offers efficiency gains while introducing new engineering complications\nA fl... [2966 chars]",
-            "url": "https://www.techradar.com/pro/floating-data-centers-cruise-a-bit-closer-after-a-major-show-of-support-from-japanese-giant-hitachi",
-            "image": "https://cdn.mos.cms.futurecdn.net/GqDUFQamZMATQXgLgZCVUV-1920-80.jpg",
-            "publishedAt": "2026-04-07T20:35:00Z",
+            "id": "49829a2130e2b5c4562d864e8768eeee",
+            "title": "Ignore the Anthropic Panic and Keep Buying Palantir Stock, Says Wedbush",
+            "description": "Wedbush urges investors to tune out the Anthropic noise and keep buying Palantir, betting on its strong AI moat and solid fundamentals.",
+            "content": "Not so long ago, Palantir Technologies (PLTR) was one of the hottest artificial intelligence (AI) and analytics stocks on Wall Street. Investors loved the company’s story, using generative AI to grow its commercial business while also landing big gov... [7148 chars]",
+            "url": "https://www.barchart.com/story/news/1282433/ignore-the-anthropic-panic-and-keep-buying-palantir-stock-says-wedbush",
+            "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20J%20-%20Z)/A%20Palantir%20office%20building%20in%20Tokyo_%20Image%20by%20Hiroshi-Mori-Stock%20via%20Shutterstock_.jpg",
+            "publishedAt": "2026-04-13T20:53:22Z",
             "lang": "en",
             "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "567708e3f8b0da63fbe2837d545346a5",
-            "title": "\"Video games are cooked\": Publisher head says \"it doesn't matter\" how many of us hate gen AI, Pandora's box has opened and \"it's gonna get used now\"",
-            "description": "Kinda gives me the ick to look at gen AI art",
-            "content": "Mike Rose, founder of indie publisher No More Robots, which is perhaps best known for the likes of Yes, Your Grace and Descenders, likens the spread of generative AI use in games to the opening of Pandora's box. Simply put, we ain't getting the lid b... [3186 chars]",
-            "url": "https://www.gamesradar.com/games/video-games-are-cooked-publisher-head-says-it-doesnt-matter-how-many-of-us-hate-gen-ai-pandoras-box-has-opened-and-its-gonna-get-used-now/",
-            "image": "https://cdn.mos.cms.futurecdn.net/fTsQLW46Jk3EgL7iUgRUbJ-1920-80.jpg",
-            "publishedAt": "2026-04-07T20:33:42Z",
-            "lang": "en",
-            "source": {
-                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
-                "name": "GamesRadar+",
-                "url": "https://www.gamesradar.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "45a0fd61e6535dd791834749a4cd62b1",
-            "title": "Mumbai Cyber Cell Arrests Jalna Youth For AI-Generated Defamatory Video Targeting CM Devendra Fadnavis & Ajit Pawar Plane Crash",
-            "description": "Police arrested Jalna resident Uddhav Bhagwan Kapse for allegedly creating an AI-generated video defaming CM Devendra Fadnavis and misrepresenting a plane crash involving Ajit Pawar. The video, which gained 1.5 lakh views, was later deleted. Kapse was remanded to custody till April 10 as police probe possible links and support behind the content.",
-            "content": "Mumbai: The Cyber Cell of the Western Regional Division Police has arrested a youth from Jalna for allegedly creating and circulating an objectionable video on social media that defamed Maharashtra's Chief Minister Devendra Fadnavis and spread mislea... [2382 chars]",
-            "url": "https://www.freepressjournal.in/mumbai/mumbai-cyber-cell-arrests-jalna-youth-for-ai-generated-defamatory-video-targeting-cm-devendra-fadnavis-ajit-pawar-plane-crash",
-            "image": "https://media.assettype.com/freepressjournal/2026-02-23/p39abl9r/Untitled-design-2026-02-23T205806.356.jpg",
-            "publishedAt": "2026-04-07T20:29:59Z",
-            "lang": "en",
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "d65be6b2dd041129c66a43e40c0773a1",
-            "title": "Anthropic Says Its Latest AI Model Is Too Powerful to Be Released",
-            "description": "Anthropic said Claude Mythos is too good at hacking and that's why you won't be able to use it anytime soon.",
-            "content": "Anthropic said on Tuesday that it has halted the broader release of its newest AI model, Mythos, due to concerns that it is too good at finding \"high-severity vulnerabilities\" in major operating systems and web browsers.\n\"Claude Mythos Preview's larg... [3314 chars]",
-            "url": "https://www.businessinsider.com/anthropic-mythos-latest-ai-model-too-powerful-to-be-released-2026-4",
-            "image": "https://i.insider.com/69d562eaf36fd1a78c051a4a?width=1200&format=jpeg",
-            "publishedAt": "2026-04-07T20:29:36Z",
-            "lang": "en",
-            "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "3936c813c40fa091d5e9150905a1d5dc",
-            "title": "Crypto Is Having Its AI Chatbot Moment; You’re Missing It",
-            "description": "Cryptocurrency networks (blockchains) are now quietly emerging as the future plumbing of the entire global financial system.",
-            "content": "Sorry you missed crypto’s chat GPT moment. It’s not your fault. Even if you were trying to pay attention between conversations with your favorite AI, you didn’t see it because it was invisible. The sudden arrival of conversational AI was hard to miss... [4555 chars]",
-            "url": "https://www.newsweek.com/crypto-is-having-its-ai-chatbot-moment-youre-missing-it-11793661",
-            "image": "https://www.newsweek.com/Newsweek_logo_social.jpg",
-            "publishedAt": "2026-04-07T20:18:57Z",
-            "lang": "en",
-            "source": {
-                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
-                "name": "Newsweek",
-                "url": "https://www.newsweek.com",
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
                 "country": "us"
             }
         }
