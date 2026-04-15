@@ -4,96 +4,144 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 308134,
+    "totalArticles": 309044,
     "articles": [
         {
-            "id": "1cec8953a7a14173f89e5d148bf8aba1",
-            "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
-            "description": "OTTAWA — Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company’s new AI model.",
-            "content": "OTTAWA — Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company’s new AI model.\nSolomon says he’s working in close collaboration with Can... [797 chars]",
-            "url": "https://www.baytoday.ca/national-news/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic-12137037",
-            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/4a32ca2a426025623abcc609ed6eab991082e283704873e4d7917c2405d97603.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-04-13T21:05:10Z",
+            "id": "f70814dfad573ee08859149b2dfef15f",
+            "title": "Chatbots quietly agree with everything you say, and researchers reveal how simple prompt changes can fix the problem",
+            "description": "Users unknowingly influence AI answers through framing and tone choices",
+            "content": "Chatbots often mirror user opinions instead of challenging assumptions directly\nConfident wording significantly increases agreement levels in large language models\nQuestion-based prompts reduce sycophantic responses across tested AI systems\nA simple ... [2825 chars]",
+            "url": "https://www.techradar.com/pro/chatbots-respond-not-just-to-what-you-ask-but-how-you-ask-it-ai-agents-might-be-sucking-up-to-you-and-not-giving-you-proper-answers-heres-how-to-fix-it",
+            "image": "https://cdn.mos.cms.futurecdn.net/SjSwAU6f7Pkb5hStzepX5L-2560-80.jpg",
+            "publishedAt": "2026-04-14T21:05:00Z",
             "lang": "en",
             "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "8e32f105187e508a48e6eff5b2e87833",
+            "title": "Canada’s AI minister says Anthropic withholding Mythos is ‘responsible’",
+            "description": "Artificial Intelligence Minister Evan Solomon met on Tuesday with representatives of Anthropic — the company that said its latest chatbot, Mythos, is too risky for public release.",
+            "content": "Artificial Intelligence Minister Evan Solomon met on Tuesday with representatives of Anthropic — the company that said its latest chatbot, Mythos, is too risky for public release last week.\nAnthropic released a system preview card surrounding its new... [1339 chars]",
+            "url": "https://globalnews.ca/news/11801374/evan-solomon-anthropic-mythos-meeting/",
+            "image": "https://globalnews.ca/wp-content/uploads/2026/04/anthropic-ai-evan-solomon.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2026-04-14T21:04:49Z",
+            "lang": "en",
+            "source": {
+                "id": "49853ffafc28f405ff8ed06043290ae8",
+                "name": "Global News",
+                "url": "https://globalnews.ca",
                 "country": "ca"
             }
         },
         {
-            "id": "bf997338356e4c85aa6c69bb9cca448c",
-            "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
-            "description": "OTTAWA — Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company’s new AI model.",
-            "content": "OTTAWA — Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company’s new AI model.\nSolomon says he’s working in close collaboration with Can... [797 chars]",
-            "url": "https://www.sootoday.com/national-news/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic-12137037",
-            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/4a32ca2a426025623abcc609ed6eab991082e283704873e4d7917c2405d97603.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-04-13T21:05:10Z",
+            "id": "d387cad6a97a218d6ce77f912a3f49d2",
+            "title": "What is Trump's approval rating amid AI-Jesus, pope controversy",
+            "description": "President Donald Trump has had a historically low approval rating for about a year. Now, he is going after Pope Leo. What do people think of the pope?",
+            "content": "President Trump criticized Pope Leo XIV on Truth Social after the pope questioned his immigration tactics and war in Iran.\nTrump's approval rating is net negative, with various polls showing his disapproval rating around 57%.\nPope Leo XIV is viewed f... [5701 chars]",
+            "url": "https://www.tcpalm.com/story/news/trump/2026/04/14/donald-trump-approval-rating/89610951007/",
+            "image": "https://www.tcpalm.com/gcdn/authoring/authoring-images/2026/04/14/USAT/89606458007-20260413-t-175101-z-1845233298-rc-2-hokadn-1-mj-rtrmadp-3-usatrump.JPG?crop=3983,2241,x0,y207&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2026-04-14T21:03:21Z",
             "lang": "en",
             "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "0adfa952de9b843c11fcb00a7464392a",
-            "title": "Court docs: Suspect in Molotov attack on OpenAI CEO's home opposed artificial intelligence",
-            "description": "A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence.",
-            "content": "A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence, according to court documents. The documents also showed that the man had a list of other AI tec... [928 chars]",
-            "url": "https://wjla.com/news/nation-world/court-docs-suspect-in-molotov-attack-on-openai-ceos-home-opposed-artificial-intelligence-sam-altman-kash-patel-fbi-texas-daniel-moreno-gama-molotov-cocktail-property-damage-destruction",
-            "image": "https://wjla.com/resources/media2/16x9/5004/1320/0x369/90/dd386058-0383-4e96-9412-bc7cb51f55c9-GettyImages2218344194.jpg",
-            "publishedAt": "2026-04-13T21:02:58Z",
-            "lang": "en",
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
+                "id": "2f8537c09d2342edda5b9b6bd4c02b75",
+                "name": "TCPalm",
+                "url": "https://www.tcpalm.com",
                 "country": "us"
             }
         },
         {
-            "id": "b7205153fa418bf444e355dbffbd96e3",
-            "title": "Court docs: Suspect in Molotov attack on OpenAI CEO's home opposed artificial intelligence",
-            "description": "A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence.",
-            "content": "A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence, according to court documents. The documents also showed that the man had a list of other AI tec... [928 chars]",
-            "url": "https://foxbaltimore.com/news/nation-world/court-docs-suspect-in-molotov-attack-on-openai-ceos-home-opposed-artificial-intelligence-sam-altman-kash-patel-fbi-texas-daniel-moreno-gama-molotov-cocktail-property-damage-destruction",
-            "image": "https://foxbaltimore.com/resources/media2/16x9/5004/1320/0x369/90/dd386058-0383-4e96-9412-bc7cb51f55c9-GettyImages2218344194.jpg",
-            "publishedAt": "2026-04-13T21:02:58Z",
+            "id": "85aa2178df644cd58e6cd94fd5798c2a",
+            "title": "What is Trump's approval rating amid AI-Jesus, pope controversy",
+            "description": "President Donald Trump has had a historically low approval rating for about a year. Now, he is going after Pope Leo. What do people think of the pope?",
+            "content": "President Trump criticized Pope Leo XIV on Truth Social after the pope questioned his immigration tactics and war in Iran.\nTrump's approval rating is net negative, with various polls showing his disapproval rating around 57%.\nPope Leo XIV is viewed f... [5701 chars]",
+            "url": "https://www.heraldtribune.com/story/news/trump/2026/04/14/donald-trump-approval-rating/89610951007/",
+            "image": "https://www.heraldtribune.com/gcdn/authoring/authoring-images/2026/04/14/USAT/89606458007-20260413-t-175101-z-1845233298-rc-2-hokadn-1-mj-rtrmadp-3-usatrump.JPG?crop=3983,2241,x0,y207&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2026-04-14T21:03:21Z",
             "lang": "en",
             "source": {
-                "id": "9f53afb019d44feb16bcc7da150e679a",
-                "name": "Baltimore News",
-                "url": "https://foxbaltimore.com",
+                "id": "4a8966ab09903fecadfd9645c3ce0951",
+                "name": "Herald-Tribune",
+                "url": "https://www.heraldtribune.com",
                 "country": "us"
             }
         },
         {
-            "id": "c32cc31803bb473e9118dbfc1d940949",
-            "title": "Japan's Tech Titans Just Teamed Up to Build a Trillion",
-            "description": "SoftBank, Sony, Honda, and NEC have formed a new company to build physical AI for robots and machines, backed by $6.7 billion in government funding.",
-            "content": "Japan isn't interested in building the next ChatGPT.\nOn Sunday, SoftBank, NEC, Honda, and Sony Group jointly formed a new company with one goal: build a trillion-parameter AI model that runs machines, not conversations.\nThe move is a direct bet on wh... [2387 chars]",
-            "url": "https://decrypt.co/364241/japan-physical-ai-trillion-parameter-softbank-nec-honda-sony",
-            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/japan-decrypt-style-scaled-gID_7.jpg",
-            "publishedAt": "2026-04-13T21:01:03Z",
+            "id": "002fc3acd1f61ef6bbce1fbf0794dc05",
+            "title": "What is Trump's approval rating amid AI-Jesus, pope controversy",
+            "description": "President Donald Trump has had a historically low approval rating for about a year. Now, he is going after Pope Leo. What do people think of the pope?",
+            "content": "President Trump criticized Pope Leo XIV on Truth Social after the pope questioned his immigration tactics and war in Iran.\nTrump's approval rating is net negative, with various polls showing his disapproval rating around 57%.\nPope Leo XIV is viewed f... [5701 chars]",
+            "url": "https://www.gainesville.com/story/news/trump/2026/04/14/donald-trump-approval-rating/89610951007/",
+            "image": "https://www.gainesville.com/gcdn/authoring/authoring-images/2026/04/14/USAT/89606458007-20260413-t-175101-z-1845233298-rc-2-hokadn-1-mj-rtrmadp-3-usatrump.JPG?crop=3983,2241,x0,y207&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2026-04-14T21:03:21Z",
             "lang": "en",
             "source": {
-                "id": "6956007add5fc13a6721202ec906b1c4",
-                "name": "Decrypt",
-                "url": "https://decrypt.co",
+                "id": "2c9e28a1c622c0b9acedb9bf0ffa9c7c",
+                "name": "Gainesville Sun",
+                "url": "https://www.gainesville.com",
                 "country": "us"
             }
         },
         {
-            "id": "fd70d71e6803b0e68a0cce26a21a0d3e",
-            "title": "The Shibarium Connection: Former Shiba Inu Devs Power AlphaPepe's AI DEX to $850K Raise",
-            "description": "The developer who built AlphaSwap worked on the Shibarium team at Shiba Inu, the Layer 2 blockchain that Shiba Inu deployed to reduce gas fees and increase transaction throughput across the SHIB ecosystem. Shibarium processed over 500 million mainnet transactions during that period. Five hundred million on-chain transactions. That is the infrastructure-level credential sitting behind […]",
-            "content": "Share\nShare\nShare\nShare\nEmail\nThe developer who built AlphaSwap worked on the Shibarium team at Shiba Inu, the Layer 2 blockchain that Shiba Inu deployed to reduce gas fees and increase transaction throughput across the SHIB ecosystem. Shibarium proc... [5164 chars]",
-            "url": "https://techbullion.com/the-shibarium-connection-former-shiba-inu-devs-power-alphapepes-ai-dex-to-850k-raise/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/04/The-Shibarium.png",
-            "publishedAt": "2026-04-13T21:00:42Z",
+            "id": "f6d632db274189e40f5063c66cb98c16",
+            "title": "What is Trump's approval rating amid AI-Jesus, pope controversy",
+            "description": "President Donald Trump has had a historically low approval rating for about a year. Now, he is going after Pope Leo. What do people think of the pope?",
+            "content": "President Trump criticized Pope Leo XIV on Truth Social after the pope questioned his immigration tactics and war in Iran.\nTrump's approval rating is net negative, with various polls showing his disapproval rating around 57%.\nPope Leo XIV is viewed f... [5701 chars]",
+            "url": "https://www.naplesnews.com/story/news/trump/2026/04/14/donald-trump-approval-rating/89610951007/",
+            "image": "https://www.naplesnews.com/gcdn/authoring/authoring-images/2026/04/14/USAT/89606458007-20260413-t-175101-z-1845233298-rc-2-hokadn-1-mj-rtrmadp-3-usatrump.JPG?crop=3983,2241,x0,y207&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2026-04-14T21:03:21Z",
+            "lang": "en",
+            "source": {
+                "id": "962276c759d367f4a07ff10d6ae9dc40",
+                "name": "Naples Daily News",
+                "url": "https://www.naplesnews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "f75d122c9e00903956937230a4ad1243",
+            "title": "Comedian Jon Stewart mocks Trump’s ‘Jesus’ meme, jokes about resembling ‘sick man’ in viral image",
+            "description": "Comedian Jon Stewart took aim at Donald Trump after a controversial AI-generated image depicting the former US president as Jesus went viral, sparking outrage and ridicule online.",
+            "content": "Anjali Thakur\nAnjali Thakur is a Senior Assistant Editor with Mint, reporting on trending news, entertainment and health, with a focus on stories driving digital conversations. Her work involves spotting early signals across news cycles and social me... [950 chars]",
+            "url": "https://www.livemint.com/us/trending/comedian-jon-stewart-mocks-trump-s-jesus-meme-jokes-about-resembling-sick-man-in-viral-image-11776199220897.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/04/14/1600x900/logo/jon_1776199197768_1776199216786.png",
+            "publishedAt": "2026-04-14T21:00:53Z",
+            "lang": "en",
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "6d29dc72c4587342b9dbbe3ea22f35dc",
+            "title": "Global Health Innovations and Regulatory Shifts",
+            "description": "Recent health news highlights significant regulatory and technological advancements in the medical field. South Korea bans syringe stockpiling due to supply concerns amid the Iran conflict, while U.S. companies like Amazon and Novo Nordisk leverage AI in drug development. The U.S. FDA grants approvals, expands trials, and investigates potential chemical risks in consumer products.",
+            "content": "South Korea is banning the stockpiling of medical needles and syringes to prevent supply disruptions, especially during ongoing geopolitical tensions impacting global supply chains, the finance ministry announced.\nIn the United States, the FDA has ap... [562 chars]",
+            "url": "https://www.devdiscourse.com/article/headlines/3874145-global-health-innovations-and-regulatory-shifts",
+            "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/23_04_2025_15_55_21_4626257.png?width=920&format=jpeg",
+            "publishedAt": "2026-04-14T21:00:47Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "7c87426209aa5fba62eac590ac5b6e6a",
+            "title": "Next Crypto To Explode: AlphaPepe Massive 5000% Forecast Leaves Ethereum and Cardano Holders Pivoting To This AI DEX Gem",
+            "description": "The comparison that is driving the pivot is arithmetic not opinion. Ethereum at $2,192 with Standard Chartered’s $7,500 year-end target is a 242% return if every condition fires over multiple years. Cardano at $0.25 with the $1.20 bull case is a 380% return if every macro condition cooperates through the full year. Both returns are […]",
+            "content": "Share\nShare\nShare\nShare\nEmail\nThe comparison that is driving the pivot is arithmetic not opinion. Ethereum at $2,192 with Standard Chartered’s $7,500 year-end target is a 242% return if every condition fires over multiple years. Cardano at $0.25 with... [5354 chars]",
+            "url": "https://techbullion.com/next-crypto-to-explode-alphapepe-massive-5000-forecast-leaves-ethereum-and-cardano-holders-pivoting-to-this-ai-dex-gem/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/04/Next-1.png",
+            "publishedAt": "2026-04-14T21:00:43Z",
             "lang": "en",
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -103,67 +151,19 @@
             }
         },
         {
-            "id": "fb0b67ae7a5be94b54dec404cbb179b2",
-            "title": "AI agents are acting like employees, but company structures still treat them like software",
-            "description": "AI agents are now operators, acting on their own accord without the need for a human manager to lead the way.",
-            "content": "Over the past year, organizations have been forced to confront the fact that AI is being deployed faster than it can be governed. The growing use of shadow AI is exposing gaps regarding who, or what, is allowed to act. Our latest research shows 91% o... [5609 chars]",
-            "url": "https://fortune.com/2026/04/13/ai-agents-governance-identity-risk-okta/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Dan-Mountstephen_26-02-26_OKTA-booth-2_3410-e1776089826101.jpg?resize=1200,600",
-            "publishedAt": "2026-04-13T21:00:00Z",
+            "id": "1ef919f018049d428e1ac11ef28e0588",
+            "title": "Over 70% of Japan high school students use AI, mostly as study assistant: survey",
+            "description": "A total of 73.7 percent of Japanese high school students are using conversational artificial intelligence, with the most common purpose being to serve as study assistant and collect information, a survey showed. According to the Gakken Research Institute for Learning and Education survey, 36.6 percent of elementary school students and…",
+            "content": "A total of 73.7 percent of Japanese high school students are using conversational artificial intelligence, with the most common purpose being to serve as study assistant and collect information, a survey showed.\nAccording to the Gakken Research Insti... [1903 chars]",
+            "url": "https://japantoday.com/category/tech/over-70-of-japan-highschoolers-use-ai-mostly-as-study-assistant-survey",
+            "image": "https://media.japantoday.com/img/store/fd/3b/192ca5802e293539f93e07b6d53b454b99de/ap23138717768313/_w1700.jpeg",
+            "publishedAt": "2026-04-14T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "1be9c9755d14b183df45f304ba8c493c",
-            "title": "Graduates in an AI world must be problem solvers, not armchair thinkers",
-            "description": "Academic mastery no longer suffices. Read more at straitstimes.com.",
-            "content": "Imagine being just 18 years old and outperforming experienced professionals in problem solving, not just in terms of superiority of solutioning, but in the speed of ideation and prototyping as well.\nThis is exactly what is happening with the astronom... [7737 chars]",
-            "url": "https://www.straitstimes.com/opinion/graduates-in-an-ai-world-must-be-problem-solvers-not-armchair-thinkers",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cd3352f1795498a5f9a4262287c7abb0735dfc903cecf3fd23b5f0ff9a1a9bda",
-            "publishedAt": "2026-04-13T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "3a000bf8c77f32de22b8d14f5f2da9b1",
-            "title": "Could Isle of Man’s World-First Data Law Reshape AI Stock Valuations?",
-            "description": "Market Analysis by covering: S&P 500, Snowflake Inc, Palantir Technologies Inc. Read 's Market Analysis on Investing.com",
-            "content": "The Isle of Man has introduced the Foundations (Amendment) Bill 2025, a major move in data law, becoming the first jurisdiction to legally recognize data as a governed asset.\nThis allows organizations to list data assets on balance sheets, license th... [4446 chars]",
-            "url": "https://www.investing.com/analysis/could-isle-of-mans-worldfirst-data-law-reshape-ai-stock-valuations-200678356",
-            "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-            "publishedAt": "2026-04-13T20:56:52Z",
-            "lang": "en",
-            "source": {
-                "id": "e86028f8795c9864b8757b36b53954ef",
-                "name": "Investing.com",
-                "url": "https://www.investing.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "49829a2130e2b5c4562d864e8768eeee",
-            "title": "Ignore the Anthropic Panic and Keep Buying Palantir Stock, Says Wedbush",
-            "description": "Wedbush urges investors to tune out the Anthropic noise and keep buying Palantir, betting on its strong AI moat and solid fundamentals.",
-            "content": "Not so long ago, Palantir Technologies (PLTR) was one of the hottest artificial intelligence (AI) and analytics stocks on Wall Street. Investors loved the company’s story, using generative AI to grow its commercial business while also landing big gov... [7148 chars]",
-            "url": "https://www.barchart.com/story/news/1282433/ignore-the-anthropic-panic-and-keep-buying-palantir-stock-says-wedbush",
-            "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20J%20-%20Z)/A%20Palantir%20office%20building%20in%20Tokyo_%20Image%20by%20Hiroshi-Mori-Stock%20via%20Shutterstock_.jpg",
-            "publishedAt": "2026-04-13T20:53:22Z",
-            "lang": "en",
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
             }
         }
     ]
