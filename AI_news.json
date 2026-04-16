@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 309044,
+    "totalArticles": 310212,
     "articles": [
         {
-            "id": "f70814dfad573ee08859149b2dfef15f",
-            "title": "Chatbots quietly agree with everything you say, and researchers reveal how simple prompt changes can fix the problem",
-            "description": "Users unknowingly influence AI answers through framing and tone choices",
-            "content": "Chatbots often mirror user opinions instead of challenging assumptions directly\nConfident wording significantly increases agreement levels in large language models\nQuestion-based prompts reduce sycophantic responses across tested AI systems\nA simple ... [2825 chars]",
-            "url": "https://www.techradar.com/pro/chatbots-respond-not-just-to-what-you-ask-but-how-you-ask-it-ai-agents-might-be-sucking-up-to-you-and-not-giving-you-proper-answers-heres-how-to-fix-it",
-            "image": "https://cdn.mos.cms.futurecdn.net/SjSwAU6f7Pkb5hStzepX5L-2560-80.jpg",
-            "publishedAt": "2026-04-14T21:05:00Z",
+            "id": "74341e8e8e7767d7b7d9bdac1ea22b32",
+            "title": "Experts Weigh In On Mike Johnson's Reaction To Trump's AI Christ-Like Post",
+            "description": "People on social media were not pleased with the House speaker's refusal to condemn Trump's recent post. Experts in political science weigh in.",
+            "content": "LOADINGERROR LOADING\nHouse Speaker Mike Johnson (R-La.) has been criticized online for attempting to excuse President Donald Trump after he posted an AI-generated image depicting himself as a Christ-like figure — and experts in political science weig... [4018 chars]",
+            "url": "https://www.huffpost.com/entry/donald-trump-mike-johnson-jesus-christ-ai-image-experts_l_69dfbb35e4b05c8319ce17fe",
+            "image": "https://img.huffingtonpost.com/asset/69dfdbfd140000e33886e66a.jpeg?cache=EBiidCuZTE&ops=1200_630",
+            "publishedAt": "2026-04-15T21:02:36Z",
             "lang": "en",
             "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "8e32f105187e508a48e6eff5b2e87833",
-            "title": "Canada’s AI minister says Anthropic withholding Mythos is ‘responsible’",
-            "description": "Artificial Intelligence Minister Evan Solomon met on Tuesday with representatives of Anthropic — the company that said its latest chatbot, Mythos, is too risky for public release.",
-            "content": "Artificial Intelligence Minister Evan Solomon met on Tuesday with representatives of Anthropic — the company that said its latest chatbot, Mythos, is too risky for public release last week.\nAnthropic released a system preview card surrounding its new... [1339 chars]",
-            "url": "https://globalnews.ca/news/11801374/evan-solomon-anthropic-mythos-meeting/",
-            "image": "https://globalnews.ca/wp-content/uploads/2026/04/anthropic-ai-evan-solomon.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-            "publishedAt": "2026-04-14T21:04:49Z",
-            "lang": "en",
-            "source": {
-                "id": "49853ffafc28f405ff8ed06043290ae8",
-                "name": "Global News",
-                "url": "https://globalnews.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "d387cad6a97a218d6ce77f912a3f49d2",
-            "title": "What is Trump's approval rating amid AI-Jesus, pope controversy",
-            "description": "President Donald Trump has had a historically low approval rating for about a year. Now, he is going after Pope Leo. What do people think of the pope?",
-            "content": "President Trump criticized Pope Leo XIV on Truth Social after the pope questioned his immigration tactics and war in Iran.\nTrump's approval rating is net negative, with various polls showing his disapproval rating around 57%.\nPope Leo XIV is viewed f... [5701 chars]",
-            "url": "https://www.tcpalm.com/story/news/trump/2026/04/14/donald-trump-approval-rating/89610951007/",
-            "image": "https://www.tcpalm.com/gcdn/authoring/authoring-images/2026/04/14/USAT/89606458007-20260413-t-175101-z-1845233298-rc-2-hokadn-1-mj-rtrmadp-3-usatrump.JPG?crop=3983,2241,x0,y207&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2026-04-14T21:03:21Z",
-            "lang": "en",
-            "source": {
-                "id": "2f8537c09d2342edda5b9b6bd4c02b75",
-                "name": "TCPalm",
-                "url": "https://www.tcpalm.com",
+                "id": "e382ce4dfbd3358e338d63782000b7df",
+                "name": "HuffPost",
+                "url": "https://www.huffpost.com",
                 "country": "us"
             }
         },
         {
-            "id": "85aa2178df644cd58e6cd94fd5798c2a",
-            "title": "What is Trump's approval rating amid AI-Jesus, pope controversy",
-            "description": "President Donald Trump has had a historically low approval rating for about a year. Now, he is going after Pope Leo. What do people think of the pope?",
-            "content": "President Trump criticized Pope Leo XIV on Truth Social after the pope questioned his immigration tactics and war in Iran.\nTrump's approval rating is net negative, with various polls showing his disapproval rating around 57%.\nPope Leo XIV is viewed f... [5701 chars]",
-            "url": "https://www.heraldtribune.com/story/news/trump/2026/04/14/donald-trump-approval-rating/89610951007/",
-            "image": "https://www.heraldtribune.com/gcdn/authoring/authoring-images/2026/04/14/USAT/89606458007-20260413-t-175101-z-1845233298-rc-2-hokadn-1-mj-rtrmadp-3-usatrump.JPG?crop=3983,2241,x0,y207&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2026-04-14T21:03:21Z",
+            "id": "978f9fc1356680d63905b96b49b9bd67",
+            "title": "Study finds AI can match clinicians in interview assessment",
+            "description": "Clinical interviewing is one of the most important skills physicians develop during their training. It forms the foundation for accurate diagnosis and effective patient care.",
+            "content": "Clinical interviewing is one of the most important skills physicians develop during their training. It forms the foundation for accurate diagnosis and effective patient care. However, evaluating these skills is often time-intensive, requiring repeate... [4070 chars]",
+            "url": "https://www.news-medical.net/news/20260415/Study-finds-AI-can-match-clinicians-in-interview-assessment.aspx",
+            "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2026-04-15T21:01:00Z",
             "lang": "en",
             "source": {
-                "id": "4a8966ab09903fecadfd9645c3ce0951",
-                "name": "Herald-Tribune",
-                "url": "https://www.heraldtribune.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "002fc3acd1f61ef6bbce1fbf0794dc05",
-            "title": "What is Trump's approval rating amid AI-Jesus, pope controversy",
-            "description": "President Donald Trump has had a historically low approval rating for about a year. Now, he is going after Pope Leo. What do people think of the pope?",
-            "content": "President Trump criticized Pope Leo XIV on Truth Social after the pope questioned his immigration tactics and war in Iran.\nTrump's approval rating is net negative, with various polls showing his disapproval rating around 57%.\nPope Leo XIV is viewed f... [5701 chars]",
-            "url": "https://www.gainesville.com/story/news/trump/2026/04/14/donald-trump-approval-rating/89610951007/",
-            "image": "https://www.gainesville.com/gcdn/authoring/authoring-images/2026/04/14/USAT/89606458007-20260413-t-175101-z-1845233298-rc-2-hokadn-1-mj-rtrmadp-3-usatrump.JPG?crop=3983,2241,x0,y207&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2026-04-14T21:03:21Z",
-            "lang": "en",
-            "source": {
-                "id": "2c9e28a1c622c0b9acedb9bf0ffa9c7c",
-                "name": "Gainesville Sun",
-                "url": "https://www.gainesville.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "f6d632db274189e40f5063c66cb98c16",
-            "title": "What is Trump's approval rating amid AI-Jesus, pope controversy",
-            "description": "President Donald Trump has had a historically low approval rating for about a year. Now, he is going after Pope Leo. What do people think of the pope?",
-            "content": "President Trump criticized Pope Leo XIV on Truth Social after the pope questioned his immigration tactics and war in Iran.\nTrump's approval rating is net negative, with various polls showing his disapproval rating around 57%.\nPope Leo XIV is viewed f... [5701 chars]",
-            "url": "https://www.naplesnews.com/story/news/trump/2026/04/14/donald-trump-approval-rating/89610951007/",
-            "image": "https://www.naplesnews.com/gcdn/authoring/authoring-images/2026/04/14/USAT/89606458007-20260413-t-175101-z-1845233298-rc-2-hokadn-1-mj-rtrmadp-3-usatrump.JPG?crop=3983,2241,x0,y207&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2026-04-14T21:03:21Z",
-            "lang": "en",
-            "source": {
-                "id": "962276c759d367f4a07ff10d6ae9dc40",
-                "name": "Naples Daily News",
-                "url": "https://www.naplesnews.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "f75d122c9e00903956937230a4ad1243",
-            "title": "Comedian Jon Stewart mocks Trump’s ‘Jesus’ meme, jokes about resembling ‘sick man’ in viral image",
-            "description": "Comedian Jon Stewart took aim at Donald Trump after a controversial AI-generated image depicting the former US president as Jesus went viral, sparking outrage and ridicule online.",
-            "content": "Anjali Thakur\nAnjali Thakur is a Senior Assistant Editor with Mint, reporting on trending news, entertainment and health, with a focus on stories driving digital conversations. Her work involves spotting early signals across news cycles and social me... [950 chars]",
-            "url": "https://www.livemint.com/us/trending/comedian-jon-stewart-mocks-trump-s-jesus-meme-jokes-about-resembling-sick-man-in-viral-image-11776199220897.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/04/14/1600x900/logo/jon_1776199197768_1776199216786.png",
-            "publishedAt": "2026-04-14T21:00:53Z",
-            "lang": "en",
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "6d29dc72c4587342b9dbbe3ea22f35dc",
-            "title": "Global Health Innovations and Regulatory Shifts",
-            "description": "Recent health news highlights significant regulatory and technological advancements in the medical field. South Korea bans syringe stockpiling due to supply concerns amid the Iran conflict, while U.S. companies like Amazon and Novo Nordisk leverage AI in drug development. The U.S. FDA grants approvals, expands trials, and investigates potential chemical risks in consumer products.",
-            "content": "South Korea is banning the stockpiling of medical needles and syringes to prevent supply disruptions, especially during ongoing geopolitical tensions impacting global supply chains, the finance ministry announced.\nIn the United States, the FDA has ap... [562 chars]",
-            "url": "https://www.devdiscourse.com/article/headlines/3874145-global-health-innovations-and-regulatory-shifts",
-            "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/23_04_2025_15_55_21_4626257.png?width=920&format=jpeg",
-            "publishedAt": "2026-04-14T21:00:47Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "7c87426209aa5fba62eac590ac5b6e6a",
-            "title": "Next Crypto To Explode: AlphaPepe Massive 5000% Forecast Leaves Ethereum and Cardano Holders Pivoting To This AI DEX Gem",
-            "description": "The comparison that is driving the pivot is arithmetic not opinion. Ethereum at $2,192 with Standard Chartered’s $7,500 year-end target is a 242% return if every condition fires over multiple years. Cardano at $0.25 with the $1.20 bull case is a 380% return if every macro condition cooperates through the full year. Both returns are […]",
-            "content": "Share\nShare\nShare\nShare\nEmail\nThe comparison that is driving the pivot is arithmetic not opinion. Ethereum at $2,192 with Standard Chartered’s $7,500 year-end target is a 242% return if every condition fires over multiple years. Cardano at $0.25 with... [5354 chars]",
-            "url": "https://techbullion.com/next-crypto-to-explode-alphapepe-massive-5000-forecast-leaves-ethereum-and-cardano-holders-pivoting-to-this-ai-dex-gem/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/04/Next-1.png",
-            "publishedAt": "2026-04-14T21:00:43Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
                 "country": "gb"
             }
         },
         {
-            "id": "1ef919f018049d428e1ac11ef28e0588",
-            "title": "Over 70% of Japan high school students use AI, mostly as study assistant: survey",
-            "description": "A total of 73.7 percent of Japanese high school students are using conversational artificial intelligence, with the most common purpose being to serve as study assistant and collect information, a survey showed. According to the Gakken Research Institute for Learning and Education survey, 36.6 percent of elementary school students and…",
-            "content": "A total of 73.7 percent of Japanese high school students are using conversational artificial intelligence, with the most common purpose being to serve as study assistant and collect information, a survey showed.\nAccording to the Gakken Research Insti... [1903 chars]",
-            "url": "https://japantoday.com/category/tech/over-70-of-japan-highschoolers-use-ai-mostly-as-study-assistant-survey",
-            "image": "https://media.japantoday.com/img/store/fd/3b/192ca5802e293539f93e07b6d53b454b99de/ap23138717768313/_w1700.jpeg",
-            "publishedAt": "2026-04-14T21:00:00Z",
+            "id": "74c2e38256d1086bda19c132262e756b",
+            "title": "Grayson Perry Has Seen the Future review - some of these insights into AI are just mindblowing",
+            "description": "From people marrying digital companions to CEOs excited about how people whose jobs are replaced can ‘adapt’, this is terrifying watching. But Perry is the perfect host",
+            "content": "There is a fun game you can play while watching Grayson Perry Has Seen the Future, the three-part documentary presented by the artist on the subject of artificial intelligence, its uses and its possible ramifications. Gather a group of friends, press... [4168 chars]",
+            "url": "https://www.theguardian.com/tv-and-radio/2026/apr/15/grayson-perry-has-seen-future-review",
+            "image": "https://i.guim.co.uk/img/media/adf48d850ed4ce6eeba2ebf39c4088d916301bbb/411_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=c1add20b25fe28545545fcc16b6f26d5",
+            "publishedAt": "2026-04-15T21:00:38Z",
+            "lang": "en",
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "7f62307a4f80bab797a39350c0bb2e64",
+            "title": "KneNest Knee Pillow Claims Evaluated: The AI-Powered Knee Pillow for Side Sleeper's Comfort & Support",
+            "description": "knēNest outlines how its zero-center cradle design is described for side sleepers managing back pain, hip discomfort, and sciatica - including materials, professional perspectives, pricing, and the 60-day guarantee.",
+            "content": "knēNest outlines how its zero-center cradle design is described for side sleepers managing back pain, hip discomfort, and sciatica - including materials, professional perspectives, pricing, and the 60-day guarantee.\nTraverse City, MI, April 15, 2026 ... [23656 chars]",
+            "url": "https://www.manilatimes.net/2026/04/16/tmt-newswire/globenewswire/knenest-knee-pillow-claims-evaluated-the-ai-powered-knee-pillow-for-side-sleepers-comfort-support/2321458",
+            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/16/1015287.png",
+            "publishedAt": "2026-04-15T21:00:29Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "c64f0aad7133b3578c446ce222b5e527",
+            "title": "The Boys Predicted Donald Trump's AI Jesus Image Before It Happened",
+            "description": "The Boys' satirical nature has often mimicked what's going on in the real world, and somehow, it even predicted Donald Trump's latest AI controversy.",
+            "content": "Warning: This article contains SPOILERS for The Boys season 5, episode 3, \"Every One of You Sons of Bitches.\"\nAs The Boys season 5 dives deeper into its dark storyline, the show continues to let its satirical nature thrive, as it keeps on predicting ... [4864 chars]",
+            "url": "https://screenrant.com/the-boys-season-5-homelander-jesus-trump-predict/",
+            "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/oh-father-looking-out-to-the-crowd-in-the-boys-season-5.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-04-15T21:00:19Z",
+            "lang": "en",
+            "source": {
+                "id": "6b8b6fae575a37200ef9ef50109518f5",
+                "name": "Screen Rant",
+                "url": "https://screenrant.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "455b0d12e8b8498b02b586ce7e5efe37",
+            "title": "AI-rendered Val Kilmer debuts in 'As Deep as the Grave' trailer",
+            "description": "The filmmakers behind “As Deep as the Grave,” the indie film that is using an artificial intelligence-rendered version of Val Kilmer in a prominent role, debuted a first look at the recreated actor Wednesday at CinemaCon in Las Vegas. “Don’t fear the dead and don’t fear me,” Kilmer’s character, Father…",
+            "content": "The filmmakers behind “As Deep as the Grave,” the indie film that is using an artificial intelligence-rendered version of Val Kilmer in a prominent role, debuted a first look at the recreated actor Wednesday at CinemaCon in Las Vegas.\n“Don’t fear the... [2901 chars]",
+            "url": "https://japantoday.com/category/entertainment/ai-rendered-val-kilmer-debuts-in-%27as-deep-as-the-grave%27-trailer",
+            "image": "https://media.japantoday.com/img/store/68/2d/fd3ad4f1d3ec95bee667c93314856726ab70/download/_w1700.jpeg",
+            "publishedAt": "2026-04-15T21:00:00Z",
             "lang": "en",
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
                 "name": "Japan Today",
                 "url": "https://japantoday.com",
                 "country": "jp"
+            }
+        },
+        {
+            "id": "87ad66723e8aec21d7da36544f398ecd",
+            "title": "AI is coming for your job, your partner and even your god",
+            "description": "Grayson Perry’s ability to see the absurd is necessary in this terrifying look into how artificial intelligence is set to transform humanity",
+            "content": "Grayson Perry Has seen the Future (Channel 4) and he doesn’t like it. After watching this programme, neither do I. AI is going to transform humanity, and it’s in the hands of people who seem oddly blasé about the consequences.\nIn this first episode i... [2681 chars]",
+            "url": "https://www.telegraph.co.uk/tv/0/grayson-perry-has-seen-the-future-channel-4-review/",
+            "image": "https://www.telegraph.co.uk/content/dam/tv/2026/04/13/TELEMMGLPICT000476538785_177610053963914_trans_NvBQzQNjv4Bqty4yeJ4VyqJEiEyJ1c5SFUiZUFjN6GIfkNAXURg325g.jpeg?impolicy=OG-Review-4",
+            "publishedAt": "2026-04-15T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "bff0cd3b8c64dceaada8841bea814f65",
+                "name": "The Telegraph",
+                "url": "https://www.telegraph.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "4ef01275e45f0273958ccf5f71767134",
+            "title": "AI-rendered Val Kilmer debuts in 'As Deep as the Grave' trailer",
+            "description": "The filmmakers behind “As Deep as the Grave,” the indie film that is using an artificial intelligence-rendered version of Val Kilmer in a prominent role, debuted a first look at the recreated actor Wednesday at CinemaCon in Las Vegas. “Don’t fear the dead and don’t fear me,” Kilmer’s character, Father…",
+            "content": "The filmmakers behind “As Deep as the Grave,” the indie film that is using an artificial intelligence-rendered version of Val Kilmer in a prominent role, debuted a first look at the recreated actor Wednesday at CinemaCon in Las Vegas.\n“Don’t fear the... [2901 chars]",
+            "url": "https://japantoday.com/category/entertainment/ai-rendered-val-kilmer-debuts-in-'as-deep-as-the-grave'-trailer",
+            "image": "https://media.japantoday.com/img/store/68/2d/fd3ad4f1d3ec95bee667c93314856726ab70/download/_w1700.jpeg",
+            "publishedAt": "2026-04-15T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            }
+        },
+        {
+            "id": "a321a5cb07773097269201bbf0834d90",
+            "title": "AI-driven chip shortage slowing efforts to get world online: GSMA",
+            "description": "A memory chip crunch fueled by the artificial intelligence boom is hindering efforts to bring more people online worldwide, the head of the GSMA telecoms industry association told AFP. An estimated 2.2 billion people -- around a quarter of the global population -- were not connected to the internet at…",
+            "content": "A memory chip crunch fueled by the artificial intelligence boom is hindering efforts to bring more people online worldwide, the head of the GSMA telecoms industry association told AFP.\nAn estimated 2.2 billion people -- around a quarter of the global... [2781 chars]",
+            "url": "https://japantoday.com/category/tech/ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma",
+            "image": "https://media.japantoday.com/img/store/29/55/5b6add4e000a0b48da8b26250cafcfcf0c9e/b3f7174296e411676b2dc42111330bc6878cae4d/_w1700.jpeg",
+            "publishedAt": "2026-04-15T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            }
+        },
+        {
+            "id": "a29d9320436bf12b98ad1fa69785eeb9",
+            "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
+            "description": "Suit alleges the billionaire’s AI company is illegally spewing toxic pollutants from its datacenters in the Memphis area",
+            "content": "A new lawsuit accuses Elon Musk’s artificial intelligence company of illegally spewing toxic pollutants into residential neighborhoods on the border of Tennessee and Mississippi.\nThe suit, filed on Tuesday in Mississippi federal court, alleges xAI is... [3895 chars]",
+            "url": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
+            "image": "https://i.guim.co.uk/img/media/cf50ef8428c2cce2dfc2bbe5eb18dd937a95ebcf/1045_0_4493_3597/master/4493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a90c904e2ba63d7152f7f30f9d0538c9",
+            "publishedAt": "2026-04-15T20:58:07Z",
+            "lang": "en",
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
             }
         }
     ]
