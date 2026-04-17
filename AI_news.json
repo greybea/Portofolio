@@ -4,96 +4,64 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 310212,
+    "totalArticles": 311289,
     "articles": [
         {
-            "id": "74341e8e8e7767d7b7d9bdac1ea22b32",
-            "title": "Experts Weigh In On Mike Johnson's Reaction To Trump's AI Christ-Like Post",
-            "description": "People on social media were not pleased with the House speaker's refusal to condemn Trump's recent post. Experts in political science weigh in.",
-            "content": "LOADINGERROR LOADING\nHouse Speaker Mike Johnson (R-La.) has been criticized online for attempting to excuse President Donald Trump after he posted an AI-generated image depicting himself as a Christ-like figure — and experts in political science weig... [4018 chars]",
-            "url": "https://www.huffpost.com/entry/donald-trump-mike-johnson-jesus-christ-ai-image-experts_l_69dfbb35e4b05c8319ce17fe",
-            "image": "https://img.huffingtonpost.com/asset/69dfdbfd140000e33886e66a.jpeg?cache=EBiidCuZTE&ops=1200_630",
-            "publishedAt": "2026-04-15T21:02:36Z",
+            "id": "333a78c54ab80a8e5ef5a9967037be25",
+            "title": "Bloom Energy: Oracle Reinforces AI Power Surge",
+            "description": "Bloom Energy Corporation surged on a major expanded deal with Oracle, securing up to 2.8 GW of fuel cell systems. Read more on BE stock here.",
+            "content": "Analyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I ... [1064 chars]",
+            "url": "https://seekingalpha.com/article/4891393-bloom-energy-oracle-reinforces-ai-power-surge",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1867844462/image_1867844462.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-04-16T21:02:58Z",
             "lang": "en",
             "source": {
-                "id": "e382ce4dfbd3358e338d63782000b7df",
-                "name": "HuffPost",
-                "url": "https://www.huffpost.com",
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
                 "country": "us"
             }
         },
         {
-            "id": "978f9fc1356680d63905b96b49b9bd67",
-            "title": "Study finds AI can match clinicians in interview assessment",
-            "description": "Clinical interviewing is one of the most important skills physicians develop during their training. It forms the foundation for accurate diagnosis and effective patient care.",
-            "content": "Clinical interviewing is one of the most important skills physicians develop during their training. It forms the foundation for accurate diagnosis and effective patient care. However, evaluating these skills is often time-intensive, requiring repeate... [4070 chars]",
-            "url": "https://www.news-medical.net/news/20260415/Study-finds-AI-can-match-clinicians-in-interview-assessment.aspx",
-            "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2026-04-15T21:01:00Z",
+            "id": "6578afbe85765f868f7604db2bd97298",
+            "title": "AI Company Hiring on LinkedIn Wants to Train Your Replacement at Work",
+            "description": "Mercor is promising to replicate most professional work. It was also co-founded by twentysomethings who previously never held a real job.",
+            "content": "When Tasha Kozak, a social worker for the Hillsborough County Public Schools in Tampa, met the family, they were living in a car. The three children’s grades had been slipping. The mother was exhausted. The father was out of the picture. Kozak began ... [345 chars]",
+            "url": "https://www.bloomberg.com/news/features/2026-04-16/ai-company-hiring-on-linkedin-wants-to-train-your-replacement-at-work",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Kwn3sTZ3bY/v0/1200x630.jpg",
+            "publishedAt": "2026-04-16T21:00:10Z",
             "lang": "en",
             "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "74c2e38256d1086bda19c132262e756b",
-            "title": "Grayson Perry Has Seen the Future review - some of these insights into AI are just mindblowing",
-            "description": "From people marrying digital companions to CEOs excited about how people whose jobs are replaced can ‘adapt’, this is terrifying watching. But Perry is the perfect host",
-            "content": "There is a fun game you can play while watching Grayson Perry Has Seen the Future, the three-part documentary presented by the artist on the subject of artificial intelligence, its uses and its possible ramifications. Gather a group of friends, press... [4168 chars]",
-            "url": "https://www.theguardian.com/tv-and-radio/2026/apr/15/grayson-perry-has-seen-future-review",
-            "image": "https://i.guim.co.uk/img/media/adf48d850ed4ce6eeba2ebf39c4088d916301bbb/411_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=c1add20b25fe28545545fcc16b6f26d5",
-            "publishedAt": "2026-04-15T21:00:38Z",
-            "lang": "en",
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "7f62307a4f80bab797a39350c0bb2e64",
-            "title": "KneNest Knee Pillow Claims Evaluated: The AI-Powered Knee Pillow for Side Sleeper's Comfort & Support",
-            "description": "knēNest outlines how its zero-center cradle design is described for side sleepers managing back pain, hip discomfort, and sciatica - including materials, professional perspectives, pricing, and the 60-day guarantee.",
-            "content": "knēNest outlines how its zero-center cradle design is described for side sleepers managing back pain, hip discomfort, and sciatica - including materials, professional perspectives, pricing, and the 60-day guarantee.\nTraverse City, MI, April 15, 2026 ... [23656 chars]",
-            "url": "https://www.manilatimes.net/2026/04/16/tmt-newswire/globenewswire/knenest-knee-pillow-claims-evaluated-the-ai-powered-knee-pillow-for-side-sleepers-comfort-support/2321458",
-            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/16/1015287.png",
-            "publishedAt": "2026-04-15T21:00:29Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "c64f0aad7133b3578c446ce222b5e527",
-            "title": "The Boys Predicted Donald Trump's AI Jesus Image Before It Happened",
-            "description": "The Boys' satirical nature has often mimicked what's going on in the real world, and somehow, it even predicted Donald Trump's latest AI controversy.",
-            "content": "Warning: This article contains SPOILERS for The Boys season 5, episode 3, \"Every One of You Sons of Bitches.\"\nAs The Boys season 5 dives deeper into its dark storyline, the show continues to let its satirical nature thrive, as it keeps on predicting ... [4864 chars]",
-            "url": "https://screenrant.com/the-boys-season-5-homelander-jesus-trump-predict/",
-            "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/oh-father-looking-out-to-the-crowd-in-the-boys-season-5.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-04-15T21:00:19Z",
-            "lang": "en",
-            "source": {
-                "id": "6b8b6fae575a37200ef9ef50109518f5",
-                "name": "Screen Rant",
-                "url": "https://screenrant.com",
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
                 "country": "us"
             }
         },
         {
-            "id": "455b0d12e8b8498b02b586ce7e5efe37",
-            "title": "AI-rendered Val Kilmer debuts in 'As Deep as the Grave' trailer",
-            "description": "The filmmakers behind “As Deep as the Grave,” the indie film that is using an artificial intelligence-rendered version of Val Kilmer in a prominent role, debuted a first look at the recreated actor Wednesday at CinemaCon in Las Vegas. “Don’t fear the dead and don’t fear me,” Kilmer’s character, Father…",
-            "content": "The filmmakers behind “As Deep as the Grave,” the indie film that is using an artificial intelligence-rendered version of Val Kilmer in a prominent role, debuted a first look at the recreated actor Wednesday at CinemaCon in Las Vegas.\n“Don’t fear the... [2901 chars]",
-            "url": "https://japantoday.com/category/entertainment/ai-rendered-val-kilmer-debuts-in-%27as-deep-as-the-grave%27-trailer",
-            "image": "https://media.japantoday.com/img/store/68/2d/fd3ad4f1d3ec95bee667c93314856726ab70/download/_w1700.jpeg",
-            "publishedAt": "2026-04-15T21:00:00Z",
+            "id": "7cb8495e36e09185c1347a10cf7c9807",
+            "title": "Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents",
+            "description": "Salesforce launched Headless 360 at TDX, opening its CRM platform to AI agents through APIs, MCP tools and CLI commands in a major push to make enterprise software work without the browser.",
+            "content": "Salesforce on Wednesday unveiled the most ambitious architectural transformation in its 27-year history, introducing \"Headless 360\" — a sweeping initiative that exposes every capability in its platform as an API, MCP tool, or CLI command so AI agents... [13893 chars]",
+            "url": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents",
+            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/20o4KbpCNvhGDbjACvvc46/33584beeede6af5fbfc2d328076a0e64/nuneybits_Vector_art_of_Salesforce_Tower_bc4b6995-07bd-4746-97a9-9dfda2ab92d0.webp?w=800&q=75",
+            "publishedAt": "2026-04-16T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "4ac552c5d5143dd953f73b74ea2a4a1c",
+            "title": "OpenAI announces restricted-access cybersecurity model",
+            "description": "Artificial intelligence company OpenAI says it will release its latest cybersecurity model to a limited number of partners, after rival Anthropic also restricted release of a new system that uncovered thousands of vulnerabilities. The restricted releases by two of the biggest names in the field reflect fears of an AI-enabled…",
+            "content": "Artificial intelligence company OpenAI says it will release its latest cybersecurity model to a limited number of partners, after rival Anthropic also restricted release of a new system that uncovered thousands of vulnerabilities.\nThe restricted rele... [2197 chars]",
+            "url": "https://japantoday.com/category/tech/openai-announces-restricted-access-cybersecurity-model",
+            "image": "https://media.japantoday.com/img/store/34/54/768d596cd59c8f843674cd8dfd09862d8f96/e18390710557e5a1402e939fbf8ac67452ef11a7/_w1700.jpeg",
+            "publishedAt": "2026-04-16T21:00:00Z",
             "lang": "en",
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -103,66 +71,98 @@
             }
         },
         {
-            "id": "87ad66723e8aec21d7da36544f398ecd",
-            "title": "AI is coming for your job, your partner and even your god",
-            "description": "Grayson Perry’s ability to see the absurd is necessary in this terrifying look into how artificial intelligence is set to transform humanity",
-            "content": "Grayson Perry Has seen the Future (Channel 4) and he doesn’t like it. After watching this programme, neither do I. AI is going to transform humanity, and it’s in the hands of people who seem oddly blasé about the consequences.\nIn this first episode i... [2681 chars]",
-            "url": "https://www.telegraph.co.uk/tv/0/grayson-perry-has-seen-the-future-channel-4-review/",
-            "image": "https://www.telegraph.co.uk/content/dam/tv/2026/04/13/TELEMMGLPICT000476538785_177610053963914_trans_NvBQzQNjv4Bqty4yeJ4VyqJEiEyJ1c5SFUiZUFjN6GIfkNAXURg325g.jpeg?impolicy=OG-Review-4",
-            "publishedAt": "2026-04-15T21:00:00Z",
+            "id": "886ce1a8aab116e023522acd8643d522",
+            "title": "AI content should be labelled, heritage committee says",
+            "description": "A House of Commons committee says the government should require that content generated by artificial intelligence be clearly labelled.",
+            "content": "The government should require that content generated by artificial intelligence be clearly labelled, a House of Commons committee said in a new report.\nThe members of Parliament on the committee are calling for standardized labels for AI content that... [1952 chars]",
+            "url": "https://cheknews.ca/ai-content-should-be-labelled-heritage-committee-says-1319215/",
+            "image": "https://cheknews.ca/wp-content/uploads/2026/04/50942dba7c6473b3e7c1bdd07da805693a17a852c95568a4ba79f38b891437f3-e1776372064313.jpg",
+            "publishedAt": "2026-04-16T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "bff0cd3b8c64dceaada8841bea814f65",
-                "name": "The Telegraph",
-                "url": "https://www.telegraph.co.uk",
+                "id": "010284b7a4ddb4771793c29b39893951",
+                "name": "CHEK News",
+                "url": "https://cheknews.ca",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "1be4d1a511ecbf352c1418c3e292bd05",
+            "title": "Manycore bets on 'spatial intelligence' after HK IPO",
+            "description": "Manycore Tech debuts on Hong Kong's stock exchange today, following a $130 million IPO—and contributing to the Chinese city's AI listing boom.",
+            "content": "“The IPO is important for us to attract the most talented engineers to join us, to buy more GPUs, and to collect more data,” Victor Huang, Manycore’s chair and one of its cofounders, told Fortune ahead of the trading debut.\nThe Hangzhou-based startup... [7950 chars]",
+            "url": "https://fortune.com/2026/04/16/manycore-ipo-hong-kong-shares-debut-victor-huang-jixun-foo/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270660849-e1776354507338.jpg?resize=1200,600",
+            "publishedAt": "2026-04-16T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "5732ab60fe5d7d56b566e7cedd78d304",
+            "title": "The end of ‘easy’ IT jobs? India’s tech workforce faces AI challenges",
+            "description": "The conventional strategy of studying computer science to become a software developer may no longer be sustainable. Read more at straitstimes.com.",
+            "content": "– Many Indian workers form the backbone of information technology firms worldwide. Ms Tanya Gupta (not her real name) has been one of them, handholding new customers for an American financial software firm in Dublin, Ireland, for nearly five years.\nT... [8079 chars]",
+            "url": "https://www.straitstimes.com/asia/south-asia/the-end-of-easy-it-jobs-indias-tech-workforce-faces-ai-challenges",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ae6d89bf9f5286c2d27dcdb6ffa6913a4ee995fa15a552e74727af1dbaf1779f",
+            "publishedAt": "2026-04-16T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "35b04d100cd08c9232f4920b73df2ca0",
+            "title": "Transparency in Drug Approvals and Weight-loss Innovations: Current Health News Highlights",
+            "description": "Recent health news briefs focus on the need for more transparency in the FDA's accelerated drug approval, Lilly and Novo's weight-loss drugs effects, FDA's testosterone therapy deliberations, and OpenAI's life sciences AI model. Additional stories cover Kimberly-Clark's finance shift, Abbott's forecast cut, and the Global Fund's HIV drug expansion.",
+            "content": "The Institute for Clinical and Economic Review (ICER) has called for increased transparency from the U.S. Food and Drug Administration (FDA) concerning its accelerated drug approval process. This pathway, designed to expedite treatments for serious c... [1118 chars]",
+            "url": "https://www.devdiscourse.com/article/health/3876935-transparency-in-drug-approvals-and-weight-loss-innovations-current-health-news-highlights",
+            "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/07_08_2025_15_40_59_4530301.png?width=920&format=jpeg",
+            "publishedAt": "2026-04-16T20:59:52Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "b84d57a9ae13a7b2f2f045459ad82b6e",
+            "title": "Vidmud: A Privacy-First, Free AI Photo Editor for Effortless Creativity",
+            "description": "Vidmud represents a new generation of online tools that prioritize user needs over profit-driven models. By combining powerful AI capabilities with a strict commitment to privacy and accessibility, it delivers an experience that is both efficient and trustworthy.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nIn today’s digital world, photo editing has become an essential part of everyday life. Whether you’re enhancing personal memories, creating social media content, or working on professional visuals, having access to a rel... [5116 chars]",
+            "url": "https://techbullion.com/vidmud-a-privacy-first-free-ai-photo-editor-for-effortless-creativity/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-17-2026-01_56_33-AM-1000x600.png",
+            "publishedAt": "2026-04-16T20:57:07Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
                 "country": "gb"
             }
         },
         {
-            "id": "4ef01275e45f0273958ccf5f71767134",
-            "title": "AI-rendered Val Kilmer debuts in 'As Deep as the Grave' trailer",
-            "description": "The filmmakers behind “As Deep as the Grave,” the indie film that is using an artificial intelligence-rendered version of Val Kilmer in a prominent role, debuted a first look at the recreated actor Wednesday at CinemaCon in Las Vegas. “Don’t fear the dead and don’t fear me,” Kilmer’s character, Father…",
-            "content": "The filmmakers behind “As Deep as the Grave,” the indie film that is using an artificial intelligence-rendered version of Val Kilmer in a prominent role, debuted a first look at the recreated actor Wednesday at CinemaCon in Las Vegas.\n“Don’t fear the... [2901 chars]",
-            "url": "https://japantoday.com/category/entertainment/ai-rendered-val-kilmer-debuts-in-'as-deep-as-the-grave'-trailer",
-            "image": "https://media.japantoday.com/img/store/68/2d/fd3ad4f1d3ec95bee667c93314856726ab70/download/_w1700.jpeg",
-            "publishedAt": "2026-04-15T21:00:00Z",
+            "id": "2939d7e079173b0dd6d5c89b39d12b6c",
+            "title": "I'm A Celeb's David Haye made 'sexist' remarks as he 'can't use AI in jungle'",
+            "description": "I'm A Celebrity... South Africa star David Haye got himself into hot water for his remarks about \"ugly girls\", and now the boxer's pals say it's because he didn't have a bot to save him",
+            "content": "I'm A Celebrity... South Africa star David Haye got himself into hot water for his remarks about \"ugly girls\", and now the boxer's pals say it's because he didn't have a bot to save him\nDavid Haye got himself into trouble in the jungle for his \"sexis... [2079 chars]",
+            "url": "https://www.dailystar.co.uk/tv/im-celebs-david-haye-made-37029658",
+            "image": "https://i2-prod.dailystar.co.uk/article37029707.ece/ALTERNATES/s1200d/1_David-Haye-made-sexist-remarks.jpg",
+            "publishedAt": "2026-04-16T20:56:13Z",
             "lang": "en",
             "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "a321a5cb07773097269201bbf0834d90",
-            "title": "AI-driven chip shortage slowing efforts to get world online: GSMA",
-            "description": "A memory chip crunch fueled by the artificial intelligence boom is hindering efforts to bring more people online worldwide, the head of the GSMA telecoms industry association told AFP. An estimated 2.2 billion people -- around a quarter of the global population -- were not connected to the internet at…",
-            "content": "A memory chip crunch fueled by the artificial intelligence boom is hindering efforts to bring more people online worldwide, the head of the GSMA telecoms industry association told AFP.\nAn estimated 2.2 billion people -- around a quarter of the global... [2781 chars]",
-            "url": "https://japantoday.com/category/tech/ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma",
-            "image": "https://media.japantoday.com/img/store/29/55/5b6add4e000a0b48da8b26250cafcfcf0c9e/b3f7174296e411676b2dc42111330bc6878cae4d/_w1700.jpeg",
-            "publishedAt": "2026-04-15T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "a29d9320436bf12b98ad1fa69785eeb9",
-            "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
-            "description": "Suit alleges the billionaire’s AI company is illegally spewing toxic pollutants from its datacenters in the Memphis area",
-            "content": "A new lawsuit accuses Elon Musk’s artificial intelligence company of illegally spewing toxic pollutants into residential neighborhoods on the border of Tennessee and Mississippi.\nThe suit, filed on Tuesday in Mississippi federal court, alleges xAI is... [3895 chars]",
-            "url": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
-            "image": "https://i.guim.co.uk/img/media/cf50ef8428c2cce2dfc2bbe5eb18dd937a95ebcf/1045_0_4493_3597/master/4493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a90c904e2ba63d7152f7f30f9d0538c9",
-            "publishedAt": "2026-04-15T20:58:07Z",
-            "lang": "en",
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
+                "id": "4300aa22a5f803b09a37ff0632b44685",
+                "name": "The daily Star",
+                "url": "https://www.dailystar.co.uk",
                 "country": "gb"
             }
         }
