@@ -4,64 +4,48 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 311289,
+    "totalArticles": 312171,
     "articles": [
         {
-            "id": "333a78c54ab80a8e5ef5a9967037be25",
-            "title": "Bloom Energy: Oracle Reinforces AI Power Surge",
-            "description": "Bloom Energy Corporation surged on a major expanded deal with Oracle, securing up to 2.8 GW of fuel cell systems. Read more on BE stock here.",
-            "content": "Analyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I ... [1064 chars]",
-            "url": "https://seekingalpha.com/article/4891393-bloom-energy-oracle-reinforces-ai-power-surge",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1867844462/image_1867844462.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-04-16T21:02:58Z",
+            "id": "da5b2bc0959cbc5788371eec7055652a",
+            "title": "EXCLUSIVE-Meta Targets May 20 for First Wave of Layoffs; Additional Cuts Later in 2026",
+            "description": "TECH-AI/META-LAYOFFS (EXCLUSIVE, PIX):EXCLUSIVE-Meta targets May 20 for first wave of layoffs; additional cuts later in 2026",
+            "content": "* First wave to cut about 10% of Meta's workforce, sources tell Reuters\n* Further layoffs planned for later in 2026, details not finalized\n* Layoffs linked to ‌AI-driven efficiency push, mirroring broader tech-sector trends\nBy Katie Paul and Jeff Hor... [3125 chars]",
+            "url": "https://www.newsmax.com/finance/streettalk/article/2026/04/17/id/1253337/",
+            "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=b5994b80-18ae-45f1-be4b-ebd547acf1b9&SiteName=Newsmax",
+            "publishedAt": "2026-04-17T20:32:36Z",
             "lang": "en",
             "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
                 "country": "us"
             }
         },
         {
-            "id": "6578afbe85765f868f7604db2bd97298",
-            "title": "AI Company Hiring on LinkedIn Wants to Train Your Replacement at Work",
-            "description": "Mercor is promising to replicate most professional work. It was also co-founded by twentysomethings who previously never held a real job.",
-            "content": "When Tasha Kozak, a social worker for the Hillsborough County Public Schools in Tampa, met the family, they were living in a car. The three children’s grades had been slipping. The mother was exhausted. The father was out of the picture. Kozak began ... [345 chars]",
-            "url": "https://www.bloomberg.com/news/features/2026-04-16/ai-company-hiring-on-linkedin-wants-to-train-your-replacement-at-work",
-            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Kwn3sTZ3bY/v0/1200x630.jpg",
-            "publishedAt": "2026-04-16T21:00:10Z",
+            "id": "ce739f194313550868adedf00decfaf1",
+            "title": "New B.C. program using robotic and AI technology to help disrupt illicit drug trade",
+            "description": "It uses digital technology and lab robotics to analyze and track the flow of toxic drugs in the province and create early warning systems for law enforcement to alert people.",
+            "content": "The B.C. government says it is launching a pilot program to help disrupt the illicit drug trade in the province.\nThe Track and Trace program by Aidos Innovations uses advanced robotic and AI technology.\nThe province says it will contribute $300,000 a... [1626 chars]",
+            "url": "https://globalnews.ca/news/11806212/new-bc-program-robotic-ai-technology-disrupt-illicit-drug-trade/",
+            "image": "https://globalnews.ca/wp-content/uploads/2024/09/bcopioids.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2026-04-17T20:32:35Z",
             "lang": "en",
             "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
+                "id": "49853ffafc28f405ff8ed06043290ae8",
+                "name": "Global News",
+                "url": "https://globalnews.ca",
+                "country": "ca"
             }
         },
         {
-            "id": "7cb8495e36e09185c1347a10cf7c9807",
-            "title": "Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents",
-            "description": "Salesforce launched Headless 360 at TDX, opening its CRM platform to AI agents through APIs, MCP tools and CLI commands in a major push to make enterprise software work without the browser.",
-            "content": "Salesforce on Wednesday unveiled the most ambitious architectural transformation in its 27-year history, introducing \"Headless 360\" — a sweeping initiative that exposes every capability in its platform as an API, MCP tool, or CLI command so AI agents... [13893 chars]",
-            "url": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents",
-            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/20o4KbpCNvhGDbjACvvc46/33584beeede6af5fbfc2d328076a0e64/nuneybits_Vector_art_of_Salesforce_Tower_bc4b6995-07bd-4746-97a9-9dfda2ab92d0.webp?w=800&q=75",
-            "publishedAt": "2026-04-16T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
-                "name": "VentureBeat",
-                "url": "https://venturebeat.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "4ac552c5d5143dd953f73b74ea2a4a1c",
-            "title": "OpenAI announces restricted-access cybersecurity model",
-            "description": "Artificial intelligence company OpenAI says it will release its latest cybersecurity model to a limited number of partners, after rival Anthropic also restricted release of a new system that uncovered thousands of vulnerabilities. The restricted releases by two of the biggest names in the field reflect fears of an AI-enabled…",
-            "content": "Artificial intelligence company OpenAI says it will release its latest cybersecurity model to a limited number of partners, after rival Anthropic also restricted release of a new system that uncovered thousands of vulnerabilities.\nThe restricted rele... [2197 chars]",
-            "url": "https://japantoday.com/category/tech/openai-announces-restricted-access-cybersecurity-model",
-            "image": "https://media.japantoday.com/img/store/34/54/768d596cd59c8f843674cd8dfd09862d8f96/e18390710557e5a1402e939fbf8ac67452ef11a7/_w1700.jpeg",
-            "publishedAt": "2026-04-16T21:00:00Z",
+            "id": "ea86eca7cb96eace4aeb663555478808",
+            "title": "AI is a gold mine for spammers and scammers, but Google is using it as a tool to fight back",
+            "description": "From an advertisement for an herbal remedy that promises to cure all to a video featuring a voice that sounds just like a movie star, you’ve surely encountered spam and scam advertisements online. And they have likely been created with artificial intelligence. The accessibility of generative AI tools has exacerbated…",
+            "content": "From an advertisement for an herbal remedy that promises to cure all to a video featuring a voice that sounds just like a movie star, you’ve surely encountered spam and scam advertisements online. And they have likely been created with artificial int... [4152 chars]",
+            "url": "https://japantoday.com/category/tech/ai-is-a-gold-mine-for-spammers-and-scammers-but-google-is-using-it-as-a-tool-to-fight-back",
+            "image": "https://media.japantoday.com/img/store/73/77/acc9fad61ca72d20092ee86cb60ba7e1eb1d/download-1/_w1700.jpeg",
+            "publishedAt": "2026-04-17T20:30:00Z",
             "lang": "en",
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -71,61 +55,61 @@
             }
         },
         {
-            "id": "886ce1a8aab116e023522acd8643d522",
-            "title": "AI content should be labelled, heritage committee says",
-            "description": "A House of Commons committee says the government should require that content generated by artificial intelligence be clearly labelled.",
-            "content": "The government should require that content generated by artificial intelligence be clearly labelled, a House of Commons committee said in a new report.\nThe members of Parliament on the committee are calling for standardized labels for AI content that... [1952 chars]",
-            "url": "https://cheknews.ca/ai-content-should-be-labelled-heritage-committee-says-1319215/",
-            "image": "https://cheknews.ca/wp-content/uploads/2026/04/50942dba7c6473b3e7c1bdd07da805693a17a852c95568a4ba79f38b891437f3-e1776372064313.jpg",
-            "publishedAt": "2026-04-16T21:00:00Z",
+            "id": "56fa3fce690382621ba7cb3fa6540acc",
+            "title": "Anthropic’s Amodei goes to the White House to talk about Mythos",
+            "description": "The meeting comes after tensions have run hot between the Trump administration and the safety-conscious Anthropic, which has sought to put guardrails on the development of AI.",
+            "content": "By JOSH BOAK and MATT O’BRIEN, Associated Press\nWASHINGTON (AP) — White House chief of staff Susie Wiles plans to sound out Anthropic CEO Dario Amodei about the artificial intelligence company’s new Mythos model, which has attracted attention from th... [4707 chars]",
+            "url": "https://www.mercurynews.com/2026/04/17/anthropic-amodei-white-house/",
+            "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/Pentagon_AI_Anthropic_6155__d60863.jpg?w=1024&h=682",
+            "publishedAt": "2026-04-17T20:29:43Z",
             "lang": "en",
             "source": {
-                "id": "010284b7a4ddb4771793c29b39893951",
-                "name": "CHEK News",
-                "url": "https://cheknews.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "1be4d1a511ecbf352c1418c3e292bd05",
-            "title": "Manycore bets on 'spatial intelligence' after HK IPO",
-            "description": "Manycore Tech debuts on Hong Kong's stock exchange today, following a $130 million IPO—and contributing to the Chinese city's AI listing boom.",
-            "content": "“The IPO is important for us to attract the most talented engineers to join us, to buy more GPUs, and to collect more data,” Victor Huang, Manycore’s chair and one of its cofounders, told Fortune ahead of the trading debut.\nThe Hangzhou-based startup... [7950 chars]",
-            "url": "https://fortune.com/2026/04/16/manycore-ipo-hong-kong-shares-debut-victor-huang-jixun-foo/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270660849-e1776354507338.jpg?resize=1200,600",
-            "publishedAt": "2026-04-16T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
                 "country": "us"
             }
         },
         {
-            "id": "5732ab60fe5d7d56b566e7cedd78d304",
-            "title": "The end of ‘easy’ IT jobs? India’s tech workforce faces AI challenges",
-            "description": "The conventional strategy of studying computer science to become a software developer may no longer be sustainable. Read more at straitstimes.com.",
-            "content": "– Many Indian workers form the backbone of information technology firms worldwide. Ms Tanya Gupta (not her real name) has been one of them, handholding new customers for an American financial software firm in Dublin, Ireland, for nearly five years.\nT... [8079 chars]",
-            "url": "https://www.straitstimes.com/asia/south-asia/the-end-of-easy-it-jobs-indias-tech-workforce-faces-ai-challenges",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ae6d89bf9f5286c2d27dcdb6ffa6913a4ee995fa15a552e74727af1dbaf1779f",
-            "publishedAt": "2026-04-16T21:00:00Z",
+            "id": "2963b58d9d7f5411ad736b6834a83b9e",
+            "title": "Closed-End Funds: Looking For Infrastructure Opportunities With AI Driving Them Higher",
+            "description": "Read the list of discounted utility & energy infrastructure CEFs benefiting from AI-driven power demand here.",
+            "content": "Closed-End Funds: Looking For Infrastructure Opportunities With AI Driving The Space Higher\nComments\n(3)\nSummary\nUtility and energy-focused infrastructure funds are benefiting from AI-driven power demand, leading to strong performance.\nToday, we're t... [2777 chars]",
+            "url": "https://seekingalpha.com/article/4891689-closed-end-funds-looking-infrastructure-opportunities-ai-driving-the-space-higher",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2171097119/image_2171097119.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-04-17T20:29:11Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
             }
         },
         {
-            "id": "35b04d100cd08c9232f4920b73df2ca0",
-            "title": "Transparency in Drug Approvals and Weight-loss Innovations: Current Health News Highlights",
-            "description": "Recent health news briefs focus on the need for more transparency in the FDA's accelerated drug approval, Lilly and Novo's weight-loss drugs effects, FDA's testosterone therapy deliberations, and OpenAI's life sciences AI model. Additional stories cover Kimberly-Clark's finance shift, Abbott's forecast cut, and the Global Fund's HIV drug expansion.",
-            "content": "The Institute for Clinical and Economic Review (ICER) has called for increased transparency from the U.S. Food and Drug Administration (FDA) concerning its accelerated drug approval process. This pathway, designed to expedite treatments for serious c... [1118 chars]",
-            "url": "https://www.devdiscourse.com/article/health/3876935-transparency-in-drug-approvals-and-weight-loss-innovations-current-health-news-highlights",
-            "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/07_08_2025_15_40_59_4530301.png?width=920&format=jpeg",
-            "publishedAt": "2026-04-16T20:59:52Z",
+            "id": "99ad4b04e755f4e29edb38786a3aa3a1",
+            "title": "Nvidia rival Cerebras reveals US IPO filing as AI boom drives listings",
+            "description": "AI chipmaker Cerebras Systems disclosed its filing for a U.S. initial public ​offering on Friday, bringing the Nvidia rival ‌closer to the public markets as optimism builds around a broader revival in the listings market.",
+            "content": "The company, ​which develops high-performance processors for artificial intelligence ​workloads, withdrew its earlier IPO filing in ⁠October, days after raising more than $1 billion ​in a funding round that valued it at $8 ​billion.\nSign up here.\nThe... [826 chars]",
+            "url": "https://www.reuters.com/technology/nvidia-rival-cerebras-reveals-us-ipo-filing-ai-boom-drives-listings-2026-04-17/",
+            "image": "https://www.reuters.com/resizer/v2/WYSQLIVVLRILDAPGVO3O6B37DI.jpg?auth=e7afc4728f49c16774191f9f186d657631be7b9e7bf1115a8c5e965afb997f10&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-17T20:27:59Z",
+            "lang": "en",
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "d46e359815d5f6f5a5967cc00406c030",
+            "title": "AI Startup Anthropic's CEO Engages in Crucial White House Talks Amid Pentagon Dispute",
+            "description": "Anthropic CEO Dario Amodei visited the White House for talks regarding their new AI model, Mythos, which boasts significant cybersecurity defense capabilities. The startup is embroiled in a dispute with the Pentagon. Mythos is being evaluated in 'Project Glasswing' for defensive cybersecurity purposes, while the government considers its potential.",
+            "content": "Anthropic CEO Dario Amodei made his way to the White House on Friday to hold discussions amid a brewing conflict between the AI startup and the Pentagon, a Reuters witness confirmed. This visit is taking place as President Donald Trump's administrati... [828 chars]",
+            "url": "https://www.devdiscourse.com/article/technology/3878273-ai-startup-anthropics-ceo-engages-in-crucial-white-house-talks-amid-pentagon-dispute",
+            "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/07_04_2025_22_07_11_397655.png?width=920&format=jpeg",
+            "publishedAt": "2026-04-17T20:27:17Z",
             "lang": "en",
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -135,35 +119,51 @@
             }
         },
         {
-            "id": "b84d57a9ae13a7b2f2f045459ad82b6e",
-            "title": "Vidmud: A Privacy-First, Free AI Photo Editor for Effortless Creativity",
-            "description": "Vidmud represents a new generation of online tools that prioritize user needs over profit-driven models. By combining powerful AI capabilities with a strict commitment to privacy and accessibility, it delivers an experience that is both efficient and trustworthy.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nIn today’s digital world, photo editing has become an essential part of everyday life. Whether you’re enhancing personal memories, creating social media content, or working on professional visuals, having access to a rel... [5116 chars]",
-            "url": "https://techbullion.com/vidmud-a-privacy-first-free-ai-photo-editor-for-effortless-creativity/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-17-2026-01_56_33-AM-1000x600.png",
-            "publishedAt": "2026-04-16T20:57:07Z",
+            "id": "c06b22a4cb62365b2a539e6bac5725e2",
+            "title": "Are you human? New tool aims to help prove you're not AI",
+            "description": "How do you even know if anyone online is real anymore?\nA potential solution to prove you're not a bot or AI clone just got an upgrade.",
+            "content": "The FBI just reported Americans lost nearly $21 billion to online scams last year. Artificial intelligence voice clones are impersonating your grandchild in fake emergencies. Your Tinder match could be a bot, trying to catfish you. And when you tried... [4448 chars]",
+            "url": "https://www.usatoday.com/story/tech/columnist/2026/04/17/are-you-human-tool-confronts-ai-bots/89664718007/",
+            "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/17/USAT/89665063007-example-of-world-id-deep-face-in-zoom-handout.jpg?crop=3839,2159,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2026-04-17T20:17:08Z",
             "lang": "en",
             "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
+                "id": "eaeed30dacd1269c1893de860c94a7e7",
+                "name": "USA TODAY",
+                "url": "https://www.usatoday.com",
+                "country": "us"
             }
         },
         {
-            "id": "2939d7e079173b0dd6d5c89b39d12b6c",
-            "title": "I'm A Celeb's David Haye made 'sexist' remarks as he 'can't use AI in jungle'",
-            "description": "I'm A Celebrity... South Africa star David Haye got himself into hot water for his remarks about \"ugly girls\", and now the boxer's pals say it's because he didn't have a bot to save him",
-            "content": "I'm A Celebrity... South Africa star David Haye got himself into hot water for his remarks about \"ugly girls\", and now the boxer's pals say it's because he didn't have a bot to save him\nDavid Haye got himself into trouble in the jungle for his \"sexis... [2079 chars]",
-            "url": "https://www.dailystar.co.uk/tv/im-celebs-david-haye-made-37029658",
-            "image": "https://i2-prod.dailystar.co.uk/article37029707.ece/ALTERNATES/s1200d/1_David-Haye-made-sexist-remarks.jpg",
-            "publishedAt": "2026-04-16T20:56:13Z",
+            "id": "ce72be4d3dc382e2faf23863cbb96392",
+            "title": "Netflix is adding more AI and vertical video feed to its apps",
+            "description": "Netflix has been testing vertical video feeds since last year. The company is also planning to lean more into using AI recommendations.",
+            "content": "Netflix is launching a TikTok-like video feed in its apps later this month, along with AI-powered content recommendations.\nAccording to TechCrunch, Netflix has been testing vertical video feeds since the middle of last year. The feature aims to help ... [1012 chars]",
+            "url": "https://mobilesyrup.com/2026/04/17/netflix-is-adding-more-ai-and-vertical-video-feed-to-its-apps/",
+            "image": "https://production-static.mobilesyrup.com/uploads/2023/11/netflix-sign-header-scaled.jpg",
+            "publishedAt": "2026-04-17T20:14:02Z",
             "lang": "en",
             "source": {
-                "id": "4300aa22a5f803b09a37ff0632b44685",
-                "name": "The daily Star",
-                "url": "https://www.dailystar.co.uk",
-                "country": "gb"
+                "id": "065af1b88f232671921c1449e7a0035e",
+                "name": "MobileSyrup",
+                "url": "https://mobilesyrup.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "184a898b3284da13088fe873052062ec",
+            "title": "Alumnus’s son pledges 15cr to IIT-Kgp to launch AI centre for mining solutions",
+            "description": "Kolkata: IIT-Kharagpur is set to establish an interdisciplinary research initiative aimed at advancing data-driven innovation in the mining sector, na.",
+            "content": "Kolkata: IIT-Kharagpur is set to establish an interdisciplinary research initiative aimed at advancing data-driven innovation in the mining sector, named Vikram Sodhi Centre of Excellence for AI-Enabled Geological & Mining Systems, with a funding com... [1281 chars]",
+            "url": "https://timesofindia.indiatimes.com/city/kolkata/alumnuss-son-pledges-15cr-to-iit-kgp-to-launch-ai-centre-for-mining-solutions/articleshow/130341136.cms",
+            "image": "https://static.toiimg.com/thumb/msid-130341127,width-1280,height-720,imgsize-46204,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-17T20:14:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
             }
         }
     ]
