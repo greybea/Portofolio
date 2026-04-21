@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 312954,
+    "totalArticles": 313697,
     "articles": [
         {
-            "id": "c391dbfb63e0101c8fb37ec77957a6ed",
-            "title": "Humanity first: Heed Pope’s warning on AI misuse",
-            "description": "The Tribune Editorial: AI is not inherently evil, but neither is it neutral.",
-            "content": "POPE Leo XIV’s recent warning that artificial intelligence can fuel “polarisation, conflict, fear and violence” deserves global attention. At a time when AI is celebrated for speed, convenience and innovation, the Pope has reminded the world that tec... [1731 chars]",
-            "url": "https://www.tribuneindia.com/news/editorials/humanity-first-heed-popes-warning-on-ai-misuse/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdiZDhlYWIwLTNjMzYtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
-            "publishedAt": "2026-04-19T21:26:50Z",
+            "id": "88a6385aa0d2507295e55503b3d82242",
+            "title": "More Japanese firms plan to cut new graduate hires for FY2027 as AI use grows",
+            "description": "More major Japanese companies plan to reduce the number of new graduates they hire from fiscal 2027 despite the country's labor shortage as they turn to digital solutions including artificial intelligence to improve productivity, a Kyodo News survey showed. A survey of 111 companies suggests a possible shift in the…",
+            "content": "More major Japanese companies plan to reduce the number of new graduates they hire from fiscal 2027 despite the country's labor shortage as they turn to digital solutions including artificial intelligence to improve productivity, a Kyodo News survey ... [2510 chars]",
+            "url": "https://japantoday.com/category/business/more-japan-firms-plan-to-cut-new-graduate-hires-for-fy-2027-as-ai-use-grows",
+            "image": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2026-04-20T21:15:00Z",
             "lang": "en",
             "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            }
+        },
+        {
+            "id": "b17f468900a338ccb913b55a285444d8",
+            "title": "Tim Cook stepping down as Apple CEO with insider John Ternus named his replacement",
+            "description": "Apple on Monday named longtime hardware boss John Ternus as its next CEO, turning to another insider to steer the iPhone maker after Tim Cook as it navigates a world radically altered by artificial intelligence, a technology it has lagged on.",
+            "content": "Cook, a supply-chain genius who boosted Apple's market value by $3.6 trillion in his 15 years at the helm, will stay on as executive chairman when Ternus takes over on September 1, Apple said in a statement.\nTernus, who joined Apple in 2001, has play... [4219 chars]",
+            "url": "https://www.independent.ie/world-news/north-america/tim-cook-stepping-down-as-apple-ceo-with-insider-john-ternus-named-his-replacement/a1315681034.html",
+            "image": "https://focus.independent.ie/thumbor/mSjLwD8peaK4j1geSGyJtqjTRuc=/0x67:4181x2854/629x0/prod-mh-ireland/faa337f5-b7cc-4911-972e-8560a2e93d42/723fd2a4-a85a-468d-a4e8-d08edf793278/faa337f5-b7cc-4911-972e-8560a2e93d42.jpg",
+            "publishedAt": "2026-04-20T21:12:15Z",
+            "lang": "en",
+            "source": {
+                "id": "ead461b236347a41a0e3561761126583",
+                "name": "Independent.ie",
+                "url": "https://www.independent.ie",
+                "country": "ie"
+            }
+        },
+        {
+            "id": "979ef13201c9b3145ea2a3f5d4888f23",
+            "title": "Tim Cook stepping down as Apple CEO with insider John Ternus named his replacement",
+            "description": "Apple on Monday named insider John Ternus as its next CEO, tasking the long-time hardware chief to steer the company after Tim Cook as the iPhone maker gears up for an industry change spurred by artificial intelligence.",
+            "content": "Ternus, who joined Apple in 2001, has recently overseen the company's hardware engineering efforts and has played a key role in reigniting sales of products such as Apple's Mac computers, which have gained market share in recent years.\nCook, who has ... [608 chars]",
+            "url": "https://www.independent.ie/world-news/tim-cook-stepping-down-as-apple-ceo-with-insider-john-ternus-named-his-replacement/a1315681034.html",
+            "image": "https://focus.independent.ie/thumbor/kEkGBma2GURk-uODfIShIeRJXWU=/0x67:4181x2854/629x0/prod-mh-ireland/faa337f5-b7cc-4911-972e-8560a2e93d42/c6618672-7551-4cf0-917a-aa979f0068b8/faa337f5-b7cc-4911-972e-8560a2e93d42.jpg",
+            "publishedAt": "2026-04-20T21:12:15Z",
+            "lang": "en",
+            "source": {
+                "id": "ead461b236347a41a0e3561761126583",
+                "name": "Independent.ie",
+                "url": "https://www.independent.ie",
+                "country": "ie"
+            }
+        },
+        {
+            "id": "6f058e82f2b19699f638a173576cff34",
+            "title": "Top Startup and Tech Funding News - April 20 2025",
+            "description": "It’s Monday, April 20, 2026, and we’re back with today’s top startup and tech funding news. Today’s rounds highlight a clear shift toward AI systems that extend beyond software into physical environments, alongside continued investor appetite for industrial infrastructure across energy, healthcare, and biomanufacturing. From self-improving AI architectures to embodied robotics and synthetic fuel production,",
+            "content": "It’s Monday, April 20, 2026, and we’re back with today’s top startup and tech funding news. Today’s rounds highlight a clear shift toward AI systems that extend beyond software into physical environments, alongside continued investor appetite for ind... [14737 chars]",
+            "url": "https://techstartups.com/2026/04/20/top-startup-and-tech-funding-news-april-20-2025/",
+            "image": "https://techstartups.com/wp-content/uploads/2026/04/X2Robot-960x509.jpg",
+            "publishedAt": "2026-04-20T21:10:39Z",
+            "lang": "en",
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "5ceead96436755debfd7c4aa50cba9f8",
+            "title": "Amazon To Invest Up To $25 Billion In AI Startup Anthropic. Why AMZN Stock Is Rising.",
+            "description": "Amazon will invest up to $25 billion in Anthropic. The AI startup will spend over $100 billion on the tech giant's wares. AMZN stock rose.",
+            "content": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we ... [1013 chars]",
+            "url": "https://www.investors.com/news/technology/amazon-to-invest-25-billion-ai-startup-anthropic-why-amzn-stock-rising/",
+            "image": "https://www.investors.com/wp-content/uploads/2025/12/Stock-AIdatacenter-shut.jpg",
+            "publishedAt": "2026-04-20T21:09:25Z",
+            "lang": "en",
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c016511189f7e8ba95368b455e1c138a",
+            "title": "John Ternus Takes the Helm as Apple's New CEO",
+            "description": "Apple announced John Ternus as its new CEO, succeeding Tim Cook. Ternus, who joined Apple in 2001, previously led the company's hardware engineering and was pivotal in reviving Mac sales. With this leadership change, Apple is focusing on design and product innovation, capitalizing on industry shifts like AI.",
+            "content": "In a significant leadership transition, Apple has appointed John Ternus as its new CEO following the tenure of Tim Cook. This move marks a shift towards a design-focused leadership as the tech giant seeks to navigate the evolving industry landscape, ... [685 chars]",
+            "url": "https://www.devdiscourse.com/article/technology/3881161-john-ternus-takes-the-helm-as-apples-new-ceo",
+            "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=920&format=jpeg",
+            "publishedAt": "2026-04-20T21:08:05Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
                 "country": "in"
             }
         },
         {
-            "id": "93b0c2e851abae756d62df01c95dece2",
-            "title": "I’ve been using “Ask Maps,” and it has forever changed Google Maps for me",
-            "description": "I started using this AI feature on Google Maps, and now I really can’t go back to the old way",
-            "content": "I’m a very good driver — don’t come at me, I genuinely am, and I’m proud of it. But no matter how good you are behind the wheel, Google Maps is always riding shotgun. Every single day, without fail, whenever I’m going to a new place or following a fa... [5098 chars]",
-            "url": "https://www.digitaltrends.com/outdoors/ive-been-using-ask-maps-and-it-has-forever-changed-google-maps-for-me/",
-            "image": "https://www.digitaltrends.com/tachyon/2024/05/Google-maps.jpg?resize=1200%2C630",
-            "publishedAt": "2026-04-19T21:25:54Z",
+            "id": "eebf71f6d93b67d44e3131152819ec3f",
+            "title": "A Supercharged AI Mega Force",
+            "description": "Since we last took stock of the AI mega force, several shifts have increased our conviction that it’s even more powerful now. And some of those shifts give the US a competitive edge on AI.",
+            "content": "BlackRock\n5.15K Followers\nComments\n(2)\nSummary\nWe view AI as a supercharged mega force as buildout spending is rising from already-historic levels, supporting our overweight U.S. and EM stocks.\nOil fell as Iran pledged to open the Strait of Hormuz du... [758 chars]",
+            "url": "https://seekingalpha.com/article/4892158-supercharged-ai-mega-force",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2244276959/image_2244276959.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-04-20T21:05:00Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
                 "country": "us"
             }
         },
         {
-            "id": "5012b822d6e4b81f43a6384911fc6543",
-            "title": "Enjoy A Free Copy Of Capcom’s PRAGMATA With MSI’s Vector 16 HX AI Gaming Laptop; 12GB RTX 5070 Ti Configuration Currently Going For $180 Off On Amazon",
-            "description": "MSI’s Vector 16 HX gaming laptop with an RTX 5070 Ti is a solid machine, and you’ll be thrilled to learn that you can get it and a free PRAGMATA copy for $1,620 on Amazon",
-            "content": "One of the likely places that you’ll find an excellent gaming laptop deal is Amazon, and with Capcom’s PRAGMATA doing the rounds and garnering excellent reviews, you’re definitely missing out on one of the most enjoyable experiences of 2026. What bet... [1955 chars]",
-            "url": "https://wccftech.com/msi-vector-16-hx-ai-gaming-laptop-with-rtx-5070-ti-get-free-pragmata-copy/",
-            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/04/Free-PRAGMATA-copy-with-every-purchase-of-MSI-Vector-16-HX-AI-gaming-laptop.jpg",
-            "publishedAt": "2026-04-19T21:22:26Z",
+            "id": "c2c2bd9eec25863d97c05e991e8d7112",
+            "title": "AMD: Don't Chase Now, Even If You Missed The Ride (Downgrade)",
+            "description": "Advanced Micro Devices, Inc. may gain AI share with deals & CPU growth, but 42x forward P/E, margin risks & rising rivals prompt a Hold. Click for this AMD update.",
+            "content": "AMD: Don't Chase Now, Even If You Missed The Ride (Downgrade)\nComment\n(1)\nSummary\nAdvanced Micro Devices, Inc. is positioned to gain AI market share, but its valuation at 42x forward P/E is difficult to justify versus Nvidia right now.\nRecent CPU gro... [2938 chars]",
+            "url": "https://seekingalpha.com/article/4892146-amd-dont-chase-now-even-if-you-missed-the-ride-downgrade",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2191006237/image_2191006237.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-04-20T21:03:17Z",
             "lang": "en",
             "source": {
-                "id": "9a68172fefded1b86fc9a95d43faf501",
-                "name": "Wccftech",
-                "url": "https://wccftech.com",
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
                 "country": "us"
             }
         },
         {
-            "id": "31d4f3eb95e2d227c4f681cb6012145d",
-            "title": "AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion",
-            "description": "Artificial intelligence startup Cursor in talks to raise a $2 billion fundraising round at an over $50 billion valuation, which does not include the investment.",
-            "content": "Artificial intelligence startup Cursor is in talks to raise a $2 billion fundraising round at an over $50 billion valuation, which does not include the investment, a source familiar with the matter told CNBC.\nAndreessen Horowitz is slated to co-lead ... [1222 chars]",
-            "url": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108229262-1763656945446-gettyimages-2247054738-CURSOR_AI.jpeg?v=1776624376&w=1920&h=1080",
-            "publishedAt": "2026-04-19T21:19:57Z",
+            "id": "8bfb8833202f016cede081bc109a46db",
+            "title": "AI Company Deleted OKCupid User Photos, Data After FTC Scrutiny",
+            "description": "US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.",
+            "content": "By Jody Godoy\nApril 20 (Reuters) - Artificial intelligence company Clarifai said this ⁠month ⁠it had deleted 3 million OkCupid ⁠user photos and facial-recognition models trained on them after the U.S. Federal Trade Commission ​settled with the dating... [2713 chars]",
+            "url": "https://www.usnews.com/news/top-news/articles/2026-04-20/ai-company-deleted-okcupid-user-photos-data-after-ftc-scrutiny",
+            "image": "https://www.usnews.com/dims4/USNEWS/5060de1/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ffe%2F01a77f00135eadcafe711908beeb1b%2Ftag%3Areuters.com%2C2026%3Anewsml_LYNXMPEM3J16R%3A12026-04-20T210210Z_1_LYNXMPEM3J16R_RTROPTP_3_USA-FTC-ADVERTISING-SETTLEMENT.JPG",
+            "publishedAt": "2026-04-20T21:02:00Z",
             "lang": "en",
             "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
                 "country": "us"
             }
         },
         {
-            "id": "7c94471111edec35f582bfc5b135d25f",
-            "title": "Report: NSA Taps Anthropic AI Amid War Dept Risk Warning",
-            "description": "The National Security Agency is using Anthropic’s AI tool despite a formal War Department supply-chain risk warning that effectively blacklisted the company, which has since sued multiple federal agencies after being cut off from military business, Axios reported Sunday.",
-            "content": "The National Security Agency is using Anthropic's artificial intelligence tool despite a formal War Department supply-chain risk warning against the company, Axios reported Sunday.\nAnthropic filed a lawsuit in early March against multiple federal age... [2194 chars]",
-            "url": "https://www.newsmax.com/politics/nsa-anthropic-ai/2026/04/19/id/1253447/",
-            "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=02f8dcc9-2914-4a9b-a798-ab2c215cc05f&SiteName=Newsmax",
-            "publishedAt": "2026-04-19T21:02:13Z",
+            "id": "e71e38e91421d9743d27d35141e8797d",
+            "title": "AI company deleted OKCupid user photos, data after FTC scrutiny",
+            "description": "Artificial intelligence company Clarifai said this month it had deleted 3 million OkCupid user photos and facial-recognition models trained on them after the U.S. Federal Trade Commission settled with...",
+            "content": "April 20 (Reuters) - Artificial intelligence company Clarifai said this month it had deleted 3 million OkCupid user photos and facial-recognition models trained on them after the U.S. Federal Trade Commission settled with the dating site over privacy... [2692 chars]",
+            "url": "https://www.marketscreener.com/news/ai-company-deleted-okcupid-user-photos-data-after-ftc-scrutiny-ce7f59dadd8ef42d",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-30T191321Z_1_LYNXMPEL3T125_RTROPTP_4_USA-TRUMP-FTC-MEADOR.JPG",
+            "publishedAt": "2026-04-20T21:01:53Z",
             "lang": "en",
             "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "2cf0b83784bca8ae42239cd6ced10db2",
-            "title": "SMRT uses AI to improve rail reliability",
-            "description": "Discover how SMRT is enhancing public transport with AI to predict and reduce train delays, improving overall rail reliability. Read more at straitstimes.com.",
-            "content": "SINGAPORE – Public transport operator SMRT is stepping up its use of artificial intelligence to raise service standards, a move that may take years but could reduce train delays and keep operating costs in check once deployed at scale.\nThrough a new ... [4760 chars]",
-            "url": "https://www.straitstimes.com/business/smrt-expands-ai-use-for-predictive-rail-maintenance-to-reduce-costs-train-delays",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/0c067a1968dfefdbdb144a855025630ca813e175eade69ab8db587f861842dd0",
-            "publishedAt": "2026-04-19T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "004b689886c5f32bae40a17d420b4ef0",
-            "title": "AI 'agent' fever comes with lurking security threats",
-            "description": "Artificial intelligence \"agents\" promise to save users time and energy by automating tasks, but the growing power of systems like OpenClaw is setting cybersecurity experts on edge. Powered by a wave of hype, OpenClaw today claims more than three million users worldwide. The system allows users to create so-called agents,…",
-            "content": "Artificial intelligence \"agents\" promise to save users time and energy by automating tasks, but the growing power of systems like OpenClaw is setting cybersecurity experts on edge.\nPowered by a wave of hype, OpenClaw today claims more than three mill... [2917 chars]",
-            "url": "https://japantoday.com/category/tech/ai-%27agent%27-fever-comes-with-lurking-security-threats",
-            "image": "https://media.japantoday.com/img/store/b7/c6/87a340fe74534ea44193d435a23a48f8325b/dff87a9e9a278f7a4eebbf3e7f8760d24e7abd8e/_w1700.jpeg",
-            "publishedAt": "2026-04-19T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "fb9d4e53241b9c598899ab2bc94173bb",
-            "title": "AI 'agent' fever comes with lurking security threats",
-            "description": "Artificial intelligence \"agents\" promise to save users time and energy by automating tasks, but the growing power of systems like OpenClaw is setting cybersecurity experts on edge. Powered by a wave of hype, OpenClaw today claims more than three million users worldwide. The system allows users to create so-called agents,…",
-            "content": "Artificial intelligence \"agents\" promise to save users time and energy by automating tasks, but the growing power of systems like OpenClaw is setting cybersecurity experts on edge.\nPowered by a wave of hype, OpenClaw today claims more than three mill... [2917 chars]",
-            "url": "https://japantoday.com/category/tech/ai-'agent'-fever-comes-with-lurking-security-threats",
-            "image": "https://media.japantoday.com/img/store/b7/c6/87a340fe74534ea44193d435a23a48f8325b/dff87a9e9a278f7a4eebbf3e7f8760d24e7abd8e/_w1700.jpeg",
-            "publishedAt": "2026-04-19T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "cceef36724cab951532828067e0f1773",
-            "title": "Faster loan approvals, automated client checks: How AI agents are used by banks, including in S’pore",
-            "description": "Observers say the technology is evolving quickly, with early applications already showing real potential. Read more at straitstimes.com.",
-            "content": "SINGAPORE – Quicker loan approvals and shorter customer onboarding time may become the norm as financial services firms worldwide and in Singapore turn towards artificial intelligence (AI) agents to handle more intelligent tasks.\nCustomer service wor... [6236 chars]",
-            "url": "https://www.straitstimes.com/business/faster-loan-approvals-automated-client-checks-how-ai-agents-are-used-by-banks-including-in-spore",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/773996b79db13e7830d3e3c1179b3aa3c5a2582ad65ee4c20f7aa3c8f923c423",
-            "publishedAt": "2026-04-19T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "10cc5574e24c3a566ef145f17fb3702d",
-            "title": "India voter register deletions spark outrage over AI use and poll fairness",
-            "description": "Millions of voter deletions in India raise concerns about AI-driven election fairness and potential disenfranchisement ahead of crucial polls. Read more at straitstimes.com.",
-            "content": "– Mr Faridul Islam’s name is among the 9.1 million that have been deleted ahead of India’s West Bengal state’s local election from April 23 to 29.\nA fashion designer at a Kolkata garment company, he was struck off the rolls because the voter list rec... [9170 chars]",
-            "url": "https://www.straitstimes.com/asia/south-asia/india-voter-register-deletions-spark-outrage-over-ai-use-and-poll-fairness",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/87c80d35f22bdbac5048080e5a170d41296208ebd1a552400e6d7bfe290aa2e1",
-            "publishedAt": "2026-04-19T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         }
     ]
