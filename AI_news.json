@@ -4,16 +4,128 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 313697,
+    "totalArticles": 314689,
     "articles": [
         {
-            "id": "88a6385aa0d2507295e55503b3d82242",
-            "title": "More Japanese firms plan to cut new graduate hires for FY2027 as AI use grows",
-            "description": "More major Japanese companies plan to reduce the number of new graduates they hire from fiscal 2027 despite the country's labor shortage as they turn to digital solutions including artificial intelligence to improve productivity, a Kyodo News survey showed. A survey of 111 companies suggests a possible shift in the…",
-            "content": "More major Japanese companies plan to reduce the number of new graduates they hire from fiscal 2027 despite the country's labor shortage as they turn to digital solutions including artificial intelligence to improve productivity, a Kyodo News survey ... [2510 chars]",
-            "url": "https://japantoday.com/category/business/more-japan-firms-plan-to-cut-new-graduate-hires-for-fy-2027-as-ai-use-grows",
-            "image": "https://japantoday.com/images/japan-today-social.jpg",
-            "publishedAt": "2026-04-20T21:15:00Z",
+            "id": "1c16a33db38812b12906dc7e91d8d5fa",
+            "title": "chat AI summaries for unread messages",
+            "description": "Meta is expanding its in-app AI-powered summaries feature on WhatsApp to include unread context across multiple chats. Here are the details.",
+            "content": "Meta is expanding its in-app AI-powered summaries feature on WhatsApp to include unread context across multiple chats. Here are the details.\nWhatsApp to expand in-app AI summaries\nAs spotted by WABetaInfo, the latest TestFlight build of WhatsApp incl... [1656 chars]",
+            "url": "https://9to5mac.com/2026/04/21/whatsapp-testing-multi-chat-ai-summaries-for-unread-messages/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-04-21T21:09:13Z",
+            "lang": "en",
+            "source": {
+                "id": "92f73865e835e33ed68c11447777c939",
+                "name": "9to5Mac",
+                "url": "https://9to5mac.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "048041691dc59fb9172cf593ff9cd5cd",
+            "title": "Shawn Levy Says AI Will Become an 'Essential Tool' for Moviemaking",
+            "description": "Shawn Levy believes AI will become an \"essential tool\" for moviemaking even thought he hasn't \"incorporated\" it in \"any meaningful way\" yet.",
+            "content": "Director Shawn Levy has wrapped and is in post-production on “Star Wars: Starfighter.”\nThe much-anticipated film, starring Ryan Gosling, Amy Adams, Matt Smith, Mia Goth and Aaron Pierre, doesn’t it theaters until May 28, 2027.\n“I’m in the beautiful s... [2124 chars]",
+            "url": "https://variety.com/2026/film/columns/shawn-levy-ai-become-essential-tool-moviemaking-but-he-hasnt-incorporated-meaningful-way-yet-1236727264/",
+            "image": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2245983767.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-04-21T21:08:37Z",
+            "lang": "en",
+            "source": {
+                "id": "e6688d6db992f469baa7352aac100378",
+                "name": "Variety",
+                "url": "https://variety.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0ed071687757b0f2d224f49d1a3d89b7",
+            "title": "Shawn Levy Says AI Will Become an 'Essential Tool' for Moviemaking",
+            "description": "Shawn Levy believes AI will become an \"essential tool\" for moviemaking even thought he hasn't \"incorporated\" it in \"any meaningful way\" yet.",
+            "content": "Director Shawn Levy has wrapped and is in post-production on “Star Wars: Starfighter.”\nThe much-anticipated film, starring Ryan Gosling, Amy Adams, Matt Smith, Mia Goth and Aaron Pierre, doesn’t it theaters until May 28, 2027.\n“I’m in the beautiful s... [2124 chars]",
+            "url": "https://variety.com/2026/film/news/shawn-levy-ai-become-essential-tool-moviemaking-but-he-hasnt-incorporated-meaningful-way-yet-1236727264/",
+            "image": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2245983767.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-04-21T21:08:37Z",
+            "lang": "en",
+            "source": {
+                "id": "e6688d6db992f469baa7352aac100378",
+                "name": "Variety",
+                "url": "https://variety.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "24be2d06d8a49017e5686314553db0ba",
+            "title": "Shawn Levy Says AI Will Become an 'Essential Tool' for Moviemaking",
+            "description": "Shawn Levy believes AI will become an \"essential tool\" for moviemaking even thought he hasn't \"incorporated\" it in \"any meaningful way\" yet.",
+            "content": "Director Shawn Levy has wrapped and is in post-production on “Star Wars: Starfighter.”\nThe much-anticipated film, starring Ryan Gosling, Amy Adams, Matt Smith, Mia Goth and Aaron Pierre, doesn’t it theaters until May 28, 2027.\n“I’m in the beautiful s... [2124 chars]",
+            "url": "https://variety.com/2026/tv/columns/shawn-levy-ai-become-essential-tool-moviemaking-but-he-hasnt-incorporated-meaningful-way-yet-1236727264/",
+            "image": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2245983767.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-04-21T21:08:37Z",
+            "lang": "en",
+            "source": {
+                "id": "e6688d6db992f469baa7352aac100378",
+                "name": "Variety",
+                "url": "https://variety.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "903f28f5ffecea423e7e82e05198262d",
+            "title": "Adobe announces $25 billion stock buyback amid AI disruption fears",
+            "description": "Its shares rose around 2% in extended trading, but the stock has fallen around 30% this year as investors weigh the effects of new agentic models",
+            "content": "Adobe on Tuesday announced a share repurchase program worth up to $25 billion through April 30, 2030, as the Photoshop maker seeks to reassure investors of its growth strategy amid the rise of creative autonomous tools.\nIts shares rose around 2% in e... [1162 chars]",
+            "url": "https://www.moneycontrol.com/technology/adobe-announces-25-billion-stock-buyback-amid-ai-disruption-fears-article-13895708.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2024/06/20240617154747_adobertr.jpg",
+            "publishedAt": "2026-04-21T21:06:37Z",
+            "lang": "en",
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "34314747c5532c4bbc1d6f2350442ba7",
+            "title": "Grimes’ Album Announcement Reveals Contradicting Feelings Toward AI: ‘People Have Really Misunderstood Me’",
+            "description": "Grimes had a lot to say about AI, the future of humanity, military technology, and turning pain into art as she announced her newest album.",
+            "content": "Grimes has announced her newest album, Psy Opera, her first full-length project since Miss Anthropocene from 2020. In between, she’s dropped a handful of stand-alone singles. But during an April 2026 feature in Interview, she admitted her initial int... [4054 chars]",
+            "url": "https://www.vice.com/en/article/grimes-album-announcement-reveals-contradicting-feelings-toward-ai-people-have-really-misunderstood-me/",
+            "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/04/Grimes1.jpg?w=1200",
+            "publishedAt": "2026-04-21T21:02:15Z",
+            "lang": "en",
+            "source": {
+                "id": "9c188f87e786da40d8a7261297d97a8f",
+                "name": "VICE",
+                "url": "https://www.vice.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "3b5ef4fc70444420e3abb77374d2d770",
+            "title": "This AI Warning Is A Myth; The Danger Is Not...",
+            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+            "content": "Authored by Kay Rubacek via The Epoch Times,\nYou know this story.\nDrop a frog into boiling water, and it will scramble out immediately. But place that same frog in cool water, heat it slowly, and degree by degree, it will never notice the danger unti... [5709 chars]",
+            "url": "https://www.zerohedge.com/ai/ai-warning-myth-danger-not",
+            "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-04/httpssubstack-post-media.s3.amaz%20%2814%29.jpg?h=1e99e142&itok=vRRnXvPW",
+            "publishedAt": "2026-04-21T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+                "name": "ZeroHedge",
+                "url": "https://www.zerohedge.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "4ef2b5e4a75ddda5d1dd8e87e53ce2fb",
+            "title": "Amazon invests another $5 bil in Anthropic",
+            "description": "Amazon has pumped another $5 billion into Anthropic as it ramps up its collaboration with the startup behind Claude artificial intelligence. The e-commerce and cloud computing colossus noted that the investment builds on $8 billion it had already invested in Anthropic, according to the companies. Amazon added that it could…",
+            "content": "Amazon has pumped another $5 billion into Anthropic as it ramps up its collaboration with the startup behind Claude artificial intelligence.\nThe e-commerce and cloud computing colossus noted that the investment builds on $8 billion it had already inv... [1817 chars]",
+            "url": "https://japantoday.com/category/tech/amazon-invests-another-5-bn-in-anthropic",
+            "image": "https://media.japantoday.com/img/store/62/f3/b754a6aaf7a13297e9bdf787f10b921dc2da/7f333966a1e0875e4ffcdcc0e783ed2714e64147/_w1700.jpeg",
+            "publishedAt": "2026-04-21T21:00:00Z",
             "lang": "en",
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -23,93 +135,13 @@
             }
         },
         {
-            "id": "b17f468900a338ccb913b55a285444d8",
-            "title": "Tim Cook stepping down as Apple CEO with insider John Ternus named his replacement",
-            "description": "Apple on Monday named longtime hardware boss John Ternus as its next CEO, turning to another insider to steer the iPhone maker after Tim Cook as it navigates a world radically altered by artificial intelligence, a technology it has lagged on.",
-            "content": "Cook, a supply-chain genius who boosted Apple's market value by $3.6 trillion in his 15 years at the helm, will stay on as executive chairman when Ternus takes over on September 1, Apple said in a statement.\nTernus, who joined Apple in 2001, has play... [4219 chars]",
-            "url": "https://www.independent.ie/world-news/north-america/tim-cook-stepping-down-as-apple-ceo-with-insider-john-ternus-named-his-replacement/a1315681034.html",
-            "image": "https://focus.independent.ie/thumbor/mSjLwD8peaK4j1geSGyJtqjTRuc=/0x67:4181x2854/629x0/prod-mh-ireland/faa337f5-b7cc-4911-972e-8560a2e93d42/723fd2a4-a85a-468d-a4e8-d08edf793278/faa337f5-b7cc-4911-972e-8560a2e93d42.jpg",
-            "publishedAt": "2026-04-20T21:12:15Z",
-            "lang": "en",
-            "source": {
-                "id": "ead461b236347a41a0e3561761126583",
-                "name": "Independent.ie",
-                "url": "https://www.independent.ie",
-                "country": "ie"
-            }
-        },
-        {
-            "id": "979ef13201c9b3145ea2a3f5d4888f23",
-            "title": "Tim Cook stepping down as Apple CEO with insider John Ternus named his replacement",
-            "description": "Apple on Monday named insider John Ternus as its next CEO, tasking the long-time hardware chief to steer the company after Tim Cook as the iPhone maker gears up for an industry change spurred by artificial intelligence.",
-            "content": "Ternus, who joined Apple in 2001, has recently overseen the company's hardware engineering efforts and has played a key role in reigniting sales of products such as Apple's Mac computers, which have gained market share in recent years.\nCook, who has ... [608 chars]",
-            "url": "https://www.independent.ie/world-news/tim-cook-stepping-down-as-apple-ceo-with-insider-john-ternus-named-his-replacement/a1315681034.html",
-            "image": "https://focus.independent.ie/thumbor/kEkGBma2GURk-uODfIShIeRJXWU=/0x67:4181x2854/629x0/prod-mh-ireland/faa337f5-b7cc-4911-972e-8560a2e93d42/c6618672-7551-4cf0-917a-aa979f0068b8/faa337f5-b7cc-4911-972e-8560a2e93d42.jpg",
-            "publishedAt": "2026-04-20T21:12:15Z",
-            "lang": "en",
-            "source": {
-                "id": "ead461b236347a41a0e3561761126583",
-                "name": "Independent.ie",
-                "url": "https://www.independent.ie",
-                "country": "ie"
-            }
-        },
-        {
-            "id": "6f058e82f2b19699f638a173576cff34",
-            "title": "Top Startup and Tech Funding News - April 20 2025",
-            "description": "It’s Monday, April 20, 2026, and we’re back with today’s top startup and tech funding news. Today’s rounds highlight a clear shift toward AI systems that extend beyond software into physical environments, alongside continued investor appetite for industrial infrastructure across energy, healthcare, and biomanufacturing. From self-improving AI architectures to embodied robotics and synthetic fuel production,",
-            "content": "It’s Monday, April 20, 2026, and we’re back with today’s top startup and tech funding news. Today’s rounds highlight a clear shift toward AI systems that extend beyond software into physical environments, alongside continued investor appetite for ind... [14737 chars]",
-            "url": "https://techstartups.com/2026/04/20/top-startup-and-tech-funding-news-april-20-2025/",
-            "image": "https://techstartups.com/wp-content/uploads/2026/04/X2Robot-960x509.jpg",
-            "publishedAt": "2026-04-20T21:10:39Z",
-            "lang": "en",
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "5ceead96436755debfd7c4aa50cba9f8",
-            "title": "Amazon To Invest Up To $25 Billion In AI Startup Anthropic. Why AMZN Stock Is Rising.",
-            "description": "Amazon will invest up to $25 billion in Anthropic. The AI startup will spend over $100 billion on the tech giant's wares. AMZN stock rose.",
-            "content": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we ... [1013 chars]",
-            "url": "https://www.investors.com/news/technology/amazon-to-invest-25-billion-ai-startup-anthropic-why-amzn-stock-rising/",
-            "image": "https://www.investors.com/wp-content/uploads/2025/12/Stock-AIdatacenter-shut.jpg",
-            "publishedAt": "2026-04-20T21:09:25Z",
-            "lang": "en",
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c016511189f7e8ba95368b455e1c138a",
-            "title": "John Ternus Takes the Helm as Apple's New CEO",
-            "description": "Apple announced John Ternus as its new CEO, succeeding Tim Cook. Ternus, who joined Apple in 2001, previously led the company's hardware engineering and was pivotal in reviving Mac sales. With this leadership change, Apple is focusing on design and product innovation, capitalizing on industry shifts like AI.",
-            "content": "In a significant leadership transition, Apple has appointed John Ternus as its new CEO following the tenure of Tim Cook. This move marks a shift towards a design-focused leadership as the tech giant seeks to navigate the evolving industry landscape, ... [685 chars]",
-            "url": "https://www.devdiscourse.com/article/technology/3881161-john-ternus-takes-the-helm-as-apples-new-ceo",
-            "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=920&format=jpeg",
-            "publishedAt": "2026-04-20T21:08:05Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "eebf71f6d93b67d44e3131152819ec3f",
-            "title": "A Supercharged AI Mega Force",
-            "description": "Since we last took stock of the AI mega force, several shifts have increased our conviction that it’s even more powerful now. And some of those shifts give the US a competitive edge on AI.",
-            "content": "BlackRock\n5.15K Followers\nComments\n(2)\nSummary\nWe view AI as a supercharged mega force as buildout spending is rising from already-historic levels, supporting our overweight U.S. and EM stocks.\nOil fell as Iran pledged to open the Strait of Hormuz du... [758 chars]",
-            "url": "https://seekingalpha.com/article/4892158-supercharged-ai-mega-force",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2244276959/image_2244276959.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-04-20T21:05:00Z",
+            "id": "8ab7a42a6eb9718c019d0fd398b44529",
+            "title": "IREN: Hyperscaler Ambitions Vs. $6 Billion Dilution Risk",
+            "description": "IREN shifts from Bitcoin mining to AI cloud infrastructure, scaling to 150,000 GPUs. Read the full analysis here.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of IREN either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
+            "url": "https://seekingalpha.com/article/4892540-iren-hyperscaler-ambitions-vs-6-billion-dilution-risk",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2261145744/image_2261145744.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-04-21T20:59:49Z",
             "lang": "en",
             "source": {
                 "id": "a6d401909ca644c4ffb332486c9cfaea",
@@ -119,51 +151,19 @@
             }
         },
         {
-            "id": "c2c2bd9eec25863d97c05e991e8d7112",
-            "title": "AMD: Don't Chase Now, Even If You Missed The Ride (Downgrade)",
-            "description": "Advanced Micro Devices, Inc. may gain AI share with deals & CPU growth, but 42x forward P/E, margin risks & rising rivals prompt a Hold. Click for this AMD update.",
-            "content": "AMD: Don't Chase Now, Even If You Missed The Ride (Downgrade)\nComment\n(1)\nSummary\nAdvanced Micro Devices, Inc. is positioned to gain AI market share, but its valuation at 42x forward P/E is difficult to justify versus Nvidia right now.\nRecent CPU gro... [2938 chars]",
-            "url": "https://seekingalpha.com/article/4892146-amd-dont-chase-now-even-if-you-missed-the-ride-downgrade",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2191006237/image_2191006237.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-04-20T21:03:17Z",
+            "id": "c5103bdb2fc946d51c044ed785730112",
+            "title": "What Is Lyria 3? Everything to Know About Google's AI Music Generator",
+            "description": "Google's latest AI music model can create longer, higher-quality songs with better structure. But is the music any good, and how does copyright and ownership play into it?",
+            "content": "You're used to typing prompts into generative AI tools like ChatGPT, Gemini or Grok to get answers, images and even videos. With Lyria 3, Google wants you to do the same thing for music. You can type a prompt, upload audio or an image, and the model ... [9249 chars]",
+            "url": "https://www.cnet.com/tech/services-and-software/lyria-3-google-ai-music-generator/",
+            "image": "https://www.cnet.com/a/img/resize/285fbc21d664553cb595133da5f519a180734d85/hub/2026/04/21/7acf2f58-f9f2-4632-bf54-fd9cca74c461/lyria-3.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-04-21T20:58:56Z",
             "lang": "en",
             "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
                 "country": "us"
-            }
-        },
-        {
-            "id": "8bfb8833202f016cede081bc109a46db",
-            "title": "AI Company Deleted OKCupid User Photos, Data After FTC Scrutiny",
-            "description": "US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.",
-            "content": "By Jody Godoy\nApril 20 (Reuters) - Artificial intelligence company Clarifai said this ⁠month ⁠it had deleted 3 million OkCupid ⁠user photos and facial-recognition models trained on them after the U.S. Federal Trade Commission ​settled with the dating... [2713 chars]",
-            "url": "https://www.usnews.com/news/top-news/articles/2026-04-20/ai-company-deleted-okcupid-user-photos-data-after-ftc-scrutiny",
-            "image": "https://www.usnews.com/dims4/USNEWS/5060de1/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ffe%2F01a77f00135eadcafe711908beeb1b%2Ftag%3Areuters.com%2C2026%3Anewsml_LYNXMPEM3J16R%3A12026-04-20T210210Z_1_LYNXMPEM3J16R_RTROPTP_3_USA-FTC-ADVERTISING-SETTLEMENT.JPG",
-            "publishedAt": "2026-04-20T21:02:00Z",
-            "lang": "en",
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e71e38e91421d9743d27d35141e8797d",
-            "title": "AI company deleted OKCupid user photos, data after FTC scrutiny",
-            "description": "Artificial intelligence company Clarifai said this month it had deleted 3 million OkCupid user photos and facial-recognition models trained on them after the U.S. Federal Trade Commission settled with...",
-            "content": "April 20 (Reuters) - Artificial intelligence company Clarifai said this month it had deleted 3 million OkCupid user photos and facial-recognition models trained on them after the U.S. Federal Trade Commission settled with the dating site over privacy... [2692 chars]",
-            "url": "https://www.marketscreener.com/news/ai-company-deleted-okcupid-user-photos-data-after-ftc-scrutiny-ce7f59dadd8ef42d",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-30T191321Z_1_LYNXMPEL3T125_RTROPTP_4_USA-TRUMP-FTC-MEADOR.JPG",
-            "publishedAt": "2026-04-20T21:01:53Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
             }
         }
     ]
