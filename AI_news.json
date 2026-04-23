@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 314689,
+    "totalArticles": 315789,
     "articles": [
         {
-            "id": "1c16a33db38812b12906dc7e91d8d5fa",
-            "title": "chat AI summaries for unread messages",
-            "description": "Meta is expanding its in-app AI-powered summaries feature on WhatsApp to include unread context across multiple chats. Here are the details.",
-            "content": "Meta is expanding its in-app AI-powered summaries feature on WhatsApp to include unread context across multiple chats. Here are the details.\nWhatsApp to expand in-app AI summaries\nAs spotted by WABetaInfo, the latest TestFlight build of WhatsApp incl... [1656 chars]",
-            "url": "https://9to5mac.com/2026/04/21/whatsapp-testing-multi-chat-ai-summaries-for-unread-messages/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2026-04-21T21:09:13Z",
+            "id": "13e434179c2e4766f3ce4302a71104bb",
+            "title": "Tesla beats earnings expectations as Musk pivots automaker to AI and robots",
+            "description": "While company reported positive cash flow and earnings of 41 cents a share, its missed its mark on reported revenue",
+            "content": "Tesla reported its first-quarter earnings on Wednesday, disclosing better than expected results. The report slightly boosted the company’s share price, which has limped along this year while its CEO, Elon Musk, has tried to sell the company’s new vis... [3060 chars]",
+            "url": "https://www.theguardian.com/technology/2026/apr/22/tesla-first-quarter-report-earnings",
+            "image": "https://i.guim.co.uk/img/media/24f937b810fecb56f3bbad489d1f26a973c0f63b/515_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2aeabb9eb0afff622f04042d28c7a9ec",
+            "publishedAt": "2026-04-22T21:13:53Z",
             "lang": "en",
             "source": {
-                "id": "92f73865e835e33ed68c11447777c939",
-                "name": "9to5Mac",
-                "url": "https://9to5mac.com",
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "ab1c04a6733e0de48a4ba5e5bbc73e02",
+            "title": "'I think it's a mistake': Delta CEO Ed Bastian refuses to call it 'artificial intelligence' because it scares people",
+            "description": "\"You want to scare people?\" The Delta CEO told Fortune. \"Tell them that artificial intelligence is coming for you.\"",
+            "content": "“I think it’s a mistake to call anything artificial,” the Delta Air Lines CEO told Fortune in a wide-ranging conversation, backstage at Great Place to Work’s For All Summit in Las Vegas. “You want to scare people? Tell them that artificial intelligen... [9865 chars]",
+            "url": "https://fortune.com/2026/04/22/delta-ceo-ed-bastian-great-place-to-work-ai-scaring-people-artificial-branding-mistake/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/26-050-0021.jpg?resize=1200,600",
+            "publishedAt": "2026-04-22T21:12:59Z",
+            "lang": "en",
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
                 "country": "us"
             }
         },
         {
-            "id": "048041691dc59fb9172cf593ff9cd5cd",
-            "title": "Shawn Levy Says AI Will Become an 'Essential Tool' for Moviemaking",
-            "description": "Shawn Levy believes AI will become an \"essential tool\" for moviemaking even thought he hasn't \"incorporated\" it in \"any meaningful way\" yet.",
-            "content": "Director Shawn Levy has wrapped and is in post-production on “Star Wars: Starfighter.”\nThe much-anticipated film, starring Ryan Gosling, Amy Adams, Matt Smith, Mia Goth and Aaron Pierre, doesn’t it theaters until May 28, 2027.\n“I’m in the beautiful s... [2124 chars]",
-            "url": "https://variety.com/2026/film/columns/shawn-levy-ai-become-essential-tool-moviemaking-but-he-hasnt-incorporated-meaningful-way-yet-1236727264/",
-            "image": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2245983767.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-04-21T21:08:37Z",
+            "id": "657cdafc6def7e63086f842b1a3e6570",
+            "title": "x86 efficiency gains help fund AI without new budget",
+            "description": "As AI inference demand surges and cloud budgets strain, AMD and Sabre explain how x86 efficiency is turning infrastructure savings into AI investment.",
+            "content": "As AI inference demand surges and enterprise compute budgets buckle under expanding workloads, x86 efficiency has emerged as one of the most powerful — and underutilized — levers in cloud financial management.\nThe pressure is showing up at the inters... [3472 chars]",
+            "url": "https://siliconangle.com/2026/04/22/x86-efficiency-gains-help-fund-ai-googlecloudnext/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/IMG_8851-e1776886077716.jpg",
+            "publishedAt": "2026-04-22T21:12:49Z",
             "lang": "en",
             "source": {
-                "id": "e6688d6db992f469baa7352aac100378",
-                "name": "Variety",
-                "url": "https://variety.com",
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
                 "country": "us"
             }
         },
         {
-            "id": "0ed071687757b0f2d224f49d1a3d89b7",
-            "title": "Shawn Levy Says AI Will Become an 'Essential Tool' for Moviemaking",
-            "description": "Shawn Levy believes AI will become an \"essential tool\" for moviemaking even thought he hasn't \"incorporated\" it in \"any meaningful way\" yet.",
-            "content": "Director Shawn Levy has wrapped and is in post-production on “Star Wars: Starfighter.”\nThe much-anticipated film, starring Ryan Gosling, Amy Adams, Matt Smith, Mia Goth and Aaron Pierre, doesn’t it theaters until May 28, 2027.\n“I’m in the beautiful s... [2124 chars]",
-            "url": "https://variety.com/2026/film/news/shawn-levy-ai-become-essential-tool-moviemaking-but-he-hasnt-incorporated-meaningful-way-yet-1236727264/",
-            "image": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2245983767.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-04-21T21:08:37Z",
-            "lang": "en",
-            "source": {
-                "id": "e6688d6db992f469baa7352aac100378",
-                "name": "Variety",
-                "url": "https://variety.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "24be2d06d8a49017e5686314553db0ba",
-            "title": "Shawn Levy Says AI Will Become an 'Essential Tool' for Moviemaking",
-            "description": "Shawn Levy believes AI will become an \"essential tool\" for moviemaking even thought he hasn't \"incorporated\" it in \"any meaningful way\" yet.",
-            "content": "Director Shawn Levy has wrapped and is in post-production on “Star Wars: Starfighter.”\nThe much-anticipated film, starring Ryan Gosling, Amy Adams, Matt Smith, Mia Goth and Aaron Pierre, doesn’t it theaters until May 28, 2027.\n“I’m in the beautiful s... [2124 chars]",
-            "url": "https://variety.com/2026/tv/columns/shawn-levy-ai-become-essential-tool-moviemaking-but-he-hasnt-incorporated-meaningful-way-yet-1236727264/",
-            "image": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2245983767.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-04-21T21:08:37Z",
-            "lang": "en",
-            "source": {
-                "id": "e6688d6db992f469baa7352aac100378",
-                "name": "Variety",
-                "url": "https://variety.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "903f28f5ffecea423e7e82e05198262d",
-            "title": "Adobe announces $25 billion stock buyback amid AI disruption fears",
-            "description": "Its shares rose around 2% in extended trading, but the stock has fallen around 30% this year as investors weigh the effects of new agentic models",
-            "content": "Adobe on Tuesday announced a share repurchase program worth up to $25 billion through April 30, 2030, as the Photoshop maker seeks to reassure investors of its growth strategy amid the rise of creative autonomous tools.\nIts shares rose around 2% in e... [1162 chars]",
-            "url": "https://www.moneycontrol.com/technology/adobe-announces-25-billion-stock-buyback-amid-ai-disruption-fears-article-13895708.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2024/06/20240617154747_adobertr.jpg",
-            "publishedAt": "2026-04-21T21:06:37Z",
-            "lang": "en",
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "34314747c5532c4bbc1d6f2350442ba7",
-            "title": "Grimes’ Album Announcement Reveals Contradicting Feelings Toward AI: ‘People Have Really Misunderstood Me’",
-            "description": "Grimes had a lot to say about AI, the future of humanity, military technology, and turning pain into art as she announced her newest album.",
-            "content": "Grimes has announced her newest album, Psy Opera, her first full-length project since Miss Anthropocene from 2020. In between, she’s dropped a handful of stand-alone singles. But during an April 2026 feature in Interview, she admitted her initial int... [4054 chars]",
-            "url": "https://www.vice.com/en/article/grimes-album-announcement-reveals-contradicting-feelings-toward-ai-people-have-really-misunderstood-me/",
-            "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/04/Grimes1.jpg?w=1200",
-            "publishedAt": "2026-04-21T21:02:15Z",
-            "lang": "en",
-            "source": {
-                "id": "9c188f87e786da40d8a7261297d97a8f",
-                "name": "VICE",
-                "url": "https://www.vice.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "3b5ef4fc70444420e3abb77374d2d770",
-            "title": "This AI Warning Is A Myth; The Danger Is Not...",
-            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-            "content": "Authored by Kay Rubacek via The Epoch Times,\nYou know this story.\nDrop a frog into boiling water, and it will scramble out immediately. But place that same frog in cool water, heat it slowly, and degree by degree, it will never notice the danger unti... [5709 chars]",
-            "url": "https://www.zerohedge.com/ai/ai-warning-myth-danger-not",
-            "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-04/httpssubstack-post-media.s3.amaz%20%2814%29.jpg?h=1e99e142&itok=vRRnXvPW",
-            "publishedAt": "2026-04-21T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
-                "name": "ZeroHedge",
-                "url": "https://www.zerohedge.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "4ef2b5e4a75ddda5d1dd8e87e53ce2fb",
-            "title": "Amazon invests another $5 bil in Anthropic",
-            "description": "Amazon has pumped another $5 billion into Anthropic as it ramps up its collaboration with the startup behind Claude artificial intelligence. The e-commerce and cloud computing colossus noted that the investment builds on $8 billion it had already invested in Anthropic, according to the companies. Amazon added that it could…",
-            "content": "Amazon has pumped another $5 billion into Anthropic as it ramps up its collaboration with the startup behind Claude artificial intelligence.\nThe e-commerce and cloud computing colossus noted that the investment builds on $8 billion it had already inv... [1817 chars]",
-            "url": "https://japantoday.com/category/tech/amazon-invests-another-5-bn-in-anthropic",
-            "image": "https://media.japantoday.com/img/store/62/f3/b754a6aaf7a13297e9bdf787f10b921dc2da/7f333966a1e0875e4ffcdcc0e783ed2714e64147/_w1700.jpeg",
-            "publishedAt": "2026-04-21T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "8ab7a42a6eb9718c019d0fd398b44529",
-            "title": "IREN: Hyperscaler Ambitions Vs. $6 Billion Dilution Risk",
-            "description": "IREN shifts from Bitcoin mining to AI cloud infrastructure, scaling to 150,000 GPUs. Read the full analysis here.",
-            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of IREN either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
-            "url": "https://seekingalpha.com/article/4892540-iren-hyperscaler-ambitions-vs-6-billion-dilution-risk",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2261145744/image_2261145744.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-04-21T20:59:49Z",
-            "lang": "en",
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c5103bdb2fc946d51c044ed785730112",
-            "title": "What Is Lyria 3? Everything to Know About Google's AI Music Generator",
-            "description": "Google's latest AI music model can create longer, higher-quality songs with better structure. But is the music any good, and how does copyright and ownership play into it?",
-            "content": "You're used to typing prompts into generative AI tools like ChatGPT, Gemini or Grok to get answers, images and even videos. With Lyria 3, Google wants you to do the same thing for music. You can type a prompt, upload audio or an image, and the model ... [9249 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/lyria-3-google-ai-music-generator/",
-            "image": "https://www.cnet.com/a/img/resize/285fbc21d664553cb595133da5f519a180734d85/hub/2026/04/21/7acf2f58-f9f2-4632-bf54-fd9cca74c461/lyria-3.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-04-21T20:58:56Z",
+            "id": "603f94465a2574230ae2620ff0be52db",
+            "title": "Sony's New AI Robot Can Probably Beat You in Table Tennis",
+            "description": "Sony is demonstrating just a small fraction of what physical AI might be able to do.",
+            "content": "On Wednesday, Sony announced its project Ace, an autonomous robot capable of competing with professional table tennis players. Sony says this breakthrough demonstrates that AI systems have achieved human-like, expert-level performance in a competitiv... [1783 chars]",
+            "url": "https://www.cnet.com/tech/sonys-new-ai-robot-can-probably-beat-you-in-table-tennis/",
+            "image": "https://www.cnet.com/a/img/resize/1136d4ac6a54f3e91935f868d1bd01193771056e/hub/2026/04/22/488edd07-f4c6-4c91-b6d5-6db91a025afc/screenshot-2026-04-22-at-1-00-24pm.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-04-22T21:05:26Z",
             "lang": "en",
             "source": {
                 "id": "6f4f13c21bb217801ab4b37c367f97aa",
                 "name": "CNET",
                 "url": "https://www.cnet.com",
                 "country": "us"
+            }
+        },
+        {
+            "id": "a8de97e532f6ec279d116dca9262edcc",
+            "title": "IBM Posts Higher 1Q Sales, Buoyed by AI -- Update",
+            "description": "By Elias Schisgall\nIBM reported rising revenue and a higher profit in the first quarter, buoyed by the growing adoption of artificial-intelligence tools by businesses.\nAI continues to be a...",
+            "content": "By Elias Schisgall\nIBM reported rising revenue and a higher profit in the first quarter, buoyed by the growing adoption of artificial-intelligence tools by businesses.\n\"AI continues to be a tailwind for our business,\" IBM Chief Financial Officer Jim ... [1972 chars]",
+            "url": "https://www.marketscreener.com/news/ibm-posts-higher-1q-sales-buoyed-by-ai-update-ce7f59d9d98ff021",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-04-22T21:02:14Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "00b4d3b81a330af73098897f8c8f0d5b",
+            "title": "'Freedom Truck' with AI George Washington stops in DC for America's 250th",
+            "description": "A traveling \"mobile museum\" showcasing the nation's history has made a stop on the National Mall this week as part of the lead-up to America's 250th milestone.",
+            "content": "A traveling \"mobile museum\" showcasing the nation's history has made a stop on the National Mall this week as part of the lead-up to America's 250th anniversary.\nOrganizers with Freedom 250 say one of its touring Freedom Trucks will be free to the pu... [926 chars]",
+            "url": "https://wjla.com/features/dmv-250/freedom-truck-ai-george-washington-dc-americas-250th-anniversary-mobile-museum-national-mall-artificial-intelligence-immersive-interactions-declaration-of-independence-exhibits-history-free-public-events-attractions",
+            "image": "https://wjla.com/resources/media2/16x9/1280/1320/center/90/6f713245-adf9-423c-85de-450a604b6f0b-WEREBECCATRX34_frame_189184.jpeg",
+            "publishedAt": "2026-04-22T21:01:18Z",
+            "lang": "en",
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "bd1269519f334d9ed372dcdb68788ac8",
+            "title": "Generated Child Pornography Is Overwhelming Law Enforcement",
+            "description": "To find real kids in danger, law enforcement must sift through a surge of AI-generated sex imagery.",
+            "content": "Technology | The Big Take\nThe Insurmountable Flood\nInvestigators say child predators are now only limited by their imagination.\nWilliam Michael Haslach was a lunch monitor and traffic guard at a suburban Minnesota elementary school for years — a fami... [22684 chars]",
+            "url": "https://www.bloomberg.com/features/2026-ai-child-predators-law-enforcement/",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuzrjKrYSC9Q/v0/-1x-1.webp",
+            "publishedAt": "2026-04-22T21:00:18Z",
+            "lang": "en",
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "6dcf62085ffd0002b11cad8c2a3ca758",
+            "title": "Is Tim Cook leaving Apple with an AI headache?",
+            "description": "As a new chief prepares to take charge, concerns that Apple could lose its grip on the next wave of technology are greatly exaggerated. Read more at straitstimes.com.",
+            "content": "To some, Apple is starting to look like a company on the back foot. The appointment of Mr John Ternus, a long-time hardware chief, to CEO only sharpens the question of whether the US $4 trillion (S$5 trillion) company can keep pace in artificial inte... [6340 chars]",
+            "url": "https://www.straitstimes.com/opinion/is-tim-cook-leaving-apple-with-an-ai-headache",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3d27b8e93a394a36c38016df081b1a80b96dd8ca2f62faefbf6701fc56a48f09",
+            "publishedAt": "2026-04-22T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "7ce65a9dedb77fd94e08a52ab918c73f",
+            "title": "Reading in the age of AI: a life skill more crucial than ever before",
+            "description": "Paradoxically, in a world awash with information, insight and understanding seem to be in short supply. Reading is a necessary corrective. Read more at straitstimes.com.",
+            "content": "Today (April 23) is World Book Day, launched in 1995 by UNESCO to celebrate writers and promote reading.\nIn another era, this might have seemed like a quaint festival marked mostly by book lovers. But today, there is a new urgency.\nParadoxically, in ... [5737 chars]",
+            "url": "https://www.straitstimes.com/opinion/reading-in-the-age-of-ai-a-life-skill-more-crucial-than-ever-before",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a0a2a7d1c86928888d179dea4faa6b9364f1a5c455cf06268f3080d578d11533",
+            "publishedAt": "2026-04-22T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "0af650d3e23b19ba103bd6f1f9239905",
+            "title": "AI-powered robots offer new hope to German factories",
+            "description": "A blue-eyed humanoid robot carefully opens a box and places a tool inside as a crowd of visitors watch the demonstration of \"physical AI\" skills at a major industrial trade fair in Germany. Made by German startup Agile Robots, it was among a host of robots showing off their moves…",
+            "content": "A blue-eyed humanoid robot carefully opens a box and places a tool inside as a crowd of visitors watch the demonstration of \"physical AI\" skills at a major industrial trade fair in Germany.\nMade by German startup Agile Robots, it was among a host of ... [3520 chars]",
+            "url": "https://japantoday.com/category/tech/ai-powered-robots-offer-new-hope-to-german-factories",
+            "image": "https://media.japantoday.com/img/store/2a/b4/2b50ea4e45f91674f135d5b0d61a84b6d420/70d7c875826979c3ea095fc516351b29dcf4f604/_w1700.jpeg",
+            "publishedAt": "2026-04-22T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
             }
         }
     ]
