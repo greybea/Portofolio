@@ -4,112 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 315789,
+    "totalArticles": 316896,
     "articles": [
         {
-            "id": "13e434179c2e4766f3ce4302a71104bb",
-            "title": "Tesla beats earnings expectations as Musk pivots automaker to AI and robots",
-            "description": "While company reported positive cash flow and earnings of 41 cents a share, its missed its mark on reported revenue",
-            "content": "Tesla reported its first-quarter earnings on Wednesday, disclosing better than expected results. The report slightly boosted the company’s share price, which has limped along this year while its CEO, Elon Musk, has tried to sell the company’s new vis... [3060 chars]",
-            "url": "https://www.theguardian.com/technology/2026/apr/22/tesla-first-quarter-report-earnings",
-            "image": "https://i.guim.co.uk/img/media/24f937b810fecb56f3bbad489d1f26a973c0f63b/515_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2aeabb9eb0afff622f04042d28c7a9ec",
-            "publishedAt": "2026-04-22T21:13:53Z",
+            "id": "37ae32c9347362b0b98bfa83d32461b3",
+            "title": "Meta To Lay Off 10% Of Workforce Amid Ongoing AI Push",
+            "description": "Meta, which owns Facebook, Instagram and WhatsApp, plans to lay off 10% of its workforce as it continues to invest in generative AI.",
+            "content": ", which owns Facebook, Instagram and WhatsApp, plans to lay off 10% of its workforce amid ongoing investments in generative AI.\nThe company offered details to employees in a memo. Bloomberg had the first report of the cutbacks, following an earlier o... [1809 chars]",
+            "url": "https://deadline.com/2026/04/meta-layoffs-ai-1236870143/",
+            "image": "https://deadline.com/wp-content/uploads/2025/05/Meta-Platforms.jpg?w=1024",
+            "publishedAt": "2026-04-23T21:19:49Z",
             "lang": "en",
             "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "ab1c04a6733e0de48a4ba5e5bbc73e02",
-            "title": "'I think it's a mistake': Delta CEO Ed Bastian refuses to call it 'artificial intelligence' because it scares people",
-            "description": "\"You want to scare people?\" The Delta CEO told Fortune. \"Tell them that artificial intelligence is coming for you.\"",
-            "content": "“I think it’s a mistake to call anything artificial,” the Delta Air Lines CEO told Fortune in a wide-ranging conversation, backstage at Great Place to Work’s For All Summit in Las Vegas. “You want to scare people? Tell them that artificial intelligen... [9865 chars]",
-            "url": "https://fortune.com/2026/04/22/delta-ceo-ed-bastian-great-place-to-work-ai-scaring-people-artificial-branding-mistake/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/26-050-0021.jpg?resize=1200,600",
-            "publishedAt": "2026-04-22T21:12:59Z",
-            "lang": "en",
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
+                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
+                "name": "Deadline",
+                "url": "https://deadline.com",
                 "country": "us"
             }
         },
         {
-            "id": "657cdafc6def7e63086f842b1a3e6570",
-            "title": "x86 efficiency gains help fund AI without new budget",
-            "description": "As AI inference demand surges and cloud budgets strain, AMD and Sabre explain how x86 efficiency is turning infrastructure savings into AI investment.",
-            "content": "As AI inference demand surges and enterprise compute budgets buckle under expanding workloads, x86 efficiency has emerged as one of the most powerful — and underutilized — levers in cloud financial management.\nThe pressure is showing up at the inters... [3472 chars]",
-            "url": "https://siliconangle.com/2026/04/22/x86-efficiency-gains-help-fund-ai-googlecloudnext/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/IMG_8851-e1776886077716.jpg",
-            "publishedAt": "2026-04-22T21:12:49Z",
-            "lang": "en",
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "603f94465a2574230ae2620ff0be52db",
-            "title": "Sony's New AI Robot Can Probably Beat You in Table Tennis",
-            "description": "Sony is demonstrating just a small fraction of what physical AI might be able to do.",
-            "content": "On Wednesday, Sony announced its project Ace, an autonomous robot capable of competing with professional table tennis players. Sony says this breakthrough demonstrates that AI systems have achieved human-like, expert-level performance in a competitiv... [1783 chars]",
-            "url": "https://www.cnet.com/tech/sonys-new-ai-robot-can-probably-beat-you-in-table-tennis/",
-            "image": "https://www.cnet.com/a/img/resize/1136d4ac6a54f3e91935f868d1bd01193771056e/hub/2026/04/22/488edd07-f4c6-4c91-b6d5-6db91a025afc/screenshot-2026-04-22-at-1-00-24pm.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-04-22T21:05:26Z",
-            "lang": "en",
-            "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "a8de97e532f6ec279d116dca9262edcc",
-            "title": "IBM Posts Higher 1Q Sales, Buoyed by AI -- Update",
-            "description": "By Elias Schisgall\nIBM reported rising revenue and a higher profit in the first quarter, buoyed by the growing adoption of artificial-intelligence tools by businesses.\nAI continues to be a...",
-            "content": "By Elias Schisgall\nIBM reported rising revenue and a higher profit in the first quarter, buoyed by the growing adoption of artificial-intelligence tools by businesses.\n\"AI continues to be a tailwind for our business,\" IBM Chief Financial Officer Jim ... [1972 chars]",
-            "url": "https://www.marketscreener.com/news/ibm-posts-higher-1q-sales-buoyed-by-ai-update-ce7f59d9d98ff021",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-04-22T21:02:14Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "00b4d3b81a330af73098897f8c8f0d5b",
-            "title": "'Freedom Truck' with AI George Washington stops in DC for America's 250th",
-            "description": "A traveling \"mobile museum\" showcasing the nation's history has made a stop on the National Mall this week as part of the lead-up to America's 250th milestone.",
-            "content": "A traveling \"mobile museum\" showcasing the nation's history has made a stop on the National Mall this week as part of the lead-up to America's 250th anniversary.\nOrganizers with Freedom 250 say one of its touring Freedom Trucks will be free to the pu... [926 chars]",
-            "url": "https://wjla.com/features/dmv-250/freedom-truck-ai-george-washington-dc-americas-250th-anniversary-mobile-museum-national-mall-artificial-intelligence-immersive-interactions-declaration-of-independence-exhibits-history-free-public-events-attractions",
-            "image": "https://wjla.com/resources/media2/16x9/1280/1320/center/90/6f713245-adf9-423c-85de-450a604b6f0b-WEREBECCATRX34_frame_189184.jpeg",
-            "publishedAt": "2026-04-22T21:01:18Z",
-            "lang": "en",
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "bd1269519f334d9ed372dcdb68788ac8",
-            "title": "Generated Child Pornography Is Overwhelming Law Enforcement",
-            "description": "To find real kids in danger, law enforcement must sift through a surge of AI-generated sex imagery.",
-            "content": "Technology | The Big Take\nThe Insurmountable Flood\nInvestigators say child predators are now only limited by their imagination.\nWilliam Michael Haslach was a lunch monitor and traffic guard at a suburban Minnesota elementary school for years — a fami... [22684 chars]",
-            "url": "https://www.bloomberg.com/features/2026-ai-child-predators-law-enforcement/",
-            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuzrjKrYSC9Q/v0/-1x-1.webp",
-            "publishedAt": "2026-04-22T21:00:18Z",
+            "id": "8113e00ad5876b5389c648aad9c63d1e",
+            "title": "The Potential Peril and Profit of Anthropic’s Mythos",
+            "description": "The artificial intelligence model has sparked fear on Wall Street. But the furor could eventually benefit its maker.",
+            "content": "Mythos, the already-famous AI model from Anthropic, has sparked fear across Wall Street, governments and pretty much everywhere else. It’s said to have the ability to scan miles of code for vulnerabilities and offer options to exploit them in complex... [619 chars]",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-23/video-the-potential-peril-and-profit-of-anthropic-s-mythos",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqXgQh5KeycA/v0/1200x900.jpg",
+            "publishedAt": "2026-04-23T21:19:26Z",
             "lang": "en",
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -119,51 +39,131 @@
             }
         },
         {
-            "id": "6dcf62085ffd0002b11cad8c2a3ca758",
-            "title": "Is Tim Cook leaving Apple with an AI headache?",
-            "description": "As a new chief prepares to take charge, concerns that Apple could lose its grip on the next wave of technology are greatly exaggerated. Read more at straitstimes.com.",
-            "content": "To some, Apple is starting to look like a company on the back foot. The appointment of Mr John Ternus, a long-time hardware chief, to CEO only sharpens the question of whether the US $4 trillion (S$5 trillion) company can keep pace in artificial inte... [6340 chars]",
-            "url": "https://www.straitstimes.com/opinion/is-tim-cook-leaving-apple-with-an-ai-headache",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3d27b8e93a394a36c38016df081b1a80b96dd8ca2f62faefbf6701fc56a48f09",
-            "publishedAt": "2026-04-22T21:00:00Z",
+            "id": "04d584bcaf9fff33fe1ac3f05da0ddbd",
+            "title": "Softbank prepares to manufacture batteries for AI data centers - Bloomberg news",
+            "description": "April 23 -\nSoftbank prepares to manufacture batteries for AI data centers - Bloomberg news\n...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/softbank-prepares-to-manufacture-batteries-for-ai-data-centers-bloomberg-news-ce7f59dedc8af727",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-04-23T21:15:32Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         },
         {
-            "id": "7ce65a9dedb77fd94e08a52ab918c73f",
-            "title": "Reading in the age of AI: a life skill more crucial than ever before",
-            "description": "Paradoxically, in a world awash with information, insight and understanding seem to be in short supply. Reading is a necessary corrective. Read more at straitstimes.com.",
-            "content": "Today (April 23) is World Book Day, launched in 1995 by UNESCO to celebrate writers and promote reading.\nIn another era, this might have seemed like a quaint festival marked mostly by book lovers. But today, there is a new urgency.\nParadoxically, in ... [5737 chars]",
-            "url": "https://www.straitstimes.com/opinion/reading-in-the-age-of-ai-a-life-skill-more-crucial-than-ever-before",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a0a2a7d1c86928888d179dea4faa6b9364f1a5c455cf06268f3080d578d11533",
-            "publishedAt": "2026-04-22T21:00:00Z",
+            "id": "c04039acb4077eae2dacbb89a89b8174",
+            "title": "Google Maps Lets Filmmakers Scout Movie Scenes Using AI and Street View Data",
+            "description": "Google unveiled a new AI tool in Maps that lets filmmakers preview scenes in real-world locations ahead (or instead) of scouting trips.",
+            "content": "Hollywood location scouts may soon be able to do more of their work from a laptop, thanks to artificial intelligence.\nAnnounced during Google Cloud Next on Wednesday, Google unveiled Maps Imagery Grounding. This new AI-powered tool lets filmmakers an... [3013 chars]",
+            "url": "https://decrypt.co/365326/google-maps-filmmakers-scout-movie-scenes-ai-street-view-data",
+            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
+            "publishedAt": "2026-04-23T21:09:59Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
+                "id": "6956007add5fc13a6721202ec906b1c4",
+                "name": "Decrypt",
+                "url": "https://decrypt.co",
+                "country": "us"
             }
         },
         {
-            "id": "0af650d3e23b19ba103bd6f1f9239905",
-            "title": "AI-powered robots offer new hope to German factories",
-            "description": "A blue-eyed humanoid robot carefully opens a box and places a tool inside as a crowd of visitors watch the demonstration of \"physical AI\" skills at a major industrial trade fair in Germany. Made by German startup Agile Robots, it was among a host of robots showing off their moves…",
-            "content": "A blue-eyed humanoid robot carefully opens a box and places a tool inside as a crowd of visitors watch the demonstration of \"physical AI\" skills at a major industrial trade fair in Germany.\nMade by German startup Agile Robots, it was among a host of ... [3520 chars]",
-            "url": "https://japantoday.com/category/tech/ai-powered-robots-offer-new-hope-to-german-factories",
-            "image": "https://media.japantoday.com/img/store/2a/b4/2b50ea4e45f91674f135d5b0d61a84b6d420/70d7c875826979c3ea095fc516351b29dcf4f604/_w1700.jpeg",
-            "publishedAt": "2026-04-22T21:00:00Z",
+            "id": "2eb64b4167288703361fa9553fcc6858",
+            "title": "Raymond James CEO: Focusing on Tech, Products, AI",
+            "description": "Raymond James CEO Paul Shoukry discusses the health of their 'record' recruiting pipeline, and a renewed focus on technologies, products, and AI to help advisors provide more holistic advice for...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/raymond-james-ceo-focusing-on-tech-products-ai-ce7f59dedc88f224",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3609313.png",
+            "publishedAt": "2026-04-23T21:02:09Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "81ff52f8345dd73a942534554740f4e2",
+            "title": "Should You Sell Apple Stock Before September 1?",
+            "description": "Apple’s leadership shift arrives as the company pushes into AI, but execution risks and China exposure remain in focus.",
+            "content": "Mega-cap tech stocks can look nearly untouchable for years, but even the biggest winners face moments of change that make investors reassess the story. Leadership transitions, slowing growth in key markets, and questions about innovation can all resh... [5119 chars]",
+            "url": "https://www.barchart.com/story/news/1486710/should-you-sell-apple-stock-before-september-1",
+            "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20A%20-%20I)/Apple%20logo%20-%20by%20Pexels%20via%20Pixabay.jpg",
+            "publishedAt": "2026-04-23T21:02:07Z",
+            "lang": "en",
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "b62c45fc7e65b2b1e1426f9c81c92fb4",
+            "title": "Axe employer National Insurance to save young people’s jobs from rising costs and AI, warns Rishi Sunak",
+            "description": "RISHI Sunak has urged ministers to axe employer National Insurance — warning rising hiring costs and artificial intelligence are squeezing young...",
+            "content": "RISHI Sunak has urged ministers to axe employer National Insurance — warning rising hiring costs and artificial intelligence are squeezing young people out of jobs.\nThe ex-Prime Minister said bosses in law, accountancy and the creative industries are... [2558 chars]",
+            "url": "https://www.thesun.co.uk/money/38913339/sunak-ministers-axe-national-insurance-save-youth-jobs/",
+            "image": "https://www.thesun.co.uk/wp-content/uploads/2026/04/2018-legal-documents-table-national-1075702452.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+            "publishedAt": "2026-04-23T21:01:08Z",
+            "lang": "en",
+            "source": {
+                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+                "name": "The Sun",
+                "url": "https://www.thesun.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "853848287154fe89c42d4acf95349a4b",
+            "title": "Meta slashes 8,000 jobs, or 10% of its workforce; Microsoft offers buyouts",
+            "description": "Meta is laying off about 8,000 workers, or about 10% of its workforce, the company said Thursday as it continues to ramp up spending on artificial intelligence infrastructure and highly paid AI-expert hires. The company said it was making the cuts for the sake of efficiency and to allow new…",
+            "content": "Meta is laying off about 8,000 workers, or about 10% of its workforce, the company said Thursday as it continues to ramp up spending on artificial intelligence infrastructure and highly paid AI-expert hires.\nThe company said it was making the cuts fo... [2058 chars]",
+            "url": "https://japantoday.com/category/tech/meta-slashes-8-000-jobs-or-10-of-its-workforce-as-microsoft-offers-buyouts",
+            "image": "https://media.japantoday.com/img/store/b1/5c/7a73214f145ad350a693e419fbb47d468c82/download/_w1700.jpeg",
+            "publishedAt": "2026-04-23T21:00:00Z",
             "lang": "en",
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
                 "name": "Japan Today",
                 "url": "https://japantoday.com",
                 "country": "jp"
+            }
+        },
+        {
+            "id": "69cbed9fea53cc80ca2c50d16798bf54",
+            "title": "Reese Witherspoon, Sandra Bullock and Hollywood’s cautious embrace of AI",
+            "description": "“Over the last six to 12 months, there has been this realization that AI is not going away,” said Alexandra Shannon, head of strategic development at Creat",
+            "content": "Explosive Claims Hit Swizz Beatz And Alicia Keys\nJahna Sebastian, mother of Swizz Beatz’s 17-year-old daughter Nicole Dean, has ignited social media with alarming accusations against Swizz (Kasseem Daoud Dean) and wife Alicia Keys. Across a series of... [9231 chars]",
+            "url": "https://www.newsbreak.com/nbc-news-510074/4609471068966-reese-witherspoon-sandra-bullock-and-hollywood-s-cautious-embrace-of-ai",
+            "image": "https://img.particlenews.com/img/id/05mBjH_1Ajbpc7v00",
+            "publishedAt": "2026-04-23T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "13d3ab524fe756085d7fafeacf99563a",
+            "title": "Bret Taylor's Sierra buys YC-backed AI startup Fragment",
+            "description": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+            "content": "Sierra, the customer service agent startup founded by Bret Taylor, announced on Thursday that it has acquired the YC-backed French startup Fragment, which helps businesses integrate AI into workflows.\nThis is Sierra’s third public acquisition. It pre... [577 chars]",
+            "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+            "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762615783.jpg?resize=1200,800",
+            "publishedAt": "2026-04-23T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
             }
         }
     ]
