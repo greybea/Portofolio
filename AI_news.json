@@ -4,64 +4,112 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 316896,
+    "totalArticles": 317924,
     "articles": [
         {
-            "id": "37ae32c9347362b0b98bfa83d32461b3",
-            "title": "Meta To Lay Off 10% Of Workforce Amid Ongoing AI Push",
-            "description": "Meta, which owns Facebook, Instagram and WhatsApp, plans to lay off 10% of its workforce as it continues to invest in generative AI.",
-            "content": ", which owns Facebook, Instagram and WhatsApp, plans to lay off 10% of its workforce amid ongoing investments in generative AI.\nThe company offered details to employees in a memo. Bloomberg had the first report of the cutbacks, following an earlier o... [1809 chars]",
-            "url": "https://deadline.com/2026/04/meta-layoffs-ai-1236870143/",
-            "image": "https://deadline.com/wp-content/uploads/2025/05/Meta-Platforms.jpg?w=1024",
-            "publishedAt": "2026-04-23T21:19:49Z",
+            "id": "8790aaf1a2b357e0ffe41946ab2d8072",
+            "title": "Why RAM Is So Expensive in 2026 - And What PC Buyers Should Do",
+            "description": "RAM prices have surged dramatically, driven by AI demand and supply constraints. Here’s what’s behind the spike, how long it could last, and what PC builders should do next.",
+            "content": "If you’ve been planning a PC build or even browsing pre-built systems, you’ve likely run into the same issue: RAM prices are unusually high. In some cases, costs have increased by as much as 500%, pushing up overall system prices and making builds ha... [4512 chars]",
+            "url": "https://www.digitaltrends.com/computing/why-ram-is-so-expensive-in-2026-and-what-pc-buyers-should-do/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/03/RAM-memory-chips.jpg?resize=1200%2C630",
+            "publishedAt": "2026-04-24T20:38:55Z",
             "lang": "en",
             "source": {
-                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
-                "name": "Deadline",
-                "url": "https://deadline.com",
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
                 "country": "us"
             }
         },
         {
-            "id": "8113e00ad5876b5389c648aad9c63d1e",
-            "title": "The Potential Peril and Profit of Anthropic’s Mythos",
-            "description": "The artificial intelligence model has sparked fear on Wall Street. But the furor could eventually benefit its maker.",
-            "content": "Mythos, the already-famous AI model from Anthropic, has sparked fear across Wall Street, governments and pretty much everywhere else. It’s said to have the ability to scan miles of code for vulnerabilities and offer options to exploit them in complex... [619 chars]",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-23/video-the-potential-peril-and-profit-of-anthropic-s-mythos",
-            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqXgQh5KeycA/v0/1200x900.jpg",
-            "publishedAt": "2026-04-23T21:19:26Z",
+            "id": "29cbc452dbc84f7b65d72a28fbd1ac39",
+            "title": "Nvidia hits $5 trillion in market cap, solidifies position as AI's kin",
+            "description": "The chipmaker reclaimed its title as the world's most valuable company after a rough stretch of months.",
+            "content": "Nvidia Corp. shares rose to their first record in months on Friday, the latest example of improving momentum at the leader in artificial intelligence chips.\nShares gained 4.3% to $208.26 amid a broad semiconductor rally, taking out a record that had ... [2596 chars]",
+            "url": "https://www.dallasnews.com/business/technology/article/nvidia-hits-5-trillion-market-cap-solidifies-22224745.php",
+            "image": "https://s.hdnux.com/photos/01/65/44/26/30819736/3/rawImage.jpg",
+            "publishedAt": "2026-04-24T20:37:46Z",
             "lang": "en",
             "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
+                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+                "name": "The Dallas Morning News",
+                "url": "https://www.dallasnews.com",
                 "country": "us"
             }
         },
         {
-            "id": "04d584bcaf9fff33fe1ac3f05da0ddbd",
-            "title": "Softbank prepares to manufacture batteries for AI data centers - Bloomberg news",
-            "description": "April 23 -\nSoftbank prepares to manufacture batteries for AI data centers - Bloomberg news\n...",
-            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/softbank-prepares-to-manufacture-batteries-for-ai-data-centers-bloomberg-news-ce7f59dedc8af727",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-04-23T21:15:32Z",
+            "id": "ea89cfb79d599f3992fd16cabd5b80c3",
+            "title": "DOJ Backs Musk's xAI In Fight Against Colorado AI Law, Calls It 'Woke DEI'",
+            "description": "The DOJ is joining xAI's lawsuit against Colorado to block enforcement of a law imposing heavy operational demands on AI companies.",
+            "content": "The U.S. Department of Justice (DOJ) is joining xAI's lawsuit against the state of Colorado, seeking to stop the state from enforcing a law that would impose significant operational demands on companies building AI products.\nThe lawsuit names Colorad... [1837 chars]",
+            "url": "https://www.benzinga.com/markets/private-markets/26/04/52047820/doj-backs-musks-xai-in-fight-against-colorado-ai-law-calls-it-woke-dei",
+            "image": "https://cdn.benzinga.com/files/images/story/2026/04/24/The-New-York-Times-Press-Rules-Lawsuit.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-04-24T20:33:58Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
             }
         },
         {
-            "id": "c04039acb4077eae2dacbb89a89b8174",
-            "title": "Google Maps Lets Filmmakers Scout Movie Scenes Using AI and Street View Data",
-            "description": "Google unveiled a new AI tool in Maps that lets filmmakers preview scenes in real-world locations ahead (or instead) of scouting trips.",
-            "content": "Hollywood location scouts may soon be able to do more of their work from a laptop, thanks to artificial intelligence.\nAnnounced during Google Cloud Next on Wednesday, Google unveiled Maps Imagery Grounding. This new AI-powered tool lets filmmakers an... [3013 chars]",
-            "url": "https://decrypt.co/365326/google-maps-filmmakers-scout-movie-scenes-ai-street-view-data",
-            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
-            "publishedAt": "2026-04-23T21:09:59Z",
+            "id": "3fa65360c7484cd5d799a3640c83f867",
+            "title": "Energy raises $1.02B in record nuclear IPO as Amazon",
+            "description": "X-Energy's $1.02B IPO was 15x oversubscribed and priced 21% above range. The same company failed to close a SPAC at $1B in 2023. AI data centre demand changed everything.",
+            "content": "In short: X-Energy raised $1.02 billion in the largest nuclear IPO on record, pricing at $23 (21% above range) on the Nasdaq, with shares surging 31% on opening to imply a $12 billion market cap. The offering was 15x oversubscribed. The same company ... [7652 chars]",
+            "url": "https://thenextweb.com/news/x-energy-ipo-billion-nuclear-ai-data-centres",
+            "image": "https://media.thenextweb.com/2026/04/unnamed-file-1.avif",
+            "publishedAt": "2026-04-24T20:33:04Z",
+            "lang": "en",
+            "source": {
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "d96469d05881f2feaf4826255f6de07c",
+            "title": "L&T Finance Reports Strong Q4FY26 Results with 27% Jump in Net Profit to ₹807 Cr",
+            "description": "L&T Finance delivered exceptional Q4FY26 performance with net profit rising 27% to ₹807 Cr and retail disbursements surging 62% to ₹24,107 Cr. The company achieved 98% retailisation target, maintained strong asset quality with credit cost at 2.64%, and continued advancing digital initiatives including AI-powered underwriting systems.",
+            "content": "L&T Finance has announced impressive Q4FY26 results, demonstrating exceptional growth across key financial metrics. The financial services company reported significant improvements in profitability, revenue generation, and operational performance com... [4796 chars]",
+            "url": "https://scanx.trade/stock-market-news/companies/l-t-finance-reports-strong-q4-results-with-26-6-jump-in-net-profit/38583556",
+            "image": "http://news-images.dhan.co/l-t-finance-reports-strong-q4-results-with-26-6-jump-in-net-profit.jpg",
+            "publishedAt": "2026-04-24T20:33:00Z",
+            "lang": "en",
+            "source": {
+                "id": "f746366686e467440a63dd26dbb72053",
+                "name": "scanx.trade",
+                "url": "https://scanx.trade",
+                "country": "in"
+            }
+        },
+        {
+            "id": "c2e25215fc02d4273e055678d643cf4d",
+            "title": "Nebius Q1 Preview: The Market Is Saying This Is An Outlier Among Outliers",
+            "description": "Nebius targets $27B AI deals amid GPU shortages, aiming for 6.4x ARR growth but facing a $7.2B capex gap and execution risk. Click for this NBIS stock update.",
+            "content": "Nebius Q1 Preview: The Market Is Saying This Is An Outlier Among Outliers\nHunting Alphas\n8.1K Followers\nComments\n(6)\nSummary\nNebius Group N.V. is pursuing multi-billion-dollar AI infrastructure mega deals, including a new up to $27B Meta contract, wh... [4023 chars]",
+            "url": "https://seekingalpha.com/article/4894156-nebius-q1-preview-market-saying-this-an-outlier-among-outliers",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1337911138/image_1337911138.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-04-24T20:32:44Z",
+            "lang": "en",
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "1f6e0e38cf570dd25e1b3d979628f844",
+            "title": "Trump DOJ Backs Elon Musk's xAI in Fight Over Colorado AI Bias Law",
+            "description": "The Justice Department moved to intervene in xAI’s lawsuit challenging Colorado’s algorithmic discrimination law.",
+            "content": "The U.S. Department of Justice moved Friday to intervene in xAI’s lawsuit against Colorado, escalating a legal fight over how states can regulate artificial intelligence and whether companies can be held liable for “algorithmic discrimination.”\nIn a ... [3372 chars]",
+            "url": "https://decrypt.co/365504/trump-doj-backs-elon-musk-xai-colorado-ai-bias-law",
+            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/elon-musk-decrypt-style-01-gID_7.png",
+            "publishedAt": "2026-04-24T20:30:05Z",
             "lang": "en",
             "source": {
                 "id": "6956007add5fc13a6721202ec906b1c4",
@@ -71,61 +119,13 @@
             }
         },
         {
-            "id": "2eb64b4167288703361fa9553fcc6858",
-            "title": "Raymond James CEO: Focusing on Tech, Products, AI",
-            "description": "Raymond James CEO Paul Shoukry discusses the health of their 'record' recruiting pipeline, and a renewed focus on technologies, products, and AI to help advisors provide more holistic advice for...",
-            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/raymond-james-ceo-focusing-on-tech-products-ai-ce7f59dedc88f224",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3609313.png",
-            "publishedAt": "2026-04-23T21:02:09Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "81ff52f8345dd73a942534554740f4e2",
-            "title": "Should You Sell Apple Stock Before September 1?",
-            "description": "Apple’s leadership shift arrives as the company pushes into AI, but execution risks and China exposure remain in focus.",
-            "content": "Mega-cap tech stocks can look nearly untouchable for years, but even the biggest winners face moments of change that make investors reassess the story. Leadership transitions, slowing growth in key markets, and questions about innovation can all resh... [5119 chars]",
-            "url": "https://www.barchart.com/story/news/1486710/should-you-sell-apple-stock-before-september-1",
-            "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20A%20-%20I)/Apple%20logo%20-%20by%20Pexels%20via%20Pixabay.jpg",
-            "publishedAt": "2026-04-23T21:02:07Z",
-            "lang": "en",
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b62c45fc7e65b2b1e1426f9c81c92fb4",
-            "title": "Axe employer National Insurance to save young people’s jobs from rising costs and AI, warns Rishi Sunak",
-            "description": "RISHI Sunak has urged ministers to axe employer National Insurance — warning rising hiring costs and artificial intelligence are squeezing young...",
-            "content": "RISHI Sunak has urged ministers to axe employer National Insurance — warning rising hiring costs and artificial intelligence are squeezing young people out of jobs.\nThe ex-Prime Minister said bosses in law, accountancy and the creative industries are... [2558 chars]",
-            "url": "https://www.thesun.co.uk/money/38913339/sunak-ministers-axe-national-insurance-save-youth-jobs/",
-            "image": "https://www.thesun.co.uk/wp-content/uploads/2026/04/2018-legal-documents-table-national-1075702452.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-            "publishedAt": "2026-04-23T21:01:08Z",
-            "lang": "en",
-            "source": {
-                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
-                "name": "The Sun",
-                "url": "https://www.thesun.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "853848287154fe89c42d4acf95349a4b",
-            "title": "Meta slashes 8,000 jobs, or 10% of its workforce; Microsoft offers buyouts",
-            "description": "Meta is laying off about 8,000 workers, or about 10% of its workforce, the company said Thursday as it continues to ramp up spending on artificial intelligence infrastructure and highly paid AI-expert hires. The company said it was making the cuts for the sake of efficiency and to allow new…",
-            "content": "Meta is laying off about 8,000 workers, or about 10% of its workforce, the company said Thursday as it continues to ramp up spending on artificial intelligence infrastructure and highly paid AI-expert hires.\nThe company said it was making the cuts fo... [2058 chars]",
-            "url": "https://japantoday.com/category/tech/meta-slashes-8-000-jobs-or-10-of-its-workforce-as-microsoft-offers-buyouts",
-            "image": "https://media.japantoday.com/img/store/b1/5c/7a73214f145ad350a693e419fbb47d468c82/download/_w1700.jpeg",
-            "publishedAt": "2026-04-23T21:00:00Z",
+            "id": "86ad83508f70556d5e1d145856e47a34",
+            "title": "YouTube offers deepfake detection to Hollywood",
+            "description": "YouTube is offering Hollywood celebrities and entertainers a free detection tool to help combat their deepfakes, expanding the Google-owned video platform's efforts to guard against AI-driven impersonations. Last month, YouTube introduced its likeness protection tool -- which helps identify content in which a person's face appears altered or generated using…",
+            "content": "YouTube is offering Hollywood celebrities and entertainers a free detection tool to help combat their deepfakes, expanding the Google-owned video platform's efforts to guard against AI-driven impersonations.\nLast month, YouTube introduced its likenes... [3810 chars]",
+            "url": "https://japantoday.com/category/entertainment/youtube-offers-deepfake-detection-to-hollywood",
+            "image": "https://media.japantoday.com/img/store/98/d8/be4d55c6b5392563de25703a15335eb2b73d/e9f4b61e497fd71aca6745cbe63977912b787873/_w1700.jpeg",
+            "publishedAt": "2026-04-24T20:30:00Z",
             "lang": "en",
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -135,35 +135,35 @@
             }
         },
         {
-            "id": "69cbed9fea53cc80ca2c50d16798bf54",
-            "title": "Reese Witherspoon, Sandra Bullock and Hollywood’s cautious embrace of AI",
-            "description": "“Over the last six to 12 months, there has been this realization that AI is not going away,” said Alexandra Shannon, head of strategic development at Creat",
-            "content": "Explosive Claims Hit Swizz Beatz And Alicia Keys\nJahna Sebastian, mother of Swizz Beatz’s 17-year-old daughter Nicole Dean, has ignited social media with alarming accusations against Swizz (Kasseem Daoud Dean) and wife Alicia Keys. Across a series of... [9231 chars]",
-            "url": "https://www.newsbreak.com/nbc-news-510074/4609471068966-reese-witherspoon-sandra-bullock-and-hollywood-s-cautious-embrace-of-ai",
-            "image": "https://img.particlenews.com/img/id/05mBjH_1Ajbpc7v00",
-            "publishedAt": "2026-04-23T21:00:00Z",
+            "id": "0b99cf44311212a16380af41afddd53c",
+            "title": "China's DeepSeek releases long-awaited new AI model",
+            "description": "Chinese startup DeepSeek released a new artificial intelligence model Friday, more than a year after it stunned the world with a low-cost reasoning model that matched the capabilities of U.S. rivals. DeepSeek-V4 \"features an ultra-long context of one million words\", the company said in a statement on social media platform…",
+            "content": "Chinese startup DeepSeek released a new artificial intelligence model Friday, more than a year after it stunned the world with a low-cost reasoning model that matched the capabilities of U.S. rivals.\nDeepSeek-V4 \"features an ultra-long context of one... [3147 chars]",
+            "url": "https://japantoday.com/category/tech/china's-deepseek-says-releases-long-awaited-new-ai-model",
+            "image": "https://media.japantoday.com/img/store/4b/8a/20998d1324751623f109bec90829bd498fb8/5a1252bfc202c14dbfc85d9a7c24384f08c07e75/_w1700.jpeg",
+            "publishedAt": "2026-04-24T20:30:00Z",
             "lang": "en",
             "source": {
-                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
-                "name": "NewsBreak",
-                "url": "https://www.newsbreak.com",
-                "country": "us"
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
             }
         },
         {
-            "id": "13d3ab524fe756085d7fafeacf99563a",
-            "title": "Bret Taylor's Sierra buys YC-backed AI startup Fragment",
-            "description": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-            "content": "Sierra, the customer service agent startup founded by Bret Taylor, announced on Thursday that it has acquired the YC-backed French startup Fragment, which helps businesses integrate AI into workflows.\nThis is Sierra’s third public acquisition. It pre... [577 chars]",
-            "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-            "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762615783.jpg?resize=1200,800",
-            "publishedAt": "2026-04-23T21:00:00Z",
+            "id": "88dda7442744ed9efe5f8641183c970b",
+            "title": "China's DeepSeek releases long-awaited new AI model",
+            "description": "Chinese startup DeepSeek released a new artificial intelligence model Friday, more than a year after it stunned the world with a low-cost reasoning model that matched the capabilities of U.S. rivals. DeepSeek-V4 \"features an ultra-long context of one million words\", the company said in a statement on social media platform…",
+            "content": "Chinese startup DeepSeek released a new artificial intelligence model Friday, more than a year after it stunned the world with a low-cost reasoning model that matched the capabilities of U.S. rivals.\nDeepSeek-V4 \"features an ultra-long context of one... [3147 chars]",
+            "url": "https://japantoday.com/category/tech/china%27s-deepseek-says-releases-long-awaited-new-ai-model",
+            "image": "https://media.japantoday.com/img/store/4b/8a/20998d1324751623f109bec90829bd498fb8/5a1252bfc202c14dbfc85d9a7c24384f08c07e75/_w1700.jpeg",
+            "publishedAt": "2026-04-24T20:30:00Z",
             "lang": "en",
             "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
             }
         }
     ]
