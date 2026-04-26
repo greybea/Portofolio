@@ -4,48 +4,112 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 317924,
+    "totalArticles": 318318,
     "articles": [
         {
-            "id": "8790aaf1a2b357e0ffe41946ab2d8072",
-            "title": "Why RAM Is So Expensive in 2026 - And What PC Buyers Should Do",
-            "description": "RAM prices have surged dramatically, driven by AI demand and supply constraints. Here’s what’s behind the spike, how long it could last, and what PC builders should do next.",
-            "content": "If you’ve been planning a PC build or even browsing pre-built systems, you’ve likely run into the same issue: RAM prices are unusually high. In some cases, costs have increased by as much as 500%, pushing up overall system prices and making builds ha... [4512 chars]",
-            "url": "https://www.digitaltrends.com/computing/why-ram-is-so-expensive-in-2026-and-what-pc-buyers-should-do/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/03/RAM-memory-chips.jpg?resize=1200%2C630",
-            "publishedAt": "2026-04-24T20:38:55Z",
+            "id": "84f2a100eda20f92af837094053e587b",
+            "title": "'Clearly me': AI drama accused of stealing faces",
+            "description": "Christine Li is a model and influencer, but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama she felt bewildered, then angry and afraid. The 26-year-old is one of two people who told AFP their likenesses were cast without consent in the AI-generated…",
+            "content": "Christine Li is a model and influencer, but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama she felt bewildered, then angry and afraid.\nThe 26-year-old is one of two people who told AFP their likenesses were ca... [4968 chars]",
+            "url": "https://japantoday.com/category/entertainment/%27clearly-me%27-ai-drama-accused-of-stealing-faces",
+            "image": "https://media.japantoday.com/img/store/26/8a/6bce4187731beda751e4fe3db5f78b328757/3ba4e6630c7c3cf4a64cf3a3f79de4035bfaa01a/_w1700.jpeg",
+            "publishedAt": "2026-04-25T20:30:00Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            }
+        },
+        {
+            "id": "0ce7fdb51ab0f505675e76dd0476557a",
+            "title": "'Clearly me': AI drama accused of stealing faces",
+            "description": "Christine Li is a model and influencer, but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama she felt bewildered, then angry and afraid. The 26-year-old is one of two people who told AFP their likenesses were cast without consent in the AI-generated…",
+            "content": "Christine Li is a model and influencer, but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama she felt bewildered, then angry and afraid.\nThe 26-year-old is one of two people who told AFP their likenesses were ca... [4968 chars]",
+            "url": "https://japantoday.com/category/entertainment/'clearly-me'-ai-drama-accused-of-stealing-faces",
+            "image": "https://media.japantoday.com/img/store/26/8a/6bce4187731beda751e4fe3db5f78b328757/3ba4e6630c7c3cf4a64cf3a3f79de4035bfaa01a/_w1700.jpeg",
+            "publishedAt": "2026-04-25T20:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            }
+        },
+        {
+            "id": "e77817cf6a8358fb0c7a7d094dffa879",
+            "title": "How terrifying new AI tool drawing comparisons with Terminator films could ground global flights & crash world's banks",
+            "description": "CLAUDE Mythos sounds like a James Bond villain.\nBut in terrifying reality, the AI tool boasts the power to wreak the kind of havoc 007’s...",
+            "content": "CLAUDE Mythos sounds like a James Bond villain.\nBut in terrifying reality, the AI tool boasts the power to wreak the kind of havoc 007’s nemesis Ernst Blofeld can only dream of.\nExperts have warned that in a doomsday scenario, and in the wrong hands,... [5546 chars]",
+            "url": "https://www.thesun.ie/tech/16873887/ai-claude-mythos-ground-global-flights-crash-banks/",
+            "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/04/TM-25-04-AI_OP-2.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+            "publishedAt": "2026-04-25T20:27:12Z",
+            "lang": "en",
+            "source": {
+                "id": "cf119ed600a8a7c8e23575950f071fec",
+                "name": "The Irish Sun",
+                "url": "https://www.thesun.ie",
+                "country": "ie"
+            }
+        },
+        {
+            "id": "a962e4cda911f36fd822b1593da98afd",
+            "title": "How AI-driven procedures are improving the success rate of IVF in India",
+            "description": "AI is no more considered just a research tool — it's becoming a standard part of IVF procedures, making them less complicated, more accessible, and raising chances of conception as well",
+            "content": "Similarly, in mid-2025, in another medical first, an AI system helped a US couple conceive after 19 years of trying. The couple had earlier undergone multiple IVF cycles and surgeries without success. The AI system scanned over 2.5 million images of ... [7998 chars]",
+            "url": "https://www.financialexpress.com/life/lifestyle/how-ai-driven-procedures-are-improving-the-success-rate-of-ivf-in-india/4218290/",
+            "image": "https://images.financialexpressdigital.com/2026/04/ai_w.jpg",
+            "publishedAt": "2026-04-25T20:25:01Z",
+            "lang": "en",
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "d4f22081e85a750883d047061890550f",
+            "title": "With GLP-1 generics making debut, doctors warn of ocular risks",
+            "description": "Bengaluru: A 60-year-old woman with poorly controlled diabetes was started on a glucagon-like peptide (GLP)-1 drug to improve glycaemic control and ai.",
+            "content": "Bengaluru: A 60-year-old woman with poorly controlled diabetes was started on a glucagon-like peptide (GLP)-1 drug to improve glycaemic control and aid weight loss. While she initially responded well, she developed sudden vision loss after eight to n... [2847 chars]",
+            "url": "https://timesofindia.indiatimes.com/city/bengaluru/with-glp-1-generics-making-debut-doctors-warn-of-ocular-risks/articleshow/130521706.cms",
+            "image": "https://static.toiimg.com/thumb/msid-117518782,width-1280,height-720,imgsize-94950,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-25T20:19:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "07a9e360a46bf3286f5a50a625a8855f",
+            "title": "Stanford's AI Index Exposes K-12's Crisis",
+            "description": "Stanford's 2026 AI Index reveals four in five K-12 students now use AI for school while just 6% of teachers report clear school policies.",
+            "content": "When Stanford's Institute for Human-Centered AI released its 2026 AI Index Report on April 13, the headlines mostly went to the model benchmark battles, the $581.7 billion in global corporate AI investment, and the data center power numbers. Buried i... [7391 chars]",
+            "url": "https://www.forbes.com/sites/danfitzpatrick/2026/04/25/stanfords-ai-index-exposes-k-12s-crisis/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/69ed1f68ed651955446db145/0x0.jpg?format=jpg&crop=5388,3031,x0,y247,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-04-25T20:13:43Z",
+            "lang": "en",
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
                 "country": "us"
             }
         },
         {
-            "id": "29cbc452dbc84f7b65d72a28fbd1ac39",
-            "title": "Nvidia hits $5 trillion in market cap, solidifies position as AI's kin",
-            "description": "The chipmaker reclaimed its title as the world's most valuable company after a rough stretch of months.",
-            "content": "Nvidia Corp. shares rose to their first record in months on Friday, the latest example of improving momentum at the leader in artificial intelligence chips.\nShares gained 4.3% to $208.26 amid a broad semiconductor rally, taking out a record that had ... [2596 chars]",
-            "url": "https://www.dallasnews.com/business/technology/article/nvidia-hits-5-trillion-market-cap-solidifies-22224745.php",
-            "image": "https://s.hdnux.com/photos/01/65/44/26/30819736/3/rawImage.jpg",
-            "publishedAt": "2026-04-24T20:37:46Z",
-            "lang": "en",
-            "source": {
-                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
-                "name": "The Dallas Morning News",
-                "url": "https://www.dallasnews.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "ea89cfb79d599f3992fd16cabd5b80c3",
-            "title": "DOJ Backs Musk's xAI In Fight Against Colorado AI Law, Calls It 'Woke DEI'",
-            "description": "The DOJ is joining xAI's lawsuit against Colorado to block enforcement of a law imposing heavy operational demands on AI companies.",
-            "content": "The U.S. Department of Justice (DOJ) is joining xAI's lawsuit against the state of Colorado, seeking to stop the state from enforcing a law that would impose significant operational demands on companies building AI products.\nThe lawsuit names Colorad... [1837 chars]",
-            "url": "https://www.benzinga.com/markets/private-markets/26/04/52047820/doj-backs-musks-xai-in-fight-against-colorado-ai-law-calls-it-woke-dei",
-            "image": "https://cdn.benzinga.com/files/images/story/2026/04/24/The-New-York-Times-Press-Rules-Lawsuit.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2026-04-24T20:33:58Z",
+            "id": "c70235c85a6f251a997eb3b35db6ddb1",
+            "title": "ServiceNow CEO Says AI Fear Is Missing Real Story: Customers Are Spending More",
+            "description": "ServiceNow says AI is boosting demand and productivity, not cutting jobs, as enterprise spending accelerates.",
+            "content": "The enterprise software company said customers are moving from AI experiments into broader deployments, according to the ServiceNow earnings call transcript.\nThis content is powered by Benzinga APIs. For comprehensive financial data and transcripts, ... [2525 chars]",
+            "url": "https://www.benzinga.com/markets/equities/26/04/52051619/servicenow-ceo-says-ai-fear-is-missing-real-story-customers-are-spending-more",
+            "image": "https://cdn.benzinga.com/files/images/story/2026/04/25/Servicenow-Office-Building-At-Their-Head.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-04-25T19:51:07Z",
             "lang": "en",
             "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
@@ -55,115 +119,51 @@
             }
         },
         {
-            "id": "3fa65360c7484cd5d799a3640c83f867",
-            "title": "Energy raises $1.02B in record nuclear IPO as Amazon",
-            "description": "X-Energy's $1.02B IPO was 15x oversubscribed and priced 21% above range. The same company failed to close a SPAC at $1B in 2023. AI data centre demand changed everything.",
-            "content": "In short: X-Energy raised $1.02 billion in the largest nuclear IPO on record, pricing at $23 (21% above range) on the Nasdaq, with shares surging 31% on opening to imply a $12 billion market cap. The offering was 15x oversubscribed. The same company ... [7652 chars]",
-            "url": "https://thenextweb.com/news/x-energy-ipo-billion-nuclear-ai-data-centres",
-            "image": "https://media.thenextweb.com/2026/04/unnamed-file-1.avif",
-            "publishedAt": "2026-04-24T20:33:04Z",
+            "id": "8a98b741de971576cc1d865a2ff3ddc2",
+            "title": "Stream your slop while you drive.",
+            "description": "Suno is available on Android Auto, and CarPlay support is in the works. Now you can stream all your illicit AI covers on your road trip from Hell. According to a post in the Suno Discord, features are limited, with only search, library and explore support, plus playback control.\n[Image: Suno on Android Auto. https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Suno_x_Android_Auto.png?quality=90&strip=all]",
+            "content": "Suno is available on Android Auto, and CarPlay support is in the works. Now you can stream all your illicit AI covers on your road trip from Hell. According to a post in the Suno Discord, features are limited, with only search, library and explore su... [465 chars]",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/918768/stream-your-slop-while-you-drive",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Suno_x_Android_Auto.png?quality=90&strip=all&crop=10%2C0%2C80%2C100&w=1200",
+            "publishedAt": "2026-04-25T19:45:28Z",
             "lang": "en",
             "source": {
-                "id": "11c2fbf226e7334e9f93bb78243a79cc",
-                "name": "TNW",
-                "url": "https://thenextweb.com",
+                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+                "name": "The Verge",
+                "url": "https://www.theverge.com",
                 "country": "us"
             }
         },
         {
-            "id": "d96469d05881f2feaf4826255f6de07c",
-            "title": "L&T Finance Reports Strong Q4FY26 Results with 27% Jump in Net Profit to ₹807 Cr",
-            "description": "L&T Finance delivered exceptional Q4FY26 performance with net profit rising 27% to ₹807 Cr and retail disbursements surging 62% to ₹24,107 Cr. The company achieved 98% retailisation target, maintained strong asset quality with credit cost at 2.64%, and continued advancing digital initiatives including AI-powered underwriting systems.",
-            "content": "L&T Finance has announced impressive Q4FY26 results, demonstrating exceptional growth across key financial metrics. The financial services company reported significant improvements in profitability, revenue generation, and operational performance com... [4796 chars]",
-            "url": "https://scanx.trade/stock-market-news/companies/l-t-finance-reports-strong-q4-results-with-26-6-jump-in-net-profit/38583556",
-            "image": "http://news-images.dhan.co/l-t-finance-reports-strong-q4-results-with-26-6-jump-in-net-profit.jpg",
-            "publishedAt": "2026-04-24T20:33:00Z",
+            "id": "6a27bdb43babe2f3f3418fc6d236d85f",
+            "title": "Anthropic's Mythos AI found 2,000 vulnerabilities but won't be released",
+            "description": "Anthropic built Mythos, an AI model that found over 2,000 previously unknown software vulnerabilities in seven weeks, then decided the public cannot have it.",
+            "content": "There is a new AI model called Mythos. Anthropic built it for defensive cybersecurity research. It is so effective at finding software vulnerabilities that Anthropic decided the general public cannot have it. Instead, they are letting a small circle ... [14093 chars]",
+            "url": "https://www.foxnews.com/tech/anthropics-mythos-ai-found-2000-unknown-software-vulnerabilities-seven-weeks-testing",
+            "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/anthropic-mythos-ai-fox-news-001.jpeg",
+            "publishedAt": "2026-04-25T19:25:57Z",
             "lang": "en",
             "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "5655912dacde3dc4e48601e47017b59e",
+            "title": "Data centres must coexist with frugal AI in India, say experts at Frugal Innovation Forum",
+            "description": "Experts at the Frugal Innovation Forum emphasize the need for data centres to coexist with frugal AI for sustainable growth in India.",
+            "content": "While data centres are imperative, in countries like India, they should coexist with frugal AI, suggested panellists who were speaking at the Frugal Innovation Forum, organised by The French Institute in India (IFI), in collaboration with the Allianc... [545 chars]",
+            "url": "https://www.thehindu.com/news/cities/bangalore/datacentresmust-coexist-with-frugal-ai-in-india-say-experts-at-frugal-innovation-forum/article70905954.ece",
+            "image": "https://th-i.thgim.com/public/news/cities/bangalore/h96xi6/article70905949.ece/alternates/LANDSCAPE_1200/Mr.%20Gregor%20Trumel%20Counsellor%20for%20Cooperation%20and%20Cultural%20Affairs%20at%20the%20Embassy%20of%20France%20in%20India%20.jpg",
+            "publishedAt": "2026-04-25T19:10:59Z",
+            "lang": "en",
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
                 "country": "in"
-            }
-        },
-        {
-            "id": "c2e25215fc02d4273e055678d643cf4d",
-            "title": "Nebius Q1 Preview: The Market Is Saying This Is An Outlier Among Outliers",
-            "description": "Nebius targets $27B AI deals amid GPU shortages, aiming for 6.4x ARR growth but facing a $7.2B capex gap and execution risk. Click for this NBIS stock update.",
-            "content": "Nebius Q1 Preview: The Market Is Saying This Is An Outlier Among Outliers\nHunting Alphas\n8.1K Followers\nComments\n(6)\nSummary\nNebius Group N.V. is pursuing multi-billion-dollar AI infrastructure mega deals, including a new up to $27B Meta contract, wh... [4023 chars]",
-            "url": "https://seekingalpha.com/article/4894156-nebius-q1-preview-market-saying-this-an-outlier-among-outliers",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1337911138/image_1337911138.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-04-24T20:32:44Z",
-            "lang": "en",
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "1f6e0e38cf570dd25e1b3d979628f844",
-            "title": "Trump DOJ Backs Elon Musk's xAI in Fight Over Colorado AI Bias Law",
-            "description": "The Justice Department moved to intervene in xAI’s lawsuit challenging Colorado’s algorithmic discrimination law.",
-            "content": "The U.S. Department of Justice moved Friday to intervene in xAI’s lawsuit against Colorado, escalating a legal fight over how states can regulate artificial intelligence and whether companies can be held liable for “algorithmic discrimination.”\nIn a ... [3372 chars]",
-            "url": "https://decrypt.co/365504/trump-doj-backs-elon-musk-xai-colorado-ai-bias-law",
-            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/elon-musk-decrypt-style-01-gID_7.png",
-            "publishedAt": "2026-04-24T20:30:05Z",
-            "lang": "en",
-            "source": {
-                "id": "6956007add5fc13a6721202ec906b1c4",
-                "name": "Decrypt",
-                "url": "https://decrypt.co",
-                "country": "us"
-            }
-        },
-        {
-            "id": "86ad83508f70556d5e1d145856e47a34",
-            "title": "YouTube offers deepfake detection to Hollywood",
-            "description": "YouTube is offering Hollywood celebrities and entertainers a free detection tool to help combat their deepfakes, expanding the Google-owned video platform's efforts to guard against AI-driven impersonations. Last month, YouTube introduced its likeness protection tool -- which helps identify content in which a person's face appears altered or generated using…",
-            "content": "YouTube is offering Hollywood celebrities and entertainers a free detection tool to help combat their deepfakes, expanding the Google-owned video platform's efforts to guard against AI-driven impersonations.\nLast month, YouTube introduced its likenes... [3810 chars]",
-            "url": "https://japantoday.com/category/entertainment/youtube-offers-deepfake-detection-to-hollywood",
-            "image": "https://media.japantoday.com/img/store/98/d8/be4d55c6b5392563de25703a15335eb2b73d/e9f4b61e497fd71aca6745cbe63977912b787873/_w1700.jpeg",
-            "publishedAt": "2026-04-24T20:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "0b99cf44311212a16380af41afddd53c",
-            "title": "China's DeepSeek releases long-awaited new AI model",
-            "description": "Chinese startup DeepSeek released a new artificial intelligence model Friday, more than a year after it stunned the world with a low-cost reasoning model that matched the capabilities of U.S. rivals. DeepSeek-V4 \"features an ultra-long context of one million words\", the company said in a statement on social media platform…",
-            "content": "Chinese startup DeepSeek released a new artificial intelligence model Friday, more than a year after it stunned the world with a low-cost reasoning model that matched the capabilities of U.S. rivals.\nDeepSeek-V4 \"features an ultra-long context of one... [3147 chars]",
-            "url": "https://japantoday.com/category/tech/china's-deepseek-says-releases-long-awaited-new-ai-model",
-            "image": "https://media.japantoday.com/img/store/4b/8a/20998d1324751623f109bec90829bd498fb8/5a1252bfc202c14dbfc85d9a7c24384f08c07e75/_w1700.jpeg",
-            "publishedAt": "2026-04-24T20:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "88dda7442744ed9efe5f8641183c970b",
-            "title": "China's DeepSeek releases long-awaited new AI model",
-            "description": "Chinese startup DeepSeek released a new artificial intelligence model Friday, more than a year after it stunned the world with a low-cost reasoning model that matched the capabilities of U.S. rivals. DeepSeek-V4 \"features an ultra-long context of one million words\", the company said in a statement on social media platform…",
-            "content": "Chinese startup DeepSeek released a new artificial intelligence model Friday, more than a year after it stunned the world with a low-cost reasoning model that matched the capabilities of U.S. rivals.\nDeepSeek-V4 \"features an ultra-long context of one... [3147 chars]",
-            "url": "https://japantoday.com/category/tech/china%27s-deepseek-says-releases-long-awaited-new-ai-model",
-            "image": "https://media.japantoday.com/img/store/4b/8a/20998d1324751623f109bec90829bd498fb8/5a1252bfc202c14dbfc85d9a7c24384f08c07e75/_w1700.jpeg",
-            "publishedAt": "2026-04-24T20:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
             }
         }
     ]
