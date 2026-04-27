@@ -4,80 +4,64 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 318318,
+    "totalArticles": 318608,
     "articles": [
         {
-            "id": "84f2a100eda20f92af837094053e587b",
-            "title": "'Clearly me': AI drama accused of stealing faces",
-            "description": "Christine Li is a model and influencer, but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama she felt bewildered, then angry and afraid. The 26-year-old is one of two people who told AFP their likenesses were cast without consent in the AI-generated…",
-            "content": "Christine Li is a model and influencer, but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama she felt bewildered, then angry and afraid.\nThe 26-year-old is one of two people who told AFP their likenesses were ca... [4968 chars]",
-            "url": "https://japantoday.com/category/entertainment/%27clearly-me%27-ai-drama-accused-of-stealing-faces",
-            "image": "https://media.japantoday.com/img/store/26/8a/6bce4187731beda751e4fe3db5f78b328757/3ba4e6630c7c3cf4a64cf3a3f79de4035bfaa01a/_w1700.jpeg",
-            "publishedAt": "2026-04-25T20:30:00Z",
+            "id": "04793ddc12902cd93c72f9bfa33e3a90",
+            "title": "Smart Catering: Airbus' New AI Initiative To Help Airlines Reduce Cabin Food Waste",
+            "description": "It aims to close a financial and environmental gap in the airline industry by bringing data analysis to food and beverage services",
+            "content": "The modern airline industry is continually striving to eliminate inefficiencies and reduce the amount of fuel required for any given flight, with even modest reductions in average takeoff weight capable of saving airlines millions of dollars annually... [9813 chars]",
+            "url": "https://simpleflying.com/airbus-new-ai-initiative-airlines-reduce-cabin-food-waste/",
+            "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/smart-catering.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-04-26T22:00:18Z",
             "lang": "en",
             "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
+                "id": "d189a400ff1a62abfa361ca86e0f7142",
+                "name": "Simple Flying",
+                "url": "https://simpleflying.com",
+                "country": "us"
             }
         },
         {
-            "id": "0ce7fdb51ab0f505675e76dd0476557a",
-            "title": "'Clearly me': AI drama accused of stealing faces",
-            "description": "Christine Li is a model and influencer, but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama she felt bewildered, then angry and afraid. The 26-year-old is one of two people who told AFP their likenesses were cast without consent in the AI-generated…",
-            "content": "Christine Li is a model and influencer, but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama she felt bewildered, then angry and afraid.\nThe 26-year-old is one of two people who told AFP their likenesses were ca... [4968 chars]",
-            "url": "https://japantoday.com/category/entertainment/'clearly-me'-ai-drama-accused-of-stealing-faces",
-            "image": "https://media.japantoday.com/img/store/26/8a/6bce4187731beda751e4fe3db5f78b328757/3ba4e6630c7c3cf4a64cf3a3f79de4035bfaa01a/_w1700.jpeg",
-            "publishedAt": "2026-04-25T20:30:00Z",
+            "id": "7db9a48169130ce52f5017563c77287b",
+            "title": "‘It’s a Key Moment,’ Says Top Investor About AMD Stock",
+            "description": "Advanced Micro Devices (NASDAQ:AMD) stock enjoyed a huge bounce last week, and in a somewhat ironic twist, can thank Intel, its rival in the AI ...",
+            "content": "Advanced Micro Devices (NASDAQ:AMD) stock enjoyed a huge bounce last week, and in a somewhat ironic twist, can thank Intel, its rival in the AI chip market, for the boost.\nClaim 55% Off TipRanks\nUnlock hedge fund-level data and powerful investing too... [2681 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/it-s-a-key-moment-says-top-investor-about-amd-stock-1036063234",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/image-2293-1024x545.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-04-26T21:50:59Z",
             "lang": "en",
             "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
             }
         },
         {
-            "id": "e77817cf6a8358fb0c7a7d094dffa879",
-            "title": "How terrifying new AI tool drawing comparisons with Terminator films could ground global flights & crash world's banks",
-            "description": "CLAUDE Mythos sounds like a James Bond villain.\nBut in terrifying reality, the AI tool boasts the power to wreak the kind of havoc 007’s...",
-            "content": "CLAUDE Mythos sounds like a James Bond villain.\nBut in terrifying reality, the AI tool boasts the power to wreak the kind of havoc 007’s nemesis Ernst Blofeld can only dream of.\nExperts have warned that in a doomsday scenario, and in the wrong hands,... [5546 chars]",
-            "url": "https://www.thesun.ie/tech/16873887/ai-claude-mythos-ground-global-flights-crash-banks/",
-            "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/04/TM-25-04-AI_OP-2.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-            "publishedAt": "2026-04-25T20:27:12Z",
+            "id": "3691e75c02ee36e4cb93acdd0f96bc5b",
+            "title": "New Mexico schools use Amira AI reading assessments amid accuracy and equity concerns",
+            "description": "New Mexico now requires K-2 students to use Amira AI for reading assessments, with Albuquerque teachers reporting both gains in literacy and worries about inaccurate scores, speech and accent bias and student frustration.",
+            "content": "Lilly Garcia is learning to read. Her tutor is a robot.\nOn a Friday morning in her combination second- and third-grade class at Matheson Park Elementary School, Garcia reads a story about a rabbit and a fox traveling to a tropical island. She’s weari... [9334 chars]",
+            "url": "https://www.abqjournal.com/news/students-read-aloud-ai-scores-them/3029121",
+            "image": "https://image.abqjournal.com/3028853.jpg?imageId=3028853&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-04-26T21:46:00Z",
             "lang": "en",
             "source": {
-                "id": "cf119ed600a8a7c8e23575950f071fec",
-                "name": "The Irish Sun",
-                "url": "https://www.thesun.ie",
-                "country": "ie"
+                "id": "e3cad7a35669a0f5933fa172f5aa2e41",
+                "name": "Albuquerque Journal",
+                "url": "https://www.abqjournal.com",
+                "country": "us"
             }
         },
         {
-            "id": "a962e4cda911f36fd822b1593da98afd",
-            "title": "How AI-driven procedures are improving the success rate of IVF in India",
-            "description": "AI is no more considered just a research tool — it's becoming a standard part of IVF procedures, making them less complicated, more accessible, and raising chances of conception as well",
-            "content": "Similarly, in mid-2025, in another medical first, an AI system helped a US couple conceive after 19 years of trying. The couple had earlier undergone multiple IVF cycles and surgeries without success. The AI system scanned over 2.5 million images of ... [7998 chars]",
-            "url": "https://www.financialexpress.com/life/lifestyle/how-ai-driven-procedures-are-improving-the-success-rate-of-ivf-in-india/4218290/",
-            "image": "https://images.financialexpressdigital.com/2026/04/ai_w.jpg",
-            "publishedAt": "2026-04-25T20:25:01Z",
-            "lang": "en",
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "d4f22081e85a750883d047061890550f",
-            "title": "With GLP-1 generics making debut, doctors warn of ocular risks",
-            "description": "Bengaluru: A 60-year-old woman with poorly controlled diabetes was started on a glucagon-like peptide (GLP)-1 drug to improve glycaemic control and ai.",
-            "content": "Bengaluru: A 60-year-old woman with poorly controlled diabetes was started on a glucagon-like peptide (GLP)-1 drug to improve glycaemic control and aid weight loss. While she initially responded well, she developed sudden vision loss after eight to n... [2847 chars]",
-            "url": "https://timesofindia.indiatimes.com/city/bengaluru/with-glp-1-generics-making-debut-doctors-warn-of-ocular-risks/articleshow/130521706.cms",
-            "image": "https://static.toiimg.com/thumb/msid-117518782,width-1280,height-720,imgsize-94950,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-25T20:19:00Z",
+            "id": "516f32136ece9a80b2dfc7eb082c9caf",
+            "title": "Summer camps turn high-tech this year as robotics, AI keep students engaged",
+            "description": "Chennai: From learning the basics of robotics to working with sensors and grasping the fundamentals of aeronautics and aerospace, private and govt org.",
+            "content": "Chennai: From learning the basics of robotics to working with sensors and grasping the fundamentals of aeronautics and aerospace, private and govt organisations are transitioning towards science-and tech-centred summer camps this year. Starting Monda... [2966 chars]",
+            "url": "https://timesofindia.indiatimes.com/city/chennai/summer-camps-turn-high-tech-this-year-as-robotics-ai-keep-students-engaged/articleshow/130538462.cms",
+            "image": "https://static.toiimg.com/thumb/msid-130538439,width-1280,height-720,imgsize-10456,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-26T21:25:00Z",
             "lang": "en",
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -87,83 +71,99 @@
             }
         },
         {
-            "id": "07a9e360a46bf3286f5a50a625a8855f",
-            "title": "Stanford's AI Index Exposes K-12's Crisis",
-            "description": "Stanford's 2026 AI Index reveals four in five K-12 students now use AI for school while just 6% of teachers report clear school policies.",
-            "content": "When Stanford's Institute for Human-Centered AI released its 2026 AI Index Report on April 13, the headlines mostly went to the model benchmark battles, the $581.7 billion in global corporate AI investment, and the data center power numbers. Buried i... [7391 chars]",
-            "url": "https://www.forbes.com/sites/danfitzpatrick/2026/04/25/stanfords-ai-index-exposes-k-12s-crisis/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/69ed1f68ed651955446db145/0x0.jpg?format=jpg&crop=5388,3031,x0,y247,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-04-25T20:13:43Z",
+            "id": "297cafc89435e116a31d7f9ff3ed56b1",
+            "title": "AI transforming human-animal relationship, for the better",
+            "description": "Artificial intelligence is revolutionizing various aspects of society, including the relationship between humans and animals.",
+            "content": "Artificial intelligence is rapidly transforming how Americans work, learn and interact with one another. Less obvious, but no less consequential, is how the tool is redefining the relationship humans have with animals. Quicker and smarter computing i... [3415 chars]",
+            "url": "https://www.postandcourier.com/opinion/commentary/ai-innovation-human-animal-relationship-biomedical-research/article_1e338689-7d0f-4b8d-9b4d-f1764353766e.html",
+            "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/c/82/c82565a3-b09f-4ef5-b5e0-973dc5661b6e/63ebad6543bf8.image.jpg?crop=1443%2C758%2C0%2C174&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-04-26T21:15:00Z",
             "lang": "en",
             "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
+                "id": "c1903669db0b115cc673ce9c333a70dd",
+                "name": "Charleston Post and Courier",
+                "url": "https://www.postandcourier.com",
                 "country": "us"
             }
         },
         {
-            "id": "c70235c85a6f251a997eb3b35db6ddb1",
-            "title": "ServiceNow CEO Says AI Fear Is Missing Real Story: Customers Are Spending More",
-            "description": "ServiceNow says AI is boosting demand and productivity, not cutting jobs, as enterprise spending accelerates.",
-            "content": "The enterprise software company said customers are moving from AI experiments into broader deployments, according to the ServiceNow earnings call transcript.\nThis content is powered by Benzinga APIs. For comprehensive financial data and transcripts, ... [2525 chars]",
-            "url": "https://www.benzinga.com/markets/equities/26/04/52051619/servicenow-ceo-says-ai-fear-is-missing-real-story-customers-are-spending-more",
-            "image": "https://cdn.benzinga.com/files/images/story/2026/04/25/Servicenow-Office-Building-At-Their-Head.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2026-04-25T19:51:07Z",
+            "id": "b2b61c29a52a0211485b7370ee8a842c",
+            "title": "Is AI making us artificially intelligent, but unable to analyse?",
+            "description": "AI can be an assistant or a force multiplier, but humans should never lose the ability to think problems through. Read more at straitstimes.com.",
+            "content": "Let me paint a picture.\nYou find yourself staring at a blank page. Not unusual. It’s part of the job. The difference this time is that you have a very capable assistant sitting quietly in another tab, waiting to help.\nSo you do what seems normal toda... [7596 chars]",
+            "url": "https://www.straitstimes.com/opinion/is-ai-making-us-artificially-intelligent-but-unable-to-analyse",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a77ebeef80adbb7c1bcabf1250656506b81fa2257db9b9d30faf800af7e6612b",
+            "publishedAt": "2026-04-26T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "9a346c8be92ce5876a7b8c1c89343ba7",
+            "title": "Billionaire Elon Musk enters courtroom showdown with OpenAI",
+            "description": "Jury selection is to begin Monday in a high-profile legal battle between billionaire Elon Musk and artificial intelligence startup OpenAI, which he accuses of betraying its non-profit mission. The clash in a courtroom across the bay from San Francisco pits the world's richest man against a startup that Musk once…",
+            "content": "Jury selection is to begin Monday in a high-profile legal battle between billionaire Elon Musk and artificial intelligence startup OpenAI, which he accuses of betraying its non-profit mission.\nThe clash in a courtroom across the bay from San Francisc... [3468 chars]",
+            "url": "https://japantoday.com/category/tech/billionaire-elon-musk-enters-courtroom-showdown-with-openai",
+            "image": "https://media.japantoday.com/img/store/fe/b3/ca3f02a3e4016e2f58febc93242e1c4e032f/b8e5c2c61a7db1f77dbe2df101ea3f5345cbc1f6/_w1700.jpeg",
+            "publishedAt": "2026-04-26T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            }
+        },
+        {
+            "id": "2c9455b8933f62ff96b01003ea990043",
+            "title": "AI decision review system being trialled in Darwin women's division one cricket competition",
+            "description": "Darwin's premier women's cricket league has become the first Australian grade competition to use an artificial intelligence umpire review system.",
+            "content": "Darwin's premier women's cricket league has become the first Australian grade competition to use an artificial intelligence (AI) umpire review system.\nDuring the opening rounds of the 2026 Darwin division one season, players have been able to challen... [3479 chars]",
+            "url": "https://www.abc.net.au/news/2026-04-27/nt-ai-decision-review-system-technology-darwin-cricket/106604718",
+            "image": "https://live-production.wcms.abc-cdn.net.au/940dc02dc415316763d0d4278942aacf?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=206&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-04-26T20:44:01Z",
+            "lang": "en",
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "e3c5e051b755baaa604842a0569d81c5",
+            "title": "The AI Boom’s First Real Risk: A Political Shutdown Of Its Power Supply",
+            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+            "content": "You cannot scale what the people won't let you build\nJust as markets are being force-fed the next AI IPO supercycle, SpaceX, Anthropic, OpenAI, an inconvenient reality is emerging: the public is starting to revolt against the very infrastructure that... [513 chars]",
+            "url": "https://www.zerohedge.com/the-market-ear/ai-booms-first-real-risk-political-shutdown-its-power-supply",
+            "image": "https://assets.zerohedge.com/s3fs-public/2026-04/imresizer-8415fe99d52fa8b123111a6826ccb317.jpg",
+            "publishedAt": "2026-04-26T20:23:29Z",
+            "lang": "en",
+            "source": {
+                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+                "name": "ZeroHedge",
+                "url": "https://www.zerohedge.com",
                 "country": "us"
             }
         },
         {
-            "id": "8a98b741de971576cc1d865a2ff3ddc2",
-            "title": "Stream your slop while you drive.",
-            "description": "Suno is available on Android Auto, and CarPlay support is in the works. Now you can stream all your illicit AI covers on your road trip from Hell. According to a post in the Suno Discord, features are limited, with only search, library and explore support, plus playback control.\n[Image: Suno on Android Auto. https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Suno_x_Android_Auto.png?quality=90&strip=all]",
-            "content": "Suno is available on Android Auto, and CarPlay support is in the works. Now you can stream all your illicit AI covers on your road trip from Hell. According to a post in the Suno Discord, features are limited, with only search, library and explore su... [465 chars]",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/918768/stream-your-slop-while-you-drive",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Suno_x_Android_Auto.png?quality=90&strip=all&crop=10%2C0%2C80%2C100&w=1200",
-            "publishedAt": "2026-04-25T19:45:28Z",
+            "id": "e425aef7e0d5b826b0783e9394394237",
+            "title": "AI gives a car owner some bad advice about a recall",
+            "description": "John Paul, AAA Northeast's Car Doctor, hears from a reader who is frustrated by a recent repair cost and some advice from AI.",
+            "content": "John Paul, AAA Northeast's Car Doctor, hears from a reader frustrated by a recent repair cost.\nQ. I purchased my car new seven years ago. Recently, a part failed and the replacement cost me nearly $800. After researching online and using Artificial I... [5463 chars]",
+            "url": "https://www.boston.com/cars/how-to/2026/04/26/car-doctor-artificial-intelligence-gives-a-car-owner-some-bad-advice-about-a-recall/",
+            "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/Car-Doctor-69ee71c5b3280-768x432.jpg",
+            "publishedAt": "2026-04-26T20:20:53Z",
             "lang": "en",
             "source": {
-                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-                "name": "The Verge",
-                "url": "https://www.theverge.com",
+                "id": "70a0fed2567e1f81584197893e1068f9",
+                "name": "Boston.com",
+                "url": "https://www.boston.com",
                 "country": "us"
-            }
-        },
-        {
-            "id": "6a27bdb43babe2f3f3418fc6d236d85f",
-            "title": "Anthropic's Mythos AI found 2,000 vulnerabilities but won't be released",
-            "description": "Anthropic built Mythos, an AI model that found over 2,000 previously unknown software vulnerabilities in seven weeks, then decided the public cannot have it.",
-            "content": "There is a new AI model called Mythos. Anthropic built it for defensive cybersecurity research. It is so effective at finding software vulnerabilities that Anthropic decided the general public cannot have it. Instead, they are letting a small circle ... [14093 chars]",
-            "url": "https://www.foxnews.com/tech/anthropics-mythos-ai-found-2000-unknown-software-vulnerabilities-seven-weeks-testing",
-            "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/anthropic-mythos-ai-fox-news-001.jpeg",
-            "publishedAt": "2026-04-25T19:25:57Z",
-            "lang": "en",
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "5655912dacde3dc4e48601e47017b59e",
-            "title": "Data centres must coexist with frugal AI in India, say experts at Frugal Innovation Forum",
-            "description": "Experts at the Frugal Innovation Forum emphasize the need for data centres to coexist with frugal AI for sustainable growth in India.",
-            "content": "While data centres are imperative, in countries like India, they should coexist with frugal AI, suggested panellists who were speaking at the Frugal Innovation Forum, organised by The French Institute in India (IFI), in collaboration with the Allianc... [545 chars]",
-            "url": "https://www.thehindu.com/news/cities/bangalore/datacentresmust-coexist-with-frugal-ai-in-india-say-experts-at-frugal-innovation-forum/article70905954.ece",
-            "image": "https://th-i.thgim.com/public/news/cities/bangalore/h96xi6/article70905949.ece/alternates/LANDSCAPE_1200/Mr.%20Gregor%20Trumel%20Counsellor%20for%20Cooperation%20and%20Cultural%20Affairs%20at%20the%20Embassy%20of%20France%20in%20India%20.jpg",
-            "publishedAt": "2026-04-25T19:10:59Z",
-            "lang": "en",
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
             }
         }
     ]
