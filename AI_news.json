@@ -4,96 +4,128 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 318608,
+    "totalArticles": 319650,
     "articles": [
         {
-            "id": "04793ddc12902cd93c72f9bfa33e3a90",
-            "title": "Smart Catering: Airbus' New AI Initiative To Help Airlines Reduce Cabin Food Waste",
-            "description": "It aims to close a financial and environmental gap in the airline industry by bringing data analysis to food and beverage services",
-            "content": "The modern airline industry is continually striving to eliminate inefficiencies and reduce the amount of fuel required for any given flight, with even modest reductions in average takeoff weight capable of saving airlines millions of dollars annually... [9813 chars]",
-            "url": "https://simpleflying.com/airbus-new-ai-initiative-airlines-reduce-cabin-food-waste/",
-            "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/smart-catering.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-04-26T22:00:18Z",
+            "id": "81c670ebb7051c7a2ebb72217f71d5d4",
+            "title": "Box to launch Box Automate service to expedite enterprise business processes, CEO says",
+            "description": "Box is launching a service built for artificial intelligence to expedite tedious work like processing invoices and pulling key data from corporate documents, CEO Aaron Levie told Reuters on Monday.\n...",
+            "content": "NEW YORK/SAN FRANCISCO, April 27 (Reuters) - Box is launching a service built for artificial intelligence to expedite tedious work like processing invoices and pulling key data from corporate documents, CEO Aaron Levie told Reuters on Monday.\nIn an i... [869 chars]",
+            "url": "https://www.marketscreener.com/news/box-to-launch-box-automate-service-to-expedite-enterprise-business-processes-ceo-says-ce7f59ddda80f527",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-27T222849Z_1_LYNXMPEM3Q1HH_RTROPTP_4_NEXT-NEWSMAKER-BOX.JPG",
+            "publishedAt": "2026-04-27T22:02:19Z",
             "lang": "en",
             "source": {
-                "id": "d189a400ff1a62abfa361ca86e0f7142",
-                "name": "Simple Flying",
-                "url": "https://simpleflying.com",
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "07c3f1b97759781647c9f5012598f144",
+            "title": "Bernie Sanders set to speak alongside CCP officials at Capitol Hill AI panel",
+            "description": "Sen Bernie Sanders faces scrutiny for speaking at a Capitol Hill AI panel alongside Chinese officials tied to Beijing's Ministry of Science and Technology AI governance committees.",
+            "content": "Sen. Bernie Sanders, I-Vt., is drawing scrutiny for cozying up to Chinese AI governance officials while championing policies that critics say would hamper America’s ability to compete with Beijing in the global artificial intelligence arms race.\nSand... [5618 chars]",
+            "url": "https://www.foxnews.com/politics/bernie-sanders-plans-schmooze-with-top-beijing-ai-experts-ignites-backlash",
+            "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/bernie-sanders-artificial-intelligence-ai-2.jpg",
+            "publishedAt": "2026-04-27T22:00:45Z",
+            "lang": "en",
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
                 "country": "us"
             }
         },
         {
-            "id": "7db9a48169130ce52f5017563c77287b",
-            "title": "‘It’s a Key Moment,’ Says Top Investor About AMD Stock",
-            "description": "Advanced Micro Devices (NASDAQ:AMD) stock enjoyed a huge bounce last week, and in a somewhat ironic twist, can thank Intel, its rival in the AI ...",
-            "content": "Advanced Micro Devices (NASDAQ:AMD) stock enjoyed a huge bounce last week, and in a somewhat ironic twist, can thank Intel, its rival in the AI chip market, for the boost.\nClaim 55% Off TipRanks\nUnlock hedge fund-level data and powerful investing too... [2681 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/it-s-a-key-moment-says-top-investor-about-amd-stock-1036063234",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/image-2293-1024x545.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-04-26T21:50:59Z",
+            "id": "a2c448c3e8bc5fc4c65736dc4692b498",
+            "title": "China’s DeepSeek prices new V4 AI model at 97% below OpenAI’s GPT-5.5",
+            "description": "DeepSeek’s move aims to attract more enterprise clients, developers and agent-based users, according to an academic.",
+            "content": "DeepSeek has slashed prices on its artificial intelligence models, including its latest V4 which now costs 97 per cent less than OpenAI products, potentially triggering a price war in the highly competitive AI market.\nDeepSeek said on Sunday that it ... [729 chars]",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3351595/chinas-deepseek-prices-new-v4-ai-model-97-below-openais-gpt-55",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/27/45f5bdcb-1e1c-459f-803c-23d326e883de_a4e5e66e.jpg?itok=fmrJg25U&v=1777288628",
+            "publishedAt": "2026-04-27T22:00:15Z",
             "lang": "en",
             "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            }
+        },
+        {
+            "id": "abb140a33a5567ac9c8faefab26c177a",
+            "title": "Anuma launches private AI with one memory across every",
+            "description": "Anuma launches publicly with one subscription for leading AI models and encrypted, user-owned memory across them all....",
+            "content": "SAN FRANCISCO, April 27, 2026 (GLOBE NEWSWIRE) -- Anuma today opened to the public with one subscription for ChatGPT, Claude, Gemini, Grok, DeepSeek, and other leading AI models, plus a user-owned encrypted memory that carries context across all of t... [4731 chars]",
+            "url": "https://www.globenewswire.com/news-release/2026/04/27/3282123/0/en/anuma-launches-private-ai-with-one-memory-across-every-leading-model.html",
+            "image": "https://ml.globenewswire.com/Resource/Download/e15ae2ad-f35e-4c48-9db2-09086b8811a1",
+            "publishedAt": "2026-04-27T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
                 "country": "us"
             }
         },
         {
-            "id": "3691e75c02ee36e4cb93acdd0f96bc5b",
-            "title": "New Mexico schools use Amira AI reading assessments amid accuracy and equity concerns",
-            "description": "New Mexico now requires K-2 students to use Amira AI for reading assessments, with Albuquerque teachers reporting both gains in literacy and worries about inaccurate scores, speech and accent bias and student frustration.",
-            "content": "Lilly Garcia is learning to read. Her tutor is a robot.\nOn a Friday morning in her combination second- and third-grade class at Matheson Park Elementary School, Garcia reads a story about a rabbit and a fox traveling to a tropical island. She’s weari... [9334 chars]",
-            "url": "https://www.abqjournal.com/news/students-read-aloud-ai-scores-them/3029121",
-            "image": "https://image.abqjournal.com/3028853.jpg?imageId=3028853&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-            "publishedAt": "2026-04-26T21:46:00Z",
+            "id": "643f2904bbfaa372dfa26354ceb9bf24",
+            "title": "Top Startup and Tech Funding News - April 27 2025",
+            "description": "It’s Monday, April 27, 2026, and we’re back with today’s top startup and tech funding news. Today’s rounds highlight a surge in capital flowing into AI-native systems, robotics, quantum computing, and applied fintech. From billion-dollar bets on next-generation “self-learning” AI to heavy investment in humanoid robots and industrial automation, investors are doubling down on technologies",
+            "content": "It’s Monday, April 27, 2026, and we’re back with today’s top startup and tech funding news. Today’s rounds highlight a surge in capital flowing into AI-native systems, robotics, quantum computing, and applied fintech. From billion-dollar bets on next... [11149 chars]",
+            "url": "https://techstartups.com/2026/04/27/top-startup-and-tech-funding-news-april-27-2025/",
+            "image": "https://techstartups.com/wp-content/uploads/2026/04/NeoCognition-Emerges-from-Stealth-with-40M-in-Seed-Funding-960x506.jpg",
+            "publishedAt": "2026-04-27T21:52:56Z",
             "lang": "en",
             "source": {
-                "id": "e3cad7a35669a0f5933fa172f5aa2e41",
-                "name": "Albuquerque Journal",
-                "url": "https://www.abqjournal.com",
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
                 "country": "us"
             }
         },
         {
-            "id": "516f32136ece9a80b2dfc7eb082c9caf",
-            "title": "Summer camps turn high-tech this year as robotics, AI keep students engaged",
-            "description": "Chennai: From learning the basics of robotics to working with sensors and grasping the fundamentals of aeronautics and aerospace, private and govt org.",
-            "content": "Chennai: From learning the basics of robotics to working with sensors and grasping the fundamentals of aeronautics and aerospace, private and govt organisations are transitioning towards science-and tech-centred summer camps this year. Starting Monda... [2966 chars]",
-            "url": "https://timesofindia.indiatimes.com/city/chennai/summer-camps-turn-high-tech-this-year-as-robotics-ai-keep-students-engaged/articleshow/130538462.cms",
-            "image": "https://static.toiimg.com/thumb/msid-130538439,width-1280,height-720,imgsize-10456,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-26T21:25:00Z",
+            "id": "eaaf3984803cdfa241836c9c8df0b589",
+            "title": "Celestica Earnings: Why I'm Finally Buying In (Rating Upgrade)",
+            "description": "Celestica Inc.'s networking and servers are poised for a solid run with AI data center build-outs accelerating. Read why CLS stock is upgraded to Buy.",
+            "content": "Celestica Earnings: Why I'm Finally Buying In (Rating Upgrade)\nKumquat Research\n16.64K Followers\nComments\n(3)\nSummary\nCelestica Inc. reported earnings after the close Monday.\nCLS shares are down about 9% after hours, likely due to profit-taking.\nI th... [2469 chars]",
+            "url": "https://seekingalpha.com/article/4894747-celestica-earnings-why-im-finally-buying-in-rating-upgrade",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2242695397/image_2242695397.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-04-27T21:45:47Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "297cafc89435e116a31d7f9ff3ed56b1",
-            "title": "AI transforming human-animal relationship, for the better",
-            "description": "Artificial intelligence is revolutionizing various aspects of society, including the relationship between humans and animals.",
-            "content": "Artificial intelligence is rapidly transforming how Americans work, learn and interact with one another. Less obvious, but no less consequential, is how the tool is redefining the relationship humans have with animals. Quicker and smarter computing i... [3415 chars]",
-            "url": "https://www.postandcourier.com/opinion/commentary/ai-innovation-human-animal-relationship-biomedical-research/article_1e338689-7d0f-4b8d-9b4d-f1764353766e.html",
-            "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/c/82/c82565a3-b09f-4ef5-b5e0-973dc5661b6e/63ebad6543bf8.image.jpg?crop=1443%2C758%2C0%2C174&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2026-04-26T21:15:00Z",
-            "lang": "en",
-            "source": {
-                "id": "c1903669db0b115cc673ce9c333a70dd",
-                "name": "Charleston Post and Courier",
-                "url": "https://www.postandcourier.com",
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
                 "country": "us"
             }
         },
         {
-            "id": "b2b61c29a52a0211485b7370ee8a842c",
-            "title": "Is AI making us artificially intelligent, but unable to analyse?",
-            "description": "AI can be an assistant or a force multiplier, but humans should never lose the ability to think problems through. Read more at straitstimes.com.",
-            "content": "Let me paint a picture.\nYou find yourself staring at a blank page. Not unusual. It’s part of the job. The difference this time is that you have a very capable assistant sitting quietly in another tab, waiting to help.\nSo you do what seems normal toda... [7596 chars]",
-            "url": "https://www.straitstimes.com/opinion/is-ai-making-us-artificially-intelligent-but-unable-to-analyse",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a77ebeef80adbb7c1bcabf1250656506b81fa2257db9b9d30faf800af7e6612b",
-            "publishedAt": "2026-04-26T21:00:00Z",
+            "id": "c8f92993af16b30a7b53add6f059702d",
+            "title": "These High-Tech 'Smart Scopes' Could Be America's Best Answer To Enemy Drones",
+            "description": "Drones have become an important part of modern warfare, and militaries are developing new ways to defend against them. This scope uses AI to do so.",
+            "content": "Like all wars, the ongoing conflict in Ukraine is driving the development of weapons technology forward at a rapid pace. Perhaps the most obvious way that this evolution has presented itself is in the widespread use of drones and the countermeasures ... [2506 chars]",
+            "url": "https://www.slashgear.com/2157866/smash-2000l-smart-scope-anti-drone-tech/",
+            "image": "https://www.slashgear.com/img/gallery/smash-2000l-smart-scope-anti-drone-tech/l-intro-1777304791.jpg",
+            "publishedAt": "2026-04-27T21:45:00Z",
+            "lang": "en",
+            "source": {
+                "id": "ca35c66a2b26e8274365e937357cf9c5",
+                "name": "SlashGear",
+                "url": "https://www.slashgear.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "e5ee50d8caeabaab21cd5207b451711c",
+            "title": "Taylor Swift files to trademark her voice amid AI clone boom",
+            "description": "The singer submitted two sound recordings to the patent office, each begins with “Hey, it’s Taylor”.. Read more at straitstimes.com.",
+            "content": "NEW YORK - Taylor Swift has filed applications with the US intellectual property office to trademark her voice, a move similar to one made by actor Matthew McConaughey, as AI-generated content surges.\nThe singer submitted two sound recordings to the ... [1630 chars]",
+            "url": "https://www.straitstimes.com/life/entertainment/taylor-swift-files-to-trademark-her-voice-amid-ai-clone-boom",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/826241b23b07ffdc7a403b21b23b8965c1cba4916e3e721c5ef6344ed7b7ad01",
+            "publishedAt": "2026-04-27T21:42:56Z",
             "lang": "en",
             "source": {
                 "id": "72bbcd9c095a3d51c97cdda7a97dba31",
@@ -103,66 +135,34 @@
             }
         },
         {
-            "id": "9a346c8be92ce5876a7b8c1c89343ba7",
-            "title": "Billionaire Elon Musk enters courtroom showdown with OpenAI",
-            "description": "Jury selection is to begin Monday in a high-profile legal battle between billionaire Elon Musk and artificial intelligence startup OpenAI, which he accuses of betraying its non-profit mission. The clash in a courtroom across the bay from San Francisco pits the world's richest man against a startup that Musk once…",
-            "content": "Jury selection is to begin Monday in a high-profile legal battle between billionaire Elon Musk and artificial intelligence startup OpenAI, which he accuses of betraying its non-profit mission.\nThe clash in a courtroom across the bay from San Francisc... [3468 chars]",
-            "url": "https://japantoday.com/category/tech/billionaire-elon-musk-enters-courtroom-showdown-with-openai",
-            "image": "https://media.japantoday.com/img/store/fe/b3/ca3f02a3e4016e2f58febc93242e1c4e032f/b8e5c2c61a7db1f77dbe2df101ea3f5345cbc1f6/_w1700.jpeg",
-            "publishedAt": "2026-04-26T21:00:00Z",
+            "id": "1b37e5fff64d8007fc4377c3636ae4c8",
+            "title": "Oracle, BorderPlex, Bloom Energy Partner on Project Jupiter in New Mexico",
+            "description": "Oracle and BorderPlex Digital Assets said late Monday that Project Jupiter will utilize Bloom Energy fuel cells to fully power the AI data center campus in Dona Ana County, New Mexico.\nAs part of...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/oracle-borderplex-bloom-energy-partner-on-project-jupiter-in-new-mexico-ce7f59ddda8ef327",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-04-27T21:34:19Z",
             "lang": "en",
             "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         },
         {
-            "id": "2c9455b8933f62ff96b01003ea990043",
-            "title": "AI decision review system being trialled in Darwin women's division one cricket competition",
-            "description": "Darwin's premier women's cricket league has become the first Australian grade competition to use an artificial intelligence umpire review system.",
-            "content": "Darwin's premier women's cricket league has become the first Australian grade competition to use an artificial intelligence (AI) umpire review system.\nDuring the opening rounds of the 2026 Darwin division one season, players have been able to challen... [3479 chars]",
-            "url": "https://www.abc.net.au/news/2026-04-27/nt-ai-decision-review-system-technology-darwin-cricket/106604718",
-            "image": "https://live-production.wcms.abc-cdn.net.au/940dc02dc415316763d0d4278942aacf?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=206&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-04-26T20:44:01Z",
+            "id": "7f88f2624f373c34cd51c905eaf5969d",
+            "title": "Ex-Apple CEO John Sculley says OpenAI is Apple's biggest threat in years",
+            "description": "Former Apple CEO John Sculley says OpenAI poses the largest competitive threat to Apple in years as both firms race to build AI wearable devices.",
+            "content": "Former Apple CEO John Sculley identified OpenAI as the largest competitive threat facing Apple in years, marking a potential shift after decades of dominance by the iPhone maker in the technology industry.\n\"This is the biggest thing I think that's ha... [2244 chars]",
+            "url": "https://www.foxbusiness.com/media/former-apple-ceo-sees-openai-poses-largest-competitive-threat-tech-giant-years",
+            "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/ex-apple-ceo-john-sculley.png?ve=1&tl=1",
+            "publishedAt": "2026-04-27T21:32:38Z",
             "lang": "en",
             "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "e3c5e051b755baaa604842a0569d81c5",
-            "title": "The AI Boom’s First Real Risk: A Political Shutdown Of Its Power Supply",
-            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-            "content": "You cannot scale what the people won't let you build\nJust as markets are being force-fed the next AI IPO supercycle, SpaceX, Anthropic, OpenAI, an inconvenient reality is emerging: the public is starting to revolt against the very infrastructure that... [513 chars]",
-            "url": "https://www.zerohedge.com/the-market-ear/ai-booms-first-real-risk-political-shutdown-its-power-supply",
-            "image": "https://assets.zerohedge.com/s3fs-public/2026-04/imresizer-8415fe99d52fa8b123111a6826ccb317.jpg",
-            "publishedAt": "2026-04-26T20:23:29Z",
-            "lang": "en",
-            "source": {
-                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
-                "name": "ZeroHedge",
-                "url": "https://www.zerohedge.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e425aef7e0d5b826b0783e9394394237",
-            "title": "AI gives a car owner some bad advice about a recall",
-            "description": "John Paul, AAA Northeast's Car Doctor, hears from a reader who is frustrated by a recent repair cost and some advice from AI.",
-            "content": "John Paul, AAA Northeast's Car Doctor, hears from a reader frustrated by a recent repair cost.\nQ. I purchased my car new seven years ago. Recently, a part failed and the replacement cost me nearly $800. After researching online and using Artificial I... [5463 chars]",
-            "url": "https://www.boston.com/cars/how-to/2026/04/26/car-doctor-artificial-intelligence-gives-a-car-owner-some-bad-advice-about-a-recall/",
-            "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/04/Car-Doctor-69ee71c5b3280-768x432.jpg",
-            "publishedAt": "2026-04-26T20:20:53Z",
-            "lang": "en",
-            "source": {
-                "id": "70a0fed2567e1f81584197893e1068f9",
-                "name": "Boston.com",
-                "url": "https://www.boston.com",
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com",
                 "country": "us"
             }
         }
