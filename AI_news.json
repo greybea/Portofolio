@@ -4,96 +4,144 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 319650,
+    "totalArticles": 320945,
     "articles": [
         {
-            "id": "81c670ebb7051c7a2ebb72217f71d5d4",
-            "title": "Box to launch Box Automate service to expedite enterprise business processes, CEO says",
-            "description": "Box is launching a service built for artificial intelligence to expedite tedious work like processing invoices and pulling key data from corporate documents, CEO Aaron Levie told Reuters on Monday.\n...",
-            "content": "NEW YORK/SAN FRANCISCO, April 27 (Reuters) - Box is launching a service built for artificial intelligence to expedite tedious work like processing invoices and pulling key data from corporate documents, CEO Aaron Levie told Reuters on Monday.\nIn an i... [869 chars]",
-            "url": "https://www.marketscreener.com/news/box-to-launch-box-automate-service-to-expedite-enterprise-business-processes-ceo-says-ce7f59ddda80f527",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-27T222849Z_1_LYNXMPEM3Q1HH_RTROPTP_4_NEXT-NEWSMAKER-BOX.JPG",
-            "publishedAt": "2026-04-27T22:02:19Z",
+            "id": "b95ac4f980417a4693bf3e7e17fae7d8",
+            "title": "Santa Cruz Co.: County To Expand Use Of A.I. In Workforce, County Website",
+            "description": "Santa Cruz County will further integrate artificial intelligence into its government workforce in an expansion of a policy that tested how the new tools could be used in 2025.",
+            "content": "Santa Cruz County will further integrate artificial intelligence into its government workforce in an expansion of a policy that tested how the new tools could be used in 2025.\nThe county Board of Supervisors heard a presentation on Tuesday about the ... [4669 chars]",
+            "url": "https://www.sfgate.com/news/bayarea/article/santa-cruz-co-county-to-expand-use-of-a-i-in-22231498.php",
+            "image": "https://s.hdnux.com/photos/01/54/25/03/28397799/6/rawImage.jpg",
+            "publishedAt": "2026-04-28T21:51:02Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "07c3f1b97759781647c9f5012598f144",
-            "title": "Bernie Sanders set to speak alongside CCP officials at Capitol Hill AI panel",
-            "description": "Sen Bernie Sanders faces scrutiny for speaking at a Capitol Hill AI panel alongside Chinese officials tied to Beijing's Ministry of Science and Technology AI governance committees.",
-            "content": "Sen. Bernie Sanders, I-Vt., is drawing scrutiny for cozying up to Chinese AI governance officials while championing policies that critics say would hamper America’s ability to compete with Beijing in the global artificial intelligence arms race.\nSand... [5618 chars]",
-            "url": "https://www.foxnews.com/politics/bernie-sanders-plans-schmooze-with-top-beijing-ai-experts-ignites-backlash",
-            "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/bernie-sanders-artificial-intelligence-ai-2.jpg",
-            "publishedAt": "2026-04-27T22:00:45Z",
-            "lang": "en",
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
+                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
+                "name": "SFGATE",
+                "url": "https://www.sfgate.com",
                 "country": "us"
             }
         },
         {
-            "id": "a2c448c3e8bc5fc4c65736dc4692b498",
-            "title": "China’s DeepSeek prices new V4 AI model at 97% below OpenAI’s GPT-5.5",
-            "description": "DeepSeek’s move aims to attract more enterprise clients, developers and agent-based users, according to an academic.",
-            "content": "DeepSeek has slashed prices on its artificial intelligence models, including its latest V4 which now costs 97 per cent less than OpenAI products, potentially triggering a price war in the highly competitive AI market.\nDeepSeek said on Sunday that it ... [729 chars]",
-            "url": "https://www.scmp.com/tech/tech-trends/article/3351595/chinas-deepseek-prices-new-v4-ai-model-97-below-openais-gpt-55",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/27/45f5bdcb-1e1c-459f-803c-23d326e883de_a4e5e66e.jpg?itok=fmrJg25U&v=1777288628",
-            "publishedAt": "2026-04-27T22:00:15Z",
+            "id": "db3d23bdde6b7e1aee19f68b0e37996b",
+            "title": "Write a book in minutes with this AI-powered publishing tool",
+            "description": "Aivolut Books lets you turn an idea into a cohesive, Amazon-ready book in minutes. Get a lifetime subscription to the AI book generator.",
+            "content": "AI book generator Aivolut Books employs specialized tools to help you turn an idea into a full, cohesive, Amazon-ready book in just minutes.\nIt’s a great way to go from brainstorming a book idea to publishing an actual book. And a lifetime subscripti... [2663 chars]",
+            "url": "https://www.cultofmac.com/deals/aivolut-books-ai-ai-book-generator",
+            "image": "https://www.cultofmac.com/wp-content/uploads/2026/02/Aivolut-Books-AI-book-creator.jpg",
+            "publishedAt": "2026-04-28T21:50:38Z",
             "lang": "en",
             "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            }
-        },
-        {
-            "id": "abb140a33a5567ac9c8faefab26c177a",
-            "title": "Anuma launches private AI with one memory across every",
-            "description": "Anuma launches publicly with one subscription for leading AI models and encrypted, user-owned memory across them all....",
-            "content": "SAN FRANCISCO, April 27, 2026 (GLOBE NEWSWIRE) -- Anuma today opened to the public with one subscription for ChatGPT, Claude, Gemini, Grok, DeepSeek, and other leading AI models, plus a user-owned encrypted memory that carries context across all of t... [4731 chars]",
-            "url": "https://www.globenewswire.com/news-release/2026/04/27/3282123/0/en/anuma-launches-private-ai-with-one-memory-across-every-leading-model.html",
-            "image": "https://ml.globenewswire.com/Resource/Download/e15ae2ad-f35e-4c48-9db2-09086b8811a1",
-            "publishedAt": "2026-04-27T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
+                "id": "0f2b6767e87b258740a23ff093dd65a3",
+                "name": "Cult of Mac",
+                "url": "https://www.cultofmac.com",
                 "country": "us"
             }
         },
         {
-            "id": "643f2904bbfaa372dfa26354ceb9bf24",
-            "title": "Top Startup and Tech Funding News - April 27 2025",
-            "description": "It’s Monday, April 27, 2026, and we’re back with today’s top startup and tech funding news. Today’s rounds highlight a surge in capital flowing into AI-native systems, robotics, quantum computing, and applied fintech. From billion-dollar bets on next-generation “self-learning” AI to heavy investment in humanoid robots and industrial automation, investors are doubling down on technologies",
-            "content": "It’s Monday, April 27, 2026, and we’re back with today’s top startup and tech funding news. Today’s rounds highlight a surge in capital flowing into AI-native systems, robotics, quantum computing, and applied fintech. From billion-dollar bets on next... [11149 chars]",
-            "url": "https://techstartups.com/2026/04/27/top-startup-and-tech-funding-news-april-27-2025/",
-            "image": "https://techstartups.com/wp-content/uploads/2026/04/NeoCognition-Emerges-from-Stealth-with-40M-in-Seed-Funding-960x506.jpg",
-            "publishedAt": "2026-04-27T21:52:56Z",
+            "id": "a2ae8d6114064af901ebdca359e57f3d",
+            "title": "OpenClaw Insider Builds the Enterprise Safety Layer the Project Never Shipped",
+            "description": "Red Hat principal engineer and OpenClaw maintainer Sally O'Malley released Tank OS—a tool that sandboxes AI agents in isolated containers, keeping credentials locked and agents from interfering with each other or the host machine.",
+            "content": "Red Hat principal software engineer Sally O'Malley spent a weekend solving a problem most enterprise IT teams don't know they have yet. The result is Tank OS, an open-source tool that packages OpenClaw—the hot new software that makes it easy to deplo... [2749 chars]",
+            "url": "https://decrypt.co/365888/red-hat-tank-os-openclaw-enterprise-security",
+            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/OpenClaw2-gID_7.jpg",
+            "publishedAt": "2026-04-28T21:46:02Z",
             "lang": "en",
             "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
+                "id": "6956007add5fc13a6721202ec906b1c4",
+                "name": "Decrypt",
+                "url": "https://decrypt.co",
                 "country": "us"
             }
         },
         {
-            "id": "eaaf3984803cdfa241836c9c8df0b589",
-            "title": "Celestica Earnings: Why I'm Finally Buying In (Rating Upgrade)",
-            "description": "Celestica Inc.'s networking and servers are poised for a solid run with AI data center build-outs accelerating. Read why CLS stock is upgraded to Buy.",
-            "content": "Celestica Earnings: Why I'm Finally Buying In (Rating Upgrade)\nKumquat Research\n16.64K Followers\nComments\n(3)\nSummary\nCelestica Inc. reported earnings after the close Monday.\nCLS shares are down about 9% after hours, likely due to profit-taking.\nI th... [2469 chars]",
-            "url": "https://seekingalpha.com/article/4894747-celestica-earnings-why-im-finally-buying-in-rating-upgrade",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2242695397/image_2242695397.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-04-27T21:45:47Z",
+            "id": "a24069b947a7a4a665e948ef1e7fc3cb",
+            "title": "Google Celebrates 20 Years of Translate With a New Pronunciation Feature",
+            "description": "Google's new AI-powered language tool can give you real-time feedback by analyzing speech and correcting your pronunciation.",
+            "content": "Language plays a major role in building connections. If you've ever needed a split-second translation or worked your way through a foreign language class at school, you've probably used Google Translate.\nFor over 20 years, Translate has evolved from ... [3156 chars]",
+            "url": "https://www.cnet.com/tech/services-and-software/google-20-years-translate-new-pronunciation-feature/",
+            "image": "https://www.cnet.com/a/img/resize/096b1e85a3d8ea5b9ecf20225b19b633af395528/hub/2026/04/28/63b7f08f-bf13-4c5c-9bb1-00dba9516ae1/google-translate-20th-hero.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-04-28T21:44:08Z",
+            "lang": "en",
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "eb716740390fb344d583d42aad297e5e",
+            "title": "Enphase Energy says developing solid state transformer for AI data centers",
+            "description": "Enphase said: “We announced today that Enphase is developing its 1.25 MW IQ Solid-State Transformer product for data centers, a distributed soli...",
+            "content": "Enphase said: “We announced today that Enphase is developing its 1.25 MW IQ Solid-State Transformer product for data centers, a distributed solid-state transformer platform designed to convert medium-voltage AC directly to low-voltage DC in a single ... [621 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/enphase-energy-says-developing-solid-state-transformer-for-ai-data-centers-1036074943",
+            "image": "https://markets.businessinsider.com/favicon-32x32.png",
+            "publishedAt": "2026-04-28T21:42:37Z",
+            "lang": "en",
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "7f77247db714a3bfb96979cd608384cf",
+            "title": "so SAS VP Reggie Townsend wants to make governance irresistible",
+            "description": "SAS VP of AI ethics, governance, and social impact Reggie Townsend took to the stage at SAS Innovate 2026 today, but he didn't start by speaking a...",
+            "content": "When it comes to tech, a lot of people are keen to see results. And yes, shipping something is super impressive, wonderfully exciting, and is, of course, absolutely essential to any functioning business. Yet, we need to take a step back sometimes and... [9319 chars]",
+            "url": "https://itwire.com/business-it-news/data/the-most-dangerous-ai-problem-isn%E2%80%99t-risk,-it-s-resistance-so-sas-vp-reggie-townsend-wants-to-make-governance-irresistible.html",
+            "image": "https://itwire.com/media/k2/items/cache/d0a3e4773da9858d69164aeac0e4c4ad_XS.jpg",
+            "publishedAt": "2026-04-28T21:41:47Z",
+            "lang": "en",
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "35900d010f6a41526c5b0e38f181a396",
+            "title": "Hedy AI Named #1 Best AI Meeting Assistant for 2026 with On-Device AI and Real-Time Coaching",
+            "description": "Second consecutive top ranking arrives alongside cross-platform conversation capture, fully local AI processing, and EU data residency for European users",
+            "content": "Second consecutive top ranking arrives alongside cross-platform conversation capture, fully local AI processing, and EU data residency for European users\nPortland, OR, April 28, 2026 (GLOBE NEWSWIRE) -- Hedy, the AI-powered meeting coach that helps p... [6132 chars]",
+            "url": "https://www.manilatimes.net/2026/04/29/tmt-newswire/globenewswire/hedy-ai-named-1-best-ai-meeting-assistant-for-2026-with-on-device-ai-and-real-time-coaching/2330995",
+            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/29/1033901.png",
+            "publishedAt": "2026-04-28T21:41:10Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "6131c6d65d938d455a20b93ce96536b5",
+            "title": "Anthropic's Claude AI Agent Goes Rogue, Deletes Company’s Database and Backups in Nine Seconds, Confesses in Writing",
+            "description": "AI-rmageddon is here.",
+            "content": "AI-rmageddon is here.\nOn Saturday (25), the founder of ‘Software as a Service platform’ (SaaS) PocketOS, Jer Crane, wrote an X article to warn others about the ‘systemic failures’ of flagship AI and digital services providers.\nCrane was led to write ... [1770 chars]",
+            "url": "https://www.thegatewaypundit.com/2026/04/anthropics-claude-ai-agent-goes-rogue-deletes-companys/",
+            "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/04/ai-by-grok-claude-ai-deletes-database-1200x630.jpg",
+            "publishedAt": "2026-04-28T21:40:58Z",
+            "lang": "en",
+            "source": {
+                "id": "c7b3fd167c575deb5133f19df6ed778f",
+                "name": "The Gateway Pundit",
+                "url": "https://www.thegatewaypundit.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ba3ce0fe879c342f71605734c5355f58",
+            "title": "Nvidia: AI Transcends Semiconductors' Cyclical Nature",
+            "description": "Nvidia Corporation rides the early AI s-curve as labor shifts to compute, boosting margins. Click for this NVDA update and look ahead.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of MSFT either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
+            "url": "https://seekingalpha.com/article/4895337-nvidia-ai-transcends-semiconductors-cyclical-nature",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2249974122/image_2249974122.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-04-28T21:40:04Z",
             "lang": "en",
             "source": {
                 "id": "a6d401909ca644c4ffb332486c9cfaea",
@@ -103,67 +151,19 @@
             }
         },
         {
-            "id": "c8f92993af16b30a7b53add6f059702d",
-            "title": "These High-Tech 'Smart Scopes' Could Be America's Best Answer To Enemy Drones",
-            "description": "Drones have become an important part of modern warfare, and militaries are developing new ways to defend against them. This scope uses AI to do so.",
-            "content": "Like all wars, the ongoing conflict in Ukraine is driving the development of weapons technology forward at a rapid pace. Perhaps the most obvious way that this evolution has presented itself is in the widespread use of drones and the countermeasures ... [2506 chars]",
-            "url": "https://www.slashgear.com/2157866/smash-2000l-smart-scope-anti-drone-tech/",
-            "image": "https://www.slashgear.com/img/gallery/smash-2000l-smart-scope-anti-drone-tech/l-intro-1777304791.jpg",
-            "publishedAt": "2026-04-27T21:45:00Z",
+            "id": "c4d8549e9de33bb8e42f6e89126611ad",
+            "title": "DRA adopts AI-based construction management",
+            "description": "Chennai: Chennai-based real estate developer DRA has deployed an AI-based construction intelligence platform, using AI across project management, qual.",
+            "content": "Chennai: Chennai-based real estate developer DRA has deployed an AI-based construction intelligence platform, using AI across project management, quality inspection, site monitoring, procurement optimisation, workforce productivity, safety analytics,... [680 chars]",
+            "url": "https://timesofindia.indiatimes.com/city/chennai/dra-adopts-ai-based-construction-management/articleshow/130589010.cms",
+            "image": "https://static.toiimg.com/thumb/msid-117517379,width-1280,height-720,imgsize-129920,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-04-28T21:38:00Z",
             "lang": "en",
             "source": {
-                "id": "ca35c66a2b26e8274365e937357cf9c5",
-                "name": "SlashGear",
-                "url": "https://www.slashgear.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e5ee50d8caeabaab21cd5207b451711c",
-            "title": "Taylor Swift files to trademark her voice amid AI clone boom",
-            "description": "The singer submitted two sound recordings to the patent office, each begins with “Hey, it’s Taylor”.. Read more at straitstimes.com.",
-            "content": "NEW YORK - Taylor Swift has filed applications with the US intellectual property office to trademark her voice, a move similar to one made by actor Matthew McConaughey, as AI-generated content surges.\nThe singer submitted two sound recordings to the ... [1630 chars]",
-            "url": "https://www.straitstimes.com/life/entertainment/taylor-swift-files-to-trademark-her-voice-amid-ai-clone-boom",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/826241b23b07ffdc7a403b21b23b8965c1cba4916e3e721c5ef6344ed7b7ad01",
-            "publishedAt": "2026-04-27T21:42:56Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "1b37e5fff64d8007fc4377c3636ae4c8",
-            "title": "Oracle, BorderPlex, Bloom Energy Partner on Project Jupiter in New Mexico",
-            "description": "Oracle and BorderPlex Digital Assets said late Monday that Project Jupiter will utilize Bloom Energy fuel cells to fully power the AI data center campus in Dona Ana County, New Mexico.\nAs part of...",
-            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/oracle-borderplex-bloom-energy-partner-on-project-jupiter-in-new-mexico-ce7f59ddda8ef327",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-04-27T21:34:19Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "7f88f2624f373c34cd51c905eaf5969d",
-            "title": "Ex-Apple CEO John Sculley says OpenAI is Apple's biggest threat in years",
-            "description": "Former Apple CEO John Sculley says OpenAI poses the largest competitive threat to Apple in years as both firms race to build AI wearable devices.",
-            "content": "Former Apple CEO John Sculley identified OpenAI as the largest competitive threat facing Apple in years, marking a potential shift after decades of dominance by the iPhone maker in the technology industry.\n\"This is the biggest thing I think that's ha... [2244 chars]",
-            "url": "https://www.foxbusiness.com/media/former-apple-ceo-sees-openai-poses-largest-competitive-threat-tech-giant-years",
-            "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/ex-apple-ceo-john-sculley.png?ve=1&tl=1",
-            "publishedAt": "2026-04-27T21:32:38Z",
-            "lang": "en",
-            "source": {
-                "id": "1b97b25c0ec482f85326378f82f7f815",
-                "name": "Fox Business",
-                "url": "https://www.foxbusiness.com",
-                "country": "us"
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
             }
         }
     ]
