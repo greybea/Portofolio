@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 320945,
+    "totalArticles": 322070,
     "articles": [
         {
-            "id": "b95ac4f980417a4693bf3e7e17fae7d8",
-            "title": "Santa Cruz Co.: County To Expand Use Of A.I. In Workforce, County Website",
-            "description": "Santa Cruz County will further integrate artificial intelligence into its government workforce in an expansion of a policy that tested how the new tools could be used in 2025.",
-            "content": "Santa Cruz County will further integrate artificial intelligence into its government workforce in an expansion of a policy that tested how the new tools could be used in 2025.\nThe county Board of Supervisors heard a presentation on Tuesday about the ... [4669 chars]",
-            "url": "https://www.sfgate.com/news/bayarea/article/santa-cruz-co-county-to-expand-use-of-a-i-in-22231498.php",
-            "image": "https://s.hdnux.com/photos/01/54/25/03/28397799/6/rawImage.jpg",
-            "publishedAt": "2026-04-28T21:51:02Z",
+            "id": "972c75a3f4354d2e0ea7e28d083ba486",
+            "title": "LinkedIn's AI hiring agents on track for $450 million in yearly revenue",
+            "description": "LinkedIn, the social network for professionals owned by Microsoft, on Wednesday said that its hiring products using what is known as agentic AI are on track to generate $450 million in sales in the...",
+            "content": "SAN FRANCISCO, April 29 (Reuters) - LinkedIn, the social network for professionals owned by Microsoft, on Wednesday said that its hiring products using what is known as agentic AI are on track to generate $450 million in sales in the coming year.\nThe... [1322 chars]",
+            "url": "https://www.marketscreener.com/news/linkedin-s-ai-hiring-agents-on-track-for-450-million-in-yearly-revenue-ce7f58dad189f22d",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-29T215502Z_2_LYNXMPEM3S1NL_RTROPTP_4_TECH-LINKEDIN.JPG",
+            "publishedAt": "2026-04-29T21:55:38Z",
             "lang": "en",
             "source": {
-                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-                "name": "SFGATE",
-                "url": "https://www.sfgate.com",
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "ba4693b65664afee73bd31488366e33a",
+            "title": "Microsoft eases fears over AI costs",
+            "description": "Azure cloud-computing business reports 39 per cent revenue gain in boost for investor confidence",
+            "content": "Microsoft reported faster third-quarter sales growth in its cloud computing unit, easing investor concerns about the return on spending on artificial ­intelligence infrastructure.\nThe world’s largest software company said its Azure cloud-computing bu... [2381 chars]",
+            "url": "https://www.thetimes.com/business/technology/article/microsoft-eases-fears-over-ai-costs-mm9fsgfgr",
+            "image": "https://www.thetimes.com/imageserver/image/6cdeaacb-a4bc-438c-8357-f217e9cee7a6.jpg?strip=all&format=webp&crop=6690px%2C3763px%2C0px%2C348px&resize=1200",
+            "publishedAt": "2026-04-29T21:55:24Z",
+            "lang": "en",
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "e81b8effb3357d187f1a6f4c6a70f87c",
+            "title": "centered AI healthcare essential for providing care",
+            "description": "Explore how human-centered AI healthcare is simplifying complex insurance workflows and creating connected experiences for millions of members.",
+            "content": "As AI transforms healthcare operations, the industry’s most consequential challenge has shifted from building models to deploying them responsibly in regulated workflows where trust, accuracy and human judgment must coexist. This is where human-cente... [3930 chars]",
+            "url": "https://siliconangle.com/2026/04/29/human-centered-ai-healthcare-essential-providing-care-googlecloudnext/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Danny-Brakebill-Venkat-Alladi-Balaji-Ramdoss-Clean.jpg",
+            "publishedAt": "2026-04-29T21:51:34Z",
+            "lang": "en",
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
                 "country": "us"
             }
         },
         {
-            "id": "db3d23bdde6b7e1aee19f68b0e37996b",
-            "title": "Write a book in minutes with this AI-powered publishing tool",
-            "description": "Aivolut Books lets you turn an idea into a cohesive, Amazon-ready book in minutes. Get a lifetime subscription to the AI book generator.",
-            "content": "AI book generator Aivolut Books employs specialized tools to help you turn an idea into a full, cohesive, Amazon-ready book in just minutes.\nIt’s a great way to go from brainstorming a book idea to publishing an actual book. And a lifetime subscripti... [2663 chars]",
-            "url": "https://www.cultofmac.com/deals/aivolut-books-ai-ai-book-generator",
-            "image": "https://www.cultofmac.com/wp-content/uploads/2026/02/Aivolut-Books-AI-book-creator.jpg",
-            "publishedAt": "2026-04-28T21:50:38Z",
+            "id": "70e3692d199195802448778a3dd45290",
+            "title": "Amazon Connect Talent: Amazon targets mass hiring with 'Agentic AI' software to humanize AI",
+            "description": "Amazon, which recruits thousands of employees each year, has finally got the solution to sort out mass hiring.\nThe world's leading e-commerce giant on Tuesday introduced new software ‌meant to...",
+            "content": "Amazon, which recruits thousands of employees each year, has finally got the solution to sort out mass hiring.\nThe world's leading e-commerce giant on Tuesday introduced new software ‌meant to speed up the process by excising a sizable chunk of the h... [2888 chars]",
+            "url": "https://www.thenews.com.pk/latest/1400881-amazon-connect-talent-amazon-targets-mass-hiring-with-agentic-ai-software-to-humanize-ai",
+            "image": "https://www.thenews.com.pk/assets/uploads/2026-04-30/1400881_024813_updates.jpg",
+            "publishedAt": "2026-04-29T21:49:00Z",
             "lang": "en",
             "source": {
-                "id": "0f2b6767e87b258740a23ff093dd65a3",
-                "name": "Cult of Mac",
-                "url": "https://www.cultofmac.com",
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            }
+        },
+        {
+            "id": "1c0c80e95b69dc63710d1e912952e564",
+            "title": "Stripe's Push to Bring AI to Payments, Commerce",
+            "description": "Stripe announced several new AI tools Wednesday, including a new partnership with Google, aimed at building AI tools for payments and commerce. Stripe President and co-founder John Collison...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/stripe-s-push-to-bring-ai-to-payments-commerce-ce7f58dade80ff2d",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3614559.png",
+            "publishedAt": "2026-04-29T21:48:57Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "fe892dc655202f287f8b4b00119aa4ec",
+            "title": "LinkedIn's AI hiring agents on track for $450 million in yearly revenue",
+            "description": "LinkedIn, the social network for professionals owned by Microsoft , on Wednesday said that its hiring ​products using what is known as agentic AI ‌are on track to generate $450 million in sales in the coming year.",
+            "content": "The sales disclosure for a core AI product is new for LinkedIn, ​which has 1 billion members and makes much of ​its revenue from selling tools to sales and recruiting ⁠professionals. While Microsoft reports LinkedIn's overall sales growth as part ​of... [1087 chars]",
+            "url": "https://www.reuters.com/business/linkedins-ai-hiring-agents-track-450-million-yearly-revenue-2026-04-29/",
+            "image": "https://www.reuters.com/resizer/v2/RNMJJS6S7FKQHHTKPGZ6TYZL6Q.jpg?auth=1be8ad82d49ded4ffcfb29b0826bb651f505151b739bf8f734656388cf0a86e8&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-04-29T21:46:10Z",
+            "lang": "en",
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
                 "country": "us"
             }
         },
         {
-            "id": "a2ae8d6114064af901ebdca359e57f3d",
-            "title": "OpenClaw Insider Builds the Enterprise Safety Layer the Project Never Shipped",
-            "description": "Red Hat principal engineer and OpenClaw maintainer Sally O'Malley released Tank OS—a tool that sandboxes AI agents in isolated containers, keeping credentials locked and agents from interfering with each other or the host machine.",
-            "content": "Red Hat principal software engineer Sally O'Malley spent a weekend solving a problem most enterprise IT teams don't know they have yet. The result is Tank OS, an open-source tool that packages OpenClaw—the hot new software that makes it easy to deplo... [2749 chars]",
-            "url": "https://decrypt.co/365888/red-hat-tank-os-openclaw-enterprise-security",
-            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/OpenClaw2-gID_7.jpg",
-            "publishedAt": "2026-04-28T21:46:02Z",
+            "id": "de089dbee70b0cb0531d4d402037f549",
+            "title": "Growing demand for cloud services helps Amazon beat expectations",
+            "description": "Revenue rose to $181.5 billion in the first quarter, a sign that investments in AI infrastructure, such as data centres and semiconductors, may be bearing fruit",
+            "content": "Growing demand for Amazon’s cloud computing business helped it to beat expectations in the first quarter, a sign that its huge investments in the infrastructure underpinning artificial intelligence may be bearing fruit.\nRevenue across the group rose ... [1913 chars]",
+            "url": "https://www.thetimes.com/business/technology/article/cloud-services-help-amazon-beat-expectations-tfrdsv7fq",
+            "image": "https://www.thetimes.com/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4ae09eb3-944f-4a2b-b6b7-1879d5506516.jpg?strip=all&format=webp&crop=4032px%2C2268px%2C0px%2C0px&resize=1200",
+            "publishedAt": "2026-04-29T21:45:10Z",
             "lang": "en",
             "source": {
-                "id": "6956007add5fc13a6721202ec906b1c4",
-                "name": "Decrypt",
-                "url": "https://decrypt.co",
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "2a86219fa140a96bdc7486e571f1ff88",
+            "title": "AI runtime security for the agentic enterprise",
+            "description": "AI runtime security is evolving to protect autonomous agents and sensitive data as organizations move AI models into production environments.",
+            "content": "As enterprises push agentic AI out of the proof-of-concept phase and into production, AI runtime security — the ability to enforce policy at the exact moment an agent acts — is proving to be the bedrock that makes autonomous systems safe enough to tr... [3399 chars]",
+            "url": "https://siliconangle.com/2026/04/29/ai-runtime-security-agentic-enterprise-googlecloudnext/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/image-14.png",
+            "publishedAt": "2026-04-29T21:43:21Z",
+            "lang": "en",
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
                 "country": "us"
             }
         },
         {
-            "id": "a24069b947a7a4a665e948ef1e7fc3cb",
-            "title": "Google Celebrates 20 Years of Translate With a New Pronunciation Feature",
-            "description": "Google's new AI-powered language tool can give you real-time feedback by analyzing speech and correcting your pronunciation.",
-            "content": "Language plays a major role in building connections. If you've ever needed a split-second translation or worked your way through a foreign language class at school, you've probably used Google Translate.\nFor over 20 years, Translate has evolved from ... [3156 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/google-20-years-translate-new-pronunciation-feature/",
-            "image": "https://www.cnet.com/a/img/resize/096b1e85a3d8ea5b9ecf20225b19b633af395528/hub/2026/04/28/63b7f08f-bf13-4c5c-9bb1-00dba9516ae1/google-translate-20th-hero.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-04-28T21:44:08Z",
+            "id": "707af4d3cfa2893402840579edb0336c",
+            "title": "Big US tech stocks swing as investors probe AI spend",
+            "description": "Meta, Amazon, Alphabet, and Microsoft all reported their financial performance at the same time on Wednesday",
+            "content": "The share prices of the biggest tech firms in the US swung up and down as investors considered their immense spending on artificial intelligence (AI).\nFacebook's owner Meta, Google's owner Alphabet, Microsoft, and Amazon all reported their business r... [3128 chars]",
+            "url": "https://www.bbc.com/news/articles/crkpd4r2y7eo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d6a0/live/137a2f70-43f1-11f1-9113-1988573e8ff7.jpg",
+            "publishedAt": "2026-04-29T21:41:41Z",
             "lang": "en",
             "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
+                "id": "109f2b4a20da4fe1c2fd502b03c07243",
+                "name": "BBC News",
+                "url": "https://www.bbc.com",
+                "country": "gb"
             }
         },
         {
-            "id": "eb716740390fb344d583d42aad297e5e",
-            "title": "Enphase Energy says developing solid state transformer for AI data centers",
-            "description": "Enphase said: “We announced today that Enphase is developing its 1.25 MW IQ Solid-State Transformer product for data centers, a distributed soli...",
-            "content": "Enphase said: “We announced today that Enphase is developing its 1.25 MW IQ Solid-State Transformer product for data centers, a distributed solid-state transformer platform designed to convert medium-voltage AC directly to low-voltage DC in a single ... [621 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/enphase-energy-says-developing-solid-state-transformer-for-ai-data-centers-1036074943",
-            "image": "https://markets.businessinsider.com/favicon-32x32.png",
-            "publishedAt": "2026-04-28T21:42:37Z",
+            "id": "f319fc1011758551d9a58d5c7cf1d8b6",
+            "title": "Stocks to Watch : Meta Platforms, Alphabet, Qualcomm, Amazon.com",
+            "description": "By Elias Schisgall\nMeta Platforms said it expects to spend more on artificial-intelligence data centers this year than it had previously forecast. Shares fell 6.5%, to $626.00, after the market...",
+            "content": "By Elias Schisgall\nMeta Platforms said it expects to spend more on artificial-intelligence data centers this year than it had previously forecast. Shares fell 6.5%, to $626.00, after the market closed.\nAlphabet, Google's parent company, reported a 22... [530 chars]",
+            "url": "https://www.marketscreener.com/news/stocks-to-watch-meta-platforms-alphabet-qualcomm-amazon-com-ce7f58dad088fe2d",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-04-29T21:41:00Z",
             "lang": "en",
             "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "7f77247db714a3bfb96979cd608384cf",
-            "title": "so SAS VP Reggie Townsend wants to make governance irresistible",
-            "description": "SAS VP of AI ethics, governance, and social impact Reggie Townsend took to the stage at SAS Innovate 2026 today, but he didn't start by speaking a...",
-            "content": "When it comes to tech, a lot of people are keen to see results. And yes, shipping something is super impressive, wonderfully exciting, and is, of course, absolutely essential to any functioning business. Yet, we need to take a step back sometimes and... [9319 chars]",
-            "url": "https://itwire.com/business-it-news/data/the-most-dangerous-ai-problem-isn%E2%80%99t-risk,-it-s-resistance-so-sas-vp-reggie-townsend-wants-to-make-governance-irresistible.html",
-            "image": "https://itwire.com/media/k2/items/cache/d0a3e4773da9858d69164aeac0e4c4ad_XS.jpg",
-            "publishedAt": "2026-04-28T21:41:47Z",
-            "lang": "en",
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "35900d010f6a41526c5b0e38f181a396",
-            "title": "Hedy AI Named #1 Best AI Meeting Assistant for 2026 with On-Device AI and Real-Time Coaching",
-            "description": "Second consecutive top ranking arrives alongside cross-platform conversation capture, fully local AI processing, and EU data residency for European users",
-            "content": "Second consecutive top ranking arrives alongside cross-platform conversation capture, fully local AI processing, and EU data residency for European users\nPortland, OR, April 28, 2026 (GLOBE NEWSWIRE) -- Hedy, the AI-powered meeting coach that helps p... [6132 chars]",
-            "url": "https://www.manilatimes.net/2026/04/29/tmt-newswire/globenewswire/hedy-ai-named-1-best-ai-meeting-assistant-for-2026-with-on-device-ai-and-real-time-coaching/2330995",
-            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/29/1033901.png",
-            "publishedAt": "2026-04-28T21:41:10Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "6131c6d65d938d455a20b93ce96536b5",
-            "title": "Anthropic's Claude AI Agent Goes Rogue, Deletes Company’s Database and Backups in Nine Seconds, Confesses in Writing",
-            "description": "AI-rmageddon is here.",
-            "content": "AI-rmageddon is here.\nOn Saturday (25), the founder of ‘Software as a Service platform’ (SaaS) PocketOS, Jer Crane, wrote an X article to warn others about the ‘systemic failures’ of flagship AI and digital services providers.\nCrane was led to write ... [1770 chars]",
-            "url": "https://www.thegatewaypundit.com/2026/04/anthropics-claude-ai-agent-goes-rogue-deletes-companys/",
-            "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/04/ai-by-grok-claude-ai-deletes-database-1200x630.jpg",
-            "publishedAt": "2026-04-28T21:40:58Z",
-            "lang": "en",
-            "source": {
-                "id": "c7b3fd167c575deb5133f19df6ed778f",
-                "name": "The Gateway Pundit",
-                "url": "https://www.thegatewaypundit.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "ba3ce0fe879c342f71605734c5355f58",
-            "title": "Nvidia: AI Transcends Semiconductors' Cyclical Nature",
-            "description": "Nvidia Corporation rides the early AI s-curve as labor shifts to compute, boosting margins. Click for this NVDA update and look ahead.",
-            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of MSFT either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
-            "url": "https://seekingalpha.com/article/4895337-nvidia-ai-transcends-semiconductors-cyclical-nature",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2249974122/image_2249974122.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-04-28T21:40:04Z",
-            "lang": "en",
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c4d8549e9de33bb8e42f6e89126611ad",
-            "title": "DRA adopts AI-based construction management",
-            "description": "Chennai: Chennai-based real estate developer DRA has deployed an AI-based construction intelligence platform, using AI across project management, qual.",
-            "content": "Chennai: Chennai-based real estate developer DRA has deployed an AI-based construction intelligence platform, using AI across project management, quality inspection, site monitoring, procurement optimisation, workforce productivity, safety analytics,... [680 chars]",
-            "url": "https://timesofindia.indiatimes.com/city/chennai/dra-adopts-ai-based-construction-management/articleshow/130589010.cms",
-            "image": "https://static.toiimg.com/thumb/msid-117517379,width-1280,height-720,imgsize-129920,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-04-28T21:38:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         }
     ]
