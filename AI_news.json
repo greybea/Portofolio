@@ -4,16 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 322070,
+    "totalArticles": 323218,
     "articles": [
         {
-            "id": "972c75a3f4354d2e0ea7e28d083ba486",
-            "title": "LinkedIn's AI hiring agents on track for $450 million in yearly revenue",
-            "description": "LinkedIn, the social network for professionals owned by Microsoft, on Wednesday said that its hiring products using what is known as agentic AI are on track to generate $450 million in sales in the...",
-            "content": "SAN FRANCISCO, April 29 (Reuters) - LinkedIn, the social network for professionals owned by Microsoft, on Wednesday said that its hiring products using what is known as agentic AI are on track to generate $450 million in sales in the coming year.\nThe... [1322 chars]",
-            "url": "https://www.marketscreener.com/news/linkedin-s-ai-hiring-agents-on-track-for-450-million-in-yearly-revenue-ce7f58dad189f22d",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-29T215502Z_2_LYNXMPEM3S1NL_RTROPTP_4_TECH-LINKEDIN.JPG",
-            "publishedAt": "2026-04-29T21:55:38Z",
+            "id": "82f1f69adb097f118cc50df005bac88f",
+            "title": "Rakovina Therapeutics Inc. Announces 2025 Financial Results and Provides Corporate Update",
+            "description": "VANCOUVER, British Columbia, April 30, 2026 (GLOBE NEWSWIRE) -- Rakovina Therapeutics Inc. ('Rakovina” or the 'Company”) (TSX-V: RKV) (FSE: 7J0), a biopharmaceutical company advancing next-generation cancer therapies through artificial intelligence (AI)-powered drug discovery, today announced its financial results for the fourth quarter and fiscal year ended December 31, 2025, and provided a corporate update.",
+            "content": "VANCOUVER, British Columbia, April 30, 2026 (GLOBE NEWSWIRE) -- Rakovina Therapeutics Inc. (\"Rakovina” or the \"Company”) (TSX-V: RKV) (FSE: 7J0), a biopharmaceutical company advancing next-generation cancer therapies through artificial intelligence (... [11859 chars]",
+            "url": "https://www.manilatimes.net/2026/05/01/tmt-newswire/globenewswire/rakovina-therapeutics-inc-announces-2025-financial-results-and-provides-corporate-update/2333457",
+            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/01/1038024.png",
+            "publishedAt": "2026-04-30T21:22:59Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "652fca15d4fa3ae577b2c6af0cdb2a39",
+            "title": "Apple Beats Out Earnings Estimates With Continued IPhone Momentum",
+            "description": "Apple posted strong results for its quarterly earnings on Thursday, but investors’ attention is also focused on the upcoming CEO change and the tech firm's artificial intelligence strategy.",
+            "content": "Apple posted strong results for its quarterly earnings on Thursday, but investors’ attention is also focused on the upcoming CEO change and the tech firm's artificial intelligence strategy.\nApple CEO Tim Cook announced earlier this month he will be s... [2341 chars]",
+            "url": "https://www.usnews.com/news/business/articles/2026-04-30/apple-beats-out-earnings-estimates-with-continued-iphone-momentum",
+            "image": "https://www.usnews.com/dims4/USNEWS/6e3717e/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F2b%2Fecb89656069faee4a075c3ae7122a9%2F52c647c75db24d459feecf633737e581Apple_CEO_Change_69156.jpg",
+            "publishedAt": "2026-04-30T21:20:00Z",
+            "lang": "en",
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ec128df45da62e5f848911706fa3c059",
+            "title": "AI Sends Its Best Wishes to the US Economy",
+            "description": "The same platforms that make up facts about users’ lives are also driving the country’s economic growth.",
+            "content": "This is Bloomberg Opinion Today, the notoriously evasive figure at the helm of Bloomberg Opinion’s opinions. Sign up here.\nI don’t have a wife. Or a husband. But if I did have a spouse, I am not sure how much my AI would know about them, for the simp... [321 chars]",
+            "url": "https://www.bloomberg.com/opinion/newsletters/2026-04-30/ai-sends-its-best-wishes-to-the-us-economy",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipDHLukC5kwk/v0/1200x800.jpg",
+            "publishedAt": "2026-04-30T21:17:24Z",
+            "lang": "en",
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "9afa0fe8dea184a3a2ac023fa3cf8f31",
+            "title": "Your Google TV Is About To Look Very Different - Here Are All The New Changes",
+            "description": "Google TV is adding a YouTube Shorts row to the home screen, along with Nano Banana and Veo AI tools, Google Photos search, and more.",
+            "content": "For those with a Google TV-powered television or a standalone device like the Google TV Streamer, your experience is about to include some more doomscrolling. With Google now having a larger focus on its artificial intelligence assistant Gemini, the ... [2667 chars]",
+            "url": "https://www.bgr.com/2161519/all-changes-coming-google-tv-shorts-row/",
+            "image": "https://www.bgr.com/img/gallery/your-google-tv-is-about-to-look-very-different-here-are-all-the-new-changes/l-intro-1777578537.jpg",
+            "publishedAt": "2026-04-30T21:17:00Z",
+            "lang": "en",
+            "source": {
+                "id": "b98becfda029f124cf65538c8af36d20",
+                "name": "BGR",
+                "url": "https://www.bgr.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "41e94e0284e0cbb086d83e2401927782",
+            "title": "Meta workers checking its AI smart glasses 'watched wearers having sex'",
+            "description": "TECH giant Meta has been rocked by revelations that workers checking its AI smart glasses reportedly watched wearers having sex.\nThe firm boasts...",
+            "content": "TECH giant Meta has been rocked by revelations that workers checking its AI smart glasses reportedly watched wearers having sex.\nThe firm boasts of UK sales of more than a million of its Oakley and Ray-Ban branded glasses, which record and analyse wh... [1265 chars]",
+            "url": "https://www.thesun.co.uk/tech/38982787/meta-ai-glasses-workers-watched-sex/",
+            "image": "https://www.thesun.co.uk/wp-content/uploads/2026/04/RTRMADP_META-PLATFORMS-RAY-BAN-AI_899513602_RC21UGAST36E_2026-03-31T133918Zjpg-JS1070660173.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+            "publishedAt": "2026-04-30T21:13:50Z",
+            "lang": "en",
+            "source": {
+                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+                "name": "The Sun",
+                "url": "https://www.thesun.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "6e4835d30fdfab956c966876fffa76dc",
+            "title": "Trading Day: AI glow brightens, Japan intervenes",
+            "description": "U.S. stocks surged on Thursday to close a remarkable month on a high as strong tech earnings and investment figures suggested that the AI boom has much further to run, while the yen had its best day...",
+            "content": "ORLANDO, Florida, April 30 (Reuters) - U.S. stocks surged on Thursday to close a remarkable month on a high as strong tech earnings and investment figures suggested that the AI boom has much further to run, while the yen had its best day since 2022 a... [3959 chars]",
+            "url": "https://www.marketscreener.com/news/trading-day-ai-glow-brightens-japan-intervenes-ce7f58d8df8efe24",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-12T001013Z_1_LYNXMPEL4B007_RTROPTP_4_GLOBAL-FOREX.JPG",
+            "publishedAt": "2026-04-30T21:11:58Z",
             "lang": "en",
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -23,147 +103,67 @@
             }
         },
         {
-            "id": "ba4693b65664afee73bd31488366e33a",
-            "title": "Microsoft eases fears over AI costs",
-            "description": "Azure cloud-computing business reports 39 per cent revenue gain in boost for investor confidence",
-            "content": "Microsoft reported faster third-quarter sales growth in its cloud computing unit, easing investor concerns about the return on spending on artificial ­intelligence infrastructure.\nThe world’s largest software company said its Azure cloud-computing bu... [2381 chars]",
-            "url": "https://www.thetimes.com/business/technology/article/microsoft-eases-fears-over-ai-costs-mm9fsgfgr",
-            "image": "https://www.thetimes.com/imageserver/image/6cdeaacb-a4bc-438c-8357-f217e9cee7a6.jpg?strip=all&format=webp&crop=6690px%2C3763px%2C0px%2C348px&resize=1200",
-            "publishedAt": "2026-04-29T21:55:24Z",
+            "id": "143540aa20d3b7189ef16ac0d53d9c30",
+            "title": "UK is 'absolutely at the forefront' of AI in Europe, says man who taught Alexa to speak",
+            "description": "William Tunstall-Pedoe spoke to ITV News about his hopes and fears for the future of AI. | ITV National News",
+            "content": "The man behind the voice technology for Alexa says he was inspired by TV shows like Star Trek, where people had conversations with computers.\nNow, thanks to William Tunstall-Pedoe's invention, conversations with computers are commonplace.\nHowever, in... [4771 chars]",
+            "url": "https://www.itv.com/news/2026-04-30/uk-at-forefront-of-ai-in-europe-says-man-who-taught-alexa-to-speak",
+            "image": "https://images.ctfassets.net/pjshm78m9jt4/4W5GMuuGI2cGub67Q6dqgk/afe77a88cf2a26f5da9258d0f561ca83/ALEXA_INVENTOR_vt.transfer_frame_3242.jpeg?fm=jpg&fit=fill&w=1600&h=900&q=80",
+            "publishedAt": "2026-04-30T21:09:42Z",
             "lang": "en",
             "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
+                "id": "8058567c977e70457c45c65529cb9946",
+                "name": "ITV News",
+                "url": "https://www.itv.com",
                 "country": "gb"
             }
         },
         {
-            "id": "e81b8effb3357d187f1a6f4c6a70f87c",
-            "title": "centered AI healthcare essential for providing care",
-            "description": "Explore how human-centered AI healthcare is simplifying complex insurance workflows and creating connected experiences for millions of members.",
-            "content": "As AI transforms healthcare operations, the industry’s most consequential challenge has shifted from building models to deploying them responsibly in regulated workflows where trust, accuracy and human judgment must coexist. This is where human-cente... [3930 chars]",
-            "url": "https://siliconangle.com/2026/04/29/human-centered-ai-healthcare-essential-providing-care-googlecloudnext/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Danny-Brakebill-Venkat-Alladi-Balaji-Ramdoss-Clean.jpg",
-            "publishedAt": "2026-04-29T21:51:34Z",
+            "id": "d2c04ff365b8b79e100f4b2d695cbe5b",
+            "title": "Atlassian shares rally as Cannon-Brookes focuses on profitability, AI",
+            "description": "Chief executive Mike Cannon-Brookes, said customers were “signing bigger, longer deals” despite fears that artificial intelligence could hurt growth.",
+            "content": "Atlassian chief executive Mike Cannon-Brookes says the software giant is focused on reaching profitability and ending a decade of losses as a public company, while also investing in AI tools to upgrade its products.\nSydney-based Atlassian has been on... [270 chars]",
+            "url": "https://www.afr.com/technology/atlassian-shares-rally-as-cannon-brookes-focuses-on-profitability-ai-20260501-p5zssd",
+            "image": "https://static.ffx.io/images/$zoom_0.5008%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_849%2C$y_165/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/5ab45aaedb38495fc70e5c2c45f3d4159ef02c95",
+            "publishedAt": "2026-04-30T21:09:30Z",
             "lang": "en",
             "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "b4eaeff5e323babf5e1c766756bc18ea",
+            "title": "Apple's Strategic Shifts Amidst Supply Constraints Highlight Tech Sector Resilience",
+            "description": "Apple's fiscal second-quarter results surpassed Wall Street estimates, driven by new products and strategic leadership shifts, despite supply chain challenges impacting iPhone sales. The introduction of the MacBook Neo and strategic AI partnerships underline Apple's resilient adaptation in the competitive tech landscape.",
+            "content": "Apple reported fiscal second-quarter results surpassing Wall Street expectations, despite supply chain challenges restraining iPhone sales. Revenues reached $111.18 billion, translating to $2.01 per share, exceeding estimates emphasized by new leader... [679 chars]",
+            "url": "https://www.devdiscourse.com/article/technology/3892840-apples-strategic-shifts-amidst-supply-constraints-highlight-tech-sector-resilience",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_08_2025_11_09_13_6657547.png&width=920&format=jpeg",
+            "publishedAt": "2026-04-30T21:07:23Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "68e16fb81fcfc1e5cabb86c5260d8cf1",
+            "title": "Judge tells Elon Musk to cool it on the robot apocalypse talk",
+            "description": "Elon Musk made repeated references to an AI \"Terminator\" scenario while testifying before a California federal jury about OpenAI's for-profit move.",
+            "content": "Elon Musk repeatedly referenced an AI \"Terminator\" scenario while testifying about OpenAI.\nThe judge presiding over the trial shut down the AI doomsday talk on Thursday.\nMusk is suing over $38 million he donated to OpenAI's nonprofit, and AI safety i... [2144 chars]",
+            "url": "https://www.newsbreak.com/insider-562168/4623237722730-judge-tells-elon-musk-to-cool-it-on-the-robot-apocalypse-talk",
+            "image": "https://img.particlenews.com/img/id/27t57t_1AxTjsnd00",
+            "publishedAt": "2026-04-30T21:05:02Z",
+            "lang": "en",
+            "source": {
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
                 "country": "us"
-            }
-        },
-        {
-            "id": "70e3692d199195802448778a3dd45290",
-            "title": "Amazon Connect Talent: Amazon targets mass hiring with 'Agentic AI' software to humanize AI",
-            "description": "Amazon, which recruits thousands of employees each year, has finally got the solution to sort out mass hiring.\nThe world's leading e-commerce giant on Tuesday introduced new software ‌meant to...",
-            "content": "Amazon, which recruits thousands of employees each year, has finally got the solution to sort out mass hiring.\nThe world's leading e-commerce giant on Tuesday introduced new software ‌meant to speed up the process by excising a sizable chunk of the h... [2888 chars]",
-            "url": "https://www.thenews.com.pk/latest/1400881-amazon-connect-talent-amazon-targets-mass-hiring-with-agentic-ai-software-to-humanize-ai",
-            "image": "https://www.thenews.com.pk/assets/uploads/2026-04-30/1400881_024813_updates.jpg",
-            "publishedAt": "2026-04-29T21:49:00Z",
-            "lang": "en",
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            }
-        },
-        {
-            "id": "1c0c80e95b69dc63710d1e912952e564",
-            "title": "Stripe's Push to Bring AI to Payments, Commerce",
-            "description": "Stripe announced several new AI tools Wednesday, including a new partnership with Google, aimed at building AI tools for payments and commerce. Stripe President and co-founder John Collison...",
-            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/stripe-s-push-to-bring-ai-to-payments-commerce-ce7f58dade80ff2d",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3614559.png",
-            "publishedAt": "2026-04-29T21:48:57Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "fe892dc655202f287f8b4b00119aa4ec",
-            "title": "LinkedIn's AI hiring agents on track for $450 million in yearly revenue",
-            "description": "LinkedIn, the social network for professionals owned by Microsoft , on Wednesday said that its hiring ​products using what is known as agentic AI ‌are on track to generate $450 million in sales in the coming year.",
-            "content": "The sales disclosure for a core AI product is new for LinkedIn, ​which has 1 billion members and makes much of ​its revenue from selling tools to sales and recruiting ⁠professionals. While Microsoft reports LinkedIn's overall sales growth as part ​of... [1087 chars]",
-            "url": "https://www.reuters.com/business/linkedins-ai-hiring-agents-track-450-million-yearly-revenue-2026-04-29/",
-            "image": "https://www.reuters.com/resizer/v2/RNMJJS6S7FKQHHTKPGZ6TYZL6Q.jpg?auth=1be8ad82d49ded4ffcfb29b0826bb651f505151b739bf8f734656388cf0a86e8&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-04-29T21:46:10Z",
-            "lang": "en",
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "de089dbee70b0cb0531d4d402037f549",
-            "title": "Growing demand for cloud services helps Amazon beat expectations",
-            "description": "Revenue rose to $181.5 billion in the first quarter, a sign that investments in AI infrastructure, such as data centres and semiconductors, may be bearing fruit",
-            "content": "Growing demand for Amazon’s cloud computing business helped it to beat expectations in the first quarter, a sign that its huge investments in the infrastructure underpinning artificial intelligence may be bearing fruit.\nRevenue across the group rose ... [1913 chars]",
-            "url": "https://www.thetimes.com/business/technology/article/cloud-services-help-amazon-beat-expectations-tfrdsv7fq",
-            "image": "https://www.thetimes.com/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4ae09eb3-944f-4a2b-b6b7-1879d5506516.jpg?strip=all&format=webp&crop=4032px%2C2268px%2C0px%2C0px&resize=1200",
-            "publishedAt": "2026-04-29T21:45:10Z",
-            "lang": "en",
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "2a86219fa140a96bdc7486e571f1ff88",
-            "title": "AI runtime security for the agentic enterprise",
-            "description": "AI runtime security is evolving to protect autonomous agents and sensitive data as organizations move AI models into production environments.",
-            "content": "As enterprises push agentic AI out of the proof-of-concept phase and into production, AI runtime security — the ability to enforce policy at the exact moment an agent acts — is proving to be the bedrock that makes autonomous systems safe enough to tr... [3399 chars]",
-            "url": "https://siliconangle.com/2026/04/29/ai-runtime-security-agentic-enterprise-googlecloudnext/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/image-14.png",
-            "publishedAt": "2026-04-29T21:43:21Z",
-            "lang": "en",
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "707af4d3cfa2893402840579edb0336c",
-            "title": "Big US tech stocks swing as investors probe AI spend",
-            "description": "Meta, Amazon, Alphabet, and Microsoft all reported their financial performance at the same time on Wednesday",
-            "content": "The share prices of the biggest tech firms in the US swung up and down as investors considered their immense spending on artificial intelligence (AI).\nFacebook's owner Meta, Google's owner Alphabet, Microsoft, and Amazon all reported their business r... [3128 chars]",
-            "url": "https://www.bbc.com/news/articles/crkpd4r2y7eo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d6a0/live/137a2f70-43f1-11f1-9113-1988573e8ff7.jpg",
-            "publishedAt": "2026-04-29T21:41:41Z",
-            "lang": "en",
-            "source": {
-                "id": "109f2b4a20da4fe1c2fd502b03c07243",
-                "name": "BBC News",
-                "url": "https://www.bbc.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "f319fc1011758551d9a58d5c7cf1d8b6",
-            "title": "Stocks to Watch : Meta Platforms, Alphabet, Qualcomm, Amazon.com",
-            "description": "By Elias Schisgall\nMeta Platforms said it expects to spend more on artificial-intelligence data centers this year than it had previously forecast. Shares fell 6.5%, to $626.00, after the market...",
-            "content": "By Elias Schisgall\nMeta Platforms said it expects to spend more on artificial-intelligence data centers this year than it had previously forecast. Shares fell 6.5%, to $626.00, after the market closed.\nAlphabet, Google's parent company, reported a 22... [530 chars]",
-            "url": "https://www.marketscreener.com/news/stocks-to-watch-meta-platforms-alphabet-qualcomm-amazon-com-ce7f58dad088fe2d",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-04-29T21:41:00Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
             }
         }
     ]
