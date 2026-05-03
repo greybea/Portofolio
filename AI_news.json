@@ -4,48 +4,64 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 324028,
+    "totalArticles": 324419,
     "articles": [
         {
-            "id": "464b9b90a525cbf327d7fcbb3179b285",
-            "title": "AI Performances And Screenplays Won't Be Eligible For Oscars",
-            "description": "Will that stop them from taking over?",
-            "content": "Sorry, Val Kilmer fans, but the late actor's Oscar ship has officially sailed. On Friday, Reuters reported that AI-generated acting and writing won't be eligible for Academy Awards. The new rules from the Academy ​of Motion Picture Arts and Sciences ... [1507 chars]",
-            "url": "https://www.engadget.com/2162342/ai-performances-and-screenplays-wont-be-eligible-for-oscars/",
-            "image": "https://www.engadget.com/img/gallery/ai-performances-and-screenplays-wont-be-eligible-for-oscars/l-intro-1777668452.jpg",
-            "publishedAt": "2026-05-01T20:52:05Z",
+            "id": "f06bfb0aa7f7ff1f09283b6369dad4a9",
+            "title": "GE Vernova’s riding geopolitics and AI for a spectacular surge",
+            "description": "First quarter results showed its order book swelling by US$18.3 billion, a growth of more than 70 per cent year on year. Read more at straitstimes.com.",
+            "content": "Consider this: In November 2021, when General Electric chief executive Larry Culp announced he was splitting America’s best-known engineering firm into three – GE Aerospace, GE Healthcare Technologies and GE Vernova – the combined entity had a market... [9412 chars]",
+            "url": "https://www.straitstimes.com/opinion/ge-vernovas-riding-geopolitics-and-ai-for-a-spectacular-surge",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/0c2ae981f92c2df4848593fa623b3443992a8477855876c719b33deab8c48bfc",
+            "publishedAt": "2026-05-02T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "549a7a859b2345bbe231b00e7244ef99",
-                "name": "Engadget",
-                "url": "https://www.engadget.com",
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "629db951a85d0ab45c6c825f31407b89",
+            "title": "Academy announces major overhaul to rules",
+            "description": "The new rules focus on areas such as AI protections for writers and actors and expanded eligibility for international films.",
+            "content": "The Academy of Motion Picture Arts and Sciences has announced several significant rule changes for the 99th Oscars, including AI protections for actors and writers as well as expanded eligibility for international films.\nIn a statement to NPR, the Ac... [3148 chars]",
+            "url": "https://www.npr.org/2026/05/02/nx-s1-5808894/oscars-2027-99th-academy-awards-rule-changes",
+            "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5236x2945+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1c%2F10%2F55caaa67429899f09e0b82dba910%2Fgettyimages-2266064851.jpg",
+            "publishedAt": "2026-05-02T20:34:59Z",
+            "lang": "en",
+            "source": {
+                "id": "b41851fb2662ea502db29f71ec4d1583",
+                "name": "NPR",
+                "url": "https://www.npr.org",
                 "country": "us"
             }
         },
         {
-            "id": "0302e6322b4dfb9ef783756b2b84447e",
-            "title": "AI actors and writers not eligible for Oscars: The Academy",
-            "description": "The Academy has ruled that AI-generated actors and screenplays will not qualify for Oscars, making human performance and authorship mandatory. The new rules come amid growing use of artificial intelligence in filmmaking and days after an AI version of Val Kilmer was unveiled.",
-            "content": "Actors created with artificial intelligence will not be eligible for an Oscar, the Academy of Motion Picture Arts and Sciences said Friday as it launched a crackdown on the use of AI.\nAcademy says AI actors, writers not eligible for Oscars\nNew rules ... [2785 chars]",
-            "url": "https://www.livemint.com/news/us-news/ai-actors-and-writers-not-eligible-for-oscars-academy-11777666668648.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/Oscars_1777667845209_1777667845442.jpg",
-            "publishedAt": "2026-05-01T20:42:37Z",
+            "id": "09c4e244e3f2dc4b3e501eaa34ce2fab",
+            "title": "Quote of the day by OpenAI CEO Sam Altman: “What I lose the most sleep over is the hypothetical idea that we already have done something really bad by launching ChatGPT”",
+            "description": "Tech News News: AI has quickly moved from research labs to everyday life, changing how people talk to each other, look for information, and do their jobs. This change.",
+            "content": "OpenAI CEO Sam Altman\nAI has quickly moved from research labs to everyday life, changing how people talk to each other, look for information, and do their jobs. This change is mostly because of ChatGPT, a tool made by OpenAI that millions of people a... [6264 chars]",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/quote-of-the-day-by-openai-ceo-sam-altman-what-i-lose-the-most-sleep-over-is-the-hypothetical-idea-that-we-already-have-done-something-really-bad-by-launching-chatgpt/articleshow/130724072.cms",
+            "image": "https://static.toiimg.com/thumb/msid-130724074,width-1280,height-720,imgsize-28484,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-02T20:34:00Z",
             "lang": "en",
             "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "304f8aebc959bb02745d934534ca6588",
-            "title": "Half of teenage girls in survey use AI for advice",
-            "description": "More than half of teenage girls in Japan who use generative artificial intelligence solicit AI's advice on personal worries, a recent government survey found, highlighting the technology's growing role among young women. According to the survey covering AI users conducted by the Cabinet Office's consumer panel, 52.4 percent of teenage…",
-            "content": "More than half of teenage girls in Japan who use generative artificial intelligence solicit AI's advice on personal worries, a recent government survey found, highlighting the technology's growing role among young women.\nAccording to the survey cover... [1728 chars]",
-            "url": "https://japantoday.com/category/national/half-of-teenage-girls-in-japan-use-ai-for-advice-gov%27t-survey",
-            "image": "https://media.japantoday.com/img/store/4e/78/61c4e183ad4fdcfe035c99873d38d6f215e3/istock-2221155403/_w1700.jpeg",
-            "publishedAt": "2026-05-01T20:42:00Z",
+            "id": "666ef35723532a37e114ea58da8b1674",
+            "title": "U.S. military reaches deals with 7 tech companies to use their AI on classified systems",
+            "description": "The Pentagon says it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks, allowing the military to tap into AI-powered capabilities to help it fight wars. Google, Microsoft, Amazon Web Services, Nvidia, OpenAI, Reflection and SpaceX will provide their resources to help…",
+            "content": "The Pentagon says it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks, allowing the military to tap into AI-powered capabilities to help it fight wars.\nGoogle, Microsoft, Amazon Web ... [5969 chars]",
+            "url": "https://japantoday.com/category/tech/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems",
+            "image": "https://media.japantoday.com/img/store/7f/a3/efb5584ddeca80f9c16be479357c1f865d01/download/_w1700.jpeg",
+            "publishedAt": "2026-05-02T20:30:00Z",
             "lang": "en",
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -55,61 +71,61 @@
             }
         },
         {
-            "id": "5806daacee0c4329d51233785fed9fdb",
-            "title": "Half of teenage girls in survey use AI for advice",
-            "description": "More than half of teenage girls in Japan who use generative artificial intelligence solicit AI's advice on personal worries, a recent government survey found, highlighting the technology's growing role among young women. According to the survey covering AI users conducted by the Cabinet Office's consumer panel, 52.4 percent of teenage…",
-            "content": "More than half of teenage girls in Japan who use generative artificial intelligence solicit AI's advice on personal worries, a recent government survey found, highlighting the technology's growing role among young women.\nAccording to the survey cover... [1728 chars]",
-            "url": "https://japantoday.com/category/national/half-of-teenage-girls-in-japan-use-ai-for-advice-gov't-survey",
-            "image": "https://media.japantoday.com/img/store/4e/78/61c4e183ad4fdcfe035c99873d38d6f215e3/istock-2221155403/_w1700.jpeg",
-            "publishedAt": "2026-05-01T20:42:00Z",
+            "id": "ff27b1a9dfb22652f87f1b801969bf6e",
+            "title": "Judge Blocks Enforcement Of Colorado's New DEI-Driven AI Law",
+            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+            "content": "Authored by Jacki Thrapp via The Epoch Times,\nA federal judge has temporarily blocked the State of Colorado from enforcing a first-of-its-kind artificial intelligence law.\nColorado is prohibited from taking enforcement actions on alleged violations o... [2360 chars]",
+            "url": "https://www.zerohedge.com/ai/judge-blocks-enforcement-colorados-new-dei-driven-ai-law",
+            "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-05/image%20-%202026-05-02T142932.462.jpg?itok=VzALcqKi",
+            "publishedAt": "2026-05-02T20:20:00Z",
             "lang": "en",
             "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "99435beb4aac1005a58dbe2b68fb5df0",
-            "title": "XMax Announces AI Model Agreement, Marking Major Milestone",
-            "description": "LOS ANGELES, May 01, 2026 (GLOBE NEWSWIRE) -- XMax Inc. (NASDAQ: XWIN, the “Company” or “XMax”) today announced that its wholly owned subsidiary, XMax AI...",
-            "content": "LOS ANGELES, May 01, 2026 (GLOBE NEWSWIRE) -- XMax Inc. (NASDAQ: XWIN, the “Company” or “XMax”) today announced that its wholly owned subsidiary, XMax AI Inc., has entered into an API Model Procurement Agreement (the “Agreement”) to provide its custo... [4279 chars]",
-            "url": "https://www.globenewswire.com/news-release/2026/05/01/3286225/37029/en/xmax-announces-ai-model-agreement-marking-major-milestone-for-its-ai-business.html",
-            "image": "https://ml.globenewswire.com/Resource/Download/e10d1bfc-a129-4ecb-a8d1-7a1d339f22eb",
-            "publishedAt": "2026-05-01T20:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
+                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+                "name": "ZeroHedge",
+                "url": "https://www.zerohedge.com",
                 "country": "us"
             }
         },
         {
-            "id": "0ef881fd118ce7a2ff816fd2f3a98ef6",
-            "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-            "description": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
-            "content": "In an Instagram video posted on April 1, lifestyle influencer Melissa Strahle poses outdoors before an American flag as soft instrumental music plays. “AI lets me focus on what matters most,” she tells her 1.4 million followers. “We need to invest in... [9325 chars]",
-            "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
-            "image": "https://media.wired.com/photos/69f14b40d98ff026bfabf317/191:100/w_1280,c_limit/Made-In-China-Super-PAC-Backed-By-OpenAI-Palantir-Paying-TikTok-Influencers-Business.jpg",
-            "publishedAt": "2026-05-01T20:25:28Z",
+            "id": "acd417762745d74fd6344ebeb57d6afe",
+            "title": "Trump Floods Truth Social With AI Photos: From Shirtless Pool Pic to Mount Rushmore",
+            "description": "President Donald Trump capped off his Friday night with a late burst of AI-generated images on Truth Social, including one showing him and several Cabinet members shirtless and relaxing in the Lincoln Memorial Reflecting Pool, which is currently undergoing a renovation project he ordered. , US News, Times Now",
+            "content": "The post went up at 11:03 p.m. local time without any caption. (Image: Truth Social)\nJust before midnight on Friday, Donald Trump took to Truth Social with a series of posts that stopped people mid-scroll. The president shared a collection of AI-gene... [2799 chars]",
+            "url": "https://www.timesnownews.com/world/us/us-news/trump-floods-truth-social-with-ai-photos-from-shirtless-pool-pic-to-mount-rushmore-article-154226836",
+            "image": "https://images.timesnownews.com/thumb/msid-154226836,width-1280,height-720,resizemode-75/154226836.jpg",
+            "publishedAt": "2026-05-02T20:17:40Z",
             "lang": "en",
             "source": {
-                "id": "b683218c3952d77a76b7bda7512f2f6e",
-                "name": "WIRED",
-                "url": "https://www.wired.com",
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "63263a4ba82b1bc4c7e3123731ca9317",
+            "title": "11 Ways To Get The Most Out Of Your New PC",
+            "description": "New computers aren't cheap, and with artificial intelligence driving prices higher, it's more important than ever to get the most out of yours.",
+            "content": "We may receive a commission on purchases made from links.\nGiven the sheer amount of money required to set up a computer nowadays due to the AI boom, it's easy to see why any new member of the PC family would be salivating at the prospect of using eit... [15396 chars]",
+            "url": "https://www.bgr.com/2157900/ways-get-most-out-of-new-pc/",
+            "image": "https://www.bgr.com/img/gallery/11-ways-to-get-the-most-out-of-your-new-pc/l-intro-1777291314.jpg",
+            "publishedAt": "2026-05-02T20:02:00Z",
+            "lang": "en",
+            "source": {
+                "id": "b98becfda029f124cf65538c8af36d20",
+                "name": "BGR",
+                "url": "https://www.bgr.com",
                 "country": "us"
             }
         },
         {
-            "id": "ee1b2d24062cd6ba67230c831fc5a6f1",
-            "title": "Meta chief Zuckerberg doubles down on AI spending",
-            "description": "Meta chief Mark Zuckerberg this week defended massive spending on artificial intelligence that dragged down shares despite strong earnings boosted by the technology. The social networking colossus raised its capital expenditures for this year to a range of $125 billion to $145 billion without laying out exactly how that investment…",
-            "content": "Meta chief Mark Zuckerberg this week defended massive spending on artificial intelligence that dragged down shares despite strong earnings boosted by the technology.\nThe social networking colossus raised its capital expenditures for this year to a ra... [2608 chars]",
-            "url": "https://japantoday.com/category/tech/meta-chief-zuckerberg-doubles-down-on-ai-spending",
-            "image": "https://media.japantoday.com/img/store/bf/3b/c8fc9e00076e3958546784be5859877b9722/d99c494ac1844825d28b7836bf103be763121aa1/_w1700.jpeg",
-            "publishedAt": "2026-05-01T20:25:00Z",
+            "id": "d30c8cfb03eca7ba876893b5e5360753",
+            "title": "College students wary of the job market are changing course in search of 'AI-proof' majors",
+            "description": "Two years ago, Josephine Timperman arrived at college with a plan. She declared a major in business analytics, figuring she'd learn niche skills that would stand out on a resume and help land a good job after college. But the rise of artificial intelligence has scrambled those calculations. The basic…",
+            "content": "Two years ago, Josephine Timperman arrived at college with a plan. She declared a major in business analytics, figuring she'd learn niche skills that would stand out on a resume and help land a good job after college.\nBut the rise of artificial intel... [5215 chars]",
+            "url": "https://japantoday.com/category/business/college-students-wary-of-the-job-market-are-changing-course-in-search-of-'ai-proof'-majors",
+            "image": "https://media.japantoday.com/img/store/29/e7/1e17fb3fc5fe49fca061b9c4678ea3aaac01/download/_w1700.jpeg",
+            "publishedAt": "2026-05-02T20:00:00Z",
             "lang": "en",
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -119,29 +135,13 @@
             }
         },
         {
-            "id": "3c9ca1e18a1c0d4ee743d22947026c96",
-            "title": "Dr. Crandall: AI Breakthrough Detects Pancreatic Cancer Earlier",
-            "description": "Mayo Clinic researchers have developed an AI program that diagnosed pancreatic cancer three years earlier than it is typically diagnosed.",
-            "content": "A new artificial intelligence (AI) tool developed by Mayo Clinic researchers helped doctors detect pancreatic cancer as much as three years earlier than it is typically diagnosed.\nThe technology, known as the Radiomics-based Early Detection Model (RE... [2786 chars]",
-            "url": "https://www.newsmax.com/health/health-news/cancer-pancreatic-artificial-intelligence/2026/05/01/id/1254936/",
-            "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=f9ef1b9b-3abb-4035-baeb-7cbef342b3f3&SiteName=Newsmax",
-            "publishedAt": "2026-05-01T20:23:46Z",
-            "lang": "en",
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b55719c5ec6023fd7bdd0a55e216ca6d",
-            "title": "Oscars organization expands international film eligibility, addresses AI in new rules",
-            "description": "The organization behind the Oscars is for the first time addressing the use of artificial intelligence in performances and scripts for the 2027 Academy Awards. The Academy of Motion Picture Arts and Sciences on Friday released updates across many categories, stressing the importance of human authorship while not banning AI.…",
-            "content": "The organization behind the Oscars is for the first time addressing the use of artificial intelligence in performances and scripts for the 2027 Academy Awards. The Academy of Motion Picture Arts and Sciences on Friday released updates across many cat... [5335 chars]",
-            "url": "https://japantoday.com/category/entertainment/oscars-organization-expands-international-film-eligibility-addresses-ai-in-new-rules",
-            "image": "https://media.japantoday.com/img/store/d1/0a/b7a2d07949803cf72c62507b5194a2e5dca7/download-1/_w1700.jpeg",
-            "publishedAt": "2026-05-01T20:10:00Z",
+            "id": "3d03f3ab07f71d0c3ecc04ab77c90b5e",
+            "title": "College students wary of the job market are changing course in search of 'AI-proof' majors",
+            "description": "Two years ago, Josephine Timperman arrived at college with a plan. She declared a major in business analytics, figuring she'd learn niche skills that would stand out on a resume and help land a good job after college. But the rise of artificial intelligence has scrambled those calculations. The basic…",
+            "content": "Two years ago, Josephine Timperman arrived at college with a plan. She declared a major in business analytics, figuring she'd learn niche skills that would stand out on a resume and help land a good job after college.\nBut the rise of artificial intel... [5215 chars]",
+            "url": "https://japantoday.com/category/business/college-students-wary-of-the-job-market-are-changing-course-in-search-of-%27ai-proof%27-majors",
+            "image": "https://media.japantoday.com/img/store/29/e7/1e17fb3fc5fe49fca061b9c4678ea3aaac01/download/_w1700.jpeg",
+            "publishedAt": "2026-05-02T20:00:00Z",
             "lang": "en",
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -151,18 +151,18 @@
             }
         },
         {
-            "id": "be17c41ea7dd04da9ca834831d7fdc2f",
-            "title": "Meta Does Things Their Own Way",
-            "description": "Meta Platforms is reshaping advertising with its AI chips and full-stack infra—boosting revenue and scaling AI ad automation. Click for this META stock update.",
-            "content": "Meta Does Things Their Own Way\nEric Sprague\n5.38K Followers\nComments\n(3)\nSummary\nMeta Platforms, Inc. is transforming advertising through custom AI chips and full-stack infrastructure control, driving exceptional revenue growth.\nMETA’s unique co-desi... [3080 chars]",
-            "url": "https://seekingalpha.com/article/4897603-meta-does-things-their-own-way",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2188450078/image_2188450078.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-05-01T20:06:23Z",
+            "id": "416d21458b754b50fd22c5641f9945f0",
+            "title": "In the PR battle for AI data centers, tech giants got a blue-collar ally",
+            "description": "Building trades unions have long been considered a voice of the American worker. But they now are intertwined with the richest companies in the world as they create America’s artificial intelligence economy.",
+            "content": "HARRISBURG, Pa. — Building trades unions — long fashioned as the voice of the American worker — are now intertwined with the richest companies in the world as they create America’s artificial intelligence economy.\nUnionized workers are employed on a ... [7172 chars]",
+            "url": "https://www.adn.com/nation-world/2026/05/02/in-the-pr-battle-for-ai-data-centers-tech-giants-got-a-blue-collar-ally/",
+            "image": "https://www.adn.com/resizer/v2/36MP62YD5NKP647J6ABMW47H44.jpg?smart=true&auth=572712f7141799851a64a6117b969e7a287030dd2d7124e5616bf7dc0f8ebae0&width=1200&height=630",
+            "publishedAt": "2026-05-02T19:56:20Z",
             "lang": "en",
             "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
+                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
+                "name": "Anchorage Daily News",
+                "url": "https://www.adn.com",
                 "country": "us"
             }
         }
