@@ -4,64 +4,112 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 324419,
+    "totalArticles": 324768,
     "articles": [
         {
-            "id": "f06bfb0aa7f7ff1f09283b6369dad4a9",
-            "title": "GE Vernova’s riding geopolitics and AI for a spectacular surge",
-            "description": "First quarter results showed its order book swelling by US$18.3 billion, a growth of more than 70 per cent year on year. Read more at straitstimes.com.",
-            "content": "Consider this: In November 2021, when General Electric chief executive Larry Culp announced he was splitting America’s best-known engineering firm into three – GE Aerospace, GE Healthcare Technologies and GE Vernova – the combined entity had a market... [9412 chars]",
-            "url": "https://www.straitstimes.com/opinion/ge-vernovas-riding-geopolitics-and-ai-for-a-spectacular-surge",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/0c2ae981f92c2df4848593fa623b3443992a8477855876c719b33deab8c48bfc",
-            "publishedAt": "2026-05-02T21:00:00Z",
+            "id": "0e44b5d4f6c7a80f0e6031b2aa945dfd",
+            "title": "Nurses harness AI to help quantify their instincts about patient care",
+            "description": "Hospital nurses are often so busy that they have trouble finding time for a bathroom break. Over an eight- to 12-hour shift, they're keeping tabs on multiple patients: checking their vital signs, administering medication, and chatting with family members who've come to visit. Occasionally, a patient seems off, looking tired or pale or drowsier than normal. But if objective measures such as blood pressure and heart rate are normal, it's hard for a nurse to justify pulling the physician out of rounds to check on the patient. Plus, there's not much time to interrogate a gut feeling before moving on to the next room.",
+            "content": "Hospital nurses are often so busy that they have trouble finding time for a bathroom break. Over an eight- to 12-hour shift, they're keeping tabs on multiple patients: checking their vital signs, administering medication, and chatting with family mem... [6302 chars]",
+            "url": "https://medicalxpress.com/news/2026-04-nurses-harness-ai-quantify-instincts.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/nurse.jpg",
+            "publishedAt": "2026-05-03T22:00:01Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
             }
         },
         {
-            "id": "629db951a85d0ab45c6c825f31407b89",
-            "title": "Academy announces major overhaul to rules",
-            "description": "The new rules focus on areas such as AI protections for writers and actors and expanded eligibility for international films.",
-            "content": "The Academy of Motion Picture Arts and Sciences has announced several significant rule changes for the 99th Oscars, including AI protections for actors and writers as well as expanded eligibility for international films.\nIn a statement to NPR, the Ac... [3148 chars]",
-            "url": "https://www.npr.org/2026/05/02/nx-s1-5808894/oscars-2027-99th-academy-awards-rule-changes",
-            "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5236x2945+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1c%2F10%2F55caaa67429899f09e0b82dba910%2Fgettyimages-2266064851.jpg",
-            "publishedAt": "2026-05-02T20:34:59Z",
+            "id": "3174e32666e51432327e1d8cae0a4a27",
+            "title": "The biggest surprise of my recent San Francisco trip? Hearing how much Steve Wozniak loves his iPhone Air",
+            "description": "The Apple co-founder also has some AI skepticism",
+            "content": "Whether it's rocket car launches, the reveal of the most gaudy phones you’ve ever seen, or a fingerprint-scanning smart fridge debut, Dreame Next was full of surprises — but the most exciting for me was easily the appearance of Steve Wozniak. It turn... [3869 chars]",
+            "url": "https://www.techradar.com/tech/the-biggest-surprise-of-my-recent-san-francisco-trip-hearing-how-much-steve-wozniak-loves-his-iphone-air",
+            "image": "https://cdn.mos.cms.futurecdn.net/zUJmUippwXoFWbPt2uQNvM-2560-80.jpg",
+            "publishedAt": "2026-05-03T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "b41851fb2662ea502db29f71ec4d1583",
-                "name": "NPR",
-                "url": "https://www.npr.org",
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "76fed3835c9e76567fbc650dfa9e3933",
+            "title": "Apple raises Mac Mini’s starting price as AI frenzy drains supply",
+            "description": "The company is effectively increasing the price by removing the entry-level configuration, a model that includes an M4 processor and 256 gigabytes of storage.",
+            "content": "San Francisco | Apple raised the starting price of its Mac mini desktop to $US799 ($1107) from $US599, adjusting to inventory shortages driven by AI demand and the tight supply of processors.\nThe company is effectively increasing the price by removin... [256 chars]",
+            "url": "https://www.afr.com/world/north-america/apple-raises-mac-mini-s-starting-price-as-ai-frenzy-drains-supply-20260504-p5ztdr",
+            "image": "https://static.ffx.io/images/$zoom_0.4236%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_355/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/afee088977b21c1748d7fb4e135b9e055a3aa2b2",
+            "publishedAt": "2026-05-03T21:36:39Z",
+            "lang": "en",
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "3daa651a9382ef35713b43a6ad2d4d89",
+            "title": "OpenAI opens ChatGPT subscriptions to OpenClaw's 3.2M users as Anthropic blocks Claude access to the AI agent platform",
+            "description": "ChatGPT subscribers can now run OpenClaw's AI agents via GPT-5.4 for $23/mo. Anthropic blocked Claude. OpenAI and Anthropic made opposite bets on the same product.",
+            "content": "TL;DR\nOpenAI has opened ChatGPT subscriptions to OpenClaw, the open-source AI agent framework with 346,000 GitHub stars and 3.2 million users, allowing subscribers to run autonomous agents via GPT-5.4 for $23 per month. The move is the opposite of An... [8349 chars]",
+            "url": "https://thenextweb.com/news/openai-openclaw-chatgpt-subscription-agent",
+            "image": "https://media.thenextweb.com/2026/05/openai-openclaw-chatgpt-subscription-agent.avif",
+            "publishedAt": "2026-05-03T21:15:46Z",
+            "lang": "en",
+            "source": {
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
                 "country": "us"
             }
         },
         {
-            "id": "09c4e244e3f2dc4b3e501eaa34ce2fab",
-            "title": "Quote of the day by OpenAI CEO Sam Altman: “What I lose the most sleep over is the hypothetical idea that we already have done something really bad by launching ChatGPT”",
-            "description": "Tech News News: AI has quickly moved from research labs to everyday life, changing how people talk to each other, look for information, and do their jobs. This change.",
-            "content": "OpenAI CEO Sam Altman\nAI has quickly moved from research labs to everyday life, changing how people talk to each other, look for information, and do their jobs. This change is mostly because of ChatGPT, a tool made by OpenAI that millions of people a... [6264 chars]",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/quote-of-the-day-by-openai-ceo-sam-altman-what-i-lose-the-most-sleep-over-is-the-hypothetical-idea-that-we-already-have-done-something-really-bad-by-launching-chatgpt/articleshow/130724072.cms",
-            "image": "https://static.toiimg.com/thumb/msid-130724074,width-1280,height-720,imgsize-28484,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-02T20:34:00Z",
+            "id": "c6e68eab98c441eb0c2de15d1497e9be",
+            "title": "Hong Kong is the hub for China's AI IPOs. It can be so much more than that",
+            "description": "There’s more to Hong Kong than just finance and venture capital.",
+            "content": "It’s clear what locations are shaping China’s AI landscape: Shenzhen, Hangzhou and Beijing, for example. But what about Hong Kong, the most international and open city on Chinese soil? What is its role in China’s AI revolution? Must it play second fi... [4923 chars]",
+            "url": "https://fortune.com/2026/05/03/hong-kong-chinese-ai-boom-ipos-governance/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2267044457-e1777736992257.jpg?resize=1200,600",
+            "publishedAt": "2026-05-03T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
             }
         },
         {
-            "id": "666ef35723532a37e114ea58da8b1674",
-            "title": "U.S. military reaches deals with 7 tech companies to use their AI on classified systems",
-            "description": "The Pentagon says it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks, allowing the military to tap into AI-powered capabilities to help it fight wars. Google, Microsoft, Amazon Web Services, Nvidia, OpenAI, Reflection and SpaceX will provide their resources to help…",
-            "content": "The Pentagon says it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks, allowing the military to tap into AI-powered capabilities to help it fight wars.\nGoogle, Microsoft, Amazon Web ... [5969 chars]",
-            "url": "https://japantoday.com/category/tech/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems",
-            "image": "https://media.japantoday.com/img/store/7f/a3/efb5584ddeca80f9c16be479357c1f865d01/download/_w1700.jpeg",
-            "publishedAt": "2026-05-02T20:30:00Z",
+            "id": "bf2f51f3229c55f51b426c43c64c77d0",
+            "title": "Hong Kong is the hub for China’s AI IPOs. It can be so much more than that",
+            "description": "There’s more to Hong Kong than just finance and venture capital.",
+            "content": "The past two years have been nothing short of extraordinary when it comes to the surge in investor confidence in China’s AI sector. Startups like Moonshot AI and giants like Alibaba are now part of the global AI conversation; no discussion of AI, eve... [5279 chars]",
+            "url": "https://www.newsbreak.com/fortune-561435/4629499599713-hong-kong-is-the-hub-for-china-s-ai-ipos-it-can-be-so-much-more-than-that",
+            "image": "https://img.particlenews.com/img/id/0KfFqY_1B2nEgBN00",
+            "publishedAt": "2026-05-03T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "e98c20b3998e6d88d11e503cc2d314d8",
+            "title": "AI data center boom is leaving consumer electronics short of chips",
+            "description": "The boom in data center construction is taking up much of the supply of high-tech components, especially processor and memory chips. This demand is squeezing consumer device makers, which are having trouble acquiring enough chips. This is happening even though data center servers and smartphones use different types of chips.…",
+            "content": "The boom in data center construction is taking up much of the supply of high-tech components, especially processor and memory chips. This demand is squeezing consumer device makers, which are having trouble acquiring enough chips.\nThis is happening e... [8711 chars]",
+            "url": "https://japantoday.com/category/tech/ai-data-center-boom-is-leaving-consumer-electronics-short-of-chips-%E2%88%92-even-though-they-don%E2%80%99t-use-the-same-kinds",
+            "image": "https://media.japantoday.com/img/store/a0/68/8f14a6283db2e6172828ab0f5ce016d373bf/istock-2230807736/_w1700.jpeg",
+            "publishedAt": "2026-05-03T21:00:00Z",
             "lang": "en",
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -71,98 +119,50 @@
             }
         },
         {
-            "id": "ff27b1a9dfb22652f87f1b801969bf6e",
-            "title": "Judge Blocks Enforcement Of Colorado's New DEI-Driven AI Law",
-            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-            "content": "Authored by Jacki Thrapp via The Epoch Times,\nA federal judge has temporarily blocked the State of Colorado from enforcing a first-of-its-kind artificial intelligence law.\nColorado is prohibited from taking enforcement actions on alleged violations o... [2360 chars]",
-            "url": "https://www.zerohedge.com/ai/judge-blocks-enforcement-colorados-new-dei-driven-ai-law",
-            "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-05/image%20-%202026-05-02T142932.462.jpg?itok=VzALcqKi",
-            "publishedAt": "2026-05-02T20:20:00Z",
+            "id": "8617ae3e288a9a6e66b3ce1c72fe638f",
+            "title": "The quiet erosion of agency in the age of AI",
+            "description": "The quiet erosion of agency in the age of AI - SiliconANGLE",
+            "content": "Enterprises are moving fast to embed artificial intelligence into everything from customer interactions to decision-making. The benefits are undeniable: speed, efficiency and scale.\nThe danger isn’t necessarily sudden or dramatic. It’s quieter, more ... [6328 chars]",
+            "url": "https://siliconangle.com/2026/05/03/quiet-erosion-agency-age-ai/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/aiwatchingai-1.png",
+            "publishedAt": "2026-05-03T20:59:32Z",
             "lang": "en",
             "source": {
-                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
-                "name": "ZeroHedge",
-                "url": "https://www.zerohedge.com",
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
                 "country": "us"
             }
         },
         {
-            "id": "acd417762745d74fd6344ebeb57d6afe",
-            "title": "Trump Floods Truth Social With AI Photos: From Shirtless Pool Pic to Mount Rushmore",
-            "description": "President Donald Trump capped off his Friday night with a late burst of AI-generated images on Truth Social, including one showing him and several Cabinet members shirtless and relaxing in the Lincoln Memorial Reflecting Pool, which is currently undergoing a renovation project he ordered. , US News, Times Now",
-            "content": "The post went up at 11:03 p.m. local time without any caption. (Image: Truth Social)\nJust before midnight on Friday, Donald Trump took to Truth Social with a series of posts that stopped people mid-scroll. The president shared a collection of AI-gene... [2799 chars]",
-            "url": "https://www.timesnownews.com/world/us/us-news/trump-floods-truth-social-with-ai-photos-from-shirtless-pool-pic-to-mount-rushmore-article-154226836",
-            "image": "https://images.timesnownews.com/thumb/msid-154226836,width-1280,height-720,resizemode-75/154226836.jpg",
-            "publishedAt": "2026-05-02T20:17:40Z",
+            "id": "9813acf5a691bf83c0d1300287d90d50",
+            "title": "OpenAI's Codex now has a tiny AI pet that keeps you updated while you code",
+            "description": "OpenAI has introduced Codex Pets, optional animated companions for its Codex desktop app that sit on your screen and track what the coding agent is doing in real time.",
+            "content": "If you’re into vibe coding, OpenAI just made it a lot more adorable. The company has rolled out Codex Pets, a brand-new feature for its Codex desktop app that adds animated companions to your screen while you work. Codex is OpenAI’s agentic coding to... [1336 chars]",
+            "url": "https://www.digitaltrends.com/computing/openais-codex-now-has-a-tiny-ai-pet-that-keeps-you-updated-while-you-code/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/05/openai-codex-pets-how-to-get-it.jpg?resize=1200%2C630",
+            "publishedAt": "2026-05-03T20:50:40Z",
             "lang": "en",
             "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "63263a4ba82b1bc4c7e3123731ca9317",
-            "title": "11 Ways To Get The Most Out Of Your New PC",
-            "description": "New computers aren't cheap, and with artificial intelligence driving prices higher, it's more important than ever to get the most out of yours.",
-            "content": "We may receive a commission on purchases made from links.\nGiven the sheer amount of money required to set up a computer nowadays due to the AI boom, it's easy to see why any new member of the PC family would be salivating at the prospect of using eit... [15396 chars]",
-            "url": "https://www.bgr.com/2157900/ways-get-most-out-of-new-pc/",
-            "image": "https://www.bgr.com/img/gallery/11-ways-to-get-the-most-out-of-your-new-pc/l-intro-1777291314.jpg",
-            "publishedAt": "2026-05-02T20:02:00Z",
-            "lang": "en",
-            "source": {
-                "id": "b98becfda029f124cf65538c8af36d20",
-                "name": "BGR",
-                "url": "https://www.bgr.com",
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
                 "country": "us"
             }
         },
         {
-            "id": "d30c8cfb03eca7ba876893b5e5360753",
-            "title": "College students wary of the job market are changing course in search of 'AI-proof' majors",
-            "description": "Two years ago, Josephine Timperman arrived at college with a plan. She declared a major in business analytics, figuring she'd learn niche skills that would stand out on a resume and help land a good job after college. But the rise of artificial intelligence has scrambled those calculations. The basic…",
-            "content": "Two years ago, Josephine Timperman arrived at college with a plan. She declared a major in business analytics, figuring she'd learn niche skills that would stand out on a resume and help land a good job after college.\nBut the rise of artificial intel... [5215 chars]",
-            "url": "https://japantoday.com/category/business/college-students-wary-of-the-job-market-are-changing-course-in-search-of-'ai-proof'-majors",
-            "image": "https://media.japantoday.com/img/store/29/e7/1e17fb3fc5fe49fca061b9c4678ea3aaac01/download/_w1700.jpeg",
-            "publishedAt": "2026-05-02T20:00:00Z",
+            "id": "21fa3a2ec42a0b4d706833d999e96b5c",
+            "title": "Donald Trump Posts AI Shirtless Photo With Bikini-Clad Woman",
+            "description": "Donald Trump posted another eyebrow-raising AI photo, this time featuring the president shirtless in a pool with an unidentified woman",
+            "content": "President Donald Trump shared an eyebrow-raising, AI-generated photo featuring the commander-in-chief shirtless alongside members of his cabinet and an unidentified, bikini-clad woman.\nOn Friday, May 1, Trump, 79, went on another social media spree, ... [2742 chars]",
+            "url": "https://www.usmagazine.com/celebrity-news/news/donald-trump-posts-ai-shirtless-photo-with-bikini-clad-woman/",
+            "image": "https://www.usmagazine.com/wp-content/uploads/2026/05/GettyImages-2211177567-donald-trump-shirtless-ai-image.jpg?crop=561px%2C283px%2C1302px%2C684px&resize=1200%2C630&quality=86&strip=all",
+            "publishedAt": "2026-05-03T20:39:49Z",
             "lang": "en",
             "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "3d03f3ab07f71d0c3ecc04ab77c90b5e",
-            "title": "College students wary of the job market are changing course in search of 'AI-proof' majors",
-            "description": "Two years ago, Josephine Timperman arrived at college with a plan. She declared a major in business analytics, figuring she'd learn niche skills that would stand out on a resume and help land a good job after college. But the rise of artificial intelligence has scrambled those calculations. The basic…",
-            "content": "Two years ago, Josephine Timperman arrived at college with a plan. She declared a major in business analytics, figuring she'd learn niche skills that would stand out on a resume and help land a good job after college.\nBut the rise of artificial intel... [5215 chars]",
-            "url": "https://japantoday.com/category/business/college-students-wary-of-the-job-market-are-changing-course-in-search-of-%27ai-proof%27-majors",
-            "image": "https://media.japantoday.com/img/store/29/e7/1e17fb3fc5fe49fca061b9c4678ea3aaac01/download/_w1700.jpeg",
-            "publishedAt": "2026-05-02T20:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "416d21458b754b50fd22c5641f9945f0",
-            "title": "In the PR battle for AI data centers, tech giants got a blue-collar ally",
-            "description": "Building trades unions have long been considered a voice of the American worker. But they now are intertwined with the richest companies in the world as they create America’s artificial intelligence economy.",
-            "content": "HARRISBURG, Pa. — Building trades unions — long fashioned as the voice of the American worker — are now intertwined with the richest companies in the world as they create America’s artificial intelligence economy.\nUnionized workers are employed on a ... [7172 chars]",
-            "url": "https://www.adn.com/nation-world/2026/05/02/in-the-pr-battle-for-ai-data-centers-tech-giants-got-a-blue-collar-ally/",
-            "image": "https://www.adn.com/resizer/v2/36MP62YD5NKP647J6ABMW47H44.jpg?smart=true&auth=572712f7141799851a64a6117b969e7a287030dd2d7124e5616bf7dc0f8ebae0&width=1200&height=630",
-            "publishedAt": "2026-05-02T19:56:20Z",
-            "lang": "en",
-            "source": {
-                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-                "name": "Anchorage Daily News",
-                "url": "https://www.adn.com",
+                "id": "979e74ee88ce49ccc427aa90ec068196",
+                "name": "Us Weekly",
+                "url": "https://www.usmagazine.com",
                 "country": "us"
             }
         }
