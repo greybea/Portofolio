@@ -4,112 +4,80 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 308134,
+    "totalArticles": 324768,
     "articles": [
         {
-            "id": "1cec8953a7a14173f89e5d148bf8aba1",
-            "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
-            "description": "OTTAWA — Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company’s new AI model.",
-            "content": "OTTAWA — Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company’s new AI model.\nSolomon says he’s working in close collaboration with Can... [797 chars]",
-            "url": "https://www.baytoday.ca/national-news/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic-12137037",
-            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/4a32ca2a426025623abcc609ed6eab991082e283704873e4d7917c2405d97603.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-04-13T21:05:10Z",
+            "id": "0e44b5d4f6c7a80f0e6031b2aa945dfd",
+            "title": "Nurses harness AI to help quantify their instincts about patient care",
+            "description": "Hospital nurses are often so busy that they have trouble finding time for a bathroom break. Over an eight- to 12-hour shift, they're keeping tabs on multiple patients: checking their vital signs, administering medication, and chatting with family members who've come to visit. Occasionally, a patient seems off, looking tired or pale or drowsier than normal. But if objective measures such as blood pressure and heart rate are normal, it's hard for a nurse to justify pulling the physician out of rounds to check on the patient. Plus, there's not much time to interrogate a gut feeling before moving on to the next room.",
+            "content": "Hospital nurses are often so busy that they have trouble finding time for a bathroom break. Over an eight- to 12-hour shift, they're keeping tabs on multiple patients: checking their vital signs, administering medication, and chatting with family mem... [6302 chars]",
+            "url": "https://medicalxpress.com/news/2026-04-nurses-harness-ai-quantify-instincts.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/nurse.jpg",
+            "publishedAt": "2026-05-03T22:00:01Z",
             "lang": "en",
             "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "bf997338356e4c85aa6c69bb9cca448c",
-            "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
-            "description": "OTTAWA — Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company’s new AI model.",
-            "content": "OTTAWA — Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company’s new AI model.\nSolomon says he’s working in close collaboration with Can... [797 chars]",
-            "url": "https://www.sootoday.com/national-news/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic-12137037",
-            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/4a32ca2a426025623abcc609ed6eab991082e283704873e4d7917c2405d97603.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-04-13T21:05:10Z",
-            "lang": "en",
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "0adfa952de9b843c11fcb00a7464392a",
-            "title": "Court docs: Suspect in Molotov attack on OpenAI CEO's home opposed artificial intelligence",
-            "description": "A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence.",
-            "content": "A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence, according to court documents. The documents also showed that the man had a list of other AI tec... [928 chars]",
-            "url": "https://wjla.com/news/nation-world/court-docs-suspect-in-molotov-attack-on-openai-ceos-home-opposed-artificial-intelligence-sam-altman-kash-patel-fbi-texas-daniel-moreno-gama-molotov-cocktail-property-damage-destruction",
-            "image": "https://wjla.com/resources/media2/16x9/5004/1320/0x369/90/dd386058-0383-4e96-9412-bc7cb51f55c9-GettyImages2218344194.jpg",
-            "publishedAt": "2026-04-13T21:02:58Z",
-            "lang": "en",
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b7205153fa418bf444e355dbffbd96e3",
-            "title": "Court docs: Suspect in Molotov attack on OpenAI CEO's home opposed artificial intelligence",
-            "description": "A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence.",
-            "content": "A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence, according to court documents. The documents also showed that the man had a list of other AI tec... [928 chars]",
-            "url": "https://foxbaltimore.com/news/nation-world/court-docs-suspect-in-molotov-attack-on-openai-ceos-home-opposed-artificial-intelligence-sam-altman-kash-patel-fbi-texas-daniel-moreno-gama-molotov-cocktail-property-damage-destruction",
-            "image": "https://foxbaltimore.com/resources/media2/16x9/5004/1320/0x369/90/dd386058-0383-4e96-9412-bc7cb51f55c9-GettyImages2218344194.jpg",
-            "publishedAt": "2026-04-13T21:02:58Z",
-            "lang": "en",
-            "source": {
-                "id": "9f53afb019d44feb16bcc7da150e679a",
-                "name": "Baltimore News",
-                "url": "https://foxbaltimore.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c32cc31803bb473e9118dbfc1d940949",
-            "title": "Japan's Tech Titans Just Teamed Up to Build a Trillion",
-            "description": "SoftBank, Sony, Honda, and NEC have formed a new company to build physical AI for robots and machines, backed by $6.7 billion in government funding.",
-            "content": "Japan isn't interested in building the next ChatGPT.\nOn Sunday, SoftBank, NEC, Honda, and Sony Group jointly formed a new company with one goal: build a trillion-parameter AI model that runs machines, not conversations.\nThe move is a direct bet on wh... [2387 chars]",
-            "url": "https://decrypt.co/364241/japan-physical-ai-trillion-parameter-softbank-nec-honda-sony",
-            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/japan-decrypt-style-scaled-gID_7.jpg",
-            "publishedAt": "2026-04-13T21:01:03Z",
-            "lang": "en",
-            "source": {
-                "id": "6956007add5fc13a6721202ec906b1c4",
-                "name": "Decrypt",
-                "url": "https://decrypt.co",
-                "country": "us"
-            }
-        },
-        {
-            "id": "fd70d71e6803b0e68a0cce26a21a0d3e",
-            "title": "The Shibarium Connection: Former Shiba Inu Devs Power AlphaPepe's AI DEX to $850K Raise",
-            "description": "The developer who built AlphaSwap worked on the Shibarium team at Shiba Inu, the Layer 2 blockchain that Shiba Inu deployed to reduce gas fees and increase transaction throughput across the SHIB ecosystem. Shibarium processed over 500 million mainnet transactions during that period. Five hundred million on-chain transactions. That is the infrastructure-level credential sitting behind […]",
-            "content": "Share\nShare\nShare\nShare\nEmail\nThe developer who built AlphaSwap worked on the Shibarium team at Shiba Inu, the Layer 2 blockchain that Shiba Inu deployed to reduce gas fees and increase transaction throughput across the SHIB ecosystem. Shibarium proc... [5164 chars]",
-            "url": "https://techbullion.com/the-shibarium-connection-former-shiba-inu-devs-power-alphapepes-ai-dex-to-850k-raise/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/04/The-Shibarium.png",
-            "publishedAt": "2026-04-13T21:00:42Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
                 "country": "gb"
             }
         },
         {
-            "id": "fb0b67ae7a5be94b54dec404cbb179b2",
-            "title": "AI agents are acting like employees, but company structures still treat them like software",
-            "description": "AI agents are now operators, acting on their own accord without the need for a human manager to lead the way.",
-            "content": "Over the past year, organizations have been forced to confront the fact that AI is being deployed faster than it can be governed. The growing use of shadow AI is exposing gaps regarding who, or what, is allowed to act. Our latest research shows 91% o... [5609 chars]",
-            "url": "https://fortune.com/2026/04/13/ai-agents-governance-identity-risk-okta/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Dan-Mountstephen_26-02-26_OKTA-booth-2_3410-e1776089826101.jpg?resize=1200,600",
-            "publishedAt": "2026-04-13T21:00:00Z",
+            "id": "3174e32666e51432327e1d8cae0a4a27",
+            "title": "The biggest surprise of my recent San Francisco trip? Hearing how much Steve Wozniak loves his iPhone Air",
+            "description": "The Apple co-founder also has some AI skepticism",
+            "content": "Whether it's rocket car launches, the reveal of the most gaudy phones you’ve ever seen, or a fingerprint-scanning smart fridge debut, Dreame Next was full of surprises — but the most exciting for me was easily the appearance of Steve Wozniak. It turn... [3869 chars]",
+            "url": "https://www.techradar.com/tech/the-biggest-surprise-of-my-recent-san-francisco-trip-hearing-how-much-steve-wozniak-loves-his-iphone-air",
+            "image": "https://cdn.mos.cms.futurecdn.net/zUJmUippwXoFWbPt2uQNvM-2560-80.jpg",
+            "publishedAt": "2026-05-03T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "76fed3835c9e76567fbc650dfa9e3933",
+            "title": "Apple raises Mac Mini’s starting price as AI frenzy drains supply",
+            "description": "The company is effectively increasing the price by removing the entry-level configuration, a model that includes an M4 processor and 256 gigabytes of storage.",
+            "content": "San Francisco | Apple raised the starting price of its Mac mini desktop to $US799 ($1107) from $US599, adjusting to inventory shortages driven by AI demand and the tight supply of processors.\nThe company is effectively increasing the price by removin... [256 chars]",
+            "url": "https://www.afr.com/world/north-america/apple-raises-mac-mini-s-starting-price-as-ai-frenzy-drains-supply-20260504-p5ztdr",
+            "image": "https://static.ffx.io/images/$zoom_0.4236%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_355/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/afee088977b21c1748d7fb4e135b9e055a3aa2b2",
+            "publishedAt": "2026-05-03T21:36:39Z",
+            "lang": "en",
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "3daa651a9382ef35713b43a6ad2d4d89",
+            "title": "OpenAI opens ChatGPT subscriptions to OpenClaw's 3.2M users as Anthropic blocks Claude access to the AI agent platform",
+            "description": "ChatGPT subscribers can now run OpenClaw's AI agents via GPT-5.4 for $23/mo. Anthropic blocked Claude. OpenAI and Anthropic made opposite bets on the same product.",
+            "content": "TL;DR\nOpenAI has opened ChatGPT subscriptions to OpenClaw, the open-source AI agent framework with 346,000 GitHub stars and 3.2 million users, allowing subscribers to run autonomous agents via GPT-5.4 for $23 per month. The move is the opposite of An... [8349 chars]",
+            "url": "https://thenextweb.com/news/openai-openclaw-chatgpt-subscription-agent",
+            "image": "https://media.thenextweb.com/2026/05/openai-openclaw-chatgpt-subscription-agent.avif",
+            "publishedAt": "2026-05-03T21:15:46Z",
+            "lang": "en",
+            "source": {
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c6e68eab98c441eb0c2de15d1497e9be",
+            "title": "Hong Kong is the hub for China's AI IPOs. It can be so much more than that",
+            "description": "There’s more to Hong Kong than just finance and venture capital.",
+            "content": "It’s clear what locations are shaping China’s AI landscape: Shenzhen, Hangzhou and Beijing, for example. But what about Hong Kong, the most international and open city on Chinese soil? What is its role in China’s AI revolution? Must it play second fi... [4923 chars]",
+            "url": "https://fortune.com/2026/05/03/hong-kong-chinese-ai-boom-ipos-governance/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2267044457-e1777736992257.jpg?resize=1200,600",
+            "publishedAt": "2026-05-03T21:00:00Z",
             "lang": "en",
             "source": {
                 "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
@@ -119,50 +87,82 @@
             }
         },
         {
-            "id": "1be9c9755d14b183df45f304ba8c493c",
-            "title": "Graduates in an AI world must be problem solvers, not armchair thinkers",
-            "description": "Academic mastery no longer suffices. Read more at straitstimes.com.",
-            "content": "Imagine being just 18 years old and outperforming experienced professionals in problem solving, not just in terms of superiority of solutioning, but in the speed of ideation and prototyping as well.\nThis is exactly what is happening with the astronom... [7737 chars]",
-            "url": "https://www.straitstimes.com/opinion/graduates-in-an-ai-world-must-be-problem-solvers-not-armchair-thinkers",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cd3352f1795498a5f9a4262287c7abb0735dfc903cecf3fd23b5f0ff9a1a9bda",
-            "publishedAt": "2026-04-13T21:00:00Z",
+            "id": "bf2f51f3229c55f51b426c43c64c77d0",
+            "title": "Hong Kong is the hub for China’s AI IPOs. It can be so much more than that",
+            "description": "There’s more to Hong Kong than just finance and venture capital.",
+            "content": "The past two years have been nothing short of extraordinary when it comes to the surge in investor confidence in China’s AI sector. Startups like Moonshot AI and giants like Alibaba are now part of the global AI conversation; no discussion of AI, eve... [5279 chars]",
+            "url": "https://www.newsbreak.com/fortune-561435/4629499599713-hong-kong-is-the-hub-for-china-s-ai-ipos-it-can-be-so-much-more-than-that",
+            "image": "https://img.particlenews.com/img/id/0KfFqY_1B2nEgBN00",
+            "publishedAt": "2026-05-03T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "3a000bf8c77f32de22b8d14f5f2da9b1",
-            "title": "Could Isle of Man’s World-First Data Law Reshape AI Stock Valuations?",
-            "description": "Market Analysis by covering: S&P 500, Snowflake Inc, Palantir Technologies Inc. Read 's Market Analysis on Investing.com",
-            "content": "The Isle of Man has introduced the Foundations (Amendment) Bill 2025, a major move in data law, becoming the first jurisdiction to legally recognize data as a governed asset.\nThis allows organizations to list data assets on balance sheets, license th... [4446 chars]",
-            "url": "https://www.investing.com/analysis/could-isle-of-mans-worldfirst-data-law-reshape-ai-stock-valuations-200678356",
-            "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-            "publishedAt": "2026-04-13T20:56:52Z",
-            "lang": "en",
-            "source": {
-                "id": "e86028f8795c9864b8757b36b53954ef",
-                "name": "Investing.com",
-                "url": "https://www.investing.com",
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
                 "country": "us"
             }
         },
         {
-            "id": "49829a2130e2b5c4562d864e8768eeee",
-            "title": "Ignore the Anthropic Panic and Keep Buying Palantir Stock, Says Wedbush",
-            "description": "Wedbush urges investors to tune out the Anthropic noise and keep buying Palantir, betting on its strong AI moat and solid fundamentals.",
-            "content": "Not so long ago, Palantir Technologies (PLTR) was one of the hottest artificial intelligence (AI) and analytics stocks on Wall Street. Investors loved the company’s story, using generative AI to grow its commercial business while also landing big gov... [7148 chars]",
-            "url": "https://www.barchart.com/story/news/1282433/ignore-the-anthropic-panic-and-keep-buying-palantir-stock-says-wedbush",
-            "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20J%20-%20Z)/A%20Palantir%20office%20building%20in%20Tokyo_%20Image%20by%20Hiroshi-Mori-Stock%20via%20Shutterstock_.jpg",
-            "publishedAt": "2026-04-13T20:53:22Z",
+            "id": "e98c20b3998e6d88d11e503cc2d314d8",
+            "title": "AI data center boom is leaving consumer electronics short of chips",
+            "description": "The boom in data center construction is taking up much of the supply of high-tech components, especially processor and memory chips. This demand is squeezing consumer device makers, which are having trouble acquiring enough chips. This is happening even though data center servers and smartphones use different types of chips.…",
+            "content": "The boom in data center construction is taking up much of the supply of high-tech components, especially processor and memory chips. This demand is squeezing consumer device makers, which are having trouble acquiring enough chips.\nThis is happening e... [8711 chars]",
+            "url": "https://japantoday.com/category/tech/ai-data-center-boom-is-leaving-consumer-electronics-short-of-chips-%E2%88%92-even-though-they-don%E2%80%99t-use-the-same-kinds",
+            "image": "https://media.japantoday.com/img/store/a0/68/8f14a6283db2e6172828ab0f5ce016d373bf/istock-2230807736/_w1700.jpeg",
+            "publishedAt": "2026-05-03T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            }
+        },
+        {
+            "id": "8617ae3e288a9a6e66b3ce1c72fe638f",
+            "title": "The quiet erosion of agency in the age of AI",
+            "description": "The quiet erosion of agency in the age of AI - SiliconANGLE",
+            "content": "Enterprises are moving fast to embed artificial intelligence into everything from customer interactions to decision-making. The benefits are undeniable: speed, efficiency and scale.\nThe danger isn’t necessarily sudden or dramatic. It’s quieter, more ... [6328 chars]",
+            "url": "https://siliconangle.com/2026/05/03/quiet-erosion-agency-age-ai/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/aiwatchingai-1.png",
+            "publishedAt": "2026-05-03T20:59:32Z",
+            "lang": "en",
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "9813acf5a691bf83c0d1300287d90d50",
+            "title": "OpenAI's Codex now has a tiny AI pet that keeps you updated while you code",
+            "description": "OpenAI has introduced Codex Pets, optional animated companions for its Codex desktop app that sit on your screen and track what the coding agent is doing in real time.",
+            "content": "If you’re into vibe coding, OpenAI just made it a lot more adorable. The company has rolled out Codex Pets, a brand-new feature for its Codex desktop app that adds animated companions to your screen while you work. Codex is OpenAI’s agentic coding to... [1336 chars]",
+            "url": "https://www.digitaltrends.com/computing/openais-codex-now-has-a-tiny-ai-pet-that-keeps-you-updated-while-you-code/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/05/openai-codex-pets-how-to-get-it.jpg?resize=1200%2C630",
+            "publishedAt": "2026-05-03T20:50:40Z",
+            "lang": "en",
+            "source": {
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "21fa3a2ec42a0b4d706833d999e96b5c",
+            "title": "Donald Trump Posts AI Shirtless Photo With Bikini-Clad Woman",
+            "description": "Donald Trump posted another eyebrow-raising AI photo, this time featuring the president shirtless in a pool with an unidentified woman",
+            "content": "President Donald Trump shared an eyebrow-raising, AI-generated photo featuring the commander-in-chief shirtless alongside members of his cabinet and an unidentified, bikini-clad woman.\nOn Friday, May 1, Trump, 79, went on another social media spree, ... [2742 chars]",
+            "url": "https://www.usmagazine.com/celebrity-news/news/donald-trump-posts-ai-shirtless-photo-with-bikini-clad-woman/",
+            "image": "https://www.usmagazine.com/wp-content/uploads/2026/05/GettyImages-2211177567-donald-trump-shirtless-ai-image.jpg?crop=561px%2C283px%2C1302px%2C684px&resize=1200%2C630&quality=86&strip=all",
+            "publishedAt": "2026-05-03T20:39:49Z",
+            "lang": "en",
+            "source": {
+                "id": "979e74ee88ce49ccc427aa90ec068196",
+                "name": "Us Weekly",
+                "url": "https://www.usmagazine.com",
                 "country": "us"
             }
         }
