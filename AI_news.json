@@ -4,64 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 324768,
+    "totalArticles": 325496,
     "articles": [
         {
-            "id": "0e44b5d4f6c7a80f0e6031b2aa945dfd",
-            "title": "Nurses harness AI to help quantify their instincts about patient care",
-            "description": "Hospital nurses are often so busy that they have trouble finding time for a bathroom break. Over an eight- to 12-hour shift, they're keeping tabs on multiple patients: checking their vital signs, administering medication, and chatting with family members who've come to visit. Occasionally, a patient seems off, looking tired or pale or drowsier than normal. But if objective measures such as blood pressure and heart rate are normal, it's hard for a nurse to justify pulling the physician out of rounds to check on the patient. Plus, there's not much time to interrogate a gut feeling before moving on to the next room.",
-            "content": "Hospital nurses are often so busy that they have trouble finding time for a bathroom break. Over an eight- to 12-hour shift, they're keeping tabs on multiple patients: checking their vital signs, administering medication, and chatting with family mem... [6302 chars]",
-            "url": "https://medicalxpress.com/news/2026-04-nurses-harness-ai-quantify-instincts.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/nurse.jpg",
-            "publishedAt": "2026-05-03T22:00:01Z",
+            "id": "3178a4b3a45c7d6bb6d747faa094f4c1",
+            "title": "Intel appoints Qualcomm executive to lead PC and physical AI business",
+            "description": "Intel said on Monday it had appointed Alex Katouzian to lead the company's PC and physical artificial intelligence unit. \nThe new role for Katouzian includes the company's crucial PC...",
+            "content": "May 4 (Reuters) - Intel said on Monday it had appointed Alex Katouzian to lead the company's PC and physical artificial intelligence unit.\nThe new role for Katouzian includes the company's crucial PC business, which has been one of the mainstays of I... [1087 chars]",
+            "url": "https://www.marketscreener.com/news/intel-appoints-qualcomm-executive-to-lead-pc-and-physical-ai-business-ce7f58dfdd8af42d",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-09T130225Z_1_LYNXMPEM380T0_RTROPTP_4_SPACEX-TESLA-CHIPS-INTEL.JPG",
+            "publishedAt": "2026-05-04T21:49:15Z",
             "lang": "en",
             "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         },
         {
-            "id": "3174e32666e51432327e1d8cae0a4a27",
-            "title": "The biggest surprise of my recent San Francisco trip? Hearing how much Steve Wozniak loves his iPhone Air",
-            "description": "The Apple co-founder also has some AI skepticism",
-            "content": "Whether it's rocket car launches, the reveal of the most gaudy phones you’ve ever seen, or a fingerprint-scanning smart fridge debut, Dreame Next was full of surprises — but the most exciting for me was easily the appearance of Steve Wozniak. It turn... [3869 chars]",
-            "url": "https://www.techradar.com/tech/the-biggest-surprise-of-my-recent-san-francisco-trip-hearing-how-much-steve-wozniak-loves-his-iphone-air",
-            "image": "https://cdn.mos.cms.futurecdn.net/zUJmUippwXoFWbPt2uQNvM-2560-80.jpg",
-            "publishedAt": "2026-05-03T22:00:00Z",
+            "id": "0c31eed119cb7cc85c6295c3ed673648",
+            "title": "Resident Evil Requiem producer seems glad you rejected the Nvidia AI version of Grace",
+            "description": "When Nvidia revealed its DLSS 5 AI tech, players criticized it for how it changed Resident Evil 9's Grace, which a dev viewed as a \"positive.\"",
+            "content": "Nvidia revealed its newest DLSS 5 technology in March. It's intended to make games look more photorealistic, but in practice drastically alters the appearance of characters. People quickly clowned on the \"AI slop\" tech, posting meme after meme online... [1582 chars]",
+            "url": "https://www.polygon.com/resident-evil-requiem-producer-ai-grace-criticisms/",
+            "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/nvidia-dlss-5-reveal-_-resident-evil-requiem-0-14-screenshot.jpeg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-05-04T21:46:27Z",
             "lang": "en",
             "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
+                "id": "812689d196c4f757f8cd7c93422c4f09",
+                "name": "Polygon",
+                "url": "https://www.polygon.com",
+                "country": "us"
             }
         },
         {
-            "id": "76fed3835c9e76567fbc650dfa9e3933",
-            "title": "Apple raises Mac Mini’s starting price as AI frenzy drains supply",
-            "description": "The company is effectively increasing the price by removing the entry-level configuration, a model that includes an M4 processor and 256 gigabytes of storage.",
-            "content": "San Francisco | Apple raised the starting price of its Mac mini desktop to $US799 ($1107) from $US599, adjusting to inventory shortages driven by AI demand and the tight supply of processors.\nThe company is effectively increasing the price by removin... [256 chars]",
-            "url": "https://www.afr.com/world/north-america/apple-raises-mac-mini-s-starting-price-as-ai-frenzy-drains-supply-20260504-p5ztdr",
-            "image": "https://static.ffx.io/images/$zoom_0.4236%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_355/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/afee088977b21c1748d7fb4e135b9e055a3aa2b2",
-            "publishedAt": "2026-05-03T21:36:39Z",
+            "id": "6e4084b8edcdf8838e6ec0206c2614cb",
+            "title": "CAMS Delivers Record Q4 FY26 Revenue With 11% YoY Growth and 46.5% EBITDA Margin",
+            "description": "CAMS delivered its highest-ever quarterly revenue of ₹395.22 Cr in Q4 FY26, with 11% YoY growth and an all-time high EBITDA of ₹183.66 Cr at a 46.5% margin. Full-year FY26 revenue stood at ₹1,516.25 Cr (+6.6% YoY), with PAT of ₹476.01 Cr and MF AuM at ₹55.1 lakh Cr. The company also recommended a final dividend of ₹4 per equity share and highlighted progress in its multi-year platform re-architecture and AI initiatives.",
+            "content": "Computer Age Management Services Limited (CAMS), India's largest registrar and transfer agent for mutual funds and a SEBI-regulated entity, has announced its audited standalone and consolidated financial results for the quarter and year ended March 3... [12181 chars]",
+            "url": "https://scanx.trade/stock-market-news/companies/computer-age-management-services-reports-q4-profit-growth-declares-final-dividend-of-4-per-share/39474969",
+            "image": "http://news-images.dhan.co/computer-age-management-services-reports-q4-profit-growth-declares-final-dividend-of-4-per-share.jpg",
+            "publishedAt": "2026-05-04T21:46:08Z",
             "lang": "en",
             "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
+                "id": "f746366686e467440a63dd26dbb72053",
+                "name": "scanx.trade",
+                "url": "https://scanx.trade",
+                "country": "in"
             }
         },
         {
-            "id": "3daa651a9382ef35713b43a6ad2d4d89",
-            "title": "OpenAI opens ChatGPT subscriptions to OpenClaw's 3.2M users as Anthropic blocks Claude access to the AI agent platform",
-            "description": "ChatGPT subscribers can now run OpenClaw's AI agents via GPT-5.4 for $23/mo. Anthropic blocked Claude. OpenAI and Anthropic made opposite bets on the same product.",
-            "content": "TL;DR\nOpenAI has opened ChatGPT subscriptions to OpenClaw, the open-source AI agent framework with 346,000 GitHub stars and 3.2 million users, allowing subscribers to run autonomous agents via GPT-5.4 for $23 per month. The move is the opposite of An... [8349 chars]",
-            "url": "https://thenextweb.com/news/openai-openclaw-chatgpt-subscription-agent",
-            "image": "https://media.thenextweb.com/2026/05/openai-openclaw-chatgpt-subscription-agent.avif",
-            "publishedAt": "2026-05-03T21:15:46Z",
+            "id": "54c68cc02a5d1b6ce0e0653826261ef9",
+            "title": "Oregon-based Lattice Semiconductor buys Georgia firm for $1.65 billion",
+            "description": "Hillsboro-based Lattice is worth more than $17 billion thanks to a boom in demand for its chips from AI firm.",
+            "content": "Hillsboro-based Lattice Semiconductor said Monday it is buying a Georgia tech company called AMI for $1.65 billion in cash and stock, a deal the Oregon company said will improve its products for data centers and artificial intelligence.\nLattice makes... [1484 chars]",
+            "url": "https://www.oregonlive.com/silicon-forest/2026/05/oregon-based-lattice-semiconductor-buys-georgia-firm-for-165-billion.html",
+            "image": "https://www.oregonlive.com/resizer/v2/W5TMXQTL5BDGDPLQYQRBTIZCX4.jpg?auth=a66b88a2d18392662a9b47d363b7c277c25bdbcc3f407816ede7c05d399485e3&width=1280&smart=true&quality=90",
+            "publishedAt": "2026-05-04T21:45:34Z",
+            "lang": "en",
+            "source": {
+                "id": "ad679e3c7caaa4d82a4efb8f9e7d62b5",
+                "name": "The Oregonian",
+                "url": "https://www.oregonlive.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "41846525c542449b6d6ebf82118597de",
+            "title": "Capcom's glad we hated Resident Evil Requiem's terrible DLSS 5 AI demo, because it means fans \"really liked the original design of Grace\"",
+            "description": "Grace quickly established herself as a fan favourite",
+            "content": "When Nvidia unveiled its AI-powered DLSS 5 tech earlier this year, Resident Evil Requiem was one of the titles on display. The yassified versions of Leon and Grace that accompanied the announcement were presented as next-generation graphics technolog... [1750 chars]",
+            "url": "https://www.gamesradar.com/games/resident-evil/capcoms-glad-we-hated-resident-evil-requiems-terrible-dlss-5-ai-demo-because-it-means-fans-really-liked-the-original-design-of-grace/",
+            "image": "https://cdn.mos.cms.futurecdn.net/66qiDxPRZawpBEjC7MdXaT-1920-80.jpg",
+            "publishedAt": "2026-05-04T21:41:21Z",
+            "lang": "en",
+            "source": {
+                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
+                "name": "GamesRadar+",
+                "url": "https://www.gamesradar.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "80ff9373df83a4126c892ce854d6ac47",
+            "title": "powered visual search drives advertising growth that social platforms cannot match",
+            "description": "Pinterest hit $1.008B in Q1 revenue with 631M MAUs. Performance+ AI ads delivered 24% higher conversions. The growth engine is 80 billion monthly visual searches, not social feeds.",
+            "content": "TL;DR\nPinterest reported its first billion-dollar quarter with $1.008 billion in Q1 2026 revenue, up 18 per cent year on year, driven not by social media engagement but by 80 billion monthly visual searches that generate commercial intent data no oth... [10264 chars]",
+            "url": "https://thenextweb.com/news/pinterest-billion-revenue-visual-search-advertising",
+            "image": "https://media.thenextweb.com/2026/05/pinterest-billion-revenue-visual-search-advertising.avif",
+            "publishedAt": "2026-05-04T21:32:19Z",
             "lang": "en",
             "source": {
                 "id": "11c2fbf226e7334e9f93bb78243a79cc",
@@ -71,61 +103,45 @@
             }
         },
         {
-            "id": "c6e68eab98c441eb0c2de15d1497e9be",
-            "title": "Hong Kong is the hub for China's AI IPOs. It can be so much more than that",
-            "description": "There’s more to Hong Kong than just finance and venture capital.",
-            "content": "It’s clear what locations are shaping China’s AI landscape: Shenzhen, Hangzhou and Beijing, for example. But what about Hong Kong, the most international and open city on Chinese soil? What is its role in China’s AI revolution? Must it play second fi... [4923 chars]",
-            "url": "https://fortune.com/2026/05/03/hong-kong-chinese-ai-boom-ipos-governance/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2267044457-e1777736992257.jpg?resize=1200,600",
-            "publishedAt": "2026-05-03T21:00:00Z",
+            "id": "46a550c791314268a8e7466d4276b278",
+            "title": "Top Startup and Tech Funding News - May 4, 2025",
+            "description": "It’s Monday, May 4, 2026, and we’re back with today’s top startup and tech funding news. Today’s rounds reflect a clear shift toward infrastructure that powers AI, defense, and real-world systems. From enterprise AI agents and customer data platforms to space defense and programmable hardware, investors are doubling down on technologies that sit closer to",
+            "content": "It’s Monday, May 4, 2026, and we’re back with today’s top startup and tech funding news. Today’s rounds reflect a clear shift toward infrastructure that powers AI, defense, and real-world systems. From enterprise AI agents and customer data platforms... [11766 chars]",
+            "url": "https://techstartups.com/2026/05/04/top-startup-and-tech-funding-news-may-4-2025/",
+            "image": "https://techstartups.com/wp-content/uploads/2026/05/Liquid-Instruments-Team.jpg",
+            "publishedAt": "2026-05-04T21:30:02Z",
             "lang": "en",
             "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
                 "country": "us"
             }
         },
         {
-            "id": "bf2f51f3229c55f51b426c43c64c77d0",
-            "title": "Hong Kong is the hub for China’s AI IPOs. It can be so much more than that",
-            "description": "There’s more to Hong Kong than just finance and venture capital.",
-            "content": "The past two years have been nothing short of extraordinary when it comes to the surge in investor confidence in China’s AI sector. Startups like Moonshot AI and giants like Alibaba are now part of the global AI conversation; no discussion of AI, eve... [5279 chars]",
-            "url": "https://www.newsbreak.com/fortune-561435/4629499599713-hong-kong-is-the-hub-for-china-s-ai-ipos-it-can-be-so-much-more-than-that",
-            "image": "https://img.particlenews.com/img/id/0KfFqY_1B2nEgBN00",
-            "publishedAt": "2026-05-03T21:00:00Z",
+            "id": "9aaf1a08ef3d67d98a7b06809e4a6d8c",
+            "title": "Morgan Stanley's Simkowitz on AI Financing, M&A Resurgence",
+            "description": "Morgan Stanley Co-President Dan Simkowitz discusses current market conditions, AI financing, and a solid dealmaking backdrop fueling a 'resurgence' in M&A. He talks with Katie Greifeld and Romaine...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/morgan-stanley-s-simkowitz-on-ai-financing-m-a-resurgence-ce7f58dfdd88f421",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3619416.png",
+            "publishedAt": "2026-05-04T21:29:09Z",
             "lang": "en",
             "source": {
-                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
-                "name": "NewsBreak",
-                "url": "https://www.newsbreak.com",
-                "country": "us"
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         },
         {
-            "id": "e98c20b3998e6d88d11e503cc2d314d8",
-            "title": "AI data center boom is leaving consumer electronics short of chips",
-            "description": "The boom in data center construction is taking up much of the supply of high-tech components, especially processor and memory chips. This demand is squeezing consumer device makers, which are having trouble acquiring enough chips. This is happening even though data center servers and smartphones use different types of chips.…",
-            "content": "The boom in data center construction is taking up much of the supply of high-tech components, especially processor and memory chips. This demand is squeezing consumer device makers, which are having trouble acquiring enough chips.\nThis is happening e... [8711 chars]",
-            "url": "https://japantoday.com/category/tech/ai-data-center-boom-is-leaving-consumer-electronics-short-of-chips-%E2%88%92-even-though-they-don%E2%80%99t-use-the-same-kinds",
-            "image": "https://media.japantoday.com/img/store/a0/68/8f14a6283db2e6172828ab0f5ce016d373bf/istock-2230807736/_w1700.jpeg",
-            "publishedAt": "2026-05-03T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "8617ae3e288a9a6e66b3ce1c72fe638f",
-            "title": "The quiet erosion of agency in the age of AI",
-            "description": "The quiet erosion of agency in the age of AI - SiliconANGLE",
-            "content": "Enterprises are moving fast to embed artificial intelligence into everything from customer interactions to decision-making. The benefits are undeniable: speed, efficiency and scale.\nThe danger isn’t necessarily sudden or dramatic. It’s quieter, more ... [6328 chars]",
-            "url": "https://siliconangle.com/2026/05/03/quiet-erosion-agency-age-ai/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/aiwatchingai-1.png",
-            "publishedAt": "2026-05-03T20:59:32Z",
+            "id": "372aeeedc3169d5bab4ae9d3263bc3c4",
+            "title": "Agentic AI infrastructure takes center stage at Google Cloud Next",
+            "description": "Agentic AI infrastructure emerges as a key focus at Google Cloud Next, shaping how enterprises scale AI with data, control planes and hybrid environments.",
+            "content": "The race for AI dominance is about more than which model will reign supreme. The real action is happening underneath the surface, where hyperscalers such as Google LLC are focused on the infrastructure and the data pipelines that models run on — espe... [11414 chars]",
+            "url": "https://siliconangle.com/2026/05/04/agentic-ai-infrastructure-googlecloudnext/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/IMG_8851-e1776886077716.jpg",
+            "publishedAt": "2026-05-04T21:27:18Z",
             "lang": "en",
             "source": {
                 "id": "2e9e50c94b2fe950c6f3c06660288260",
@@ -135,34 +151,18 @@
             }
         },
         {
-            "id": "9813acf5a691bf83c0d1300287d90d50",
-            "title": "OpenAI's Codex now has a tiny AI pet that keeps you updated while you code",
-            "description": "OpenAI has introduced Codex Pets, optional animated companions for its Codex desktop app that sit on your screen and track what the coding agent is doing in real time.",
-            "content": "If you’re into vibe coding, OpenAI just made it a lot more adorable. The company has rolled out Codex Pets, a brand-new feature for its Codex desktop app that adds animated companions to your screen while you work. Codex is OpenAI’s agentic coding to... [1336 chars]",
-            "url": "https://www.digitaltrends.com/computing/openais-codex-now-has-a-tiny-ai-pet-that-keeps-you-updated-while-you-code/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/05/openai-codex-pets-how-to-get-it.jpg?resize=1200%2C630",
-            "publishedAt": "2026-05-03T20:50:40Z",
+            "id": "37526b63630077da80104dad64b8fd02",
+            "title": "Mandalorian AI Image Internet Backlash",
+            "description": "May the discourse be with you.",
+            "content": "The White House Posted An AI Image Of Trump As The Mandalorian With Grogu For “Star Wars” Day, And People Are Saying, “This Is NOT The Way”\nMay the discourse be with you.\nAs you probably know, today is May 4 — aka Star Wars Day — a day in which brand... [1354 chars]",
+            "url": "https://www.buzzfeed.com/briangalindo/white-houses-trump-mandalorian-post-reactions",
+            "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-05/04/21/thumb/3ITdntrKl.jpg?crop=2400:1257;0,2%26downsize=1250:*",
+            "publishedAt": "2026-05-04T21:25:12Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "21fa3a2ec42a0b4d706833d999e96b5c",
-            "title": "Donald Trump Posts AI Shirtless Photo With Bikini-Clad Woman",
-            "description": "Donald Trump posted another eyebrow-raising AI photo, this time featuring the president shirtless in a pool with an unidentified woman",
-            "content": "President Donald Trump shared an eyebrow-raising, AI-generated photo featuring the commander-in-chief shirtless alongside members of his cabinet and an unidentified, bikini-clad woman.\nOn Friday, May 1, Trump, 79, went on another social media spree, ... [2742 chars]",
-            "url": "https://www.usmagazine.com/celebrity-news/news/donald-trump-posts-ai-shirtless-photo-with-bikini-clad-woman/",
-            "image": "https://www.usmagazine.com/wp-content/uploads/2026/05/GettyImages-2211177567-donald-trump-shirtless-ai-image.jpg?crop=561px%2C283px%2C1302px%2C684px&resize=1200%2C630&quality=86&strip=all",
-            "publishedAt": "2026-05-03T20:39:49Z",
-            "lang": "en",
-            "source": {
-                "id": "979e74ee88ce49ccc427aa90ec068196",
-                "name": "Us Weekly",
-                "url": "https://www.usmagazine.com",
+                "id": "adf554a25b26ee0c444a7732630e6384",
+                "name": "BuzzFeed",
+                "url": "https://www.buzzfeed.com",
                 "country": "us"
             }
         }
