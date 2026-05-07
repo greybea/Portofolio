@@ -4,64 +4,48 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 326645,
+    "totalArticles": 328000,
     "articles": [
         {
-            "id": "f20eca021c4edbc6416eb2047606e6e3",
-            "title": "What we know about US stress tests of Google, xAI and Microsoft AI models",
-            "description": "The Trump administration on Tuesday announced it had expanded a program to give U.S. government scientists access to unreleased artificial intelligence models to conduct risk assessments to include...",
-            "content": "WASHINGTON, May 5 (Reuters) - The Trump administration on Tuesday announced it had expanded a program to give U.S. government scientists access to unreleased artificial intelligence models to conduct risk assessments to include Google's DeepMind, xAI... [3060 chars]",
-            "url": "https://www.marketscreener.com/news/what-we-know-about-us-stress-tests-of-google-xai-and-microsoft-ai-models-ce7f58ddd98ef42d",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-05T220654Z_1_LYNXMPEM441HF_RTROPTP_4_EU-ALPHABET-ANTITRUST.JPG",
-            "publishedAt": "2026-05-05T22:06:24Z",
+            "id": "8a327f922c1b6b32d0c01e62416e3b79",
+            "title": "Some iPhone owners could get up to $95 payment after Apple agrees to settle case for $250 million",
+            "description": "A class-action lawsuit had alleged that Apple deceived consumers with marketing that promoted AI features that did not yet exist and misled them into buying the devices.",
+            "content": "LONDON — Owners of some iPhones are in line to get cash payments of up to $95 from Apple after the company on Tuesday reached a $250 million settlement in a class-action lawsuit for false advertising of its artificial-intelligence capabilities.\nApple... [2378 chars]",
+            "url": "https://www.inquirer.com/business/apple-siri-iphone-lawsuit-settlement-ai-consumers-20260506.html",
+            "image": "https://www.inquirer.com/resizer/v2/OJB3RVPKI57T32HL5HJ6P3VYNA.jpg?auth=d29fdb14c32adbcee5770a72e21da5d0ba12febf8334c1e1f28bab6ff7280e19&width=760&height=507&smart=true",
+            "publishedAt": "2026-05-06T22:12:21Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "50b2ab7d605bbd84b23337fbbabd3906",
-            "title": "Factbox-What We Know About US Stress Tests of Google, XAI and Microsoft AI Models",
-            "description": "US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.",
-            "content": "By Courtney Rozen and Jody Godoy\nWASHINGTON, May 5 (Reuters) - The Trump administration ⁠on ⁠Tuesday announced it had expanded a program ⁠to give U.S. government scientists access to unreleased artificial intelligence models to conduct risk ​assessme... [3081 chars]",
-            "url": "https://www.usnews.com/news/top-news/articles/2026-05-05/factbox-what-we-know-about-us-stress-tests-of-google-xai-and-microsoft-ai-models",
-            "image": "https://www.usnews.com/dims4/USNEWS/b669226/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fe4%2F0a7fb6e2daa3474dccebb9a41119a6%2Ftag%3Areuters.com%2C2026%3Anewsml_LYNXMPEM441HF%3A12026-05-05T220654Z_1_LYNXMPEM441HF_RTROPTP_3_EU-ALPHABET-ANTITRUST.JPG",
-            "publishedAt": "2026-05-05T22:06:00Z",
-            "lang": "en",
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
                 "country": "us"
             }
         },
         {
-            "id": "6226c304f1d03f904bbcf0f031ad723d",
-            "title": "U.S. Expands AI Model Testing to Boost Cybersecurity",
-            "description": "The U.S. government has extended its program to assess unreleased AI models, including those from Google’s DeepMind, xAI, and Microsoft, to mitigate risks such as cyberattacks. OpenAI and Anthropic were already cooperating voluntarily. The initiative aims to curb misuse of AI in cyber warfare and biosecurity threats.",
-            "content": "The Trump administration announced on Tuesday its expanded initiative to enable U.S. government scientists to evaluate unreleased artificial intelligence models. This program, now includes major players such as Google’s DeepMind, xAI, and Microsoft.\n... [649 chars]",
-            "url": "https://www.devdiscourse.com/article/technology/3898005-us-expands-ai-model-testing-to-boost-cybersecurity",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_04_2026_19_26_59_7953969.png&width=920&format=jpeg",
-            "publishedAt": "2026-05-05T22:05:44Z",
+            "id": "8c9b8bddb8251419230f1042b4947239",
+            "title": "'Shark Tank' mogul Kevin O'Leary's massive new data center enrages Utah residents: 'Shame!'",
+            "description": "Hundreds of furious Utahn residents packed a gym and erupted in chants of “Shame! Shame! Shame!” as county commissioners pushed through approval of “Shark Tank” star Kevin O’Leary’s colossal AI data center project.",
+            "content": "Hundreds of furious Utah residents packed a gym and erupted in chants of “Shame! Shame! Shame!” this week as county commissioners pushed through approval of “Shark Tank” star Kevin O’Leary’s colossal AI data center project — a sprawling development c... [4803 chars]",
+            "url": "https://nypost.com/2026/05/06/business/local-utah-officials-approval-of-shark-tank-mogul-kevin-olearys-massive-new-data-center-enrages-residents-shame/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/127132997.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-05-06T22:07:52Z",
             "lang": "en",
             "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
             }
         },
         {
-            "id": "c640b353423673ad72810073d0cfa74c",
-            "title": "It's transparency, not tech alone, that drives crypto adoption, panelists tell Consensus Miami",
-            "description": "Execs from PayPal, Robinhood, Public.com and 248 Ventures said the way to move retail into crypto and AI is to slow down, show your work, and put users back in control.",
-            "content": "The path to mainstream crypto adoption runs through more visible, controllable product design, executives from PayPal, Robinhood, Public.com and 248 Ventures told CoinDesk’s Consensus Miami conference Tuesday.\n\"It's important to tell users with AI pr... [2526 chars]",
-            "url": "https://www.coindesk.com/business/2026/05/05/it-s-transparency-not-tech-alone-that-drives-crypto-adoption-panelists-tell-consensus-miami",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/fa4aefb57d529a0b2dbe742ad352934668de5973-3020x1536.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-            "publishedAt": "2026-05-05T22:04:41Z",
+            "id": "9e244a62944f6b454140d5a5ec39d836",
+            "title": "Reid Hoffman says NFTs may make a comeback as AI agents strain online identity",
+            "description": "The Greylock partner and LinkedIn co-founder said autonomous agents will need crypto-based trust systems to transact across the open internet.",
+            "content": "NFTs are due for a “rebirth” as AI agents force the internet to solve new identity and trust problems, Reid Hoffman told CoinDesk’s Consensus Miami conference on Wednesday.\nThe Greylock partner and LinkedIn co-founder said agents transacting with oth... [3129 chars]",
+            "url": "https://www.coindesk.com/business/2026/05/06/reid-hoffman-says-nfts-may-make-a-comeback-as-ai-agents-strain-online-identity",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/7b2b5ae6907fba2aaab014d67b0094f675598b65-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2026-05-06T22:05:26Z",
             "lang": "en",
             "source": {
                 "id": "75ca59dd354694befc1cf6038cf9ca33",
@@ -71,99 +55,115 @@
             }
         },
         {
-            "id": "b61f0c100b3a0ce3edf26ae2c530c249",
-            "title": "Crypto exchange Coinbase to lay off 14% of staff as AI reshapes work",
-            "description": "The company, formerly headquartered in San Francisco, said that it's also changing the way it operates and will lean on smaller teams that can do more with AI.",
-            "content": "Cryptocurrency exchange Coinbase said it’s slashing roughly 14% of its workforce or about 700 workers, partly because artificial intelligence is reshaping the way people work.\n“The biggest risk now is not taking action. We are adjusting early and del... [2658 chars]",
-            "url": "https://www.latimes.com/business/story/2026-05-05/crypto-exchange-coinbase-to-lay-off-14-of-staff-as-ai-reshapes-work",
-            "image": "https://ca-times.brightspotcdn.com/dims4/default/9798775/2147483647/strip/true/crop/3528x1852+0+250/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7d%2Fd4%2F6b03bd4249c2ba7f11012fc292f9%2Ftrump-crypto-industry-79661.jpg",
-            "publishedAt": "2026-05-05T22:02:16Z",
+            "id": "7f280636b7929c33aa38aa1f497355ce",
+            "title": "Chrome Is Quietly Installing a 4GB AI Model on Your Computer-And Putting It Back If You Delete It",
+            "description": "Google Chrome silently downloads a 4GB Gemini Nano model to eligible devices, re-downloads it if deleted, and the AI Mode button users actually see doesn't even use it.",
+            "content": "Check your Chrome user data folder. There's a decent chance a 4GB AI model is sitting there—one you never agreed to install. The file is called weights.bin, buried in a folder named OptGuideOnDeviceModel. It's the weight file for Gemini Nano, Google'... [3167 chars]",
+            "url": "https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer",
+            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
+            "publishedAt": "2026-05-06T22:01:02Z",
             "lang": "en",
             "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
+                "id": "6956007add5fc13a6721202ec906b1c4",
+                "name": "Decrypt",
+                "url": "https://decrypt.co",
                 "country": "us"
             }
         },
         {
-            "id": "61ede70f41c986feee2d6941352e4239",
-            "title": "Google DeepMind UK staff move to unionise over military AI use",
-            "description": "UK employees at Alphabet Inc company Google's AI lab DeepMind on Tuesday requested official recognition of two unions, as concern grows over the company's technology being used by the US and Israeli...",
-            "content": "(Alliance News) - UK employees at Alphabet Inc company Google's AI lab DeepMind on Tuesday requested official recognition of two unions, as concern grows over the company's technology being used by the US and Israeli militaries.\nWorkers requested rec... [1976 chars]",
-            "url": "https://www.marketscreener.com/news/google-deepmind-uk-staff-move-to-unionise-over-military-ai-use-ce7f58ddd98ef727",
+            "id": "8d142a118587d42bedff900f0e9ae0e5",
+            "title": "Commentary: Anthropic’s Mythos AI marks a cybersecurity moment Singapore cannot ignore",
+            "description": "Even if Anthropic’s claims about its new AI model are overstated, the deeper challenge Mythos represents is very real, say NCS cybersecurity chief Foo Siang-tse and strategic adviser Shashi Jayakumar.",
+            "content": "SINGAPORE: Cybersecurity researchers tend to be a hard-bitten lot. Yet even the most jaded took notice when Anthropic announced Claude Mythos Preview on Apr 7. Here was a frontier AI lab withholding its most powerful model for being too dangerous to ... [7885 chars]",
+            "url": "https://www.channelnewsasia.com/commentary/ai-anthropic-mythos-threat-cybersecurity-singapore-csa-6103386",
+            "image": "https://dam.mediacorp.sg/image/upload/s--1aXse1RY--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-05T204019Z_3_LYNXMPEM441EF_RTROPTP_3_EUROPE-BANKS-MYTHOS.JPG?itok=KKHondiD",
+            "publishedAt": "2026-05-06T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "a1ba5f96dcc3710b91645a1e51e29f02",
+            "title": "The 4 Ways I've Seen Leaders Turn AI Uncertainty Into Competitive Advantage",
+            "description": "Why the most effective leaders aren't trying to reduce AI uncertainty, but are using it to move faster, make better decisions and unlock momentum while others stall in planning and hesitation.",
+            "content": "AI is moving faster than most organizations can comfortably process, and leaders feel pressure to act. That pressure creates two predictable reactions. Some teams hesitate and wait for clarity that never comes. Others jump in, chasing tools and ideas... [5627 chars]",
+            "url": "https://www.entrepreneur.com/growing-a-business/the-4-ways-ive-seen-leaders-turn-ai-uncertainty-into/504108",
+            "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/1778075485-turn-ai-uncertainty-into-competitive-advantage-0526-g2224880479.jpg?resize=1024,682",
+            "publishedAt": "2026-05-06T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "839b9d172147498877bab641815b0631",
+                "name": "Entrepreneur",
+                "url": "https://www.entrepreneur.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "b55613fc0638a5e9594642d3f816a8a0",
+            "title": "CNA Explains: What is frontier AI and how Anthropic's Mythos is reshaping cybersecurity",
+            "description": "Anthropic’s Mythos AI model has demonstrated advanced capabilities in coding and system analysis, raising fears over how such tools could be misused.",
+            "content": "The debut of advanced artificial intelligence models such as Anthropic’s Claude Mythos is sharpening global concerns over a new class of technology known as frontier AI - and the security risks it could pose.\nThese systems, the most advanced AI model... [7394 chars]",
+            "url": "https://www.channelnewsasia.com/world/frontier-ai-anthropic-mythos-cybersecurity-risks-cna-explains-6103406",
+            "image": "https://dam.mediacorp.sg/image/upload/s--56qVBYYk--/c_crop,h_1193,w_2121,x_1,y_111/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/06/istock-2197955227.jpg?itok=z5dwWkiB",
+            "publishedAt": "2026-05-06T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "8a5ddd40cda76b588cd71daf3c7ee038",
+            "title": "10 Hacks Every DuckDuckGo User Should Know",
+            "description": "DuckDuckGo has hidden features that can make your search experience better, including privacy-first AI chatbots, a URL shortener, and much more.",
+            "content": "DuckDuckGo has been my default search engine for years. Its big selling point is that it doesn't track you nearly as much as Google does, but there's more to DuckDuckGo than that privacy claim. You can use DuckDuckGo to anonymously try AI chatbots (i... [6310 chars]",
+            "url": "https://lifehacker.com/tech/10-hacks-every-duckduckgo-user-should-know",
+            "image": "https://lifehacker.com/imagery/articles/01KQSF1F6SDFDJR3Q6HANXVN6T/hero-image.fill.size_1200x675.jpg",
+            "publishedAt": "2026-05-06T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5240ef9173881b8031afe68dcbb2f7a3",
+                "name": "Lifehacker",
+                "url": "https://lifehacker.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "984ddacc0302be15ea7e05e46b7105db",
+            "title": "25M monthly in ad revenue, Perplexity $400M deal ends, 16% workforce cut as AR glasses bet intensifies",
+            "description": "Snap's Q1 revenue grew 12% but stock fell 4%. Iran war cost $20-25M in March ad revenue. Perplexity AI deal ended. 1,000 jobs cut. Specs AR glasses launch is the last bet.",
+            "content": "TL;DR\nSnap’s Q1 revenue grew 12 per cent to 1.53 billion dollars but the stock fell four per cent after the company disclosed that the Iran war cost it 20 to 25 million dollars in advertising revenue in March alone and confirmed it has ended its 400 ... [7781 chars]",
+            "url": "https://thenextweb.com/news/snap-q1-2026-iran-war-advertising-perplexity-specs",
+            "image": "https://media.thenextweb.com/2026/05/snap-q1-2026-iran-war-advertising-perplexity-specs.avif",
+            "publishedAt": "2026-05-06T21:59:14Z",
+            "lang": "en",
+            "source": {
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "635689b150abe740f7f7fae58da7e8e1",
+            "title": "Coherent forecasts upbeat revenue betting on AI momentum",
+            "description": "May 6 - Coherent Corp forecast\nfourth-quarter revenue above market estimates on Wednesday,\nbanking on strong demand for its AI data center components to\ndrive growth.\nHowever, shares...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/coherent-forecasts-upbeat-revenue-betting-on-ai-momentum-ce7f58d2de89ff23",
             "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-05-05T22:01:16Z",
+            "publishedAt": "2026-05-06T21:58:17Z",
             "lang": "en",
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
                 "name": "MarketScreener",
                 "url": "https://www.marketscreener.com",
                 "country": "fr"
-            }
-        },
-        {
-            "id": "676b1520aca27ddef58a41c115f5ecfc",
-            "title": "Why Hong Kong’s tech index is failing to ride the Chinese AI stock boom",
-            "description": "Hong Kong has seen a string of blockbuster listings by Chinese AI firms in recent months. Yet the Hang Seng Tech Index remains deep in a slump.",
-            "content": "Investor frustration is growing with Hong Kong’s technology index, as the benchmark’s prolonged slide contrasts sharply with the soaring share prices of several Chinese AI firms that recently went public in the city.\nThe Hang Seng Tech Index – a gaug... [846 chars]",
-            "url": "https://www.scmp.com/business/china-business/article/3352477/why-hong-kongs-tech-index-failing-ride-chinese-ai-stock-boom",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/05/81d90358-8dfb-41f2-a0f0-a36dc47b1320_c7267865.jpg?itok=gEXNVrbD&v=1777966432",
-            "publishedAt": "2026-05-05T22:00:05Z",
-            "lang": "en",
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            }
-        },
-        {
-            "id": "a0615c39a01ab87a58378661cd7a0a7d",
-            "title": "Philippine firms struggle to counter AI",
-            "description": "Companies in the Philippines should bolster security awareness training as artificial intelligence-driven cyber threats outpace employee readiness,",
-            "content": "Companies in the Philippines should bolster security awareness training as artificial intelligence-driven cyber threats outpace employee readiness, according to a new global research report.\nThe 2025 Security Awareness and Training Global Research Re... [1644 chars]",
-            "url": "https://manilastandard.net/business/314736053/philippine-firms-struggle-to-counter-ai-driven-cyber-threats-report-says.html",
-            "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/05/fortinet.jpg",
-            "publishedAt": "2026-05-05T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "fc13fb69478e5a4b84a5e79a3b2121e6",
-            "title": "How A Musk Victory Vs. Altman Would Reset America's AI Roadmap",
-            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-            "content": "A courtroom victory for Elon Musk in his high-stakes federal trial against Sam Altman and OpenAI would deliver one of the most disruptive blows to the artificial intelligence sector in its brief but explosive history - potentially forcing the $850-bi... [5532 chars]",
-            "url": "https://www.zerohedge.com/ai/how-musk-victory-vs-altman-would-reset-americas-ai-roadmap",
-            "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-05/skynews-musk-altman-openai_6825600_80.jpg?itok=7g2TS8kG",
-            "publishedAt": "2026-05-05T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
-                "name": "ZeroHedge",
-                "url": "https://www.zerohedge.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "74160734cb69b969e5daaf98ef839278",
-            "title": "Year Partnership with Holyoke Medical Center to Reduce Administrative Burden",
-            "description": "IKS Health, the healthcare arm of Inventurus Knowledge Solutions Limited, announced a strategic multi-year clinical and revenue optimization platform partnership with Holyoke Medical Center, a 219-bed independent, non-profit community hospital in Western Massachusetts, on May 5, 2026. The partnership aims to reduce clinical and administrative burden, lower operating costs, and unlock new revenue opportunities for the hospital, which employs over 1,800 staff and more than 375 physicians. The collaboration leverages IKS Health's Care Enablement platform, combining agentic AI workflows with human expertise to streamline clinical and financial operations. IKS Health, founded in 2006, is recognized by Black Book Research as the top provider of AI-driven RCM services and by Google Cloud with a DORA Award for augmenting human expertise with AI.",
-            "content": "Inventurus Knowledge Solutions Limited's healthcare arm, IKS Health, has announced a strategic multi-year clinical and revenue optimization platform partnership with Holyoke Medical Center, an independent, non-profit, 219-bed community hospital locat... [10069 chars]",
-            "url": "https://scanx.trade/stock-market-news/companies/iks-health-announces-strategic-multi-year-partnership-with-holyoke-medical-center-to-reduce-administrative-burden/39563842",
-            "image": "http://news-images.dhan.co/iks-health-announces-strategic-multi-year-partnership-with-holyoke-medical-center-to-reduce-administrative-burden.jpg",
-            "publishedAt": "2026-05-05T21:57:22Z",
-            "lang": "en",
-            "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
-                "country": "in"
             }
         }
     ]
