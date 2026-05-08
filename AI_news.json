@@ -4,64 +4,128 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 328000,
+    "totalArticles": 329064,
     "articles": [
         {
-            "id": "8a327f922c1b6b32d0c01e62416e3b79",
-            "title": "Some iPhone owners could get up to $95 payment after Apple agrees to settle case for $250 million",
-            "description": "A class-action lawsuit had alleged that Apple deceived consumers with marketing that promoted AI features that did not yet exist and misled them into buying the devices.",
-            "content": "LONDON — Owners of some iPhones are in line to get cash payments of up to $95 from Apple after the company on Tuesday reached a $250 million settlement in a class-action lawsuit for false advertising of its artificial-intelligence capabilities.\nApple... [2378 chars]",
-            "url": "https://www.inquirer.com/business/apple-siri-iphone-lawsuit-settlement-ai-consumers-20260506.html",
-            "image": "https://www.inquirer.com/resizer/v2/OJB3RVPKI57T32HL5HJ6P3VYNA.jpg?auth=d29fdb14c32adbcee5770a72e21da5d0ba12febf8334c1e1f28bab6ff7280e19&width=760&height=507&smart=true",
-            "publishedAt": "2026-05-06T22:12:21Z",
+            "id": "fd7638a89d317ab04353ffe8f77fc8cf",
+            "title": "Voi founders' new AI startup Pit has become the latest rising star out of Stockholm",
+            "description": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+            "content": "Swedish startup Pit may have gained notice for some rage-bait social media posts, but it has also become another Stockholm AI startup to watch.\nPit is led by the cofounders of European scooter giant Voi including Voi CEO Fredrik Hjelm. He is joined b... [5587 chars]",
+            "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/05/Pit-team-2.-Photo-by-Hugo-Thambert.jpg?resize=1200,800",
+            "publishedAt": "2026-05-07T21:02:11Z",
             "lang": "en",
             "source": {
-                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
-                "name": "The Philadelphia Inquirer",
-                "url": "https://www.inquirer.com",
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
                 "country": "us"
             }
         },
         {
-            "id": "8c9b8bddb8251419230f1042b4947239",
-            "title": "'Shark Tank' mogul Kevin O'Leary's massive new data center enrages Utah residents: 'Shame!'",
-            "description": "Hundreds of furious Utahn residents packed a gym and erupted in chants of “Shame! Shame! Shame!” as county commissioners pushed through approval of “Shark Tank” star Kevin O’Leary’s colossal AI data center project.",
-            "content": "Hundreds of furious Utah residents packed a gym and erupted in chants of “Shame! Shame! Shame!” this week as county commissioners pushed through approval of “Shark Tank” star Kevin O’Leary’s colossal AI data center project — a sprawling development c... [4803 chars]",
-            "url": "https://nypost.com/2026/05/06/business/local-utah-officials-approval-of-shark-tank-mogul-kevin-olearys-massive-new-data-center-enrages-residents-shame/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/127132997.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-05-06T22:07:52Z",
+            "id": "bda5e2025317357cce5c4d374d06fda5",
+            "title": "The Problem Airlines Ran Into By Quietly Scanning Every Bag With AI In 2026",
+            "description": "AI is creeping in to every part of the flight experience, but especially so in baggage handling. An era of hyper-strict baggage enforcement is coming.",
+            "content": "A silent technological revolution is upon us, where cameras can now identify your suitcase by its individual dents, scratches, and unique blemishes. This level of precision was initially designed to rescue the industry from a staggering 74.7% surge i... [9336 chars]",
+            "url": "https://simpleflying.com/problem-airlines-ran-into-quietly-scanning-bags-ai-2026/",
+            "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/the-problem-airlines-ran-into-by-quietly-scanning-every-bag-with-ai-in-2026.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-05-07T21:00:19Z",
             "lang": "en",
             "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
+                "id": "d189a400ff1a62abfa361ca86e0f7142",
+                "name": "Simple Flying",
+                "url": "https://simpleflying.com",
                 "country": "us"
             }
         },
         {
-            "id": "9e244a62944f6b454140d5a5ec39d836",
-            "title": "Reid Hoffman says NFTs may make a comeback as AI agents strain online identity",
-            "description": "The Greylock partner and LinkedIn co-founder said autonomous agents will need crypto-based trust systems to transact across the open internet.",
-            "content": "NFTs are due for a “rebirth” as AI agents force the internet to solve new identity and trust problems, Reid Hoffman told CoinDesk’s Consensus Miami conference on Wednesday.\nThe Greylock partner and LinkedIn co-founder said agents transacting with oth... [3129 chars]",
-            "url": "https://www.coindesk.com/business/2026/05/06/reid-hoffman-says-nfts-may-make-a-comeback-as-ai-agents-strain-online-identity",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/7b2b5ae6907fba2aaab014d67b0094f675598b65-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-            "publishedAt": "2026-05-06T22:05:26Z",
+            "id": "7dc2907a07568b07469a68cbddbcf7a5",
+            "title": "The rapid embrace of AI in China, its biggest testing ground, may shape how AI is used globally",
+            "description": "On a recent weekday, around 50 people gathered outside the headquarters of a Chinese mobile internet company, waiting to get help with installing an artificial intelligence assistant. The scene in Beijing, China's capital, was repeated for days at several events and was also seen in the southern technology hub Shenzhen…",
+            "content": "On a recent weekday, around 50 people gathered outside the headquarters of a Chinese mobile internet company, waiting to get help with installing an artificial intelligence assistant.\nThe scene in Beijing, China's capital, was repeated for days at se... [7368 chars]",
+            "url": "https://japantoday.com/category/tech/the-rapid-embrace-of-ai-in-china-its-biggest-testing-ground-may-shape-how-ai-is-used-globally",
+            "image": "https://media.japantoday.com/img/store/e5/28/94cf0bc294e7ec339d9f6e6d25c07241753a/download/_w1700.jpeg",
+            "publishedAt": "2026-05-07T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "75ca59dd354694befc1cf6038cf9ca33",
-                "name": "CoinDesk",
-                "url": "https://www.coindesk.com",
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            }
+        },
+        {
+            "id": "f8383890dcd0244c6847b5094136fb36",
+            "title": "Indosat CEO is building an AI for Indonesian languages. Can he make a business case for it?",
+            "description": "Vikram Sinha wants Sahabat AI to be a platform for Indonesia's startups—even if he admits his team can't quite think of a \"business case\" right now.",
+            "content": "“What gets solved in the U.S. or China might not work in Indonesia,” he told Fortune in early April, pointing to the country’s different culture and languages. That leaves the space open for companies like Indosat: “We’re in a pole position to see ho... [8178 chars]",
+            "url": "https://fortune.com/2026/05/07/indosat-ooredoo-hutchison-ceo-vikram-sinha-indonesia-ai-sahabat/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Asia-CEO-Interviews-Final.jpg?resize=1200,600",
+            "publishedAt": "2026-05-07T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
                 "country": "us"
             }
         },
         {
-            "id": "7f280636b7929c33aa38aa1f497355ce",
-            "title": "Chrome Is Quietly Installing a 4GB AI Model on Your Computer-And Putting It Back If You Delete It",
-            "description": "Google Chrome silently downloads a 4GB Gemini Nano model to eligible devices, re-downloads it if deleted, and the AI Mode button users actually see doesn't even use it.",
-            "content": "Check your Chrome user data folder. There's a decent chance a 4GB AI model is sitting there—one you never agreed to install. The file is called weights.bin, buried in a folder named OptGuideOnDeviceModel. It's the weight file for Gemini Nano, Google'... [3167 chars]",
-            "url": "https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer",
-            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
-            "publishedAt": "2026-05-06T22:01:02Z",
+            "id": "c367c4570d35c8a6afa86150068290de",
+            "title": "Can AI achieve enlightenment? Robot becomes Buddhist monk",
+            "description": "Is this innovation in religion or crossing a line? Gabi robot monk. Buddhist monk robot. AI in religion. Unitree G1 robot. South Korea humanoid robot Buddhist monk.",
+            "content": "As the world grapples with the implications of AI priests and chatbot-written sermons, a new figure has entered the conversation: Gabi, the humanoid robot that is now a Buddhist monk.\nPer Reuters, the robot devoted itself to Buddhism in a ceremony he... [5235 chars]",
+            "url": "https://www.deseret.com/faith/2026/05/07/gabi-humanoid-robot-ai-buddhist-monk/",
+            "image": "https://www.deseret.com/resizer/v2/RT6LO6GMQ5FLDOCG74FRK6JICI.jpg?focal=0%2C0&auth=d910fb0eab8bf6cf564612648d4243646060e60c42249d2ec752f48dbf0487e8&width=630&height=331",
+            "publishedAt": "2026-05-07T20:57:00Z",
+            "lang": "en",
+            "source": {
+                "id": "aaa6f2928e430ec2ed450ed89cc822f5",
+                "name": "Salt Lake City Deseret News",
+                "url": "https://www.deseret.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "77baf23f642ce8785a58f5e514ef560f",
+            "title": "What did Mark Hamill say about Trump? ‘Star Wars’ actor under fire for Bluesky post on POTUS",
+            "description": "Mark Hamill shared an AI image of Donald Trump at a gravesite, criticizing his presidency and predicting GOP losses in the 2026 midterms.",
+            "content": "Mark Hamill is a legendary name in Hollywood with global fame, thanks to his portrayal of Luke Skywalker in the classic 'Star Wars' films. As a result, the White House was quick to react and brand Hamill a \"Radical Left lunatic.\"\nWhat Did Mark Hamill... [752 chars]",
+            "url": "https://www.hindustantimes.com/world-news/us-news/what-did-mark-hamill-say-about-trump-star-wars-actor-under-fire-for-bluesky-post-on-potus-101778186480533.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/05/07/550x309/Mark_Hamill_Trump_1778186466874_1778186474275.png",
+            "publishedAt": "2026-05-07T20:54:23Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "994c9215075c20ebb4f522223e28e1f2",
+            "title": "French prosecutors' probe of Elon Musk, X now a criminal investigation",
+            "description": "France is investigating whether Elon Musk and his social media app X were complicit in spreading harmful AI deepfakes.",
+            "content": "French cybercrime authorities have escalated an investigation of Elon Musk and his social network X to a criminal probe, the Paris prosecutor's office said Thursday.\nMusk and former X CEO Linda Yaccarino were issued summons by French authorities for ... [1580 chars]",
+            "url": "https://www.cnbc.com/2026/05/07/french-prosecutors-probe-of-elon-musk-x-now-a-criminal-investigation.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108249952-1767884969362-gettyimages-2246892016-AFP_84JG4JH.jpeg?v=1775594381&w=1920&h=1080",
+            "publishedAt": "2026-05-07T20:54:17Z",
+            "lang": "en",
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "2862558b2c4954528f83c51f91ae3c51",
+            "title": "Chrome Deletes Its Own Privacy Promise for Sneaky On",
+            "description": "Chrome is quietly installing a 4GB AI on your devices. And now, its latest version has removed the disclosure that promised to keep your data off Google’s servers.",
+            "content": "Google Chrome's settings page made a quiet promise before its most recent update.\nIn Chrome version 147, under Settings > System > On-device AI, the description read: \"To power features like scam detection, Chrome can use AI models that run directly ... [2656 chars]",
+            "url": "https://decrypt.co/367193/chrome-removes-privacy-claim-gemini-nano-google",
+            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png",
+            "publishedAt": "2026-05-07T20:52:05Z",
             "lang": "en",
             "source": {
                 "id": "6956007add5fc13a6721202ec906b1c4",
@@ -71,99 +135,35 @@
             }
         },
         {
-            "id": "8d142a118587d42bedff900f0e9ae0e5",
-            "title": "Commentary: Anthropic’s Mythos AI marks a cybersecurity moment Singapore cannot ignore",
-            "description": "Even if Anthropic’s claims about its new AI model are overstated, the deeper challenge Mythos represents is very real, say NCS cybersecurity chief Foo Siang-tse and strategic adviser Shashi Jayakumar.",
-            "content": "SINGAPORE: Cybersecurity researchers tend to be a hard-bitten lot. Yet even the most jaded took notice when Anthropic announced Claude Mythos Preview on Apr 7. Here was a frontier AI lab withholding its most powerful model for being too dangerous to ... [7885 chars]",
-            "url": "https://www.channelnewsasia.com/commentary/ai-anthropic-mythos-threat-cybersecurity-singapore-csa-6103386",
-            "image": "https://dam.mediacorp.sg/image/upload/s--1aXse1RY--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-05T204019Z_3_LYNXMPEM441EF_RTROPTP_3_EUROPE-BANKS-MYTHOS.JPG?itok=KKHondiD",
-            "publishedAt": "2026-05-06T22:00:00Z",
+            "id": "dd4772d2b5b8bc1fdad399d067c43700",
+            "title": "Agentic AI Changes The Rules - And AMD Looks Better Positioned Than Intel (NASDAQ:AMD)",
+            "description": "Advanced Micro Devices, Inc. is rated a Buy as AI-driven data center growth and EPYC/Instinct momentum boost upside. Click for this AMD stock update.",
+            "content": "Agentic AI Changes The Rules -- And AMD Looks Better Positioned Than Intel\nAnalysis Fundamental\n1.31K Followers\nComment\n(1)\nSummary\nAdvanced Micro Devices, Inc. remains a Buy, with robust AI-driven CPU and data center growth supporting further upside... [2873 chars]",
+            "url": "https://seekingalpha.com/article/4900685-agentic-ai-changes-the-rules-and-amd-looks-better-positioned-than-intel",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1175205290/image_1175205290.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-05-07T20:50:20Z",
             "lang": "en",
             "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "a1ba5f96dcc3710b91645a1e51e29f02",
-            "title": "The 4 Ways I've Seen Leaders Turn AI Uncertainty Into Competitive Advantage",
-            "description": "Why the most effective leaders aren't trying to reduce AI uncertainty, but are using it to move faster, make better decisions and unlock momentum while others stall in planning and hesitation.",
-            "content": "AI is moving faster than most organizations can comfortably process, and leaders feel pressure to act. That pressure creates two predictable reactions. Some teams hesitate and wait for clarity that never comes. Others jump in, chasing tools and ideas... [5627 chars]",
-            "url": "https://www.entrepreneur.com/growing-a-business/the-4-ways-ive-seen-leaders-turn-ai-uncertainty-into/504108",
-            "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/1778075485-turn-ai-uncertainty-into-competitive-advantage-0526-g2224880479.jpg?resize=1024,682",
-            "publishedAt": "2026-05-06T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "839b9d172147498877bab641815b0631",
-                "name": "Entrepreneur",
-                "url": "https://www.entrepreneur.com",
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
                 "country": "us"
             }
         },
         {
-            "id": "b55613fc0638a5e9594642d3f816a8a0",
-            "title": "CNA Explains: What is frontier AI and how Anthropic's Mythos is reshaping cybersecurity",
-            "description": "Anthropic’s Mythos AI model has demonstrated advanced capabilities in coding and system analysis, raising fears over how such tools could be misused.",
-            "content": "The debut of advanced artificial intelligence models such as Anthropic’s Claude Mythos is sharpening global concerns over a new class of technology known as frontier AI - and the security risks it could pose.\nThese systems, the most advanced AI model... [7394 chars]",
-            "url": "https://www.channelnewsasia.com/world/frontier-ai-anthropic-mythos-cybersecurity-risks-cna-explains-6103406",
-            "image": "https://dam.mediacorp.sg/image/upload/s--56qVBYYk--/c_crop,h_1193,w_2121,x_1,y_111/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/06/istock-2197955227.jpg?itok=z5dwWkiB",
-            "publishedAt": "2026-05-06T22:00:00Z",
+            "id": "7e435a39e06573e1590d53348fc483c6",
+            "title": "Mythos moment is a wake",
+            "description": "AI readiness must become a top-tier priority for governments worldwide.",
+            "content": "WHEN Anthropic, the San Francisco-based artificial intelligence (AI) company, announced its new frontier model on April 7, the news startled governments and corporations around the world. In pre-release testing, Claude Mythos had autonomously identif... [6138 chars]",
+            "url": "https://www.tribuneindia.com/news/comment/mythos-moment-is-a-wake-up-call/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ1YzVjZDcwLTRhNTYtMTFmMS1iM2QwLWI3YzFiZWUzMDg5MS5qcGc=",
+            "publishedAt": "2026-05-07T20:49:39Z",
             "lang": "en",
             "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "8a5ddd40cda76b588cd71daf3c7ee038",
-            "title": "10 Hacks Every DuckDuckGo User Should Know",
-            "description": "DuckDuckGo has hidden features that can make your search experience better, including privacy-first AI chatbots, a URL shortener, and much more.",
-            "content": "DuckDuckGo has been my default search engine for years. Its big selling point is that it doesn't track you nearly as much as Google does, but there's more to DuckDuckGo than that privacy claim. You can use DuckDuckGo to anonymously try AI chatbots (i... [6310 chars]",
-            "url": "https://lifehacker.com/tech/10-hacks-every-duckduckgo-user-should-know",
-            "image": "https://lifehacker.com/imagery/articles/01KQSF1F6SDFDJR3Q6HANXVN6T/hero-image.fill.size_1200x675.jpg",
-            "publishedAt": "2026-05-06T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5240ef9173881b8031afe68dcbb2f7a3",
-                "name": "Lifehacker",
-                "url": "https://lifehacker.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "984ddacc0302be15ea7e05e46b7105db",
-            "title": "25M monthly in ad revenue, Perplexity $400M deal ends, 16% workforce cut as AR glasses bet intensifies",
-            "description": "Snap's Q1 revenue grew 12% but stock fell 4%. Iran war cost $20-25M in March ad revenue. Perplexity AI deal ended. 1,000 jobs cut. Specs AR glasses launch is the last bet.",
-            "content": "TL;DR\nSnap’s Q1 revenue grew 12 per cent to 1.53 billion dollars but the stock fell four per cent after the company disclosed that the Iran war cost it 20 to 25 million dollars in advertising revenue in March alone and confirmed it has ended its 400 ... [7781 chars]",
-            "url": "https://thenextweb.com/news/snap-q1-2026-iran-war-advertising-perplexity-specs",
-            "image": "https://media.thenextweb.com/2026/05/snap-q1-2026-iran-war-advertising-perplexity-specs.avif",
-            "publishedAt": "2026-05-06T21:59:14Z",
-            "lang": "en",
-            "source": {
-                "id": "11c2fbf226e7334e9f93bb78243a79cc",
-                "name": "TNW",
-                "url": "https://thenextweb.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "635689b150abe740f7f7fae58da7e8e1",
-            "title": "Coherent forecasts upbeat revenue betting on AI momentum",
-            "description": "May 6 - Coherent Corp forecast\nfourth-quarter revenue above market estimates on Wednesday,\nbanking on strong demand for its AI data center components to\ndrive growth.\nHowever, shares...",
-            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/coherent-forecasts-upbeat-revenue-betting-on-ai-momentum-ce7f58d2de89ff23",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-05-06T21:58:17Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
             }
         }
     ]
