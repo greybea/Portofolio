@@ -4,112 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 329064,
+    "totalArticles": 330020,
     "articles": [
         {
-            "id": "fd7638a89d317ab04353ffe8f77fc8cf",
-            "title": "Voi founders' new AI startup Pit has become the latest rising star out of Stockholm",
-            "description": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-            "content": "Swedish startup Pit may have gained notice for some rage-bait social media posts, but it has also become another Stockholm AI startup to watch.\nPit is led by the cofounders of European scooter giant Voi including Voi CEO Fredrik Hjelm. He is joined b... [5587 chars]",
-            "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/05/Pit-team-2.-Photo-by-Hugo-Thambert.jpg?resize=1200,800",
-            "publishedAt": "2026-05-07T21:02:11Z",
-            "lang": "en",
-            "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "bda5e2025317357cce5c4d374d06fda5",
-            "title": "The Problem Airlines Ran Into By Quietly Scanning Every Bag With AI In 2026",
-            "description": "AI is creeping in to every part of the flight experience, but especially so in baggage handling. An era of hyper-strict baggage enforcement is coming.",
-            "content": "A silent technological revolution is upon us, where cameras can now identify your suitcase by its individual dents, scratches, and unique blemishes. This level of precision was initially designed to rescue the industry from a staggering 74.7% surge i... [9336 chars]",
-            "url": "https://simpleflying.com/problem-airlines-ran-into-quietly-scanning-bags-ai-2026/",
-            "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/the-problem-airlines-ran-into-by-quietly-scanning-every-bag-with-ai-in-2026.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-05-07T21:00:19Z",
-            "lang": "en",
-            "source": {
-                "id": "d189a400ff1a62abfa361ca86e0f7142",
-                "name": "Simple Flying",
-                "url": "https://simpleflying.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "7dc2907a07568b07469a68cbddbcf7a5",
-            "title": "The rapid embrace of AI in China, its biggest testing ground, may shape how AI is used globally",
-            "description": "On a recent weekday, around 50 people gathered outside the headquarters of a Chinese mobile internet company, waiting to get help with installing an artificial intelligence assistant. The scene in Beijing, China's capital, was repeated for days at several events and was also seen in the southern technology hub Shenzhen…",
-            "content": "On a recent weekday, around 50 people gathered outside the headquarters of a Chinese mobile internet company, waiting to get help with installing an artificial intelligence assistant.\nThe scene in Beijing, China's capital, was repeated for days at se... [7368 chars]",
-            "url": "https://japantoday.com/category/tech/the-rapid-embrace-of-ai-in-china-its-biggest-testing-ground-may-shape-how-ai-is-used-globally",
-            "image": "https://media.japantoday.com/img/store/e5/28/94cf0bc294e7ec339d9f6e6d25c07241753a/download/_w1700.jpeg",
-            "publishedAt": "2026-05-07T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "f8383890dcd0244c6847b5094136fb36",
-            "title": "Indosat CEO is building an AI for Indonesian languages. Can he make a business case for it?",
-            "description": "Vikram Sinha wants Sahabat AI to be a platform for Indonesia's startups—even if he admits his team can't quite think of a \"business case\" right now.",
-            "content": "“What gets solved in the U.S. or China might not work in Indonesia,” he told Fortune in early April, pointing to the country’s different culture and languages. That leaves the space open for companies like Indosat: “We’re in a pole position to see ho... [8178 chars]",
-            "url": "https://fortune.com/2026/05/07/indosat-ooredoo-hutchison-ceo-vikram-sinha-indonesia-ai-sahabat/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Asia-CEO-Interviews-Final.jpg?resize=1200,600",
-            "publishedAt": "2026-05-07T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c367c4570d35c8a6afa86150068290de",
-            "title": "Can AI achieve enlightenment? Robot becomes Buddhist monk",
-            "description": "Is this innovation in religion or crossing a line? Gabi robot monk. Buddhist monk robot. AI in religion. Unitree G1 robot. South Korea humanoid robot Buddhist monk.",
-            "content": "As the world grapples with the implications of AI priests and chatbot-written sermons, a new figure has entered the conversation: Gabi, the humanoid robot that is now a Buddhist monk.\nPer Reuters, the robot devoted itself to Buddhism in a ceremony he... [5235 chars]",
-            "url": "https://www.deseret.com/faith/2026/05/07/gabi-humanoid-robot-ai-buddhist-monk/",
-            "image": "https://www.deseret.com/resizer/v2/RT6LO6GMQ5FLDOCG74FRK6JICI.jpg?focal=0%2C0&auth=d910fb0eab8bf6cf564612648d4243646060e60c42249d2ec752f48dbf0487e8&width=630&height=331",
-            "publishedAt": "2026-05-07T20:57:00Z",
-            "lang": "en",
-            "source": {
-                "id": "aaa6f2928e430ec2ed450ed89cc822f5",
-                "name": "Salt Lake City Deseret News",
-                "url": "https://www.deseret.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "77baf23f642ce8785a58f5e514ef560f",
-            "title": "What did Mark Hamill say about Trump? ‘Star Wars’ actor under fire for Bluesky post on POTUS",
-            "description": "Mark Hamill shared an AI image of Donald Trump at a gravesite, criticizing his presidency and predicting GOP losses in the 2026 midterms.",
-            "content": "Mark Hamill is a legendary name in Hollywood with global fame, thanks to his portrayal of Luke Skywalker in the classic 'Star Wars' films. As a result, the White House was quick to react and brand Hamill a \"Radical Left lunatic.\"\nWhat Did Mark Hamill... [752 chars]",
-            "url": "https://www.hindustantimes.com/world-news/us-news/what-did-mark-hamill-say-about-trump-star-wars-actor-under-fire-for-bluesky-post-on-potus-101778186480533.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/05/07/550x309/Mark_Hamill_Trump_1778186466874_1778186474275.png",
-            "publishedAt": "2026-05-07T20:54:23Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "994c9215075c20ebb4f522223e28e1f2",
-            "title": "French prosecutors' probe of Elon Musk, X now a criminal investigation",
-            "description": "France is investigating whether Elon Musk and his social media app X were complicit in spreading harmful AI deepfakes.",
-            "content": "French cybercrime authorities have escalated an investigation of Elon Musk and his social network X to a criminal probe, the Paris prosecutor's office said Thursday.\nMusk and former X CEO Linda Yaccarino were issued summons by French authorities for ... [1580 chars]",
-            "url": "https://www.cnbc.com/2026/05/07/french-prosecutors-probe-of-elon-musk-x-now-a-criminal-investigation.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108249952-1767884969362-gettyimages-2246892016-AFP_84JG4JH.jpeg?v=1775594381&w=1920&h=1080",
-            "publishedAt": "2026-05-07T20:54:17Z",
+            "id": "38195418c1d6680f0aa9e6f7dfb5c79b",
+            "title": "Intel shares fly on Apple chip deal report. Here's why it's a big deal",
+            "description": "Samsung, Intel and TSMC are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
+            "content": "Apple and Intel are reportedly closing in on a deal that would see Intel make some of the chips for the iPhone maker's devices, marking a major shift in the chipmaking landscape.\nTalks between the two companies have been brewing for more than a year,... [3580 chars]",
+            "url": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108138284-1754575854218-108138284-17459584162025-04-29t202259z_872793_rc2k7ea4m7ma_rtrmadp_0_intel-tech.jpg?v=1754575876&w=1920&h=1080",
+            "publishedAt": "2026-05-08T21:03:09Z",
             "lang": "en",
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -119,51 +23,147 @@
             }
         },
         {
-            "id": "2862558b2c4954528f83c51f91ae3c51",
-            "title": "Chrome Deletes Its Own Privacy Promise for Sneaky On",
-            "description": "Chrome is quietly installing a 4GB AI on your devices. And now, its latest version has removed the disclosure that promised to keep your data off Google’s servers.",
-            "content": "Google Chrome's settings page made a quiet promise before its most recent update.\nIn Chrome version 147, under Settings > System > On-device AI, the description read: \"To power features like scam detection, Chrome can use AI models that run directly ... [2656 chars]",
-            "url": "https://decrypt.co/367193/chrome-removes-privacy-claim-gemini-nano-google",
-            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png",
-            "publishedAt": "2026-05-07T20:52:05Z",
+            "id": "d899538eb878bf007eb187ed89fb1b17",
+            "title": "N.J. man charged with creating AI-generated child sexual abuse material",
+            "description": "Authorities found more than 75 child sexual abuse material images on the West Deptford resident's personal cell phone, the Gloucester County Prosecutor’s Office said.",
+            "content": "A man in Gloucester County was arrested and charged after police found dozens of child sexual abuse materials on his phone.\nThe 40-year-old man from West Deptford was charged with possession of child sexual abuse materials and creating deepfake, or A... [814 chars]",
+            "url": "https://www.nj.com/gloucester-county/2026/05/nj-man-charged-with-creating-ai-generated-child-sexual-abuse-material.html",
+            "image": "https://www.nj.com/resizer/v2/IF5SBCLCMRFOBOWWIEEUKD5DSQ.JPG?auth=7c8d0e76d112df4f06cde89fcc6a01d5529f071ee63331cad5e5b39c6821e8be&width=1280&smart=true&quality=90",
+            "publishedAt": "2026-05-08T20:59:41Z",
             "lang": "en",
             "source": {
-                "id": "6956007add5fc13a6721202ec906b1c4",
-                "name": "Decrypt",
-                "url": "https://decrypt.co",
+                "id": "49751e72ee79ba8eb1d9dcf6e10bf195",
+                "name": "NJ.com",
+                "url": "https://www.nj.com",
                 "country": "us"
             }
         },
         {
-            "id": "dd4772d2b5b8bc1fdad399d067c43700",
-            "title": "Agentic AI Changes The Rules - And AMD Looks Better Positioned Than Intel (NASDAQ:AMD)",
-            "description": "Advanced Micro Devices, Inc. is rated a Buy as AI-driven data center growth and EPYC/Instinct momentum boost upside. Click for this AMD stock update.",
-            "content": "Agentic AI Changes The Rules -- And AMD Looks Better Positioned Than Intel\nAnalysis Fundamental\n1.31K Followers\nComment\n(1)\nSummary\nAdvanced Micro Devices, Inc. remains a Buy, with robust AI-driven CPU and data center growth supporting further upside... [2873 chars]",
-            "url": "https://seekingalpha.com/article/4900685-agentic-ai-changes-the-rules-and-amd-looks-better-positioned-than-intel",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1175205290/image_1175205290.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-05-07T20:50:20Z",
+            "id": "9601c5534df56710304796c94b8339c4",
+            "title": "SES Investors Have Opportunity to Lead SES AI Corporation",
+            "description": "SES Investors Have Opportunity to Lead SES AI Corporation Securities Fraud Lawsuit with the Schall Law Firm...",
+            "content": "LOS ANGELES, May 08, 2026 (GLOBE NEWSWIRE) -- The Schall Law Firm, a national shareholder rights litigation firm, reminds investors of a class action lawsuit against SES AI Corporation (“SES” or “the Company”) (NYSE: SES) for violations of §§10(b) an... [1810 chars]",
+            "url": "https://www.globenewswire.com/news-release/2026/05/08/3291364/0/en/ses-investors-have-opportunity-to-lead-ses-ai-corporation-securities-fraud-lawsuit-with-the-schall-law-firm.html",
+            "image": "https://ml.globenewswire.com/Resource/Download/60f84371-8ef5-454a-ab60-63e56a837741",
+            "publishedAt": "2026-05-08T20:57:58Z",
             "lang": "en",
             "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
                 "country": "us"
             }
         },
         {
-            "id": "7e435a39e06573e1590d53348fc483c6",
-            "title": "Mythos moment is a wake",
-            "description": "AI readiness must become a top-tier priority for governments worldwide.",
-            "content": "WHEN Anthropic, the San Francisco-based artificial intelligence (AI) company, announced its new frontier model on April 7, the news startled governments and corporations around the world. In pre-release testing, Claude Mythos had autonomously identif... [6138 chars]",
-            "url": "https://www.tribuneindia.com/news/comment/mythos-moment-is-a-wake-up-call/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ1YzVjZDcwLTRhNTYtMTFmMS1iM2QwLWI3YzFiZWUzMDg5MS5qcGc=",
-            "publishedAt": "2026-05-07T20:49:39Z",
+            "id": "36be373cc49c46756b966de80f9174eb",
+            "title": "5,000 vibe-coded apps just proved shadow AI is the new S3 bucket crisis",
+            "description": "RedAccess found 380,000 exposed vibe-coded apps — roughly 5,000 contained sensitive corporate data including patient records and financial information.",
+            "content": "Most enterprise security programs were built to protect servers, endpoints, and cloud accounts. None of them was built to find a customer intake form that a product manager vibe coded on Lovable over a weekend, connected to a live Supabase database, ... [8916 chars]",
+            "url": "https://venturebeat.com/security/vibe-coded-apps-shadow-ai-s3-bucket-crisis-ciso-audit-framework",
+            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3H8BkMlVjetAGClhRKtmFK/533b657c9dd2b63819c0db0d2f8c6559/5_000_vibe-coded_apps_just_proved_shadow_AI_is_the_new_S3_bucket_crisis.png?w=800&q=75",
+            "publishedAt": "2026-05-08T20:57:01Z",
             "lang": "en",
             "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
+                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "94c2a917984d307b468cc3783c264ddc",
+            "title": "Platform engineering drives Red Hat’s enterprise AI push",
+            "description": "Platform engineering anchors Red Hat’s push to scale AI, virtualization and open hybrid cloud across enterprise infrastructure.",
+            "content": "Enterprise artificial intelligence is growing more complicated, and platform engineering is becoming the control layer that keeps it moving.\nAs AI moves into production, the challenge is no longer just choosing models — it is getting data, applicatio... [8644 chars]",
+            "url": "https://siliconangle.com/2026/05/08/red-hat-platform-engineering-redhatsummit/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Market-Insights-Red-Hat-Summit-2026.png",
+            "publishedAt": "2026-05-08T20:56:59Z",
+            "lang": "en",
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "65f0b33d02d0d3e73d36ff2ac2f7db21",
+            "title": "Whoop health-tracker new AI and on-demand doctor features",
+            "description": "If you own a Whoop fitness-tracking wearable, you’ll want to check out these new updates surrounding medical records and AI insights.",
+            "content": "Whoop, maker of the screenless Whoop 5.0 fitness-tracking wristband, announced on Friday that it’s expanding its member experience by connecting your health data to the real world. Soon, all Whoop memberships will include AI-focused features and a sl... [2239 chars]",
+            "url": "https://www.cnet.com/health/fitness/whoop-fitness-tracker-ai-feature-on-demand-doctors/",
+            "image": "https://www.cnet.com/a/img/resize/df962798716aea2c5251544bbcde22908b408837/hub/2026/05/08/ee74d67e-dad2-4c2b-847b-665f130719ae/whoop-render-ui-1600x900-option-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-05-08T20:54:00Z",
+            "lang": "en",
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "576f50d1afa18f732fd675360d1e1e80",
+            "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
+            "description": "But human artists still \"must remain at the center,\" PlayStation maker says.",
+            "content": "Anyone following the modern game industry knows that easy-to-use game engines and the accelerating shift to digital distribution have helped enable a massive increase in the quantity of commercial games released each year, both on console storefronts... [4366 chars]",
+            "url": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2264634340-1152x648.jpg",
+            "publishedAt": "2026-05-08T20:51:17Z",
+            "lang": "en",
+            "source": {
+                "id": "b7a61248c3383fb45a09d6a35a7e14df",
+                "name": "Ars Technica",
+                "url": "https://arstechnica.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "23f3edcf323efe1bfbe588a39b311222",
+            "title": "Fly Bharathi Group & SP Plus AG, Switzerland Announce Landmark Investment Initiative in India",
+            "description": "State of Art MRO Facility at Bhopal · Private Airports for Spiritual Tourism · An ultra modern Pilot Training facility · Strategic NBFC & Micro Financing Investments · Mission Ops AI — Five Transformational Initiatives, One Vision: Atmanirbhar Bharat",
+            "content": "Fly Bharathi Group, India's emerging integrated aviation and infrastructure platform, together with its long-term Swiss investment and business partner SP-PLUS AG, Switzerland, today announces a series of landmark strategic initiatives representing a... [7583 chars]",
+            "url": "https://www.republicworld.com/initiatives/fly-bharathi-group-sp-plus-ag-switzerland-announce-landmark-investment-initiative-in-india-2026-05-08-123524",
+            "image": "https://img.republicworld.com/all_images/2026/05/fly-bharathi-group-sp-plus-ag-switzerland-announce-landmark-investment-initiative-in-india-1778273322000-1280x720.webp",
+            "publishedAt": "2026-05-08T20:48:46Z",
+            "lang": "en",
+            "source": {
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
                 "country": "in"
+            }
+        },
+        {
+            "id": "f02a80f2b82877f5ed9308e2f35cb23e",
+            "title": "India among first in Global South to develop Health AI benchmarking platform, says health body CEO",
+            "description": "India is among the first countries in the Global South to develop an open Health AI benchmarking platform to evaluate artificial intelligence models on diverse Indian datasets before deployment at a population scale, National Health Authority (NHA) CEO Dr Sunil Kumar Barnwal said on Friday.",
+            "content": "India is among the first countries in the Global South to develop an open Health AI benchmarking platform to evaluate artificial intelligence models on diverse Indian datasets before deployment at a population scale, National Health Authority (NHA) C... [2443 chars]",
+            "url": "https://www.cnbctv18.com/lifestyle/healthcare/india-among-first-in-global-south-to-develop-health-ai-benchmarking-platform-says-health-body-ceo-19902309.htm",
+            "image": "https://images.cnbctv18.com/uploads/2026/03/1773824962_4pSffne1rc-healthcarepharmamedicineMar18jpg-yE0Y2G2KcL.jpg?im=FitAndFill,width=500,height=300",
+            "publishedAt": "2026-05-08T20:43:01Z",
+            "lang": "en",
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "38f9e20ab95b74441785bebc78b611da",
+            "title": "Star Wars' Mark Hamill branded 'sick' by White House after posting AI pic of Trump dead in a shallow grave",
+            "description": "STAR Wars legend Mark Hamill was branded a “sick individual” by The White House after posting an AI image of Donald Trump in a shallow...",
+            "content": "STAR Wars legend Mark Hamill was branded a “sick individual” by The White House after posting an AI image of Donald Trump in a shallow grave.\nThe Luke Skywalker actor, 74 — an outspoken critic of the US President — later apologised and took it down.\n... [2027 chars]",
+            "url": "https://www.thesun.ie/news/16932526/mark-hamill-trump-ai-pic-blasted/",
+            "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/05/crop-39054790.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+            "publishedAt": "2026-05-08T20:36:05Z",
+            "lang": "en",
+            "source": {
+                "id": "cf119ed600a8a7c8e23575950f071fec",
+                "name": "The Irish Sun",
+                "url": "https://www.thesun.ie",
+                "country": "ie"
             }
         }
     ]
