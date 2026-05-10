@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 330020,
+    "totalArticles": 330405,
     "articles": [
         {
-            "id": "38195418c1d6680f0aa9e6f7dfb5c79b",
-            "title": "Intel shares fly on Apple chip deal report. Here's why it's a big deal",
-            "description": "Samsung, Intel and TSMC are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
-            "content": "Apple and Intel are reportedly closing in on a deal that would see Intel make some of the chips for the iPhone maker's devices, marking a major shift in the chipmaking landscape.\nTalks between the two companies have been brewing for more than a year,... [3580 chars]",
-            "url": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108138284-1754575854218-108138284-17459584162025-04-29t202259z_872793_rc2k7ea4m7ma_rtrmadp_0_intel-tech.jpg?v=1754575876&w=1920&h=1080",
-            "publishedAt": "2026-05-08T21:03:09Z",
+            "id": "797d83f4e1e38ba0c1874631c2e3bb81",
+            "title": "Awareness Marketing Management DWC LLC: UAE-Based The Black Box Announces Project Pipeline Exceeding USD 10 Million Following Participation at Make it in the Emirates 2026",
+            "description": "Dubai, United Arab Emirates--(Newsfile Corp. - May 9, 2026) - Six-year-old UAE technology and manufacturing company strengthens its position as an emerging regional player in AI-driven industrial innovation",
+            "content": "Dubai, United Arab Emirates--(Newsfile Corp. - May 9, 2026) - Six-year-old UAE technology and manufacturing company strengthens its position as an emerging regional player in AI-driven industrial innovation and enterprise technologies\nThe Black Box, ... [3354 chars]",
+            "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68447935-awareness-marketing-management-dwc-llc-uae-based-the-black-box-announces-project-pipeline-exceeding-usd-10-million-following-participation-at-make-it-296.htm",
+            "image": "https://www.finanznachrichten.de/content/g/fb.png",
+            "publishedAt": "2026-05-09T21:14:00Z",
+            "lang": "en",
+            "source": {
+                "id": "757fbdd82c8f9334e4004c82ac6fb28a",
+                "name": "FinanzNachrichten",
+                "url": "https://www.finanznachrichten.de",
+                "country": "de"
+            }
+        },
+        {
+            "id": "855f071a23cdebc852ad135aa2f587b9",
+            "title": "Australia's data centre dilemma: energy boom or bust?",
+            "description": "Tech giants are spending billions of dollars to make Australia an artificial intelligence destination but its impact on the nation is up for debate.",
+            "content": "Australia's tech future hums and flashes inside hundreds of buildings across the country.\nDrives perched on top of one another, stacked into racks and organised into long rows; the metal boxes delivering vital information, processing demands and answ... [5704 chars]",
+            "url": "https://www.perthnow.com.au/news/technology/australias-data-centre-dilemma-energy-boom-or-bust-c-22261251",
+            "image": "https://images.perthnow.com.au/publication/C-22261251/7ac077a0eb93a392449b1f1253c520918f5ac909-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-05-09T21:03:14Z",
+            "lang": "en",
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "d33fbe458f1c718f2b476f69b6e4e19b",
+            "title": "Australia's data centre dilemma: energy boom or bust?",
+            "description": "Tech giants are spending billions of dollars to make Australia an artificial intelligence destination but its impact on...",
+            "content": "Australia is considered a prime location amid the global data centre boom. Photo: AAP PHOTOS\nAustralia's tech future hums and flashes inside hundreds of buildings across the country.\nSubscribe now for unlimited access .\nor signup to continue reading\n... [8253 chars]",
+            "url": "https://www.canberratimes.com.au/story/9243025/australias-data-centre-dilemma-energy-boom-or-bust/",
+            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/8889a5b3-2ab3-4c32-ac91-69464083fd6b.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-05-09T21:00:01Z",
+            "lang": "en",
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "2abc1e272370041f9a1340ed6955ed97",
+            "title": "Surviving AI FOMO: Do we all need a digital second brain?",
+            "description": "A minister’s experiment with an AI agent sparked my existential dread, but we should not hit the panic button just yet. Read more at straitstimes.com.",
+            "content": "I cannot pinpoint exactly when it started, but I have long harboured an acute insecurity about falling behind the technological curve.\nIf I had to play armchair psychologist to myself, I suspect the anxiety stems from moments of troubleshooting all s... [6822 chars]",
+            "url": "https://www.straitstimes.com/opinion/surviving-ai-fomo-do-we-all-need-a-digital-second-brain",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/77e882f2438c9e62d8102b5fbdab2ff4f2411e92e160032454756f5d71661783",
+            "publishedAt": "2026-05-09T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "138ec7d72d9829280c093d897abf7e2f",
+            "title": "Parents, educators warn NYC students could be at risk under new AI school guidelines",
+            "description": "Parents, teachers and advocates are pushing back hard against NYC Public Schools' new AI guidelines, warning the city is embracing unproven technology at the expense of students' cognitive development.",
+            "content": "The city’s embrace of artificial intelligence in public schools could irreparably harm students, dumbing them down and leaving them dependent on the tech, critics warned.\nParents and educators generated a blizzard of more than 6,000 comments during a... [4605 chars]",
+            "url": "https://nypost.com/2026/05/09/us-news/advocates-educators-warn-nyc-students-could-be-at-risk-under-new-ai-school-guidelines/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/nyc-doe-45-day-feedback-127278540.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-05-09T20:51:02Z",
+            "lang": "en",
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "7c273bdcb7fd2bdc6a94d8f7f3bae471",
+            "title": "Forget Paying iPhone Prices, the Google Pixel 10a Does Everything for Half the Cost",
+            "description": "The Google Pixel 10a just launched and Amazon is already selling it below Google's official price. Seven years of software updates, Gemini AI on-device, a 30-hour battery, and a camera that rivals phones twice the price for roughly half what an iPhone costs.",
+            "content": "The iPhone 16 starts at $799. The iPhone 16 Pro starts at $999. The Pixel 10a does the same core things, great camera, fast processor, AI assistant, crash detection, long battery life, and Amazon currently has it at $449, down from its regular $499, ... [2366 chars]",
+            "url": "https://gizmodo.com/forget-paying-iphone-prices-google-pixel-10a-does-everything-half-the-cost-2000756618",
+            "image": "https://gizmodo.com/app/uploads/2026/05/google-pixel-10a-1200x675.jpg",
+            "publishedAt": "2026-05-09T20:45:24Z",
+            "lang": "en",
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "afec9a4dff24c375ff7157bcdd2ea70e",
+            "title": "Universities Must Teach AI Tools",
+            "description": "As a university student in Islamabad, I am concerned that our degrees are failing to prepare us for the job market of 2026. googletag.cmd.push(function() {",
+            "content": "As a university student in Islamabad, I am concerned that our degrees are failing to prepare us for the job market of 2026.\nWhile students spend four years studying theory, employers increasingly demand graduates skilled in AI tools such as ChatGPT, ... [1100 chars]",
+            "url": "https://www.nation.com.pk/10-May-2026/universities-must-teach-ai-tools",
+            "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+            "publishedAt": "2026-05-09T20:29:00Z",
+            "lang": "en",
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            }
+        },
+        {
+            "id": "3fc13732abba0efb78221d4e648c30c7",
+            "title": "Heavily congested California highway will now be controlled by AI",
+            "description": "It's an effort that officials say could reshape how the state fights gridlock and potentially save hundreds of millions in construction costs.",
+            "content": "Artificial intelligence is coming to one of California’s most congested highways, all in an effort officials say could reshape how the state fights gridlock and potentially save hundreds of millions in construction costs.\nMonterey County made the mov... [2139 chars]",
+            "url": "https://nypost.com/2026/05/09/us-news/heavily-congested-california-highway-will-now-be-controlled-by-ai/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/127342211.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-05-09T20:24:29Z",
+            "lang": "en",
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "4ef1d215783d458187414ec301eaee98",
+            "title": "AI use surges globally but rich-poor divide widens, Microsoft says",
+            "description": "Generative artificial intelligence is being used by 17.8 percent of the world's working-age population, but the gap between wealthy and developing nations continues to widen, according to a report published by Microsoft. In the first quarter of 2026, 27.5 percent of people aged 15-64 in developed countries used a generative…",
+            "content": "Generative artificial intelligence is being used by 17.8 percent of the world's working-age population, but the gap between wealthy and developing nations continues to widen, according to a report published by Microsoft.\nIn the first quarter of 2026,... [1979 chars]",
+            "url": "https://japantoday.com/category/tech/ai-use-surges-globally-but-rich-poor-divide-widens-microsoft-says",
+            "image": "https://media.japantoday.com/img/store/94/2b/c354e8c8905d44aeaf24db5a6b1e645ae2c2/0a28dea13fae1b548f85e7b08507bc4044c44055/_w1700.jpeg",
+            "publishedAt": "2026-05-09T20:18:00Z",
+            "lang": "en",
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            }
+        },
+        {
+            "id": "cbcb14dac69d0d185bc0aed5321a5069",
+            "title": "S&P 500 extends winning streak to 6 weeks. What drove the stock market gains",
+            "description": "Investors cheered positive earnings, economic data, and a high-profile AI partnership.",
+            "content": "Another superb week for stocks is in the books. The S & P 500 and Nasdaq rallied on Friday to close out the week at a record high as Wall Street celebrated another solid batch of earnings and a strong-but-not-too-strong jobs report, while holding out... [5727 chars]",
+            "url": "https://www.cnbc.com/2026/05/09/sp-500-extends-winning-streak-to-6-weeks-what-drove-the-stock-market-gains.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108265635-1770999292005-gettyimages-2260936508-AFP_97EN9RV.jpeg?v=1774272523&w=1920&h=1080",
+            "publishedAt": "2026-05-09T20:15:25Z",
             "lang": "en",
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
                 "name": "CNBC",
                 "url": "https://www.cnbc.com",
                 "country": "us"
-            }
-        },
-        {
-            "id": "d899538eb878bf007eb187ed89fb1b17",
-            "title": "N.J. man charged with creating AI-generated child sexual abuse material",
-            "description": "Authorities found more than 75 child sexual abuse material images on the West Deptford resident's personal cell phone, the Gloucester County Prosecutor’s Office said.",
-            "content": "A man in Gloucester County was arrested and charged after police found dozens of child sexual abuse materials on his phone.\nThe 40-year-old man from West Deptford was charged with possession of child sexual abuse materials and creating deepfake, or A... [814 chars]",
-            "url": "https://www.nj.com/gloucester-county/2026/05/nj-man-charged-with-creating-ai-generated-child-sexual-abuse-material.html",
-            "image": "https://www.nj.com/resizer/v2/IF5SBCLCMRFOBOWWIEEUKD5DSQ.JPG?auth=7c8d0e76d112df4f06cde89fcc6a01d5529f071ee63331cad5e5b39c6821e8be&width=1280&smart=true&quality=90",
-            "publishedAt": "2026-05-08T20:59:41Z",
-            "lang": "en",
-            "source": {
-                "id": "49751e72ee79ba8eb1d9dcf6e10bf195",
-                "name": "NJ.com",
-                "url": "https://www.nj.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "9601c5534df56710304796c94b8339c4",
-            "title": "SES Investors Have Opportunity to Lead SES AI Corporation",
-            "description": "SES Investors Have Opportunity to Lead SES AI Corporation Securities Fraud Lawsuit with the Schall Law Firm...",
-            "content": "LOS ANGELES, May 08, 2026 (GLOBE NEWSWIRE) -- The Schall Law Firm, a national shareholder rights litigation firm, reminds investors of a class action lawsuit against SES AI Corporation (“SES” or “the Company”) (NYSE: SES) for violations of §§10(b) an... [1810 chars]",
-            "url": "https://www.globenewswire.com/news-release/2026/05/08/3291364/0/en/ses-investors-have-opportunity-to-lead-ses-ai-corporation-securities-fraud-lawsuit-with-the-schall-law-firm.html",
-            "image": "https://ml.globenewswire.com/Resource/Download/60f84371-8ef5-454a-ab60-63e56a837741",
-            "publishedAt": "2026-05-08T20:57:58Z",
-            "lang": "en",
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "36be373cc49c46756b966de80f9174eb",
-            "title": "5,000 vibe-coded apps just proved shadow AI is the new S3 bucket crisis",
-            "description": "RedAccess found 380,000 exposed vibe-coded apps — roughly 5,000 contained sensitive corporate data including patient records and financial information.",
-            "content": "Most enterprise security programs were built to protect servers, endpoints, and cloud accounts. None of them was built to find a customer intake form that a product manager vibe coded on Lovable over a weekend, connected to a live Supabase database, ... [8916 chars]",
-            "url": "https://venturebeat.com/security/vibe-coded-apps-shadow-ai-s3-bucket-crisis-ciso-audit-framework",
-            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3H8BkMlVjetAGClhRKtmFK/533b657c9dd2b63819c0db0d2f8c6559/5_000_vibe-coded_apps_just_proved_shadow_AI_is_the_new_S3_bucket_crisis.png?w=800&q=75",
-            "publishedAt": "2026-05-08T20:57:01Z",
-            "lang": "en",
-            "source": {
-                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
-                "name": "VentureBeat",
-                "url": "https://venturebeat.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "94c2a917984d307b468cc3783c264ddc",
-            "title": "Platform engineering drives Red Hat’s enterprise AI push",
-            "description": "Platform engineering anchors Red Hat’s push to scale AI, virtualization and open hybrid cloud across enterprise infrastructure.",
-            "content": "Enterprise artificial intelligence is growing more complicated, and platform engineering is becoming the control layer that keeps it moving.\nAs AI moves into production, the challenge is no longer just choosing models — it is getting data, applicatio... [8644 chars]",
-            "url": "https://siliconangle.com/2026/05/08/red-hat-platform-engineering-redhatsummit/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Market-Insights-Red-Hat-Summit-2026.png",
-            "publishedAt": "2026-05-08T20:56:59Z",
-            "lang": "en",
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "65f0b33d02d0d3e73d36ff2ac2f7db21",
-            "title": "Whoop health-tracker new AI and on-demand doctor features",
-            "description": "If you own a Whoop fitness-tracking wearable, you’ll want to check out these new updates surrounding medical records and AI insights.",
-            "content": "Whoop, maker of the screenless Whoop 5.0 fitness-tracking wristband, announced on Friday that it’s expanding its member experience by connecting your health data to the real world. Soon, all Whoop memberships will include AI-focused features and a sl... [2239 chars]",
-            "url": "https://www.cnet.com/health/fitness/whoop-fitness-tracker-ai-feature-on-demand-doctors/",
-            "image": "https://www.cnet.com/a/img/resize/df962798716aea2c5251544bbcde22908b408837/hub/2026/05/08/ee74d67e-dad2-4c2b-847b-665f130719ae/whoop-render-ui-1600x900-option-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-05-08T20:54:00Z",
-            "lang": "en",
-            "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "576f50d1afa18f732fd675360d1e1e80",
-            "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
-            "description": "But human artists still \"must remain at the center,\" PlayStation maker says.",
-            "content": "Anyone following the modern game industry knows that easy-to-use game engines and the accelerating shift to digital distribution have helped enable a massive increase in the quantity of commercial games released each year, both on console storefronts... [4366 chars]",
-            "url": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2264634340-1152x648.jpg",
-            "publishedAt": "2026-05-08T20:51:17Z",
-            "lang": "en",
-            "source": {
-                "id": "b7a61248c3383fb45a09d6a35a7e14df",
-                "name": "Ars Technica",
-                "url": "https://arstechnica.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "23f3edcf323efe1bfbe588a39b311222",
-            "title": "Fly Bharathi Group & SP Plus AG, Switzerland Announce Landmark Investment Initiative in India",
-            "description": "State of Art MRO Facility at Bhopal · Private Airports for Spiritual Tourism · An ultra modern Pilot Training facility · Strategic NBFC & Micro Financing Investments · Mission Ops AI — Five Transformational Initiatives, One Vision: Atmanirbhar Bharat",
-            "content": "Fly Bharathi Group, India's emerging integrated aviation and infrastructure platform, together with its long-term Swiss investment and business partner SP-PLUS AG, Switzerland, today announces a series of landmark strategic initiatives representing a... [7583 chars]",
-            "url": "https://www.republicworld.com/initiatives/fly-bharathi-group-sp-plus-ag-switzerland-announce-landmark-investment-initiative-in-india-2026-05-08-123524",
-            "image": "https://img.republicworld.com/all_images/2026/05/fly-bharathi-group-sp-plus-ag-switzerland-announce-landmark-investment-initiative-in-india-1778273322000-1280x720.webp",
-            "publishedAt": "2026-05-08T20:48:46Z",
-            "lang": "en",
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "f02a80f2b82877f5ed9308e2f35cb23e",
-            "title": "India among first in Global South to develop Health AI benchmarking platform, says health body CEO",
-            "description": "India is among the first countries in the Global South to develop an open Health AI benchmarking platform to evaluate artificial intelligence models on diverse Indian datasets before deployment at a population scale, National Health Authority (NHA) CEO Dr Sunil Kumar Barnwal said on Friday.",
-            "content": "India is among the first countries in the Global South to develop an open Health AI benchmarking platform to evaluate artificial intelligence models on diverse Indian datasets before deployment at a population scale, National Health Authority (NHA) C... [2443 chars]",
-            "url": "https://www.cnbctv18.com/lifestyle/healthcare/india-among-first-in-global-south-to-develop-health-ai-benchmarking-platform-says-health-body-ceo-19902309.htm",
-            "image": "https://images.cnbctv18.com/uploads/2026/03/1773824962_4pSffne1rc-healthcarepharmamedicineMar18jpg-yE0Y2G2KcL.jpg?im=FitAndFill,width=500,height=300",
-            "publishedAt": "2026-05-08T20:43:01Z",
-            "lang": "en",
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "38f9e20ab95b74441785bebc78b611da",
-            "title": "Star Wars' Mark Hamill branded 'sick' by White House after posting AI pic of Trump dead in a shallow grave",
-            "description": "STAR Wars legend Mark Hamill was branded a “sick individual” by The White House after posting an AI image of Donald Trump in a shallow...",
-            "content": "STAR Wars legend Mark Hamill was branded a “sick individual” by The White House after posting an AI image of Donald Trump in a shallow grave.\nThe Luke Skywalker actor, 74 — an outspoken critic of the US President — later apologised and took it down.\n... [2027 chars]",
-            "url": "https://www.thesun.ie/news/16932526/mark-hamill-trump-ai-pic-blasted/",
-            "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/05/crop-39054790.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-            "publishedAt": "2026-05-08T20:36:05Z",
-            "lang": "en",
-            "source": {
-                "id": "cf119ed600a8a7c8e23575950f071fec",
-                "name": "The Irish Sun",
-                "url": "https://www.thesun.ie",
-                "country": "ie"
             }
         }
     ]
