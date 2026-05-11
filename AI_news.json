@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 330405,
+    "totalArticles": 330739,
     "articles": [
         {
-            "id": "797d83f4e1e38ba0c1874631c2e3bb81",
-            "title": "Awareness Marketing Management DWC LLC: UAE-Based The Black Box Announces Project Pipeline Exceeding USD 10 Million Following Participation at Make it in the Emirates 2026",
-            "description": "Dubai, United Arab Emirates--(Newsfile Corp. - May 9, 2026) - Six-year-old UAE technology and manufacturing company strengthens its position as an emerging regional player in AI-driven industrial innovation",
-            "content": "Dubai, United Arab Emirates--(Newsfile Corp. - May 9, 2026) - Six-year-old UAE technology and manufacturing company strengthens its position as an emerging regional player in AI-driven industrial innovation and enterprise technologies\nThe Black Box, ... [3354 chars]",
-            "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68447935-awareness-marketing-management-dwc-llc-uae-based-the-black-box-announces-project-pipeline-exceeding-usd-10-million-following-participation-at-make-it-296.htm",
-            "image": "https://www.finanznachrichten.de/content/g/fb.png",
-            "publishedAt": "2026-05-09T21:14:00Z",
+            "id": "06655c7e0d5bcd4a44cc16f31af7742f",
+            "title": "Trump and Xi set for talks spanning Iran, nuclear, trade and AI",
+            "description": "The summit will be the two leaders' first face-to-face talks in more than six months as they try to stabilise ties strained by trade, the US and Israeli war with Iran and other areas of disagreement.",
+            "content": "WASHINGTON: United States President Donald Trump and Chinese President Xi Jinping are set to discuss Iran, Taiwan, artificial intelligence and nuclear weapons as they weigh extending a critical minerals deal, according to US officials previewing Trum... [4263 chars]",
+            "url": "https://www.channelnewsasia.com/east-asia/trump-us-china-talks-iran-nuclear-trade-ai-6112541",
+            "image": "https://dam.mediacorp.sg/image/upload/s--2ZZZcnSe--/c_crop,h_450,w_800,x_0,y_30/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-05T050730Z_1_LYNXMPEM4405A_RTROPTP_3_USA-TRUMP-XI.JPG?itok=VkOkJWLB",
+            "publishedAt": "2026-05-10T22:40:00Z",
             "lang": "en",
             "source": {
-                "id": "757fbdd82c8f9334e4004c82ac6fb28a",
-                "name": "FinanzNachrichten",
-                "url": "https://www.finanznachrichten.de",
-                "country": "de"
-            }
-        },
-        {
-            "id": "855f071a23cdebc852ad135aa2f587b9",
-            "title": "Australia's data centre dilemma: energy boom or bust?",
-            "description": "Tech giants are spending billions of dollars to make Australia an artificial intelligence destination but its impact on the nation is up for debate.",
-            "content": "Australia's tech future hums and flashes inside hundreds of buildings across the country.\nDrives perched on top of one another, stacked into racks and organised into long rows; the metal boxes delivering vital information, processing demands and answ... [5704 chars]",
-            "url": "https://www.perthnow.com.au/news/technology/australias-data-centre-dilemma-energy-boom-or-bust-c-22261251",
-            "image": "https://images.perthnow.com.au/publication/C-22261251/7ac077a0eb93a392449b1f1253c520918f5ac909-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-05-09T21:03:14Z",
-            "lang": "en",
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "d33fbe458f1c718f2b476f69b6e4e19b",
-            "title": "Australia's data centre dilemma: energy boom or bust?",
-            "description": "Tech giants are spending billions of dollars to make Australia an artificial intelligence destination but its impact on...",
-            "content": "Australia is considered a prime location amid the global data centre boom. Photo: AAP PHOTOS\nAustralia's tech future hums and flashes inside hundreds of buildings across the country.\nSubscribe now for unlimited access .\nor signup to continue reading\n... [8253 chars]",
-            "url": "https://www.canberratimes.com.au/story/9243025/australias-data-centre-dilemma-energy-boom-or-bust/",
-            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/8889a5b3-2ab3-4c32-ac91-69464083fd6b.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-05-09T21:00:01Z",
-            "lang": "en",
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "2abc1e272370041f9a1340ed6955ed97",
-            "title": "Surviving AI FOMO: Do we all need a digital second brain?",
-            "description": "A minister’s experiment with an AI agent sparked my existential dread, but we should not hit the panic button just yet. Read more at straitstimes.com.",
-            "content": "I cannot pinpoint exactly when it started, but I have long harboured an acute insecurity about falling behind the technological curve.\nIf I had to play armchair psychologist to myself, I suspect the anxiety stems from moments of troubleshooting all s... [6822 chars]",
-            "url": "https://www.straitstimes.com/opinion/surviving-ai-fomo-do-we-all-need-a-digital-second-brain",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/77e882f2438c9e62d8102b5fbdab2ff4f2411e92e160032454756f5d71661783",
-            "publishedAt": "2026-05-09T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
                 "country": "sg"
             }
         },
         {
-            "id": "138ec7d72d9829280c093d897abf7e2f",
-            "title": "Parents, educators warn NYC students could be at risk under new AI school guidelines",
-            "description": "Parents, teachers and advocates are pushing back hard against NYC Public Schools' new AI guidelines, warning the city is embracing unproven technology at the expense of students' cognitive development.",
-            "content": "The city’s embrace of artificial intelligence in public schools could irreparably harm students, dumbing them down and leaving them dependent on the tech, critics warned.\nParents and educators generated a blizzard of more than 6,000 comments during a... [4605 chars]",
-            "url": "https://nypost.com/2026/05/09/us-news/advocates-educators-warn-nyc-students-could-be-at-risk-under-new-ai-school-guidelines/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/nyc-doe-45-day-feedback-127278540.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-05-09T20:51:02Z",
+            "id": "24582fb7110387b7823b3d05c6d4b5a0",
+            "title": "Mideast war fuels move to new AI tech model",
+            "description": "The future of enterprise computing is shifting from a purely cloud-centric model towards a more distributed artificial intelligence (AI) model powered by AI PCs and high-performance workstations.",
+            "content": "The future of enterprise computing is shifting from a purely cloud-centric model towards a more distributed artificial intelligence (AI) model powered by AI PCs and high-performance workstations.\nThe conflict in the Middle East is helping to drive th... [5512 chars]",
+            "url": "https://www.bangkokpost.com/business/general/3253010/mideast-war-fuels-move-to-new-ai-tech-model",
+            "image": "https://static.bangkokpost.com/media/content/dcx/2026/05/11/6083985_700.jpeg",
+            "publishedAt": "2026-05-10T22:17:00Z",
             "lang": "en",
             "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            }
+        },
+        {
+            "id": "c4d91520defe89327a89972cf91051df",
+            "title": "ready, integrate AI in policing operations",
+            "description": "Stresses that most dangerous criminals and terrorists do not always carry weapons but exploit code, data and encrypted networks.",
+            "content": "Jammu & Kashmir Lt Governor Manoj Sinha on Sunday emphasised that the internal security landscape is rapidly evolving and called for greater integration of Artificial Intelligence (AI) in policing operations. He urged the J&K Police to develop a road... [1833 chars]",
+            "url": "https://www.tribuneindia.com/news/j-k/l-g-sinha-urges-jk-cops-to-get-future-ready-integrate-ai-in-policing-operations/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNkODJkNzMwLTRjYmQtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
+            "publishedAt": "2026-05-10T22:15:48Z",
+            "lang": "en",
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "d771d4e284b8106180d9f33a9600c946",
+            "title": "BsStrategy Launches Crypto Trading Bot, Aligning with the 2026 Trend Toward an Automated Digital Asset Market",
+            "description": "AI-driven trading platform connects crypto market review, strategy activation, bot-supported execution, and activity visibility in one organized environment",
+            "content": "AI-driven trading platform connects crypto market review, strategy activation, bot-supported execution, and activity visibility in one organized environment\nBsStrategy Logo\nNEW YORK, May 10, 2026 (GLOBE NEWSWIRE) -- Cryptocurrency markets continue to... [2620 chars]",
+            "url": "https://www.manilatimes.net/2026/05/11/tmt-newswire/globenewswire/bsstrategy-launches-crypto-trading-bot-aligning-with-the-2026-trend-toward-an-automated-digital-asset-market/2340287",
+            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/11/1050642.png",
+            "publishedAt": "2026-05-10T22:15:34Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "5d14d60c00aaac6fb5eaeace94f32744",
+            "title": "Journalists ask: how firmly to embrace AI?",
+            "description": "KUALA LUMPUR: Educators and media professionals across Asean explored the growing role of artificial intelligence (AI) in the newsroom, urging colleagues to view the technology as an assistant rather than a replacement, a regional media forum heard.",
+            "content": "KUALA LUMPUR: Educators and media professionals across Asean explored the growing role of artificial intelligence (AI) in the newsroom, urging colleagues to view the technology as an assistant rather than a replacement, a regional media forum heard.\n... [7030 chars]",
+            "url": "https://www.bangkokpost.com/world/3252965/journalists-ask-how-firmly-to-embrace-ai",
+            "image": "https://static.bangkokpost.com/media/content/dcx/2026/05/11/6083965_700.jpg",
+            "publishedAt": "2026-05-10T22:11:00Z",
+            "lang": "en",
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            }
+        },
+        {
+            "id": "a4a80850b9100de375c68282d8f2e792",
+            "title": "NVIDIA's V100, An 8-Year Old GPU, Now Sells for $100 and Crushes Modern Consumer Cards in AI LLM Workloads",
+            "description": "The 8-year-old NVIDIA V100 outperformed the RTX 3060 and RX 7800 XT in AI LLMs, achieving 130 Tokens/s at only $200 total cost with mods.",
+            "content": "New GPUs are optimized substantially for AI workloads, but what if old GPUs like the 8-year-old NVIDIA V100, costing around $100, start to outperform recent offerings in LLMs?\nNVIDIA V100, an 8-Year-Old GPU, Dusted The 5-Year Old RTX 3060 & 3-Year Ol... [3304 chars]",
+            "url": "https://wccftech.com/nvidia-v100-an-8-year-old-gpu-now-sells-for-100-us-crushes-modern-consumer-cards-in-ai-llms/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/NVIDIA-Tesla-V100-AI-LLMs-vs-RTX-3060-RX-7800-XT-_F-1920x1076.jpg",
+            "publishedAt": "2026-05-10T22:00:57Z",
+            "lang": "en",
+            "source": {
+                "id": "9a68172fefded1b86fc9a95d43faf501",
+                "name": "Wccftech",
+                "url": "https://wccftech.com",
                 "country": "us"
             }
         },
         {
-            "id": "7c273bdcb7fd2bdc6a94d8f7f3bae471",
-            "title": "Forget Paying iPhone Prices, the Google Pixel 10a Does Everything for Half the Cost",
-            "description": "The Google Pixel 10a just launched and Amazon is already selling it below Google's official price. Seven years of software updates, Gemini AI on-device, a 30-hour battery, and a camera that rivals phones twice the price for roughly half what an iPhone costs.",
-            "content": "The iPhone 16 starts at $799. The iPhone 16 Pro starts at $999. The Pixel 10a does the same core things, great camera, fast processor, AI assistant, crash detection, long battery life, and Amazon currently has it at $449, down from its regular $499, ... [2366 chars]",
-            "url": "https://gizmodo.com/forget-paying-iphone-prices-google-pixel-10a-does-everything-half-the-cost-2000756618",
-            "image": "https://gizmodo.com/app/uploads/2026/05/google-pixel-10a-1200x675.jpg",
-            "publishedAt": "2026-05-09T20:45:24Z",
+            "id": "33f486d1e292519a577f5e02c849e822",
+            "title": "BsStrategy Launches Crypto Trading Bot, Aligning with the",
+            "description": "AI-driven trading platform connects crypto market review, strategy activation, bot execution, and activity visibility in one system....",
+            "content": "BsStrategy Logo\nNEW YORK, May 10, 2026 (GLOBE NEWSWIRE) -- Cryptocurrency markets continue to operate at a pace that can be difficult for individual users to follow manually. Price movement across Bitcoin, Ethereum, Dogecoin, and other digital assets... [2611 chars]",
+            "url": "https://www.globenewswire.com/news-release/2026/05/10/3291514/0/en/bsstrategy-launches-crypto-trading-bot-aligning-with-the-2026-trend-toward-an-automated-digital-asset-market.html",
+            "image": "https://ml.globenewswire.com/Resource/Download/13835700-aa9d-49b4-9a09-126e354dae7c",
+            "publishedAt": "2026-05-10T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
                 "country": "us"
             }
         },
         {
-            "id": "afec9a4dff24c375ff7157bcdd2ea70e",
-            "title": "Universities Must Teach AI Tools",
-            "description": "As a university student in Islamabad, I am concerned that our degrees are failing to prepare us for the job market of 2026. googletag.cmd.push(function() {",
-            "content": "As a university student in Islamabad, I am concerned that our degrees are failing to prepare us for the job market of 2026.\nWhile students spend four years studying theory, employers increasingly demand graduates skilled in AI tools such as ChatGPT, ... [1100 chars]",
-            "url": "https://www.nation.com.pk/10-May-2026/universities-must-teach-ai-tools",
-            "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-            "publishedAt": "2026-05-09T20:29:00Z",
+            "id": "c462cc7a4c445b60dd4a7e1223a09eb4",
+            "title": "‘Battlefield expands beyond physical borders’: J&K LG calls for integration of AI into policing operations",
+            "description": "Jammu and Kashmir lieutenant governor Manoj Sinha on Sunday underscored the need for increased integration of Artificial Intelligence (AI) in policing operations pointing out the shifting landscape of internal security.",
+            "content": "Sinha handed over appointment letters to the newly recruited constables of Jammu Kashmir Police during a presentation ceremony at the Armed Police Complex, Zewan.\nWhile addressing the police officers and new recruits, he said that the battlefield has... [2415 chars]",
+            "url": "https://www.hindustantimes.com/cities/chandigarh-news/battlefield-expands-beyond-physical-borders-j-k-lg-calls-for-integration-of-ai-into-policing-operations-101778435027479.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/05/10/550x309/Lieutenant-governor-of-Jammu-and-Kashmir-Manoj-Sin_1778435024143.jpg",
+            "publishedAt": "2026-05-10T21:56:13Z",
             "lang": "en",
             "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
             }
         },
         {
-            "id": "3fc13732abba0efb78221d4e648c30c7",
-            "title": "Heavily congested California highway will now be controlled by AI",
-            "description": "It's an effort that officials say could reshape how the state fights gridlock and potentially save hundreds of millions in construction costs.",
-            "content": "Artificial intelligence is coming to one of California’s most congested highways, all in an effort officials say could reshape how the state fights gridlock and potentially save hundreds of millions in construction costs.\nMonterey County made the mov... [2139 chars]",
-            "url": "https://nypost.com/2026/05/09/us-news/heavily-congested-california-highway-will-now-be-controlled-by-ai/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/127342211.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-05-09T20:24:29Z",
+            "id": "5f636446f12834159c29edf98a71aacf",
+            "title": "Cerebras to raise IPO price range to $150-$160 as demand surges, sources say",
+            "description": "Cerebras Systems is set to raise the size and price of its initial public offering as soon as Monday, as demand for the artificial intelligence chipmaker's shares continues to climb, two people...",
+            "content": "May 10 (Reuters) - Cerebras Systems is set to raise the size and price of its initial public offering as soon as Monday, as demand for the artificial intelligence chipmaker's shares continues to climb, two people familiar with the matter told Reuters... [2310 chars]",
+            "url": "https://www.marketscreener.com/news/cerebras-to-raise-ipo-price-range-to-150-160-as-demand-surges-sources-say-ce7f5bd8dd89f126",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-03T212504Z_2_LYNXNPEL920WM_RTROPTP_4_AI-COMPANIES-CEREBRAS.JPG",
+            "publishedAt": "2026-05-10T21:38:19Z",
             "lang": "en",
             "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         },
         {
-            "id": "4ef1d215783d458187414ec301eaee98",
-            "title": "AI use surges globally but rich-poor divide widens, Microsoft says",
-            "description": "Generative artificial intelligence is being used by 17.8 percent of the world's working-age population, but the gap between wealthy and developing nations continues to widen, according to a report published by Microsoft. In the first quarter of 2026, 27.5 percent of people aged 15-64 in developed countries used a generative…",
-            "content": "Generative artificial intelligence is being used by 17.8 percent of the world's working-age population, but the gap between wealthy and developing nations continues to widen, according to a report published by Microsoft.\nIn the first quarter of 2026,... [1979 chars]",
-            "url": "https://japantoday.com/category/tech/ai-use-surges-globally-but-rich-poor-divide-widens-microsoft-says",
-            "image": "https://media.japantoday.com/img/store/94/2b/c354e8c8905d44aeaf24db5a6b1e645ae2c2/0a28dea13fae1b548f85e7b08507bc4044c44055/_w1700.jpeg",
-            "publishedAt": "2026-05-09T20:18:00Z",
+            "id": "9edcefdf8028c3defcca1c77b568233f",
+            "title": "UPDATE 2-Trump and China's Xi set for talks spanning Iran, nuclear, trade and AI",
+            "description": "The Chinese government has said privately to the U.S. that \"they have no interest in sitting down and discussing any kind of nuclear arms control or anything ⁠along those lines at this point,\" the official said. Trump and Xi's ⁠last meeting was in October in South Korea, where they agreed to pause a bruising trade war that had seen the U.S. impose triple-digit tariffs on Chinese goods and Beijing threaten to restrict the global supply of rare earths.",
+            "content": "U.S. President Donald Trump and Chinese President Xi Jinping are set to ‌discuss Iran, ​Taiwan, artificial intelligence and nuclear weapons as they weigh extending a critical minerals deal, according to U.S. officials previewing Trump's two-day visit... [4047 chars]",
+            "url": "https://www.devdiscourse.com/article/headlines/3903401-update-2-trump-and-chinas-xi-set-for-talks-spanning-iran-nuclear-trade-and-ai",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_01_02_8802375.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-05-10T21:34:39Z",
             "lang": "en",
             "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "cbcb14dac69d0d185bc0aed5321a5069",
-            "title": "S&P 500 extends winning streak to 6 weeks. What drove the stock market gains",
-            "description": "Investors cheered positive earnings, economic data, and a high-profile AI partnership.",
-            "content": "Another superb week for stocks is in the books. The S & P 500 and Nasdaq rallied on Friday to close out the week at a record high as Wall Street celebrated another solid batch of earnings and a strong-but-not-too-strong jobs report, while holding out... [5727 chars]",
-            "url": "https://www.cnbc.com/2026/05/09/sp-500-extends-winning-streak-to-6-weeks-what-drove-the-stock-market-gains.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108265635-1770999292005-gettyimages-2260936508-AFP_97EN9RV.jpeg?v=1774272523&w=1920&h=1080",
-            "publishedAt": "2026-05-09T20:15:25Z",
-            "lang": "en",
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
             }
         }
     ]
