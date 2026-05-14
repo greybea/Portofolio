@@ -4,80 +4,80 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 332896,
+    "totalArticles": 334051,
     "articles": [
         {
-            "id": "024266cb331889d6acb5105db430ac86",
-            "title": "30 p.m. Eastern Time",
-            "description": "13.05.2026 - SEATTLE, May 12, 2026 (GLOBE NEWSWIRE) - Banzai International, Inc. (NASDAQ: BNZI) (“Banzai” or the “Company”), a leading AI-powered sales and marketing technology company, will hold a conference call on Friday, May 15, 2026, at 4:30 p.m. Eastern ...",
-            "content": "SEATTLE, May 12, 2026 (GLOBE NEWSWIRE) -- Banzai International, Inc. (NASDAQ: BNZI) (“Banzai” or the “Company”), a leading AI-powered sales and marketing technology company, will hold a conference call on Friday, May 15, 2026, at 4:30 p.m. Eastern Ti... [1497 chars]",
-            "url": "https://www.wallstreet-online.de/nachricht/20866905-banzai-to-host-first-quarter-2026-financial-results-conference-call-on-friday-may-15-2026-at-4-30-p-m-eastern-time",
-            "image": "https://assets.wallstreet-online.de/_media/6/source1280/size_645/globenewswire-1280.png",
-            "publishedAt": "2026-05-12T22:10:32Z",
+            "id": "eb24eff2818796134ff3c0ae6fb21236",
+            "title": "Android rolling out AI-powered ‘Contextual suggestions’",
+            "description": "Google is using on-device AI to analyze how you use your Android phone and provide \"Contextual suggestions.\"",
+            "content": "Google is using on-device AI to analyze how you use your Android phone and provide “Contextual suggestions.”\nOnce available, scroll down to the bottom of Settings > [your name] > All services. There is a new “Other” category for “Contextual suggestio... [1749 chars]",
+            "url": "https://9to5google.com/2026/05/13/android-contextual-suggestions/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Android-Bot-pin-badge-holding-Pixel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-05-13T22:03:00Z",
             "lang": "en",
             "source": {
-                "id": "4ddba5324f2e0216fa6458240fdb0f97",
-                "name": "Wallstreet Online",
-                "url": "https://www.wallstreet-online.de",
-                "country": "de"
-            }
-        },
-        {
-            "id": "c95b85196fa68be05879701b35c7322a",
-            "title": "Walmart lays off or relocates about 1,000 corporate workers, WSJ reports",
-            "description": "Walmart would cut or relocate about 1,000 corporate workers as it looks ​to combine more of its global-technology and AI product ‌teams, the Wall Street Journal reported on Tuesday, citing people familiar with the situation.",
-            "content": "May 12 (Reuters) - Walmart (WMT.O), opens new tab would cut or relocate about 1,000 corporate workers as it looks ​to combine more of its global-technology and AI product ‌teams, the Wall Street Journal reported on Tuesday, citing people familiar wit... [330 chars]",
-            "url": "https://www.reuters.com/legal/litigation/walmart-lays-off-or-relocates-about-1000-corporate-workers-wsj-reports-2026-05-12/",
-            "image": "https://www.reuters.com/resizer/v2/W4NU3IWJLROXTPSSEWHX2N67TY.jpg?auth=205b2fa3bd84bcaaace86025be969978f1563ed4bab32b28f90132501e7794e4&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-05-12T22:09:48Z",
-            "lang": "en",
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
+                "id": "151292b021d31d91d452f04b0b225727",
+                "name": "9to5Google",
+                "url": "https://9to5google.com",
                 "country": "us"
             }
         },
         {
-            "id": "f76d58d81da92102c2dfd716f1556064",
-            "title": "Walmart lays off or relocates about 1,000 corporate workers, WSJ reports",
-            "description": "Walmart would cut or relocate about 1,000 corporate workers as it looks to combine more of its global-technology and AI product teams, the Wall Street Journal reported on Tuesday, citing people...",
-            "content": "May 12 (Reuters) - Walmart would cut or relocate about 1,000 corporate workers as it looks to combine more of its global-technology and AI product teams, the Wall Street Journal reported on Tuesday, citing people familiar with the situation.\nUnder ne... [1410 chars]",
-            "url": "https://www.marketscreener.com/news/walmart-lays-off-or-relocates-about-1-000-corporate-workers-wsj-reports-ce7f5bdfdb8cf422",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-02/2026-02-03T145829Z_1_LYNXMPEM120XN_RTROPTP_4_WALMART-WORKERS-PAY.JPG",
-            "publishedAt": "2026-05-12T22:09:19Z",
+            "id": "55f933478fa91e3e5eb19ff09bcbb844",
+            "title": "Isomorphic Labs’ $2.1 Billion Fundraise Is The Biggest Bet Yet On AI Drug Discovery",
+            "description": "Isomorphic, which formed as an Alphabet company in 2021, has a massive cash horde, but it’s tight-lipped on what drugs it might bring to the clinic.",
+            "content": "Isomorphic, which formed as an Alphabet company in 2021, has a massive cash horde, but it’s tight-lipped on what drugs it might bring to the clinic.\nOn Tuesday, Isomorphic Labs, the Alphabet-founded firm that uses AI to accelerate drug development, s... [4341 chars]",
+            "url": "https://www.forbes.com/sites/amyfeldman/2026/05/13/isomorphic-labs-21-billion-fundraise-is-the-biggest-bet-yet-on-ai-drug-discovery/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a03cd7d119177a46c17726e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-05-13T22:02:25Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "0d8c97b70af2a7986d4646f144839f38",
-            "title": "Hims & Hers Health: The Real Story Begins",
-            "description": "Hims & Hers is transitioning into an integrated consumer health ecosystem with top brands, AI-driven healthcare services, and preventive healthcare. Read more on recent earnings.",
-            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of HIMS either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
-            "url": "https://seekingalpha.com/article/4903376-hims-and-hers-health-the-real-story-begins",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1358625659/image_1358625659.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-05-12T22:09:13Z",
-            "lang": "en",
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
                 "country": "us"
             }
         },
         {
-            "id": "384826e92f6b14c5485ec3486e126df7",
-            "title": "AMD’s Insider and Cathie Wood Are Selling Stock - Should Investors Be Worried?",
-            "description": "Advanced Micro Devices (AMD) is a key winner of the AI hardware boom, with the stock up more than 100% so far this year. But two recent moves ha...",
-            "content": "Advanced Micro Devices (AMD) is a key winner of the AI hardware boom, with the stock up more than 100% so far this year. But two recent moves have caught investors’ eyes: AMD’s chief strategy officer, Paul Darren Grasby, sold 24,376 shares worth $10.... [2194 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/amd-s-insider-and-cathie-wood-are-selling-stock-should-investors-be-worried-1036146312",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-1302.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-05-12T22:07:49Z",
+            "id": "711a2abfcdc354f76a6c1f4150891c92",
+            "title": "Chrome quietly installed 4GB of AI files on my PC - here’s how to remove them",
+            "description": "Google never really asked or notified users about this, and both Windows and macOS are affected.",
+            "content": "Just when you thought Google Chrome couldn't get more resource-intensive and invasive, it has quietly downloaded a massive AI-related file on systems running the browser. This includes both Windows and macOS, and the worst part, users were never aske... [5277 chars]",
+            "url": "https://www.xda-developers.com/chrome-quietly-installed-4gb-ai-files-on-pc-how-to-remove-them/",
+            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/chrome-ai-file.jpeg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-05-13T22:00:21Z",
+            "lang": "en",
+            "source": {
+                "id": "891063cd06eaab8a5cf530418fb4c0be",
+                "name": "XDA Developers",
+                "url": "https://www.xda-developers.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "bd3bea0ab8badcc7b96efee8158589e7",
+            "title": "Most Ontario-approved medical AI scribes erred in tests: auditor general",
+            "description": "Province weighted ‘accuracy’ at 4%; ‘presence in Ontario’ at 30% in procurement scoring, report finds",
+            "content": "EDITOR’S NOTE: This article originally appeared on The Trillium, a Village Media website devoted exclusively to covering provincial politics at Queen’s Park.\nMost AI note-takers approved for medical workers by the Ontario government had errors in the... [4739 chars]",
+            "url": "https://www.baytoday.ca/local-news/most-ontario-approved-medical-ai-scribes-erred-in-tests-auditor-general-12275587",
+            "image": "https://www.vmcdn.ca/f/files/trillium/images/sylviajones_112523_cp168837439.JPG;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-05-13T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "f1eb68ebeb4cc70ef360a93bb20315d5",
+            "title": "SPDR S&P 500 ETF Trust (SPY) Daily Update, 5/13/2026",
+            "description": "The SPDR S&P 500 ETF Trust (SPY) rose 0.56% today, May 13, as a strong rebound in AI and semiconductor stocks outweighed hotter-than-expecte...",
+            "content": "The SPDR S&P 500 ETF Trust (SPY) rose 0.56% today, May 13, as a strong rebound in AI and semiconductor stocks outweighed hotter-than-expected inflation data.\nClaim 55% Off TipRanks\nUnlock hedge fund-level data and powerful investing tools for smarter... [1427 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/spdr-s-p-500-etf-trust-spy-daily-update-5-13-2026-1036153180",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-1429.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-05-13T21:58:33Z",
             "lang": "en",
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -87,83 +87,83 @@
             }
         },
         {
-            "id": "3a7f35c17f2cdbd658bee2ed31f1c302",
-            "title": "Agora, Inc. to Report First Quarter 2026 Financial Results on May 26, 2026",
-            "description": "SANTA CLARA, Calif., May 12, 2026 (GLOBE NEWSWIRE) -- Agora, Inc. (NASDAQ: API), a pioneer and leader in conversational AI and real-time engagement technology, will release its financial results for the first quarter ended March 31, 2026 after the close of U.S. markets on May 26, 2026. Agora, Inc. will host a conference call to discuss the financial results at 6 p.m. Pacific Time / 9 p.m. Eastern Time on the same day. Details for the conference call are as follows:",
-            "content": "SANTA CLARA, Calif., May 12, 2026 (GLOBE NEWSWIRE) -- Agora, Inc. (NASDAQ: API), a pioneer and leader in conversational AI and real-time engagement technology, will release its financial results for the first quarter ended March 31, 2026 after the cl... [1582 chars]",
-            "url": "https://www.manilatimes.net/2026/05/13/tmt-newswire/globenewswire/agora-inc-to-report-first-quarter-2026-financial-results-on-may-26-2026/2342383",
-            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/13/1054304.png",
-            "publishedAt": "2026-05-12T22:07:16Z",
+            "id": "c9f9cca3241e23f532f4dd5a9ed5bb3e",
+            "title": "Meta launches incognito mode for private AI chats on WhatsApp",
+            "description": "Meta has rolled out an incognito mode for WhatsApp AI chats, offering private, temporary conversations with disappearing messages and added privacy controls.",
+            "content": "Meta Platforms said Wednesday it's rolling out an “incognito” mode for WhatsApp users to have private conversations with its AI chatbot, a move intended to ease privacy concerns about sensitive information that users share in chats.\nThe social media ... [1864 chars]",
+            "url": "https://www.thehindubusinessline.com/info-tech/meta-launches-incognito-mode-for-whatsapp-ai-chats-to-boost-user-privacy/article70975844.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/3luqwp/article70976004.ece/alternates/LANDSCAPE_1200/2026-05-05T132616Z_1685008421_RC2WPGAQOYZ4_RTRMADP_3_EU-META-PLATFORMS-ANTITRUST.JPG",
+            "publishedAt": "2026-05-13T21:54:15Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
             }
         },
         {
-            "id": "ee8ff74ebb760ed51085c82ef00dcb99",
-            "title": "Polling firm Gallup is starting to look into “the potential of simulated responses.”",
-            "description": "It’s partnering with an AI company called Simile and is “independently validating” the company’s method. “Our goal is to learn whether AI systems and emerging methods can help deepen, not replace, our understanding of how humans think and behave,” according to Gallup. Gallup also notes that its goal isn’t to use the methodology to substitute “for work that requires the rigor of probability-based sampling.”\n[Link: Gallup Begins Research on Simulated Responses | https://news.gallup.com/opinion/methodology/709373/gallup-begins-research-synthetic-responses.aspx | Gallup.com]",
-            "content": "J\nExternal Link\nPolling firm Gallup is starting to look into “the potential of simulated responses.”\nIt’s partnering with an AI company called Simile and is “independently validating” the company’s method. “Our goal is to learn whether AI systems and... [757 chars]",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/929170/polling-firm-gallup-is-starting-to-look-into-the-potential-of-simulated-responses",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-            "publishedAt": "2026-05-12T22:04:44Z",
+            "id": "33af2a72712dd5bd48b646db3b784ac1",
+            "title": "Anthropic finally beat OpenAI in business AI adoption - but 3 big threats could erase its lead",
+            "description": "Anthropic has overtaken OpenAI in U.S. business AI adoption, with more companies paying for Claude than ChatGPT as enterprise demand reshapes the AI market.",
+            "content": "For the first time since the AI race began, more American businesses are paying for Anthropic's Claude than for OpenAI's ChatGPT.\nAdoption of Anthropic rose 3.8% in April to 34.4% of businesses, according to the May 2026 release of the Ramp AI Index.... [10584 chars]",
+            "url": "https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead",
+            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4m169U8ajMEpWjEn6pQgzK/7690906968897882b8756a902d8848c6/Nuneybits_Vector_art_of_two_rising_lines_on_a_graph_burnt_orang_937edfc7-d114-495e-aad5-a2f1297757c6.webp?w=800&q=75",
+            "publishedAt": "2026-05-13T21:53:05Z",
             "lang": "en",
             "source": {
-                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-                "name": "The Verge",
-                "url": "https://www.theverge.com",
+                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com",
                 "country": "us"
             }
         },
         {
-            "id": "774ab061964f3dfd90cae1a3e54cd2bc",
-            "title": "n8n embedded in SAP Joule Studio as AI orchestration layer, valuation doubles to $5.2 billion",
-            "description": "SAP embedded n8n inside Joule Studio to connect its 200 AI agents to non-SAP systems. The Berlin-based workflow automation startup is now Germany's most valuable AI company.",
-            "content": "TL;DR\nSAP embedded Berlin-based n8n inside Joule Studio as the orchestration layer for its Autonomous Enterprise platform, doubling n8n’s valuation to $5.2 billion and making the fair-code workflow automation startup Germany’s most valuable AI compan... [8020 chars]",
-            "url": "https://thenextweb.com/news/n8n-sap-joule-studio-workflow-automation",
-            "image": "https://media.thenextweb.com/2026/05/n8n-sap-joule-studio-workflow-automation.avif",
-            "publishedAt": "2026-05-12T22:04:24Z",
+            "id": "ad0d0df16a65e3938242ae30caf43c31",
+            "title": "Federal government spent more than $800M on AI agreements over 3 years",
+            "description": "OTTAWA — Ottawa has spent more than $800 million on artificial intelligence technology since 2023, according to data provided by the federal government.",
+            "content": "OTTAWA — Ottawa has spent more than $800 million on artificial intelligence technology since 2023, according to data provided by the federal government.\nThe sum includes two previously announced deals: a $350 million public service contract with Dayf... [4100 chars]",
+            "url": "https://www.baytoday.ca/national-news/federal-government-spent-more-than-800m-on-ai-agreements-over-3-years-12276565",
+            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/6882cf4e552805f6b57bdee08be2345487029222821e3ba8e66b3ffa7035a619.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-05-13T21:52:44Z",
             "lang": "en",
             "source": {
-                "id": "11c2fbf226e7334e9f93bb78243a79cc",
-                "name": "TNW",
-                "url": "https://thenextweb.com",
-                "country": "us"
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
             }
         },
         {
-            "id": "873b1007e7068ba8af64a447fd733c58",
-            "title": "Musk, Cook and other prominent US executives invited to join Trump on trip to China",
-            "description": "Prominent U.S. executives from Big Tech, agriculture as well as aerospace and defense have been invited to join President Donald Trump on his trip to China this week. Trump leaves Tuesday for Beijing to meet with President Xi Jinping. Aside from discussions about Iran, Trump and Xi are expected to discuss trade and artificial intelligence. Executives that have been invited include Tim Cook of Apple, Goldman Sachs’ David Solomon, and Elon Musk, who heads Tesla and SpaceX.",
-            "content": "Prominent U.S. executives from Big Tech to agriculture have been invited to join President Donald Trump on his trip to China this week, according to a White House official.\nTrumpleaves on Tuesday for Beijing to meet with President Xi Jinping. Aside f... [1740 chars]",
-            "url": "https://www.ajc.com/news/2026/05/musk-cook-and-other-prominent-us-executives-invited-to-join-trump-on-trip-to-china/",
-            "image": "https://images.ajc.com/resizer/v2/GQ5TXAODUZH7NGTJ5BI2C246XI.jpg?auth=6487be2f25c4c69f3c165229c7cf4363e344b9821cc58bf96b73bfcd514d10dc&width=1200&height=630&smart=true",
-            "publishedAt": "2026-05-12T22:02:38Z",
+            "id": "fb4c180cf9fda1df0736ee712cd29edf",
+            "title": "Federal government spent more than $800M on AI agreements over 3 years",
+            "description": "OTTAWA — Ottawa has spent more than $800 million on artificial intelligence technology since 2023, according to data provided by the federal government.",
+            "content": "OTTAWA — Ottawa has spent more than $800 million on artificial intelligence technology since 2023, according to data provided by the federal government.\nThe sum includes two previously announced deals: a $350 million public service contract with Dayf... [4100 chars]",
+            "url": "https://www.sootoday.com/national-news/federal-government-spent-more-than-800m-on-ai-agreements-over-3-years-12276565",
+            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/6882cf4e552805f6b57bdee08be2345487029222821e3ba8e66b3ffa7035a619.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-05-13T21:52:44Z",
             "lang": "en",
             "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
             }
         },
         {
-            "id": "27e5e8b5afe91744e6692db444fdde30",
-            "title": "OpenAI chief Sam Altman makes a high-stakes appearance in his court bout with Elon Musk",
-            "description": "OpenAI CEO Sam Altman took the witness stand Tuesday to defend his business record in a trial pitting him against Elon Musk, rebutting testimony that disparaged his leadership at a pivotal time for the ChatGPT maker. Musk, the world’s richest man, is seeking Altman’s second ouster from the company leadership as part of a civil lawsuit accusing him of betraying their shared vision for OpenAI. Altman testified to a number of concerns he had about Musk’s attempts to gain more control over OpenAI, which was aiming to safely build a better-than-human form of AI called artificial general intelligence.",
-            "content": "OAKLAND, Calif. (AP) — OpenAI CEO Sam Altman took the witness stand Tuesday to defend his business record in a trial pitting him against Elon Musk, rebutting testimony that disparaged his leadership at a pivotal time for the ChatGPT maker.\nMusk, the ... [1097 chars]",
-            "url": "https://www.ajc.com/news/2026/05/openai-chief-sam-altman-makes-a-high-stakes-appearance-in-his-court-bout-with-elon-musk/",
-            "image": "https://images.ajc.com/resizer/v2/HVTM2TAE2VAR3EK2TV7R6YYU34.jpg?auth=acfe5413caad49bbe3db5830d19484fcc04107734009fdaf217f55ba090fc714&width=1200&height=630&smart=true",
-            "publishedAt": "2026-05-12T22:01:57Z",
+            "id": "d1937b995d8e27769bdcf7542fb9f5dc",
+            "title": "Myleene Klass wows in tiny bikinis as fans left swooning over sizzling beach snaps",
+            "description": "I'm A Celebrity legend Myleene Klass showed off her sensational figure in her latest swimwear shoot, with one fan claiming it \"has to be AI\" as she looks so perfect",
+            "content": "I'm A Celebrity legend Myleene Klass showed off her sensational figure in her latest swimwear shoot, with one fan claiming it \"has to be AI\" as she looks so perfect\nJungle queen Myleene Klass just put on another scorching display for followers while ... [2703 chars]",
+            "url": "https://www.dailystar.co.uk/showbiz/myleene-klass-wows-tiny-bikinis-37153103",
+            "image": "https://i2-prod.dailystar.co.uk/article37153117.ece/ALTERNATES/s1200d/693497743_18587506561030864_7519495585121931016_n.jpg",
+            "publishedAt": "2026-05-13T21:52:22Z",
             "lang": "en",
             "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
+                "id": "4300aa22a5f803b09a37ff0632b44685",
+                "name": "The daily Star",
+                "url": "https://www.dailystar.co.uk",
+                "country": "gb"
             }
         }
     ]
