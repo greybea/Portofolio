@@ -4,144 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 334051,
+    "totalArticles": 335188,
     "articles": [
         {
-            "id": "eb24eff2818796134ff3c0ae6fb21236",
-            "title": "Android rolling out AI-powered ‘Contextual suggestions’",
-            "description": "Google is using on-device AI to analyze how you use your Android phone and provide \"Contextual suggestions.\"",
-            "content": "Google is using on-device AI to analyze how you use your Android phone and provide “Contextual suggestions.”\nOnce available, scroll down to the bottom of Settings > [your name] > All services. There is a new “Other” category for “Contextual suggestio... [1749 chars]",
-            "url": "https://9to5google.com/2026/05/13/android-contextual-suggestions/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Android-Bot-pin-badge-holding-Pixel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2026-05-13T22:03:00Z",
+            "id": "929e40293fbbf95ca47384184ebf4739",
+            "title": "Jack Antonoff Slams People Who Use AI to Make Music",
+            "description": "Jack Antonoff slammed people who use AI, or artificial intelligence, to make music, calling them \"Godless whores.\"",
+            "content": "The rise in AI-generated music has generated a lot of thoughts about the technology for Jack Antonoff.\nThe Bleachers frontman posted a note to fans via Instagram on Wednesday (May 13), ripping into so-called “musicians” who use artificial intelligenc... [1580 chars]",
+            "url": "https://www.billboard.com/music/music-news/jack-antonoff-slams-ai-musicians-1236248638/",
+            "image": "https://www.billboard.com/wp-content/uploads/2026/05/P103FVRF-e1778793818372.jpg?w=1024",
+            "publishedAt": "2026-05-14T22:09:30Z",
             "lang": "en",
             "source": {
-                "id": "151292b021d31d91d452f04b0b225727",
-                "name": "9to5Google",
-                "url": "https://9to5google.com",
+                "id": "5cfd646fbad1ee4fa352342ad739c263",
+                "name": "Billboard",
+                "url": "https://www.billboard.com",
                 "country": "us"
             }
         },
         {
-            "id": "55f933478fa91e3e5eb19ff09bcbb844",
-            "title": "Isomorphic Labs’ $2.1 Billion Fundraise Is The Biggest Bet Yet On AI Drug Discovery",
-            "description": "Isomorphic, which formed as an Alphabet company in 2021, has a massive cash horde, but it’s tight-lipped on what drugs it might bring to the clinic.",
-            "content": "Isomorphic, which formed as an Alphabet company in 2021, has a massive cash horde, but it’s tight-lipped on what drugs it might bring to the clinic.\nOn Tuesday, Isomorphic Labs, the Alphabet-founded firm that uses AI to accelerate drug development, s... [4341 chars]",
-            "url": "https://www.forbes.com/sites/amyfeldman/2026/05/13/isomorphic-labs-21-billion-fundraise-is-the-biggest-bet-yet-on-ai-drug-discovery/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a03cd7d119177a46c17726e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-05-13T22:02:25Z",
+            "id": "48562d84c9d0ec5e0f5bcc0dc2e378ef",
+            "title": "AI boom pushes SK Hynix toward $1 trillion market valuation",
+            "description": "SK Hynix, a major global producer of memory chips, is expanding business valuation through AI boom.\nThe chip manufacturing company is on the verge of topping a $1 ‌trillion market value, just...",
+            "content": "SK Hynix, a major global producer of memory chips, is expanding business valuation through AI boom.\nThe chip manufacturing company is on the verge of topping a $1 ‌trillion market value, just weeks after Samsung Electronics crossed the milestone, as ... [1563 chars]",
+            "url": "https://www.thenews.com.pk/latest/1402592-ai-boom-pushes-sk-hynix-toward-1-trillion-market-valuation",
+            "image": "https://www.thenews.com.pk/assets/uploads/2026-05-15/1402592_030711_updates.jpg",
+            "publishedAt": "2026-05-14T22:07:00Z",
             "lang": "en",
             "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            }
+        },
+        {
+            "id": "408bb0ac0fc8857ebdb5ba997210381d",
+            "title": "Microsoft Copilot Can Collect Data From Your Edge Browser Tabs to Get to Know You",
+            "description": "Microsoft says it's helping your browsing experience by using long-term AI memory across desktop and mobile versions of Edge.",
+            "content": "Even as it's backing off plans to bring Copilot AI technology to Xbox gaming platforms, Microsoft is actively integrating artificial intelligence into its Edge web browser experience.\nIn a Wednesday blog post, Microsoft said it's continuing to expand... [2725 chars]",
+            "url": "https://www.cnet.com/tech/services-and-software/microsoft-copilot-is-reading-your-edge-browser-tabs-to-get-to-know-you/",
+            "image": "https://www.cnet.com/a/img/resize/e007b9cf3e7993b85c02c0a6904b631105a228db/hub/2026/05/14/34c065e8-d7d2-4178-8bfb-1eea342ad8ff/copilot-edge-browsers.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-05-14T22:06:04Z",
+            "lang": "en",
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
                 "country": "us"
             }
         },
         {
-            "id": "711a2abfcdc354f76a6c1f4150891c92",
-            "title": "Chrome quietly installed 4GB of AI files on my PC - here’s how to remove them",
-            "description": "Google never really asked or notified users about this, and both Windows and macOS are affected.",
-            "content": "Just when you thought Google Chrome couldn't get more resource-intensive and invasive, it has quietly downloaded a massive AI-related file on systems running the browser. This includes both Windows and macOS, and the worst part, users were never aske... [5277 chars]",
-            "url": "https://www.xda-developers.com/chrome-quietly-installed-4gb-ai-files-on-pc-how-to-remove-them/",
-            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/chrome-ai-file.jpeg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-05-13T22:00:21Z",
+            "id": "78355002cb397dff31f64b26532fa67f",
+            "title": "Forget the App Store - Apple could be about to launch the ‘agent store’ for AI apps, and it could transform how you use your iPhone",
+            "description": "A new AI era for the iPhone",
+            "content": "A report claims Apple is working to allow AI agents on its App Store\nThis is a sudden departure from Apple’s more recent moves on AI apps\nApple has previously removed vibe-coding AI apps from the App Store\nBack in March, word got around that several ... [3686 chars]",
+            "url": "https://www.techradar.com/ai-platforms-assistants/forget-the-app-store-apple-could-be-about-to-launch-the-agent-store-for-ai-apps-and-it-could-transform-how-you-use-your-iphone",
+            "image": "https://cdn.mos.cms.futurecdn.net/cJwCzahwRcWWKn8F8NYm25-958-80.png",
+            "publishedAt": "2026-05-14T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "891063cd06eaab8a5cf530418fb4c0be",
-                "name": "XDA Developers",
-                "url": "https://www.xda-developers.com",
-                "country": "us"
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
             }
         },
         {
-            "id": "bd3bea0ab8badcc7b96efee8158589e7",
-            "title": "Most Ontario-approved medical AI scribes erred in tests: auditor general",
-            "description": "Province weighted ‘accuracy’ at 4%; ‘presence in Ontario’ at 30% in procurement scoring, report finds",
-            "content": "EDITOR’S NOTE: This article originally appeared on The Trillium, a Village Media website devoted exclusively to covering provincial politics at Queen’s Park.\nMost AI note-takers approved for medical workers by the Ontario government had errors in the... [4739 chars]",
-            "url": "https://www.baytoday.ca/local-news/most-ontario-approved-medical-ai-scribes-erred-in-tests-auditor-general-12275587",
-            "image": "https://www.vmcdn.ca/f/files/trillium/images/sylviajones_112523_cp168837439.JPG;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-05-13T22:00:00Z",
+            "id": "ce37c3a2647eb44e678e6af413fc00db",
+            "title": "Graduation ceremony speaker blasted by boos when she calls AI 'the next industrial revolution' - why Gen Z cheers for a time before AI",
+            "description": "She didn't read the room",
+            "content": "It's graduation season, which means people as cool as Harrison Ford step in front of a mic to excite the next generation of Indian Joneses. It's also a time when commencement speakers tackle gritty topics like social justice, war, climate change, the... [5928 chars]",
+            "url": "https://www.techradar.com/ai-platforms-assistants/graduation-ceremony-speaker-blasted-by-boos-when-she-calls-ai-the-next-industrial-revolution-why-gen-z-cheers-for-a-time-before-ai",
+            "image": "https://cdn.mos.cms.futurecdn.net/XnK8iZQD234ujN2CFTEL95-1920-80.jpg",
+            "publishedAt": "2026-05-14T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
             }
         },
         {
-            "id": "f1eb68ebeb4cc70ef360a93bb20315d5",
-            "title": "SPDR S&P 500 ETF Trust (SPY) Daily Update, 5/13/2026",
-            "description": "The SPDR S&P 500 ETF Trust (SPY) rose 0.56% today, May 13, as a strong rebound in AI and semiconductor stocks outweighed hotter-than-expecte...",
-            "content": "The SPDR S&P 500 ETF Trust (SPY) rose 0.56% today, May 13, as a strong rebound in AI and semiconductor stocks outweighed hotter-than-expected inflation data.\nClaim 55% Off TipRanks\nUnlock hedge fund-level data and powerful investing tools for smarter... [1427 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/spdr-s-p-500-etf-trust-spy-daily-update-5-13-2026-1036153180",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-1429.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-05-13T21:58:33Z",
-            "lang": "en",
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c9f9cca3241e23f532f4dd5a9ed5bb3e",
-            "title": "Meta launches incognito mode for private AI chats on WhatsApp",
-            "description": "Meta has rolled out an incognito mode for WhatsApp AI chats, offering private, temporary conversations with disappearing messages and added privacy controls.",
-            "content": "Meta Platforms said Wednesday it's rolling out an “incognito” mode for WhatsApp users to have private conversations with its AI chatbot, a move intended to ease privacy concerns about sensitive information that users share in chats.\nThe social media ... [1864 chars]",
-            "url": "https://www.thehindubusinessline.com/info-tech/meta-launches-incognito-mode-for-whatsapp-ai-chats-to-boost-user-privacy/article70975844.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/3luqwp/article70976004.ece/alternates/LANDSCAPE_1200/2026-05-05T132616Z_1685008421_RC2WPGAQOYZ4_RTRMADP_3_EU-META-PLATFORMS-ANTITRUST.JPG",
-            "publishedAt": "2026-05-13T21:54:15Z",
-            "lang": "en",
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "33af2a72712dd5bd48b646db3b784ac1",
-            "title": "Anthropic finally beat OpenAI in business AI adoption - but 3 big threats could erase its lead",
-            "description": "Anthropic has overtaken OpenAI in U.S. business AI adoption, with more companies paying for Claude than ChatGPT as enterprise demand reshapes the AI market.",
-            "content": "For the first time since the AI race began, more American businesses are paying for Anthropic's Claude than for OpenAI's ChatGPT.\nAdoption of Anthropic rose 3.8% in April to 34.4% of businesses, according to the May 2026 release of the Ramp AI Index.... [10584 chars]",
-            "url": "https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead",
-            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4m169U8ajMEpWjEn6pQgzK/7690906968897882b8756a902d8848c6/Nuneybits_Vector_art_of_two_rising_lines_on_a_graph_burnt_orang_937edfc7-d114-495e-aad5-a2f1297757c6.webp?w=800&q=75",
-            "publishedAt": "2026-05-13T21:53:05Z",
-            "lang": "en",
-            "source": {
-                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
-                "name": "VentureBeat",
-                "url": "https://venturebeat.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "ad0d0df16a65e3938242ae30caf43c31",
-            "title": "Federal government spent more than $800M on AI agreements over 3 years",
-            "description": "OTTAWA — Ottawa has spent more than $800 million on artificial intelligence technology since 2023, according to data provided by the federal government.",
-            "content": "OTTAWA — Ottawa has spent more than $800 million on artificial intelligence technology since 2023, according to data provided by the federal government.\nThe sum includes two previously announced deals: a $350 million public service contract with Dayf... [4100 chars]",
-            "url": "https://www.baytoday.ca/national-news/federal-government-spent-more-than-800m-on-ai-agreements-over-3-years-12276565",
-            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/6882cf4e552805f6b57bdee08be2345487029222821e3ba8e66b3ffa7035a619.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-05-13T21:52:44Z",
-            "lang": "en",
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "fb4c180cf9fda1df0736ee712cd29edf",
-            "title": "Federal government spent more than $800M on AI agreements over 3 years",
-            "description": "OTTAWA — Ottawa has spent more than $800 million on artificial intelligence technology since 2023, according to data provided by the federal government.",
-            "content": "OTTAWA — Ottawa has spent more than $800 million on artificial intelligence technology since 2023, according to data provided by the federal government.\nThe sum includes two previously announced deals: a $350 million public service contract with Dayf... [4100 chars]",
-            "url": "https://www.sootoday.com/national-news/federal-government-spent-more-than-800m-on-ai-agreements-over-3-years-12276565",
-            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/6882cf4e552805f6b57bdee08be2345487029222821e3ba8e66b3ffa7035a619.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-05-13T21:52:44Z",
+            "id": "bbf66c206191e10b34d2ff3d29cd0bed",
+            "title": "Frequent visits to Persian Gulf show Carney's ambition goes beyond seeking investment",
+            "description": "OTTAWA — The Carney government is putting a new emphasis on diplomacy with Persian Gulf countries — one that goes beyond seeking investments in Canada to arrangements touching on defence and artificial intelligence.",
+            "content": "OTTAWA — The Carney government is putting a new emphasis on diplomacy with Persian Gulf countries — one that goes beyond seeking investments in Canada to arrangements touching on defence and artificial intelligence.\nForeign Affairs Minister Anita Ana... [5458 chars]",
+            "url": "https://www.sootoday.com/national-news/frequent-visits-to-persian-gulf-show-carneys-ambition-goes-beyond-seeking-investment-12285078",
+            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/281b31bf1f15cd304db702e2643e62f9b5a263c3e05b9c0b0b25b35c8bfc8faf.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-05-14T21:52:21Z",
             "lang": "en",
             "source": {
                 "id": "0ce70f407e0fa82ddaeeb29243aa8210",
@@ -151,19 +103,67 @@
             }
         },
         {
-            "id": "d1937b995d8e27769bdcf7542fb9f5dc",
-            "title": "Myleene Klass wows in tiny bikinis as fans left swooning over sizzling beach snaps",
-            "description": "I'm A Celebrity legend Myleene Klass showed off her sensational figure in her latest swimwear shoot, with one fan claiming it \"has to be AI\" as she looks so perfect",
-            "content": "I'm A Celebrity legend Myleene Klass showed off her sensational figure in her latest swimwear shoot, with one fan claiming it \"has to be AI\" as she looks so perfect\nJungle queen Myleene Klass just put on another scorching display for followers while ... [2703 chars]",
-            "url": "https://www.dailystar.co.uk/showbiz/myleene-klass-wows-tiny-bikinis-37153103",
-            "image": "https://i2-prod.dailystar.co.uk/article37153117.ece/ALTERNATES/s1200d/693497743_18587506561030864_7519495585121931016_n.jpg",
-            "publishedAt": "2026-05-13T21:52:22Z",
+            "id": "3b5303a583f3ace001423620429c0c9e",
+            "title": "Frequent visits to Persian Gulf show Carney's ambition goes beyond seeking investment",
+            "description": "OTTAWA — The Carney government is putting a new emphasis on diplomacy with Persian Gulf countries — one that goes beyond seeking investments in Canada to arrangements touching on defence and artificial intelligence.",
+            "content": "OTTAWA — The Carney government is putting a new emphasis on diplomacy with Persian Gulf countries — one that goes beyond seeking investments in Canada to arrangements touching on defence and artificial intelligence.\nForeign Affairs Minister Anita Ana... [5458 chars]",
+            "url": "https://www.baytoday.ca/national-news/frequent-visits-to-persian-gulf-show-carneys-ambition-goes-beyond-seeking-investment-12285078",
+            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/281b31bf1f15cd304db702e2643e62f9b5a263c3e05b9c0b0b25b35c8bfc8faf.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-05-14T21:52:21Z",
             "lang": "en",
             "source": {
-                "id": "4300aa22a5f803b09a37ff0632b44685",
-                "name": "The daily Star",
-                "url": "https://www.dailystar.co.uk",
-                "country": "gb"
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "863725366337fd517661db61154bc8ed",
+            "title": "Kaal Bhairava: India’s first AI combat aircraft to be manufactured in Europe",
+            "description": "News News: NEW DELHI: In a sign of make-in-India products going global, India’s first AI combat aircraft ‘Kaal Bhairava’ will now be manufactured in Europe. Indi.",
+            "content": "NEW DELHI: In a sign of make-in-India products going global, India’s first AI combat aircraft ‘Kaal Bhairava’ will now be manufactured in Europe. Indian AI warfare company FWDA on Thursday announced that its AI combat aircraft will be manufactured in... [2228 chars]",
+            "url": "https://timesofindia.indiatimes.com/defence/news/kaal-bhairava-indias-first-ai-combat-aircraft-to-be-manufactured-in-europe/articleshow/131103385.cms",
+            "image": "https://static.toiimg.com/thumb/msid-131103382,width-1280,height-720,imgsize-662302,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-14T21:47:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "b4b2ddc5c10fe40a9302e28fd528de19",
+            "title": "Nu Holdings Stock Slammed After Q1 Results: Here's Why",
+            "description": "NU Holdings (NYSE:NU) reports Q1 revenue of $5.32B, surpassing Street estimates. AI transformation is a priority for future growth in the U.S.",
+            "content": "Nu Holdings (NYSE:NU) reported first-quarter financial results Thursday after market close.\nHere are the key highlights.\n• Nu Holdings stock is testing key support levels. Why is NU stock at lows?\nNu Holdings Q1 Financials\nNu Holdings reported first-... [1890 chars]",
+            "url": "https://www.benzinga.com/markets/earnings/26/05/52585119/nu-holdings-stock-slammed-after-q1-results-heres-why",
+            "image": "https://cdn.benzinga.com/files/images/story/2026/05/14/Nu-Holdings.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2026-05-14T21:39:28Z",
+            "lang": "en",
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "e8a07e604258a8bc0185a84c1dd9e03c",
+            "title": "Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion - what it means for AI infrastructure",
+            "description": "Cerebras debuts on Nasdaq above $100 billion as its wafer-scale AI chip, OpenAI deal and AWS partnership reshape the race for fast inference and cloud infrastructure.",
+            "content": "Cerebras Systems, the Silicon Valley chipmaker that built the world's largest commercial AI processor, erupted onto the Nasdaq on Wednesday, opening at $350 per share — nearly double its $185 IPO price — and rocketing past a $100 billion market capit... [21830 chars]",
+            "url": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure",
+            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1gQf5I0cUp4KcxXhfUXces/a6c77f253098bf69f570fe27f31cbb1f/Nuneybits_Vector_art_of_a_square_golden_wafer-scale_chip_as_a_r_31f72f61-77ca-4e32-92d1-88e71bd3c852.webp?w=800&q=75",
+            "publishedAt": "2026-05-14T21:38:02Z",
+            "lang": "en",
+            "source": {
+                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com",
+                "country": "us"
             }
         }
     ]
