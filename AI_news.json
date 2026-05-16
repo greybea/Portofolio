@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 335188,
+    "totalArticles": 336076,
     "articles": [
         {
-            "id": "929e40293fbbf95ca47384184ebf4739",
-            "title": "Jack Antonoff Slams People Who Use AI to Make Music",
-            "description": "Jack Antonoff slammed people who use AI, or artificial intelligence, to make music, calling them \"Godless whores.\"",
-            "content": "The rise in AI-generated music has generated a lot of thoughts about the technology for Jack Antonoff.\nThe Bleachers frontman posted a note to fans via Instagram on Wednesday (May 13), ripping into so-called “musicians” who use artificial intelligenc... [1580 chars]",
-            "url": "https://www.billboard.com/music/music-news/jack-antonoff-slams-ai-musicians-1236248638/",
-            "image": "https://www.billboard.com/wp-content/uploads/2026/05/P103FVRF-e1778793818372.jpg?w=1024",
-            "publishedAt": "2026-05-14T22:09:30Z",
+            "id": "ab702235c07c0f1f87212b3815b4ab1e",
+            "title": "Proposed SC law would protect children from AI exploitation",
+            "description": "Artificial intelligence can be used to generate realistic images in seconds, and predators no longer need physical access to a child to cause lasting harm.",
+            "content": "South Carolina has a responsibility to protect its children from the predators, platforms and emerging technologies that can be used to exploit them. That responsibility does not disappear simply because the threat is new, digital or powered by artif... [3866 chars]",
+            "url": "https://www.postandcourier.com/opinion/commentary/sc-proposed-law-ai-exploitation-protect-children/article_715590db-131e-44d4-9cd6-bf20cfb23778.html",
+            "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/6/60/660f2dd6-e4a9-412e-b162-287dbb7ec8c8/6840609cd61f3.image.jpg?crop=1174%2C616%2C0%2C378",
+            "publishedAt": "2026-05-15T21:15:00Z",
             "lang": "en",
             "source": {
-                "id": "5cfd646fbad1ee4fa352342ad739c263",
-                "name": "Billboard",
-                "url": "https://www.billboard.com",
+                "id": "c1903669db0b115cc673ce9c333a70dd",
+                "name": "Charleston Post and Courier",
+                "url": "https://www.postandcourier.com",
                 "country": "us"
             }
         },
         {
-            "id": "48562d84c9d0ec5e0f5bcc0dc2e378ef",
-            "title": "AI boom pushes SK Hynix toward $1 trillion market valuation",
-            "description": "SK Hynix, a major global producer of memory chips, is expanding business valuation through AI boom.\nThe chip manufacturing company is on the verge of topping a $1 ‌trillion market value, just...",
-            "content": "SK Hynix, a major global producer of memory chips, is expanding business valuation through AI boom.\nThe chip manufacturing company is on the verge of topping a $1 ‌trillion market value, just weeks after Samsung Electronics crossed the milestone, as ... [1563 chars]",
-            "url": "https://www.thenews.com.pk/latest/1402592-ai-boom-pushes-sk-hynix-toward-1-trillion-market-valuation",
-            "image": "https://www.thenews.com.pk/assets/uploads/2026-05-15/1402592_030711_updates.jpg",
-            "publishedAt": "2026-05-14T22:07:00Z",
+            "id": "e230e140a6ff4da28b4dc9e17536640b",
+            "title": "AI Threat Puts Your Savings in the Crosshairs",
+            "description": "The threats facing the U.S. financial system have changed in ways that policymakers are only now beginning to say out loud.",
+            "content": "AI may be helping drive the stock market to record highs, but it may also carry the seeds of the market's next major shock.\nWhen Treasury Secretary Scott Bessent was asked whether Americans should worry about\nartificial intelligence (AI) being used t... [5526 chars]",
+            "url": "https://www.newsmax.com/finance/machiblock/bessent-claudemythos-powell/2026/05/15/id/1256454/",
+            "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=3189c12b-8210-4b77-b827-b4148553a3c5&SiteName=Newsmax",
+            "publishedAt": "2026-05-15T21:09:42Z",
             "lang": "en",
             "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            }
-        },
-        {
-            "id": "408bb0ac0fc8857ebdb5ba997210381d",
-            "title": "Microsoft Copilot Can Collect Data From Your Edge Browser Tabs to Get to Know You",
-            "description": "Microsoft says it's helping your browsing experience by using long-term AI memory across desktop and mobile versions of Edge.",
-            "content": "Even as it's backing off plans to bring Copilot AI technology to Xbox gaming platforms, Microsoft is actively integrating artificial intelligence into its Edge web browser experience.\nIn a Wednesday blog post, Microsoft said it's continuing to expand... [2725 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/microsoft-copilot-is-reading-your-edge-browser-tabs-to-get-to-know-you/",
-            "image": "https://www.cnet.com/a/img/resize/e007b9cf3e7993b85c02c0a6904b631105a228db/hub/2026/05/14/34c065e8-d7d2-4178-8bfb-1eea342ad8ff/copilot-edge-browsers.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-05-14T22:06:04Z",
-            "lang": "en",
-            "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
                 "country": "us"
             }
         },
         {
-            "id": "78355002cb397dff31f64b26532fa67f",
-            "title": "Forget the App Store - Apple could be about to launch the ‘agent store’ for AI apps, and it could transform how you use your iPhone",
-            "description": "A new AI era for the iPhone",
-            "content": "A report claims Apple is working to allow AI agents on its App Store\nThis is a sudden departure from Apple’s more recent moves on AI apps\nApple has previously removed vibe-coding AI apps from the App Store\nBack in March, word got around that several ... [3686 chars]",
-            "url": "https://www.techradar.com/ai-platforms-assistants/forget-the-app-store-apple-could-be-about-to-launch-the-agent-store-for-ai-apps-and-it-could-transform-how-you-use-your-iphone",
-            "image": "https://cdn.mos.cms.futurecdn.net/cJwCzahwRcWWKn8F8NYm25-958-80.png",
-            "publishedAt": "2026-05-14T22:00:00Z",
+            "id": "0ffe33d9f8c22d8f0b2d9f7a774f2b7e",
+            "title": "Inflation worries while waiting for Nvidia",
+            "description": "Despite investors' still-insatiable appetite for AI-related stocks, which pushed Wall Street to new highs this week, sentiment deteriorated sharply on Friday as inflation fears resurfaced....\n-May 15, 2026 at 05:07 pm EDT\n- MarketScreener",
+            "content": "Up:\nTower Semiconductor +29.84% : Investor appetite for semiconductor stocks shows no sign of fading, especially when companies deliver strong results. The U.S. company also announced contract wins totaling €1.3 million.\nRocket Lab Corporation +18.3%... [8217 chars]",
+            "url": "https://www.marketscreener.com/news/inflation-worries-while-waiting-for-nvidia-ce7f5bd3da8bf020",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4235762_800.jpg",
+            "publishedAt": "2026-05-15T21:07:35Z",
             "lang": "en",
             "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         },
         {
-            "id": "ce37c3a2647eb44e678e6af413fc00db",
-            "title": "Graduation ceremony speaker blasted by boos when she calls AI 'the next industrial revolution' - why Gen Z cheers for a time before AI",
-            "description": "She didn't read the room",
-            "content": "It's graduation season, which means people as cool as Harrison Ford step in front of a mic to excite the next generation of Indian Joneses. It's also a time when commencement speakers tackle gritty topics like social justice, war, climate change, the... [5928 chars]",
-            "url": "https://www.techradar.com/ai-platforms-assistants/graduation-ceremony-speaker-blasted-by-boos-when-she-calls-ai-the-next-industrial-revolution-why-gen-z-cheers-for-a-time-before-ai",
-            "image": "https://cdn.mos.cms.futurecdn.net/XnK8iZQD234ujN2CFTEL95-1920-80.jpg",
-            "publishedAt": "2026-05-14T22:00:00Z",
+            "id": "1b4deac5393cef3a6d00c79ac2d822aa",
+            "title": "AI Boom and Inflation: Key Market Influencers Ahead of Nvidia and Walmart Earnings",
+            "description": "Next week, the market will closely analyze the earnings reports from Nvidia, a semiconductor powerhouse, and major retailers like Walmart, amidst significant AI advancements and inflation concerns. The tech-heavy indices have surged, with caution over whether the rally, led by a limited set of stocks, is sustainable.",
+            "content": "The U.S. stock market is set for a pivotal week as investors turn their attention to earnings reports from semiconductor leader Nvidia and top retailers, including Walmart. The market has been largely driven by two key factors: the rise of artificial... [731 chars]",
+            "url": "https://www.devdiscourse.com/article/headlines/3910389-ai-boom-and-inflation-key-market-influencers-ahead-of-nvidia-and-walmart-earnings",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/11_05_2026_18_34_32_5332185.png&width=920&format=jpeg",
+            "publishedAt": "2026-05-15T21:07:18Z",
             "lang": "en",
             "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "bbf66c206191e10b34d2ff3d29cd0bed",
-            "title": "Frequent visits to Persian Gulf show Carney's ambition goes beyond seeking investment",
-            "description": "OTTAWA — The Carney government is putting a new emphasis on diplomacy with Persian Gulf countries — one that goes beyond seeking investments in Canada to arrangements touching on defence and artificial intelligence.",
-            "content": "OTTAWA — The Carney government is putting a new emphasis on diplomacy with Persian Gulf countries — one that goes beyond seeking investments in Canada to arrangements touching on defence and artificial intelligence.\nForeign Affairs Minister Anita Ana... [5458 chars]",
-            "url": "https://www.sootoday.com/national-news/frequent-visits-to-persian-gulf-show-carneys-ambition-goes-beyond-seeking-investment-12285078",
-            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/281b31bf1f15cd304db702e2643e62f9b5a263c3e05b9c0b0b25b35c8bfc8faf.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-05-14T21:52:21Z",
-            "lang": "en",
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "3b5303a583f3ace001423620429c0c9e",
-            "title": "Frequent visits to Persian Gulf show Carney's ambition goes beyond seeking investment",
-            "description": "OTTAWA — The Carney government is putting a new emphasis on diplomacy with Persian Gulf countries — one that goes beyond seeking investments in Canada to arrangements touching on defence and artificial intelligence.",
-            "content": "OTTAWA — The Carney government is putting a new emphasis on diplomacy with Persian Gulf countries — one that goes beyond seeking investments in Canada to arrangements touching on defence and artificial intelligence.\nForeign Affairs Minister Anita Ana... [5458 chars]",
-            "url": "https://www.baytoday.ca/national-news/frequent-visits-to-persian-gulf-show-carneys-ambition-goes-beyond-seeking-investment-12285078",
-            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/05/281b31bf1f15cd304db702e2643e62f9b5a263c3e05b9c0b0b25b35c8bfc8faf.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-05-14T21:52:21Z",
-            "lang": "en",
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "863725366337fd517661db61154bc8ed",
-            "title": "Kaal Bhairava: India’s first AI combat aircraft to be manufactured in Europe",
-            "description": "News News: NEW DELHI: In a sign of make-in-India products going global, India’s first AI combat aircraft ‘Kaal Bhairava’ will now be manufactured in Europe. Indi.",
-            "content": "NEW DELHI: In a sign of make-in-India products going global, India’s first AI combat aircraft ‘Kaal Bhairava’ will now be manufactured in Europe. Indian AI warfare company FWDA on Thursday announced that its AI combat aircraft will be manufactured in... [2228 chars]",
-            "url": "https://timesofindia.indiatimes.com/defence/news/kaal-bhairava-indias-first-ai-combat-aircraft-to-be-manufactured-in-europe/articleshow/131103385.cms",
-            "image": "https://static.toiimg.com/thumb/msid-131103382,width-1280,height-720,imgsize-662302,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-14T21:47:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
                 "country": "in"
             }
         },
         {
-            "id": "b4b2ddc5c10fe40a9302e28fd528de19",
-            "title": "Nu Holdings Stock Slammed After Q1 Results: Here's Why",
-            "description": "NU Holdings (NYSE:NU) reports Q1 revenue of $5.32B, surpassing Street estimates. AI transformation is a priority for future growth in the U.S.",
-            "content": "Nu Holdings (NYSE:NU) reported first-quarter financial results Thursday after market close.\nHere are the key highlights.\n• Nu Holdings stock is testing key support levels. Why is NU stock at lows?\nNu Holdings Q1 Financials\nNu Holdings reported first-... [1890 chars]",
-            "url": "https://www.benzinga.com/markets/earnings/26/05/52585119/nu-holdings-stock-slammed-after-q1-results-heres-why",
-            "image": "https://cdn.benzinga.com/files/images/story/2026/05/14/Nu-Holdings.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2026-05-14T21:39:28Z",
+            "id": "675e2a161f1d2503acc2cef84e461070",
+            "title": "Inflation worries while waiting for Nvidia",
+            "description": "Despite investors' still-insatiable appetite for AI-related stocks, which pushed Wall Street to new highs this week, sentiment deteriorated sharply on Friday as inflation fears resurfaced....\n-May 15, 2026 at 05:06 pm EDT\n- MarketScreener",
+            "content": "Up:\nTower Semiconductor +29.84% : Investor appetite for semiconductor stocks shows no sign of fading, especially when companies deliver strong results. The U.S. company also announced contract wins totaling €1.3 million.\nRocket Lab Corporation +18.3%... [8217 chars]",
+            "url": "https://www.marketscreener.com/news/inflation-worries-while-waiting-for-nvidia-ce7f5bd3da8bf322",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4235762_800.jpg",
+            "publishedAt": "2026-05-15T21:06:36Z",
             "lang": "en",
             "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         },
         {
-            "id": "e8a07e604258a8bc0185a84c1dd9e03c",
-            "title": "Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion - what it means for AI infrastructure",
-            "description": "Cerebras debuts on Nasdaq above $100 billion as its wafer-scale AI chip, OpenAI deal and AWS partnership reshape the race for fast inference and cloud infrastructure.",
-            "content": "Cerebras Systems, the Silicon Valley chipmaker that built the world's largest commercial AI processor, erupted onto the Nasdaq on Wednesday, opening at $350 per share — nearly double its $185 IPO price — and rocketing past a $100 billion market capit... [21830 chars]",
-            "url": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure",
-            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1gQf5I0cUp4KcxXhfUXces/a6c77f253098bf69f570fe27f31cbb1f/Nuneybits_Vector_art_of_a_square_golden_wafer-scale_chip_as_a_r_31f72f61-77ca-4e32-92d1-88e71bd3c852.webp?w=800&q=75",
-            "publishedAt": "2026-05-14T21:38:02Z",
+            "id": "f79dfaee7b2d269de4d289f22d5fe605",
+            "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
+            "description": "Intercom, now called Fin, has launched Fin Operator, an AI agent that manages customer service AI, signaling a new phase in enterprise automation and support operations.",
+            "content": "The company formerly known as Intercom just did something that no major customer service platform has attempted at scale: it built an AI agent whose sole job is to manage another AI agent.\nFin Operator, announced Thursday at a live event in San Franc... [14581 chars]",
+            "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
+            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/10I7GZFZUePTddNj8ASkQA/6377bab1d1c7f5e7bfeed8c047ac2588/Nuneybits_Vector_art_of_a_back-office_maze_navigated_by_an_AI_o_f7f13274-2bb1-4557-bc50-34a00548ce56.webp?w=800&q=75",
+            "publishedAt": "2026-05-15T21:06:09Z",
             "lang": "en",
             "source": {
                 "id": "b669a363e34e1a8211e6f2cd9c5420a4",
                 "name": "VentureBeat",
                 "url": "https://venturebeat.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "f37cbf83a71f0a9f867514c07cd08860",
+            "title": "‘Stupid MAGAs’:Trump and His Sons Scramble to Beat Fraud Allegations with AI-Generated Video, Then Viewers Zoom In on the One Detail They Clearly Missed",
+            "description": "President Donald Trump and his two oldest sons, Don Jr. and Eric Trump, are facing a growing MAGA backlash over their mobile phone company and months of",
+            "content": "President Donald Trump and his two oldest sons, Don Jr. and Eric Trump, are facing a growing MAGA backlash over their mobile phone company and months of delays in sending customers their pre-ordered devices.\nThe Trumps launched Trump Mobile last June... [3811 chars]",
+            "url": "https://atlantablackstar.com/2026/05/15/trump-and-his-sons-scramble-to-beat-fraud-allegations/",
+            "image": "https://atlantablackstar.com/wp-content/uploads/2029/09/Trump-Family.webp",
+            "publishedAt": "2026-05-15T21:05:56Z",
+            "lang": "en",
+            "source": {
+                "id": "33cb25fa0c188e2a4e90fce288b4ce49",
+                "name": "Atlanta Black Star",
+                "url": "https://atlantablackstar.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "06d380e197c6fcde84e00a0df5ca90f3",
+            "title": "How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%",
+            "description": "UIUC and Stanford's RecursiveMAS lets AI agents collaborate in embedding space instead of text, cutting token usage by 75% and speeding inference 2.4x.",
+            "content": "One of the key challenges of current multi-agent AI systems is that they communicate by generating and sharing text sequences, which introduces latency, drives up token costs, and makes it difficult to train the entire system as a cohesive unit.\nTo o... [8168 chars]",
+            "url": "https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75",
+            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/40XcHj8m7JLdkkZiy8Ry4n/54c900f7056ba18eb8e368cd2681e4d3/recursive_multi-agent_system.jpg?w=800&q=75",
+            "publishedAt": "2026-05-15T21:04:15Z",
+            "lang": "en",
+            "source": {
+                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c5e3b7184bfb15f89f08227612edbc3b",
+            "title": "Samsung strike could shake up the AI landscape",
+            "description": "Samsung and a South Korean labour union could not reach an agreement to salvage relations ahead of a planned strike on May 21.",
+            "content": "Samsung and a South Korean labour union could not reach an agreement on Tuesday. These negotiations were a last-ditch effort to salvage relations ahead of a planned strike on May 21.\nSamsung’s three manufacturing sites in South Korea, Giheung, Hwaseo... [904 chars]",
+            "url": "https://mobilesyrup.com/2026/05/15/samsung-strike-could-shake-up-the-ai-landscape/",
+            "image": "https://production-static.mobilesyrup.com/uploads/2025/12/samsung-gaming-header-scaled.jpg",
+            "publishedAt": "2026-05-15T21:04:06Z",
+            "lang": "en",
+            "source": {
+                "id": "065af1b88f232671921c1449e7a0035e",
+                "name": "MobileSyrup",
+                "url": "https://mobilesyrup.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "27599fd118ae39e20764bcfc201c6bf2",
+            "title": "EPA Wants Power Plants To Be Able To Pour More Poison Into Drinking Water",
+            "description": "The power demands of AI mean that coal-fired power plants need relaxed rules on dumping toxic heavy metals into groundwater, EPA Administrator Lee Zeldin argued.",
+            "content": "LOADINGERROR LOADING\nHARRISBURG, Pa. (AP) — The U.S. Environmental Protection Agency moved Thursday to roll back limits that require coal-fired power plants to prevent the release of toxic heavy metals into streams and rivers through polluted groundw... [4215 chars]",
+            "url": "https://www.huffpost.com/entry/epa-power-plant-heavy-metals-water_n_6a0786f6e4b098065bea06f2",
+            "image": "https://img.huffingtonpost.com/asset/6a0786f81d0000e2e4a13e30.jpeg?cache=WViiX2YHXs&ops=1200_630",
+            "publishedAt": "2026-05-15T21:02:53Z",
+            "lang": "en",
+            "source": {
+                "id": "e382ce4dfbd3358e338d63782000b7df",
+                "name": "HuffPost",
+                "url": "https://www.huffpost.com",
                 "country": "us"
             }
         }
