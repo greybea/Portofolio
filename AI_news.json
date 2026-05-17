@@ -4,64 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 336076,
+    "totalArticles": 336516,
     "articles": [
         {
-            "id": "ab702235c07c0f1f87212b3815b4ab1e",
-            "title": "Proposed SC law would protect children from AI exploitation",
-            "description": "Artificial intelligence can be used to generate realistic images in seconds, and predators no longer need physical access to a child to cause lasting harm.",
-            "content": "South Carolina has a responsibility to protect its children from the predators, platforms and emerging technologies that can be used to exploit them. That responsibility does not disappear simply because the threat is new, digital or powered by artif... [3866 chars]",
-            "url": "https://www.postandcourier.com/opinion/commentary/sc-proposed-law-ai-exploitation-protect-children/article_715590db-131e-44d4-9cd6-bf20cfb23778.html",
-            "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/6/60/660f2dd6-e4a9-412e-b162-287dbb7ec8c8/6840609cd61f3.image.jpg?crop=1174%2C616%2C0%2C378",
-            "publishedAt": "2026-05-15T21:15:00Z",
+            "id": "2c410f92f4eb55e3c981d3d98c64abcb",
+            "title": "Trump Calm Before the Storm Post: Decoding US President's Cryptic Message Amid Iran War",
+            "description": "US President Donald Trump has shared a mysterious AI-generated image on Truth Social. The post coincided with reports of Pentagon plans for renewed operations, dubbed \"Operation Epic Fury 2.0.\", US News, Times Now",
+            "content": "US President Donald Trump has posted a cryptic image on his Truth Social platform as questions grow over whether Washington could resume military strikes against Iran. The image, which appeared to be AI-generated, showed Trump pointing directly at th... [4237 chars]",
+            "url": "https://www.timesnownews.com/world/us/us-news/trump-calm-before-the-storm-post-truth-social-iran-war-strait-of-hormuz-article-154335206",
+            "image": "https://images.timesnownews.com/thumb/msid-154335206,width-1280,height-720,resizemode-75/154335206.jpg",
+            "publishedAt": "2026-05-16T21:25:54Z",
             "lang": "en",
             "source": {
-                "id": "c1903669db0b115cc673ce9c333a70dd",
-                "name": "Charleston Post and Courier",
-                "url": "https://www.postandcourier.com",
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "458295920a0f0e9bff367f1288ee67df",
+            "title": "Half of all England football shirts worn by fans are fake, AI-powered app claims",
+            "description": "HALF of all England football shirts being worn by fans are fake, an AI-powered app claims.\nThe KitLegit bot uses artificial intelligence to...",
+            "content": "HALF of all England football shirts being worn by fans are fake, an AI-powered app claims.\nThe KitLegit bot uses artificial intelligence to tell supporters whether their top is the real deal.\nAdvertisement\nIt found that just 50.7 per cent of Three Li... [1781 chars]",
+            "url": "https://www.thesun.co.uk/sport/39130706/fake-england-shirts-how-to-spot-world-cup/",
+            "image": "https://www.thesun.co.uk/wp-content/uploads/2026/05/newspress-collage-y72fkiwjw-1778964534259.jpg?quality=90&strip=all&1778968175&w=1920&h=1080&crop=1",
+            "publishedAt": "2026-05-16T21:06:13Z",
+            "lang": "en",
+            "source": {
+                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+                "name": "The Sun",
+                "url": "https://www.thesun.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "13bbc16bca761975a69a8ba5cdfefe84",
+            "title": "The enterprise risk nobody is modeling: AI is replacing the very experts it needs to learn from",
+            "description": "The industry has a plan for building smarter models. It doesn't have a plan for the evaluators those models depend on.",
+            "content": "For AI systems to keep improving in knowledge work, they need either a reliable mechanism for autonomous self-improvement or human evaluators capable of catching errors and generating high-quality feedback. The industry has invested enormously in the... [6616 chars]",
+            "url": "https://venturebeat.com/technology/the-enterprise-risk-nobody-is-modeling-ai-is-replacing-the-very-experts-it-needs-to-learn-from",
+            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3iCqyxRTfwQ8eGj1QIr9vm/a1cb0a9309957e782665907e20bde9ca/Humans_AI.png?w=800&q=75",
+            "publishedAt": "2026-05-16T21:05:53Z",
+            "lang": "en",
+            "source": {
+                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com",
                 "country": "us"
             }
         },
         {
-            "id": "e230e140a6ff4da28b4dc9e17536640b",
-            "title": "AI Threat Puts Your Savings in the Crosshairs",
-            "description": "The threats facing the U.S. financial system have changed in ways that policymakers are only now beginning to say out loud.",
-            "content": "AI may be helping drive the stock market to record highs, but it may also carry the seeds of the market's next major shock.\nWhen Treasury Secretary Scott Bessent was asked whether Americans should worry about\nartificial intelligence (AI) being used t... [5526 chars]",
-            "url": "https://www.newsmax.com/finance/machiblock/bessent-claudemythos-powell/2026/05/15/id/1256454/",
-            "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=3189c12b-8210-4b77-b827-b4148553a3c5&SiteName=Newsmax",
-            "publishedAt": "2026-05-15T21:09:42Z",
+            "id": "c37d5509fea2fe18f27771f06a860b94",
+            "title": "Nvidia or Micron: Billionaire Ken Fisher Bets Big on One Top AI Stock",
+            "description": "AI has been shaping the market narrative for several years now. Companies operating in AI-related fields have seen massive real-world impact, an...",
+            "content": "AI has been shaping the market narrative for several years now. Companies operating in AI-related fields have seen massive real-world impact, and that has fed into stocks’ valuations, which have regularly soared to new highs.\nClaim 55% Off TipRanks\nU... [8246 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/nvidia-or-micron-billionaire-ken-fisher-bets-big-on-one-top-ai-stock-1036166334",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-1720-1024x545.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-05-16T21:05:09Z",
             "lang": "en",
             "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
                 "country": "us"
             }
         },
         {
-            "id": "0ffe33d9f8c22d8f0b2d9f7a774f2b7e",
-            "title": "Inflation worries while waiting for Nvidia",
-            "description": "Despite investors' still-insatiable appetite for AI-related stocks, which pushed Wall Street to new highs this week, sentiment deteriorated sharply on Friday as inflation fears resurfaced....\n-May 15, 2026 at 05:07 pm EDT\n- MarketScreener",
-            "content": "Up:\nTower Semiconductor +29.84% : Investor appetite for semiconductor stocks shows no sign of fading, especially when companies deliver strong results. The U.S. company also announced contract wins totaling €1.3 million.\nRocket Lab Corporation +18.3%... [8217 chars]",
-            "url": "https://www.marketscreener.com/news/inflation-worries-while-waiting-for-nvidia-ce7f5bd3da8bf020",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4235762_800.jpg",
-            "publishedAt": "2026-05-15T21:07:35Z",
+            "id": "08ee2dcea55b9ce8a2c942ca66532afa",
+            "title": "Steven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about it",
+            "description": "The day John Lennon was shot in 1980, he and Yoko Ono gave an interview to a San Francisco radio crew from their home in New York’s Dakota",
+            "content": "The day John Lennon was shot in 1980, he and Yoko Ono gave an interview to a San Francisco radio crew from their home in New York’s Dakota Apartments\nSteven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about itBy JAKE C... [6374 chars]",
+            "url": "https://www.breitbart.com/news/steven-soderbergh-used-ai-in-a-documentary-about-john-lennon-and-he-wants-to-talk-about-it/",
+            "image": "https://media.breitbart.com/media/2026/05/wi/ap/france-cannes-26-john-lennon-interview-photo-call-9592-france-cannes-2026-john-lennon-interview-640x335.jpg",
+            "publishedAt": "2026-05-16T21:03:20Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
             }
         },
         {
-            "id": "1b4deac5393cef3a6d00c79ac2d822aa",
-            "title": "AI Boom and Inflation: Key Market Influencers Ahead of Nvidia and Walmart Earnings",
-            "description": "Next week, the market will closely analyze the earnings reports from Nvidia, a semiconductor powerhouse, and major retailers like Walmart, amidst significant AI advancements and inflation concerns. The tech-heavy indices have surged, with caution over whether the rally, led by a limited set of stocks, is sustainable.",
-            "content": "The U.S. stock market is set for a pivotal week as investors turn their attention to earnings reports from semiconductor leader Nvidia and top retailers, including Walmart. The market has been largely driven by two key factors: the rise of artificial... [731 chars]",
-            "url": "https://www.devdiscourse.com/article/headlines/3910389-ai-boom-and-inflation-key-market-influencers-ahead-of-nvidia-and-walmart-earnings",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/11_05_2026_18_34_32_5332185.png&width=920&format=jpeg",
-            "publishedAt": "2026-05-15T21:07:18Z",
+            "id": "91e608a2721114c9cf1cbbbd4f5e260e",
+            "title": "Entertainment Unveiled: From Cannes to Eurovision",
+            "description": "Current entertainment highlights include Sandra Hueller's remarks on 'Fatherland', Eurovision's challenges, and legal battles between Reliance-Disney and Zee. Additionally, Harvey Weinstein's trial concludes in mistrial, AI's impact on art debated at Cannes, and John Travolta receives an honorary award, marking significant trends and events in the entertainment industry.",
+            "content": "In the world of entertainment, German actress Sandra Hueller highlighted the cultural impact of the Cannes entry 'Fatherland', which brings Germany's post-war trauma to life. The film, directed by Pawel Pawlikowski and featuring Thomas Mann's return ... [779 chars]",
+            "url": "https://www.devdiscourse.com/article/entertainment/3911348-entertainment-unveiled-from-cannes-to-eurovision",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2026_14_34_01_082903.png&width=920&format=jpeg",
+            "publishedAt": "2026-05-16T21:00:21Z",
             "lang": "en",
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -71,98 +103,66 @@
             }
         },
         {
-            "id": "675e2a161f1d2503acc2cef84e461070",
-            "title": "Inflation worries while waiting for Nvidia",
-            "description": "Despite investors' still-insatiable appetite for AI-related stocks, which pushed Wall Street to new highs this week, sentiment deteriorated sharply on Friday as inflation fears resurfaced....\n-May 15, 2026 at 05:06 pm EDT\n- MarketScreener",
-            "content": "Up:\nTower Semiconductor +29.84% : Investor appetite for semiconductor stocks shows no sign of fading, especially when companies deliver strong results. The U.S. company also announced contract wins totaling €1.3 million.\nRocket Lab Corporation +18.3%... [8217 chars]",
-            "url": "https://www.marketscreener.com/news/inflation-worries-while-waiting-for-nvidia-ce7f5bd3da8bf322",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4235762_800.jpg",
-            "publishedAt": "2026-05-15T21:06:36Z",
+            "id": "7fb2c086fb0d67bfc2558d467e44bea5",
+            "title": "Silicon Valley startup wants suburban homeowners hosting powerful AI data centers directly beside their homes for free electricity benefits",
+            "description": "Homeowners offered free electricity deals for hosting expensive AI powered GPU boxes",
+            "content": "SPAN plans to install AI-powered GPU boxes outside ordinary suburban homes\nHomeowners offered subsidized electricity for hosting remote computing infrastructure equipment\nEach neighbourhood node contains sixteen expensive Nvidia GPUs inside compact e... [2847 chars]",
+            "url": "https://www.techradar.com/pro/this-us-start-up-wants-to-pay-you-to-host-a-data-center-on-the-side-of-your-home-and-says-it-wont-disturb-you-at-all",
+            "image": "https://cdn.mos.cms.futurecdn.net/G2koG72sdNwMDS94Y4UNfH-2048-80.png",
+            "publishedAt": "2026-05-16T20:25:00Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
             }
         },
         {
-            "id": "f79dfaee7b2d269de4d289f22d5fe605",
-            "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
-            "description": "Intercom, now called Fin, has launched Fin Operator, an AI agent that manages customer service AI, signaling a new phase in enterprise automation and support operations.",
-            "content": "The company formerly known as Intercom just did something that no major customer service platform has attempted at scale: it built an AI agent whose sole job is to manage another AI agent.\nFin Operator, announced Thursday at a live event in San Franc... [14581 chars]",
-            "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
-            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/10I7GZFZUePTddNj8ASkQA/6377bab1d1c7f5e7bfeed8c047ac2588/Nuneybits_Vector_art_of_a_back-office_maze_navigated_by_an_AI_o_f7f13274-2bb1-4557-bc50-34a00548ce56.webp?w=800&q=75",
-            "publishedAt": "2026-05-15T21:06:09Z",
+            "id": "859b70ce116b803078f17664070d8935",
+            "title": "The haves and have nots of the AI gold rush",
+            "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
+            "content": "The vibes around the current AI boom aren’t great, even in the tech industry, according to a lengthy social media post from Menlo Ventures partner Deedy Das.\nDas described San Francisco as “pretty frenetic right now,” as “the divide in outcomes is th... [779 chars]",
+            "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+            "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074",
+            "publishedAt": "2026-05-16T20:17:16Z",
             "lang": "en",
             "source": {
-                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
-                "name": "VentureBeat",
-                "url": "https://venturebeat.com",
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
                 "country": "us"
             }
         },
         {
-            "id": "f37cbf83a71f0a9f867514c07cd08860",
-            "title": "‘Stupid MAGAs’:Trump and His Sons Scramble to Beat Fraud Allegations with AI-Generated Video, Then Viewers Zoom In on the One Detail They Clearly Missed",
-            "description": "President Donald Trump and his two oldest sons, Don Jr. and Eric Trump, are facing a growing MAGA backlash over their mobile phone company and months of",
-            "content": "President Donald Trump and his two oldest sons, Don Jr. and Eric Trump, are facing a growing MAGA backlash over their mobile phone company and months of delays in sending customers their pre-ordered devices.\nThe Trumps launched Trump Mobile last June... [3811 chars]",
-            "url": "https://atlantablackstar.com/2026/05/15/trump-and-his-sons-scramble-to-beat-fraud-allegations/",
-            "image": "https://atlantablackstar.com/wp-content/uploads/2029/09/Trump-Family.webp",
-            "publishedAt": "2026-05-15T21:05:56Z",
+            "id": "43c27c6b836b023a1f645eb5fbf0d61d",
+            "title": "Seth Rogen Says If You Use AI to Write, Then You Shouldn't Be a Writer",
+            "description": "Seth Rogen says if you use Ai to write your stories or scripts, then 'you shouldn't be a writer.'",
+            "content": "Seth Rogen told Brut at the Cannes Film Festival that if you use AI to write your stories or scripts, then you “shouldn’t be a writer.”\n“I don’t understand what it’s supposed to do,” Rogen said when asked about AI in filmmaking. “Every time I see a v... [1268 chars]",
+            "url": "https://variety.com/2026/film/news/seth-rogen-ai-write-scripts-shouldnt-be-a-writer-cannes-1236751083/",
+            "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2276180141.jpg?crop=0px%2C296px%2C5622px%2C3163px&resize=1000%2C563",
+            "publishedAt": "2026-05-16T20:07:09Z",
             "lang": "en",
             "source": {
-                "id": "33cb25fa0c188e2a4e90fce288b4ce49",
-                "name": "Atlanta Black Star",
-                "url": "https://atlantablackstar.com",
+                "id": "e6688d6db992f469baa7352aac100378",
+                "name": "Variety",
+                "url": "https://variety.com",
                 "country": "us"
             }
         },
         {
-            "id": "06d380e197c6fcde84e00a0df5ca90f3",
-            "title": "How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%",
-            "description": "UIUC and Stanford's RecursiveMAS lets AI agents collaborate in embedding space instead of text, cutting token usage by 75% and speeding inference 2.4x.",
-            "content": "One of the key challenges of current multi-agent AI systems is that they communicate by generating and sharing text sequences, which introduces latency, drives up token costs, and makes it difficult to train the entire system as a cohesive unit.\nTo o... [8168 chars]",
-            "url": "https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75",
-            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/40XcHj8m7JLdkkZiy8Ry4n/54c900f7056ba18eb8e368cd2681e4d3/recursive_multi-agent_system.jpg?w=800&q=75",
-            "publishedAt": "2026-05-15T21:04:15Z",
+            "id": "2bd88f5bb9fc9dbb8c0f36caaa79ae67",
+            "title": "In the age of AI, a Philadelphia Black comic book convention reinforces the importance of creators’ culture",
+            "description": "The East Coast Black Age of Comics Convention returns to Philadelphia.",
+            "content": "When Chris Williams, 26, and Miles Hubbard, 24, walked the stage as part of the last graduating class of the University of the Arts, their future felt uncertain.\nBetween dealing with the school’s closure and finding work as illustrators in the age of... [2954 chars]",
+            "url": "https://www.inquirer.com/news/east-coast-black-age-of-comics-convention-ai-20260516.html",
+            "image": "https://www.inquirer.com/resizer/v2/HHMZ3Z5XVNFRVM6QPLVAHHDKPQ.jpg?auth=9dedcbf108078a4eefac7b47e939c9f6dd05ce9f7a06091ecc358e2c4589328a&width=760&height=507&smart=true",
+            "publishedAt": "2026-05-16T20:04:41Z",
             "lang": "en",
             "source": {
-                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
-                "name": "VentureBeat",
-                "url": "https://venturebeat.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c5e3b7184bfb15f89f08227612edbc3b",
-            "title": "Samsung strike could shake up the AI landscape",
-            "description": "Samsung and a South Korean labour union could not reach an agreement to salvage relations ahead of a planned strike on May 21.",
-            "content": "Samsung and a South Korean labour union could not reach an agreement on Tuesday. These negotiations were a last-ditch effort to salvage relations ahead of a planned strike on May 21.\nSamsung’s three manufacturing sites in South Korea, Giheung, Hwaseo... [904 chars]",
-            "url": "https://mobilesyrup.com/2026/05/15/samsung-strike-could-shake-up-the-ai-landscape/",
-            "image": "https://production-static.mobilesyrup.com/uploads/2025/12/samsung-gaming-header-scaled.jpg",
-            "publishedAt": "2026-05-15T21:04:06Z",
-            "lang": "en",
-            "source": {
-                "id": "065af1b88f232671921c1449e7a0035e",
-                "name": "MobileSyrup",
-                "url": "https://mobilesyrup.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "27599fd118ae39e20764bcfc201c6bf2",
-            "title": "EPA Wants Power Plants To Be Able To Pour More Poison Into Drinking Water",
-            "description": "The power demands of AI mean that coal-fired power plants need relaxed rules on dumping toxic heavy metals into groundwater, EPA Administrator Lee Zeldin argued.",
-            "content": "LOADINGERROR LOADING\nHARRISBURG, Pa. (AP) — The U.S. Environmental Protection Agency moved Thursday to roll back limits that require coal-fired power plants to prevent the release of toxic heavy metals into streams and rivers through polluted groundw... [4215 chars]",
-            "url": "https://www.huffpost.com/entry/epa-power-plant-heavy-metals-water_n_6a0786f6e4b098065bea06f2",
-            "image": "https://img.huffingtonpost.com/asset/6a0786f81d0000e2e4a13e30.jpeg?cache=WViiX2YHXs&ops=1200_630",
-            "publishedAt": "2026-05-15T21:02:53Z",
-            "lang": "en",
-            "source": {
-                "id": "e382ce4dfbd3358e338d63782000b7df",
-                "name": "HuffPost",
-                "url": "https://www.huffpost.com",
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
                 "country": "us"
             }
         }
