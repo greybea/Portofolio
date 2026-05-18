@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 336516,
+    "totalArticles": 336903,
     "articles": [
         {
-            "id": "2c410f92f4eb55e3c981d3d98c64abcb",
-            "title": "Trump Calm Before the Storm Post: Decoding US President's Cryptic Message Amid Iran War",
-            "description": "US President Donald Trump has shared a mysterious AI-generated image on Truth Social. The post coincided with reports of Pentagon plans for renewed operations, dubbed \"Operation Epic Fury 2.0.\", US News, Times Now",
-            "content": "US President Donald Trump has posted a cryptic image on his Truth Social platform as questions grow over whether Washington could resume military strikes against Iran. The image, which appeared to be AI-generated, showed Trump pointing directly at th... [4237 chars]",
-            "url": "https://www.timesnownews.com/world/us/us-news/trump-calm-before-the-storm-post-truth-social-iran-war-strait-of-hormuz-article-154335206",
-            "image": "https://images.timesnownews.com/thumb/msid-154335206,width-1280,height-720,resizemode-75/154335206.jpg",
-            "publishedAt": "2026-05-16T21:25:54Z",
+            "id": "35724f3315680d5301a5e4b110acb7f8",
+            "title": "Siri's rebirth in iOS 27 will might offer an auto-delete perk for your AI chats",
+            "description": "Apple’s iOS 27 Siri overhaul could introduce chatbot-style conversations alongside automatic deletion controls designed to give users more privacy over AI interactions.",
+            "content": "Apple’s long-awaited Siri overhaul in iOS 27 could introduce a feature that most AI chatbots still treat as optional: automatic deletion of AI conversations. According to Mark Gurman’s Bloomberg newsletter, Apple is preparing a redesigned Siri experi... [3354 chars]",
+            "url": "https://www.digitaltrends.com/phones/siris-rebirth-in-ios-27-will-might-offer-an-auto-delete-perk-for-your-ai-chats/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/05/DT-2026-05-18T050002.498.jpg?resize=1200%2C630",
+            "publishedAt": "2026-05-17T23:34:58Z",
             "lang": "en",
             "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
+                "country": "us"
             }
         },
         {
-            "id": "458295920a0f0e9bff367f1288ee67df",
-            "title": "Half of all England football shirts worn by fans are fake, AI-powered app claims",
-            "description": "HALF of all England football shirts being worn by fans are fake, an AI-powered app claims.\nThe KitLegit bot uses artificial intelligence to...",
-            "content": "HALF of all England football shirts being worn by fans are fake, an AI-powered app claims.\nThe KitLegit bot uses artificial intelligence to tell supporters whether their top is the real deal.\nAdvertisement\nIt found that just 50.7 per cent of Three Li... [1781 chars]",
-            "url": "https://www.thesun.co.uk/sport/39130706/fake-england-shirts-how-to-spot-world-cup/",
-            "image": "https://www.thesun.co.uk/wp-content/uploads/2026/05/newspress-collage-y72fkiwjw-1778964534259.jpg?quality=90&strip=all&1778968175&w=1920&h=1080&crop=1",
-            "publishedAt": "2026-05-16T21:06:13Z",
+            "id": "7dc19e03f1ed59e6a9ba0dcba09fee5d",
+            "title": "AI tool for radiotherapy can support the global effort to eliminate cervical cancer",
+            "description": "An AI technology is effective at planning the delivery of life-saving radiotherapy for cervical cancer and prostate cancer, according to results from a large international trial led by researchers at University College London (UCL) and the London School of Hygiene & Tropical Medicine (LSHTM).",
+            "content": "An AI technology is effective at planning the delivery of life-saving radiotherapy for cervical cancer and prostate cancer, according to results from a large international trial led by researchers at University College London (UCL) and the London Sch... [5145 chars]",
+            "url": "https://medicalxpress.com/news/2026-05-ai-tool-radiotherapy-global-effort.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2024/radiotherapy.jpg",
+            "publishedAt": "2026-05-17T23:10:01Z",
             "lang": "en",
             "source": {
-                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
-                "name": "The Sun",
-                "url": "https://www.thesun.co.uk",
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
                 "country": "gb"
             }
         },
         {
-            "id": "13bbc16bca761975a69a8ba5cdfefe84",
-            "title": "The enterprise risk nobody is modeling: AI is replacing the very experts it needs to learn from",
-            "description": "The industry has a plan for building smarter models. It doesn't have a plan for the evaluators those models depend on.",
-            "content": "For AI systems to keep improving in knowledge work, they need either a reliable mechanism for autonomous self-improvement or human evaluators capable of catching errors and generating high-quality feedback. The industry has invested enormously in the... [6616 chars]",
-            "url": "https://venturebeat.com/technology/the-enterprise-risk-nobody-is-modeling-ai-is-replacing-the-very-experts-it-needs-to-learn-from",
-            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3iCqyxRTfwQ8eGj1QIr9vm/a1cb0a9309957e782665907e20bde9ca/Humans_AI.png?w=800&q=75",
-            "publishedAt": "2026-05-16T21:05:53Z",
+            "id": "4aa79942cb00fb97f6b993d8772971eb",
+            "title": "Ludhiana college introduces AI-enabled device for visually impaired students",
+            "description": "The device — Knowledge In a Box (KIBO) — translates, digitises and converts printed, handwritten and digital documents into audio lessons in over 60 languages",
+            "content": "Commonly known as ‘knowledge in a box’, the device can translate, digitise and convert printed, handwritten and digital documents into audio lessons in more than 60 languages, enabling visually impaired students to access educational material indepen... [1910 chars]",
+            "url": "https://www.hindustantimes.com/cities/chandigarh-news/ludhiana-college-introduces-ai-enabled-device-for-visually-impaired-students-101779043199456.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/05/17/550x309/College-principal-Gursharnjit-Singh-Sandhu-said-th_1779043197706.jpg",
+            "publishedAt": "2026-05-17T23:04:06Z",
             "lang": "en",
             "source": {
-                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
-                "name": "VentureBeat",
-                "url": "https://venturebeat.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c37d5509fea2fe18f27771f06a860b94",
-            "title": "Nvidia or Micron: Billionaire Ken Fisher Bets Big on One Top AI Stock",
-            "description": "AI has been shaping the market narrative for several years now. Companies operating in AI-related fields have seen massive real-world impact, an...",
-            "content": "AI has been shaping the market narrative for several years now. Companies operating in AI-related fields have seen massive real-world impact, and that has fed into stocks’ valuations, which have regularly soared to new highs.\nClaim 55% Off TipRanks\nU... [8246 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/nvidia-or-micron-billionaire-ken-fisher-bets-big-on-one-top-ai-stock-1036166334",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-1720-1024x545.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-05-16T21:05:09Z",
-            "lang": "en",
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "08ee2dcea55b9ce8a2c942ca66532afa",
-            "title": "Steven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about it",
-            "description": "The day John Lennon was shot in 1980, he and Yoko Ono gave an interview to a San Francisco radio crew from their home in New York’s Dakota",
-            "content": "The day John Lennon was shot in 1980, he and Yoko Ono gave an interview to a San Francisco radio crew from their home in New York’s Dakota Apartments\nSteven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about itBy JAKE C... [6374 chars]",
-            "url": "https://www.breitbart.com/news/steven-soderbergh-used-ai-in-a-documentary-about-john-lennon-and-he-wants-to-talk-about-it/",
-            "image": "https://media.breitbart.com/media/2026/05/wi/ap/france-cannes-26-john-lennon-interview-photo-call-9592-france-cannes-2026-john-lennon-interview-640x335.jpg",
-            "publishedAt": "2026-05-16T21:03:20Z",
-            "lang": "en",
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "91e608a2721114c9cf1cbbbd4f5e260e",
-            "title": "Entertainment Unveiled: From Cannes to Eurovision",
-            "description": "Current entertainment highlights include Sandra Hueller's remarks on 'Fatherland', Eurovision's challenges, and legal battles between Reliance-Disney and Zee. Additionally, Harvey Weinstein's trial concludes in mistrial, AI's impact on art debated at Cannes, and John Travolta receives an honorary award, marking significant trends and events in the entertainment industry.",
-            "content": "In the world of entertainment, German actress Sandra Hueller highlighted the cultural impact of the Cannes entry 'Fatherland', which brings Germany's post-war trauma to life. The film, directed by Pawel Pawlikowski and featuring Thomas Mann's return ... [779 chars]",
-            "url": "https://www.devdiscourse.com/article/entertainment/3911348-entertainment-unveiled-from-cannes-to-eurovision",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2026_14_34_01_082903.png&width=920&format=jpeg",
-            "publishedAt": "2026-05-16T21:00:21Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "7fb2c086fb0d67bfc2558d467e44bea5",
-            "title": "Silicon Valley startup wants suburban homeowners hosting powerful AI data centers directly beside their homes for free electricity benefits",
-            "description": "Homeowners offered free electricity deals for hosting expensive AI powered GPU boxes",
-            "content": "SPAN plans to install AI-powered GPU boxes outside ordinary suburban homes\nHomeowners offered subsidized electricity for hosting remote computing infrastructure equipment\nEach neighbourhood node contains sixteen expensive Nvidia GPUs inside compact e... [2847 chars]",
-            "url": "https://www.techradar.com/pro/this-us-start-up-wants-to-pay-you-to-host-a-data-center-on-the-side-of-your-home-and-says-it-wont-disturb-you-at-all",
-            "image": "https://cdn.mos.cms.futurecdn.net/G2koG72sdNwMDS94Y4UNfH-2048-80.png",
-            "publishedAt": "2026-05-16T20:25:00Z",
+            "id": "f93d440140f8a0d4540f225b12db0e08",
+            "title": "At Samsung, the global AI boom spurred a looming strike and deep divisions",
+            "description": "SAMSUNG-ELEC-DISPUTE:At Samsung, the global AI boom spurred a looming strike and deep divisions",
+            "content": "By Hyunjoo Jin\nSEOUL, May 15 (Reuters) - A looming 18-day strike at South Korean chip giant Samsung that has triggered worries within the government, rattled foreign investors and threatened global supply chains rests on one crucial question: who sho... [7052 chars]",
+            "url": "https://www.livemint.com/companies/at-samsung-the-global-ai-boom-spurred-a-looming-strike-and-deep-divisions-11779058931598.html",
+            "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+            "publishedAt": "2026-05-17T23:02:11Z",
             "lang": "en",
             "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "8fb3d7e125afa4b9a5f2176b50003d51",
+            "title": "I’ll decide, Olive, when it’s time to go to bed",
+            "description": "Getting AI to run your life sounds attractive but without the friction of work and drudge, leisure amounts to naught",
+            "content": "Ever fantasised about an endlessly devoted personal assistant; someone who anticipates your every whim and never sleeps? If so you are in luck — the tech industry is trying to build one for you. At the head of this pack is Bill Nguyen, an entrepreneu... [5746 chars]",
+            "url": "https://www.thetimes.com/comment/columnists/article/decide-olive-when-time-bed-artificial-intelligence-vwjcn5ss2",
+            "image": "https://www.thetimes.com/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffdf25bfb-7e68-4b5b-97c0-4b248968b266.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
+            "publishedAt": "2026-05-17T23:01:00Z",
+            "lang": "en",
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "61aaa57ce5c82d60efdf20e204907a93",
+            "title": "Barclays names Fractile and Isomorphic Labs among UK's top AI startups",
+            "description": "Barclays has named AI chip startup Fractile and Google DeepMind spinout Isomorphic Labs among Britain’s top AI companies",
+            "content": "Barclays has named AI chip startup Fractile and Google DeepMind spinout Isomorphic Labs among Britain’s top AI companies as investors race to back the next generation of UK tech champions.\nThe banking giant’s Eagle Labs division unveiled its new AI 1... [2328 chars]",
+            "url": "https://www.cityam.com/barclays-names-fractile-and-isomorphic-labs-among-uks-top-ai-startups/",
+            "image": "https://www.cityam.com/wp-content/uploads/2026/04/AI-data-centre-e1775144726181.jpg",
+            "publishedAt": "2026-05-17T23:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "996b4ad0804caad8f61702c5d7917ec0",
+                "name": "City A.M.",
+                "url": "https://www.cityam.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "7fad59b39496b8a35a32b73f000a1907",
+            "title": "UK AI investment hits record £8.3bn as London tightens grip on tech boom",
+            "description": "Britain’s AI sector pulled in a record £8.3bn of investment last year, with London tightening its grip as Europe’s leading tech hub.",
+            "content": "Britain’s AI sector pulled in a record £8.3bn of investment last year, as global investors raced to back the country’s next generation of AI firms, with London tightening its grip as Europe’s leading tech hub.\nNew research from Barclays Eagle Labs fo... [2920 chars]",
+            "url": "https://www.cityam.com/uk-ai-investment-hits-record-8-3bn/",
+            "image": "https://www.cityam.com/wp-content/uploads/2026/02/CityClusterlookingwestFeb2026WEB.jpeg",
+            "publishedAt": "2026-05-17T23:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "996b4ad0804caad8f61702c5d7917ec0",
+                "name": "City A.M.",
+                "url": "https://www.cityam.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "78a5c0624ca6b9e2af2b8e02b92e05a0",
+            "title": "Iran war LIVE: Trump shares unhinged AI nuclear bomb image and warns 'the clock is ticking'",
+            "description": "Trump warned Iran that \"they better get moving, FAST, or there won’t be anything left of them\" just hours before posting an image on social media that appears to show him pushing a nuclear button",
+            "content": "US President Donald Trump has issued a warning to Iran shortly before posting a terrifying image of him hitting a big, red button.\nThe US and Iran have been in conflict since February 28 and although a fragile, short-term ceasefire is in place, the t... [442 chars]",
+            "url": "https://www.mirror.co.uk/news/world-news/trump-iran-terrifying-warning-live-37169446",
+            "image": "https://i2-prod.mirror.co.uk/article37169456.ece/ALTERNATES/s1200d/0_5e3479f98e65f40b.jpg",
+            "publishedAt": "2026-05-17T22:58:54Z",
+            "lang": "en",
+            "source": {
+                "id": "105bb16685822879671e4bad332aeec9",
+                "name": "The Mirror",
+                "url": "https://www.mirror.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "00d226f11ce8be665b35e6e8e02bdb38",
+            "title": "From proof of concept to chaos: when bad data derails AI",
+            "description": "Australian organisations are racing to use cloud platforms, automation and artificial intelligence.",
+            "content": "“Your data reflects your business processes and how your organisation actually works,” O’Donnell says. “When the data is poor, the decisions are poor. And fixing those mistakes later is expensive.”\nWhen AI scales, data problems explode\nMany organisat... [4017 chars]",
+            "url": "https://www.afr.com/technology/from-proof-of-concept-to-chaos-when-bad-data-derails-ai-20260429-p5zrzv",
+            "image": "https://static.ffx.io/images/$zoom_0.8394%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_173%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/1b9f4b2f125f648f872fd84d95bd1544bbc00c0ba05ce8375f9afb4072eafc20",
+            "publishedAt": "2026-05-17T22:55:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
                 "country": "au"
             }
         },
         {
-            "id": "859b70ce116b803078f17664070d8935",
-            "title": "The haves and have nots of the AI gold rush",
-            "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
-            "content": "The vibes around the current AI boom aren’t great, even in the tech industry, according to a lengthy social media post from Menlo Ventures partner Deedy Das.\nDas described San Francisco as “pretty frenetic right now,” as “the divide in outcomes is th... [779 chars]",
-            "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-            "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074",
-            "publishedAt": "2026-05-16T20:17:16Z",
+            "id": "1b983d03ccea00e91317b8d239397fed",
+            "title": "Enterprise infrastructure driven by Dell partnerships",
+            "description": "Enterprise infrastructure is shifting as Dell expands AI, cloud and virtualization partnerships with Nvidia, Nutanix, AMD and Microsoft for hybrid AI ops.",
+            "content": "A significant reorganization is currently taking place within the enterprise infrastructure market, which means that Dell Technologies Inc. will play a prominent role in the outcome. To be successful, however, Dell must continue to expand its “big te... [9897 chars]",
+            "url": "https://siliconangle.com/2026/05/17/dells-partnerships-drive-enterprise-infrastructure-delltechworld/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/ChatGPT-Image-May-16-2026-07_51_25-AM.png",
+            "publishedAt": "2026-05-17T22:33:49Z",
             "lang": "en",
             "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "43c27c6b836b023a1f645eb5fbf0d61d",
-            "title": "Seth Rogen Says If You Use AI to Write, Then You Shouldn't Be a Writer",
-            "description": "Seth Rogen says if you use Ai to write your stories or scripts, then 'you shouldn't be a writer.'",
-            "content": "Seth Rogen told Brut at the Cannes Film Festival that if you use AI to write your stories or scripts, then you “shouldn’t be a writer.”\n“I don’t understand what it’s supposed to do,” Rogen said when asked about AI in filmmaking. “Every time I see a v... [1268 chars]",
-            "url": "https://variety.com/2026/film/news/seth-rogen-ai-write-scripts-shouldnt-be-a-writer-cannes-1236751083/",
-            "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2276180141.jpg?crop=0px%2C296px%2C5622px%2C3163px&resize=1000%2C563",
-            "publishedAt": "2026-05-16T20:07:09Z",
-            "lang": "en",
-            "source": {
-                "id": "e6688d6db992f469baa7352aac100378",
-                "name": "Variety",
-                "url": "https://variety.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "2bd88f5bb9fc9dbb8c0f36caaa79ae67",
-            "title": "In the age of AI, a Philadelphia Black comic book convention reinforces the importance of creators’ culture",
-            "description": "The East Coast Black Age of Comics Convention returns to Philadelphia.",
-            "content": "When Chris Williams, 26, and Miles Hubbard, 24, walked the stage as part of the last graduating class of the University of the Arts, their future felt uncertain.\nBetween dealing with the school’s closure and finding work as illustrators in the age of... [2954 chars]",
-            "url": "https://www.inquirer.com/news/east-coast-black-age-of-comics-convention-ai-20260516.html",
-            "image": "https://www.inquirer.com/resizer/v2/HHMZ3Z5XVNFRVM6QPLVAHHDKPQ.jpg?auth=9dedcbf108078a4eefac7b47e939c9f6dd05ce9f7a06091ecc358e2c4589328a&width=760&height=507&smart=true",
-            "publishedAt": "2026-05-16T20:04:41Z",
-            "lang": "en",
-            "source": {
-                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
-                "name": "The Philadelphia Inquirer",
-                "url": "https://www.inquirer.com",
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
                 "country": "us"
             }
         }
