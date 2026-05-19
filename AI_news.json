@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 336903,
+    "totalArticles": 338012,
     "articles": [
         {
-            "id": "35724f3315680d5301a5e4b110acb7f8",
-            "title": "Siri's rebirth in iOS 27 will might offer an auto-delete perk for your AI chats",
-            "description": "Apple’s iOS 27 Siri overhaul could introduce chatbot-style conversations alongside automatic deletion controls designed to give users more privacy over AI interactions.",
-            "content": "Apple’s long-awaited Siri overhaul in iOS 27 could introduce a feature that most AI chatbots still treat as optional: automatic deletion of AI conversations. According to Mark Gurman’s Bloomberg newsletter, Apple is preparing a redesigned Siri experi... [3354 chars]",
-            "url": "https://www.digitaltrends.com/phones/siris-rebirth-in-ios-27-will-might-offer-an-auto-delete-perk-for-your-ai-chats/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/05/DT-2026-05-18T050002.498.jpg?resize=1200%2C630",
-            "publishedAt": "2026-05-17T23:34:58Z",
+            "id": "64abe95bec48e56cdbb62f6375a7e9b6",
+            "title": "Trump allies push for government testing, approval of 'potentially dangerous' AI systems",
+            "description": "Steve Bannon and 60 others, including Trump allies, signed a letter urging the president to require government vetting of \"potentially dangerous\" advanced AI systems before their public release.",
+            "content": "Steve Bannon and 60 others, including more allies of President Donald Trump, signed a letter urging the president to ensure that \"potentially dangerous\" cutting-edge artificial intelligence systems are fully vetted by the government before allowing t... [4165 chars]",
+            "url": "https://wjla.com/news/nation-world/trump-allies-push-for-government-testing-approval-of-potentially-dangerous-ai-systems",
+            "image": "https://wjla.com/resources/media2/16x9/4946/1320/81x550/90/01b12140-7ecb-4d40-bcd0-0a5622acd848-GettyImages2271681512.jpg",
+            "publishedAt": "2026-05-18T22:49:27Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
                 "country": "us"
             }
         },
         {
-            "id": "7dc19e03f1ed59e6a9ba0dcba09fee5d",
-            "title": "AI tool for radiotherapy can support the global effort to eliminate cervical cancer",
-            "description": "An AI technology is effective at planning the delivery of life-saving radiotherapy for cervical cancer and prostate cancer, according to results from a large international trial led by researchers at University College London (UCL) and the London School of Hygiene & Tropical Medicine (LSHTM).",
-            "content": "An AI technology is effective at planning the delivery of life-saving radiotherapy for cervical cancer and prostate cancer, according to results from a large international trial led by researchers at University College London (UCL) and the London Sch... [5145 chars]",
-            "url": "https://medicalxpress.com/news/2026-05-ai-tool-radiotherapy-global-effort.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2024/radiotherapy.jpg",
-            "publishedAt": "2026-05-17T23:10:01Z",
+            "id": "066a79f81d512563e2ae8fd501dea0a9",
+            "title": "Trump allies push for government testing, approval of 'potentially dangerous' AI systems",
+            "description": "Steve Bannon and 60 others, including Trump allies, signed a letter urging the president to require government vetting of \"potentially dangerous\" advanced AI systems before their public release.",
+            "content": "Steve Bannon and 60 others, including more allies of President Donald Trump, signed a letter urging the president to ensure that \"potentially dangerous\" cutting-edge artificial intelligence systems are fully vetted by the government before allowing t... [4165 chars]",
+            "url": "https://foxbaltimore.com/news/nation-world/trump-allies-push-for-government-testing-approval-of-potentially-dangerous-ai-systems",
+            "image": "https://foxbaltimore.com/resources/media2/16x9/4946/1320/81x550/90/01b12140-7ecb-4d40-bcd0-0a5622acd848-GettyImages2271681512.jpg",
+            "publishedAt": "2026-05-18T22:49:27Z",
             "lang": "en",
             "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "a68fb822e9bdbefbed66d61c07c598bb",
+            "title": "College president booed as AI skips names at graduation ceremony",
+            "description": "An AI system reading graduate's names skipped dozens of students during a commencement ceremony, causing boos and a redo. Here's what happened",
+            "content": "ARIZONA, USA — A graduation ceremony in Arizona was disrupted after a mishap with an artificial intelligence name-reading system.\nDuring the May 15 graduation ceremony for students at Glendale Community College, some reported their names being skippe... [1507 chars]",
+            "url": "https://www.wltx.com/article/news/nation-world/ai-glitch-disrupts-arizona-college-graduation/507-9603c777-50da-4051-acb1-668052eb4ef5",
+            "image": "https://media.wltx.com/assets/KPNX/images/a762143a-fe39-487c-b50f-0a487f5ce5ed/20260518T225454/a762143a-fe39-487c-b50f-0a487f5ce5ed_1140x641.jpg",
+            "publishedAt": "2026-05-18T22:39:00Z",
+            "lang": "en",
+            "source": {
+                "id": "61d62f51b5a60b70cd06e36b5dc14e85",
+                "name": "WLTX.com",
+                "url": "https://www.wltx.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "a457c195d2253d949db26adb38e95268",
+            "title": "Jury throws out Musk's lawsuit against OpenAI and Sam Altman",
+            "description": "A federal judge in California dismissed a lawsuit from Elon Musk against the maker of ChatGPT after a jury found that he exceeded the statute of limitations. Musk had claimed that OpenAI betrayed its original mission of developing artificial intelligence for the good of humanity when it added a for-profit arm. Geoff Bennett discussed more with Gerrit De Vynck of The Washington Post.",
+            "content": "Geoff Bennett:\nThe trial pitting two of the world's biggest tech billionaires against each other has come to an end.\nA federal judge in California today dismissed a lawsuit from Elon Musk against the maker of ChatGPT after a jury found that he exceed... [6157 chars]",
+            "url": "https://www.pbs.org/newshour/show/jury-throws-out-musks-lawsuit-against-openai-and-sam-altman",
+            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/AIVerdict-1024x746.jpg",
+            "publishedAt": "2026-05-18T22:35:37Z",
+            "lang": "en",
+            "source": {
+                "id": "31177620c1e6e610b5d2b67916ed3615",
+                "name": "PBS News",
+                "url": "https://www.pbs.org",
+                "country": "us"
+            }
+        },
+        {
+            "id": "36d2524e667ea7a868c2fccf1dd71511",
+            "title": "Micron or SanDisk: Billionaire Israel Englander Picks One AI Memory Stock Over the Other",
+            "description": "Few investors on Wall Street carry as much weight as Israel Englander. The billionaire investor, whose net worth is estimated at around $26.5 bi...",
+            "content": "Few investors on Wall Street carry as much weight as Israel Englander. The billionaire investor, whose net worth is estimated at around $26.5 billion, built Millennium Management into one of the world’s largest hedge funds, overseeing over $87 billio... [7384 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/micron-or-sandisk-billionaire-israel-englander-picks-one-ai-memory-stock-over-the-other-1036173792",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-1928-1024x542.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-05-18T22:30:43Z",
+            "lang": "en",
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ac75e7a8dc593f2e6e21ec238ff12c42",
+            "title": "Alphabet's AI showcase is its chance to wow Wall Street",
+            "description": "After a 140% stock surge and a sweeping Wall Street reset, Google’s developer conference has to prove the AI story is more than a market narrative.",
+            "content": "Justin Sullivan | Getty Images\nAlphabet 's stock is up 140% over the past year, with a cloud business that is growing faster than Amazon's and Microsoft's .\nBut 18 months ago, the Google parent looked like it had spent a decade preparing for the arti... [9551 chars]",
+            "url": "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108176033-1753304312347-gettyimages-2226698930-_73a3751_pvebbcyr.jpeg?v=1754000135&w=1920&h=1080",
+            "publishedAt": "2026-05-18T22:21:54Z",
+            "lang": "en",
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "e9977f7021db937d79f8a2bd4ee3c4d2",
+            "title": "Sudbury man says he got ‘brainwashed by a robot’",
+            "description": "He blames trips to psych ward and breakup of marriage on AI",
+            "content": "He blames trips to psych ward and breakup of marriage on AI\nArticle content\nDaniel Lawler\nAdvertisement 2\nStory continues below\nThis advertisement has not loaded yet, but your article continues below.\nArticle content\nTom Millar of Sudbury thought he ... [9562 chars]",
+            "url": "https://www.nugget.ca/news/local-news/sudbury-man-says-he-got-brainwashed-by-a-robot",
+            "image": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2026/05/0519-su-chatbot.su_.jpg",
+            "publishedAt": "2026-05-18T22:21:39Z",
+            "lang": "en",
+            "source": {
+                "id": "74373d37da4d4a3faf05b8b7af0eafd7",
+                "name": "The North Bay Nugget",
+                "url": "https://www.nugget.ca",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "308efd1a68462c71ae21913084151f62",
+            "title": "Open-source AI assistant can improve research workflow",
+            "description": "Lehigh University researchers have built the first \"AI for Science\" software tool designed to support the entire project workflow for research scientists. Dr. Claw is an open-source, full-stack AI research assistant that helps users refine ideas, conduct literature reviews, run experiments, draft and review papers, write grant proposals, and build presentations. It eliminates the need to toggle between specialized AI tools—such as deep research agents for source evaluation or code generators for data analysis—by unifying these capabilities within a single interface.",
+            "content": "Lehigh University researchers have built the first \"AI for Science\" software tool designed to support the entire project workflow for research scientists. Dr. Claw is an open-source, full-stack AI research assistant that helps users refine ideas, con... [4484 chars]",
+            "url": "https://phys.org/news/2026-05-source-ai-workflow.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/2026/meet-dr-claw-the-open.jpg",
+            "publishedAt": "2026-05-18T22:20:04Z",
+            "lang": "en",
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
                 "country": "gb"
             }
         },
         {
-            "id": "4aa79942cb00fb97f6b993d8772971eb",
-            "title": "Ludhiana college introduces AI-enabled device for visually impaired students",
-            "description": "The device — Knowledge In a Box (KIBO) — translates, digitises and converts printed, handwritten and digital documents into audio lessons in over 60 languages",
-            "content": "Commonly known as ‘knowledge in a box’, the device can translate, digitise and convert printed, handwritten and digital documents into audio lessons in more than 60 languages, enabling visually impaired students to access educational material indepen... [1910 chars]",
-            "url": "https://www.hindustantimes.com/cities/chandigarh-news/ludhiana-college-introduces-ai-enabled-device-for-visually-impaired-students-101779043199456.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/05/17/550x309/College-principal-Gursharnjit-Singh-Sandhu-said-th_1779043197706.jpg",
-            "publishedAt": "2026-05-17T23:04:06Z",
+            "id": "0988dc744cd3b76da3a130ab854865fd",
+            "title": "Nvidia (NVDA) CEO Jensen Huang Signals Hope China Will Allow U.S. AI Chip Imports Again",
+            "description": "Nvidia (NVDA) CEO Jensen Huang is cautiously optimistic about selling AI chips to China again, according to Bloomberg. Huang thinks China will “...",
+            "content": "Nvidia (NVDA) CEO Jensen Huang is cautiously optimistic about selling AI chips to China again, according to Bloomberg. Huang thinks China will “eventually” allow imports of U.S. AI chips, even after months of stalled approvals and rising geopolitical... [2033 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/nvidia-nvda-ceo-jensen-huang-signals-hope-china-will-allow-u-s-ai-chip-imports-again-1036173668",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-1927.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-05-18T22:07:35Z",
             "lang": "en",
             "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
             }
         },
         {
-            "id": "f93d440140f8a0d4540f225b12db0e08",
-            "title": "At Samsung, the global AI boom spurred a looming strike and deep divisions",
-            "description": "SAMSUNG-ELEC-DISPUTE:At Samsung, the global AI boom spurred a looming strike and deep divisions",
-            "content": "By Hyunjoo Jin\nSEOUL, May 15 (Reuters) - A looming 18-day strike at South Korean chip giant Samsung that has triggered worries within the government, rattled foreign investors and threatened global supply chains rests on one crucial question: who sho... [7052 chars]",
-            "url": "https://www.livemint.com/companies/at-samsung-the-global-ai-boom-spurred-a-looming-strike-and-deep-divisions-11779058931598.html",
-            "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
-            "publishedAt": "2026-05-17T23:02:11Z",
+            "id": "eefe2d396c767ba36c879d54c80087bd",
+            "title": "Jury Delivers Humiliating Blow to Musk in AI Billionaire Feud",
+            "description": "The world’s richest man lost the tech bro civil war.",
+            "content": "A nine-person jury unanimously rejected Elon Musk’s lawsuit against OpenAI on Monday after the world’s richest man accused the tech giant he co-founded of not operating in the interest of the common good of humanity.\nThe trial, which lasted over thre... [2428 chars]",
+            "url": "https://www.thedailybeast.com/jury-delivers-humiliating-blow-to-elon-musk-in-openai-billionaire-feud-with-sam-altman/",
+            "image": "https://www.thedailybeast.com/resizer/v2/K4SXQTWRJFCP7B3554UNI2YCFQ.jpg?smart=true&auth=52634d14e748fbc69836a09b999fd14b4802268466a022c26ae6a283d69402fa&width=1200&height=630",
+            "publishedAt": "2026-05-18T22:01:37Z",
             "lang": "en",
             "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "8fb3d7e125afa4b9a5f2176b50003d51",
-            "title": "I’ll decide, Olive, when it’s time to go to bed",
-            "description": "Getting AI to run your life sounds attractive but without the friction of work and drudge, leisure amounts to naught",
-            "content": "Ever fantasised about an endlessly devoted personal assistant; someone who anticipates your every whim and never sleeps? If so you are in luck — the tech industry is trying to build one for you. At the head of this pack is Bill Nguyen, an entrepreneu... [5746 chars]",
-            "url": "https://www.thetimes.com/comment/columnists/article/decide-olive-when-time-bed-artificial-intelligence-vwjcn5ss2",
-            "image": "https://www.thetimes.com/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffdf25bfb-7e68-4b5b-97c0-4b248968b266.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
-            "publishedAt": "2026-05-17T23:01:00Z",
-            "lang": "en",
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "61aaa57ce5c82d60efdf20e204907a93",
-            "title": "Barclays names Fractile and Isomorphic Labs among UK's top AI startups",
-            "description": "Barclays has named AI chip startup Fractile and Google DeepMind spinout Isomorphic Labs among Britain’s top AI companies",
-            "content": "Barclays has named AI chip startup Fractile and Google DeepMind spinout Isomorphic Labs among Britain’s top AI companies as investors race to back the next generation of UK tech champions.\nThe banking giant’s Eagle Labs division unveiled its new AI 1... [2328 chars]",
-            "url": "https://www.cityam.com/barclays-names-fractile-and-isomorphic-labs-among-uks-top-ai-startups/",
-            "image": "https://www.cityam.com/wp-content/uploads/2026/04/AI-data-centre-e1775144726181.jpg",
-            "publishedAt": "2026-05-17T23:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "996b4ad0804caad8f61702c5d7917ec0",
-                "name": "City A.M.",
-                "url": "https://www.cityam.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "7fad59b39496b8a35a32b73f000a1907",
-            "title": "UK AI investment hits record £8.3bn as London tightens grip on tech boom",
-            "description": "Britain’s AI sector pulled in a record £8.3bn of investment last year, with London tightening its grip as Europe’s leading tech hub.",
-            "content": "Britain’s AI sector pulled in a record £8.3bn of investment last year, as global investors raced to back the country’s next generation of AI firms, with London tightening its grip as Europe’s leading tech hub.\nNew research from Barclays Eagle Labs fo... [2920 chars]",
-            "url": "https://www.cityam.com/uk-ai-investment-hits-record-8-3bn/",
-            "image": "https://www.cityam.com/wp-content/uploads/2026/02/CityClusterlookingwestFeb2026WEB.jpeg",
-            "publishedAt": "2026-05-17T23:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "996b4ad0804caad8f61702c5d7917ec0",
-                "name": "City A.M.",
-                "url": "https://www.cityam.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "78a5c0624ca6b9e2af2b8e02b92e05a0",
-            "title": "Iran war LIVE: Trump shares unhinged AI nuclear bomb image and warns 'the clock is ticking'",
-            "description": "Trump warned Iran that \"they better get moving, FAST, or there won’t be anything left of them\" just hours before posting an image on social media that appears to show him pushing a nuclear button",
-            "content": "US President Donald Trump has issued a warning to Iran shortly before posting a terrifying image of him hitting a big, red button.\nThe US and Iran have been in conflict since February 28 and although a fragile, short-term ceasefire is in place, the t... [442 chars]",
-            "url": "https://www.mirror.co.uk/news/world-news/trump-iran-terrifying-warning-live-37169446",
-            "image": "https://i2-prod.mirror.co.uk/article37169456.ece/ALTERNATES/s1200d/0_5e3479f98e65f40b.jpg",
-            "publishedAt": "2026-05-17T22:58:54Z",
-            "lang": "en",
-            "source": {
-                "id": "105bb16685822879671e4bad332aeec9",
-                "name": "The Mirror",
-                "url": "https://www.mirror.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "00d226f11ce8be665b35e6e8e02bdb38",
-            "title": "From proof of concept to chaos: when bad data derails AI",
-            "description": "Australian organisations are racing to use cloud platforms, automation and artificial intelligence.",
-            "content": "“Your data reflects your business processes and how your organisation actually works,” O’Donnell says. “When the data is poor, the decisions are poor. And fixing those mistakes later is expensive.”\nWhen AI scales, data problems explode\nMany organisat... [4017 chars]",
-            "url": "https://www.afr.com/technology/from-proof-of-concept-to-chaos-when-bad-data-derails-ai-20260429-p5zrzv",
-            "image": "https://static.ffx.io/images/$zoom_0.8394%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_173%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/1b9f4b2f125f648f872fd84d95bd1544bbc00c0ba05ce8375f9afb4072eafc20",
-            "publishedAt": "2026-05-17T22:55:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "1b983d03ccea00e91317b8d239397fed",
-            "title": "Enterprise infrastructure driven by Dell partnerships",
-            "description": "Enterprise infrastructure is shifting as Dell expands AI, cloud and virtualization partnerships with Nvidia, Nutanix, AMD and Microsoft for hybrid AI ops.",
-            "content": "A significant reorganization is currently taking place within the enterprise infrastructure market, which means that Dell Technologies Inc. will play a prominent role in the outcome. To be successful, however, Dell must continue to expand its “big te... [9897 chars]",
-            "url": "https://siliconangle.com/2026/05/17/dells-partnerships-drive-enterprise-infrastructure-delltechworld/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/ChatGPT-Image-May-16-2026-07_51_25-AM.png",
-            "publishedAt": "2026-05-17T22:33:49Z",
-            "lang": "en",
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
+                "id": "dd4c720b98e562405eba2c628af5bfd0",
+                "name": "The Daily Beast",
+                "url": "https://www.thedailybeast.com",
                 "country": "us"
             }
         }
