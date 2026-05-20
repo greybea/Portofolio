@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 338012,
+    "totalArticles": 339424,
     "articles": [
         {
-            "id": "64abe95bec48e56cdbb62f6375a7e9b6",
-            "title": "Trump allies push for government testing, approval of 'potentially dangerous' AI systems",
-            "description": "Steve Bannon and 60 others, including Trump allies, signed a letter urging the president to require government vetting of \"potentially dangerous\" advanced AI systems before their public release.",
-            "content": "Steve Bannon and 60 others, including more allies of President Donald Trump, signed a letter urging the president to ensure that \"potentially dangerous\" cutting-edge artificial intelligence systems are fully vetted by the government before allowing t... [4165 chars]",
-            "url": "https://wjla.com/news/nation-world/trump-allies-push-for-government-testing-approval-of-potentially-dangerous-ai-systems",
-            "image": "https://wjla.com/resources/media2/16x9/4946/1320/81x550/90/01b12140-7ecb-4d40-bcd0-0a5622acd848-GettyImages2271681512.jpg",
-            "publishedAt": "2026-05-18T22:49:27Z",
+            "id": "dce39be5545b26684a895cf25f219ff8",
+            "title": "AU SFB Adopts Intellect's Purple Fabric for AI",
+            "description": "AU Small Finance Bank has selected Intellect Design Arena's Purple Fabric platform to advance its AI-driven banking processes. The partnership aims to establish a scalable AI foundation, utilizing PF Credit agents for real-time credit assessments. This move supports the bank's goal of becoming an AI-first institution.",
+            "content": "AU Small Finance Bank has adopted Intellect Design Arena 's Purple Fabric platform to accelerate its journey towards becoming an AI-first bank. This strategic collaboration aims to build a scalable, technology-led banking franchise powered by enterpr... [6040 chars]",
+            "url": "https://scanx.trade/stock-market-news/companies/au-small-finance-bank-selects-intellect-design-arena-s-purple-fabric-to-strengthen-ai-driven-banking-operations/40736368",
+            "image": "http://news-images.dhan.co/au-small-finance-bank-selects-intellect-design-arena-s-purple-fabric-to-strengthen-ai-driven-banking-operations.jpg",
+            "publishedAt": "2026-05-19T22:39:56Z",
             "lang": "en",
             "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
+                "id": "f746366686e467440a63dd26dbb72053",
+                "name": "scanx.trade",
+                "url": "https://scanx.trade",
+                "country": "in"
+            }
+        },
+        {
+            "id": "a12bbb25f662baa395a05b3e321891e4",
+            "title": "Every new tool and AI model from Google I/O you can try for free",
+            "description": "Spoiler: It's a short list this year.",
+            "content": "Google just announced a smorgasbord of new AI tools for productivity and creativity at its Google I/O keynote on Tuesday, but not many of them are available for free right now.\nI/O was huge for Gemini superusers, as the flashiest new features are all... [3264 chars]",
+            "url": "https://in.mashable.com/tech/109911/every-new-tool-and-ai-model-from-google-io-you-can-try-for-free",
+            "image": "https://sm.mashable.com/t/mashable_in/article/e/every-new-/every-new-tool-and-ai-model-from-google-io-you-can-try-for-f_vruu.1200.jpg",
+            "publishedAt": "2026-05-19T22:37:42Z",
+            "lang": "en",
+            "source": {
+                "id": "e894895ef041ab9c6cb7fe7223531f53",
+                "name": "Mashable India",
+                "url": "https://in.mashable.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "e1c61eabb4e9f9fbd5a851d01b12801c",
+            "title": "Grok down, and when will AI chatbot be back up? Grok outage DownDetector data, Grok app and website not working error message, affected regions, users and services",
+            "description": "Grok down, and when will AI chatbot be back up? Thousands of users reported Grok down issues in the United States on Tuesday evening. Reports on DownDetector showed a rise in complaints from 6 p.m. EDT. Users faced access issues on the app and website. Many users saw the Grok not working error message. The Grok outage affected regions, users and services. People are asking when the AI chatbot will return.",
+            "content": "Synopsis\nGrok down, and when will AI chatbot be back up? Thousands of users reported Grok down issues in the United States on Tuesday evening. Reports on DownDetector showed a rise in complaints from 6 p.m. EDT. Users faced access issues on the app a... [7502 chars]",
+            "url": "https://economictimes.indiatimes.com/news/international/us/grok-down-and-when-will-ai-chatbot-be-back-up-grok-outage-downdetector-data-grok-app-and-website-not-working-error-message-affected-regions-users-and-services/articleshow/131213069.cms",
+            "image": "https://img.etimg.com/thumb/msid-131213237,width-1200,height-630,imgsize-63082,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-05-19T22:33:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "905fcc588ad247c3334ff64cf832dd99",
+            "title": "AU Small Finance Bank adopts Intellect's Purple Fabric platform",
+            "description": "AU Small Finance Bank has partnered with Intellect Design Arena to implement the Purple Fabric platform to drive its AI-first banking strategy. The collaboration will utilize AI-powered decision engines to enhance credit assessments and operational efficiency. With a network of over 2,790 touchpoints and strong financial metrics as of March 2026, the bank aims to modernize its commercial banking offerings through scalable enterprise AI.",
+            "content": "AU Small Finance Bank has collaborated with Intellect Design Arena, a global leader in AI-First, enterprise-grade financial technology, adopting its Purple Fabric platform. The partnership aims to accelerate the bank's journey towards becoming an AI-... [10763 chars]",
+            "url": "https://scanx.trade/stock-market-news/companies/au-small-finance-bank-adopts-intellect-s-purple-fabric-platform/40775491",
+            "image": "http://news-images.dhan.co/au-small-finance-bank-adopts-intellect-s-purple-fabric-platform.jpg",
+            "publishedAt": "2026-05-19T22:31:46Z",
+            "lang": "en",
+            "source": {
+                "id": "f746366686e467440a63dd26dbb72053",
+                "name": "scanx.trade",
+                "url": "https://scanx.trade",
+                "country": "in"
+            }
+        },
+        {
+            "id": "e7fd57c01423000732c335772843f909",
+            "title": "Searching for Cancer Cures Is Part of Google's AI Story. It Deserves to Be More Than a Footnote",
+            "description": "Commentary: Forget \"Ask YouTube.\" Google should prioritize the AI work it's doing in science.",
+            "content": "One hour and 45 minutes into the Google I/O keynote, I suddenly sat upright in my chair. The CEO of Google DeepMind and Alphabet's Isomorphic Labs, Demis Hassabis, was on stage talking about Gemini for Science and the work his team is doing to solve ... [3409 chars]",
+            "url": "https://www.cnet.com/tech/services-and-software/google-ai-2026-gemini-science-demis-hassabis-deepmind-cancer-cures/",
+            "image": "https://www.cnet.com/a/img/resize/5b6e60ffab9428cea6115d1c1bb8c4b204aabe66/hub/2026/05/19/6391b3f0-f14d-47c6-aebd-e6ef4e532732/screenshot-2026-05-19-at-11-51-19am.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-05-19T22:30:52Z",
+            "lang": "en",
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
                 "country": "us"
             }
         },
         {
-            "id": "066a79f81d512563e2ae8fd501dea0a9",
-            "title": "Trump allies push for government testing, approval of 'potentially dangerous' AI systems",
-            "description": "Steve Bannon and 60 others, including Trump allies, signed a letter urging the president to require government vetting of \"potentially dangerous\" advanced AI systems before their public release.",
-            "content": "Steve Bannon and 60 others, including more allies of President Donald Trump, signed a letter urging the president to ensure that \"potentially dangerous\" cutting-edge artificial intelligence systems are fully vetted by the government before allowing t... [4165 chars]",
-            "url": "https://foxbaltimore.com/news/nation-world/trump-allies-push-for-government-testing-approval-of-potentially-dangerous-ai-systems",
-            "image": "https://foxbaltimore.com/resources/media2/16x9/4946/1320/81x550/90/01b12140-7ecb-4d40-bcd0-0a5622acd848-GettyImages2271681512.jpg",
-            "publishedAt": "2026-05-18T22:49:27Z",
+            "id": "a5c8aff3504a00c97d7ce706596a0333",
+            "title": "Analog Devices to acquire Empower in $1.5 billion transaction",
+            "description": "Analog Devices agreed to acquire Empower Semiconductor as the need skyrockets for efficient chips to power data centers required for artificial intelligence.",
+            "content": "Analog Devices Inc. agreed to acquire closely held Empower Semiconductor for $1.5 billion in cash as the need skyrockets for efficient chips to power data centers required for artificial intelligence.\n“AI infrastructure is fundamentally reshaping how... [1391 chars]",
+            "url": "https://www.bostonglobe.com/2026/05/19/business/analog-devices-acquire-empower/",
+            "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/C5FPG7DUNYANF6VTKB4E42IGR4.jpg?auth=177b0701fbc38a67c3847e65e45253bcf43657b1bd9e7b5dba9bd9bccf01101e&width=1440",
+            "publishedAt": "2026-05-19T22:30:07Z",
             "lang": "en",
             "source": {
-                "id": "9f53afb019d44feb16bcc7da150e679a",
-                "name": "Baltimore News",
-                "url": "https://foxbaltimore.com",
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
                 "country": "us"
             }
         },
         {
-            "id": "a68fb822e9bdbefbed66d61c07c598bb",
-            "title": "College president booed as AI skips names at graduation ceremony",
-            "description": "An AI system reading graduate's names skipped dozens of students during a commencement ceremony, causing boos and a redo. Here's what happened",
-            "content": "ARIZONA, USA — A graduation ceremony in Arizona was disrupted after a mishap with an artificial intelligence name-reading system.\nDuring the May 15 graduation ceremony for students at Glendale Community College, some reported their names being skippe... [1507 chars]",
-            "url": "https://www.wltx.com/article/news/nation-world/ai-glitch-disrupts-arizona-college-graduation/507-9603c777-50da-4051-acb1-668052eb4ef5",
-            "image": "https://media.wltx.com/assets/KPNX/images/a762143a-fe39-487c-b50f-0a487f5ce5ed/20260518T225454/a762143a-fe39-487c-b50f-0a487f5ce5ed_1140x641.jpg",
-            "publishedAt": "2026-05-18T22:39:00Z",
+            "id": "3afb272290ba149563d0e7ed60ef49bb",
+            "title": "NTA Overhauls Top Team After NEET-UG 2026 Leak, Posts 4 Senior Officers To Boost Exam Integrity",
+            "description": "After cancelling NEET-UG 2026 over paper leak claims, NTA appointed 4 senior officers, seeks CTO, CFO, or HR chief, plans AI controls and CBT shift, with re-exam set for June 21 to restore exam integrity.",
+            "content": "New Delhi: The National Testing Agency (NTA), in pursuance of the recommendations of the High-Level Expert Committee constituted by the Central government for reforming the conduct of examinations, has undertaken a series of measures over the past fe... [4598 chars]",
+            "url": "https://www.republicworld.com/india/nta-overhauls-top-team-after-neet-ug-2026-leak-posts-4-senior-officers-to-boost-exam-integrity-2026-05-19-124952",
+            "image": "https://img.republicworld.com/all_images/2026/05/nta-undergoes-major-administrative-overhaul-appoints-two-bureaucrats-as-joint-directors-amid-neet-paper-leak-row-1778937483921-1280x720.webp",
+            "publishedAt": "2026-05-19T22:27:08Z",
             "lang": "en",
             "source": {
-                "id": "61d62f51b5a60b70cd06e36b5dc14e85",
-                "name": "WLTX.com",
-                "url": "https://www.wltx.com",
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "c2979ee13b146ca2ba0af0e48ca38a6a",
+            "title": "US House foreign affairs chair warns AI sales to China could make America a ‘loser’",
+            "description": "Brian Mast stressed that American firms must not let the best US technology reach the ‘wrong places’ when it comes to AI industry.",
+            "content": "“The reason for that is not because we don’t want Lockheed to succeed … It’s because we don’t want [those countries] militarily, or any other way, to be on par with the United States of America … That’s why we don’t sell that technology to them. Beca... [604 chars]",
+            "url": "https://www.scmp.com/news/us/economy-trade-business/article/3354153/us-house-foreign-affairs-chair-warns-ai-sales-china-could-make-america-loser",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/20/bce25ac7-9de8-45e3-92e8-0792bc486944_f7a33b69.jpg?itok=Cz86vA8G&v=1779229499",
+            "publishedAt": "2026-05-19T22:25:01Z",
+            "lang": "en",
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            }
+        },
+        {
+            "id": "c497849036e6e2a601a29baf45b26431",
+            "title": "H2O.ai launches tabH2O foundation model for tabular data",
+            "description": "H2O.ai unveiled tabH2O at Dell Technologies World 2026, a foundation model that generates predictions from tabular data in seconds with no model training required.",
+            "content": "TL;DR\nH2O.ai has launched tabH2O, a foundation model for tabular data announced at Dell Technologies World 2026. The model uses in-context learning to deliver predictions from structured datasets via a single API call, eliminating traditional model t... [3870 chars]",
+            "url": "https://thenextweb.com/news/h2o-ai-launches-tabh2o-a-foundation-model-that-makes-predictions-from-tabular-data-without-any-training",
+            "image": "https://media.thenextweb.com/2026/05/h2o-ai-tabh2o-foundation-model-tabular-data-dell-.avif",
+            "publishedAt": "2026-05-19T22:24:35Z",
+            "lang": "en",
+            "source": {
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
                 "country": "us"
             }
         },
         {
-            "id": "a457c195d2253d949db26adb38e95268",
-            "title": "Jury throws out Musk's lawsuit against OpenAI and Sam Altman",
-            "description": "A federal judge in California dismissed a lawsuit from Elon Musk against the maker of ChatGPT after a jury found that he exceeded the statute of limitations. Musk had claimed that OpenAI betrayed its original mission of developing artificial intelligence for the good of humanity when it added a for-profit arm. Geoff Bennett discussed more with Gerrit De Vynck of The Washington Post.",
-            "content": "Geoff Bennett:\nThe trial pitting two of the world's biggest tech billionaires against each other has come to an end.\nA federal judge in California today dismissed a lawsuit from Elon Musk against the maker of ChatGPT after a jury found that he exceed... [6157 chars]",
-            "url": "https://www.pbs.org/newshour/show/jury-throws-out-musks-lawsuit-against-openai-and-sam-altman",
-            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/AIVerdict-1024x746.jpg",
-            "publishedAt": "2026-05-18T22:35:37Z",
+            "id": "431ac9c66fea4fb3bc0e9a168de20db8",
+            "title": "All the Gemini announcements from Google I/O 2026",
+            "description": "Gemini 3.5, Omni, Spark – Google had a lot to share about \"the future of AI.\"",
+            "content": "The Google I/O 2026 keynote is now in the books, and Google had a lot to share. The entire keynote event lasted nearly two hours and was full of new product and feature announcements.\nWith all that was unveiled at I/O, AI was clearly Google's focus, ... [2971 chars]",
+            "url": "https://in.mashable.com/tech/109912/all-the-gemini-announcements-from-google-io-2026",
+            "image": "https://sm.mashable.com/t/mashable_in/article/a/all-the-ge/all-the-gemini-announcements-from-google-io-2026_ar6e.1200.jpg",
+            "publishedAt": "2026-05-19T22:21:37Z",
             "lang": "en",
             "source": {
-                "id": "31177620c1e6e610b5d2b67916ed3615",
-                "name": "PBS News",
-                "url": "https://www.pbs.org",
-                "country": "us"
-            }
-        },
-        {
-            "id": "36d2524e667ea7a868c2fccf1dd71511",
-            "title": "Micron or SanDisk: Billionaire Israel Englander Picks One AI Memory Stock Over the Other",
-            "description": "Few investors on Wall Street carry as much weight as Israel Englander. The billionaire investor, whose net worth is estimated at around $26.5 bi...",
-            "content": "Few investors on Wall Street carry as much weight as Israel Englander. The billionaire investor, whose net worth is estimated at around $26.5 billion, built Millennium Management into one of the world’s largest hedge funds, overseeing over $87 billio... [7384 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/micron-or-sandisk-billionaire-israel-englander-picks-one-ai-memory-stock-over-the-other-1036173792",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-1928-1024x542.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-05-18T22:30:43Z",
-            "lang": "en",
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "ac75e7a8dc593f2e6e21ec238ff12c42",
-            "title": "Alphabet's AI showcase is its chance to wow Wall Street",
-            "description": "After a 140% stock surge and a sweeping Wall Street reset, Google’s developer conference has to prove the AI story is more than a market narrative.",
-            "content": "Justin Sullivan | Getty Images\nAlphabet 's stock is up 140% over the past year, with a cloud business that is growing faster than Amazon's and Microsoft's .\nBut 18 months ago, the Google parent looked like it had spent a decade preparing for the arti... [9551 chars]",
-            "url": "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108176033-1753304312347-gettyimages-2226698930-_73a3751_pvebbcyr.jpeg?v=1754000135&w=1920&h=1080",
-            "publishedAt": "2026-05-18T22:21:54Z",
-            "lang": "en",
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e9977f7021db937d79f8a2bd4ee3c4d2",
-            "title": "Sudbury man says he got ‘brainwashed by a robot’",
-            "description": "He blames trips to psych ward and breakup of marriage on AI",
-            "content": "He blames trips to psych ward and breakup of marriage on AI\nArticle content\nDaniel Lawler\nAdvertisement 2\nStory continues below\nThis advertisement has not loaded yet, but your article continues below.\nArticle content\nTom Millar of Sudbury thought he ... [9562 chars]",
-            "url": "https://www.nugget.ca/news/local-news/sudbury-man-says-he-got-brainwashed-by-a-robot",
-            "image": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2026/05/0519-su-chatbot.su_.jpg",
-            "publishedAt": "2026-05-18T22:21:39Z",
-            "lang": "en",
-            "source": {
-                "id": "74373d37da4d4a3faf05b8b7af0eafd7",
-                "name": "The North Bay Nugget",
-                "url": "https://www.nugget.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "308efd1a68462c71ae21913084151f62",
-            "title": "Open-source AI assistant can improve research workflow",
-            "description": "Lehigh University researchers have built the first \"AI for Science\" software tool designed to support the entire project workflow for research scientists. Dr. Claw is an open-source, full-stack AI research assistant that helps users refine ideas, conduct literature reviews, run experiments, draft and review papers, write grant proposals, and build presentations. It eliminates the need to toggle between specialized AI tools—such as deep research agents for source evaluation or code generators for data analysis—by unifying these capabilities within a single interface.",
-            "content": "Lehigh University researchers have built the first \"AI for Science\" software tool designed to support the entire project workflow for research scientists. Dr. Claw is an open-source, full-stack AI research assistant that helps users refine ideas, con... [4484 chars]",
-            "url": "https://phys.org/news/2026-05-source-ai-workflow.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/2026/meet-dr-claw-the-open.jpg",
-            "publishedAt": "2026-05-18T22:20:04Z",
-            "lang": "en",
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "0988dc744cd3b76da3a130ab854865fd",
-            "title": "Nvidia (NVDA) CEO Jensen Huang Signals Hope China Will Allow U.S. AI Chip Imports Again",
-            "description": "Nvidia (NVDA) CEO Jensen Huang is cautiously optimistic about selling AI chips to China again, according to Bloomberg. Huang thinks China will “...",
-            "content": "Nvidia (NVDA) CEO Jensen Huang is cautiously optimistic about selling AI chips to China again, according to Bloomberg. Huang thinks China will “eventually” allow imports of U.S. AI chips, even after months of stalled approvals and rising geopolitical... [2033 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/nvidia-nvda-ceo-jensen-huang-signals-hope-china-will-allow-u-s-ai-chip-imports-again-1036173668",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-1927.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-05-18T22:07:35Z",
-            "lang": "en",
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "eefe2d396c767ba36c879d54c80087bd",
-            "title": "Jury Delivers Humiliating Blow to Musk in AI Billionaire Feud",
-            "description": "The world’s richest man lost the tech bro civil war.",
-            "content": "A nine-person jury unanimously rejected Elon Musk’s lawsuit against OpenAI on Monday after the world’s richest man accused the tech giant he co-founded of not operating in the interest of the common good of humanity.\nThe trial, which lasted over thre... [2428 chars]",
-            "url": "https://www.thedailybeast.com/jury-delivers-humiliating-blow-to-elon-musk-in-openai-billionaire-feud-with-sam-altman/",
-            "image": "https://www.thedailybeast.com/resizer/v2/K4SXQTWRJFCP7B3554UNI2YCFQ.jpg?smart=true&auth=52634d14e748fbc69836a09b999fd14b4802268466a022c26ae6a283d69402fa&width=1200&height=630",
-            "publishedAt": "2026-05-18T22:01:37Z",
-            "lang": "en",
-            "source": {
-                "id": "dd4c720b98e562405eba2c628af5bfd0",
-                "name": "The Daily Beast",
-                "url": "https://www.thedailybeast.com",
-                "country": "us"
+                "id": "e894895ef041ab9c6cb7fe7223531f53",
+                "name": "Mashable India",
+                "url": "https://in.mashable.com",
+                "country": "in"
             }
         }
     ]
