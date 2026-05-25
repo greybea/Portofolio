@@ -4,80 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 343533,
+    "totalArticles": 343902,
     "articles": [
         {
-            "id": "c3f70d88340ba96381d232823ac65ad2",
-            "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC",
-            "description": "Apple is readying the subdomain genai.apple.com, according to MacRumors contributor Aaron Perris, but it does not yet lead to a live web page. The genai.apple.com subdomain has been added to Apple's domain name servers a few weeks ahead of Apple's annual developers conference WWDC, where the company has promised to announce \"AI advancements\" across its software platforms.",
-            "content": "Apple is readying the subdomain genai.apple.com, according to MacRumors contributor Aaron Perris, but it does not yet lead to a live web page. The genai.apple.com subdomain has been added to Apple's domain name servers a few weeks ahead of Apple's an... [1485 chars]",
-            "url": "https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/",
-            "image": "https://images.macrumors.com/t/9QYrKGN7DCjAIIQvkbgkjuswS_0=/2500x/article-new/2024/09/Apple-Intelligence-General-Feature-2.jpg",
-            "publishedAt": "2026-05-23T21:41:31Z",
+            "id": "089afc72d076b7559b5ea2fdb5531e31",
+            "title": "‘SAP to hire more AI talent in India’: Philipp Herzig, CTO, SAP",
+            "description": "In an exclusive interview, SAP Chief Technology Officer Philipp Herzig addresses global job displacement anxieties, defends the enterprise readiness of AI-driven ERP architectures over raw market hype, and highlights India’s position as a vital testbed and talent hub for early agentic deployment.",
+            "content": "There is a growing concern globally that AI will replace jobs. What is your view?\nI look at agentic coding as canary in a coal mine for what will also happen with many other professions. Initially, people predicted that developers would disappear. Th... [3781 chars]",
+            "url": "https://www.financialexpress.com/business/news/sap-to-hire-more-ai-talent-in-india-philipp-herzig-cto-sap/4250074/",
+            "image": "https://images.financialexpressdigital.com/2026/05/sap.jpg",
+            "publishedAt": "2026-05-24T23:33:15Z",
             "lang": "en",
             "source": {
-                "id": "10216cb8fabd0accd5eb967c97fc37ab",
-                "name": "MacRumors",
-                "url": "https://www.macrumors.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "97b923dc95c71830cbbb2fd18d086abc",
-            "title": "AI, robotics labs coming to govt schools across UP",
-            "description": "The Uttar Pradesh government on Saturday signed an MoU with Nelco Limited and other industrial groups to establish the advanced labs in 600 government secondary and higher secondary schools across the state.",
-            "content": "The Uttar Pradesh government on Saturday signed an MoU with Nelco Limited and other industrial groups to establish the advanced labs in 600 government secondary and higher secondary schools across the state.\nThe project will cover 150 hub schools and... [1542 chars]",
-            "url": "https://www.hindustantimes.com/cities/lucknow-news/ai-robotics-labs-coming-to-govt-schools-across-up-101779558056249.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/05/23/550x309/Representational-image--Sourced-_1779558053877.jpg",
-            "publishedAt": "2026-05-23T21:38:13Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "df51df96c78b40687c2e6f0416d39853",
-            "title": "Fashion designer Jeremy Scott gets a huge cheer after ripping up his AI",
-            "description": "Fashion designer Jeremy Scott told graduates that AI can't replicate their humanity during a commencement speech at the Kansas City Art Institute.",
-            "content": "Jeremy Scott gave the commencement address at the Kansas City Art Institute this month.\nStudents cheered for Scott when he ripped up his AI-written speech.\nGraduates have booed and heckled commencement speakers over their remarks about AI.\nJeremy Sco... [2740 chars]",
-            "url": "https://www.newsbreak.com/business-insider-562169/4668565616020-fashion-designer-jeremy-scott-gets-a-huge-cheer-after-ripping-up-his-ai-written-commencement-speech",
-            "image": "https://img.particlenews.com/img/id/0rq3k3_1Bg99MrJ00",
-            "publishedAt": "2026-05-23T21:35:56Z",
+            "id": "607e350cc4a32e6a087c388a66372b5d",
+            "title": "Scotland’s ‘green datacentres’ policy ignores emissions impact of AI, analysis shows",
+            "description": "Definition of green facilities made in 2022, before release of ChatGPT, says Action to Protect Rural Scotland",
+            "content": "A Scottish government policy designed to encourage datacentres to build in Scotland could lead to a massive volume of carbon emissions being ignored, according to an analysis by a Scottish charity.\n“Green datacentres” are at the heart of Scotland’s a... [3864 chars]",
+            "url": "https://www.theguardian.com/uk-news/2026/may/25/scotland-policy-green-datacentres-emissions-impact-ai-analysis",
+            "image": "https://i.guim.co.uk/img/media/2376ec6dae4dcbd920110145a1929a2e3521de6e/329_0_3083_2467/master/3083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f560969cc2e55fbe4dbb983ee4f10249",
+            "publishedAt": "2026-05-24T23:01:09Z",
             "lang": "en",
             "source": {
-                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
-                "name": "NewsBreak",
-                "url": "https://www.newsbreak.com",
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "d3599c70313a992826dd7ed225432423",
+            "title": "law posted dozens of AI images of her online",
+            "description": "Sophie Parrish 'broke into 1,000 pieces' as she suffered digital abuse at the hands of her brother-in-law over eight years",
+            "content": "A woman who had her face 'deepfaked' onto explicit images by her own brother-in-law says more needs to be done to help survivors of abuse. Sophie Parrish had not long returned from a family holiday in Turkey when she received anonymous messages from ... [10391 chars]",
+            "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/mums-deepfake-horror-brother-law-33992504",
+            "image": "https://i2-prod.liverpoolecho.co.uk/article33998241.ece/ALTERNATES/s1200d/0_Sophie-Parrish-from-Ainsdalewas-a-victim-of-deepfake-pornPic-Andrew-Teebay.jpg",
+            "publishedAt": "2026-05-24T23:01:00Z",
+            "lang": "en",
+            "source": {
+                "id": "36974e61b15eebfe76ce1a593d2ff278",
+                "name": "Liverpool Echo",
+                "url": "https://www.liverpoolecho.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "a6172c35a23fbe36f1d5bb09cfe373c9",
+            "title": "AI boom propping up economy as some guardrails are coming off, journalist Andrew Ross Sorkin warns",
+            "description": "Stocks on Wall Street have rallied in recent months, but author Andrew Ross Sorkin sees a crash coming. The question is: when will the bubble pop, and how much will the market slump when it does?",
+            "content": "This is an updated version of a story first published on Oct. 12, 2025. The original video can be viewed here.\nThe stock market has been steadily rising for many months now, despite occasional volatility around issues like tariffs and war. This resil... [11097 chars]",
+            "url": "https://www.cbsnews.com/news/ai-boom-propping-up-economy-as-some-guardrails-coming-off-andrew-ross-sorkin-60-minutes-transcript/",
+            "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/12/942d8b76-078c-4afe-b7fc-cf3e32041545/thumbnail/1200x630/6fa19429315a480e5f5f1ae612d6e513/andrew-ross-sorkin-stocks-video-stahl.jpg",
+            "publishedAt": "2026-05-24T23:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
                 "country": "us"
             }
         },
         {
-            "id": "93d074daab60c627528b0cad02baa746",
-            "title": "Students Cheer Jeremy Scott for Ripping up His AI Commencement Speech",
-            "description": "Fashion designer Jeremy Scott told graduates that AI can't replicate their humanity during a commencement speech at the Kansas City Art Institute.",
-            "content": "Jeremy Scott's speech at a college graduation ceremony began with an AI-written speech, which could have ended in boos.\nInstead, the fashion designer received roaring applause.\nScott's commencement address at the Kansas City Art Institute on May 16 b... [2454 chars]",
-            "url": "https://www.businessinsider.com/jeremy-scott-fashion-graduation-speech-commencement-ai-student-backlash-2026-5",
-            "image": "https://i.insider.com/6a1212687ff506e273e673c1?width=1200&format=jpeg",
-            "publishedAt": "2026-05-23T21:35:56Z",
+            "id": "ff1997c692accb1475c20c33d4473aa1",
+            "title": "Uzbekistan seeks greater Indian investment in fintech, digital infra; offers targeted incentives",
+            "description": "NEW DELHI, May 24: Uzbekistan has created a business-friendly environment with targeted incentives for fintech, AI, and digital infrastructure companies, including those from India, Deputy Minister of Investment, Industry and Trade Shokhrukh Gulamov has said. Government policies supporting special economic zones, joint ventures, and digital infrastructure investments further enhance Uzbekistan’s appeal, he told PTI in an interview. By leveraging these advantages, Indian firms can diversify outsourcing operations beyond traditional South Asian centres, optimise cost structures, and access a talent pool […]",
+            "content": "By\nDaily Excelsior\n-\nNEW DELHI, May 24: Uzbekistan has created a business-friendly environment with targeted incentives for fintech, AI, and digital infrastructure companies, including those from India, Deputy Minister of Investment, Industry and Tra... [3005 chars]",
+            "url": "https://www.dailyexcelsior.com/uzbekistan-seeks-greater-indian-investment-in-fintech-digital-infra-offers-targeted-incentives/",
+            "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/bs.jpg",
+            "publishedAt": "2026-05-24T22:57:22Z",
             "lang": "en",
             "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
             }
         },
         {
-            "id": "a5725b9bf66c5c71e8801fdd9173ef11",
-            "title": "TIAA CEO Thasunda Brown Duckett gives Gen Z 3 rules for building a career in the AI era",
-            "description": "International Business News: TIAA CEO Thasunda Brown Duckett offers Gen Z vital advice on building successful careers amidst automation and evolving job markets, emphasizing lifelong learning, confidence, and collaborative growth.",
-            "content": "TIAA CEO Thasunda Brown Duckett offers strategies for success. Image Credit: Instagram/@thasunda\nWalking off the graduation stage and into the real world used to seem like a predictable landmark. You hand in your degree, you get a starting position, ... [4551 chars]",
-            "url": "https://timesofindia.indiatimes.com/business/international-business/tiaa-ceo-thasunda-brown-duckett-has-3-rules-for-gen-z-your-competitive-advantage-isnt-what-you-know-today/articleshow/131273457.cms",
-            "image": "https://static.toiimg.com/thumb/msid-131277233,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-23T21:30:00Z",
+            "id": "be52fe8122ae9b3a260755084eb9a783",
+            "title": "1.5 lakh fake AI citations slipped into scientific record in 2025: Study",
+            "description": "India News: BENGALURU: A surge of AI-generated fake citations has entered scientific literature, with a new study estimating that about 1.5 lakh fabricated refere.",
+            "content": "Suggests Several Researchers Copying Them Without Check\nBENGALURU: A surge of AI-generated fake citations has entered scientific literature, with a new study estimating that about 1.5 lakh fabricated references slipped into the record in 2025, most m... [3055 chars]",
+            "url": "https://timesofindia.indiatimes.com/india/1-5-lakh-fake-ai-citations-slipped-into-scientific-record-in-2025-study/articleshow/131296937.cms",
+            "image": "https://static.toiimg.com/thumb/msid-131296938,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-24T22:03:00Z",
             "lang": "en",
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -87,82 +103,66 @@
             }
         },
         {
-            "id": "8cc9d64f044dd25b6079f4075c4c8ba4",
-            "title": "Could this ASX ETF be the easiest way to invest in AI?",
-            "description": "AI is moving quickly, and picking individual winners is not easy. This ASX ETF offers another way to approach the theme.",
-            "content": "Artificial intelligence (AI) is one of the biggest investment themes in the world.\nThe challenge is working out how to invest in it.\nInvestors can try to pick individual winners, but that is not easy. AI is moving quickly, valuations can change fast,... [2010 chars]",
-            "url": "https://www.fool.com.au/2026/05/24/could-this-asx-etf-be-the-easiest-way-to-invest-in-ai/",
-            "image": "https://www.fool.com.au/wp-content/uploads/2024/12/robot-chart-16.9-1200x675.jpg",
-            "publishedAt": "2026-05-23T21:30:00Z",
+            "id": "1c9189fb8f653941eba94b14e739e74b",
+            "title": "LA mayoral candidate Nithya Raman gets pushback over Spencer Pratt",
+            "description": "The left-wing LA mayoral candidate faces backlash after she criticized AI-generated campaign videos in support of Spencer Pratt.",
+            "content": "CNN political commentator Elex Michaelson pushed back against left-wing LA mayoral candidate Nithya Raman after she criticized AI-generated campaign videos circulating online in support of Spencer Pratt.\n“My husband works in Hollywood and to promote ... [1618 chars]",
+            "url": "https://nypost.com/2026/05/24/us-news/la-mayoral-candidate-nithya-raman-gets-pushback-over-spencer-pratt/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/128668420.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-05-24T22:01:19Z",
             "lang": "en",
             "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "The Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
             }
         },
         {
-            "id": "a50d9a4ed725acca2c78d3e2b1383ff6",
-            "title": "Delta CEO Ed Bastian asked AI to write his speech and then threw it away",
-            "description": "International Business News: Explore Ed Bastian's advice to graduates on the importance of preserving authenticity in a world increasingly reliant on AI, emphasizing the balance between automation and personal expression in the workplace.",
-            "content": "Delta CEO Ed Bastian found AI-generated speeches lacked human spirit, opting for a handwritten approach. Image Credit: Wikimedia Commons\nOut of curiosity, Delta Air Lines CEO Ed Bastian decided to experiment with an artificial intelligence tool when ... [4018 chars]",
-            "url": "https://timesofindia.indiatimes.com/business/international-business/delta-ceo-ed-bastian-has-a-warning-for-graduates-dont-reach-for-the-ai-easy-button/articleshow/131273389.cms",
-            "image": "https://static.toiimg.com/thumb/msid-131276470,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-23T21:01:00Z",
+            "id": "38696e70c6444facf4176067fcea15e6",
+            "title": "Commentary: Regulation alone won’t be a silver bullet for ‘dark patterns’ that manipulate consumers",
+            "description": "Given how quickly deceptive tactics evolve, especially with AI, countering “dark patterns” will require a multi-pronged approach that includes consumers, says Victor Seah of the Singapore University of Social Sciences.",
+            "content": "SINGAPORE: Fake visitor counts, fabricated countdown timers and false discount claims. These were the deceptive website features that landed three online retailers in trouble with Singapore’s consumer regulator.\nThe Competition and Consumer Commissio... [6417 chars]",
+            "url": "https://www.channelnewsasia.com/commentary/dark-patterns-manipulate-consumer-online-shopping-misleading-tactics-singapore-ccs-regulation-6136226",
+            "image": "https://dam.mediacorp.sg/image/upload/s--CmxenZp5--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/08/29/istock-915806412.jpg?itok=UylJnYa1",
+            "publishedAt": "2026-05-24T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
             }
         },
         {
-            "id": "b14f8605f01633cb7b5c5dd478b384a4",
-            "title": "Japan voice actor demands TikTok operator remove AI-generated imitation",
-            "description": "Japanese voice actor Kenjiro Tsuda is demanding in a lawsuit filed with a Japanese court that the operator of the TikTok app remove videos narrated by an AI imitation of his voice generated without consent, his lawyer said Saturday. According to the lawsuit, a total of 188 videos on urban…",
-            "content": "Japanese voice actor Kenjiro Tsuda is demanding in a lawsuit filed with a Japanese court that the operator of the TikTok app remove videos narrated by an AI imitation of his voice generated without consent, his lawyer said Saturday.\nAccording to the ... [774 chars]",
-            "url": "https://japantoday.com/category/national/japan-voice-actor-demands-tiktok-operator-remove-ai-generated-imitation",
-            "image": "https://japantoday.com/images/japan-today-social.jpg",
-            "publishedAt": "2026-05-23T21:00:00Z",
+            "id": "427b093da53e6632517955ffc25e1821",
+            "title": "The White House is asking for $9 billion to buy AI chips for spies.",
+            "description": "The New York Times reports the CIA and the NSA lack the computing capacity to run the latest AI models. The White House has approved a request for $9 billion to buy cutting-edge chips and build infrastructure to support Nvidia’s Grace Blackwell superchip. But Congress needs to approve the funds.\n[Link: White House Approves $9 Billion for Spy Agencies to Catch Up on A.I. | https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html?smid=nytcore-android-share | New York Times]",
+            "content": "T\nExternal Link\nThe White House is asking for $9 billion to buy AI chips for spies.\nThe New York Times reports the CIA and the NSA lack the computing capacity to run the latest AI models. The White House has approved a request for $9 billion to buy c... [654 chars]",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/936907/the-white-house-is-asking-for-9-billion-to-buy-ai-chips-for-spies",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+            "publishedAt": "2026-05-24T21:50:52Z",
             "lang": "en",
             "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
+                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+                "name": "The Verge",
+                "url": "https://www.theverge.com",
+                "country": "us"
             }
         },
         {
-            "id": "58126ffc220fa053754dcea0ea0f17c4",
-            "title": "Can you trademark identity? The new legal strategy celebrities are using against AI",
-            "description": "In recent months, celebrities such as Taylor Swift, Matthew McConaughey and Jeremy Clarkson have turned to trademark law to protect aspects of their identity associated with their brands. It’s a relatively new legal tactic and not yet tested in court. But celebrities are using it in an attempt to fill…",
-            "content": "In recent months, celebrities such as Taylor Swift, Matthew McConaughey and Jeremy Clarkson have turned to trademark law to protect aspects of their identity associated with their brands.\nIt’s a relatively new legal tactic and not yet tested in court... [5667 chars]",
-            "url": "https://japantoday.com/category/tech/Can-you-trademark-identity-The-new-legal-strategy-celebrities-are-using-against-AI",
-            "image": "https://media.japantoday.com/img/store/1d/b0/cfe195f07b27bf43184ab2ae38de5065883e/ap24255863776216/_w1700.jpeg",
-            "publishedAt": "2026-05-23T21:00:00Z",
+            "id": "ce8f8159978f420bfb71ea4a7f8f9e84",
+            "title": "Top Met cop suspended after new AI tool 'finds sexual content on work phone' as more than 100 officers are referred",
+            "description": "A SPECIAL Constabulary chief has been suspended after sexual content was allegedly found on his work phone by artificial...",
+            "content": "A SPECIAL Constabulary chief has been suspended after sexual content was allegedly found on his work phone by artificial intelligence.\nMet Special Chief Officer James Deller is being investigated after being flagged.\nAdvertisement\nHe is among more th... [877 chars]",
+            "url": "https://www.thesun.co.uk/news/39210450/met-cop-suspended-ai-finds-sexual-content-phone/",
+            "image": "https://www.thesun.co.uk/wp-content/uploads/2026/05/crop-39210631.jpg?quality=90&strip=all&1779659634&w=1920&h=1080&crop=1",
+            "publishedAt": "2026-05-24T21:43:08Z",
             "lang": "en",
             "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "685c99ead1c6f681215aa9676c34bc8f",
-            "title": "Volvo EX60 review - can it really do 503 miles on one charge?",
-            "description": "‘The car’s AI assistant can hold a rudimentary conversation but it professed not to know who Keir Starmer is’",
-            "content": "When Americans recently feared a petrol shortage as a result of the Middle East conflict, millions of them turned to an app called GasBuddy. It showed the nearest filling station that hadn’t run out of fuel. There was no serious lack of supply, but t... [4671 chars]",
-            "url": "https://www.thetimes.com/life-style/driving/article/volvo-ex60-review-can-it-really-do-503-miles-on-one-charge-ls7lsjl57",
-            "image": "https://www.thetimes.com/imageserver/image/00231250-8e4a-474b-8b50-a1a3b362307e.jpg?strip=all&format=webp&crop=3200px%2C1800px%2C0px%2C0px&resize=1200",
-            "publishedAt": "2026-05-23T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
+                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+                "name": "The Sun",
+                "url": "https://www.thesun.co.uk",
                 "country": "gb"
             }
         }
