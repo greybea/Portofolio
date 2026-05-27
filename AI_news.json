@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 343902,
+    "totalArticles": 345754,
     "articles": [
         {
-            "id": "089afc72d076b7559b5ea2fdb5531e31",
-            "title": "‘SAP to hire more AI talent in India’: Philipp Herzig, CTO, SAP",
-            "description": "In an exclusive interview, SAP Chief Technology Officer Philipp Herzig addresses global job displacement anxieties, defends the enterprise readiness of AI-driven ERP architectures over raw market hype, and highlights India’s position as a vital testbed and talent hub for early agentic deployment.",
-            "content": "There is a growing concern globally that AI will replace jobs. What is your view?\nI look at agentic coding as canary in a coal mine for what will also happen with many other professions. Initially, people predicted that developers would disappear. Th... [3781 chars]",
-            "url": "https://www.financialexpress.com/business/news/sap-to-hire-more-ai-talent-in-india-philipp-herzig-cto-sap/4250074/",
-            "image": "https://images.financialexpressdigital.com/2026/05/sap.jpg",
-            "publishedAt": "2026-05-24T23:33:15Z",
+            "id": "5822cb7aadc07cdc00690aa139332024",
+            "title": "AI inference startup Baseten in talks to raise $1 billion at $11 billion valuation",
+            "description": "The AI infrastructure gold rush is shifting from training giant models to something far less visible but far more expensive: running them at scale. That shift is turning inference startups into some of the hottest companies in Silicon Valley. One of the biggest winners right now appears to be Baseten. The San Francisco-based AI startup is",
+            "content": "The AI infrastructure gold rush is shifting from training giant models to something far less visible but far more expensive: running them at scale. That shift is turning inference startups into some of the hottest companies in Silicon Valley. One of ... [4762 chars]",
+            "url": "https://techstartups.com/2026/05/26/ai-inference-startup-baseten-in-talks-to-raise-1-billion-at-11-billion-valuation/",
+            "image": "https://techstartups.com/wp-content/uploads/2025/02/AI-startup-BaseTen-Founders-960x541.jpg",
+            "publishedAt": "2026-05-26T23:21:48Z",
             "lang": "en",
             "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "607e350cc4a32e6a087c388a66372b5d",
-            "title": "Scotland’s ‘green datacentres’ policy ignores emissions impact of AI, analysis shows",
-            "description": "Definition of green facilities made in 2022, before release of ChatGPT, says Action to Protect Rural Scotland",
-            "content": "A Scottish government policy designed to encourage datacentres to build in Scotland could lead to a massive volume of carbon emissions being ignored, according to an analysis by a Scottish charity.\n“Green datacentres” are at the heart of Scotland’s a... [3864 chars]",
-            "url": "https://www.theguardian.com/uk-news/2026/may/25/scotland-policy-green-datacentres-emissions-impact-ai-analysis",
-            "image": "https://i.guim.co.uk/img/media/2376ec6dae4dcbd920110145a1929a2e3521de6e/329_0_3083_2467/master/3083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f560969cc2e55fbe4dbb983ee4f10249",
-            "publishedAt": "2026-05-24T23:01:09Z",
-            "lang": "en",
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "d3599c70313a992826dd7ed225432423",
-            "title": "law posted dozens of AI images of her online",
-            "description": "Sophie Parrish 'broke into 1,000 pieces' as she suffered digital abuse at the hands of her brother-in-law over eight years",
-            "content": "A woman who had her face 'deepfaked' onto explicit images by her own brother-in-law says more needs to be done to help survivors of abuse. Sophie Parrish had not long returned from a family holiday in Turkey when she received anonymous messages from ... [10391 chars]",
-            "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/mums-deepfake-horror-brother-law-33992504",
-            "image": "https://i2-prod.liverpoolecho.co.uk/article33998241.ece/ALTERNATES/s1200d/0_Sophie-Parrish-from-Ainsdalewas-a-victim-of-deepfake-pornPic-Andrew-Teebay.jpg",
-            "publishedAt": "2026-05-24T23:01:00Z",
-            "lang": "en",
-            "source": {
-                "id": "36974e61b15eebfe76ce1a593d2ff278",
-                "name": "Liverpool Echo",
-                "url": "https://www.liverpoolecho.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "a6172c35a23fbe36f1d5bb09cfe373c9",
-            "title": "AI boom propping up economy as some guardrails are coming off, journalist Andrew Ross Sorkin warns",
-            "description": "Stocks on Wall Street have rallied in recent months, but author Andrew Ross Sorkin sees a crash coming. The question is: when will the bubble pop, and how much will the market slump when it does?",
-            "content": "This is an updated version of a story first published on Oct. 12, 2025. The original video can be viewed here.\nThe stock market has been steadily rising for many months now, despite occasional volatility around issues like tariffs and war. This resil... [11097 chars]",
-            "url": "https://www.cbsnews.com/news/ai-boom-propping-up-economy-as-some-guardrails-coming-off-andrew-ross-sorkin-60-minutes-transcript/",
-            "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/12/942d8b76-078c-4afe-b7fc-cf3e32041545/thumbnail/1200x630/6fa19429315a480e5f5f1ae612d6e513/andrew-ross-sorkin-stocks-video-stahl.jpg",
-            "publishedAt": "2026-05-24T23:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
                 "country": "us"
             }
         },
         {
-            "id": "ff1997c692accb1475c20c33d4473aa1",
-            "title": "Uzbekistan seeks greater Indian investment in fintech, digital infra; offers targeted incentives",
-            "description": "NEW DELHI, May 24: Uzbekistan has created a business-friendly environment with targeted incentives for fintech, AI, and digital infrastructure companies, including those from India, Deputy Minister of Investment, Industry and Trade Shokhrukh Gulamov has said. Government policies supporting special economic zones, joint ventures, and digital infrastructure investments further enhance Uzbekistan’s appeal, he told PTI in an interview. By leveraging these advantages, Indian firms can diversify outsourcing operations beyond traditional South Asian centres, optimise cost structures, and access a talent pool […]",
-            "content": "By\nDaily Excelsior\n-\nNEW DELHI, May 24: Uzbekistan has created a business-friendly environment with targeted incentives for fintech, AI, and digital infrastructure companies, including those from India, Deputy Minister of Investment, Industry and Tra... [3005 chars]",
-            "url": "https://www.dailyexcelsior.com/uzbekistan-seeks-greater-indian-investment-in-fintech-digital-infra-offers-targeted-incentives/",
-            "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/bs.jpg",
-            "publishedAt": "2026-05-24T22:57:22Z",
+            "id": "27dc9648a1ad03649d66c8b6e320e2a6",
+            "title": "Analysts Offer Insights on Healthcare Companies: Spectral AI (MDAI), NeOnc Technologies Holdings, Inc. (NTHI) and Innoviva (INVA)",
+            "description": "There’s a lot to be optimistic about in the Healthcare sector as 3 analysts just weighed in on Spectral AI (MDAI), NeOnc Technologies Holdings, ...",
+            "content": "There’s a lot to be optimistic about in the Healthcare sector as 3 analysts just weighed in on Spectral AI (MDAI), NeOnc Technologies Holdings, Inc. (NTHI) and Innoviva (INVA) with bullish sentiments.\nMemorial Day Sale – Claim 70% Off TipRanks\nUnlock... [2340 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/analysts-offer-insights-on-healthcare-companies-spectral-ai-mdai-neonc-technologies-holdings-inc-nthi-and-innoviva-inva-1036196873",
+            "image": "https://markets.businessinsider.com/favicon-32x32.png",
+            "publishedAt": "2026-05-26T23:20:16Z",
             "lang": "en",
             "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "be52fe8122ae9b3a260755084eb9a783",
-            "title": "1.5 lakh fake AI citations slipped into scientific record in 2025: Study",
-            "description": "India News: BENGALURU: A surge of AI-generated fake citations has entered scientific literature, with a new study estimating that about 1.5 lakh fabricated refere.",
-            "content": "Suggests Several Researchers Copying Them Without Check\nBENGALURU: A surge of AI-generated fake citations has entered scientific literature, with a new study estimating that about 1.5 lakh fabricated references slipped into the record in 2025, most m... [3055 chars]",
-            "url": "https://timesofindia.indiatimes.com/india/1-5-lakh-fake-ai-citations-slipped-into-scientific-record-in-2025-study/articleshow/131296937.cms",
-            "image": "https://static.toiimg.com/thumb/msid-131296938,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-05-24T22:03:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "1c9189fb8f653941eba94b14e739e74b",
-            "title": "LA mayoral candidate Nithya Raman gets pushback over Spencer Pratt",
-            "description": "The left-wing LA mayoral candidate faces backlash after she criticized AI-generated campaign videos in support of Spencer Pratt.",
-            "content": "CNN political commentator Elex Michaelson pushed back against left-wing LA mayoral candidate Nithya Raman after she criticized AI-generated campaign videos circulating online in support of Spencer Pratt.\n“My husband works in Hollywood and to promote ... [1618 chars]",
-            "url": "https://nypost.com/2026/05/24/us-news/la-mayoral-candidate-nithya-raman-gets-pushback-over-spencer-pratt/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/128668420.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-05-24T22:01:19Z",
-            "lang": "en",
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
                 "country": "us"
             }
         },
         {
-            "id": "38696e70c6444facf4176067fcea15e6",
-            "title": "Commentary: Regulation alone won’t be a silver bullet for ‘dark patterns’ that manipulate consumers",
-            "description": "Given how quickly deceptive tactics evolve, especially with AI, countering “dark patterns” will require a multi-pronged approach that includes consumers, says Victor Seah of the Singapore University of Social Sciences.",
-            "content": "SINGAPORE: Fake visitor counts, fabricated countdown timers and false discount claims. These were the deceptive website features that landed three online retailers in trouble with Singapore’s consumer regulator.\nThe Competition and Consumer Commissio... [6417 chars]",
-            "url": "https://www.channelnewsasia.com/commentary/dark-patterns-manipulate-consumer-online-shopping-misleading-tactics-singapore-ccs-regulation-6136226",
-            "image": "https://dam.mediacorp.sg/image/upload/s--CmxenZp5--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/08/29/istock-915806412.jpg?itok=UylJnYa1",
-            "publishedAt": "2026-05-24T22:00:00Z",
+            "id": "1b9975b2d23d2470c80e72acfa10e9e2",
+            "title": "Institute for Information Industry (III) Partners with Skymizer to Advance Taiwan-Built On-Premise AI Solutions",
+            "description": "From Edge AI to Enterprise On-Premise AI - Skymizer HTX301, the world's first on-premise AI inference chip, powered by HyperThought IP and scaling from Edge to On-Premise to Mini Data Center",
+            "content": "From Edge AI to Enterprise On-Premise AI - Skymizer HTX301, the world's first on-premise AI inference chip, powered by HyperThought IP and scaling from Edge to On-Premise to Mini Data Center\nTAIPEI, May 27, 2026 /PRNewswire/ -- The Institute for Info... [6308 chars]",
+            "url": "https://www.manilatimes.net/2026/05/27/tmt-newswire/pr-newswire/institute-for-information-industry-iii-partners-with-skymizer-to-advance-taiwan-built-on-premise-ai-solutions/2352205",
+            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-05-26T23:20:08Z",
             "lang": "en",
             "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "427b093da53e6632517955ffc25e1821",
-            "title": "The White House is asking for $9 billion to buy AI chips for spies.",
-            "description": "The New York Times reports the CIA and the NSA lack the computing capacity to run the latest AI models. The White House has approved a request for $9 billion to buy cutting-edge chips and build infrastructure to support Nvidia’s Grace Blackwell superchip. But Congress needs to approve the funds.\n[Link: White House Approves $9 Billion for Spy Agencies to Catch Up on A.I. | https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html?smid=nytcore-android-share | New York Times]",
-            "content": "T\nExternal Link\nThe White House is asking for $9 billion to buy AI chips for spies.\nThe New York Times reports the CIA and the NSA lack the computing capacity to run the latest AI models. The White House has approved a request for $9 billion to buy c... [654 chars]",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/936907/the-white-house-is-asking-for-9-billion-to-buy-ai-chips-for-spies",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-            "publishedAt": "2026-05-24T21:50:52Z",
+            "id": "772ba8ac40a18a6849974f689000812d",
+            "title": "Teaching thermodynamic laws to AI unlocks a polymer modeling challenge",
+            "description": "For more than half a century, materials scientists have struggled with how to simulate the complexity of polymer materials. An individual chain can comprise tens of thousands of atoms, a melt or composite contains billions, and the properties engineers actually care about, such as how an adhesive grips a surface, how a self-assembling block copolymer locks into a nanostructure, or how a biopolymer film stretches without tearing, emerge only over length and time scales that forcible atomistic simulation cannot reach.",
+            "content": "For more than half a century, materials scientists have struggled with how to simulate the complexity of polymer materials. An individual chain can comprise tens of thousands of atoms, a melt or composite contains billions, and the properties enginee... [4558 chars]",
+            "url": "https://phys.org/news/2026-05-thermodynamic-laws-ai-polymer.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/teaching-ai-thermodyna.jpg",
+            "publishedAt": "2026-05-26T23:20:07Z",
             "lang": "en",
             "source": {
-                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-                "name": "The Verge",
-                "url": "https://www.theverge.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "ce8f8159978f420bfb71ea4a7f8f9e84",
-            "title": "Top Met cop suspended after new AI tool 'finds sexual content on work phone' as more than 100 officers are referred",
-            "description": "A SPECIAL Constabulary chief has been suspended after sexual content was allegedly found on his work phone by artificial...",
-            "content": "A SPECIAL Constabulary chief has been suspended after sexual content was allegedly found on his work phone by artificial intelligence.\nMet Special Chief Officer James Deller is being investigated after being flagged.\nAdvertisement\nHe is among more th... [877 chars]",
-            "url": "https://www.thesun.co.uk/news/39210450/met-cop-suspended-ai-finds-sexual-content-phone/",
-            "image": "https://www.thesun.co.uk/wp-content/uploads/2026/05/crop-39210631.jpg?quality=90&strip=all&1779659634&w=1920&h=1080&crop=1",
-            "publishedAt": "2026-05-24T21:43:08Z",
-            "lang": "en",
-            "source": {
-                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
-                "name": "The Sun",
-                "url": "https://www.thesun.co.uk",
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
                 "country": "gb"
+            }
+        },
+        {
+            "id": "5132f144d3a24069f667a21b88c21808",
+            "title": "Corsair's Pro lineup is the company’s answer to the growing demand for AI workstations and servers",
+            "description": "Corsair is the latest in a series of hardware manufacturers and assemblers looking to benefit from the AI gold rush, spurred by insatiable demand for PC and server-grade hardware.",
+            "content": "Corsair unveils new Pro lineup, targeting AI firms\nA variety of configurations will be on offer, but things will get pricey quickly\nEntry-level varieties can be scale up to Nvidia GB300-bases servers\nCorsair is stepping up its business hardware game,... [2500 chars]",
+            "url": "https://www.techradar.com/pro/corsairs-pro-lineup-is-the-companys-answer-to-the-growing-demand-for-ai-workstations-and-servers",
+            "image": "https://cdn.mos.cms.futurecdn.net/dHv65VuZKxRJTYAE6e2JKX-1200-80.jpg",
+            "publishedAt": "2026-05-26T23:20:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "1087609a974904d702669523f6934742",
+            "title": "S&P 500, Nasdaq, hit record closing highs on AI optimism",
+            "description": "STORY: It was a mostly upbeat Tuesday on Wall Street, despite a slight move downward for the Dow. The S&P 500 climbed about six-tenths of a percent and the tech-heavy Nasdaq added roughly 1.2%, with...",
+            "content": "STORY: It was a mostly upbeat Tuesday on Wall Street, despite a slight move downward for the Dow. The S&P 500 climbed about six-tenths of a percent and the tech-heavy Nasdaq added roughly 1.2%, with both indexes closing at record highs.\nAI-fueled opt... [1326 chars]",
+            "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-hit-record-closing-highs-on-ai-optimism-ce7f5ad2dc88f020",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2016-11/2016-11-23T215226Z_1_LYNXMPECAM1HT_RTROPTP_2_USA-STOCKS.JPG",
+            "publishedAt": "2026-05-26T23:19:34Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "b431a0450af6d11d9eb767f15795a758",
+            "title": "Pope Leo Schooled the Tech Bros on Tolkien",
+            "description": "The Holy Father referenced “The Lord of the Rings” in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
+            "content": "Nobody was surprised that Pope Leo XIV cited well-known saints and previous pontiffs in his first encyclical, or papal letter of spiritual guidance, “Magnifica humanitas,” released Monday.\nBut the name that immediately jumped out to many readers is o... [5087 chars]",
+            "url": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+            "image": "https://media.wired.com/photos/6a15ebea591e522c95b4533e/191:100/w_1280,c_limit/The-Pope-Gets-Tolkien-Culture-2277270022.jpg",
+            "publishedAt": "2026-05-26T23:19:03Z",
+            "lang": "en",
+            "source": {
+                "id": "b683218c3952d77a76b7bda7512f2f6e",
+                "name": "WIRED",
+                "url": "https://www.wired.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "d4f867c9df44530e2d872351b330c70a",
+            "title": "Japan's Nikkei to set record 69,000 in 2027 as blistering rally outpaces peers",
+            "description": "AI exuberance and robust earnings will continue to power Japan's Nikkei to record highs, even as its blistering rally makes it hard for forecasters to keep up, analysts said in a Reuters poll.\n...",
+            "content": "TOKYO, May 27 (Reuters) - AI exuberance and robust earnings will continue to power Japan's Nikkei to record highs, even as its blistering rally makes it hard for forecasters to keep up, analysts said in a Reuters poll.\nThe median forecast in a Reuter... [2991 chars]",
+            "url": "https://www.marketscreener.com/news/japan-s-nikkei-to-set-record-69-000-in-2027-as-blistering-rally-outpaces-peers-reuters-poll-ce7f5ad2dc88f324",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-28T010934Z_1_LYNXMPEM3R029_RTROPTP_4_GLOBAL-MARKETS.JPG",
+            "publishedAt": "2026-05-26T23:11:31Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "824621d6871eb222986b6e8ae0645624",
+            "title": "From Warheads To Watts: How US Is Turning Cold War Plutonium Into AI-Era Nuclear Fuel",
+            "description": "The US government has selected five companies for advanced negotiations to convert its vast stockpiles of Cold War-era weapons-grade plutonium into advanced nuclear reactor fuel",
+            "content": "Last Updated:May 27, 2026, 04:32 IST\nThe US government has selected five companies for advanced negotiations to convert its vast stockpiles of Cold War-era weapons-grade plutonium into advanced nuclear reactor fuel\nIn a major strategic pivot designed... [4422 chars]",
+            "url": "https://www.news18.com/world/from-warheads-to-watts-how-us-is-turning-cold-war-plutonium-into-ai-era-nuclear-fuel-10114338.html",
+            "image": "https://images.news18.com/ibnlive/uploads/2026/05/1328282_1779836188846-1200x675.jpg",
+            "publishedAt": "2026-05-26T23:02:51Z",
+            "lang": "en",
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "33c82dd4bde2ed4cae62b0fae2072730",
+            "title": "IntBot and Certis Group Partner to Scale Enterprise Physical AI Across Singapore",
+            "description": "Partnership marks a major step in scaling enterprise-ready Physical AI across everyday operations",
+            "content": "Partnership marks a major step in scaling enterprise-ready Physical AI across everyday operations\nSINGAPORE, May 27, 2026 /PRNewswire/ -- IntBot, the company building the social intelligence layer for embodied AI, and Certis, a leading Singapore-base... [5531 chars]",
+            "url": "https://www.manilatimes.net/2026/05/27/tmt-newswire/pr-newswire/intbot-and-certis-group-partner-to-scale-enterprise-physical-ai-across-singapore/2352200",
+            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/27/1072978.jpg",
+            "publishedAt": "2026-05-26T23:00:02Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         }
     ]
