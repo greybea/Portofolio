@@ -4,32 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 345754,
+    "totalArticles": 346965,
     "articles": [
         {
-            "id": "5822cb7aadc07cdc00690aa139332024",
-            "title": "AI inference startup Baseten in talks to raise $1 billion at $11 billion valuation",
-            "description": "The AI infrastructure gold rush is shifting from training giant models to something far less visible but far more expensive: running them at scale. That shift is turning inference startups into some of the hottest companies in Silicon Valley. One of the biggest winners right now appears to be Baseten. The San Francisco-based AI startup is",
-            "content": "The AI infrastructure gold rush is shifting from training giant models to something far less visible but far more expensive: running them at scale. That shift is turning inference startups into some of the hottest companies in Silicon Valley. One of ... [4762 chars]",
-            "url": "https://techstartups.com/2026/05/26/ai-inference-startup-baseten-in-talks-to-raise-1-billion-at-11-billion-valuation/",
-            "image": "https://techstartups.com/wp-content/uploads/2025/02/AI-startup-BaseTen-Founders-960x541.jpg",
-            "publishedAt": "2026-05-26T23:21:48Z",
+            "id": "bf3a10203450d392eb784802ef7b3049",
+            "title": "Traders Echo Pope Leo's Warning That AI Could Trigger Mass Job Losses",
+            "description": "Traders on Kalshi are giving a 60% chance that U.S. unemployment will cross 8% at some point before 2030 and a 47% chance that it will cross 9% during the same period, largely as a result of AI",
+            "content": "Pope Leo XIV's warning that artificial intelligence could produce a \"social calamity\" through mass unemployment has found echo on Wall Street, where prediction market traders are increasingly pricing in the possibility of a much weaker U.S. labor mar... [2575 chars]",
+            "url": "https://www.ibtimes.com/traders-echo-pope-leos-warning-that-ai-could-trigger-mass-job-losses-3803332",
+            "image": "https://d.ibtimes.com/en/full/4649245/pope-leo-xiv.jpg",
+            "publishedAt": "2026-05-27T23:21:02Z",
             "lang": "en",
             "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
                 "country": "us"
             }
         },
         {
-            "id": "27dc9648a1ad03649d66c8b6e320e2a6",
-            "title": "Analysts Offer Insights on Healthcare Companies: Spectral AI (MDAI), NeOnc Technologies Holdings, Inc. (NTHI) and Innoviva (INVA)",
-            "description": "There’s a lot to be optimistic about in the Healthcare sector as 3 analysts just weighed in on Spectral AI (MDAI), NeOnc Technologies Holdings, ...",
-            "content": "There’s a lot to be optimistic about in the Healthcare sector as 3 analysts just weighed in on Spectral AI (MDAI), NeOnc Technologies Holdings, Inc. (NTHI) and Innoviva (INVA) with bullish sentiments.\nMemorial Day Sale – Claim 70% Off TipRanks\nUnlock... [2340 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/analysts-offer-insights-on-healthcare-companies-spectral-ai-mdai-neonc-technologies-holdings-inc-nthi-and-innoviva-inva-1036196873",
-            "image": "https://markets.businessinsider.com/favicon-32x32.png",
-            "publishedAt": "2026-05-26T23:20:16Z",
+            "id": "0ed5715a8a5215aadd19efee06599ae6",
+            "title": "Nvidia (NVDA) and Micron (MU) Could Power One-Third of S&P 500 Earnings Growth",
+            "description": "Chipmakers Nvidia (NVDA) and Micron (MU) are expected to be two of the biggest direct winners from the AI infrastructure boom, according to Gold...",
+            "content": "Chipmakers Nvidia (NVDA) and Micron (MU) are expected to be two of the biggest direct winners from the AI infrastructure boom, according to Goldman Sachs (GS). As a result, the firm says that the two companies alone could account for about one-third ... [1770 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/nvidia-nvda-and-micron-mu-could-power-one-third-of-s-p-500-earnings-growth-1036200224",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-2908.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-05-27T23:21:00Z",
             "lang": "en",
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -39,45 +39,13 @@
             }
         },
         {
-            "id": "1b9975b2d23d2470c80e72acfa10e9e2",
-            "title": "Institute for Information Industry (III) Partners with Skymizer to Advance Taiwan-Built On-Premise AI Solutions",
-            "description": "From Edge AI to Enterprise On-Premise AI - Skymizer HTX301, the world's first on-premise AI inference chip, powered by HyperThought IP and scaling from Edge to On-Premise to Mini Data Center",
-            "content": "From Edge AI to Enterprise On-Premise AI - Skymizer HTX301, the world's first on-premise AI inference chip, powered by HyperThought IP and scaling from Edge to On-Premise to Mini Data Center\nTAIPEI, May 27, 2026 /PRNewswire/ -- The Institute for Info... [6308 chars]",
-            "url": "https://www.manilatimes.net/2026/05/27/tmt-newswire/pr-newswire/institute-for-information-industry-iii-partners-with-skymizer-to-advance-taiwan-built-on-premise-ai-solutions/2352205",
-            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-05-26T23:20:08Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "772ba8ac40a18a6849974f689000812d",
-            "title": "Teaching thermodynamic laws to AI unlocks a polymer modeling challenge",
-            "description": "For more than half a century, materials scientists have struggled with how to simulate the complexity of polymer materials. An individual chain can comprise tens of thousands of atoms, a melt or composite contains billions, and the properties engineers actually care about, such as how an adhesive grips a surface, how a self-assembling block copolymer locks into a nanostructure, or how a biopolymer film stretches without tearing, emerge only over length and time scales that forcible atomistic simulation cannot reach.",
-            "content": "For more than half a century, materials scientists have struggled with how to simulate the complexity of polymer materials. An individual chain can comprise tens of thousands of atoms, a melt or composite contains billions, and the properties enginee... [4558 chars]",
-            "url": "https://phys.org/news/2026-05-thermodynamic-laws-ai-polymer.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/teaching-ai-thermodyna.jpg",
-            "publishedAt": "2026-05-26T23:20:07Z",
-            "lang": "en",
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "5132f144d3a24069f667a21b88c21808",
-            "title": "Corsair's Pro lineup is the company’s answer to the growing demand for AI workstations and servers",
-            "description": "Corsair is the latest in a series of hardware manufacturers and assemblers looking to benefit from the AI gold rush, spurred by insatiable demand for PC and server-grade hardware.",
-            "content": "Corsair unveils new Pro lineup, targeting AI firms\nA variety of configurations will be on offer, but things will get pricey quickly\nEntry-level varieties can be scale up to Nvidia GB300-bases servers\nCorsair is stepping up its business hardware game,... [2500 chars]",
-            "url": "https://www.techradar.com/pro/corsairs-pro-lineup-is-the-companys-answer-to-the-growing-demand-for-ai-workstations-and-servers",
-            "image": "https://cdn.mos.cms.futurecdn.net/dHv65VuZKxRJTYAE6e2JKX-1200-80.jpg",
-            "publishedAt": "2026-05-26T23:20:00Z",
+            "id": "5a8e8f49d73da2e693dd0737ed4605ec",
+            "title": "'Threat actors are adapting social engineering and monetization strategies to modern user behavior': Microsoft warns AI chatbots may be sending victims to malicious websites — so be on your guard when",
+            "description": "What happens when an AI recommends a tool?",
+            "content": "Microsoft researchers observed cybercriminals adapting SEO poisoning tactics to AI platforms, tricking AI into recommending spoofed utility sites like HWMonitor and CrystalDiskInfo\nVictims who follow these AI‑suggested links download malware via DLL ... [2218 chars]",
+            "url": "https://www.techradar.com/pro/security/threat-actors-are-adapting-social-engineering-and-monetization-strategies-to-modern-user-behavior-microsoft-warns-ai-chatbots-may-be-sending-victims-to-malicious-websites-so-be-on-your-guard-when-clicking",
+            "image": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg",
+            "publishedAt": "2026-05-27T23:20:00Z",
             "lang": "en",
             "source": {
                 "id": "76684855c5d801b81fd06490668d04fe",
@@ -87,83 +55,115 @@
             }
         },
         {
-            "id": "1087609a974904d702669523f6934742",
-            "title": "S&P 500, Nasdaq, hit record closing highs on AI optimism",
-            "description": "STORY: It was a mostly upbeat Tuesday on Wall Street, despite a slight move downward for the Dow. The S&P 500 climbed about six-tenths of a percent and the tech-heavy Nasdaq added roughly 1.2%, with...",
-            "content": "STORY: It was a mostly upbeat Tuesday on Wall Street, despite a slight move downward for the Dow. The S&P 500 climbed about six-tenths of a percent and the tech-heavy Nasdaq added roughly 1.2%, with both indexes closing at record highs.\nAI-fueled opt... [1326 chars]",
-            "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-hit-record-closing-highs-on-ai-optimism-ce7f5ad2dc88f020",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2016-11/2016-11-23T215226Z_1_LYNXMPECAM1HT_RTROPTP_2_USA-STOCKS.JPG",
-            "publishedAt": "2026-05-26T23:19:34Z",
+            "id": "79fda118b90cc28b6d8dee35fc11f353",
+            "title": "Robinhood opens its platform to AI agents for trading and credit card spending",
+            "description": "Robinhood opens its platform to AI agents for trading and credit card spending - SiliconANGLE",
+            "content": "Robinhood Markets Inc. today opened its trading and banking platforms to artificial intelligence agents, launching a beta Agentic Trading product and a virtual Agentic Credit Card that can place stock orders and make purchases on a customer’s behalf.... [3385 chars]",
+            "url": "https://siliconangle.com/2026/05/27/robinhood-opens-platform-ai-agents-trading-credit-card-spending/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/robinhoodagentic.png",
+            "publishedAt": "2026-05-27T23:19:02Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "b431a0450af6d11d9eb767f15795a758",
-            "title": "Pope Leo Schooled the Tech Bros on Tolkien",
-            "description": "The Holy Father referenced “The Lord of the Rings” in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
-            "content": "Nobody was surprised that Pope Leo XIV cited well-known saints and previous pontiffs in his first encyclical, or papal letter of spiritual guidance, “Magnifica humanitas,” released Monday.\nBut the name that immediately jumped out to many readers is o... [5087 chars]",
-            "url": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
-            "image": "https://media.wired.com/photos/6a15ebea591e522c95b4533e/191:100/w_1280,c_limit/The-Pope-Gets-Tolkien-Culture-2277270022.jpg",
-            "publishedAt": "2026-05-26T23:19:03Z",
-            "lang": "en",
-            "source": {
-                "id": "b683218c3952d77a76b7bda7512f2f6e",
-                "name": "WIRED",
-                "url": "https://www.wired.com",
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
                 "country": "us"
             }
         },
         {
-            "id": "d4f867c9df44530e2d872351b330c70a",
-            "title": "Japan's Nikkei to set record 69,000 in 2027 as blistering rally outpaces peers",
-            "description": "AI exuberance and robust earnings will continue to power Japan's Nikkei to record highs, even as its blistering rally makes it hard for forecasters to keep up, analysts said in a Reuters poll.\n...",
-            "content": "TOKYO, May 27 (Reuters) - AI exuberance and robust earnings will continue to power Japan's Nikkei to record highs, even as its blistering rally makes it hard for forecasters to keep up, analysts said in a Reuters poll.\nThe median forecast in a Reuter... [2991 chars]",
-            "url": "https://www.marketscreener.com/news/japan-s-nikkei-to-set-record-69-000-in-2027-as-blistering-rally-outpaces-peers-reuters-poll-ce7f5ad2dc88f324",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-28T010934Z_1_LYNXMPEM3R029_RTROPTP_4_GLOBAL-MARKETS.JPG",
-            "publishedAt": "2026-05-26T23:11:31Z",
+            "id": "686f588315a6008b02f136d3329c4b44",
+            "title": "LogicMonitor Makes AI the Front Door to IT Operations",
+            "description": "Company launches the Autonomous IT Innovation Program, a new private preview designed to move enterprises beyond dashboards, alerts, and manual triage.",
+            "content": "COMPANY NEWS: Company launches the Autonomous IT Innovation Program, a new private preview designed to move enterprises beyond dashboards, alerts, and manual triage.\nLogicMonitor®, the AI-first platform for Autonomous IT, today announced a new initia... [4246 chars]",
+            "url": "https://itwire.com/guest-articles/company-news/logicmonitor-makes-ai-the-front-door-to-it-operations",
+            "image": "https://itwire.com/favicon.png",
+            "publishedAt": "2026-05-27T23:13:00Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
             }
         },
         {
-            "id": "824621d6871eb222986b6e8ae0645624",
-            "title": "From Warheads To Watts: How US Is Turning Cold War Plutonium Into AI-Era Nuclear Fuel",
-            "description": "The US government has selected five companies for advanced negotiations to convert its vast stockpiles of Cold War-era weapons-grade plutonium into advanced nuclear reactor fuel",
-            "content": "Last Updated:May 27, 2026, 04:32 IST\nThe US government has selected five companies for advanced negotiations to convert its vast stockpiles of Cold War-era weapons-grade plutonium into advanced nuclear reactor fuel\nIn a major strategic pivot designed... [4422 chars]",
-            "url": "https://www.news18.com/world/from-warheads-to-watts-how-us-is-turning-cold-war-plutonium-into-ai-era-nuclear-fuel-10114338.html",
-            "image": "https://images.news18.com/ibnlive/uploads/2026/05/1328282_1779836188846-1200x675.jpg",
-            "publishedAt": "2026-05-26T23:02:51Z",
+            "id": "4625f0e31e6d0303728b5b82c71dfb5d",
+            "title": "Salesforce's beat fails to convince market that software can survive AI",
+            "description": "Salesforce is doing everything it can to signal to the market that this year's sell-off is unwarranted.",
+            "content": "Salesforce on Wednesday evening delivered better-than-expected quarterly results, but it wasn't enough to convince the market that AI will help — not hurt — its enterprise software business. Revenue in the quarter ended April 30 rose 13.3% year over ... [6534 chars]",
+            "url": "https://www.cnbc.com/2026/05/27/salesforces-beat-fails-to-convince-market-that-software-can-survive-ai.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108228600-1763581285846-gettyimages-2246896522-US_SAUDI.jpeg?v=1770251995&w=1920&h=1080",
+            "publishedAt": "2026-05-27T23:11:08Z",
             "lang": "en",
             "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "8eaff0163490c6ddd1da7c59cb718124",
+            "title": "Groupon laying off 400 employees in AI shift",
+            "description": "Groupon, the Chicago-based online marketplace, is slashing up to 400 positions — nearly a fourth of its worldwide workforce — in a plan to rebuild as an AI-native company.",
+            "content": "Groupon, the Chicago-based online marketplace, is slashing up to 400 positions — nearly a fourth of its worldwide workforce — in a plan to rebuild as an AI-native company.\nCiting projected annualized savings of about $25 million, the company expects ... [5119 chars]",
+            "url": "https://www.chicagotribune.com/2026/05/27/groupon-layoffs-ai/",
+            "image": "https://www.chicagotribune.com/wp-content/uploads/2026/05/CTC-L-groupon-new-office-22.jpg?w=1024&h=683",
+            "publishedAt": "2026-05-27T23:07:52Z",
+            "lang": "en",
+            "source": {
+                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+                "name": "Chicago Tribune",
+                "url": "https://www.chicagotribune.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ffe9cbb10bce4aee7028174a8c1a063a",
+            "title": "Eastport residents push City Council to oppose underwater AI data center",
+            "description": "DeepGreen wants to build the data center in the Bay of Fundy’s Western Passage.",
+            "content": "EASTPORT, Maine — Rising public concern over a proposed underwater artificial intelligence data center in the Bay of Fundy’s Western Passage has pushed the issue to the forefront in Eastport, where residents pressed the City Council on May 13 to addr... [6387 chars]",
+            "url": "https://www.bangordailynews.com/2026/05/27/down-east/downeast-government/eastport-underwater-ai-data-center-opposition/",
+            "image": "https://bdn-data.s3.amazonaws.com/uploads/2026/05/Untitled-design-2026-05-27T184959.513.jpg",
+            "publishedAt": "2026-05-27T23:04:00Z",
+            "lang": "en",
+            "source": {
+                "id": "3e29a1cf81727e4aa5687d46a4b429c4",
+                "name": "Bangor Daily News",
+                "url": "https://www.bangordailynews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "9885d5abae6634af12ed5da4258bf91d",
+            "title": "Wall Street hits record highs as AI rally pauses",
+            "description": "Rising healthcare and consumer stocks lifted the Dow Jones Industrial Average on Wednesday to a record closing high, while the S&P 500 and the Nasdaq were steady, as investors took a pause from the AI-led rally while cautiously watching Middle East peace talks. Fractional gains were enough to push the S&P 500 index and Nasdaq to closing record highs for the second day in a row.",
+            "content": "NEW YORK: Rising healthcare and consumer stocks lifted the Dow Jones Industrial Average on Wednesday to a record closing high, while the S&P 500 and the Nasdaq were steady, as investors took a pause from the AI-led rally while cautiously watching Mid... [3648 chars]",
+            "url": "https://www.thestar.com.my/business/2026/05/28/wall-street-hits-record-highs-as-ai-rally-pauses",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/05/28/3930424.jpg",
+            "publishedAt": "2026-05-27T23:03:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "4a17cdbfd359be68ecae26af3f6c9ae3",
+            "title": "London Reclaims Crown as Europe's Technology Hub",
+            "description": "London has surpassed Paris to become Europe's leading technology center once again, driven by strong investments in artificial intelligence and deep tech. The city raised $17.7 billion last year, housing 138 unicorns. Globally, London ranks fourth, led by investments in AI, fintech, and life sciences.",
+            "content": "London has retaken the title as Europe's top technology hub, overtaking Paris due to increased investment in artificial intelligence and deep tech sectors, as per Dealroom's Global Tech Ecosystem Index 2026.\nThe city's resurgence is credited to robus... [506 chars]",
+            "url": "https://www.devdiscourse.com/article/technology/3924127-london-reclaims-crown-as-europes-technology-hub",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/09_06_2025_12_30_45_5934766.png&width=920&format=jpeg",
+            "publishedAt": "2026-05-27T23:01:30Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
                 "country": "in"
-            }
-        },
-        {
-            "id": "33c82dd4bde2ed4cae62b0fae2072730",
-            "title": "IntBot and Certis Group Partner to Scale Enterprise Physical AI Across Singapore",
-            "description": "Partnership marks a major step in scaling enterprise-ready Physical AI across everyday operations",
-            "content": "Partnership marks a major step in scaling enterprise-ready Physical AI across everyday operations\nSINGAPORE, May 27, 2026 /PRNewswire/ -- IntBot, the company building the social intelligence layer for embodied AI, and Certis, a leading Singapore-base... [5531 chars]",
-            "url": "https://www.manilatimes.net/2026/05/27/tmt-newswire/pr-newswire/intbot-and-certis-group-partner-to-scale-enterprise-physical-ai-across-singapore/2352200",
-            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/27/1072978.jpg",
-            "publishedAt": "2026-05-26T23:00:02Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
             }
         }
     ]
