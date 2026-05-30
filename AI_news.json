@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 348163,
+    "totalArticles": 349060,
     "articles": [
         {
-            "id": "f7c63a3b5f4e626c0c7d1f32334622eb",
-            "title": "Jorge Gutierrez faces backlash over use of AI in 'Punky Duck'",
-            "description": "It took over a decade for Jorge R. Gutierrez to get approval for his 2014 film “The Book of Life.” His new project, \"Punky Duck,\" will take less time — thanks to AI.",
-            "content": "Animator Jorge R. Gutierrez is facing online backlash following news that his latest series, “Punky Duck,” will use artificial intelligence for its production.\nAmazon MGM Studios and Amazon Web Services announced on Wednesday the launch of the GenAI ... [2794 chars]",
-            "url": "https://www.latimes.com/delos/story/2026-05-28/jorge-gutierrez-artificial-intelligence-amazon-mgm-project-nara-punky-duck",
-            "image": "https://ca-times.brightspotcdn.com/dims4/default/bcb99f2/2147483647/strip/true/crop/1376x722+0+23/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc0%2Faa%2Fb4af8f6e41e3a7fb5b36be529131%2Fla-de-los-punky-duck.jpg",
-            "publishedAt": "2026-05-28T23:13:48Z",
+            "id": "593cfd5c7cc5d25299706e10a4902b92",
+            "title": "US judiciary asked to adopt rule to curb fake AI-generated cases in filings",
+            "description": "A federal judge in Florida on Friday asked the judiciary to adopt a nationwide rule to ensure that litigants using generative AI have ensured that any court filings they submit ​do not cite fake cases hallucinated by the technology.",
+            "content": "May 29 (Reuters) - A federal judge in Florida on Friday asked the judiciary to adopt a nationwide rule to ensure that litigants using generative AI have ensured that any court filings they submit ​do not cite fake cases hallucinated by the technology... [1779 chars]",
+            "url": "https://www.reuters.com/legal/government/us-judiciary-asked-adopt-rule-curb-fake-ai-generated-cases-filings-2026-05-29/",
+            "image": "https://www.reuters.com/resizer/v2/PQYIATF5UZPSXNAVJN2WJ566YU.jpg?auth=3d8629660ffaba233494fe5a6e55925fb47f96766714eb989a001f90b6453459&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-05-29T21:45:10Z",
             "lang": "en",
             "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
                 "country": "us"
             }
         },
         {
-            "id": "eddbd02bfa1bf43cff3fbe3c6a056ac6",
-            "title": "Filmmaker Paul Schrader lets loose in zesty keynote at AI conference",
-            "description": "At the rapidly expanding AI on the Lot conference in Culver City, the “Taxi Driver” scripter mixed provocation and unease as he contemplated Hollywood’s future.",
-            "content": "When filmmaker Paul Schrader announced on Facebook that he would be delivering the keynote address at this year’s fourth annual AI on the Lot conference, the reaction from some fellow writers and artists was swift and hostile.\n“There was very much of... [6345 chars]",
-            "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-05-28/filmmaker-paul-schrader-lets-loose-keynote-ai-on-the-lot-conference",
-            "image": "https://ca-times.brightspotcdn.com/dims4/default/0fe9000/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fzbk%2Fdamlat_images%2FLA%2FLA_PHOTO_SELECTS%2F2018_05%2F3046901_CA_paul-schrader_RRD_169.JPG",
-            "publishedAt": "2026-05-28T23:07:36Z",
+            "id": "4e3c08cd1b3f93c9bc3dd81bd0f5a776",
+            "title": "AI Costs Are Forcing Big Companies to Put Limits on Workers: Report",
+            "description": "Some of the country's biggest companies are beginning to ration access to AI for employers, track their usage more aggressively, and steer tem toward cheaper tools as costs rise faster than expected.",
+            "content": "Corporate America is discovering that artificial intelligence may be revolutionary, but it is also noting that it is not cheap and as a result is beginning to ration access to its employees in an effort to cut costs.\nAfter more than a year of urging ... [2985 chars]",
+            "url": "https://www.ibtimes.com/ai-costs-are-forcing-big-companies-put-limits-workers-report-3803483",
+            "image": "https://d.ibtimes.com/en/full/4649449/ai-costs.jpg",
+            "publishedAt": "2026-05-29T21:45:02Z",
             "lang": "en",
             "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
                 "country": "us"
             }
         },
         {
-            "id": "70a263b4ac3ed8da551e9698369f683e",
-            "title": "Student commencement boos are a sign of wider AI woes",
-            "description": "As companies race to weave AI into nearly every industry, some college students are responding with open hostility",
-            "content": "As companies race to weave AI into nearly every industry, some college students are responding with open hostility.\nAt at least three college commencement ceremonies this month, graduates loudly booed invited speakers who praised AI. On Thursday, Vic... [6961 chars]",
-            "url": "https://www.nbcnews.com/tech/tech-news/artificial-intelligence-students-pushback-commencement-booing-rcna345731",
-            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260521-college-grads-2x1-lr-09d7a5.jpg",
-            "publishedAt": "2026-05-28T23:06:17Z",
+            "id": "822ba13d49659ccde49b0083f8be678d",
+            "title": "Truist Lifts Alphabet (GOOGL) Stock Price Target; What’s Driving the Optimism?",
+            "description": "Alphabet (GOOGL) stock has risen about 22% year-to-date and nearly 122% over the past year. Artificial intelligence (AI)-led demand for Google C...",
+            "content": "Alphabet (GOOGL) stock has risen about 22% year-to-date and nearly 122% over the past year. Artificial intelligence (AI)-led demand for Google Cloud, rising adoption of TPU (tensor processing unit) chips, and integration of AI features across the com... [2635 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/truist-lifts-alphabet-googl-stock-price-target-what-s-driving-the-optimism-1036209425",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-3189.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-05-29T21:43:58Z",
             "lang": "en",
             "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
                 "country": "us"
             }
         },
         {
-            "id": "aa88fbb73881a49b283b2a6db8abdebf",
-            "title": "AI facial recognition to check age of asylum seekers from next year",
-            "description": "The Home Office says the tool will make it easier to identify adult migrants \"attempting to game the system\".",
-            "content": "An AI facial recognition tool that aims to detect adult migrants posing as children will be deployed at the UK's borders next year.\nA software company has been awarded a contract to develop and test the technology, which will estimate a person's age ... [2847 chars]",
-            "url": "https://www.bbc.com/news/articles/ce3pe36qe7ro",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0cdf/live/b79886d0-5aab-11f1-b277-cd187c78657d.jpg",
-            "publishedAt": "2026-05-28T23:05:09Z",
+            "id": "5346661543e1d0553b7c258fec3979a9",
+            "title": "The S&P Hit A Record While 8 Of 11 Sectors Fell",
+            "description": "Dell ripped roughly 30% on $16.1B in quarterly AI server sales. Eight of eleven sectors still finished May in the red. Inside: oil cracks on a 60-day Iran ceasefire, and Anthropic lines up a $900B raise.",
+            "content": "Dell ripped roughly 30% on $16.1B in quarterly AI server sales. Eight of eleven sectors still finished May in the red. Inside: oil cracks on a 60-day Iran ceasefire, and Anthropic lines up a $900B raise.\nMarkets just wrapped a strong and strange mont... [3924 chars]",
+            "url": "https://www.benzinga.com/Opinion/26/05/52891278/the-sp-hit-a-record-while-8-of-11-sectors-fell",
+            "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/29/Gav-Blaxberg.jpeg",
+            "publishedAt": "2026-05-29T21:40:15Z",
             "lang": "en",
             "source": {
-                "id": "109f2b4a20da4fe1c2fd502b03c07243",
-                "name": "BBC News",
-                "url": "https://www.bbc.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "fcbad49122c8d7a67616cbeba751da40",
-            "title": "Shopping with AI leads to more sales than by traditional online searches - Adobe",
-            "description": "Figures for May show the UK AI shopping conversion rate was up 182% year-on-year and 543% since January last year, Adobe said.",
-            "content": "Shopping with the help of AI is now leading to more sales in the UK than those via more traditional online searches, figures suggest.\nThis month, shoppers clicking through to UK retail sites from AI sources were more likely to complete a purchase tha... [1599 chars]",
-            "url": "https://www.lbc.co.uk/article/dda56ca803644a3fb62167829ab74721-5HjdZr6_2/",
-            "image": "https://images.globalplayer.com/images/816730?crop=16_9&width=1200&signature=M3J--jKJepil0bLDQdBercGuhYo=",
-            "publishedAt": "2026-05-28T23:04:05Z",
-            "lang": "en",
-            "source": {
-                "id": "027234d3c0a6aefa3d7ab81380e63d86",
-                "name": "LBC",
-                "url": "https://www.lbc.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "2bdec98e30a435ac81f3ffd3c5c85fe4",
-            "title": "Bears stadium bill, Illinois budget talks take center stage as Springfield session winds down",
-            "description": "After passing long-sought regulations on the insurance and AI industries, lawmakers' highest profile topics to tackle will also be the toughest.",
-            "content": "SPRINGFIELD — Illinois lawmakers were running the hurry-up offense Thursday as the clock winds down on their effort to advance property tax-incentive legislation intended to help the Chicago Bears build a new stadium in Arlington Heights and prevent ... [8116 chars]",
-            "url": "https://chicago.suntimes.com/springfield/2026/05/28/springfield-illinois-bears-stadium-bill-budget",
-            "image": "https://cst.brightspotcdn.com/dims4/default/225a321/2147483647/strip/true/crop/4032x2302+0+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F70%2F75%2F21eb53b44c77bc6b9dab5047abca%2Fspringfield52826.jpg",
-            "publishedAt": "2026-05-28T23:04:00Z",
-            "lang": "en",
-            "source": {
-                "id": "a9b75d29a22d0e3d5640bed825a22b93",
-                "name": "Chicago Sun-Times",
-                "url": "https://chicago.suntimes.com",
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
                 "country": "us"
             }
         },
         {
-            "id": "92a90a16a465eb2ecdb180f11d1f4827",
-            "title": "British and French scientists join forces in hunt for 'life",
-            "description": "British and French researchers will join forces to tackle women's health issues like endometriosis in new deal that will also use cutting-edge imaging and AI to study emerging viruses",
-            "content": "EXCLUSIVE: British and French scientists join forces in hunt for 'life-changing' medical breakthroughs\nBritish and French researchers will join forces to tackle women's health issues like endometriosis in new deal that will also use cutting-edge imag... [2353 chars]",
-            "url": "https://www.mirror.co.uk/news/politics/liz-kendall-france-endometriosis-ai-37216237",
-            "image": "https://i2-prod.mirror.co.uk/article36543360.ece/ALTERNATES/s1200d/1_Weekly-Cabinet-Meeting-in-Downing-Street.jpg",
-            "publishedAt": "2026-05-28T23:01:55Z",
+            "id": "4635c6144055d2400bc99f00277076ce",
+            "title": "GOOGL vs AMZN: Which AI Stock Is the Better Buy, According to Analysts",
+            "description": "Tech giants Alphabet (GOOGL) and Amazon (AMZN) are both major AI winners, but they offer different kinds of AI exposure. Alphabet looks stronger...",
+            "content": "Tech giants Alphabet (GOOGL) and Amazon (AMZN) are both major AI winners, but they offer different kinds of AI exposure. Alphabet looks stronger in search, cloud growth, and self-funded AI investment, while Amazon looks stronger in AWS monetization, ... [2502 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/googl-vs-amzn-which-ai-stock-is-the-better-buy-according-to-analysts-1036209417",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-3181.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-05-29T21:40:00Z",
             "lang": "en",
             "source": {
-                "id": "105bb16685822879671e4bad332aeec9",
-                "name": "The Mirror",
-                "url": "https://www.mirror.co.uk",
-                "country": "gb"
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
             }
         },
         {
-            "id": "2f06f54ecca69f6f6ea443d04bc31cb9",
-            "title": "Shopping with AI leads to more sales than by traditional online searches - Adobe",
-            "description": "Figures for May show the UK AI shopping conversion rate was up 182% year-on-year and 543% since January last year, Adobe said. | ITV National News",
-            "content": "Shopping with the help of AI is now leading to more sales in the UK than those via more traditional online searches, figures suggest.\nThis month, shoppers clicking through to UK retail sites from AI sources were more likely to complete a purchase tha... [1599 chars]",
-            "url": "https://www.itv.com/news/2026-05-28/shopping-with-ai-leads-to-more-sales-than-by-traditional-online-searches-adobe",
-            "image": "https://images.ctfassets.net/pjshm78m9jt4/headerImage-dda56ca8-0364-4a3f-b621-67829ab74721/cafb9563d64a4b853d3c7ee52d4b927d/headerImage-dda56ca8-0364-4a3f-b621-67829ab74721?fm=jpg&fit=fill&w=1600&h=1166&q=80",
-            "publishedAt": "2026-05-28T23:01:00Z",
+            "id": "8d27e8068fd572cd2470e8893f8f43e1",
+            "title": "Could Microsoft kill the web browser at Build? Everything developers need to know about the NLWeb Protocol",
+            "description": "Making every website queryable by AI agents",
+            "content": "The web browser has been the default interface for accessing online information for decades, but AI search is starting to change that assumption. Tools like Microsoft Copilot already let users ask plain-language questions and receive direct answers, ... [7061 chars]",
+            "url": "https://www.techradar.com/pro/could-microsoft-kill-the-web-browser-at-build-everything-developers-need-to-know-about-the-nlweb-protocol",
+            "image": "https://cdn.mos.cms.futurecdn.net/tVyTVz5oGCDes5nsdQqpCo-1253-80.png",
+            "publishedAt": "2026-05-29T21:25:00Z",
             "lang": "en",
             "source": {
-                "id": "8058567c977e70457c45c65529cb9946",
-                "name": "ITV News",
-                "url": "https://www.itv.com",
-                "country": "gb"
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
             }
         },
         {
-            "id": "1633c994d64625690a0def1778791c06",
-            "title": "AI and drones can help improve early warning systems for Vibrio bacteria in the Baltic Sea",
-            "description": "The presence of the marine bacterium Vibrio vulnificus, which is potentially dangerous to humans, can now be predicted up to five weeks in advance in the Baltic Sea using artificial intelligence (AI). A research team led by the Leibniz Institute for Baltic Sea Research Warnemünde (IOW) has reached this conclusion by combining high-resolution environmental, satellite, and microbiome data in an AI-based analysis.",
-            "content": "The presence of the marine bacterium Vibrio vulnificus, which is potentially dangerous to humans, can now be predicted up to five weeks in advance in the Baltic Sea using artificial intelligence (AI). A research team led by the Leibniz Institute for ... [5827 chars]",
-            "url": "https://phys.org/news/2026-05-ai-drones-early-vibrio-bacteria.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-and-drones-can-help.jpg",
-            "publishedAt": "2026-05-28T23:00:01Z",
+            "id": "de540dc9caba93a60a56d4516b1b63ef",
+            "title": "The Interview: David Szalay on why AI won't be able to replace authors",
+            "description": "The Booker Prize winner sat down at the Sydney Writers' Festival to ponder the threat of AI to fiction, share some recommendations and consider whether his book was really about masculinity.",
+            "content": "David Szalay is being shepherded between press engagements at Sydney Writers' Festival.\nIn 2025 the Hungarian-British author won the Booker Prize for Flesh, which follows teenager István as he moves beyond his working class beginnings in Hungary and ... [10644 chars]",
+            "url": "https://www.abc.net.au/news/2026-05-30/interview-david-szalay-booker-flesh-sydney-writers-festival/106732488",
+            "image": "https://live-production.wcms.abc-cdn.net.au/1a9cca15ba95778c06284f658e656709?impolicy=wcms_watermark_news&cropH=1875&cropW=3333&xPos=0&yPos=1728&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-05-29T21:24:27Z",
             "lang": "en",
             "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
             }
         },
         {
-            "id": "3f58480dc3a0b26d87d619970d39df8d",
-            "title": "AI curriculum taskforce suggest learning from industry, practical exposure for Er students",
-            "description": "NEW DELHI, May 28: An industry-led AI curriculum taskforce has recommended shifting the present lecture-based teaching system for technical education to learning from real industry use cases and enhancing practical exposure of students to equip them with better understanding of AI development, an official statement said on Thursday. The task force has recommended a shift from the current 25–30 per cent practical exposure to 40–75 per cent, depending on the nature of the degree and the chosen specialisation by engineering […]",
-            "content": "NEW DELHI, May 28: An industry-led AI curriculum taskforce has recommended shifting the present lecture-based teaching system for technical education to learning from real industry use cases and enhancing practical exposure of students to equip them ... [2783 chars]",
-            "url": "https://www.dailyexcelsior.com/ai-curriculum-taskforce-suggest-learning-from-industry-practical-exposure-for-er-students/",
-            "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/AI-1.jpg",
-            "publishedAt": "2026-05-28T22:58:30Z",
+            "id": "bf466202b2f634eb0c1816e42db63371",
+            "title": "'There's A Lot More To Come' In AI Says Aliaga",
+            "description": "Stephanie Aliaga, JPMorgan Asset Management Global Market Strategist joined Bloomberg Businessweek Daily to discuss AI trends and how it is changing how we view the markets. She stated that we are...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/there-s-a-lot-more-to-come-in-ai-says-aliaga-ce7f5ddbd08cf223",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3640499.png",
+            "publishedAt": "2026-05-29T21:09:58Z",
             "lang": "en",
             "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "0b3c3a09bf3c819c1f4f075c6ecba5fd",
+            "title": "Software stocks wrap best month since 2001 as talk of 'SaaSpocalypse'",
+            "description": "Snowflake and Okta both saw record stock pops this week as investors found favor in their AI software strategies.",
+            "content": "The \"SaaSpocalypse\" may not be over. But for now at least, fears of software's demise have cooled.\nSoftware stocks soared this week, driven by strong results from Snowflake and Okta , signaling that some companies are navigating their way through art... [2594 chars]",
+            "url": "https://www.cnbc.com/2026/05/29/software-stocks-wrap-best-month-since-2001-as-talk-of-saaspocalypse-.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108206044-1759265547154-Snowflake-CB-Photo-20250930-KK-PRESS-021.jpg?v=1759265883&w=1920&h=1080",
+            "publishedAt": "2026-05-29T21:03:37Z",
+            "lang": "en",
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ae9aa72301b332818cf3f34c1e3495d0",
+            "title": "How to Buy MemeToro Presale: AI Agent Memecoin Gaining Ground While Bitcoin Drops to $76K",
+            "description": "Discover how to buy MemeToro ($MT), the best crypto presale combining AI memecoin creation, prediction markets, staking rewards, and DeFi utilities during Bitcoin weakness.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nBitcoin slid into the 76,000 zone overnight, with $74,000 as the next major support and $83,000 sitting overhead as resistance. Whenever BTC looks shaky, retail money tends to drift toward smaller bets where a few hundre... [4675 chars]",
+            "url": "https://techbullion.com/how-to-buy-memetoro-presale-ai-agent-memecoin-gaining-ground-while-bitcoin-drops-to-76k/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/05/How-to-1000x600.png",
+            "publishedAt": "2026-05-29T21:02:58Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
             }
         }
     ]
