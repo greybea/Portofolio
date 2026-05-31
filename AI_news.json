@@ -4,128 +4,80 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 349060,
+    "totalArticles": 349548,
     "articles": [
         {
-            "id": "593cfd5c7cc5d25299706e10a4902b92",
-            "title": "US judiciary asked to adopt rule to curb fake AI-generated cases in filings",
-            "description": "A federal judge in Florida on Friday asked the judiciary to adopt a nationwide rule to ensure that litigants using generative AI have ensured that any court filings they submit ​do not cite fake cases hallucinated by the technology.",
-            "content": "May 29 (Reuters) - A federal judge in Florida on Friday asked the judiciary to adopt a nationwide rule to ensure that litigants using generative AI have ensured that any court filings they submit ​do not cite fake cases hallucinated by the technology... [1779 chars]",
-            "url": "https://www.reuters.com/legal/government/us-judiciary-asked-adopt-rule-curb-fake-ai-generated-cases-filings-2026-05-29/",
-            "image": "https://www.reuters.com/resizer/v2/PQYIATF5UZPSXNAVJN2WJ566YU.jpg?auth=3d8629660ffaba233494fe5a6e55925fb47f96766714eb989a001f90b6453459&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-05-29T21:45:10Z",
+            "id": "ffd6452674390f074d7f5dd68e8fb0fb",
+            "title": "I canceled ChatGPT, Claude, and Copilot subscriptions just to go back to this powerful AI tool",
+            "description": "One AI tool to rule them all.",
+            "content": "It’s easy to get caught up in the LLM race. For a while, my monthly credit card statement read like a lineup of premium AI subscriptions: ChatGPT Plus, Claude Pro, and Microsoft 365 Premium with Copilot.\nBut a few weeks ago, I hit cancel on all of th... [4465 chars]",
+            "url": "https://www.xda-developers.com/canceled-chatgpt-claude-copilot-subs-just-go-back-powerful-ai-tool/",
+            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/why-i-use-gemini-over-claude-chatgpt-copilot-1.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-05-30T22:01:23Z",
             "lang": "en",
             "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
+                "id": "891063cd06eaab8a5cf530418fb4c0be",
+                "name": "XDA Developers",
+                "url": "https://www.xda-developers.com",
                 "country": "us"
             }
         },
         {
-            "id": "4e3c08cd1b3f93c9bc3dd81bd0f5a776",
-            "title": "AI Costs Are Forcing Big Companies to Put Limits on Workers: Report",
-            "description": "Some of the country's biggest companies are beginning to ration access to AI for employers, track their usage more aggressively, and steer tem toward cheaper tools as costs rise faster than expected.",
-            "content": "Corporate America is discovering that artificial intelligence may be revolutionary, but it is also noting that it is not cheap and as a result is beginning to ration access to its employees in an effort to cut costs.\nAfter more than a year of urging ... [2985 chars]",
-            "url": "https://www.ibtimes.com/ai-costs-are-forcing-big-companies-put-limits-workers-report-3803483",
-            "image": "https://d.ibtimes.com/en/full/4649449/ai-costs.jpg",
-            "publishedAt": "2026-05-29T21:45:02Z",
+            "id": "36894b77d4c0b8d2a62ce455e30ff66d",
+            "title": "Could Ruvi AI (RUVI) Deliver the Next Big Crypto Success Story? Ripple (XRP) Investors Are Paying Attention",
+            "description": "XRP news is a cycle of banks adopting rails the token does not capture, leaving the asset near $1.32 while holders search for real revenue capture even as Ripple Prime moves more settlement live. Ruvi at $0.020 with 3,000+ holders, a 10,000+ community, 20+ AI models live, a fixed 5 billion supply, and contributor payouts in $RUVI is not waiting on anyone. Make a move before Phase 3 closes and today's entry becomes the floor.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nXRP price prediction is gaining attention as Wall Street banks shift cross-border pilots into live settlements through gateways like Ripple Prime as transaction velocity rises. XRP trades near $1.32, with a market cap ar... [3799 chars]",
+            "url": "https://techbullion.com/could-ruvi-ai-ruvi-deliver-the-next-big-crypto-success-story-ripple-xrp-investors-are-paying-attention/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/05/image1-copy-19-1000x600.png",
+            "publishedAt": "2026-05-30T22:00:40Z",
             "lang": "en",
             "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
             }
         },
         {
-            "id": "822ba13d49659ccde49b0083f8be678d",
-            "title": "Truist Lifts Alphabet (GOOGL) Stock Price Target; What’s Driving the Optimism?",
-            "description": "Alphabet (GOOGL) stock has risen about 22% year-to-date and nearly 122% over the past year. Artificial intelligence (AI)-led demand for Google C...",
-            "content": "Alphabet (GOOGL) stock has risen about 22% year-to-date and nearly 122% over the past year. Artificial intelligence (AI)-led demand for Google Cloud, rising adoption of TPU (tensor processing unit) chips, and integration of AI features across the com... [2635 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/truist-lifts-alphabet-googl-stock-price-target-what-s-driving-the-optimism-1036209425",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-3189.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-05-29T21:43:58Z",
+            "id": "0004cad80730e18c9428d956e4b02bee",
+            "title": "India & US Drive AI, Semicon Ties",
+            "description": "India and the US will be encouraging businesses from both countries dealing with artificial intelligence and semiconductors to collaborate more, officials said.",
+            "content": "Synopsis\nIndia and the US will be encouraging businesses from both countries dealing with artificial intelligence and semiconductors to collaborate more, officials said.\nIndia and the US will be encouraging businesses from both countries dealing with... [3193 chars]",
+            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/may/31/sunet-front/india-us-drive-ai-semicon-ties/articleshow/131415580.cms",
+            "image": "https://img.etimg.com/thumb/msid-131417389,width-1200,height-630,imgsize-134266,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-05-30T21:32:00Z",
             "lang": "en",
             "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
             }
         },
         {
-            "id": "5346661543e1d0553b7c258fec3979a9",
-            "title": "The S&P Hit A Record While 8 Of 11 Sectors Fell",
-            "description": "Dell ripped roughly 30% on $16.1B in quarterly AI server sales. Eight of eleven sectors still finished May in the red. Inside: oil cracks on a 60-day Iran ceasefire, and Anthropic lines up a $900B raise.",
-            "content": "Dell ripped roughly 30% on $16.1B in quarterly AI server sales. Eight of eleven sectors still finished May in the red. Inside: oil cracks on a 60-day Iran ceasefire, and Anthropic lines up a $900B raise.\nMarkets just wrapped a strong and strange mont... [3924 chars]",
-            "url": "https://www.benzinga.com/Opinion/26/05/52891278/the-sp-hit-a-record-while-8-of-11-sectors-fell",
-            "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/29/Gav-Blaxberg.jpeg",
-            "publishedAt": "2026-05-29T21:40:15Z",
+            "id": "80beb38fe1aa10e9e7ca46b734fd4e86",
+            "title": "India & US Drive AI, Semicon Ties",
+            "description": "India and the US will be encouraging businesses from both countries dealing with artificial intelligence and semiconductors to collaborate more, officials said.",
+            "content": "Synopsis\nIndia and the US will be encouraging businesses from both countries dealing with artificial intelligence and semiconductors to collaborate more, officials said.\nIndia and the US will be encouraging businesses from both countries dealing with... [3193 chars]",
+            "url": "https://economictimes.indiatimes.com/sunet-front/india-us-drive-ai-semicon-ties/articleshow/131415580.cms",
+            "image": "https://img.etimg.com/thumb/msid-131417389,width-1200,height-630,imgsize-134266,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-05-30T21:32:00Z",
             "lang": "en",
             "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
             }
         },
         {
-            "id": "4635c6144055d2400bc99f00277076ce",
-            "title": "GOOGL vs AMZN: Which AI Stock Is the Better Buy, According to Analysts",
-            "description": "Tech giants Alphabet (GOOGL) and Amazon (AMZN) are both major AI winners, but they offer different kinds of AI exposure. Alphabet looks stronger...",
-            "content": "Tech giants Alphabet (GOOGL) and Amazon (AMZN) are both major AI winners, but they offer different kinds of AI exposure. Alphabet looks stronger in search, cloud growth, and self-funded AI investment, while Amazon looks stronger in AWS monetization, ... [2502 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/googl-vs-amzn-which-ai-stock-is-the-better-buy-according-to-analysts-1036209417",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-3181.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-05-29T21:40:00Z",
-            "lang": "en",
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "8d27e8068fd572cd2470e8893f8f43e1",
-            "title": "Could Microsoft kill the web browser at Build? Everything developers need to know about the NLWeb Protocol",
-            "description": "Making every website queryable by AI agents",
-            "content": "The web browser has been the default interface for accessing online information for decades, but AI search is starting to change that assumption. Tools like Microsoft Copilot already let users ask plain-language questions and receive direct answers, ... [7061 chars]",
-            "url": "https://www.techradar.com/pro/could-microsoft-kill-the-web-browser-at-build-everything-developers-need-to-know-about-the-nlweb-protocol",
-            "image": "https://cdn.mos.cms.futurecdn.net/tVyTVz5oGCDes5nsdQqpCo-1253-80.png",
-            "publishedAt": "2026-05-29T21:25:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "de540dc9caba93a60a56d4516b1b63ef",
-            "title": "The Interview: David Szalay on why AI won't be able to replace authors",
-            "description": "The Booker Prize winner sat down at the Sydney Writers' Festival to ponder the threat of AI to fiction, share some recommendations and consider whether his book was really about masculinity.",
-            "content": "David Szalay is being shepherded between press engagements at Sydney Writers' Festival.\nIn 2025 the Hungarian-British author won the Booker Prize for Flesh, which follows teenager István as he moves beyond his working class beginnings in Hungary and ... [10644 chars]",
-            "url": "https://www.abc.net.au/news/2026-05-30/interview-david-szalay-booker-flesh-sydney-writers-festival/106732488",
-            "image": "https://live-production.wcms.abc-cdn.net.au/1a9cca15ba95778c06284f658e656709?impolicy=wcms_watermark_news&cropH=1875&cropW=3333&xPos=0&yPos=1728&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-05-29T21:24:27Z",
-            "lang": "en",
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "bf466202b2f634eb0c1816e42db63371",
-            "title": "'There's A Lot More To Come' In AI Says Aliaga",
-            "description": "Stephanie Aliaga, JPMorgan Asset Management Global Market Strategist joined Bloomberg Businessweek Daily to discuss AI trends and how it is changing how we view the markets. She stated that we are...",
+            "id": "42665c746d61b22b893ce00e46102988",
+            "title": "Softbank pledges EUR75 billion to build AI facility in France - FT",
+            "description": "May 30 -\nSoftbank pledges EUR75bn to build Europe’s biggest AI facility in France - FT\n...",
             "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/there-s-a-lot-more-to-come-in-ai-says-aliaga-ce7f5ddbd08cf223",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3640499.png",
-            "publishedAt": "2026-05-29T21:09:58Z",
+            "url": "https://www.marketscreener.com/news/softbank-pledges-eur75-billion-to-build-ai-facility-in-france-ft-ce7f5dd8dd89f121",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-05-30T21:30:16Z",
             "lang": "en",
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -135,34 +87,82 @@
             }
         },
         {
-            "id": "0b3c3a09bf3c819c1f4f075c6ecba5fd",
-            "title": "Software stocks wrap best month since 2001 as talk of 'SaaSpocalypse'",
-            "description": "Snowflake and Okta both saw record stock pops this week as investors found favor in their AI software strategies.",
-            "content": "The \"SaaSpocalypse\" may not be over. But for now at least, fears of software's demise have cooled.\nSoftware stocks soared this week, driven by strong results from Snowflake and Okta , signaling that some companies are navigating their way through art... [2594 chars]",
-            "url": "https://www.cnbc.com/2026/05/29/software-stocks-wrap-best-month-since-2001-as-talk-of-saaspocalypse-.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108206044-1759265547154-Snowflake-CB-Photo-20250930-KK-PRESS-021.jpg?v=1759265883&w=1920&h=1080",
-            "publishedAt": "2026-05-29T21:03:37Z",
+            "id": "cfdd4e439f39175eebfd670ad9fe147b",
+            "title": "SoftBank to spend $87.5 bil on AI centers in France: Son",
+            "description": "Japanese tech investor SoftBank will spend 75 billion euros ($87.5 billion) on artificial intelligence infrastructure in France, its founder Masayoshi Son told a French newspaper in an interview released Saturday. \"This will be the largest investment in Europe in infrastructure related to artificial intelligence: 75 billion euros in total,\" Son…",
+            "content": "Japanese tech investor SoftBank will spend 75 billion euros ($87.5 billion) on artificial intelligence infrastructure in France, its founder Masayoshi Son told a French newspaper in an interview released Saturday.\n\"This will be the largest investment... [2533 chars]",
+            "url": "https://japantoday.com/category/tech/softbank-to-spend-87.5bn-on-ai-centres-in-france-son",
+            "image": "https://media.japantoday.com/img/store/f3/49/bd6004c483cb5fd1c58d100bd8c7b7858fc2/5999a3e80fdaa1e8f6e618f9fb120c63439b05ae/_w1700.jpeg",
+            "publishedAt": "2026-05-30T21:09:41Z",
             "lang": "en",
             "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
             }
         },
         {
-            "id": "ae9aa72301b332818cf3f34c1e3495d0",
-            "title": "How to Buy MemeToro Presale: AI Agent Memecoin Gaining Ground While Bitcoin Drops to $76K",
-            "description": "Discover how to buy MemeToro ($MT), the best crypto presale combining AI memecoin creation, prediction markets, staking rewards, and DeFi utilities during Bitcoin weakness.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nBitcoin slid into the 76,000 zone overnight, with $74,000 as the next major support and $83,000 sitting overhead as resistance. Whenever BTC looks shaky, retail money tends to drift toward smaller bets where a few hundre... [4675 chars]",
-            "url": "https://techbullion.com/how-to-buy-memetoro-presale-ai-agent-memecoin-gaining-ground-while-bitcoin-drops-to-76k/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/05/How-to-1000x600.png",
-            "publishedAt": "2026-05-29T21:02:58Z",
+            "id": "0fd004cb2b15a43dcc0e6cacfb5bf43a",
+            "title": "Why AI Search Is Changing How People Discover Personal Development Knowledge",
+            "description": "The next stage of personal development content will not be won by adding more noise to the system. Why AI Search Is Changing How People Discover Personal Development Knowledge",
+            "content": "Share\nShare\nShare\nShare\nEmail\nFor years, online discovery followed a familiar pattern. A person had a question, typed it into a search engine, opened several results and slowly built their own understanding from different pages, videos, forums, artic... [20597 chars]",
+            "url": "https://techbullion.com/why-ai-search-is-changing-how-people-discover-personal-development-knowledge/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/05/Picture1-38-1000x600.png",
+            "publishedAt": "2026-05-30T21:03:34Z",
             "lang": "en",
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
                 "name": "TechBullion",
                 "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "b752281fb3866bc57a80d4834095b6d6",
+            "title": "SoftBank plans up to €75 billion investment in French AI centers",
+            "description": "SoftBank’s initial investment plans to deliver data centers in Dunkirk, Bosquel and Bouchain.",
+            "content": "The first phase comprises an initial €45 billion investment to deliver 3.1 gigawatts of AI data center capacity in the Hauts-de-France region by 2031, SoftBank said Saturday in a statement.\nThe commitment, which SoftBank called its biggest AI infrast... [3073 chars]",
+            "url": "https://fortune.com/2026/05/30/softbank-75-billion-investment-french-ai-data-centers-masayoshi-son-emmanuel-macron/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2197366150-e1780174500603.jpg?resize=1200,600",
+            "publishedAt": "2026-05-30T21:02:10Z",
+            "lang": "en",
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "9751eafb991146f126adb26252faa137",
+            "title": "Researchers Put Grok AI In Charge Of A World Simulation And It Ended With '183 Crimes Committed' And Humanity's Total 'Extinction'",
+            "description": "According to the experiment's data, Grok just loves committing arson and \"inspiring voter fraud\"",
+            "content": "If, for some reason, you’ve ever wondered what would happen if you put Grok in charge of sustaining a population’s wellbeing, then luckily you now have your answer; chaos, murder, arson and total extinction of all living beings within the space of fo... [1420 chars]",
+            "url": "https://kotaku.com/researchers-put-grok-ai-in-charge-of-a-world-simulation-and-it-ended-with-183-crimes-committed-and-humanitys-total-extinction-2000700821",
+            "image": "https://kotaku.com/app/uploads/2026/05/Emergence-World-image-from-Grok-playthrough.jpg",
+            "publishedAt": "2026-05-30T21:00:42Z",
+            "lang": "en",
+            "source": {
+                "id": "0aab1d72ae666208d1824f73c0ea4209",
+                "name": "Kotaku",
+                "url": "https://kotaku.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "0f3103d1ed80a5c131208dc0b9329991",
+            "title": "AI repurposes routine chest X-rays to catch silent bone loss before fracture",
+            "description": "Osteoporosis is a silent disease where bone loss develops gradually before fractures occur. Current clinical screening recommendations mainly focus on older women and selected high-risk groups, leaving some men, younger adults, and individuals with normal body weight completely outside routine screening pathways.",
+            "content": "Osteoporosis is a silent disease where bone loss develops gradually before fractures occur. Current clinical screening recommendations mainly focus on older women and selected high-risk groups, leaving some men, younger adults, and individuals with n... [2053 chars]",
+            "url": "https://medicalxpress.com/news/2026-05-ai-repurposes-routine-chest-rays.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/2026/ai-repurposes-routine.jpg",
+            "publishedAt": "2026-05-30T21:00:02Z",
+            "lang": "en",
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
                 "country": "gb"
             }
         }
