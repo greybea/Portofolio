@@ -4,144 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 350046,
+    "totalArticles": 351296,
     "articles": [
         {
-            "id": "5077773d20fcf0a66c2f947dde34cca9",
-            "title": "Trump Shares AI-Generated Image of Himself on Mount Rushmore, Reviving 'Dream' to Join Iconic US Presidents",
-            "description": "The Mount Rushmore National Memorial stands as a monumental effigy chiselled directly into the granite topography of the Black Hills in Keystone, South Dakota.",
-            "content": "Washington: In a striking digital assertion of his legacy, US President Donald Trump has circulated a digitally fabricated rendering portraying his own likeness alongside the historic American leaders immortalised on Mount Rushmore.\nThe image, dissem... [2311 chars]",
-            "url": "https://www.republicworld.com/world-news/trump-shares-ai-generated-image-of-himself-on-mount-rushmore-reviving-dream-to-join-iconic-us-presidents-2026-06-01-126424",
-            "image": "https://img.republicworld.com/all_images/2026/06/x-1780276902827-1280x720.webp",
-            "publishedAt": "2026-06-01T01:21:47Z",
+            "id": "64acccafc69a004aa580cac7402ac912",
+            "title": "Nutanix Unified Storage Achieves NVIDIA Certification as Enterprises Race to Build AI Factories",
+            "description": "Nutanix Unified Storage validated at enterprise level to support NVIDIA-powered AI infrastructure for production workloads",
+            "content": "Nutanix Unified Storage validated at enterprise level to support NVIDIA-powered AI infrastructure for production workloads\nNutanix advances AI-native storage with planned NVIDIA BlueField-4 STX support\nNutanix (NASDAQ: NTNX), a leader in hybrid multi... [4018 chars]",
+            "url": "https://itwire.com/business-it-news/storage/nutanix-unified-storage-achieves-nvidia-certification-as-enterprises-race-to-build-ai-factories",
+            "image": "https://media.itwire.com/2026/06/01/nutanix-unified-storage-achieves-nvidia-certification-as-enterprises-race-to-build-ai-factories-1d6212d39271.jpg",
+            "publishedAt": "2026-06-01T23:49:03Z",
             "lang": "en",
             "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "5c770ebe44bee1bef453e8f3ee780e1d",
-            "title": "Trump revives his long-held 'dream' to become Mount Rushmore’s fifth face",
-            "description": "The US President shared an AI-generated image placing himself among America’s most celebrated leaders as supporters continue lobbying for his addition to the iconic monument",
-            "content": "US President Donald Trump has rekindled a long-standing debate by sharing an AI-generated image portraying his own likeness alongside the historic American leaders immortalised on Mount Rushmore.\nThe image, disseminated via his Truth Social platform ... [2683 chars]",
-            "url": "https://www.firstpost.com/world/trump-revives-his-long-held-dream-to-become-mount-rushmores-fifth-face-14017333.html",
-            "image": "https://images.firstpost.com/uploads/2026/06/The-battle-for-Kyiv-2026-06-01T064816.897-2026-06-d9b7034907b19c74b002ce764291489f-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2026-06-01T01:21:24Z",
-            "lang": "en",
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "242a79af354afecf9a8139473938ea91",
-            "title": "Analysts Have Conflicting Sentiments on These Healthcare Companies: Krystal Biotech (KRYS), AbbVie (ABBV) and Tempus AI, Inc. Class A (TEM)",
-            "description": "Companies in the Healthcare sector have received a lot of coverage today as analysts weigh in on Krystal Biotech (KRYS), AbbVie (ABBV) and Tem...",
-            "content": "Companies in the Healthcare sector have received a lot of coverage today as analysts weigh in on Krystal Biotech (KRYS), AbbVie (ABBV) and Tempus AI, Inc. Class A (TEM).\nClaim 55% Off TipRanks\nUnlock trusted, data-backed investing tools with TipRanks... [2547 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/analysts-have-conflicting-sentiments-on-these-healthcare-companies-krystal-biotech-krys-abbvie-abbv-and-tempus-ai-inc-class-a-tem-1036211996",
-            "image": "https://markets.businessinsider.com/favicon-32x32.png",
-            "publishedAt": "2026-06-01T01:20:07Z",
-            "lang": "en",
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "f1c08bc4dc4c34c166198f44ede200f7",
-            "title": "Fishing out fake news using a deep-learning neural network",
-            "description": "Researchers developed F2IND-IT!, an AI system combining text and image analysis to accurately detect fake news in India.",
-            "content": "Researchers at the ABV-Indian Institute of Information Technology (IIIT), Gwalior, have developed a new artificial intelligence system that combines text analysis, image recognition and fuzzy logic to detect fake news in Indian media with high accura... [2162 chars]",
-            "url": "https://www.thehindubusinessline.com/business-tech/fishing-out-fake-news-using-a-deep-learning-neural-network/article71045927.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/bqa7t1/article71045930.ece/alternates/LANDSCAPE_1200/iStock-1285518463.jpg",
-            "publishedAt": "2026-06-01T01:20:00Z",
-            "lang": "en",
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "cc8c9616399910e0b519ea7e252938bb",
-            "title": "Asia stocks count on AI boom to offset Gulf risks",
-            "description": "Asian share markets remain underpinned by demand for semiconductors and AI-related gear, with Japan's Nikkei up a further 0.5%, having risen almost 5% last week to all-time highs.",
-            "content": "Asian share markets firmed on Monday as the boom in all things AI continued to drive demand, offsetting a lack of progress in Gulf peace talks that challenged optimism on a re-opening of the Strait of Hormuz and lifted oil prices.\nWhile negotiators f... [3147 chars]",
-            "url": "https://www.moneycontrol.com/news/business/markets/asia-stocks-count-on-ai-boom-to-offset-gulf-risks-13936946.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2025/11/20251111004533_Asia.jpg",
-            "publishedAt": "2026-06-01T01:13:27Z",
-            "lang": "en",
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "8df81f17aeb24ce38f377771a27fc813",
-            "title": "The hedge fund veteran trying to make his past self obsolete with AI",
-            "description": "Former short seller Joe O’Donnell makes software for analysts that can perform tasks in hours that used to take him weeks.",
-            "content": "Now, he is trying to make much of what he did in his past job obsolete.\nO’Donnell’s startup, Canary Data, makes artificial-intelligence software for professional analysts and investors that can perform tasks in hours that used to take him days or wee... [2995 chars]",
-            "url": "https://www.livemint.com/ai/the-hedge-fund-veteran-trying-to-make-his-past-self-obsolete-with-ai-11780276261769.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/06/01/1600x900/logo/im-37063402_1780276268215_1780276320953_382c618e-ea4f-4793-92f6-b39df1be24cb.jpg",
-            "publishedAt": "2026-06-01T01:13:25Z",
-            "lang": "en",
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "572cfcb6e1ecea976dfdf064d96d2926",
-            "title": "APAC brands lead on AI ambition, but execution can’t keep up with hype",
-            "description": "Asia Pacific consumers are warming to agentic AI faster than brands may be ready for, but a widening trust and execution gap is threatening to slow down adoption at scale.",
-            "content": "Asia Pacific consumers are warming to agentic AI faster than brands may be ready for, but a widening trust and execution gap is threatening to slow down adoption at scale.\nNew Adobe research shows that while 42% of consumers in Asia Pacific are willi... [4876 chars]",
-            "url": "https://www.marketing-interactive.com/apac-brands-lead-on-ai-ambition-but-execution-cant-keep-up-with-hype",
-            "image": "https://marketing-interactive-assets.b-cdn.net/article_images/apac-brands-lead-on-ai-ambition-but-execution-cant-keep-up-with-hype/1779681118_adobe%20study%20%281%29.jpg",
-            "publishedAt": "2026-06-01T01:07:07Z",
-            "lang": "en",
-            "source": {
-                "id": "d894d2a2b7c9ae7ff7505a197738f18c",
-                "name": "Marketing Interactive",
-                "url": "https://www.marketing-interactive.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "98573afb1a1664fc5acbfa763ab2f986",
-            "title": "Asia stocks count on AI boom to offset Gulf risks",
-            "description": "Asian share markets remain underpinned by demand for AI-related gear, with Japan's Nikkei up a further 0.5 per cent after reaching all-time highs last week.",
-            "content": "Asian share markets have firmed as the boom in all things AI continues to drive demand, offsetting a lack of progress in Gulf peace talks that challenged optimism on a re-opening of the Strait of Hormuz and lifted oil prices.\nWhile negotiators from W... [3320 chars]",
-            "url": "https://www.perthnow.com.au/news/business/markets/asia-stocks-count-on-ai-boom-to-offset-gulf-risks-c-22364553",
-            "image": "https://images.perthnow.com.au/publication/C-22364553/a4b890747c1217d2c2f7901966907fc97f3b6d34-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-06-01T01:06:55Z",
-            "lang": "en",
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
                 "country": "au"
             }
         },
         {
-            "id": "ec6528b48d0f9be045379da0fb0acaeb",
-            "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
-            "description": "The U.S. Department of Commerce on Sunday moved to close a potential loophole that may have led companies to export the world's most advanced chips - like Nvidia's most sophisticated Blackwell processors - to subsidiaries of Chinese companies located outside China.",
-            "content": "The U.S. Department of Commerce on Sunday moved to close a potential loophole that may have led companies to export the world's most advanced chips - like Nvidia's most sophisticated Blackwell processors - to subsidiaries of Chinese companies located... [2769 chars]",
-            "url": "https://www.thestar.com.my/business/business-news/2026/06/01/us-takes-step-to-halt-nvidia-ai-chip-shipments-to-chinese-firms-outside-china",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/01/3936644.jpg",
-            "publishedAt": "2026-06-01T01:05:00Z",
+            "id": "60ac34a5471e7b949895f38ebd2a659f",
+            "title": "Wall St ends higher, boosted by tech gains, US-Iran peace hopes",
+            "description": "NEW YORK: Wall Street stocks posted modest gains on Monday as investors watched developments in U.S.-Iran peace negotiations and cheered the unveiling of a new computer chip that promises to bring artificial intelligence to personal computing.",
+            "content": "NEW YORK: Wall Street stocks posted modest gains on Monday as investors watched developments in U.S.-Iran peace negotiations and cheered the unveiling of a new computer chip that promises to bring artificial intelligence to personal computing.\nTech s... [3537 chars]",
+            "url": "https://www.thestar.com.my/business/business-news/2026/06/02/wall-st-ends-higher-boosted-by-tech-gains-us-iran-peace-hopes",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/02/3938444.JPG",
+            "publishedAt": "2026-06-01T23:48:00Z",
             "lang": "en",
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -151,19 +39,131 @@
             }
         },
         {
-            "id": "03696f698312d011351787c6f14cb488",
-            "title": "Asia stocks count on AI boom to offset Gulf risks",
-            "description": "Asian share markets remain underpinned by demand for AI-related gear, with Japan's Nikkei up a further 0.5 per...",
-            "content": "Japan's Nikkei went up a further 0.5 per cent in morning trade. Photo: EPA PHOTO\nAsian share markets have firmed as the boom in all things ‌AI continues to drive demand, offsetting a lack of progress in Gulf peace talks that challenged optimism on a ... [5441 chars]",
-            "url": "https://www.canberratimes.com.au/story/9269298/asia-stocks-count-on-ai-boom-to-offset-gulf-risks/",
-            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/e57cb60d-8aea-4f12-895a-d20f6b43bcfc.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-06-01T01:05:00Z",
+            "id": "b773c50c36ccf4763be45e2770e15147",
+            "title": "What are AI PCs and what can they do that your computer can’t?",
+            "description": "Read more at straitstimes.com.",
+            "content": "Bengaluru - Nvidia has turned the spotlight on AI PCs after its chief executive Jensen Huang launched a new chip that would put artificial intelligence capabilities directly into laptops and desktop computers, amid mixed demand for such devices alrea... [3400 chars]",
+            "url": "https://www.straitstimes.com/business/companies-markets/what-are-ai-pcs-and-what-can-they-do-that-your-computer-cant",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/124bcf6f7ec5e97d8ef1ee190c03ebdcd921c3765d7e12943d297b26bd9e32b9",
+            "publishedAt": "2026-06-01T23:45:00Z",
             "lang": "en",
             "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "7ac46d320ea98980276451c59715a6e7",
+            "title": "AI Gandhi says he was against Partition, no comment on assassin",
+            "description": "The AI-powered, life-size 3D avatar of Mahatma Gandhi — now live at the Pradhanmantri Sangrahalaya in the capital — is fielding questions from visitors and answering in Gandhi’s own voice, based on his documented speeches, writings and recorded views. | India News",
+            "content": "The museum launched the AI-powered interactive HoloBox installation on May 21, enabling visitors to engage in life-like interactive conversations with what officials described as a “hyper-realistic” 3D avatar of the Father of the Nation. The life-siz... [3140 chars]",
+            "url": "https://www.hindustantimes.com/india-news/ai-gandhi-says-he-was-against-partition-no-comment-on-assassin-101780340431373.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/06/01/550x309/The-life-size-digital-avatar--installed-in-the-Anu_1780340423318.jpg",
+            "publishedAt": "2026-06-01T23:44:11Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "6d0edf6f97a0884af633bb4421d0b43b",
+            "title": "Nvidia courts South Korea’s tech giants at Taipei dinner as AI push deepens",
+            "description": "The dinner was the first time Jensen Huang hosted South Korean partners while in Taipei. Read more at straitstimes.com.",
+            "content": "TAIPEI – Nvidia CEO Jensen Huang hosted top South Korean tech executives including the boss of chipmaker SK Hynix at a boisterous dinner on June 1 , as he looks to deepen ties with key partners ahead of what he called an “incredibly busy” stretch for... [1962 chars]",
+            "url": "https://www.straitstimes.com/asia/east-asia/nvidia-courts-south-koreas-tech-giants-at-taipei-dinner-as-ai-push-deepens",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6c80cfe5b56af471ea4893c423fc0a9de4ad2246118aba7b74eeedf02dcf070a",
+            "publishedAt": "2026-06-01T23:41:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "7ffdb65ca429cec45149678393bb9f7d",
+            "title": "Instant View: Anthropic IPO filing ratifies Wall Street's AI obsession",
+            "description": "NEW YORK, June 1 (Reuters) - AI giant Anthropic said on Monday ⁠it has confidentially filed for a U.S. initial public offering, teeing up a watershed moment for Wall Street's AI frenzy.",
+            "content": "NEW YORK, June 1 (Reuters) - AI giant Anthropic said on Monday ⁠it has confidentially filed for a U.S. initial public offering, teeing up a watershed moment for Wall Street's AI frenzy.\nTech stocks continue to lead the Nasdaq ⁠Composite and S&P 500 i... [3928 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/02/instant-view-anthropic-ipo-filing-ratifies-wall-street039s-ai-obsession",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/02/3938441.jpg",
+            "publishedAt": "2026-06-01T23:41:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "d3b77b6bd8358a1efeb640dca2f56698",
+            "title": "Cognizant CEO is swimming against the tide on AI: he's hiring over 20,000 graduates this year and says AI tokenmaxxing is a 'vanity metric'",
+            "description": "Ravi Kumar S., CEO of $27 billion IT firm Cognizant, says AI won’t kill entry-level jobs—and companies obsessed with tokens are measuring the wrong thing.",
+            "content": "And according to Cognizant CEO Ravi Kumar S., who oversees a workforce of more than 350,000 employees, the outcry wasn’t just a prediction gone wrong—it was fearmongering.\n“There was a little bit of fearmongering from reading about the fact that ther... [2930 chars]",
+            "url": "https://fortune.com/2026/06/01/cognizant-ceo-ravi-kumar-s-hiring-entry-level-tokenmaxxing-vanity-metric/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/55308756419_791a09809b_o-e1780356497443.jpg?resize=1200,600",
+            "publishedAt": "2026-06-01T23:40:01Z",
+            "lang": "en",
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "30f11e6cb7f1161c027132bf92ac2852",
+            "title": "HPE lifts forecast past 2028 goals on robust AI demand, shares surge 36%",
+            "description": "June 1 (Reuters) - Hewlett Packard ⁠Enterprise posted record second-quarter results on Monday, prompting it to accelerate its long-term financial goals by ⁠two years, as expansion of AI data centers boosts demand, sending its shares up 36% ‌in extended trading.",
+            "content": "June 1 (Reuters) - Hewlett Packard ⁠Enterprise posted record second-quarter results on Monday, prompting it to accelerate its long-term financial goals by ⁠two years, as expansion of AI data centers boosts demand, sending its shares up 36% ‌in extend... [2450 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/02/hpe-expects-to-achieve-2028-financial-targets-this-year-after-record-quarter-on-ai-boom",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/02/3938440.jpg",
+            "publishedAt": "2026-06-01T23:40:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "539d1f60ca1810cce7ae5cd2f292a689",
+            "title": "Missed AlphaPepe? How to Buy MemeToro Presale for Maximum 2026 Upside",
+            "description": "Missed early AI memecoin gains? Discover how to buy MemeToro ($MT), the fast-growing AI crypto presale many investors see as 2026’s next breakout project.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nMany investors regret missing early entries into major AI memecoin projects that exploded during the first half of 2026. As AI narratives continue dominating crypto discussions, traders are actively searching for the nex... [4385 chars]",
+            "url": "https://techbullion.com/missed-alphapepe-how-to-buy-memetoro-presale-for-maximum-2026-upside/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/06/Missed-1000x600.png",
+            "publishedAt": "2026-06-01T23:39:47Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "e94a47d4f6c3f2d8eae96a3403dec685",
+            "title": "The automation illusion: Why AI is making COOs' jobs harder, not easier",
+            "description": "The executives responsible for keeping the world's biggest companies running thought AI would simplify their jobs. They were wrong.",
+            "content": "What they described instead, during a lunch roundtable hosted by Thomson Reuters, was something closer to organized chaos.\n“The biggest challenge I could see is speed without clarity,” said Venkatesh Alagirisamy, EVP and COO of Nike. “I see a lot of ... [5942 chars]",
+            "url": "https://fortune.com/2026/06/01/automation-illusion-nike-sysco-box-coos-say-adoption-hard/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/55308646885_c1ef2e3906_o-e1780356458164.jpg?resize=1200,600",
+            "publishedAt": "2026-06-01T23:37:02Z",
+            "lang": "en",
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
             }
         }
     ]
