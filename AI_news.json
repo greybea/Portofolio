@@ -4,16 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 351296,
+    "totalArticles": 352876,
     "articles": [
         {
-            "id": "64acccafc69a004aa580cac7402ac912",
-            "title": "Nutanix Unified Storage Achieves NVIDIA Certification as Enterprises Race to Build AI Factories",
-            "description": "Nutanix Unified Storage validated at enterprise level to support NVIDIA-powered AI infrastructure for production workloads",
-            "content": "Nutanix Unified Storage validated at enterprise level to support NVIDIA-powered AI infrastructure for production workloads\nNutanix advances AI-native storage with planned NVIDIA BlueField-4 STX support\nNutanix (NASDAQ: NTNX), a leader in hybrid multi... [4018 chars]",
-            "url": "https://itwire.com/business-it-news/storage/nutanix-unified-storage-achieves-nvidia-certification-as-enterprises-race-to-build-ai-factories",
-            "image": "https://media.itwire.com/2026/06/01/nutanix-unified-storage-achieves-nvidia-certification-as-enterprises-race-to-build-ai-factories-1d6212d39271.jpg",
-            "publishedAt": "2026-06-01T23:49:03Z",
+            "id": "6bc62a06ee60721b27a9f83e33050687",
+            "title": "Rapid7 Appoints Wael Mohamed Chief Executive Officer; Corey Thomas to Become Executive Chairman",
+            "description": "Mohamed brings proven track record of operational and cybersecurity leadership experience; Thomas to focus on technology vision, AI strategy, and policy initiatives; Reaffirms...",
+            "content": "Mohamed brings proven track record of operational and cybersecurity leadership experience; Thomas to focus on technology vision, AI strategy, and policy initiatives; Reaffirms guidance\nRapid7, a global leader in AI-powered managed cybersecurity opera... [2854 chars]",
+            "url": "https://itwire.com/it-people-news/people-moves/rapid7-appoints-wael-mohamed-chief-executive-officer-corey-thomas-to-become-executive-chairman",
+            "image": "https://media.itwire.com/2026/06/03/rapid7-appoints-wael-mohamed-chief-executive-officer-corey-thomas-to-become-executive-chairman-4699d1aa64f2.jpg",
+            "publishedAt": "2026-06-03T00:22:25Z",
             "lang": "en",
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -23,109 +23,77 @@
             }
         },
         {
-            "id": "60ac34a5471e7b949895f38ebd2a659f",
-            "title": "Wall St ends higher, boosted by tech gains, US-Iran peace hopes",
-            "description": "NEW YORK: Wall Street stocks posted modest gains on Monday as investors watched developments in U.S.-Iran peace negotiations and cheered the unveiling of a new computer chip that promises to bring artificial intelligence to personal computing.",
-            "content": "NEW YORK: Wall Street stocks posted modest gains on Monday as investors watched developments in U.S.-Iran peace negotiations and cheered the unveiling of a new computer chip that promises to bring artificial intelligence to personal computing.\nTech s... [3537 chars]",
-            "url": "https://www.thestar.com.my/business/business-news/2026/06/02/wall-st-ends-higher-boosted-by-tech-gains-us-iran-peace-hopes",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/02/3938444.JPG",
-            "publishedAt": "2026-06-01T23:48:00Z",
+            "id": "4a543e6f041056391c44cbe91a798f2d",
+            "title": "How Sigenergy's SigenAgent brings AI energy management to storage, dynamic tariffs and virtual power plant participation",
+            "description": "The new full-domain energy agent moves solar-storage systems from manual mode selection to intent-based control, allowing users to describe their goals in plain language while...",
+            "content": "COMPANY NEWS: The new full-domain energy agent moves solar-storage systems from manual mode selection to intent-based control, allowing users to describe their goals in plain language while the system recommends the right operating mode.\nAs solar, ba... [6304 chars]",
+            "url": "https://itwire.com/guest-articles/company-news/how-sigenergys-sigenagent-brings-ai-energy-management-to-storage-dynamic-tariffs-and-virtual-power-plant-participation",
+            "image": "https://media.itwire.com/2026/06/03/how-sigenergys-sigenagent-brings-ai-energy-management-to-storage-dynamic-tariffs-and-virtual-power-plant-participation-d9bf3f862c00.webp",
+            "publishedAt": "2026-06-03T00:21:55Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
             }
         },
         {
-            "id": "b773c50c36ccf4763be45e2770e15147",
-            "title": "What are AI PCs and what can they do that your computer can’t?",
-            "description": "Read more at straitstimes.com.",
-            "content": "Bengaluru - Nvidia has turned the spotlight on AI PCs after its chief executive Jensen Huang launched a new chip that would put artificial intelligence capabilities directly into laptops and desktop computers, amid mixed demand for such devices alrea... [3400 chars]",
-            "url": "https://www.straitstimes.com/business/companies-markets/what-are-ai-pcs-and-what-can-they-do-that-your-computer-cant",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/124bcf6f7ec5e97d8ef1ee190c03ebdcd921c3765d7e12943d297b26bd9e32b9",
-            "publishedAt": "2026-06-01T23:45:00Z",
+            "id": "34ece8c858e572b2eff00be1bef7175c",
+            "title": "‘We need an AI that places humanity first’: Microsoft AI CEO outlines hopes to build “humanist superintelligence” - and has seven new models to help him do it",
+            "description": "Microsoft unveils seven new AI models to keep developers building",
+            "content": "Microsoft reveals seven new AI models\nMicrosoft’s AI head has unveiled a host of new AI models from the company as it looks to encourage developers to keep pushing the boundaries of the technology.\nMustafa Suelyman, CEO of Microsoft AI, took to the s... [2684 chars]",
+            "url": "https://www.techradar.com/pro/we-need-an-ai-that-places-humanity-first-microsoft-ai-ceo-outlines-hopes-to-build-humanist-superintelligence-and-has-seven-new-models-to-help-him-do-it",
+            "image": "https://cdn.mos.cms.futurecdn.net/Exfn6GGMosu9RsGyuqaiDU-2560-80.jpg",
+            "publishedAt": "2026-06-03T00:20:00Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
             }
         },
         {
-            "id": "7ac46d320ea98980276451c59715a6e7",
-            "title": "AI Gandhi says he was against Partition, no comment on assassin",
-            "description": "The AI-powered, life-size 3D avatar of Mahatma Gandhi — now live at the Pradhanmantri Sangrahalaya in the capital — is fielding questions from visitors and answering in Gandhi’s own voice, based on his documented speeches, writings and recorded views. | India News",
-            "content": "The museum launched the AI-powered interactive HoloBox installation on May 21, enabling visitors to engage in life-like interactive conversations with what officials described as a “hyper-realistic” 3D avatar of the Father of the Nation. The life-siz... [3140 chars]",
-            "url": "https://www.hindustantimes.com/india-news/ai-gandhi-says-he-was-against-partition-no-comment-on-assassin-101780340431373.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/06/01/550x309/The-life-size-digital-avatar--installed-in-the-Anu_1780340423318.jpg",
-            "publishedAt": "2026-06-01T23:44:11Z",
+            "id": "f0e30ef5c4ca2b522c2c0e749dc344a4",
+            "title": "MediaTek Ramps Up Hiring for AI Expansion",
+            "description": "Taiwanese chipmaker MediaTek is increasing its workforce, joining other tech firms in easing fears over AI-driven job losses, Bloomberg News reported Wednesday, citing senior vice president Vince...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/mediatek-ramps-up-hiring-for-ai-expansion-ce7f5dded08ef223",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-06-03T00:19:17Z",
             "lang": "en",
             "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         },
         {
-            "id": "6d0edf6f97a0884af633bb4421d0b43b",
-            "title": "Nvidia courts South Korea’s tech giants at Taipei dinner as AI push deepens",
-            "description": "The dinner was the first time Jensen Huang hosted South Korean partners while in Taipei. Read more at straitstimes.com.",
-            "content": "TAIPEI – Nvidia CEO Jensen Huang hosted top South Korean tech executives including the boss of chipmaker SK Hynix at a boisterous dinner on June 1 , as he looks to deepen ties with key partners ahead of what he called an “incredibly busy” stretch for... [1962 chars]",
-            "url": "https://www.straitstimes.com/asia/east-asia/nvidia-courts-south-koreas-tech-giants-at-taipei-dinner-as-ai-push-deepens",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6c80cfe5b56af471ea4893c423fc0a9de4ad2246118aba7b74eeedf02dcf070a",
-            "publishedAt": "2026-06-01T23:41:00Z",
+            "id": "ecf795a0867b0815ee0419ce428d3fd7",
+            "title": "back version of AI executive order",
+            "description": "Trump signs scaled-back version of AI executive order - SiliconANGLE",
+            "content": "President Donald Trump today signed an executive order designed to broaden the use of artificial intelligence in federal cybersecurity initiatives.\nTrump reportedly planned to hold the signing ceremony last month, but called off the event at the last... [2562 chars]",
+            "url": "https://siliconangle.com/2026/06/02/trump-signs-scaled-back-version-ai-executive-order/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/AA1MYsde.jpeg",
+            "publishedAt": "2026-06-03T00:14:51Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "7ffdb65ca429cec45149678393bb9f7d",
-            "title": "Instant View: Anthropic IPO filing ratifies Wall Street's AI obsession",
-            "description": "NEW YORK, June 1 (Reuters) - AI giant Anthropic said on Monday ⁠it has confidentially filed for a U.S. initial public offering, teeing up a watershed moment for Wall Street's AI frenzy.",
-            "content": "NEW YORK, June 1 (Reuters) - AI giant Anthropic said on Monday ⁠it has confidentially filed for a U.S. initial public offering, teeing up a watershed moment for Wall Street's AI frenzy.\nTech stocks continue to lead the Nasdaq ⁠Composite and S&P 500 i... [3928 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/02/instant-view-anthropic-ipo-filing-ratifies-wall-street039s-ai-obsession",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/02/3938441.jpg",
-            "publishedAt": "2026-06-01T23:41:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "d3b77b6bd8358a1efeb640dca2f56698",
-            "title": "Cognizant CEO is swimming against the tide on AI: he's hiring over 20,000 graduates this year and says AI tokenmaxxing is a 'vanity metric'",
-            "description": "Ravi Kumar S., CEO of $27 billion IT firm Cognizant, says AI won’t kill entry-level jobs—and companies obsessed with tokens are measuring the wrong thing.",
-            "content": "And according to Cognizant CEO Ravi Kumar S., who oversees a workforce of more than 350,000 employees, the outcry wasn’t just a prediction gone wrong—it was fearmongering.\n“There was a little bit of fearmongering from reading about the fact that ther... [2930 chars]",
-            "url": "https://fortune.com/2026/06/01/cognizant-ceo-ravi-kumar-s-hiring-entry-level-tokenmaxxing-vanity-metric/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/55308756419_791a09809b_o-e1780356497443.jpg?resize=1200,600",
-            "publishedAt": "2026-06-01T23:40:01Z",
-            "lang": "en",
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
                 "country": "us"
             }
         },
         {
-            "id": "30f11e6cb7f1161c027132bf92ac2852",
-            "title": "HPE lifts forecast past 2028 goals on robust AI demand, shares surge 36%",
-            "description": "June 1 (Reuters) - Hewlett Packard ⁠Enterprise posted record second-quarter results on Monday, prompting it to accelerate its long-term financial goals by ⁠two years, as expansion of AI data centers boosts demand, sending its shares up 36% ‌in extended trading.",
-            "content": "June 1 (Reuters) - Hewlett Packard ⁠Enterprise posted record second-quarter results on Monday, prompting it to accelerate its long-term financial goals by ⁠two years, as expansion of AI data centers boosts demand, sending its shares up 36% ‌in extend... [2450 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/02/hpe-expects-to-achieve-2028-financial-targets-this-year-after-record-quarter-on-ai-boom",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/02/3938440.jpg",
-            "publishedAt": "2026-06-01T23:40:00Z",
+            "id": "73bf82b3d0b2b1e1bf1aa983cfe93c15",
+            "title": "Palo Alto raises annual forecasts on strong AI cybersecurity demand, shares surge",
+            "description": "June 2 (Reuters) - Palo ⁠Alto Networks raised its annual ⁠revenue and profit forecast on Tuesday, as ‌enterprises increased spending on cloud, identity and AI-driven cybersecurity products amid a rising threat landscape, sending ​shares up 7.4% in ⁠extended trading.",
+            "content": "June 2 (Reuters) - Palo ⁠Alto Networks raised its annual ⁠revenue and profit forecast on Tuesday, as ‌enterprises increased spending on cloud, identity and AI-driven cybersecurity products amid a rising threat landscape, sending ​shares up 7.4% in ⁠e... [892 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/03/palo-alto-raises-annual-forecasts-on-strong-ai-cybersecurity-demand-shares-surge",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/03/3940091.jpg",
+            "publishedAt": "2026-06-03T00:13:00Z",
             "lang": "en",
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -135,34 +103,66 @@
             }
         },
         {
-            "id": "539d1f60ca1810cce7ae5cd2f292a689",
-            "title": "Missed AlphaPepe? How to Buy MemeToro Presale for Maximum 2026 Upside",
-            "description": "Missed early AI memecoin gains? Discover how to buy MemeToro ($MT), the fast-growing AI crypto presale many investors see as 2026’s next breakout project.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nMany investors regret missing early entries into major AI memecoin projects that exploded during the first half of 2026. As AI narratives continue dominating crypto discussions, traders are actively searching for the nex... [4385 chars]",
-            "url": "https://techbullion.com/missed-alphapepe-how-to-buy-memetoro-presale-for-maximum-2026-upside/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/06/Missed-1000x600.png",
-            "publishedAt": "2026-06-01T23:39:47Z",
+            "id": "0b187c5960fc74841281994d983aaec4",
+            "title": "South Korea rides AI wave, also overtakes India on m-cap chart",
+            "description": "South Korea has surpassed India to become the world's sixth-largest equity market. This shift is attributed to strong performance from South Korean semiconductor companies. These firms are benefiting from booming demand within the artificial intelligence sector. India's market has seen a decline, partly due to foreign investor selling amid geopolitical concerns. South Korean tech giants are leading the rally.",
+            "content": "Synopsis\nSouth Korea has surpassed India to become the world's sixth-largest equity market. This shift is attributed to strong performance from South Korean semiconductor companies. These firms are benefiting from booming demand within the artificial... [418 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korea-rides-ai-wave-also-overtakes-india-on-m-cap-chart/articleshow/131473573.cms",
+            "image": "https://img.etimg.com/thumb/msid-131473574,width-1200,height-630,imgsize-122632,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-06-03T00:11:00Z",
             "lang": "en",
             "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
             }
         },
         {
-            "id": "e94a47d4f6c3f2d8eae96a3403dec685",
-            "title": "The automation illusion: Why AI is making COOs' jobs harder, not easier",
-            "description": "The executives responsible for keeping the world's biggest companies running thought AI would simplify their jobs. They were wrong.",
-            "content": "What they described instead, during a lunch roundtable hosted by Thomson Reuters, was something closer to organized chaos.\n“The biggest challenge I could see is speed without clarity,” said Venkatesh Alagirisamy, EVP and COO of Nike. “I see a lot of ... [5942 chars]",
-            "url": "https://fortune.com/2026/06/01/automation-illusion-nike-sysco-box-coos-say-adoption-hard/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/55308646885_c1ef2e3906_o-e1780356458164.jpg?resize=1200,600",
-            "publishedAt": "2026-06-01T23:37:02Z",
+            "id": "fa247ff885e15ec61764797ae21b194e",
+            "title": "SK Hynix Eyes Doubling Memory Chip Output Over Five Years",
+            "description": "SK Hynix aims to double the output of key AI memory chips over the next five years, projecting a global supply shortage that could last until 2030, Bloomberg News reported on Wednesday, citing...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/sk-hynix-eyes-doubling-memory-chip-output-over-five-years-ce7f5dded08ef525",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-06-03T00:05:16Z",
             "lang": "en",
             "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "03ee48dcf0dfd9319d1b04a854feaff7",
+            "title": "Canadian government gains advance access to Mythos AI: Evan Solomon",
+            "description": "Innovation minister Evan Solomon says Canada has access to Mythos AI as Anthropic expands Glasswing to 200 organizations from 50.",
+            "content": "Article content\nThe Canadian government has been granted early access to the latest AI technology from San Francisco-based Anthropic PBC, which has been flagged as a potential threat to financial stability given its power to amplify the speed and pre... [4905 chars]",
+            "url": "https://financialpost.com/news/canadian-government-anthropics-mythos-software-vulnerabilities",
+            "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/Evan-Solomon-1.jpg",
+            "publishedAt": "2026-06-03T00:05:01Z",
+            "lang": "en",
+            "source": {
+                "id": "2492bcb79914b2ce3d9867453dae22ac",
+                "name": "Financial Post",
+                "url": "https://financialpost.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "6f0867f111965547e8a4870c6e283056",
+            "title": "TheCUBE to explore agentic AI infrastructure",
+            "description": "TheCUBE hosts CoreWeave, Nvidia and Dell to examine agentic AI infrastructure after CoreWeave’s Vera Rubin NVL72 milestone.",
+            "content": "The agentic AI era is putting new pressure on the infrastructure stack, and CoreWeave Inc.’s latest milestone gives the conversation a sharper edge.\nThis week, the company announced that it has completed what it describes as the industry’s first brin... [3347 chars]",
+            "url": "https://siliconangle.com/2026/06/02/agentic-ai-infrastructure-coreweave-vera-rubin-coreweaveverarubin/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Nvidia-Vera-Rubin-NVL72-on-CoreWeave-Cloud-June-2026.png",
+            "publishedAt": "2026-06-03T00:02:34Z",
+            "lang": "en",
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
                 "country": "us"
             }
         }
