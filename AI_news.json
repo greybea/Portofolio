@@ -4,80 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 352876,
+    "totalArticles": 354068,
     "articles": [
         {
-            "id": "6bc62a06ee60721b27a9f83e33050687",
-            "title": "Rapid7 Appoints Wael Mohamed Chief Executive Officer; Corey Thomas to Become Executive Chairman",
-            "description": "Mohamed brings proven track record of operational and cybersecurity leadership experience; Thomas to focus on technology vision, AI strategy, and policy initiatives; Reaffirms...",
-            "content": "Mohamed brings proven track record of operational and cybersecurity leadership experience; Thomas to focus on technology vision, AI strategy, and policy initiatives; Reaffirms guidance\nRapid7, a global leader in AI-powered managed cybersecurity opera... [2854 chars]",
-            "url": "https://itwire.com/it-people-news/people-moves/rapid7-appoints-wael-mohamed-chief-executive-officer-corey-thomas-to-become-executive-chairman",
-            "image": "https://media.itwire.com/2026/06/03/rapid7-appoints-wael-mohamed-chief-executive-officer-corey-thomas-to-become-executive-chairman-4699d1aa64f2.jpg",
-            "publishedAt": "2026-06-03T00:22:25Z",
+            "id": "34cee7b3fb7e844d876e113d59c289c6",
+            "title": "iOS 27: All the Rumored App Features",
+            "description": "Siri is getting a major overhaul in iOS 27, but Apple also has some big updates planned for apps like Camera, Photos, and Wallet. There are multiple new AI features in the works, plus some non-AI upgrades. Camera Apple is moving Visual Intelligence from the Camera Control button to the Camera app in iOS 27. There will be a Siri mode that will be available alongside the existing Photo, Video, Portrait, and Panorama modes.",
+            "content": "Siri is getting a major overhaul in iOS 27, but Apple also has some big updates planned for apps like Camera, Photos, and Wallet. There are multiple new AI features in the works, plus some non-AI upgrades.\nCamera\nApple is moving Visual Intelligence f... [10506 chars]",
+            "url": "https://www.macrumors.com/2026/06/03/ios-27-app-rumors/",
+            "image": "https://images.macrumors.com/t/OCwFCwYlksVE-y-ElOi7_YkjR-Y=/2500x/article-new/2026/06/iOS-27-All-the-New-App-Features.jpg",
+            "publishedAt": "2026-06-03T22:48:25Z",
             "lang": "en",
             "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
+                "id": "10216cb8fabd0accd5eb967c97fc37ab",
+                "name": "MacRumors",
+                "url": "https://www.macrumors.com",
+                "country": "us"
             }
         },
         {
-            "id": "4a543e6f041056391c44cbe91a798f2d",
-            "title": "How Sigenergy's SigenAgent brings AI energy management to storage, dynamic tariffs and virtual power plant participation",
-            "description": "The new full-domain energy agent moves solar-storage systems from manual mode selection to intent-based control, allowing users to describe their goals in plain language while...",
-            "content": "COMPANY NEWS: The new full-domain energy agent moves solar-storage systems from manual mode selection to intent-based control, allowing users to describe their goals in plain language while the system recommends the right operating mode.\nAs solar, ba... [6304 chars]",
-            "url": "https://itwire.com/guest-articles/company-news/how-sigenergys-sigenagent-brings-ai-energy-management-to-storage-dynamic-tariffs-and-virtual-power-plant-participation",
-            "image": "https://media.itwire.com/2026/06/03/how-sigenergys-sigenagent-brings-ai-energy-management-to-storage-dynamic-tariffs-and-virtual-power-plant-participation-d9bf3f862c00.webp",
-            "publishedAt": "2026-06-03T00:21:55Z",
+            "id": "70ddd16ba16d39a5dfb273024ff805db",
+            "title": "Broadcom Q2: The AI Bar Was Too High",
+            "description": "Broadcom Inc. earnings beat, but shares fell as AI revenue guidance missed lofty expectations. Click for this AVGO review following the latest news from the company.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of AVGO either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
+            "url": "https://seekingalpha.com/article/4911674-broadcom-q2-the-ai-bar-was-too-high",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1643360144/image_1643360144.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-06-03T22:45:41Z",
             "lang": "en",
             "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
             }
         },
         {
-            "id": "34ece8c858e572b2eff00be1bef7175c",
-            "title": "‘We need an AI that places humanity first’: Microsoft AI CEO outlines hopes to build “humanist superintelligence” - and has seven new models to help him do it",
-            "description": "Microsoft unveils seven new AI models to keep developers building",
-            "content": "Microsoft reveals seven new AI models\nMicrosoft’s AI head has unveiled a host of new AI models from the company as it looks to encourage developers to keep pushing the boundaries of the technology.\nMustafa Suelyman, CEO of Microsoft AI, took to the s... [2684 chars]",
-            "url": "https://www.techradar.com/pro/we-need-an-ai-that-places-humanity-first-microsoft-ai-ceo-outlines-hopes-to-build-humanist-superintelligence-and-has-seven-new-models-to-help-him-do-it",
-            "image": "https://cdn.mos.cms.futurecdn.net/Exfn6GGMosu9RsGyuqaiDU-2560-80.jpg",
-            "publishedAt": "2026-06-03T00:20:00Z",
+            "id": "8af793a0bf687e2f33c25b9e65269f4c",
+            "title": "IBM's Krishna Says Trump AI Policy Hits 'Goldilocks' Balance",
+            "description": "As the Trump administration pursues a broader strategy centered on accelerating U.S. AI development, IBM CEO Arvind Krishna's endorsed the White House's latest AI cybersecurity order.",
+            "content": "IBM CEO Arvind Krishna has praised the strength and security of the White House's latest AI cybersecurity initiative.\nThe Trump administration pursues a broader strategy centered on accelerating U.S. AI development, Axios reported Wednesday.\nThe Whit... [2351 chars]",
+            "url": "https://www.newsmax.com/us/ibm-ai-arvind-krishna/2026/06/03/id/1258487/",
+            "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=da472f9d-cbd8-4e46-b2dc-c8f7f4e5c397&SiteName=Newsmax",
+            "publishedAt": "2026-06-03T22:43:20Z",
             "lang": "en",
             "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
             }
         },
         {
-            "id": "f0e30ef5c4ca2b522c2c0e749dc344a4",
-            "title": "MediaTek Ramps Up Hiring for AI Expansion",
-            "description": "Taiwanese chipmaker MediaTek is increasing its workforce, joining other tech firms in easing fears over AI-driven job losses, Bloomberg News reported Wednesday, citing senior vice president Vince...",
-            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/mediatek-ramps-up-hiring-for-ai-expansion-ce7f5dded08ef223",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-06-03T00:19:17Z",
+            "id": "7d410d9198bc2f4a5f863e1d33120a21",
+            "title": "Jim Cramer warns excess supply could be the next biggest threat to the bull market",
+            "description": "CNBC's Jim Cramer warned that a growing wave of AI-related capital raises could overwhelm investor demand and create a near-term headwind for stocks.",
+            "content": "CNBC's Jim Cramer warned Wednesday that a wave of capital raises tied to the artificial intelligence boom could create a near-term headwind for stocks.\n\"Bull markets can be killed by business conditions or interest rates or geopolitical turmoil, but ... [1546 chars]",
+            "url": "https://www.cnbc.com/2026/06/03/jim-cramer-warns-excess-supply-could-be-the-next-biggest-threat-to-the-bull-market.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/107109966-NUP_198430_00164r.jpg?v=1695081285&w=1920&h=1080",
+            "publishedAt": "2026-06-03T22:38:50Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
             }
         },
         {
-            "id": "ecf795a0867b0815ee0419ce428d3fd7",
-            "title": "back version of AI executive order",
-            "description": "Trump signs scaled-back version of AI executive order - SiliconANGLE",
-            "content": "President Donald Trump today signed an executive order designed to broaden the use of artificial intelligence in federal cybersecurity initiatives.\nTrump reportedly planned to hold the signing ceremony last month, but called off the event at the last... [2562 chars]",
-            "url": "https://siliconangle.com/2026/06/02/trump-signs-scaled-back-version-ai-executive-order/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/AA1MYsde.jpeg",
-            "publishedAt": "2026-06-03T00:14:51Z",
+            "id": "58fd7e1d03b9665ec1c715b1f939ebef",
+            "title": "‘Think Bigger,’ Says Investor About Nvidia Stock",
+            "description": "The Nvidia (NASDAQ:NVDA) story already feels well understood. The company dominates AI chips, has become the world’s most valuable public compa...",
+            "content": "The Nvidia (NASDAQ:NVDA) story already feels well understood. The company dominates AI chips, has become the world’s most valuable public company, and continues to deliver financial results that routinely exceed expectations. Yet, some bulls argue th... [3845 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/think-bigger-says-investor-about-nvidia-stock-1036224030",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/06/image-394-1024x547.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-06-03T22:37:05Z",
+            "lang": "en",
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "fa4fe5b47a61d33285c76e41663512b0",
+            "title": "driven financial analysis powers investment research",
+            "description": "AI-driven financial analysis is compressing SEC filing research from weeks into minutes, using LLMs and governed data on Snowflake.",
+            "content": "Historically, investment research involved human analysts spending days reading and evaluating massive financial reports. Now, AI-driven financial analysis is covering all of that work in just a few minutes.\nThe catalyst was a 2020 academic paper cal... [3799 chars]",
+            "url": "https://siliconangle.com/2026/06/03/ai-driven-financial-analysis-investment-research-snowflakesummit/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Hynes.jpg",
+            "publishedAt": "2026-06-03T22:32:36Z",
             "lang": "en",
             "source": {
                 "id": "2e9e50c94b2fe950c6f3c06660288260",
@@ -87,82 +103,66 @@
             }
         },
         {
-            "id": "73bf82b3d0b2b1e1bf1aa983cfe93c15",
-            "title": "Palo Alto raises annual forecasts on strong AI cybersecurity demand, shares surge",
-            "description": "June 2 (Reuters) - Palo ⁠Alto Networks raised its annual ⁠revenue and profit forecast on Tuesday, as ‌enterprises increased spending on cloud, identity and AI-driven cybersecurity products amid a rising threat landscape, sending ​shares up 7.4% in ⁠extended trading.",
-            "content": "June 2 (Reuters) - Palo ⁠Alto Networks raised its annual ⁠revenue and profit forecast on Tuesday, as ‌enterprises increased spending on cloud, identity and AI-driven cybersecurity products amid a rising threat landscape, sending ​shares up 7.4% in ⁠e... [892 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/03/palo-alto-raises-annual-forecasts-on-strong-ai-cybersecurity-demand-shares-surge",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/03/3940091.jpg",
-            "publishedAt": "2026-06-03T00:13:00Z",
+            "id": "e7eb93b2ae4c949baf107d421a7433d1",
+            "title": "Broadcom Q2: The Market Got This Wrong",
+            "description": "Broadcom Inc.'s Q2 earnings show strong AI chip growth and resilient diversification. Click for this updated look at AVGO stock prospects following the latest results.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of GOOGL, NVDA either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for ... [686 chars]",
+            "url": "https://seekingalpha.com/article/4911668-broadcom-q2-the-market-got-this-wrong",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1643360144/image_1643360144.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-06-03T22:30:17Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
             }
         },
         {
-            "id": "0b187c5960fc74841281994d983aaec4",
-            "title": "South Korea rides AI wave, also overtakes India on m-cap chart",
-            "description": "South Korea has surpassed India to become the world's sixth-largest equity market. This shift is attributed to strong performance from South Korean semiconductor companies. These firms are benefiting from booming demand within the artificial intelligence sector. India's market has seen a decline, partly due to foreign investor selling amid geopolitical concerns. South Korean tech giants are leading the rally.",
-            "content": "Synopsis\nSouth Korea has surpassed India to become the world's sixth-largest equity market. This shift is attributed to strong performance from South Korean semiconductor companies. These firms are benefiting from booming demand within the artificial... [418 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korea-rides-ai-wave-also-overtakes-india-on-m-cap-chart/articleshow/131473573.cms",
-            "image": "https://img.etimg.com/thumb/msid-131473574,width-1200,height-630,imgsize-122632,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-06-03T00:11:00Z",
+            "id": "7f9b407372652e23547162df7a3be87b",
+            "title": "'This Man Is Not Well': Trump Had the Worst 24 Hours of His Second Term",
+            "description": "President Donald Trump spent much of Saturday firing off post after post on social media, unleashing a torrent of grievances, boasts, AI-generated images",
+            "content": "President Donald Trump spent much of Saturday firing off post after post on social media, unleashing a torrent of grievances, boasts, AI-generated images and attacks that quickly became impossible to ignore.\nBy the time the day was over, Trump had sh... [5407 chars]",
+            "url": "https://atlantablackstar.com/2026/06/03/trump-had-the-worst-24-hours-of-his-second-term-then-a-judge-handed-him-a-humiliation-so-personal-it-triggered-an-eight-hour-meltdown-he-couldnt-hide/",
+            "image": "https://atlantablackstar.com/wp-content/uploads/2026/05/Your-paragraph-text-17.jpg",
+            "publishedAt": "2026-06-03T22:29:57Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
+                "id": "33cb25fa0c188e2a4e90fce288b4ce49",
+                "name": "Atlanta Black Star",
+                "url": "https://atlantablackstar.com",
+                "country": "us"
             }
         },
         {
-            "id": "fa247ff885e15ec61764797ae21b194e",
-            "title": "SK Hynix Eyes Doubling Memory Chip Output Over Five Years",
-            "description": "SK Hynix aims to double the output of key AI memory chips over the next five years, projecting a global supply shortage that could last until 2030, Bloomberg News reported on Wednesday, citing...",
-            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/sk-hynix-eyes-doubling-memory-chip-output-over-five-years-ce7f5dded08ef525",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-06-03T00:05:16Z",
+            "id": "aab3447d1d7ecbe8fde30ef065b957d1",
+            "title": "Dalio says AI bubble may burst from cash pressure, not tech failure",
+            "description": "Ray Dalio warns the AI bubble may burst when investors need cash, not because the technology fails or earnings weaken.",
+            "content": "Ray Dalio has warned that the AI investment boom could break when investors need real cash, not when the technology itself disappoints.\nBloomberg reported that the founder of Bridgewater Associates issued the warning during a television interview, in... [2906 chars]",
+            "url": "https://crypto.news/dalio-says-ai-bubble-may-burst-from-cash-pressure-not-tech-failure/",
+            "image": "https://media.crypto.news/2025/11/crypto-news-Enterprises-dont-need-another-blockchain.webp",
+            "publishedAt": "2026-06-03T22:29:30Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
+                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+                "name": "Crypto News",
+                "url": "https://crypto.news",
+                "country": "lt"
             }
         },
         {
-            "id": "03ee48dcf0dfd9319d1b04a854feaff7",
-            "title": "Canadian government gains advance access to Mythos AI: Evan Solomon",
-            "description": "Innovation minister Evan Solomon says Canada has access to Mythos AI as Anthropic expands Glasswing to 200 organizations from 50.",
-            "content": "Article content\nThe Canadian government has been granted early access to the latest AI technology from San Francisco-based Anthropic PBC, which has been flagged as a potential threat to financial stability given its power to amplify the speed and pre... [4905 chars]",
-            "url": "https://financialpost.com/news/canadian-government-anthropics-mythos-software-vulnerabilities",
-            "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/Evan-Solomon-1.jpg",
-            "publishedAt": "2026-06-03T00:05:01Z",
+            "id": "7badd503e228c30358833d73cafd923c",
+            "title": "European Union launches tech sovereignty initiative to boost chips, cloud and AI at home",
+            "description": "Concerns have grown over dependence on foreign technologies, which could be “weaponized” against Europeans.",
+            "content": "BRUSSELS (AP) — European Union leaders, worried about the continent relying too heavily on American companies for AI and cloud computing services and Asia for microchips, are pushing back.\nThe 27-nation bloc unveiled a “tech sovereignty” package on W... [1843 chars]",
+            "url": "https://www.baltimoresun.com/2026/06/03/europe-tech-measures/",
+            "image": "https://www.baltimoresun.com/wp-content/uploads/2026/06/Belgium_European_Commission_652_6.jpg?w=1024&h=683",
+            "publishedAt": "2026-06-03T22:23:25Z",
             "lang": "en",
             "source": {
-                "id": "2492bcb79914b2ce3d9867453dae22ac",
-                "name": "Financial Post",
-                "url": "https://financialpost.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "6f0867f111965547e8a4870c6e283056",
-            "title": "TheCUBE to explore agentic AI infrastructure",
-            "description": "TheCUBE hosts CoreWeave, Nvidia and Dell to examine agentic AI infrastructure after CoreWeave’s Vera Rubin NVL72 milestone.",
-            "content": "The agentic AI era is putting new pressure on the infrastructure stack, and CoreWeave Inc.’s latest milestone gives the conversation a sharper edge.\nThis week, the company announced that it has completed what it describes as the industry’s first brin... [3347 chars]",
-            "url": "https://siliconangle.com/2026/06/02/agentic-ai-infrastructure-coreweave-vera-rubin-coreweaveverarubin/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Nvidia-Vera-Rubin-NVL72-on-CoreWeave-Cloud-June-2026.png",
-            "publishedAt": "2026-06-03T00:02:34Z",
-            "lang": "en",
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
+                "id": "3271eb2093cfa66b030a37cf84a8df5e",
+                "name": "Baltimore Sun",
+                "url": "https://www.baltimoresun.com",
                 "country": "us"
             }
         }
