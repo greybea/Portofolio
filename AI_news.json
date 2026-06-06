@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 355358,
+    "totalArticles": 356440,
     "articles": [
         {
-            "id": "dee54e596718d14a1666e7a31854f36d",
-            "title": "Anthropic calls for pause of global AI development",
-            "description": "The company has faced pushback from others in the industry -- and officials in the White House -- who say its focus on worst-case scenarios overstates the risks and amounts to a strategy for slowing rivals under the cover of safety concerns.",
-            "content": "Artificial intelligence company Anthropic suggested Thursday a global pause on building the most powerful AI systems as the latest models are beginning to show signs they could escape human control.\nThe San Francisco-based company, which makes the Cl... [3084 chars]",
-            "url": "https://www.moneycontrol.com/news/business/anthropic-urges-worldwide-ai-slowdown-warns-advanced-systems-could-escape-human-control-13941612.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260512171740_Anthropic-Claude-chatbot.png",
-            "publishedAt": "2026-06-04T23:11:24Z",
+            "id": "b75de3c129afe79236b0cf704f7432b4",
+            "title": "Trump administration eyes US stakes in AI companies",
+            "description": "Trump said his official team will look into US equity stakes in AI companies. As reported, the US president told reporters on Friday that his team is looking into the idea of AI companies giving the...",
+            "content": "Trump said his official team will look into US equity stakes in AI companies. As reported, the US president told reporters on Friday that his team is looking into the idea of AI companies giving the American public a stake in their firms, adding that... [1771 chars]",
+            "url": "https://www.thenews.com.pk/latest/1404933-trump-administration-eyes-us-stakes-in-ai-companies",
+            "image": "https://www.thenews.com.pk/assets/uploads/2026-06-06/1404933_030058_updates.jpg",
+            "publishedAt": "2026-06-05T21:49:00Z",
             "lang": "en",
             "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            }
+        },
+        {
+            "id": "22d288f80e88b27f8cfd9a283667a67e",
+            "title": "President Trump considers government stake in AI companies",
+            "description": "President Trump said he's exploring the federal government acquiring shares in AI companies, likening it to a \"partnership with the American people.\"",
+            "content": "WASHINGTON — President Donald Trump said he's exploring having the federal government acquire shares in artificial intelligence companies, likening the concept to a \"partnership with the American people.\"\nTrump said he will meet with executives of th... [3113 chars]",
+            "url": "https://www.usatoday.com/story/news/politics/2026/06/05/trump-government-shares-ai-companies-artificial-intelligence/90426033007/",
+            "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/05/USAT/90427742007-20260605-t-194154-z-1312665976-rc-2-tnlar-18-x-0-rtrmadp-3-usatrump.JPG?crop=6499,3656,x0,y338&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2026-06-05T21:45:31Z",
+            "lang": "en",
+            "source": {
+                "id": "eaeed30dacd1269c1893de860c94a7e7",
+                "name": "USA TODAY",
+                "url": "https://www.usatoday.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "6b7c0cbdb0bbf1ae49671815062506a0",
+            "title": "Trump explores federal government acquiring shares in AI companies",
+            "description": "WASHINGTON — President Donald Trump said he's exploring having the federal government acquire shares in artificial intelligence companies, likening the con",
+            "content": "WASHINGTON — President Donald Trump said he's exploring having the federal government acquire shares in artificial intelligence companies, likening the concept to a \"partnership with the American people.\"\nTrump said he will meet with executives of th... [3282 chars]",
+            "url": "https://www.newsbreak.com/usa-today-560565/4694363155692-trump-explores-federal-government-acquiring-shares-in-ai-companies",
+            "image": "https://img.particlenews.com/img/id/1mYzGc_1C58n7u000",
+            "publishedAt": "2026-06-05T21:45:31Z",
+            "lang": "en",
+            "source": {
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "d4a55dc8cfce0168c57463521604f33f",
+            "title": "McDonald's Drive-Thru AI Upgrade: How Google Is Replacing the Failed IBM Ordering System",
+            "description": "McDonald's has announced plans to roll out a new Google-powered AI operating system called ArchIQ across all US restaurants, featuring a drive-thru assistant named Archy that can handle orders in English and Spanish. The move comes after the chain scrapped its previous IBM-built AI ordering system in 2024 following widespread complaints about incorrect orders. , US Buzz, Times Now",
+            "content": "The AI push is just one piece of a broader overhaul McDonald's is calling McDonald's Next.\nMcDonald's is overhauling its drive-thru experience with a new artificial intelligence operating system, the fast food giant announced at its Worldwide convent... [2527 chars]",
+            "url": "https://www.timesnownews.com/world/us/us-buzz/mcdonalds-drive-thru-ai-upgrade-how-google-is-replacing-the-failed-ibm-ordering-system-article-154470381",
+            "image": "https://images.timesnownews.com/thumb/msid-154470381,width-1280,height-720,resizemode-75/154470381.jpg",
+            "publishedAt": "2026-06-05T21:44:04Z",
+            "lang": "en",
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
                 "country": "in"
             }
         },
         {
-            "id": "c4f44661b00195d62b988a4060b9a3c3",
-            "title": "Fed's Daly says AI is not for now driving inflation up or down",
-            "description": "June 4 (Reuters) - ⁠San Francisco Federal ⁠Reserve President Mary Daly ‌on Thursday said that while she believes AI over a ​five- to 10-year ⁠window could ⁠be a deflationary force, the ⁠effect ‌is \"not a pressing issue\" for ⁠monetary policy which operates on ​a ‌12-month horizon.",
-            "content": "June 4 (Reuters) - ⁠San Francisco Federal ⁠Reserve President Mary Daly ‌on Thursday said that while she believes AI over a ​five- to 10-year ⁠window could ⁠be a deflationary force, the ⁠effect ‌is \"not a pressing issue\" for ⁠monetary policy which ope... [344 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/05/fed039s-daly-says-ai-is-not-for-now-driving-inflation-up-or-down",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/05/3943749.jpg",
-            "publishedAt": "2026-06-04T23:07:00Z",
+            "id": "524f73d4021899433362030494332dd2",
+            "title": "Trump calls for military to accelerate use of AI while protecting Americans",
+            "description": "President Donald Trump is calling for the U.S. military and national security agencies to accelerate their use of artificial intelligence. But the president is also acknowledging the need to protect civil liberties and to maintain oversight over autonomous weapon systems. Trump issued his memo on Friday as anxiety grows over AI, from replacing people’s jobs to helping to identify targets on the battlefield. Trump directed the military to ensure that autonomous weapons systems respect the chain of command. He also called for restrictions on AI when it comes to censorship and unlawful surveillance of Americans.",
+            "content": "WASHINGTON (AP) — President Donald Trump issued a memo Friday that calls for the U.S. military and national security agencies to accelerate their use of artificial intelligence, while acknowledging the need to protect civil liberties and maintain ove... [410 chars]",
+            "url": "https://www.ajc.com/news/2026/06/trump-calls-for-military-to-accelerate-use-of-ai-while-protecting-americans/",
+            "image": "https://images.ajc.com/resizer/v2/33MNZ4SBRVDSBJ5PTNKKNNZOP4.jpg?auth=adba8c8959ca44a7678dc09be482d480e7c79d42124231b13b6caf7ea60fb3a2&width=1200&height=630&smart=true",
+            "publishedAt": "2026-06-05T21:42:51Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
             }
         },
         {
-            "id": "fbc50bb20c9e458a185bf8cadb1312ed",
-            "title": "Canada says AI strategy will help create 250,000 jobs, boost GDP by 3%",
-            "description": "TORONTO, June 4 (Reuters) - Canada ⁠unveiled a new artificial intelligence strategy on Thursday that it ⁠says will help create 250,000 jobs by 2031 and includes a ‌new C$500 million ($360.05 million) tech fund to help homegrown AI firms.",
-            "content": "TORONTO, June 4 (Reuters) - Canada ⁠unveiled a new artificial intelligence strategy on Thursday that it ⁠says will help create 250,000 jobs by 2031 and includes a ‌new C$500 million ($360.05 million) tech fund to help homegrown AI firms.\nThe strategy... [1600 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/05/canada-says-ai-strategy-will-help-create-250000-jobs-boost-gdp-by-3",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/05/3943745.jpg",
-            "publishedAt": "2026-06-04T23:06:00Z",
+            "id": "b782e33637121ded8e6eef7605894a92",
+            "title": "Trump calls for military to accelerate use of AI",
+            "description": "President Donald Trump is calling for the U.S. military and national security agencies to accelerate their use of artificial intelligence.",
+            "content": "WASHINGTON (AP) — President Donald Trump issued a memo Friday that calls for the U.S. military and national security agencies to accelerate their use of artificial intelligence, while acknowledging the need to protect civil liberties and maintain ove... [3504 chars]",
+            "url": "https://apnews.com/article/artificial-intelligence-ai-military-trump-weapons-1078e23edada2bc16db12dba109015c0",
+            "image": "https://dims.apnews.com/dims4/default/72a8b3c/2147483647/strip/true/crop/11000x7330+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F52%2Ff6%2Ff7ff0fc426c02a33030cad2c4bcb%2Fdef486eb782f49d790e93d71cbb4aa2d",
+            "publishedAt": "2026-06-05T21:39:05Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
             }
         },
         {
-            "id": "9eb2311deef5f8d827a35b5473d57f58",
-            "title": "somethings need AI to make first move on dating apps, says Hinge boss",
-            "description": "Jackie Jantos says loneliness and lack of confidence were challenges for young adults looking for relationships.",
-            "content": "Single 20-somethings need AI to make first move on dating apps - Hinge boss\n14 minutes ago\nYasmin Rufo ,Business reporter ,\nSean Farrington ,presenter, Big Boss Interview podcastand\nEmer Moreau ,Business reporter\nSingle 20-somethings need AI to start... [3491 chars]",
-            "url": "https://www.bbc.com/news/articles/c052397y6ygo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d364/live/1376fe00-6033-11f1-9792-c579e9d62a5f.jpg",
-            "publishedAt": "2026-06-04T23:05:54Z",
+            "id": "0f08520034167426185ef816d1cd0ef8",
+            "title": "Trump calls for military to accelerate use of AI while protecting Americans",
+            "description": "President Donald Trump is calling for the U.S. military and national security agencies to accelerate their use of artificial intelligence.",
+            "content": "WASHINGTON – President Donald Trump issued a memo Friday that calls for the U.S. military and national security agencies to accelerate their use of artificial intelligence, while acknowledging the need to protect civil liberties and maintain oversigh... [3499 chars]",
+            "url": "https://www.clickondetroit.com/news/politics/2026/06/05/trump-calls-for-military-to-accelerate-use-of-ai-while-protecting-americans/",
+            "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/NNFMP7LUVNGCTMA4VQZ3YUPRE4.jpg?_a=DATAg1iuZAA0",
+            "publishedAt": "2026-06-05T21:39:05Z",
             "lang": "en",
             "source": {
-                "id": "109f2b4a20da4fe1c2fd502b03c07243",
-                "name": "BBC News",
-                "url": "https://www.bbc.com",
-                "country": "gb"
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
             }
         },
         {
-            "id": "27cffd8364e7e971fdf10ab8632a8dbe",
-            "title": "serving employee on AI, jobs and her boss",
-            "description": "Naomi Gleit has weathered many controversies at Meta, but remains in what she tells the BBC is her \"dream job\".",
-            "content": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss\nWhen Naomi Gleit joined Meta nearly 20 years ago, she was the firm's 29th employee.\nToday, she is its longest serving staff member - apart, that is, from founder Mark Zuckerberg.\nS... [4309 chars]",
-            "url": "https://www.bbc.com/news/articles/c5y71106g07o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e3e4/live/b6ae4610-600a-11f1-b2a6-1d4191f0f436.jpg",
-            "publishedAt": "2026-06-04T23:05:39Z",
+            "id": "0760832b292046404062d529177d0a91",
+            "title": "Trump Calls for Military to Accelerate Use of AI While Protecting Americans",
+            "description": "WASHINGTON (AP) — President Donald Trump issued a memo Friday that calls for the U.S. military and national security agencies to accelerate their use of artificial intelligence, while acknowledging the need to protect civil liberties and maintain oversight over autonomous weapon systems.",
+            "content": "WASHINGTON (AP) — President Donald Trump issued a memo Friday that calls for the U.S. military and national security agencies to accelerate their use of artificial intelligence, while acknowledging the need to protect civil liberties and maintain ove... [3637 chars]",
+            "url": "https://www.usnews.com/news/politics/articles/2026-06-05/trump-calls-for-military-to-accelerate-use-of-ai-while-protecting-americans",
+            "image": "https://www.usnews.com/dims4/USNEWS/1f21536/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ffe%2Fd5546de70a8810f93a3004eae723dd%2Fdef486eb782f49d790e93d71cbb4aa2dTrump_546_8.jpg",
+            "publishedAt": "2026-06-05T21:39:00Z",
             "lang": "en",
             "source": {
-                "id": "109f2b4a20da4fe1c2fd502b03c07243",
-                "name": "BBC News",
-                "url": "https://www.bbc.com",
-                "country": "gb"
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
             }
         },
         {
-            "id": "62b10d02095b21f90b1b7e079ac8b2c9",
-            "title": "US House lawmakers release draft bill to prohibit state AI rules",
-            "description": "WASHINGTON, June ⁠4 (Reuters) - A bipartisan pair of U.S. House lawmakers released draft legislation on Thursday that would prohibit states ⁠from regulating the development of artificial intelligence models, a move praised by tech firms but criticized ‌by consumer rights advocacy groups.",
-            "content": "WASHINGTON, June ⁠4 (Reuters) - A bipartisan pair of U.S. House lawmakers released draft legislation on Thursday that would prohibit states ⁠from regulating the development of artificial intelligence models, a move praised by tech firms but criticize... [2806 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/05/us-house-lawmakers-release-draft-bill-to-regulate-ai",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/05/3943744.jpg",
-            "publishedAt": "2026-06-04T23:04:00Z",
+            "id": "a826bce51f369c0805b693f561b8e1b0",
+            "title": "Alien Isolation 2's First Trailer Takes The Horror To A Colony Planet",
+            "description": "The abbreviated name, \"AI 2,\" is the scariest thing about it so far.",
+            "content": "Time works differently in space and on other planets, so the decade-plus that Alien Isolation fans have been waiting for the sequel might have felt like a blink of an eye on a different world. On terra firma, though, it's been a 12-year wait. Now, fo... [669 chars]",
+            "url": "https://www.engadget.com/2188687/alien-isolation-2-s-first-trailer-takes-the-horror-to-a-colony-planet/",
+            "image": "https://www.engadget.com/img/gallery/alien-isolation-2s-first-trailer-takes-the-horror-to-a-colony-planet/l-intro-1780695390.jpg",
+            "publishedAt": "2026-06-05T21:37:24Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
+                "id": "549a7a859b2345bbe231b00e7244ef99",
+                "name": "Engadget",
+                "url": "https://www.engadget.com",
+                "country": "us"
             }
         },
         {
-            "id": "95205ed5fd04b85107f80d86b34b5d46",
-            "title": "Anthropic calls for global slowdown in AI race to weigh societal implications",
-            "description": "Company behind Claude says co-ordinated effort is required to protect people from accelerating risks",
-            "content": "San Francisco-based Anthropic PBC says the world’s top artificial intelligence labs should slow down the development of the technology to allow more time to deal with its immense global implications.\nIn its post, published just days after the AI comp... [3544 chars]",
-            "url": "https://www.theglobeandmail.com/business/article-anthropic-claude-ai-implications-slowdown/",
-            "image": "https://www.theglobeandmail.com/resizer/v2/5Q4NTPNLVBGGTDYSHLLAMRPVS4.JPG?auth=8cb8a85050b3b58c66947386880c1cf718a081c04af9981d24ffe6837681b3fb&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2026-06-04T23:03:05Z",
+            "id": "b8e653fd5447fc0c0577f0c3f3bc8356",
+            "title": "Will increasing lack of curiosity also make us stupider?",
+            "description": "For generations, you had to forage through a library to acquire knowledge, he says. Even when the internet became all-pervasive, that friction remained. But with Generative AI, that friction has collapsed | Mumbai news",
+            "content": "His analogy is simple. Think of a librarian anywhere in the world–they had the most access to knowledge but the librarian was rarely the most well-read person in the room. Someone from outside would come in and read more than the person with easy acc... [3716 chars]",
+            "url": "https://www.hindustantimes.com/cities/mumbai-news/will-increasing-lack-of-curiosity-also-make-us-stupider-101780681673539.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/06/05/550x309/AI-Artificial-Intelligence--and-Financial-Technolo_1780681671393.jpg",
+            "publishedAt": "2026-06-05T21:36:14Z",
             "lang": "en",
             "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "2013ff7e3de31eb61acf5c4ecfaddf7c",
-            "title": "'Universal' vaccine to prevent future pandemics developed by British scientists in major breakthrough",
-            "description": "Scientists have invented a ‘game-changing’ vaccine, developed using artificial intelligence, against whole families of viruses - hopefully preventing future pandemics before they even begin",
-            "content": "Scientists have invented a ‘game-changing’ vaccine, developed using artificial intelligence, against whole families of viruses - hopefully preventing future pandemics before they even begin\nA new universal vaccine is being developed which could prote... [3931 chars]",
-            "url": "https://www.mirror.co.uk/news/health/universal-vaccine-future-pandemic-virus-37248514",
-            "image": "https://i2-prod.mirror.co.uk/article37248534.ece/ALTERNATES/s1200d/0_Sarbeco-coronavirus-jab.jpg",
-            "publishedAt": "2026-06-04T23:01:36Z",
-            "lang": "en",
-            "source": {
-                "id": "105bb16685822879671e4bad332aeec9",
-                "name": "The Mirror",
-                "url": "https://www.mirror.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "f3b19cf7cfd67e4e790713cfbda9e11c",
-            "title": "New AI-designed vaccine ‘could protect against whole families of viruses’",
-            "description": "An early trial of a vaccine made using the technology found it is safe and well-tolerated, with a larger study to include more than 200 people.",
-            "content": "An early trial of a vaccine made using the technology found it is safe and well-tolerated, with a larger study to include more than 200 people.\nScientists led by the University of Cambridge have created new vaccine technology (University of Cambridge... [6899 chars]",
-            "url": "https://www.standard.co.uk/news/science/southampton-cambridge-university-of-cambridge-ebola-virus-sars-b1284918.html",
-            "image": "https://static.standard.co.uk/2026/06/05/00/03161222-a3df2f7e-959d-4e84-881b-68e9a145366a.jpg?width=1200&auto=webp&quality=75",
-            "publishedAt": "2026-06-04T23:01:00Z",
-            "lang": "en",
-            "source": {
-                "id": "e98e9648a83f865332ab00d9eab8cf1f",
-                "name": "Evening Standard",
-                "url": "https://www.standard.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "88f1222bbe9bdb92054c31265c756999",
-            "title": "New AI-designed vaccine ‘could protect against whole families of viruses’",
-            "description": "An early trial of a vaccine made using the technology found it is safe and well-tolerated, with a larger study to include more than 200 people. | ITV National News",
-            "content": "New vaccine technology created with the help of artificial intelligence could provide immunity against whole families of viruses and protect people from any future mutations in a single jab, according to scientists.\nThe method could prevent pandemics... [5564 chars]",
-            "url": "https://www.itv.com/news/2026-06-04/new-ai-designed-vaccine-could-protect-against-whole-families-of-viruses",
-            "image": "https://images.ctfassets.net/pjshm78m9jt4/headerImage-437a10bd-ac2b-4034-b195-740aa288031d/9e572963b0421e5565ab68bd1a8b5c10/headerImage-437a10bd-ac2b-4034-b195-740aa288031d?fm=jpg&fit=fill&w=1600&h=900&q=80",
-            "publishedAt": "2026-06-04T23:01:00Z",
-            "lang": "en",
-            "source": {
-                "id": "8058567c977e70457c45c65529cb9946",
-                "name": "ITV News",
-                "url": "https://www.itv.com",
-                "country": "gb"
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
             }
         }
     ]
