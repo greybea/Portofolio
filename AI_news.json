@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 356440,
+    "totalArticles": 356924,
     "articles": [
         {
-            "id": "b75de3c129afe79236b0cf704f7432b4",
-            "title": "Trump administration eyes US stakes in AI companies",
-            "description": "Trump said his official team will look into US equity stakes in AI companies. As reported, the US president told reporters on Friday that his team is looking into the idea of AI companies giving the...",
-            "content": "Trump said his official team will look into US equity stakes in AI companies. As reported, the US president told reporters on Friday that his team is looking into the idea of AI companies giving the American public a stake in their firms, adding that... [1771 chars]",
-            "url": "https://www.thenews.com.pk/latest/1404933-trump-administration-eyes-us-stakes-in-ai-companies",
-            "image": "https://www.thenews.com.pk/assets/uploads/2026-06-06/1404933_030058_updates.jpg",
-            "publishedAt": "2026-06-05T21:49:00Z",
+            "id": "e09864ab7597ff263c5c260bba17f84d",
+            "title": "Who Is Sriram Krishnan? Donald Trump’s AI Advisor To Quit Key White House Post",
+            "description": "Sriram Krishnan will step down as a senior White House AI policy adviser at the end of June. His departure comes as the Trump administration advances new artificial intelligence policies and oversight measures.",
+            "content": "24\nAn influential White House artificial intelligence policy adviser announced on Saturday that he will leave his position at the end of June, marking the departure of a key figure involved in shaping U.S. policy on emerging AI technologies. ‘This jo... [3328 chars]",
+            "url": "https://www.newsx.com/world/who-is-sriram-krishnan-donald-trumps-ai-advisor-to-quit-key-white-house-post-231238/",
+            "image": "https://www.newsx.com/wp-content/uploads/2026/06/1_54.jpg",
+            "publishedAt": "2026-06-06T22:06:57Z",
             "lang": "en",
             "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            }
-        },
-        {
-            "id": "22d288f80e88b27f8cfd9a283667a67e",
-            "title": "President Trump considers government stake in AI companies",
-            "description": "President Trump said he's exploring the federal government acquiring shares in AI companies, likening it to a \"partnership with the American people.\"",
-            "content": "WASHINGTON — President Donald Trump said he's exploring having the federal government acquire shares in artificial intelligence companies, likening the concept to a \"partnership with the American people.\"\nTrump said he will meet with executives of th... [3113 chars]",
-            "url": "https://www.usatoday.com/story/news/politics/2026/06/05/trump-government-shares-ai-companies-artificial-intelligence/90426033007/",
-            "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/05/USAT/90427742007-20260605-t-194154-z-1312665976-rc-2-tnlar-18-x-0-rtrmadp-3-usatrump.JPG?crop=6499,3656,x0,y338&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2026-06-05T21:45:31Z",
-            "lang": "en",
-            "source": {
-                "id": "eaeed30dacd1269c1893de860c94a7e7",
-                "name": "USA TODAY",
-                "url": "https://www.usatoday.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "6b7c0cbdb0bbf1ae49671815062506a0",
-            "title": "Trump explores federal government acquiring shares in AI companies",
-            "description": "WASHINGTON — President Donald Trump said he's exploring having the federal government acquire shares in artificial intelligence companies, likening the con",
-            "content": "WASHINGTON — President Donald Trump said he's exploring having the federal government acquire shares in artificial intelligence companies, likening the concept to a \"partnership with the American people.\"\nTrump said he will meet with executives of th... [3282 chars]",
-            "url": "https://www.newsbreak.com/usa-today-560565/4694363155692-trump-explores-federal-government-acquiring-shares-in-ai-companies",
-            "image": "https://img.particlenews.com/img/id/1mYzGc_1C58n7u000",
-            "publishedAt": "2026-06-05T21:45:31Z",
-            "lang": "en",
-            "source": {
-                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
-                "name": "NewsBreak",
-                "url": "https://www.newsbreak.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "d4a55dc8cfce0168c57463521604f33f",
-            "title": "McDonald's Drive-Thru AI Upgrade: How Google Is Replacing the Failed IBM Ordering System",
-            "description": "McDonald's has announced plans to roll out a new Google-powered AI operating system called ArchIQ across all US restaurants, featuring a drive-thru assistant named Archy that can handle orders in English and Spanish. The move comes after the chain scrapped its previous IBM-built AI ordering system in 2024 following widespread complaints about incorrect orders. , US Buzz, Times Now",
-            "content": "The AI push is just one piece of a broader overhaul McDonald's is calling McDonald's Next.\nMcDonald's is overhauling its drive-thru experience with a new artificial intelligence operating system, the fast food giant announced at its Worldwide convent... [2527 chars]",
-            "url": "https://www.timesnownews.com/world/us/us-buzz/mcdonalds-drive-thru-ai-upgrade-how-google-is-replacing-the-failed-ibm-ordering-system-article-154470381",
-            "image": "https://images.timesnownews.com/thumb/msid-154470381,width-1280,height-720,resizemode-75/154470381.jpg",
-            "publishedAt": "2026-06-05T21:44:04Z",
-            "lang": "en",
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
+                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+                "name": "NewsX",
+                "url": "https://www.newsx.com",
                 "country": "in"
             }
         },
         {
-            "id": "524f73d4021899433362030494332dd2",
-            "title": "Trump calls for military to accelerate use of AI while protecting Americans",
-            "description": "President Donald Trump is calling for the U.S. military and national security agencies to accelerate their use of artificial intelligence. But the president is also acknowledging the need to protect civil liberties and to maintain oversight over autonomous weapon systems. Trump issued his memo on Friday as anxiety grows over AI, from replacing people’s jobs to helping to identify targets on the battlefield. Trump directed the military to ensure that autonomous weapons systems respect the chain of command. He also called for restrictions on AI when it comes to censorship and unlawful surveillance of Americans.",
-            "content": "WASHINGTON (AP) — President Donald Trump issued a memo Friday that calls for the U.S. military and national security agencies to accelerate their use of artificial intelligence, while acknowledging the need to protect civil liberties and maintain ove... [410 chars]",
-            "url": "https://www.ajc.com/news/2026/06/trump-calls-for-military-to-accelerate-use-of-ai-while-protecting-americans/",
-            "image": "https://images.ajc.com/resizer/v2/33MNZ4SBRVDSBJ5PTNKKNNZOP4.jpg?auth=adba8c8959ca44a7678dc09be482d480e7c79d42124231b13b6caf7ea60fb3a2&width=1200&height=630&smart=true",
-            "publishedAt": "2026-06-05T21:42:51Z",
+            "id": "a560de0a0b76cdd658ff02d1211fa38b",
+            "title": "China’s gig economy is an employment reservoir - but is the well drying up?",
+            "description": "More than 200 million people in China are flexibly employed, but AI adoption, unstable income and poor social security make positions precarious.",
+            "content": "The air carried a chill in Hengdian, one of China’s best-known hubs for drama and film production. Yu Shutian, a 30-year-old actress, was on her way to set at 3.30am, donned in a floral shirt and darkened make-up to play a rural villain.\nWith frequen... [454 chars]",
+            "url": "https://www.scmp.com/economy/china-economy/article/3356114/chinas-gig-economy-employment-reservoir-well-drying",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/05/70f13184-8cf9-428a-a8e3-b837690f9141_65a612cb.jpg?itok=3MyJIgZo&v=1780651559",
+            "publishedAt": "2026-06-06T22:00:14Z",
             "lang": "en",
             "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            }
+        },
+        {
+            "id": "a19ee11602ad46a6c43ae61db9e65107",
+            "title": "Commentary: What if AI retraining is just a comforting lie?",
+            "description": "If upskilling is being touted as the bridge to an AI future, it must lead somewhere, says Catherine Thorbecke for Bloomberg Opinion.",
+            "content": "TOKYO: No one knows whether artificial intelligence will trigger a white-collar jobpocalypse. The loudest warnings still come from people building and selling the technology, whose predictions often double as hype-mongering or cover for unrelated cos... [5562 chars]",
+            "url": "https://www.channelnewsasia.com/commentary/ai-layoffs-job-loss-upskill-reskill-tech-sector-6164066",
+            "image": "https://dam.mediacorp.sg/image/upload/s--aBPjGzol--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/tdy-migration/26192735.JPG?itok=h-IIE62I",
+            "publishedAt": "2026-06-06T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "b5ef1c07735a99135c09fb5bbc00cf5d",
+            "title": "Quote of the day by Nvidia CEO, Jensen Huang: \"I appreciate that many of us grew up and enjoyed science fiction, but it's not helpful\" — on quantifying the existential risks posed by AI",
+            "description": "With prominent scientists and technologists frequently warning of the risks of AI, Jensen Huang eases concerns by lamenting the influence of sci-fi",
+            "content": "One of the most important figures at the heart of the rise of AI is Jensen Huang, co-founder and CEO of Nvidia. His company manufactures the GPUs that excel in training and inference, and is positioning itself at the heart of the infrastructure and e... [1329 chars]",
+            "url": "https://www.techradar.com/pro/quote-of-the-day-by-nvidia-ceo-jensen-huang-i-appreciate-that-many-of-us-grew-up-and-enjoyed-science-fiction-but-its-not-helpful-on-quantifying-the-existential-risks-posed-by-ai",
+            "image": "https://cdn.mos.cms.futurecdn.net/rR3zuBMSKgRpoWgXYsh5U-1920-80.jpg",
+            "publishedAt": "2026-06-06T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "a82b553346ff6f4154c67b61864e423e",
+            "title": "Trump marks D-Day with AI video of him riding a lion and photo portraying Obama library as trash can",
+            "description": "Meanwhile, Defense Secretary Pete Hegseth warned European allies of being stormed by ‘different, dangerous ideologies’",
+            "content": "President Donald Trump marked the 82nd anniversary of D-Day, when the Allied powers stormed the beaches of Normandy during World War II, by sharing artificial intelligence-generated content that took aim at a range of his perceived opponents.\nSaturda... [2878 chars]",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-d-day-post-ai-obama-library-b2991121.html",
+            "image": "https://static.independent.co.uk/2026/06/06/19/13/FotoJet.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+            "publishedAt": "2026-06-06T21:35:35Z",
+            "lang": "en",
+            "source": {
+                "id": "97497c18f5cb431f5f324b3d8643c24f",
+                "name": "The Independent",
+                "url": "https://www.independent.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "9d41464f3b04b4731dbd161be15150e2",
+            "title": "Scammers Are Weaponizing AI For Their Nefarious Goals As Fraud-Related Losses For U.S. Consumers Approach $1 Billion, With Little Respite",
+            "description": "Using elaborate scams using AI is getting out of hand, as a new report states that U.S. customers are losing close to $1 billion",
+            "content": "The AI boom isn’t just exacerbating a RAM and storage crisis, but its inception has allowed scammers a whole new layer of creativity to deprive innocent Americans of their hard-earned money. According to the latest statistics, AI-fueled scams are app... [3007 chars]",
+            "url": "https://wccftech.com/scammers-with-ai-are-costing-american-customers-900-million-losses/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/AI-related-scams.jpg",
+            "publishedAt": "2026-06-06T21:26:32Z",
+            "lang": "en",
+            "source": {
+                "id": "9a68172fefded1b86fc9a95d43faf501",
+                "name": "Wccftech",
+                "url": "https://wccftech.com",
                 "country": "us"
             }
         },
         {
-            "id": "b782e33637121ded8e6eef7605894a92",
-            "title": "Trump calls for military to accelerate use of AI",
-            "description": "President Donald Trump is calling for the U.S. military and national security agencies to accelerate their use of artificial intelligence.",
-            "content": "WASHINGTON (AP) — President Donald Trump issued a memo Friday that calls for the U.S. military and national security agencies to accelerate their use of artificial intelligence, while acknowledging the need to protect civil liberties and maintain ove... [3504 chars]",
-            "url": "https://apnews.com/article/artificial-intelligence-ai-military-trump-weapons-1078e23edada2bc16db12dba109015c0",
-            "image": "https://dims.apnews.com/dims4/default/72a8b3c/2147483647/strip/true/crop/11000x7330+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F52%2Ff6%2Ff7ff0fc426c02a33030cad2c4bcb%2Fdef486eb782f49d790e93d71cbb4aa2d",
-            "publishedAt": "2026-06-05T21:39:05Z",
+            "id": "afc09d5e1a33f1354c8c78b4c68fdfe0",
+            "title": "'This is herculean:' How Alberta, B.C. Mounties are using AI to write reports",
+            "description": "Mounties are testing a program that could eventually see criminal defendants battle a new opponent in court — artificial intelligence.",
+            "content": "Mounties are testing a program that could eventually see criminal defendants battle a new opponent in court — artificial intelligence.\nRCMP say AI is being used to write police reports on everything from traffic tickets to serious offences — except m... [5093 chars]",
+            "url": "https://cheknews.ca/this-is-herculean-how-alberta-b-c-mounties-are-using-ai-to-write-reports-1329140/",
+            "image": "https://i0.wp.com/cheknews.ca/wp-content/uploads/2026/03/90271d97-417e-48ef-91e7-195efc96f3c3-scaled.jpg?fit=2560%2C1724&ssl=1",
+            "publishedAt": "2026-06-06T21:15:00Z",
             "lang": "en",
             "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
+                "id": "010284b7a4ddb4771793c29b39893951",
+                "name": "CHEK News",
+                "url": "https://cheknews.ca",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "9acbb36c50b4f9adeb6e43f585e82742",
+            "title": "The Leopard Is Eating David Sacks's Face",
+            "description": "\"Nationalization of AI will accelerate the corporate-government fusion we’re already sliding toward,\" wrote Sacks.",
+            "content": "President Donald Trump confirmed Friday that he’s thinking about the U.S. government entering into some kind of partnership with the major AI companies, perhaps even taking a stake like he did with Intel. Trump is meeting with the leaders of the AI c... [3557 chars]",
+            "url": "https://gizmodo.com/the-leopard-is-eating-david-sackss-face-2000768295",
+            "image": "https://gizmodo.com/app/uploads/2026/03/david-sacks-donald-trump-2025-1200x675.jpg",
+            "publishedAt": "2026-06-06T21:10:52Z",
+            "lang": "en",
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
                 "country": "us"
             }
         },
         {
-            "id": "0f08520034167426185ef816d1cd0ef8",
-            "title": "Trump calls for military to accelerate use of AI while protecting Americans",
-            "description": "President Donald Trump is calling for the U.S. military and national security agencies to accelerate their use of artificial intelligence.",
-            "content": "WASHINGTON – President Donald Trump issued a memo Friday that calls for the U.S. military and national security agencies to accelerate their use of artificial intelligence, while acknowledging the need to protect civil liberties and maintain oversigh... [3499 chars]",
-            "url": "https://www.clickondetroit.com/news/politics/2026/06/05/trump-calls-for-military-to-accelerate-use-of-ai-while-protecting-americans/",
-            "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/NNFMP7LUVNGCTMA4VQZ3YUPRE4.jpg?_a=DATAg1iuZAA0",
-            "publishedAt": "2026-06-05T21:39:05Z",
+            "id": "44d478145843d1d145e7f88dcef422fb",
+            "title": "Cathie Wood Ditches Fed Rate Hike Fears With Bullish Market Note",
+            "description": "Cathie Wood says markets are misreading strong jobs data, arguing AI-driven productivity growth could lower inflation and ease Fed rate fears.",
+            "content": "Cathie Wood took to social media to ease investor worries of the Federal Reserve raising interest rates. Her comments follow a stronger-than-expected U.S. jobs report.\nCathie Wood Shares Overview On Jobs Report\nThe latest labor market data is being m... [2473 chars]",
+            "url": "https://coingape.com/cathie-wood-ditches-fed-rate-hike-fears-with-bullish-market-note/",
+            "image": "https://coingape.com/wp-content/uploads/2026/06/cathie_wood_ditches_fed_rate_hike.webp",
+            "publishedAt": "2026-06-06T21:01:34Z",
             "lang": "en",
             "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "0760832b292046404062d529177d0a91",
-            "title": "Trump Calls for Military to Accelerate Use of AI While Protecting Americans",
-            "description": "WASHINGTON (AP) — President Donald Trump issued a memo Friday that calls for the U.S. military and national security agencies to accelerate their use of artificial intelligence, while acknowledging the need to protect civil liberties and maintain oversight over autonomous weapon systems.",
-            "content": "WASHINGTON (AP) — President Donald Trump issued a memo Friday that calls for the U.S. military and national security agencies to accelerate their use of artificial intelligence, while acknowledging the need to protect civil liberties and maintain ove... [3637 chars]",
-            "url": "https://www.usnews.com/news/politics/articles/2026-06-05/trump-calls-for-military-to-accelerate-use-of-ai-while-protecting-americans",
-            "image": "https://www.usnews.com/dims4/USNEWS/1f21536/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ffe%2Fd5546de70a8810f93a3004eae723dd%2Fdef486eb782f49d790e93d71cbb4aa2dTrump_546_8.jpg",
-            "publishedAt": "2026-06-05T21:39:00Z",
-            "lang": "en",
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "a826bce51f369c0805b693f561b8e1b0",
-            "title": "Alien Isolation 2's First Trailer Takes The Horror To A Colony Planet",
-            "description": "The abbreviated name, \"AI 2,\" is the scariest thing about it so far.",
-            "content": "Time works differently in space and on other planets, so the decade-plus that Alien Isolation fans have been waiting for the sequel might have felt like a blink of an eye on a different world. On terra firma, though, it's been a 12-year wait. Now, fo... [669 chars]",
-            "url": "https://www.engadget.com/2188687/alien-isolation-2-s-first-trailer-takes-the-horror-to-a-colony-planet/",
-            "image": "https://www.engadget.com/img/gallery/alien-isolation-2s-first-trailer-takes-the-horror-to-a-colony-planet/l-intro-1780695390.jpg",
-            "publishedAt": "2026-06-05T21:37:24Z",
-            "lang": "en",
-            "source": {
-                "id": "549a7a859b2345bbe231b00e7244ef99",
-                "name": "Engadget",
-                "url": "https://www.engadget.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b8e653fd5447fc0c0577f0c3f3bc8356",
-            "title": "Will increasing lack of curiosity also make us stupider?",
-            "description": "For generations, you had to forage through a library to acquire knowledge, he says. Even when the internet became all-pervasive, that friction remained. But with Generative AI, that friction has collapsed | Mumbai news",
-            "content": "His analogy is simple. Think of a librarian anywhere in the world–they had the most access to knowledge but the librarian was rarely the most well-read person in the room. Someone from outside would come in and read more than the person with easy acc... [3716 chars]",
-            "url": "https://www.hindustantimes.com/cities/mumbai-news/will-increasing-lack-of-curiosity-also-make-us-stupider-101780681673539.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/06/05/550x309/AI-Artificial-Intelligence--and-Financial-Technolo_1780681671393.jpg",
-            "publishedAt": "2026-06-05T21:36:14Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
+                "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
+                "name": "CoinGape",
+                "url": "https://coingape.com",
                 "country": "in"
+            }
+        },
+        {
+            "id": "d0583634cdc5d582b5bf46924e0beb5a",
+            "title": "Public ownership in AI: Trump and Sanders find common ground",
+            "description": "OpenAI CEO Sam Altman has met with Sen. Bernie Sanders to discuss public ownership in AI companies, and President Trump too has expressed interest in the idea.",
+            "content": "It was perhaps a surprising private overture from OpenAI Chief Executive Sam Altman to Sen. Bernie Sanders.\nThe meeting between the two had come just after the Vermont senator announced a plan for the public to take a 50% ownership stake in artificia... [6554 chars]",
+            "url": "https://www.latimes.com/world-nation/story/2026-06-06/public-ownership-in-ai-trump-sanders-find-common-ground",
+            "image": "https://ca-times.brightspotcdn.com/dims4/default/38ad1c8/2147483647/strip/true/crop/5874x3084+0+416/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2F78%2Fb88120874dcbb36d545addcd31ed%2F62f683aa14734a71b6120d1bafb918c7.jpg",
+            "publishedAt": "2026-06-06T21:00:57Z",
+            "lang": "en",
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
             }
         }
     ]
