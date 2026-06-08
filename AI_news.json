@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 356924,
+    "totalArticles": 357444,
     "articles": [
         {
-            "id": "e09864ab7597ff263c5c260bba17f84d",
-            "title": "Who Is Sriram Krishnan? Donald Trump’s AI Advisor To Quit Key White House Post",
-            "description": "Sriram Krishnan will step down as a senior White House AI policy adviser at the end of June. His departure comes as the Trump administration advances new artificial intelligence policies and oversight measures.",
-            "content": "24\nAn influential White House artificial intelligence policy adviser announced on Saturday that he will leave his position at the end of June, marking the departure of a key figure involved in shaping U.S. policy on emerging AI technologies. ‘This jo... [3328 chars]",
-            "url": "https://www.newsx.com/world/who-is-sriram-krishnan-donald-trumps-ai-advisor-to-quit-key-white-house-post-231238/",
-            "image": "https://www.newsx.com/wp-content/uploads/2026/06/1_54.jpg",
-            "publishedAt": "2026-06-06T22:06:57Z",
+            "id": "47f3b21cb17df056982d3267072ac14b",
+            "title": "Nvidia announces deals with South Korea's SK Hynix, Naver and Doosan for AI data centres",
+            "description": "Nvidia on Monday announced deals with South Korea's SK Hynix, Naver and Doosan Group to build AI data centres and use the U.S. chip firm's technology, as it looks to continue driving the AI boom.\n...",
+            "content": "(Corrects key words for media clients to NVIDIA-SOUTHKOREA/ from NVIDIA-SOUTH KOREA/)\nSEOUL, June 8 (Reuters) - Nvidia on Monday announced deals with South Korea's SK Hynix, Naver and Doosan Group to build AI data centres and use the U.S. chip firm's... [1736 chars]",
+            "url": "https://www.marketscreener.com/news/nvidia-announces-deals-with-south-korea-s-sk-hynix-naver-and-doosan-for-ai-data-centres-ce7f5dd2dc8df625",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-07T232702Z_1_LYNXMPEM560L4_RTROPTP_4_TAIWAN-COMPUTEX-NVIDIA.JPG",
+            "publishedAt": "2026-06-08T00:13:40Z",
             "lang": "en",
             "source": {
-                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-                "name": "NewsX",
-                "url": "https://www.newsx.com",
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "a8eafffbc0507308aa741356426be6fa",
+            "title": "Nvidia Expands AI Frontiers in South Korea with Strategic Partnerships",
+            "description": "Nvidia has announced partnerships with South Korean companies SK Hynix, Naver, and Doosan Group to develop AI data centers using its technology. This development is part of a strategic trip by Nvidia CEO Jensen Huang to South Korea, aiming to enhance AI capabilities in various sectors.",
+            "content": "Nvidia has cemented its position in the AI industry by entering into major partnerships with South Korean firms SK Hynix, Naver, and Doosan Group. The agreements focus on building AI data centers and utilizing Nvidia's cutting-edge technology to driv... [662 chars]",
+            "url": "https://www.devdiscourse.com/article/technology/3931643-nvidia-expands-ai-frontiers-in-south-korea-with-strategic-partnerships",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/11_08_2025_02_20_35_9452554.png&width=920&format=jpeg",
+            "publishedAt": "2026-06-08T00:12:31Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
                 "country": "in"
             }
         },
         {
-            "id": "a560de0a0b76cdd658ff02d1211fa38b",
-            "title": "China’s gig economy is an employment reservoir - but is the well drying up?",
-            "description": "More than 200 million people in China are flexibly employed, but AI adoption, unstable income and poor social security make positions precarious.",
-            "content": "The air carried a chill in Hengdian, one of China’s best-known hubs for drama and film production. Yu Shutian, a 30-year-old actress, was on her way to set at 3.30am, donned in a floral shirt and darkened make-up to play a rural villain.\nWith frequen... [454 chars]",
-            "url": "https://www.scmp.com/economy/china-economy/article/3356114/chinas-gig-economy-employment-reservoir-well-drying",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/05/70f13184-8cf9-428a-a8e3-b837690f9141_65a612cb.jpg?itok=3MyJIgZo&v=1780651559",
-            "publishedAt": "2026-06-06T22:00:14Z",
+            "id": "f94db4caa26918ff08d6f2390537dd16",
+            "title": "Korean Stocks Plunge as Tech Selloff Triggers Circuit Breaker on Kospi",
+            "description": "South Korean stocks plunged, imperiling the world’s biggest rally, as investors pulled back from artificial intelligence bets that have fueled the global bull market in equities.",
+            "content": "South Korean stocks plunged, imperiling the world’s biggest rally, as investors pulled back from artificial intelligence bets that have fueled the global bull market in equities.\nThe Kospi Index tumbled as much as 8.8%, triggering a 20-minute trading... [322 chars]",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-08/korean-stocks-tumble-as-investors-rush-to-offload-tech-shares",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijtKamc8NTkc/v0/1200x800.jpg",
+            "publishedAt": "2026-06-08T00:08:41Z",
             "lang": "en",
             "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
             }
         },
         {
-            "id": "a19ee11602ad46a6c43ae61db9e65107",
-            "title": "Commentary: What if AI retraining is just a comforting lie?",
-            "description": "If upskilling is being touted as the bridge to an AI future, it must lead somewhere, says Catherine Thorbecke for Bloomberg Opinion.",
-            "content": "TOKYO: No one knows whether artificial intelligence will trigger a white-collar jobpocalypse. The loudest warnings still come from people building and selling the technology, whose predictions often double as hype-mongering or cover for unrelated cos... [5562 chars]",
-            "url": "https://www.channelnewsasia.com/commentary/ai-layoffs-job-loss-upskill-reskill-tech-sector-6164066",
-            "image": "https://dam.mediacorp.sg/image/upload/s--aBPjGzol--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/tdy-migration/26192735.JPG?itok=h-IIE62I",
-            "publishedAt": "2026-06-06T22:00:00Z",
+            "id": "3bfd5d9d4fd5369d907d63643b000893",
+            "title": "Asia markets tumble as tech rout deepens",
+            "description": "Asian markets have taken a dive as investors ended weeks of the red-hot AI rally, while Israeli strikes on ‌Beirut sent oil prices and the dollar higher.",
+            "content": "Asian markets have plunged as investors slammed the brakes on the red-hot AI rally, while Israeli strikes on Beirut sent oil prices and the dollar higher.\nAn eight per cent drop for South Korea's chip-heavy KOSPI benchmark triggered a 20-minute tradi... [2026 chars]",
+            "url": "https://www.perthnow.com.au/news/business/markets/asia-markets-brace-for-selling-after-wall-st-tech-rout-c-22399068",
+            "image": "https://images.perthnow.com.au/publication/C-22399068/2196f748499028103a14a91526382e5cb4da62a6-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-06-08T00:04:45Z",
             "lang": "en",
             "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "b5ef1c07735a99135c09fb5bbc00cf5d",
-            "title": "Quote of the day by Nvidia CEO, Jensen Huang: \"I appreciate that many of us grew up and enjoyed science fiction, but it's not helpful\" — on quantifying the existential risks posed by AI",
-            "description": "With prominent scientists and technologists frequently warning of the risks of AI, Jensen Huang eases concerns by lamenting the influence of sci-fi",
-            "content": "One of the most important figures at the heart of the rise of AI is Jensen Huang, co-founder and CEO of Nvidia. His company manufactures the GPUs that excel in training and inference, and is positioning itself at the heart of the infrastructure and e... [1329 chars]",
-            "url": "https://www.techradar.com/pro/quote-of-the-day-by-nvidia-ceo-jensen-huang-i-appreciate-that-many-of-us-grew-up-and-enjoyed-science-fiction-but-its-not-helpful-on-quantifying-the-existential-risks-posed-by-ai",
-            "image": "https://cdn.mos.cms.futurecdn.net/rR3zuBMSKgRpoWgXYsh5U-1920-80.jpg",
-            "publishedAt": "2026-06-06T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
                 "country": "au"
             }
         },
         {
-            "id": "a82b553346ff6f4154c67b61864e423e",
-            "title": "Trump marks D-Day with AI video of him riding a lion and photo portraying Obama library as trash can",
-            "description": "Meanwhile, Defense Secretary Pete Hegseth warned European allies of being stormed by ‘different, dangerous ideologies’",
-            "content": "President Donald Trump marked the 82nd anniversary of D-Day, when the Allied powers stormed the beaches of Normandy during World War II, by sharing artificial intelligence-generated content that took aim at a range of his perceived opponents.\nSaturda... [2878 chars]",
-            "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-d-day-post-ai-obama-library-b2991121.html",
-            "image": "https://static.independent.co.uk/2026/06/06/19/13/FotoJet.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-            "publishedAt": "2026-06-06T21:35:35Z",
+            "id": "0ed4a84426e1a7f31488ba8c73ac5b6a",
+            "title": "AI Companies Are Rapidly Expanding Into Each Other's Markets",
+            "description": "Companies are ruthlessly invading each other's turf. Ever-increasing valuations mean companies need to find new sources of revenue.",
+            "content": "Earlier this year, I had a noble idea.\nFor my job, I have to remember a lot of AI companies, so I thought I'd draw up a competition map for my desk. I'd divvy a sheet of paper into columns and list major companies based on which part of the AI supply... [6959 chars]",
+            "url": "https://www.businessinsider.com/everyone-is-building-everything-openai-anthropic-lovable-cursor-canva-2026-6",
+            "image": "https://i.insider.com/6a23659b2e5a80cfe0504232?width=1200&format=jpeg",
+            "publishedAt": "2026-06-08T00:00:01Z",
             "lang": "en",
             "source": {
-                "id": "97497c18f5cb431f5f324b3d8643c24f",
-                "name": "The Independent",
-                "url": "https://www.independent.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "9d41464f3b04b4731dbd161be15150e2",
-            "title": "Scammers Are Weaponizing AI For Their Nefarious Goals As Fraud-Related Losses For U.S. Consumers Approach $1 Billion, With Little Respite",
-            "description": "Using elaborate scams using AI is getting out of hand, as a new report states that U.S. customers are losing close to $1 billion",
-            "content": "The AI boom isn’t just exacerbating a RAM and storage crisis, but its inception has allowed scammers a whole new layer of creativity to deprive innocent Americans of their hard-earned money. According to the latest statistics, AI-fueled scams are app... [3007 chars]",
-            "url": "https://wccftech.com/scammers-with-ai-are-costing-american-customers-900-million-losses/",
-            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/AI-related-scams.jpg",
-            "publishedAt": "2026-06-06T21:26:32Z",
-            "lang": "en",
-            "source": {
-                "id": "9a68172fefded1b86fc9a95d43faf501",
-                "name": "Wccftech",
-                "url": "https://wccftech.com",
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
                 "country": "us"
             }
         },
         {
-            "id": "afc09d5e1a33f1354c8c78b4c68fdfe0",
-            "title": "'This is herculean:' How Alberta, B.C. Mounties are using AI to write reports",
-            "description": "Mounties are testing a program that could eventually see criminal defendants battle a new opponent in court — artificial intelligence.",
-            "content": "Mounties are testing a program that could eventually see criminal defendants battle a new opponent in court — artificial intelligence.\nRCMP say AI is being used to write police reports on everything from traffic tickets to serious offences — except m... [5093 chars]",
-            "url": "https://cheknews.ca/this-is-herculean-how-alberta-b-c-mounties-are-using-ai-to-write-reports-1329140/",
-            "image": "https://i0.wp.com/cheknews.ca/wp-content/uploads/2026/03/90271d97-417e-48ef-91e7-195efc96f3c3-scaled.jpg?fit=2560%2C1724&ssl=1",
-            "publishedAt": "2026-06-06T21:15:00Z",
+            "id": "61dc3d0fe0c9942323aa33521f89cc82",
+            "title": "Opinion: Preparing for the Inevitable Shock of AI",
+            "description": "Opinion: Preparing for the Inevitable Shock of AI - Proactive adaptation and robust safety nets are essential to ensure the artificial intelligence revolution benefits all workers",
+            "content": "1. The new industrial revolution driven by artificial intelligence (AI) is advancing rapidly, attracting significant capital market interest, while also raising widespread concern over its complex economic and social impacts [para. 1]. The developmen... [3253 chars]",
+            "url": "https://www.caixinglobal.com/2026-06-08/opinion-preparing-for-the-inevitable-shock-of-ai-102451992.html",
+            "image": "https://img.caixin.com/2026-06-08/178089948672975_560_373.jpg",
+            "publishedAt": "2026-06-08T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "010284b7a4ddb4771793c29b39893951",
-                "name": "CHEK News",
-                "url": "https://cheknews.ca",
-                "country": "ca"
+                "id": "f6aff458be2c33b80c8600fb696f68fb",
+                "name": "Caixin",
+                "url": "https://www.caixinglobal.com",
+                "country": "cn"
             }
         },
         {
-            "id": "9acbb36c50b4f9adeb6e43f585e82742",
-            "title": "The Leopard Is Eating David Sacks's Face",
-            "description": "\"Nationalization of AI will accelerate the corporate-government fusion we’re already sliding toward,\" wrote Sacks.",
-            "content": "President Donald Trump confirmed Friday that he’s thinking about the U.S. government entering into some kind of partnership with the major AI companies, perhaps even taking a stake like he did with Intel. Trump is meeting with the leaders of the AI c... [3557 chars]",
-            "url": "https://gizmodo.com/the-leopard-is-eating-david-sackss-face-2000768295",
-            "image": "https://gizmodo.com/app/uploads/2026/03/david-sacks-donald-trump-2025-1200x675.jpg",
-            "publishedAt": "2026-06-06T21:10:52Z",
+            "id": "dce70bf85d393f25a40d70bd771bc551",
+            "title": "Broadcom: Slight Crack In AI Story Overblown",
+            "description": "Broadcom stock dropped on FY27 AI revenue guidance despite surging sales. Read the full analysis here.",
+            "content": "Analyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, but may initiate a beneficial Long position through a purchase of the stock, or the purchase of call options or similar derivatives in ... [1158 chars]",
+            "url": "https://seekingalpha.com/article/4912677-broadcom-slight-crack-in-ai-story-overblown",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1414874188/image_1414874188.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-06-08T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
                 "country": "us"
             }
         },
         {
-            "id": "44d478145843d1d145e7f88dcef422fb",
-            "title": "Cathie Wood Ditches Fed Rate Hike Fears With Bullish Market Note",
-            "description": "Cathie Wood says markets are misreading strong jobs data, arguing AI-driven productivity growth could lower inflation and ease Fed rate fears.",
-            "content": "Cathie Wood took to social media to ease investor worries of the Federal Reserve raising interest rates. Her comments follow a stronger-than-expected U.S. jobs report.\nCathie Wood Shares Overview On Jobs Report\nThe latest labor market data is being m... [2473 chars]",
-            "url": "https://coingape.com/cathie-wood-ditches-fed-rate-hike-fears-with-bullish-market-note/",
-            "image": "https://coingape.com/wp-content/uploads/2026/06/cathie_wood_ditches_fed_rate_hike.webp",
-            "publishedAt": "2026-06-06T21:01:34Z",
+            "id": "e5e6adfb535db251d769acbb55186c3e",
+            "title": "CX Daily: Can AI Therapists Read Your Mind?",
+            "description": "CX Daily: Can AI Therapists Read Your Mind? - China’s companies, hospitals and schools are testing chatbots for emotional support, screening and treatment",
+            "content": "TOP STORIES\nIn Depth: Can AI Therapists Read Your Mind?\nImagine this scenario: When troubled and seeking psychological guidance, or grappling with negative emotions, you no longer need to drive across the city to a therapy clinic. Nor do you have to ... [391 chars]",
+            "url": "https://www.caixinglobal.com/2026-06-08/cx-daily-can-ai-therapists-read-your-mind-102451446.html",
+            "image": "https://img.caixin.com/2026-05-29/178002764729358_560_373.jpg",
+            "publishedAt": "2026-06-08T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
-                "name": "CoinGape",
-                "url": "https://coingape.com",
+                "id": "f6aff458be2c33b80c8600fb696f68fb",
+                "name": "Caixin",
+                "url": "https://www.caixinglobal.com",
+                "country": "cn"
+            }
+        },
+        {
+            "id": "b20312bc41936926784606418f660189",
+            "title": "Japan’s Stocks Set to Sink on Tech Selloff, Middle East Worries",
+            "description": "Japanese stocks are set to fall, led by tech shares, after strong US jobs data fueled expectations that the Federal Reserve will keep rates higher for longer, sparking a selloff in AI-related shares on Wall Street.",
+            "content": "Japanese stocks are set to fall, led by tech shares, after strong US jobs data fueled expectations that the Federal Reserve will keep rates higher for longer, sparking a selloff in AI-related shares on Wall Street.\nStocks are also set to come under p... [2118 chars]",
+            "url": "https://www.livemint.com/market/japans-stocks-set-to-sink-on-tech-selloff-middle-east-worries-11780876777002.html",
+            "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+            "publishedAt": "2026-06-07T23:59:36Z",
+            "lang": "en",
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
                 "country": "in"
             }
         },
         {
-            "id": "d0583634cdc5d582b5bf46924e0beb5a",
-            "title": "Public ownership in AI: Trump and Sanders find common ground",
-            "description": "OpenAI CEO Sam Altman has met with Sen. Bernie Sanders to discuss public ownership in AI companies, and President Trump too has expressed interest in the idea.",
-            "content": "It was perhaps a surprising private overture from OpenAI Chief Executive Sam Altman to Sen. Bernie Sanders.\nThe meeting between the two had come just after the Vermont senator announced a plan for the public to take a 50% ownership stake in artificia... [6554 chars]",
-            "url": "https://www.latimes.com/world-nation/story/2026-06-06/public-ownership-in-ai-trump-sanders-find-common-ground",
-            "image": "https://ca-times.brightspotcdn.com/dims4/default/38ad1c8/2147483647/strip/true/crop/5874x3084+0+416/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2F78%2Fb88120874dcbb36d545addcd31ed%2F62f683aa14734a71b6120d1bafb918c7.jpg",
-            "publishedAt": "2026-06-06T21:00:57Z",
+            "id": "64a2a3eb3f18a0966536fd601aded0f2",
+            "title": "Tensions Mount as US Faces Domestic and Global Challenges",
+            "description": "A summary of U.S. news highlights various domestic and international issues. Key stories include a judge blocking USDA fund restrictions, U.S. aid for Ebola in Congo, a missing U.S. student found dead in Japan, and tensions in the White House over AI policy and gun laws. Additionally, protests emerge against Trump's policies, screwworm cases in Texas, and heightened security at the NBA Finals highlighted.",
+            "content": "In a significant legal ruling, a federal judge has blocked the Trump administration's controversial attempt to tie U.S. Department of Agriculture funds to compliance with certain immigration and other policies. The decision, which affects billions in... [790 chars]",
+            "url": "https://www.devdiscourse.com/article/law-order/3931637-tensions-mount-as-us-faces-domestic-and-global-challenges",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_08_2024_13_01_25_4431613.png&width=920&format=jpeg",
+            "publishedAt": "2026-06-07T23:52:24Z",
             "lang": "en",
             "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
             }
         }
     ]
