@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 358838,
+    "totalArticles": 360248,
     "articles": [
         {
-            "id": "a221350dc35ef2cac8ef2e269fe3e926",
-            "title": "Apple's Upgraded Siri AI Promises to Do More. I'm Not Sure I Want That",
-            "description": "I can't trust AI to complete my tasks as I would.",
-            "content": "With Apple's long-promised Siri makeover, Siri AI will work across more apps and devices. I'm not thrilled about it.\nAt its WWDC 2026 developer conference on Monday, Apple made its new Siri the focus. You'll be able to summon Siri to find out about c... [3882 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/siri-ai-wwdc-2026-can-you-trust-it/",
-            "image": "https://www.cnet.com/a/img/resize/d2fd697a002632c852f1c365b9764a41afdf82cd/hub/2026/06/08/b32327b9-a4d2-42ff-a25f-7943a5a7aed4/screenshot-2026-06-08-at-1-35-47pm.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-06-08T22:44:47Z",
+            "id": "a43b703e3af05197f78be426865ab437",
+            "title": "Anthropic sets AI performance records with new Mythos 5, Fable 5 frontier models",
+            "description": "Anthropic sets AI performance records with new Mythos 5, Fable 5 frontier models - SiliconANGLE",
+            "content": "Anthropic PBC today introduced Claude Mythos 5 and Claude Fable 5, two large language models that it says outperform the competition across a wide range of benchmarks.\nThe LLMs are derived from the Claude Mythos Preview algorithm that the company deb... [2704 chars]",
+            "url": "https://siliconangle.com/2026/06/09/anthropic-sets-ai-performance-records-new-mythos-5-fable-5-frontier-models/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Anthropic-1.png",
+            "publishedAt": "2026-06-09T23:24:20Z",
             "lang": "en",
             "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
                 "country": "us"
             }
         },
         {
-            "id": "b7f9600a5f4d9d448a88cc2f6ce1580e",
-            "title": "Your career needs a ‘gym membership’ to keep up with continuous AI advancements",
-            "description": "“I'm sorry if you’re exhausted,” said AI learning founder and Campus Chancellor Tade Oyerinde.",
-            "content": "Speaking during the first day of the 25th annual Fortune Brainstorm Tech conference in Aspen, Colorado on Monday, Oyerinde posited that AI’s rapid pace of improvement has permanently changed the calculus of education—no matter where you are in your c... [4414 chars]",
-            "url": "https://fortune.com/2026/06/08/ai-advances-careers-continuous-learning-tade-oyerinde-campus-founder/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/55323438315_af0e27fa11_o-e1780955879121.jpg?resize=1200,600",
-            "publishedAt": "2026-06-08T22:43:38Z",
+            "id": "aa54bcb134fcc19e31dd9e9d32d26284",
+            "title": "AI is boosting accuracy for clinicians, Philips North America CEO says",
+            "description": "NEW YORK, ⁠June 9 (Reuters) - Artificial intelligence is helping improve accuracy in patient care ⁠and in some cases saving time and money, according to ‌a survey sponsored by Philips, which provides diagnostic, imaging, and cloud technology to the healthcare industry, the CEO of its North American division said.",
+            "content": "NEW YORK, ⁠June 9 (Reuters) - Artificial intelligence is helping improve accuracy in patient care ⁠and in some cases saving time and money, according to ‌a survey sponsored by Philips, which provides diagnostic, imaging, and cloud technology to the h... [1633 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/10/ai-is-boosting-accuracy-for-clinicians-philips-north-america-ceo-says",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/10/3951173.jpg",
+            "publishedAt": "2026-06-09T23:21:00Z",
             "lang": "en",
             "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "4a98461bec982e47e8c995acafc0fa65",
+            "title": "Anthropic rolls out public version of Mythos without cybersecurity capability",
+            "description": "June 9 (Reuters) - Anthropic is rolling out a public version of its Mythos ⁠AI model, but with guardrails barring its use in risky areas such ‌as cybersecurity, after a preview earlier this year sent shockwaves globally with its ability to find software flaws.",
+            "content": "June 9 (Reuters) - Anthropic is rolling out a public version of its Mythos ⁠AI model, but with guardrails barring its use in risky areas such ‌as cybersecurity, after a preview earlier this year sent shockwaves globally with its ability to find softw... [1766 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/10/anthropic-rolls-out-public-version-of-mythos-without-cybersecurity-capability",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/10/3951172.jpg",
+            "publishedAt": "2026-06-09T23:20:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "1d8d99ac7707ad7a046f6b1ea19b5c97",
+            "title": "Beacon Software, a Constellation Software rival, raises $225-million to fund AI-infused consolidation play",
+            "description": "Toronto-based startup cofounded by ex-Instacart president achieves US$1.4-billion-plus valuation with new funding round",
+            "content": "Beacon Software, an emerging rival to Toronto consolidation machine Constellation Software, has raised US$225-million to fund a growth plan that leans into arming acquired companies with artificial intelligence tools.\nBeacon, which is also based in T... [4510 chars]",
+            "url": "https://www.theglobeandmail.com/business/article-beacon-software-a-constellation-software-rival-raises-225-million-to/",
+            "image": "https://www.theglobeandmail.com/resizer/v2/U5H5263UZNFJLMQI2UEJATG4S4.jpg?auth=e6ba647152d6483c0f4e20a33154749a7ff5d5926bf75054f11ff1f746b47621&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2026-06-09T23:18:53Z",
+            "lang": "en",
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "67af4b13f69b4dccd6a017f2a2d990e7",
+            "title": "AI technology boss, 54, 'stabbed to death at £2.5m home' as woman arrested on suspicion of murder",
+            "description": "THE boss of an AI technology firm was allegedly stabbed to death at his £2.5million country home with cops arresting a woman on suspicion of...",
+            "content": "THE boss of an AI technology firm was allegedly stabbed to death at his £2.5million country home with cops arresting a woman on suspicion of murder.\nNeil Muller, 54, suffered fatal chest wounds at his five-bedroom gated property in the Warwickshire v... [2638 chars]",
+            "url": "https://www.thesun.ie/news/17081244/ai-boss-stabbed-death-woman-arrested-murder/",
+            "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/06/crop-39358262.jpg?quality=90&strip=all&w=1040&h=692&crop=1",
+            "publishedAt": "2026-06-09T23:17:25Z",
+            "lang": "en",
+            "source": {
+                "id": "cf119ed600a8a7c8e23575950f071fec",
+                "name": "The Irish Sun",
+                "url": "https://www.thesun.ie",
+                "country": "ie"
+            }
+        },
+        {
+            "id": "871cab458a708a03145c29863a37b1ff",
+            "title": "AI technology boss, 54, 'stabbed to death at £2.5m home' as woman arrested on suspicion of murder",
+            "description": "THE boss of an AI technology firm was allegedly stabbed to death at his £2.5million country home as cops arrested a woman on suspicion of...",
+            "content": "THE boss of an AI technology firm was allegedly stabbed to death at his £2.5million country home as cops arrested a woman on suspicion of murder.\nNeil Muller, 54, suffered fatal chest wounds at his five-bedroom gated property in the Warwickshire vill... [2705 chars]",
+            "url": "https://www.thesun.co.uk/news/39357780/ai-boss-stabbed-death-woman-arrested-murder/",
+            "image": "https://www.thesun.co.uk/wp-content/uploads/2026/06/crop-39358262.jpg?quality=90&strip=all&w=1040&h=692&crop=1",
+            "publishedAt": "2026-06-09T23:17:25Z",
+            "lang": "en",
+            "source": {
+                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+                "name": "The Sun",
+                "url": "https://www.thesun.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "ef13dc8baf46a9c8a6f556eff233aff5",
+            "title": "UK firms embrace AI boom, but leadership gap threatens growth",
+            "description": "LONDON, June 10, 2026 (GLOBE NEWSWIRE) -- The UK's ambitions to become a global leader in artificial intelligence risk being held back by a shortage of managers and leaders with the skills and confidence to turn investment in AI into higher productivity, stronger businesses and economic growth, according to new research from the Chartered Management Institute (CMI).",
+            "content": "LONDON, June 10, 2026 (GLOBE NEWSWIRE) -- The UK's ambitions to become a global leader in artificial intelligence risk being held back by a shortage of managers and leaders with the skills and confidence to turn investment in AI into higher productiv... [2310 chars]",
+            "url": "https://www.manilatimes.net/2026/06/10/tmt-newswire/globenewswire/uk-firms-embrace-ai-boom-but-leadership-gap-threatens-growth/2362237",
+            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-06-09T23:15:14Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "ab2c8047b2cb84459d150cbdba8cbfe8",
+            "title": "Taiwan eyes curbs on AI chip sales to China to align with U.S.",
+            "description": "The move would mark an effort to address semiconductor smuggling but risks drawing a rebuke from Beijing.",
+            "content": "Taiwan authorities are considering much stricter export controls on AI chip sales to China to further align with U.S. measures, according to people familiar with the matter, an effort to address semiconductor smuggling that risks drawing a rebuke fro... [719 chars]",
+            "url": "https://www.japantimes.co.jp/news/2026/06/10/asia-pacific/politics/taiwan-ai-chip-sales-china-us/",
+            "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/10/545231.jpg?v=3.1",
+            "publishedAt": "2026-06-09T23:07:51Z",
+            "lang": "en",
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            }
+        },
+        {
+            "id": "7928ed2eacf6062c749dfa73083e5fd9",
+            "title": "Conan O'Brien Is Hosting Educational Videos For An AI Cybersecurity Company",
+            "description": "At long last, a corporate training you might actually enjoy.",
+            "content": "Cybersecurity AI company Adaptive Security has partnered with famed comedian Conan O'Brien for a 15-part educational video series. These training videos will help Adaptive's clients and their employees to navigate threats such as phishing and deepfak... [765 chars]",
+            "url": "https://www.engadget.com/2191051/conan-o-brien-is-hosting-educational-videos-for-an-ai-cybersecurity-company/",
+            "image": "https://www.engadget.com/img/gallery/conan-obrien-is-hosting-educational-videos-for-an-ai-cybersecurity-company/l-intro-1781045515.jpg",
+            "publishedAt": "2026-06-09T22:53:41Z",
+            "lang": "en",
+            "source": {
+                "id": "549a7a859b2345bbe231b00e7244ef99",
+                "name": "Engadget",
+                "url": "https://www.engadget.com",
                 "country": "us"
             }
         },
         {
-            "id": "160eafccfdeaa8b6378f97f9ed857ed5",
-            "title": "Apple launches watchOS 27 with Siri AI, smarter fitness tools, and a redesigned Apple Watch experience",
-            "description": "Apple has unveiled watchOS 27 with Siri AI, smarter fitness tools, Apple Intelligence integration, redesigned apps, and improved everyday assistance for Apple Watch users.",
-            "content": "Apple has officially unveiled watchOS 27 at WWDC 2026, bringing one of the biggest updates yet to the Apple Watch. The new software introduces Siri AI, expanded Apple Intelligence features, smarter fitness tools, and a refreshed user interface design... [2803 chars]",
-            "url": "https://www.digitaltrends.com/wearables/apple-launches-watchos-27-with-siri-ai-smarter-fitness-tools-and-a-redesigned-apple-watch-experience/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/06/DT-2026-06-09T040847.023.jpg?resize=1200%2C630",
-            "publishedAt": "2026-06-08T22:42:29Z",
+            "id": "2c9f65e190e5540d14721e1bb888063d",
+            "title": "The 'Real Economy' Remains Troubled",
+            "description": "The AI-driven tech surge is masking significant underlying weakness in the broader U.S. economy. Read the full analysis here.",
+            "content": "Analyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I ... [720 chars]",
+            "url": "https://seekingalpha.com/article/4913509-the-real-economy-remains-troubled",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2228944810/image_2228944810.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-06-09T22:51:59Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e25ea388c6e54c3927b7f07def6d8414",
-            "title": "What About VisionOS 27? At WWDC, The Apple Vision Pro Was Gone But Not Forgotten",
-            "description": "Apple's futuristic spatial computing headset gets some AI updates in visionOS 27.",
-            "content": "visionOS wasn't the least-mentioned of Apple's operating systems at WWDC — that would be tvOS — but it was hardly a headliner.\nUsually, the WWDC keynote includes a dedicated segment for iOS, macOS, iPadOS, watchOS, visionOS, and tvOS. But this year, ... [4887 chars]",
-            "url": "https://in.mashable.com/tech/110666/what-about-visionos-27-at-wwdc-the-apple-vision-pro-was-gone-but-not-forgotten",
-            "image": "https://sm.mashable.com/t/mashable_in/article/w/what-about/what-about-visionos-27-at-wwdc-the-apple-vision-pro-was-gone_uvxq.1200.jpg",
-            "publishedAt": "2026-06-08T22:40:04Z",
-            "lang": "en",
-            "source": {
-                "id": "e894895ef041ab9c6cb7fe7223531f53",
-                "name": "Mashable India",
-                "url": "https://in.mashable.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "9ede0bb94e53e22317f81e39dd7be906",
-            "title": "Could this ASX ETF be the best way to invest in the AI boom?",
-            "description": "This ASX ETF could be worth considering if you are looking for exposure to the artificial intelligence (AI) boom...",
-            "content": "Artificial intelligence (AI) has become one of the biggest investment themes in the world.\nBut picking the winners is not easy. Some companies will dominate more than others and valuations across the sector can move quickly when sentiment changes.\nTh... [2368 chars]",
-            "url": "https://www.fool.com.au/2026/06/09/could-this-asx-etf-be-the-best-way-to-invest-in-the-ai-boom/",
-            "image": "https://www.fool.com.au/wp-content/uploads/2024/08/AI-touch-16.9-1200x675.jpg",
-            "publishedAt": "2026-06-08T22:38:47Z",
-            "lang": "en",
-            "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "The Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "5d10dd3d994cab0492f6fbdd9f4fdf04",
-            "title": "Sam Altman Says OpenAI Is Entering Its Third Phase, Shares Plan",
-            "description": "OpenAI's Sam Altman outlines AI's third phase, focusing on abundance, safety, and global collaboration as the company plans an IPO.",
-            "content": "Three and a half years since OpenAI ushered artificial intelligence into the mainstream with the release of ChatGPT, its CEO and cofounder says the company is entering its third phase — making AI abundant, accessible, and safe.\nSam Altman and Jakub P... [2304 chars]",
-            "url": "https://www.businessinsider.com/sam-altman-openai-third-phase-plan-2026-6",
-            "image": "https://i.insider.com/6a273d7f6f4f6ea1de4d36c8?width=1200&format=jpeg",
-            "publishedAt": "2026-06-08T22:34:23Z",
-            "lang": "en",
-            "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c8462902b31a7be8203fa0e0a455a836",
-            "title": "How to Use AI to Pick the Best Game-Day and Airplane Seats",
-            "description": "Game the aisles without paying the up-charge.",
-            "content": "Plonking down a premium for a window seat on a flight or paying extra to get a better view of your favorite artist on stage or your favorite sports team play has always been a deeply personal, sometimes emotionally charged thing. So is getting fleece... [5709 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-get-the-best-seat-on-planes-and-at-events/",
-            "image": "https://www.cnet.com/a/img/resize/69cde0021a3fde5092522e11a2230d7483826f59/hub/2026/06/05/df0107ba-db7c-49f6-97bf-c9f0454aef6d/gettyimages-2276627357.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-06-08T22:33:44Z",
-            "lang": "en",
-            "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "a0e0d95651abec193d147a27db731030",
-            "title": "OpenAI Files Confidential IPO: Here’s What It Means",
-            "description": "OpenAI, Anthropic, and SpaceX are preparing for potential IPOs in 2026, signalling one of the biggest waves of public listings in years. Driven by AI growth and strong investor demand, Wall Street forecasts record-breaking IPO activity.",
-            "content": "16\nA major wave of blockbuster initial public offerings is building toward 2026, with some of the world’s most valuable private companies preparing to enter public markets. Led by artificial intelligence giants OpenAI and Anthropic, along with Elon M... [4434 chars]",
-            "url": "https://www.newsx.com/tech-and-auto/openai-files-confidential-ipo-heres-what-it-means-231990/",
-            "image": "https://www.newsx.com/wp-content/uploads/2026/06/1_71.jpg",
-            "publishedAt": "2026-06-08T22:32:20Z",
-            "lang": "en",
-            "source": {
-                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-                "name": "NewsX",
-                "url": "https://www.newsx.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "7059a2467a72bba1d4fc867747590d47",
-            "title": "17 things we learned at WWDC 2026 - Siri's getting a big AI makeover, Golden Gate is the next macOS, Liquid Glass is changing, and more",
-            "description": "All the big stories from Apple's annual developer conference",
-            "content": "We've been waiting a long, long time for Siri to get the AI glow-up it sorely needed, but at WWDC 2026, it finally happened: Siri AI is real.\nThat wasn't the only thing Apple announced at its annual developer conference, but it's fair to say that it ... [15896 chars]",
-            "url": "https://www.techradar.com/tech/17-things-we-learned-at-wwdc-2026-siris-getting-a-big-ai-makeover-golden-gate-is-the-next-macos-liquid-glass-is-changing-and-more",
-            "image": "https://cdn.mos.cms.futurecdn.net/ZyzoMLkxVcnDZXHCK2UrVL-2000-80.jpg",
-            "publishedAt": "2026-06-08T22:30:52Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "2666bf75b9ae0e86533b0968307095c0",
-            "title": "The Biggest Announcements From Apple’s WWDC, From Siri AI to Visual Intelligence",
-            "description": "Apple made a ton of announcements at WWDC 2026, including new Apple Intelligence features, Siri AI, and software updates for all its products.",
-            "content": "This year's WWDC was a big one. Tim Cook took the virtual stage one last time to lead the company's announcements across all of its platforms. As expected, this year we're getting iOS 27, iPadOS 27, macOS 27, among other updates, as well as new Apple... [9131 chars]",
-            "url": "https://lifehacker.com/tech/everything-apple-announced-at-wwdc-2026",
-            "image": "https://lifehacker.com/imagery/articles/01KTMGYBX487TA7NATW05856N5/hero-image.fill.size_1200x675.jpg",
-            "publishedAt": "2026-06-08T22:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5240ef9173881b8031afe68dcbb2f7a3",
-                "name": "Lifehacker",
-                "url": "https://lifehacker.com",
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
                 "country": "us"
             }
         }
