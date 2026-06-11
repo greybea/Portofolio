@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 360248,
+    "totalArticles": 361529,
     "articles": [
         {
-            "id": "a43b703e3af05197f78be426865ab437",
-            "title": "Anthropic sets AI performance records with new Mythos 5, Fable 5 frontier models",
-            "description": "Anthropic sets AI performance records with new Mythos 5, Fable 5 frontier models - SiliconANGLE",
-            "content": "Anthropic PBC today introduced Claude Mythos 5 and Claude Fable 5, two large language models that it says outperform the competition across a wide range of benchmarks.\nThe LLMs are derived from the Claude Mythos Preview algorithm that the company deb... [2704 chars]",
-            "url": "https://siliconangle.com/2026/06/09/anthropic-sets-ai-performance-records-new-mythos-5-fable-5-frontier-models/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Anthropic-1.png",
-            "publishedAt": "2026-06-09T23:24:20Z",
+            "id": "2ae7f8c8750a776c078654582f0c9b87",
+            "title": "How Fake News Became the Most Dangerous Force in Energy Markets",
+            "description": "AI-generated misinformation is already moving energy markets. Hydaway Digital is building the verification layer financial systems desperately need.",
+            "content": "We live in a dangerously synthetic world. Scalper-style traders reportedly generated significant profits on suspiciously timed oil trades surrounding Iran war developments in Q2.\nAI-generated content is creating new verification challenges. Fake news... [13299 chars]",
+            "url": "https://oilprice.com/Energy/Energy-General/How-Fake-News-Became-the-Most-Dangerous-Force-in-Energy-Markets.html",
+            "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-10_fq9yvtlnui.jpg",
+            "publishedAt": "2026-06-11T00:01:00Z",
             "lang": "en",
             "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
+                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
+                "name": "OilPrice",
+                "url": "https://oilprice.com",
                 "country": "us"
             }
         },
         {
-            "id": "aa54bcb134fcc19e31dd9e9d32d26284",
-            "title": "AI is boosting accuracy for clinicians, Philips North America CEO says",
-            "description": "NEW YORK, ⁠June 9 (Reuters) - Artificial intelligence is helping improve accuracy in patient care ⁠and in some cases saving time and money, according to ‌a survey sponsored by Philips, which provides diagnostic, imaging, and cloud technology to the healthcare industry, the CEO of its North American division said.",
-            "content": "NEW YORK, ⁠June 9 (Reuters) - Artificial intelligence is helping improve accuracy in patient care ⁠and in some cases saving time and money, according to ‌a survey sponsored by Philips, which provides diagnostic, imaging, and cloud technology to the h... [1633 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/10/ai-is-boosting-accuracy-for-clinicians-philips-north-america-ceo-says",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/10/3951173.jpg",
-            "publishedAt": "2026-06-09T23:21:00Z",
+            "id": "60bf49715e8a196822da050306f6ab9b",
+            "title": "Canada Introduces Bill To Ban Social Media For Children Under 16 And Regulate AI Chatbots",
+            "description": "Canada has introduced a new digital safety bill that would ban social media for children under 16 and regulate AI chatbots, with significant penalties for companies that fail to meet new safety standards.",
+            "content": "44\nCanada’s government introduced a new digital safety bill that would ban social media use for children under 16, with exemptions for platforms that meet specific safety standards. The move comes months after Australia enacted the world’s first nati... [2951 chars]",
+            "url": "https://www.newsx.com/world/canada-introduces-bill-to-ban-social-media-for-children-under-16-and-regulate-ai-chatbots-232817/",
+            "image": "https://www.newsx.com/wp-content/uploads/2026/06/1_89.jpg",
+            "publishedAt": "2026-06-11T00:00:17Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
+                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+                "name": "NewsX",
+                "url": "https://www.newsx.com",
+                "country": "in"
             }
         },
         {
-            "id": "4a98461bec982e47e8c995acafc0fa65",
-            "title": "Anthropic rolls out public version of Mythos without cybersecurity capability",
-            "description": "June 9 (Reuters) - Anthropic is rolling out a public version of its Mythos ⁠AI model, but with guardrails barring its use in risky areas such ‌as cybersecurity, after a preview earlier this year sent shockwaves globally with its ability to find software flaws.",
-            "content": "June 9 (Reuters) - Anthropic is rolling out a public version of its Mythos ⁠AI model, but with guardrails barring its use in risky areas such ‌as cybersecurity, after a preview earlier this year sent shockwaves globally with its ability to find softw... [1766 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/10/anthropic-rolls-out-public-version-of-mythos-without-cybersecurity-capability",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/10/3951172.jpg",
-            "publishedAt": "2026-06-09T23:20:00Z",
+            "id": "908773f78c50bb42ddcc5691f10b14ac",
+            "title": "Canada's 'AI for All' strategy has ambitious growth targets, but it falls short on workers and the environment",
+            "description": "Prime Minister Mark Carney unveiled Canada's AI for All strategy on June 4, committing more than $2 billion in new spending and targeting $200 billion in additional GDP growth and 250,000 new jobs by 2031.",
+            "content": "Prime Minister Mark Carney unveiled Canada's AI for All strategy on June 4, committing more than $2 billion in new spending and targeting $200 billion in additional GDP growth and 250,000 new jobs by 2031.\nThe plan is organized around several pillars... [7191 chars]",
+            "url": "https://phys.org/news/2026-06-canada-ai-strategy-ambitious-growth.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg",
+            "publishedAt": "2026-06-11T00:00:01Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "1d8d99ac7707ad7a046f6b1ea19b5c97",
-            "title": "Beacon Software, a Constellation Software rival, raises $225-million to fund AI-infused consolidation play",
-            "description": "Toronto-based startup cofounded by ex-Instacart president achieves US$1.4-billion-plus valuation with new funding round",
-            "content": "Beacon Software, an emerging rival to Toronto consolidation machine Constellation Software, has raised US$225-million to fund a growth plan that leans into arming acquired companies with artificial intelligence tools.\nBeacon, which is also based in T... [4510 chars]",
-            "url": "https://www.theglobeandmail.com/business/article-beacon-software-a-constellation-software-rival-raises-225-million-to/",
-            "image": "https://www.theglobeandmail.com/resizer/v2/U5H5263UZNFJLMQI2UEJATG4S4.jpg?auth=e6ba647152d6483c0f4e20a33154749a7ff5d5926bf75054f11ff1f746b47621&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2026-06-09T23:18:53Z",
-            "lang": "en",
-            "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "67af4b13f69b4dccd6a017f2a2d990e7",
-            "title": "AI technology boss, 54, 'stabbed to death at £2.5m home' as woman arrested on suspicion of murder",
-            "description": "THE boss of an AI technology firm was allegedly stabbed to death at his £2.5million country home with cops arresting a woman on suspicion of...",
-            "content": "THE boss of an AI technology firm was allegedly stabbed to death at his £2.5million country home with cops arresting a woman on suspicion of murder.\nNeil Muller, 54, suffered fatal chest wounds at his five-bedroom gated property in the Warwickshire v... [2638 chars]",
-            "url": "https://www.thesun.ie/news/17081244/ai-boss-stabbed-death-woman-arrested-murder/",
-            "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/06/crop-39358262.jpg?quality=90&strip=all&w=1040&h=692&crop=1",
-            "publishedAt": "2026-06-09T23:17:25Z",
-            "lang": "en",
-            "source": {
-                "id": "cf119ed600a8a7c8e23575950f071fec",
-                "name": "The Irish Sun",
-                "url": "https://www.thesun.ie",
-                "country": "ie"
-            }
-        },
-        {
-            "id": "871cab458a708a03145c29863a37b1ff",
-            "title": "AI technology boss, 54, 'stabbed to death at £2.5m home' as woman arrested on suspicion of murder",
-            "description": "THE boss of an AI technology firm was allegedly stabbed to death at his £2.5million country home as cops arrested a woman on suspicion of...",
-            "content": "THE boss of an AI technology firm was allegedly stabbed to death at his £2.5million country home as cops arrested a woman on suspicion of murder.\nNeil Muller, 54, suffered fatal chest wounds at his five-bedroom gated property in the Warwickshire vill... [2705 chars]",
-            "url": "https://www.thesun.co.uk/news/39357780/ai-boss-stabbed-death-woman-arrested-murder/",
-            "image": "https://www.thesun.co.uk/wp-content/uploads/2026/06/crop-39358262.jpg?quality=90&strip=all&w=1040&h=692&crop=1",
-            "publishedAt": "2026-06-09T23:17:25Z",
-            "lang": "en",
-            "source": {
-                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
-                "name": "The Sun",
-                "url": "https://www.thesun.co.uk",
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
                 "country": "gb"
             }
         },
         {
-            "id": "ef13dc8baf46a9c8a6f556eff233aff5",
-            "title": "UK firms embrace AI boom, but leadership gap threatens growth",
-            "description": "LONDON, June 10, 2026 (GLOBE NEWSWIRE) -- The UK's ambitions to become a global leader in artificial intelligence risk being held back by a shortage of managers and leaders with the skills and confidence to turn investment in AI into higher productivity, stronger businesses and economic growth, according to new research from the Chartered Management Institute (CMI).",
-            "content": "LONDON, June 10, 2026 (GLOBE NEWSWIRE) -- The UK's ambitions to become a global leader in artificial intelligence risk being held back by a shortage of managers and leaders with the skills and confidence to turn investment in AI into higher productiv... [2310 chars]",
-            "url": "https://www.manilatimes.net/2026/06/10/tmt-newswire/globenewswire/uk-firms-embrace-ai-boom-but-leadership-gap-threatens-growth/2362237",
-            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-06-09T23:15:14Z",
+            "id": "f4c914f33a357df123e3d58a5a5bb30c",
+            "title": "NMC launches AI, LiDAR-based smart tree assessment pilot project",
+            "description": "nagpur municipal corporation (nmc) has launched an ‘ai and lidar-based smart tree assessment pilot project’. the system immediately scans trees to generate high-precision 3d images and raw data profiles displayed instantly on internal vehicle screens. the technology accurately evaluates the tree’s life expectancy, height, species, trunk stability, health condition, and potential disease infestations. inwardly facilitated by the special efforts of chief minister devendra fadnavis, the high-tech initiative wa",
+            "content": "Staff Reporter :\nNagpur Municipal Corporation (NMC) has launched an ‘AI and LiDAR-based smart tree assessment pilot project’. The system immediately scans trees to generate high-precision 3D images and raw data profiles displayed instantly on interna... [2521 chars]",
+            "url": "https://www.thehitavada.com//Encyc/2026/6/11/nmc-launches-ai-lidar-based-smart-tree-assessment-pilot-project.html",
+            "image": "https://www.thehitavada.com/Encyc/2026/6/11/NMC-launches-AI-LiDAR_202606111118562431_H@@IGHT_376_W@@IDTH_928.jpg",
+            "publishedAt": "2026-06-11T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
             }
         },
         {
-            "id": "ab2c8047b2cb84459d150cbdba8cbfe8",
-            "title": "Taiwan eyes curbs on AI chip sales to China to align with U.S.",
-            "description": "The move would mark an effort to address semiconductor smuggling but risks drawing a rebuke from Beijing.",
-            "content": "Taiwan authorities are considering much stricter export controls on AI chip sales to China to further align with U.S. measures, according to people familiar with the matter, an effort to address semiconductor smuggling that risks drawing a rebuke fro... [719 chars]",
-            "url": "https://www.japantimes.co.jp/news/2026/06/10/asia-pacific/politics/taiwan-ai-chip-sales-china-us/",
-            "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/10/545231.jpg?v=3.1",
-            "publishedAt": "2026-06-09T23:07:51Z",
+            "id": "336629c73216673af296d8f6e98c7b5c",
+            "title": "From Cram Schools to Smart Tablets: AI Fuels China’s New EdTech Boom",
+            "description": "From Cram Schools to Smart Tablets: AI Fuels China’s New EdTech Boom - Following a sweeping crackdown on after-school tutoring, families are pivoting to smart hardware and non-academic activities, widening the divide between rich and middle-class households",
+            "content": "1. China's Double Reduction policy and the rise of artificial intelligence are reshaping how families spend on children's education, according to a new report by the Duojing Education Research Institute [para. 1][para. 2]. Overall family spending on ... [3626 chars]",
+            "url": "https://www.caixinglobal.com/2026-06-11/from-cram-schools-to-smart-tablets-ai-fuels-chinas-new-edtech-boom-102453043.html",
+            "image": "https://img.caixin.com/2026-06-11/178114782488311_560_373.jpg",
+            "publishedAt": "2026-06-11T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
+                "id": "f6aff458be2c33b80c8600fb696f68fb",
+                "name": "Caixin",
+                "url": "https://www.caixinglobal.com",
+                "country": "cn"
             }
         },
         {
-            "id": "7928ed2eacf6062c749dfa73083e5fd9",
-            "title": "Conan O'Brien Is Hosting Educational Videos For An AI Cybersecurity Company",
-            "description": "At long last, a corporate training you might actually enjoy.",
-            "content": "Cybersecurity AI company Adaptive Security has partnered with famed comedian Conan O'Brien for a 15-part educational video series. These training videos will help Adaptive's clients and their employees to navigate threats such as phishing and deepfak... [765 chars]",
-            "url": "https://www.engadget.com/2191051/conan-o-brien-is-hosting-educational-videos-for-an-ai-cybersecurity-company/",
-            "image": "https://www.engadget.com/img/gallery/conan-obrien-is-hosting-educational-videos-for-an-ai-cybersecurity-company/l-intro-1781045515.jpg",
-            "publishedAt": "2026-06-09T22:53:41Z",
+            "id": "52b10366f7ef8622111dfc65ec72cb5e",
+            "title": "A year after Ahmedabad plane crash..., Officials recall how city mounted one of its largest emergency responses",
+            "description": "ahmedabad : a year after the ai-171 plane crash in ahmedabad claimed 260 lives, officials recalled how, amid an unimaginable situation, the city mounted one of its largest emergency responses, swiftly coordinating medical requirements and mobilising",
+            "content": "AHMEDABAD :\nA YEAR after the AI-171 plane crash in Ahmedabad claimed 260 lives, officials recalled how, amid an unimaginable situation, the city mounted one of its largest emergency responses, swiftly coordinating medical requirements and mobilising ... [4940 chars]",
+            "url": "https://www.thehitavada.com/Encyc/2026/6/11/a-year-after-ahmedabad-plane-crash-officials-recall-how-city-mounted-one-of-its-largest-emergency-responses.html",
+            "image": "https://www.thehitavada.com/Encyc/2026/6/11/Humility_202606111148359914_H@@IGHT_209_W@@IDTH_338.jpg",
+            "publishedAt": "2026-06-11T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "549a7a859b2345bbe231b00e7244ef99",
-                "name": "Engadget",
-                "url": "https://www.engadget.com",
-                "country": "us"
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
             }
         },
         {
-            "id": "2c9f65e190e5540d14721e1bb888063d",
-            "title": "The 'Real Economy' Remains Troubled",
-            "description": "The AI-driven tech surge is masking significant underlying weakness in the broader U.S. economy. Read the full analysis here.",
-            "content": "Analyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I ... [720 chars]",
-            "url": "https://seekingalpha.com/article/4913509-the-real-economy-remains-troubled",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2228944810/image_2228944810.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-06-09T22:51:59Z",
+            "id": "ee32e2588a605b1807e81139f6cdd522",
+            "title": "Commentary: The Hidden Forces Driving China’s Inflation Surge",
+            "description": "Commentary: The Hidden Forces Driving China’s Inflation Surge - May’s unexpected 3.9% spike in producer prices isn't a sign of broad macroeconomic overheating. Instead, a brutal supply clearing and the global artificial intelligence boom are quietly reshaping the cost of tomorrow",
+            "content": "China’s May inflation data, released on June 10, offers a surprising narrative. While the Consumer Price Index (CPI) held steady at 1.2% year-over-year, the Producer Price Index (PPI) surged to 3.9%, beating market expectations of 3.5%. This persiste... [257 chars]",
+            "url": "https://www.caixinglobal.com/2026-06-11/commentary-the-hidden-forces-driving-chinas-inflation-surge-102452995.html",
+            "image": "https://img.caixin.com/2026-06-10/178105404293571_560_373.jpg",
+            "publishedAt": "2026-06-11T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
+                "id": "f6aff458be2c33b80c8600fb696f68fb",
+                "name": "Caixin",
+                "url": "https://www.caixinglobal.com",
+                "country": "cn"
+            }
+        },
+        {
+            "id": "0afc435f1052933ddeebe5b1e1b339d0",
+            "title": "AI Tool Enables Real-Time Diffuse Optical Tomography for Brain Lesion Detection",
+            "description": "AI Tool Enables Real-Time Diffuse Optical Tomography for Brain Lesion Detection",
+            "content": "Its clinical utility for real-time decision-making has been limited by the need to solve computationally expensive light-transport equations during image reconstruction. These simulations can take hours, preventing real-time use. To help address this... [1749 chars]",
+            "url": "https://www.hospimedica.com/critical-care/articles/294811272/ai-tool-enables-real-time-diffuse-optical-tomography-for-brain-lesion-detection.html",
+            "image": "https://www.hospimedica.com/images/stories/articles/article_images/2026-06-10/image_294811152.jpg",
+            "publishedAt": "2026-06-11T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "a8392a8a32f65f38c4dc6190fbf1b0fb",
+                "name": "HospiMedica",
+                "url": "https://www.hospimedica.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "c4dd565857f23796808a96547f802543",
+            "title": "NMC launches AI, LiDAR-based smart tree assessment pilot project",
+            "description": "nagpur municipal corporation (nmc) has launched an ‘ai and lidar-based smart tree assessment pilot project’. the system immediately scans trees to generate high-precision 3d images and raw data profiles displayed instantly on internal vehicle screens. the technology accurately evaluates the tree’s life expectancy, height, species, trunk stability, health condition, and potential disease infestations. inwardly facilitated by the special efforts of chief minister devendra fadnavis, the high-tech initiative wa",
+            "content": "Staff Reporter :\nNagpur Municipal Corporation (NMC) has launched an ‘AI and LiDAR-based smart tree assessment pilot project’. The system immediately scans trees to generate high-precision 3D images and raw data profiles displayed instantly on interna... [2521 chars]",
+            "url": "https://www.thehitavada.com/Encyc/2026/6/11/nmc-launches-ai-lidar-based-smart-tree-assessment-pilot-project.html",
+            "image": "https://www.thehitavada.com/Encyc/2026/6/11/NMC-launches-AI-LiDAR_202606111118562431_H@@IGHT_376_W@@IDTH_928.jpg",
+            "publishedAt": "2026-06-11T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "4a90ab813677809fc2f39fc4bb81e008",
+            "title": "Die another day: one year on, AI 171 crash conspiracy theories remain",
+            "description": "Conspiracy theories persist, fueled by an interim report suggesting pilot error and ongoing concerns about the Boeing 787 Dreamliner's computer systems and potential for unintended flight system commands.",
+            "content": "Friday, June 12, marks one year since the shortest flight in Indian history, and one the country will never forget, but for the wrong reason. Air India’s AI 171 took off from Ahmedabad for London, but came down in 32 seconds over a medical college ho... [4267 chars]",
+            "url": "https://www.theweek.in/news/biz-tech/2026/06/11/die-another-day-one-year-on-ai-171-crash-conspiracy-theories-remain.html",
+            "image": "https://img.theweek.in/content/dam/week/week/magazine/theweek/current/images/2025/7/18/25-Wreckage-of-the-Air-India-plane-crash-in-Ahmedabad.jpg",
+            "publishedAt": "2026-06-11T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
             }
         }
     ]
