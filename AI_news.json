@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 361529,
+    "totalArticles": 362910,
     "articles": [
         {
-            "id": "2ae7f8c8750a776c078654582f0c9b87",
-            "title": "How Fake News Became the Most Dangerous Force in Energy Markets",
-            "description": "AI-generated misinformation is already moving energy markets. Hydaway Digital is building the verification layer financial systems desperately need.",
-            "content": "We live in a dangerously synthetic world. Scalper-style traders reportedly generated significant profits on suspiciously timed oil trades surrounding Iran war developments in Q2.\nAI-generated content is creating new verification challenges. Fake news... [13299 chars]",
-            "url": "https://oilprice.com/Energy/Energy-General/How-Fake-News-Became-the-Most-Dangerous-Force-in-Energy-Markets.html",
-            "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-10_fq9yvtlnui.jpg",
-            "publishedAt": "2026-06-11T00:01:00Z",
+            "id": "b6dddfeeccb8d33cbdf6d6fae9ea6802",
+            "title": "Microsoft Stock Trails Rivals in 2026. How to Play MSFT Stock Here.",
+            "description": "Despite recent stock underperformance, Microsoft remains one of the best-positioned companies to capitalize on the booming AI and cloud computing markets.",
+            "content": "Microsoft (MSFT) stock has underperformed its peers so far in 2026. Shares of this technology giant have fallen about 20%, lagging rivals such as Alphabet (GOOG) (GOOGL), whose stock has increased by more than 14% amid artificial intelligence (AI) en... [4270 chars]",
+            "url": "https://www.barchart.com/story/news/2431935/microsoft-stock-trails-rivals-in-2026-how-to-play-msft-stock-here",
+            "image": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Microsoft%20sign%20at%20the%20headquarters%20by%20VDB%20Photos%20via%20Shutterstock.jpg",
+            "publishedAt": "2026-06-11T23:30:02Z",
             "lang": "en",
             "source": {
-                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
-                "name": "OilPrice",
-                "url": "https://oilprice.com",
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
                 "country": "us"
             }
         },
         {
-            "id": "60bf49715e8a196822da050306f6ab9b",
-            "title": "Canada Introduces Bill To Ban Social Media For Children Under 16 And Regulate AI Chatbots",
-            "description": "Canada has introduced a new digital safety bill that would ban social media for children under 16 and regulate AI chatbots, with significant penalties for companies that fail to meet new safety standards.",
-            "content": "44\nCanada’s government introduced a new digital safety bill that would ban social media use for children under 16, with exemptions for platforms that meet specific safety standards. The move comes months after Australia enacted the world’s first nati... [2951 chars]",
-            "url": "https://www.newsx.com/world/canada-introduces-bill-to-ban-social-media-for-children-under-16-and-regulate-ai-chatbots-232817/",
-            "image": "https://www.newsx.com/wp-content/uploads/2026/06/1_89.jpg",
-            "publishedAt": "2026-06-11T00:00:17Z",
+            "id": "b08aad9b9e3ba562094d45b29d8094cf",
+            "title": "MediaTek’s Rally Signals Shift From Laggard to AI Contender",
+            "description": "MediaTek Inc. shares are poised for their best quarter on record, as investors bet a shift into artificial intelligence chips can help it shed the overhang of its struggling older-tech business.",
+            "content": "MediaTek Inc. shares are poised for their best quarter on record, as investors bet a shift into artificial intelligence chips can help it shed the overhang of its struggling older-tech business.\nOptimism is growing that the Taiwanese company’s deal t... [253 chars]",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-11/mediatek-s-rally-signals-shift-from-laggard-to-ai-contender",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO6SdYEzafWQ/v1/1200x800.jpg",
+            "publishedAt": "2026-06-11T23:30:00Z",
             "lang": "en",
             "source": {
-                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-                "name": "NewsX",
-                "url": "https://www.newsx.com",
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0aff43edfcd67dea8568d64ca152044b",
+            "title": "FinOps AI governance demands new models and metrics",
+            "description": "FinOps AI governance requires new models, cross-functional collaboration and outcome-based metrics to move beyond cost management into business value.",
+            "content": "FinOps AI governance is being stress-tested as AI spending accelerates across enterprises. The familiar levers of cost optimization — tagging, rightsizing, reserved capacity — are proving insufficient against a cost model governed by tokens, opaque b... [2982 chars]",
+            "url": "https://siliconangle.com/2026/06/11/finops-ai-governance-demands-new-models-metrics-finopsx/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/IMG_1326.jpg",
+            "publishedAt": "2026-06-11T23:27:40Z",
+            "lang": "en",
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "4a5218d27935575d8c75d8458b98118c",
+            "title": "Commerce AI for profit growth",
+            "description": "Fractal Analytics has introduced Cogentiq E-Commerce, an AI-native profit engine designed to optimize online sales for consumer products companies. Announced on June 11, 2026, the platform monitors over 70 marketplace signals to facilitate real-time decision-making across customer, media, and supply teams. Currently live on Amazon Marketplace, the tool reduces response time from days to minutes and enables rapid deployment via a marketplace API.",
+            "content": "Fractal Analytics has launched Cogentiq E-Commerce, an AI-native profit engine designed to help consumer products companies optimize online sales. Announced on June 11, 2026, the platform monitors over 70 marketplace signals to enable real-time decis... [5871 chars]",
+            "url": "https://scanx.trade/stock-market-news/companies/fractal-analytics-unveils-cogentiq-e-commerce-an-ai-driven-profit-optimization-tool-for-online-sales/42716524",
+            "image": "http://news-images.dhan.co/fractal-analytics-unveils-cogentiq-e-commerce-an-ai-driven-profit-optimization-tool-for-online-sales.jpg",
+            "publishedAt": "2026-06-11T23:22:46Z",
+            "lang": "en",
+            "source": {
+                "id": "f746366686e467440a63dd26dbb72053",
+                "name": "scanx.trade",
+                "url": "https://scanx.trade",
                 "country": "in"
             }
         },
         {
-            "id": "908773f78c50bb42ddcc5691f10b14ac",
-            "title": "Canada's 'AI for All' strategy has ambitious growth targets, but it falls short on workers and the environment",
-            "description": "Prime Minister Mark Carney unveiled Canada's AI for All strategy on June 4, committing more than $2 billion in new spending and targeting $200 billion in additional GDP growth and 250,000 new jobs by 2031.",
-            "content": "Prime Minister Mark Carney unveiled Canada's AI for All strategy on June 4, committing more than $2 billion in new spending and targeting $200 billion in additional GDP growth and 250,000 new jobs by 2031.\nThe plan is organized around several pillars... [7191 chars]",
-            "url": "https://phys.org/news/2026-06-canada-ai-strategy-ambitious-growth.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg",
-            "publishedAt": "2026-06-11T00:00:01Z",
+            "id": "567ed88677452423d713b145d3c4baaa",
+            "title": "At Brainstorm Tech, executives say finding ROI from AI comes from first principles thinking",
+            "description": "Getting value from AI requires strategic thinking followed by process reinvention. Too many firms look for shortcuts.",
+            "content": "It’s Jeremy here. First, I want to thank Sharon Goldman for her work as my co-writer on this newsletter over the past two years. Sharon, who normally writes the Thursday send of Eye on AI, is going off to become her own one woman media empire. We wis... [12229 chars]",
+            "url": "https://fortune.com/2026/06/11/roi-from-ai-requires-first-principles-thinking-eye-on-ai-execs-say-brainstorm-tech/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/55326669491_a9e7391e3c_o-e1781219791521.jpg?resize=1200,600",
+            "publishedAt": "2026-06-11T23:18:47Z",
             "lang": "en",
             "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
             }
         },
         {
-            "id": "f4c914f33a357df123e3d58a5a5bb30c",
-            "title": "NMC launches AI, LiDAR-based smart tree assessment pilot project",
-            "description": "nagpur municipal corporation (nmc) has launched an ‘ai and lidar-based smart tree assessment pilot project’. the system immediately scans trees to generate high-precision 3d images and raw data profiles displayed instantly on internal vehicle screens. the technology accurately evaluates the tree’s life expectancy, height, species, trunk stability, health condition, and potential disease infestations. inwardly facilitated by the special efforts of chief minister devendra fadnavis, the high-tech initiative wa",
-            "content": "Staff Reporter :\nNagpur Municipal Corporation (NMC) has launched an ‘AI and LiDAR-based smart tree assessment pilot project’. The system immediately scans trees to generate high-precision 3D images and raw data profiles displayed instantly on interna... [2521 chars]",
-            "url": "https://www.thehitavada.com//Encyc/2026/6/11/nmc-launches-ai-lidar-based-smart-tree-assessment-pilot-project.html",
-            "image": "https://www.thehitavada.com/Encyc/2026/6/11/NMC-launches-AI-LiDAR_202606111118562431_H@@IGHT_376_W@@IDTH_928.jpg",
-            "publishedAt": "2026-06-11T00:00:00Z",
+            "id": "e594b3940b3d73fc13d053f143e0c4c1",
+            "title": "2 ASX ETFs positioned for the booming AI data centre buildout",
+            "description": "The AI data centre boom is real. These two ASX ETFs are poised to benefit from huge capital expenditure over the years to come.",
+            "content": "Artificial intelligence might live in the cloud, but the foundations get built on the ground.\nEvery chatbot answer and every model trained has to run somewhere – and that somewhere is a vast, power-hungry data centre.\nThat simple fact is driving one ... [3354 chars]",
+            "url": "https://www.fool.com.au/2026/06/12/2-asx-etfs-positioned-for-the-booming-ai-data-centre-buildout/",
+            "image": "https://www.fool.com.au/wp-content/uploads/2018/09/Data-Centre-Technology-16_9-copy-1200x675.jpg",
+            "publishedAt": "2026-06-11T23:16:26Z",
             "lang": "en",
             "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
+                "id": "c6075ba0dc9d123bb327faaa419d3d07",
+                "name": "The Motley Fool Australia",
+                "url": "https://www.fool.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "3e6e6987921353e684b87b9c90eba51c",
+            "title": "Haryana CM urges Centre to include state among first 50 industrial parks",
+            "description": "Saini requested the establishment of a national-level AI centre of excellence in Haryana and a special central package for the development of AI and global capability centre (GCC) hubs",
+            "content": "During the governing council meeting of NITI Aayog held in Delhi under the chairmanship of Prime Minister Narendra Modi, the CM raised a number of demands related to the state’s development.\nSaini requested the establishment of a national-level AI ce... [1437 chars]",
+            "url": "https://www.hindustantimes.com/cities/chandigarh-news/haryana-cm-urges-centre-to-include-state-among-first-50-industrial-parks-101781204129664.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/06/11/550x309/Addressing-the-meeting--Saini-said-that-Haryana-ha_1781204125942.jpg",
+            "publishedAt": "2026-06-11T23:14:12Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "336629c73216673af296d8f6e98c7b5c",
-            "title": "From Cram Schools to Smart Tablets: AI Fuels China’s New EdTech Boom",
-            "description": "From Cram Schools to Smart Tablets: AI Fuels China’s New EdTech Boom - Following a sweeping crackdown on after-school tutoring, families are pivoting to smart hardware and non-academic activities, widening the divide between rich and middle-class households",
-            "content": "1. China's Double Reduction policy and the rise of artificial intelligence are reshaping how families spend on children's education, according to a new report by the Duojing Education Research Institute [para. 1][para. 2]. Overall family spending on ... [3626 chars]",
-            "url": "https://www.caixinglobal.com/2026-06-11/from-cram-schools-to-smart-tablets-ai-fuels-chinas-new-edtech-boom-102453043.html",
-            "image": "https://img.caixin.com/2026-06-11/178114782488311_560_373.jpg",
-            "publishedAt": "2026-06-11T00:00:00Z",
+            "id": "e9d97d1dbf62da2a0cc865458e75d8fa",
+            "title": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
+            "description": "The persistent memory system addresses a real and widely felt pain point in agentic development workflows — one that competitors are also racing to solve.",
+            "content": "Xiaomi's MiMo AI team has open-sourced MiMo Code V0.1.0, a terminal-native AI coding assistant that the Chinese electronics giant says outperforms Anthropic's Claude Code on key agentic coding benchmarks, especially on long-horizon, multi-step tasks ... [13052 chars]",
+            "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks",
+            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/12q7BpuvmPejutBrIyn6sZ/404c467dfe2af6da6c3a0854eb32fc98/Gemini_Generated_Image_fg84xafg84xafg84.png?w=800&q=75",
+            "publishedAt": "2026-06-11T23:14:00Z",
             "lang": "en",
             "source": {
-                "id": "f6aff458be2c33b80c8600fb696f68fb",
-                "name": "Caixin",
-                "url": "https://www.caixinglobal.com",
-                "country": "cn"
+                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com",
+                "country": "us"
             }
         },
         {
-            "id": "52b10366f7ef8622111dfc65ec72cb5e",
-            "title": "A year after Ahmedabad plane crash..., Officials recall how city mounted one of its largest emergency responses",
-            "description": "ahmedabad : a year after the ai-171 plane crash in ahmedabad claimed 260 lives, officials recalled how, amid an unimaginable situation, the city mounted one of its largest emergency responses, swiftly coordinating medical requirements and mobilising",
-            "content": "AHMEDABAD :\nA YEAR after the AI-171 plane crash in Ahmedabad claimed 260 lives, officials recalled how, amid an unimaginable situation, the city mounted one of its largest emergency responses, swiftly coordinating medical requirements and mobilising ... [4940 chars]",
-            "url": "https://www.thehitavada.com/Encyc/2026/6/11/a-year-after-ahmedabad-plane-crash-officials-recall-how-city-mounted-one-of-its-largest-emergency-responses.html",
-            "image": "https://www.thehitavada.com/Encyc/2026/6/11/Humility_202606111148359914_H@@IGHT_209_W@@IDTH_338.jpg",
-            "publishedAt": "2026-06-11T00:00:00Z",
+            "id": "79a61c91d7991968aa77ca73c782d7a9",
+            "title": "Big Tech Is Borrowing Half A Trillion For AI, And Your Pension Is Probably Lending It",
+            "description": "The companies behind the artificial-intelligence boom have turned from the market's biggest savers into some of its biggest debtors, and a good deal of that borrowing is being quietly funded from the dullest, safest corner of ordinary retirement money.",
+            "content": "In February, for a yield only a little above what the British government pays, an investor could lend Alphabet money until the year 2126. Google's parent sold a 100-year sterling bond, the first century bond from a technology company since Motorola i... [8175 chars]",
+            "url": "https://www.forbes.com/sites/daraabasiita/2026/06/11/big-tech-is-borrowing-half-a-trillion-for-ai-and-your-pension-is-probably-lending-it/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a2b3e80198669c078eaff7c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-06-11T23:11:03Z",
             "lang": "en",
             "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
-                "country": "in"
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
             }
         },
         {
-            "id": "ee32e2588a605b1807e81139f6cdd522",
-            "title": "Commentary: The Hidden Forces Driving China’s Inflation Surge",
-            "description": "Commentary: The Hidden Forces Driving China’s Inflation Surge - May’s unexpected 3.9% spike in producer prices isn't a sign of broad macroeconomic overheating. Instead, a brutal supply clearing and the global artificial intelligence boom are quietly reshaping the cost of tomorrow",
-            "content": "China’s May inflation data, released on June 10, offers a surprising narrative. While the Consumer Price Index (CPI) held steady at 1.2% year-over-year, the Producer Price Index (PPI) surged to 3.9%, beating market expectations of 3.5%. This persiste... [257 chars]",
-            "url": "https://www.caixinglobal.com/2026-06-11/commentary-the-hidden-forces-driving-chinas-inflation-surge-102452995.html",
-            "image": "https://img.caixin.com/2026-06-10/178105404293571_560_373.jpg",
-            "publishedAt": "2026-06-11T00:00:00Z",
+            "id": "578c5ba7201598aae8319aecdcac8fb8",
+            "title": "OpenAI Uncovers China-Linked AI Operation",
+            "description": "OpenAI said it recently uncovered a China-linked influence operation that used ChatGPT accounts to push narratives aimed at shaping debate over U.S. artificial intelligence policy, data center development, tariffs, and OpenAI itself.",
+            "content": "OpenAI said it recently uncovered a China-linked influence operation that used ChatGPT accounts to push narratives aimed at shaping debate over U.S. artificial intelligence policy, data center development, tariffs, and even OpenAI itself.\nIn a report... [2832 chars]",
+            "url": "https://www.newsmax.com/newsfront/openai-data-centers-china/2026/06/11/id/1259402/",
+            "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=3701b528-c1d9-454c-aaeb-4d41729936ea&SiteName=Newsmax",
+            "publishedAt": "2026-06-11T23:04:50Z",
             "lang": "en",
             "source": {
-                "id": "f6aff458be2c33b80c8600fb696f68fb",
-                "name": "Caixin",
-                "url": "https://www.caixinglobal.com",
-                "country": "cn"
-            }
-        },
-        {
-            "id": "0afc435f1052933ddeebe5b1e1b339d0",
-            "title": "AI Tool Enables Real-Time Diffuse Optical Tomography for Brain Lesion Detection",
-            "description": "AI Tool Enables Real-Time Diffuse Optical Tomography for Brain Lesion Detection",
-            "content": "Its clinical utility for real-time decision-making has been limited by the need to solve computationally expensive light-transport equations during image reconstruction. These simulations can take hours, preventing real-time use. To help address this... [1749 chars]",
-            "url": "https://www.hospimedica.com/critical-care/articles/294811272/ai-tool-enables-real-time-diffuse-optical-tomography-for-brain-lesion-detection.html",
-            "image": "https://www.hospimedica.com/images/stories/articles/article_images/2026-06-10/image_294811152.jpg",
-            "publishedAt": "2026-06-11T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "a8392a8a32f65f38c4dc6190fbf1b0fb",
-                "name": "HospiMedica",
-                "url": "https://www.hospimedica.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "c4dd565857f23796808a96547f802543",
-            "title": "NMC launches AI, LiDAR-based smart tree assessment pilot project",
-            "description": "nagpur municipal corporation (nmc) has launched an ‘ai and lidar-based smart tree assessment pilot project’. the system immediately scans trees to generate high-precision 3d images and raw data profiles displayed instantly on internal vehicle screens. the technology accurately evaluates the tree’s life expectancy, height, species, trunk stability, health condition, and potential disease infestations. inwardly facilitated by the special efforts of chief minister devendra fadnavis, the high-tech initiative wa",
-            "content": "Staff Reporter :\nNagpur Municipal Corporation (NMC) has launched an ‘AI and LiDAR-based smart tree assessment pilot project’. The system immediately scans trees to generate high-precision 3D images and raw data profiles displayed instantly on interna... [2521 chars]",
-            "url": "https://www.thehitavada.com/Encyc/2026/6/11/nmc-launches-ai-lidar-based-smart-tree-assessment-pilot-project.html",
-            "image": "https://www.thehitavada.com/Encyc/2026/6/11/NMC-launches-AI-LiDAR_202606111118562431_H@@IGHT_376_W@@IDTH_928.jpg",
-            "publishedAt": "2026-06-11T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "4a90ab813677809fc2f39fc4bb81e008",
-            "title": "Die another day: one year on, AI 171 crash conspiracy theories remain",
-            "description": "Conspiracy theories persist, fueled by an interim report suggesting pilot error and ongoing concerns about the Boeing 787 Dreamliner's computer systems and potential for unintended flight system commands.",
-            "content": "Friday, June 12, marks one year since the shortest flight in Indian history, and one the country will never forget, but for the wrong reason. Air India’s AI 171 took off from Ahmedabad for London, but came down in 32 seconds over a medical college ho... [4267 chars]",
-            "url": "https://www.theweek.in/news/biz-tech/2026/06/11/die-another-day-one-year-on-ai-171-crash-conspiracy-theories-remain.html",
-            "image": "https://img.theweek.in/content/dam/week/week/magazine/theweek/current/images/2025/7/18/25-Wreckage-of-the-Air-India-plane-crash-in-Ahmedabad.jpg",
-            "publishedAt": "2026-06-11T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
-                "name": "THE WEEK",
-                "url": "https://www.theweek.in",
-                "country": "in"
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
             }
         }
     ]
