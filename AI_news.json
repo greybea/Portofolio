@@ -4,112 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 362910,
+    "totalArticles": 363875,
     "articles": [
         {
-            "id": "b6dddfeeccb8d33cbdf6d6fae9ea6802",
-            "title": "Microsoft Stock Trails Rivals in 2026. How to Play MSFT Stock Here.",
-            "description": "Despite recent stock underperformance, Microsoft remains one of the best-positioned companies to capitalize on the booming AI and cloud computing markets.",
-            "content": "Microsoft (MSFT) stock has underperformed its peers so far in 2026. Shares of this technology giant have fallen about 20%, lagging rivals such as Alphabet (GOOG) (GOOGL), whose stock has increased by more than 14% amid artificial intelligence (AI) en... [4270 chars]",
-            "url": "https://www.barchart.com/story/news/2431935/microsoft-stock-trails-rivals-in-2026-how-to-play-msft-stock-here",
-            "image": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Microsoft%20sign%20at%20the%20headquarters%20by%20VDB%20Photos%20via%20Shutterstock.jpg",
-            "publishedAt": "2026-06-11T23:30:02Z",
-            "lang": "en",
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b08aad9b9e3ba562094d45b29d8094cf",
-            "title": "MediaTek’s Rally Signals Shift From Laggard to AI Contender",
-            "description": "MediaTek Inc. shares are poised for their best quarter on record, as investors bet a shift into artificial intelligence chips can help it shed the overhang of its struggling older-tech business.",
-            "content": "MediaTek Inc. shares are poised for their best quarter on record, as investors bet a shift into artificial intelligence chips can help it shed the overhang of its struggling older-tech business.\nOptimism is growing that the Taiwanese company’s deal t... [253 chars]",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-11/mediatek-s-rally-signals-shift-from-laggard-to-ai-contender",
-            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO6SdYEzafWQ/v1/1200x800.jpg",
-            "publishedAt": "2026-06-11T23:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "0aff43edfcd67dea8568d64ca152044b",
-            "title": "FinOps AI governance demands new models and metrics",
-            "description": "FinOps AI governance requires new models, cross-functional collaboration and outcome-based metrics to move beyond cost management into business value.",
-            "content": "FinOps AI governance is being stress-tested as AI spending accelerates across enterprises. The familiar levers of cost optimization — tagging, rightsizing, reserved capacity — are proving insufficient against a cost model governed by tokens, opaque b... [2982 chars]",
-            "url": "https://siliconangle.com/2026/06/11/finops-ai-governance-demands-new-models-metrics-finopsx/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/IMG_1326.jpg",
-            "publishedAt": "2026-06-11T23:27:40Z",
-            "lang": "en",
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "4a5218d27935575d8c75d8458b98118c",
-            "title": "Commerce AI for profit growth",
-            "description": "Fractal Analytics has introduced Cogentiq E-Commerce, an AI-native profit engine designed to optimize online sales for consumer products companies. Announced on June 11, 2026, the platform monitors over 70 marketplace signals to facilitate real-time decision-making across customer, media, and supply teams. Currently live on Amazon Marketplace, the tool reduces response time from days to minutes and enables rapid deployment via a marketplace API.",
-            "content": "Fractal Analytics has launched Cogentiq E-Commerce, an AI-native profit engine designed to help consumer products companies optimize online sales. Announced on June 11, 2026, the platform monitors over 70 marketplace signals to enable real-time decis... [5871 chars]",
-            "url": "https://scanx.trade/stock-market-news/companies/fractal-analytics-unveils-cogentiq-e-commerce-an-ai-driven-profit-optimization-tool-for-online-sales/42716524",
-            "image": "http://news-images.dhan.co/fractal-analytics-unveils-cogentiq-e-commerce-an-ai-driven-profit-optimization-tool-for-online-sales.jpg",
-            "publishedAt": "2026-06-11T23:22:46Z",
-            "lang": "en",
-            "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
-                "country": "in"
-            }
-        },
-        {
-            "id": "567ed88677452423d713b145d3c4baaa",
-            "title": "At Brainstorm Tech, executives say finding ROI from AI comes from first principles thinking",
-            "description": "Getting value from AI requires strategic thinking followed by process reinvention. Too many firms look for shortcuts.",
-            "content": "It’s Jeremy here. First, I want to thank Sharon Goldman for her work as my co-writer on this newsletter over the past two years. Sharon, who normally writes the Thursday send of Eye on AI, is going off to become her own one woman media empire. We wis... [12229 chars]",
-            "url": "https://fortune.com/2026/06/11/roi-from-ai-requires-first-principles-thinking-eye-on-ai-execs-say-brainstorm-tech/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/55326669491_a9e7391e3c_o-e1781219791521.jpg?resize=1200,600",
-            "publishedAt": "2026-06-11T23:18:47Z",
-            "lang": "en",
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e594b3940b3d73fc13d053f143e0c4c1",
-            "title": "2 ASX ETFs positioned for the booming AI data centre buildout",
-            "description": "The AI data centre boom is real. These two ASX ETFs are poised to benefit from huge capital expenditure over the years to come.",
-            "content": "Artificial intelligence might live in the cloud, but the foundations get built on the ground.\nEvery chatbot answer and every model trained has to run somewhere – and that somewhere is a vast, power-hungry data centre.\nThat simple fact is driving one ... [3354 chars]",
-            "url": "https://www.fool.com.au/2026/06/12/2-asx-etfs-positioned-for-the-booming-ai-data-centre-buildout/",
-            "image": "https://www.fool.com.au/wp-content/uploads/2018/09/Data-Centre-Technology-16_9-copy-1200x675.jpg",
-            "publishedAt": "2026-06-11T23:16:26Z",
-            "lang": "en",
-            "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "The Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "3e6e6987921353e684b87b9c90eba51c",
-            "title": "Haryana CM urges Centre to include state among first 50 industrial parks",
-            "description": "Saini requested the establishment of a national-level AI centre of excellence in Haryana and a special central package for the development of AI and global capability centre (GCC) hubs",
-            "content": "During the governing council meeting of NITI Aayog held in Delhi under the chairmanship of Prime Minister Narendra Modi, the CM raised a number of demands related to the state’s development.\nSaini requested the establishment of a national-level AI ce... [1437 chars]",
-            "url": "https://www.hindustantimes.com/cities/chandigarh-news/haryana-cm-urges-centre-to-include-state-among-first-50-industrial-parks-101781204129664.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/06/11/550x309/Addressing-the-meeting--Saini-said-that-Haryana-ha_1781204125942.jpg",
-            "publishedAt": "2026-06-11T23:14:12Z",
+            "id": "31082f061c5fe5b8e7abcfb963bbc85f",
+            "title": "Ludhiana: IIIT dream hangs in balance for labourer’s daughter over ₹50k fee hurdle, family seeks aid",
+            "description": "Sahnewal student secures admission to IIT Guwahati’s Data Science and AI programme; family struggles to arrange seat-confirmation amount before June 16 deadline",
+            "content": "Harpreet has been selected for the four-year work-integrated BSc (Honours) programme in Data Science and Artificial Intelligence offered by IIT Guwahati.\nThe amount sought by the institute is required to confirm her seat in the programme.\nA former st... [1334 chars]",
+            "url": "https://www.hindustantimes.com/cities/chandigarh-news/ludhiana-iiit-dream-hangs-in-balance-for-labourer-s-daughter-over-50k-fee-hurdle-family-seeks-aid-101781289062627.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/06/12/550x309/Harpreet-scored-over-90--in-Class-XII-and-has-cons_1781289059355.jpeg",
+            "publishedAt": "2026-06-12T22:18:13Z",
             "lang": "en",
             "source": {
                 "id": "21468bec836de1ebb209ff6f78fbfe3e",
@@ -119,50 +23,146 @@
             }
         },
         {
-            "id": "e9d97d1dbf62da2a0cc865458e75d8fa",
-            "title": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
-            "description": "The persistent memory system addresses a real and widely felt pain point in agentic development workflows — one that competitors are also racing to solve.",
-            "content": "Xiaomi's MiMo AI team has open-sourced MiMo Code V0.1.0, a terminal-native AI coding assistant that the Chinese electronics giant says outperforms Anthropic's Claude Code on key agentic coding benchmarks, especially on long-horizon, multi-step tasks ... [13052 chars]",
-            "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks",
-            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/12q7BpuvmPejutBrIyn6sZ/404c467dfe2af6da6c3a0854eb32fc98/Gemini_Generated_Image_fg84xafg84xafg84.png?w=800&q=75",
-            "publishedAt": "2026-06-11T23:14:00Z",
+            "id": "0663a75e4d2a5e333ae5835cdc1f9adb",
+            "title": "Perception shapes reality in 2026 America",
+            "description": "As we approach the 250th anniversary of the Declaration of Independence, America is in a pretty foul mood: Washington is broken, prices are high and rising, and AI is scaring the stuffing out of us.",
+            "content": "As we approach the 250th anniversary of the Declaration of Independence, America is in a pretty foul mood, and I understand why. For starters, Washington is broken, prices are high and rising, and AI is scaring the stuffing out of people.\nUnderstandi... [4223 chars]",
+            "url": "https://www.postandcourier.com/opinion/commentary/america-nostalgia-media-influence-perception-reality/article_cf6934d9-6595-46ac-84dd-192d5ca028c2.html",
+            "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/5a/d5a7684c-e37c-4fdf-a510-6bd620071722/608ae607ced77.image.jpg?crop=1807%2C950%2C0%2C171&resize=1200%2C631&order=crop%2Cresize",
+            "publishedAt": "2026-06-12T22:15:00Z",
             "lang": "en",
             "source": {
-                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
-                "name": "VentureBeat",
-                "url": "https://venturebeat.com",
+                "id": "c1903669db0b115cc673ce9c333a70dd",
+                "name": "Charleston Post and Courier",
+                "url": "https://www.postandcourier.com",
                 "country": "us"
             }
         },
         {
-            "id": "79a61c91d7991968aa77ca73c782d7a9",
-            "title": "Big Tech Is Borrowing Half A Trillion For AI, And Your Pension Is Probably Lending It",
-            "description": "The companies behind the artificial-intelligence boom have turned from the market's biggest savers into some of its biggest debtors, and a good deal of that borrowing is being quietly funded from the dullest, safest corner of ordinary retirement money.",
-            "content": "In February, for a yield only a little above what the British government pays, an investor could lend Alphabet money until the year 2126. Google's parent sold a 100-year sterling bond, the first century bond from a technology company since Motorola i... [8175 chars]",
-            "url": "https://www.forbes.com/sites/daraabasiita/2026/06/11/big-tech-is-borrowing-half-a-trillion-for-ai-and-your-pension-is-probably-lending-it/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a2b3e80198669c078eaff7c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-06-11T23:11:03Z",
+            "id": "336decd5faa66da7bd82370b430a404e",
+            "title": "Roborock's First Robot Lawn Mower Is Here",
+            "description": "It comes with advanced, wire-free navigation and a promised future AI-powered mapping update.",
+            "content": "Roborock is best known for its impressive lineup of robot vacuums, many of which have earned a spot on CNET's best list for their excellent performance and features. The company is new to the robot lawn mower market, at least in the US, launching the... [2140 chars]",
+            "url": "https://www.cnet.com/home/yard-and-outdoors/roborock-first-robot-lawn-mower/",
+            "image": "https://www.cnet.com/a/img/resize/4e64b893215ced1a3c87009651ad230a9c11a8f2/hub/2026/06/12/e5068ae7-a763-4c35-885f-8d3953da86ae/rockneo-q1-002-lifestyle.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-06-12T22:13:15Z",
             "lang": "en",
             "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
                 "country": "us"
             }
         },
         {
-            "id": "578c5ba7201598aae8319aecdcac8fb8",
-            "title": "OpenAI Uncovers China-Linked AI Operation",
-            "description": "OpenAI said it recently uncovered a China-linked influence operation that used ChatGPT accounts to push narratives aimed at shaping debate over U.S. artificial intelligence policy, data center development, tariffs, and OpenAI itself.",
-            "content": "OpenAI said it recently uncovered a China-linked influence operation that used ChatGPT accounts to push narratives aimed at shaping debate over U.S. artificial intelligence policy, data center development, tariffs, and even OpenAI itself.\nIn a report... [2832 chars]",
-            "url": "https://www.newsmax.com/newsfront/openai-data-centers-china/2026/06/11/id/1259402/",
-            "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=3701b528-c1d9-454c-aaeb-4d41729936ea&SiteName=Newsmax",
-            "publishedAt": "2026-06-11T23:04:50Z",
+            "id": "e3a3d3e8a82878205f173045d3ecc56c",
+            "title": "Nvidia's RTX Spark made me hate content creation a little less",
+            "description": "After seeing NVIDIA RTX Spark in action at Computex 2026, I'm convinced its AI-powered editing tools could save creators hours by eliminating video editing's most repetitive tasks.",
+            "content": "Every video editor has a list of tasks they’d happily outsource to someone else. Exporting isn’t one of them anymore because modern laptops are already plenty fast. The real-time sinks are the boring bits: manually masking subjects, finding scene cut... [4917 chars]",
+            "url": "https://www.digitaltrends.com/computing/nvidias-rtx-spark-made-me-hate-video-editing-a-little-less/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/06/NVIDIA-RTX-Spark-for-Creators-Image-Generation-Demo-Computex-2026.jpg?resize=1200%2C630",
+            "publishedAt": "2026-06-12T22:09:36Z",
             "lang": "en",
             "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "face29322f9bfd321ae8486c9a1bd781",
+            "title": "UK Set to Block Teenagers From High-Risk Social Media Apps, Says Report",
+            "description": "The UK government is preparing to ban teenagers under 16 from high-risk social media apps and block all under-18s from using romantic or sexual AI chatbots, with Prime Minister Keir Starmer set to outline the plans on Monday following a consultation that drew more than 116,000 responses. , UK, Times Now",
+            "content": "British PM Keir Starmer.\nPhoto : AP\nThe UK government is preparing to ban teenagers under the age of 16 from accessing social media apps deemed high risk, as part of one of the most sweeping crackdowns on Big Tech the country has seen, according to a... [2814 chars]",
+            "url": "https://www.timesnownews.com/world/uk/uk-set-to-block-teenagers-from-high-risk-social-media-apps-says-report-article-154586531",
+            "image": "https://images.timesnownews.com/thumb/msid-154586531,width-1280,height-720,resizemode-75/154586531.jpg",
+            "publishedAt": "2026-06-12T22:05:56Z",
+            "lang": "en",
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "89c21ade4226d530685d013985a34285",
+            "title": "SpaceX goes public and is now worth trillions. What happens now?",
+            "description": "SpaceX is now publicly traded, and it’s leaning heavily into space and AI. What does that mean for us humans here on earth?Today, Elon Musk’s company SpaceX had a banner day in the stock market. The company is now valued at more than $2 trillion.That is, after an already record-breaking initial public offering, or IPO.That historic IPO is likely to make Musk the world’s first trillionaire.And while SpaceX isn't profitable yet, investors have big expectations for the company’s ambitions in space and artificial intelligence.For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Alejandra Marquez Janse, with audio engineering by Ted Mebane and Becky Brown.It was edited by Courtney Dorning and Patrick Jarenwattananon. Our interim executive producer is Courtney Dorning.",
+            "content": "SpaceX is now publicly traded, and it’s leaning heavily into space and AI. What does that mean for us humans here on earth?\nToday, Elon Musk’s company SpaceX had a banner day in the stock market. The company is now valued at more than $2 trillion.\nTh... [649 chars]",
+            "url": "https://www.npr.org/2026/06/12/nx-s1-5856424/spacex-goes-public-and-is-now-worth-trillions-what-happens-now",
+            "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5553x3124+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F7d%2F37a9a39b424688774e9d236f5c9a%2Ff6f9a1e0-08a8-42b4-87e7-5c24ba56d0ce.jpg",
+            "publishedAt": "2026-06-12T22:04:46Z",
+            "lang": "en",
+            "source": {
+                "id": "b41851fb2662ea502db29f71ec4d1583",
+                "name": "NPR",
+                "url": "https://www.npr.org",
+                "country": "us"
+            }
+        },
+        {
+            "id": "435fd384c37f8c5dd95cbd63252685b0",
+            "title": "By the numbers: Here’s what you might have missed in SpaceX’s record market debut",
+            "description": "By Ramishah Maruf, CNN New York (CNN) — SpaceX’s highly anticipated IPO has officially lifted off. Wall Street rejoiced, everyday investors placed so many buy orders it caused outages on Robinhood for a bit, and the world’s richest man became the world’s first trillionaire. Shares of Elon Musk’s rocket and AI company (SPCX) settled at",
+            "content": "By Ramishah Maruf, CNN\nNew York (CNN) — SpaceX’s highly anticipated IPO has officially lifted off.\nWall Street rejoiced, everyday investors placed so many buy orders it caused outages on Robinhood for a bit, and the world’s richest man became the wor... [1634 chars]",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2026/06/12/by-the-numbers-heres-what-you-might-have-missed-in-spacexs-record-market-debut/",
+            "image": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
+            "publishedAt": "2026-06-12T22:04:35Z",
+            "lang": "en",
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "7b070854ff660332ad9b2a6c65ade41e",
+            "title": "Why teachers are creating AI-powered classroom helpers",
+            "description": "An Australian made artificial intelligence platform is letting educators create their own teaching aides, some of whom simulate scenarios from the real world.",
+            "content": "Imagine you are training as a dentist and must treat a patient with sensitive teeth, a nervous disposition and a challenging diagnosis.\nNow imagine that patient is powered by artificial intelligence, programmed by your professor and designed to help ... [2494 chars]",
+            "url": "https://www.perthnow.com.au/news/education/why-teachers-are-creating-ai-powered-classroom-helpers-c-22425354",
+            "image": "https://images.perthnow.com.au/publication/C-22425354/3236804cbfadc45d4d52498f555199ddf7ae9156-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-06-12T22:04:32Z",
+            "lang": "en",
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "8d5cae60a205f91bdb82797e393d7083",
+            "title": "People's Party keeps up pressure to kill AI Passport",
+            "description": "The opposition People's Party (PP) stepped up its pressure on the government to scrap its 1.6-billion-baht TH-AI Passport project, warning that it would petition the National Anti-Corruption Commission (NACC) to investigate once public registration opens.",
+            "content": "The opposition People's Party (PP) stepped up its pressure on the government to scrap its 1.6-billion-baht TH-AI Passport project, warning that it would petition the National Anti-Corruption Commission (NACC) to investigate once public registration o... [1507 chars]",
+            "url": "https://www.bangkokpost.com/thailand/politics/3270085/peoples-party-keeps-up-pressure-to-kill-ai-passport",
+            "image": "https://static.bangkokpost.com/media/content/20260613/c1_3270085_260613070605_700.jpg",
+            "publishedAt": "2026-06-12T22:02:00Z",
+            "lang": "en",
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            }
+        },
+        {
+            "id": "f1ec26fdec29ea59bcef9a760ba9be17",
+            "title": "Arizona’s data center moratorium is only the beginning",
+            "description": "The states that will succeed in the AI era are not those that offer the largest subsidies. They are the ones that ensure innovation strengthens communities.",
+            "content": "For years, Arizona’s conversation about data centers focused on investment, jobs and economic growth.\nFar less attention was paid to who would bear the costs.\nAs data centers have expanded across Arizona, so too have questions from ratepayers, water ... [5135 chars]",
+            "url": "https://azcapitoltimes.com/news/2026/06/12/arizonas-data-center-moratorium-is-only-the-beginning/",
+            "image": "https://azcapitoltimes.com/files/2026/01/Pluribus.png",
+            "publishedAt": "2026-06-12T22:00:34Z",
+            "lang": "en",
+            "source": {
+                "id": "0289eb2190ee47ce5d9073c58959546d",
+                "name": "Arizona Capitol Times",
+                "url": "https://azcapitoltimes.com",
                 "country": "us"
             }
         }
