@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 363875,
+    "totalArticles": 364426,
     "articles": [
         {
-            "id": "31082f061c5fe5b8e7abcfb963bbc85f",
-            "title": "Ludhiana: IIIT dream hangs in balance for labourer’s daughter over ₹50k fee hurdle, family seeks aid",
-            "description": "Sahnewal student secures admission to IIT Guwahati’s Data Science and AI programme; family struggles to arrange seat-confirmation amount before June 16 deadline",
-            "content": "Harpreet has been selected for the four-year work-integrated BSc (Honours) programme in Data Science and Artificial Intelligence offered by IIT Guwahati.\nThe amount sought by the institute is required to confirm her seat in the programme.\nA former st... [1334 chars]",
-            "url": "https://www.hindustantimes.com/cities/chandigarh-news/ludhiana-iiit-dream-hangs-in-balance-for-labourer-s-daughter-over-50k-fee-hurdle-family-seeks-aid-101781289062627.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/06/12/550x309/Harpreet-scored-over-90--in-Class-XII-and-has-cons_1781289059355.jpeg",
-            "publishedAt": "2026-06-12T22:18:13Z",
+            "id": "56517c722684abf2248aad109efe7788",
+            "title": "AI's Core Flaw: \"Mass Regurgitation Of Misinformation\"",
+            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+            "content": "Authored by Charles Hugh Smith via OfTwoMinds blog,\nThese immense hidden costs will not show up in GDP until they collapse the entire house of speculative gambling cards propping up the global economy.\nI approach all AI topics with several things in ... [4765 chars]",
+            "url": "https://www.zerohedge.com/ai/ais-core-flaw-mass-regurgitation-misinformation",
+            "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/HAL10.jpg?h=8b9dd7d2&itok=fuWOHjFU",
+            "publishedAt": "2026-06-13T22:40:00Z",
             "lang": "en",
             "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
+                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+                "name": "ZeroHedge",
+                "url": "https://www.zerohedge.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "6e92c522b79ff429e3e6ec06af214c69",
+            "title": "Lost access to Anthropic’s AI models highlights risk of relying on U.S. tech, Canadian experts say",
+            "description": "U.S. government ordered AI giant to restrict foreign nationals from Fable 5 and Mythos 5 models",
+            "content": "The U.S. government’s directive that Anthropic prevent foreign nationals from accessing its latest artificial intelligence models underscores the risks that Canada and other countries face without alternatives to American tech giants, according to ex... [6716 chars]",
+            "url": "https://www.theglobeandmail.com/business/article-anthropic-fable-mythos-ai-offline-canada-risks/",
+            "image": "https://www.theglobeandmail.com/resizer/v2/7Z4SW7UZHNEZ3MZLSZUHCM4MKM.jpg?auth=1afdbfaf38a5e14da05ffe639212ae2b4e834dec9d8beecef815fc34474806d9&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2026-06-13T22:30:32Z",
+            "lang": "en",
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "f09861acff07667555f18392ab1c72dc",
+            "title": "Cycclone, Inc. Announces Agreement in Principle for the Acquisition of AI Robotics Company",
+            "description": "14.06.2026 - NEW YORK CITY, NY / ACCESS Newswire / June 13, 2026 / Cycclone, Inc. (OTCID:CYCL) today acknowledges reaching an agreement in principle to acquire an AI Robotics design, develop and manufacturing company under the newly formed division, Cycclone Ai ...",
+            "content": "Cycclone, Inc. (OTCID:CYCL) today acknowledges reaching an agreement in principle to acquire an AI Robotics design, develop and manufacturing company under the newly formed division, Cycclone Ai Robotics.\nRecently an agreement in principle has been r... [2152 chars]",
+            "url": "https://www.wallstreet-online.de/nachricht/20998955-cycclone-inc-announces-agreement-principle-for-the-acquisition-of-ai-robotics-company",
+            "image": "https://assets.wallstreet-online.de/_media/2800/2023/2025/marketjar/size_645/acess-newswire.jpg",
+            "publishedAt": "2026-06-13T22:15:59Z",
+            "lang": "en",
+            "source": {
+                "id": "4ddba5324f2e0216fa6458240fdb0f97",
+                "name": "Wallstreet Online",
+                "url": "https://www.wallstreet-online.de",
+                "country": "de"
+            }
+        },
+        {
+            "id": "eacecfd3128a94b142f3cd40302738a1",
+            "title": "US ban on Anthropic models sparks AI sovereignty concerns",
+            "description": "US News: NEW DELHI: Just over a day after Anthropic hailed India as its “second-largest market” and unveiled a major partnership with Tata Consultancy Services.",
+            "content": "Sparks AI Sovereignty Concerns\nNEW DELHI: Just over a day after Anthropic hailed India as its “second-largest market” and unveiled a major partnership with Tata Consultancy Services (TCS), Indian developers, enterprises and researchers found themselv... [2899 chars]",
+            "url": "https://timesofindia.indiatimes.com/world/us/us-ban-on-anthropic-models-sparks-ai-sovereignty-concerns/articleshow/131713454.cms",
+            "image": "https://static.toiimg.com/thumb/msid-131713509,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-13T22:15:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "0663a75e4d2a5e333ae5835cdc1f9adb",
-            "title": "Perception shapes reality in 2026 America",
-            "description": "As we approach the 250th anniversary of the Declaration of Independence, America is in a pretty foul mood: Washington is broken, prices are high and rising, and AI is scaring the stuffing out of us.",
-            "content": "As we approach the 250th anniversary of the Declaration of Independence, America is in a pretty foul mood, and I understand why. For starters, Washington is broken, prices are high and rising, and AI is scaring the stuffing out of people.\nUnderstandi... [4223 chars]",
-            "url": "https://www.postandcourier.com/opinion/commentary/america-nostalgia-media-influence-perception-reality/article_cf6934d9-6595-46ac-84dd-192d5ca028c2.html",
-            "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/5a/d5a7684c-e37c-4fdf-a510-6bd620071722/608ae607ced77.image.jpg?crop=1807%2C950%2C0%2C171&resize=1200%2C631&order=crop%2Cresize",
-            "publishedAt": "2026-06-12T22:15:00Z",
+            "id": "c3428674f1a7b4db8484b8c738d52a63",
+            "title": "Siri AI: This time Apple means it! [Cult of Mac podcast No. 24]",
+            "description": "This week on the Cult of Mac podcast: For once, Siri doesn't leave us angry! After a week of WWDC26 surprises, we're stoked about Siri AI.",
+            "content": "Lewis Wallace is the managing editor of Cult of Mac and author of our weekly newsletter, The Weekender.\nHe’s a San Francisco-based writer and editor specializing in technology and culture. He loves his iPhone, hates Siri, and appreciates any hardware... [520 chars]",
+            "url": "https://www.cultofmac.com/news/siri-ai-wwdc26-cult-of-mac-podcast-24",
+            "image": "https://www.cultofmac.com/wp-content/uploads/2026/06/Siri-AI-Cult-of-Mac-podcast-24.jpg.webp",
+            "publishedAt": "2026-06-13T22:03:30Z",
             "lang": "en",
             "source": {
-                "id": "c1903669db0b115cc673ce9c333a70dd",
-                "name": "Charleston Post and Courier",
-                "url": "https://www.postandcourier.com",
+                "id": "0f2b6767e87b258740a23ff093dd65a3",
+                "name": "Cult of Mac",
+                "url": "https://www.cultofmac.com",
                 "country": "us"
             }
         },
         {
-            "id": "336decd5faa66da7bd82370b430a404e",
-            "title": "Roborock's First Robot Lawn Mower Is Here",
-            "description": "It comes with advanced, wire-free navigation and a promised future AI-powered mapping update.",
-            "content": "Roborock is best known for its impressive lineup of robot vacuums, many of which have earned a spot on CNET's best list for their excellent performance and features. The company is new to the robot lawn mower market, at least in the US, launching the... [2140 chars]",
-            "url": "https://www.cnet.com/home/yard-and-outdoors/roborock-first-robot-lawn-mower/",
-            "image": "https://www.cnet.com/a/img/resize/4e64b893215ced1a3c87009651ad230a9c11a8f2/hub/2026/06/12/e5068ae7-a763-4c35-885f-8d3953da86ae/rockneo-q1-002-lifestyle.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-06-12T22:13:15Z",
+            "id": "7ee2b4542d7fde010939fea3b82a4613",
+            "title": "Plentisoft: Richard Roths Media Announces $52 Million Dollar Investment Approval to Expand its AI-Driven Marketing Systems",
+            "description": "Beverly Hills, California--(Newsfile Corp. - June 13, 2026) - Richard Roths Media today announced the approval and securing of a $52 million investment from GGC Capital Investment Group, a London-based",
+            "content": "Beverly Hills, California--(Newsfile Corp. - June 13, 2026) - Richard Roths Media today announced the approval and securing of a $52 million investment from GGC Capital Investment Group, a London-based investment firm. The funding is designated to ac... [7563 chars]",
+            "url": "https://www.finanznachrichten.de/nachrichten-2026-06/68759942-plentisoft-richard-roths-media-announces-dollar-52-million-dollar-investment-approval-to-expand-its-ai-driven-marketing-systems-296.htm",
+            "image": "https://www.finanznachrichten.de/content/g/fb.png",
+            "publishedAt": "2026-06-13T22:02:00Z",
             "lang": "en",
             "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
+                "id": "757fbdd82c8f9334e4004c82ac6fb28a",
+                "name": "FinanzNachrichten",
+                "url": "https://www.finanznachrichten.de",
+                "country": "de"
+            }
+        },
+        {
+            "id": "72caa6f7d71b4b222b2fb604ce71b3fc",
+            "title": "World Cup Predictions: AI Reveals Mexico’s 2026 Chances",
+            "description": "An interesting study reveal Mexico's chance of going all the way as part of 2026 FIFA World Cup predictions.",
+            "content": "The action is already underway in one of the most anticipated sporting events. Mexico’s 2-0 opening win over South Africa on Thursday set the tone for what could be one exciting tourney. But among the 2026 FIFA World Cup Predictions, Mexico’s chances... [2907 chars]",
+            "url": "https://heavy.com/sports/soccer/world-cup-predictions-ai-reveals-mexicos-2026-chances/",
+            "image": "https://heavy.com/wp-content/uploads/2026/06/mexico-v-south-africa-group-a-fifa-world-cup-2026-mexico-1-e1781387685944.jpg?quality=65&strip=all",
+            "publishedAt": "2026-06-13T21:55:05Z",
+            "lang": "en",
+            "source": {
+                "id": "cfda09234da4b4ff42f8876ac13e4be2",
+                "name": "Heavy.",
+                "url": "https://heavy.com",
                 "country": "us"
             }
         },
         {
-            "id": "e3a3d3e8a82878205f173045d3ecc56c",
-            "title": "Nvidia's RTX Spark made me hate content creation a little less",
-            "description": "After seeing NVIDIA RTX Spark in action at Computex 2026, I'm convinced its AI-powered editing tools could save creators hours by eliminating video editing's most repetitive tasks.",
-            "content": "Every video editor has a list of tasks they’d happily outsource to someone else. Exporting isn’t one of them anymore because modern laptops are already plenty fast. The real-time sinks are the boring bits: manually masking subjects, finding scene cut... [4917 chars]",
-            "url": "https://www.digitaltrends.com/computing/nvidias-rtx-spark-made-me-hate-video-editing-a-little-less/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/06/NVIDIA-RTX-Spark-for-Creators-Image-Generation-Demo-Computex-2026.jpg?resize=1200%2C630",
-            "publishedAt": "2026-06-12T22:09:36Z",
+            "id": "f7fcd097217a239bd288ff41dcbbd84d",
+            "title": "You can ignore AI giants like SpaceX, but your 401(k) won't",
+            "description": "Nasdaq changed its rules to allow some huge companies to join its Nasdaq 100 index after just 15 trading days.",
+            "content": "SpaceX is now worth $2.1 trillion after its stock launched 19.2% higher in its debut on Wall Street. Whether or not you believe it deserves to be worth more than Exxon Mobil, Bank of America and Coca-Cola combined, the collective market does. And if ... [5664 chars]",
+            "url": "https://fortune.com/2026/06/13/spacex-stock-index-funds-passive-investing-401k-nasdaq-100-russell/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/AP26163505166088-e1781386497922.jpg?resize=1200,600",
+            "publishedAt": "2026-06-13T21:39:19Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
                 "country": "us"
             }
         },
         {
-            "id": "face29322f9bfd321ae8486c9a1bd781",
-            "title": "UK Set to Block Teenagers From High-Risk Social Media Apps, Says Report",
-            "description": "The UK government is preparing to ban teenagers under 16 from high-risk social media apps and block all under-18s from using romantic or sexual AI chatbots, with Prime Minister Keir Starmer set to outline the plans on Monday following a consultation that drew more than 116,000 responses. , UK, Times Now",
-            "content": "British PM Keir Starmer.\nPhoto : AP\nThe UK government is preparing to ban teenagers under the age of 16 from accessing social media apps deemed high risk, as part of one of the most sweeping crackdowns on Big Tech the country has seen, according to a... [2814 chars]",
-            "url": "https://www.timesnownews.com/world/uk/uk-set-to-block-teenagers-from-high-risk-social-media-apps-says-report-article-154586531",
-            "image": "https://images.timesnownews.com/thumb/msid-154586531,width-1280,height-720,resizemode-75/154586531.jpg",
-            "publishedAt": "2026-06-12T22:05:56Z",
+            "id": "6217f8bb4b2b92df32ac9d127cfb5a17",
+            "title": "Anthropic Closed Doors a Glitch in Competitiveness",
+            "description": "The US governments decision to prohibit foreign nationals from accessing Anthropics Mythos and Fable 5 artificial intelligence (AI) models could spell a significant competitive disadvantage for Indian enterprises and IT services providers, said industry executives and experts.",
+            "content": "Anthropic Closed Doors a Glitch in Competitiveness | page 1\nMumbai: The US government’s decision to prohibit foreign nationals from accessing Anthropic’s Mythos and Fable 5 artificial intelligence (AI) models could spell a significant competitive dis... [4330 chars]",
+            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jun/14/sunet-front/anthropic-closed-doors-a-glitch-in-competitiveness/articleshow/131712406.cms",
+            "image": "https://img.etimg.com/thumb/msid-131714207,width-1200,height-630,imgsize-72058,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-06-13T21:33:00Z",
             "lang": "en",
             "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "89c21ade4226d530685d013985a34285",
-            "title": "SpaceX goes public and is now worth trillions. What happens now?",
-            "description": "SpaceX is now publicly traded, and it’s leaning heavily into space and AI. What does that mean for us humans here on earth?Today, Elon Musk’s company SpaceX had a banner day in the stock market. The company is now valued at more than $2 trillion.That is, after an already record-breaking initial public offering, or IPO.That historic IPO is likely to make Musk the world’s first trillionaire.And while SpaceX isn't profitable yet, investors have big expectations for the company’s ambitions in space and artificial intelligence.For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Alejandra Marquez Janse, with audio engineering by Ted Mebane and Becky Brown.It was edited by Courtney Dorning and Patrick Jarenwattananon. Our interim executive producer is Courtney Dorning.",
-            "content": "SpaceX is now publicly traded, and it’s leaning heavily into space and AI. What does that mean for us humans here on earth?\nToday, Elon Musk’s company SpaceX had a banner day in the stock market. The company is now valued at more than $2 trillion.\nTh... [649 chars]",
-            "url": "https://www.npr.org/2026/06/12/nx-s1-5856424/spacex-goes-public-and-is-now-worth-trillions-what-happens-now",
-            "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5553x3124+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F7d%2F37a9a39b424688774e9d236f5c9a%2Ff6f9a1e0-08a8-42b4-87e7-5c24ba56d0ce.jpg",
-            "publishedAt": "2026-06-12T22:04:46Z",
+            "id": "50b023c4f04b1e87eec6f8f6cb484de1",
+            "title": "AI in Marketing: 18 Innovative Approaches for Customer Engagement",
+            "description": "This article explores eighteen proven strategies for leveraging AI in marketing, backed by insights from industry experts",
+            "content": "Share\nShare\nShare\nShare\nEmail\nAI in Marketing: 18 Innovative Approaches for Customer Engagement\nArtificial intelligence is reshaping how brands connect with customers, moving beyond generic campaigns to create meaningful, personalized interactions at... [1521 chars]",
+            "url": "https://techbullion.com/ai-in-marketing-18-innovative-approaches-for-customer-engagement/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/06/featured-image-AI-in-Marketing-18-Innovative-Approaches-for-Customer-Engagement-1000x600.webp",
+            "publishedAt": "2026-06-13T21:30:17Z",
             "lang": "en",
             "source": {
-                "id": "b41851fb2662ea502db29f71ec4d1583",
-                "name": "NPR",
-                "url": "https://www.npr.org",
-                "country": "us"
-            }
-        },
-        {
-            "id": "435fd384c37f8c5dd95cbd63252685b0",
-            "title": "By the numbers: Here’s what you might have missed in SpaceX’s record market debut",
-            "description": "By Ramishah Maruf, CNN New York (CNN) — SpaceX’s highly anticipated IPO has officially lifted off. Wall Street rejoiced, everyday investors placed so many buy orders it caused outages on Robinhood for a bit, and the world’s richest man became the world’s first trillionaire. Shares of Elon Musk’s rocket and AI company (SPCX) settled at",
-            "content": "By Ramishah Maruf, CNN\nNew York (CNN) — SpaceX’s highly anticipated IPO has officially lifted off.\nWall Street rejoiced, everyday investors placed so many buy orders it caused outages on Robinhood for a bit, and the world’s richest man became the wor... [1634 chars]",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2026/06/12/by-the-numbers-heres-what-you-might-have-missed-in-spacexs-record-market-debut/",
-            "image": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
-            "publishedAt": "2026-06-12T22:04:35Z",
-            "lang": "en",
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "7b070854ff660332ad9b2a6c65ade41e",
-            "title": "Why teachers are creating AI-powered classroom helpers",
-            "description": "An Australian made artificial intelligence platform is letting educators create their own teaching aides, some of whom simulate scenarios from the real world.",
-            "content": "Imagine you are training as a dentist and must treat a patient with sensitive teeth, a nervous disposition and a challenging diagnosis.\nNow imagine that patient is powered by artificial intelligence, programmed by your professor and designed to help ... [2494 chars]",
-            "url": "https://www.perthnow.com.au/news/education/why-teachers-are-creating-ai-powered-classroom-helpers-c-22425354",
-            "image": "https://images.perthnow.com.au/publication/C-22425354/3236804cbfadc45d4d52498f555199ddf7ae9156-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-06-12T22:04:32Z",
-            "lang": "en",
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "8d5cae60a205f91bdb82797e393d7083",
-            "title": "People's Party keeps up pressure to kill AI Passport",
-            "description": "The opposition People's Party (PP) stepped up its pressure on the government to scrap its 1.6-billion-baht TH-AI Passport project, warning that it would petition the National Anti-Corruption Commission (NACC) to investigate once public registration opens.",
-            "content": "The opposition People's Party (PP) stepped up its pressure on the government to scrap its 1.6-billion-baht TH-AI Passport project, warning that it would petition the National Anti-Corruption Commission (NACC) to investigate once public registration o... [1507 chars]",
-            "url": "https://www.bangkokpost.com/thailand/politics/3270085/peoples-party-keeps-up-pressure-to-kill-ai-passport",
-            "image": "https://static.bangkokpost.com/media/content/20260613/c1_3270085_260613070605_700.jpg",
-            "publishedAt": "2026-06-12T22:02:00Z",
-            "lang": "en",
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            }
-        },
-        {
-            "id": "f1ec26fdec29ea59bcef9a760ba9be17",
-            "title": "Arizona’s data center moratorium is only the beginning",
-            "description": "The states that will succeed in the AI era are not those that offer the largest subsidies. They are the ones that ensure innovation strengthens communities.",
-            "content": "For years, Arizona’s conversation about data centers focused on investment, jobs and economic growth.\nFar less attention was paid to who would bear the costs.\nAs data centers have expanded across Arizona, so too have questions from ratepayers, water ... [5135 chars]",
-            "url": "https://azcapitoltimes.com/news/2026/06/12/arizonas-data-center-moratorium-is-only-the-beginning/",
-            "image": "https://azcapitoltimes.com/files/2026/01/Pluribus.png",
-            "publishedAt": "2026-06-12T22:00:34Z",
-            "lang": "en",
-            "source": {
-                "id": "0289eb2190ee47ce5d9073c58959546d",
-                "name": "Arizona Capitol Times",
-                "url": "https://azcapitoltimes.com",
-                "country": "us"
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
             }
         }
     ]
