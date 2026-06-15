@@ -4,64 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 364426,
+    "totalArticles": 364939,
     "articles": [
         {
-            "id": "56517c722684abf2248aad109efe7788",
-            "title": "AI's Core Flaw: \"Mass Regurgitation Of Misinformation\"",
-            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-            "content": "Authored by Charles Hugh Smith via OfTwoMinds blog,\nThese immense hidden costs will not show up in GDP until they collapse the entire house of speculative gambling cards propping up the global economy.\nI approach all AI topics with several things in ... [4765 chars]",
-            "url": "https://www.zerohedge.com/ai/ais-core-flaw-mass-regurgitation-misinformation",
-            "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/HAL10.jpg?h=8b9dd7d2&itok=fuWOHjFU",
-            "publishedAt": "2026-06-13T22:40:00Z",
+            "id": "2e93bf8b435ae21f689547475bf5aea1",
+            "title": "SK Hynix Eyes Listing on Tech-Heavy Nasdaq in August; Shares Jump 7%",
+            "description": "South Korean chipmaker SK Hynix is eyeing the Nasdaq for its planned listing in the U.S., to bank on investor interest in AI-related stocks, Reuters reported Friday, citing two sources familiar...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/sk-hynix-eyes-listing-on-tech-heavy-nasdaq-in-august-shares-jump-7-ce7f5cd9d08eff2c",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-06-15T01:39:14Z",
             "lang": "en",
             "source": {
-                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
-                "name": "ZeroHedge",
-                "url": "https://www.zerohedge.com",
-                "country": "us"
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         },
         {
-            "id": "6e92c522b79ff429e3e6ec06af214c69",
-            "title": "Lost access to Anthropic’s AI models highlights risk of relying on U.S. tech, Canadian experts say",
-            "description": "U.S. government ordered AI giant to restrict foreign nationals from Fable 5 and Mythos 5 models",
-            "content": "The U.S. government’s directive that Anthropic prevent foreign nationals from accessing its latest artificial intelligence models underscores the risks that Canada and other countries face without alternatives to American tech giants, according to ex... [6716 chars]",
-            "url": "https://www.theglobeandmail.com/business/article-anthropic-fable-mythos-ai-offline-canada-risks/",
-            "image": "https://www.theglobeandmail.com/resizer/v2/7Z4SW7UZHNEZ3MZLSZUHCM4MKM.jpg?auth=1afdbfaf38a5e14da05ffe639212ae2b4e834dec9d8beecef815fc34474806d9&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2026-06-13T22:30:32Z",
-            "lang": "en",
-            "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "f09861acff07667555f18392ab1c72dc",
-            "title": "Cycclone, Inc. Announces Agreement in Principle for the Acquisition of AI Robotics Company",
-            "description": "14.06.2026 - NEW YORK CITY, NY / ACCESS Newswire / June 13, 2026 / Cycclone, Inc. (OTCID:CYCL) today acknowledges reaching an agreement in principle to acquire an AI Robotics design, develop and manufacturing company under the newly formed division, Cycclone Ai ...",
-            "content": "Cycclone, Inc. (OTCID:CYCL) today acknowledges reaching an agreement in principle to acquire an AI Robotics design, develop and manufacturing company under the newly formed division, Cycclone Ai Robotics.\nRecently an agreement in principle has been r... [2152 chars]",
-            "url": "https://www.wallstreet-online.de/nachricht/20998955-cycclone-inc-announces-agreement-principle-for-the-acquisition-of-ai-robotics-company",
-            "image": "https://assets.wallstreet-online.de/_media/2800/2023/2025/marketjar/size_645/acess-newswire.jpg",
-            "publishedAt": "2026-06-13T22:15:59Z",
-            "lang": "en",
-            "source": {
-                "id": "4ddba5324f2e0216fa6458240fdb0f97",
-                "name": "Wallstreet Online",
-                "url": "https://www.wallstreet-online.de",
-                "country": "de"
-            }
-        },
-        {
-            "id": "eacecfd3128a94b142f3cd40302738a1",
-            "title": "US ban on Anthropic models sparks AI sovereignty concerns",
-            "description": "US News: NEW DELHI: Just over a day after Anthropic hailed India as its “second-largest market” and unveiled a major partnership with Tata Consultancy Services.",
-            "content": "Sparks AI Sovereignty Concerns\nNEW DELHI: Just over a day after Anthropic hailed India as its “second-largest market” and unveiled a major partnership with Tata Consultancy Services (TCS), Indian developers, enterprises and researchers found themselv... [2899 chars]",
-            "url": "https://timesofindia.indiatimes.com/world/us/us-ban-on-anthropic-models-sparks-ai-sovereignty-concerns/articleshow/131713454.cms",
-            "image": "https://static.toiimg.com/thumb/msid-131713509,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-13T22:15:00Z",
+            "id": "99521df2d9cb4f2b942b5c8863fda2f0",
+            "title": "Infrastructure boom, AI fears drive civil engineering’s strong comeback at top IITs",
+            "description": "India News: MUMBAI: Computer science continues to dominate the imagination of India’s best engineering aspirants, but the first round of IIT seats preference for .",
+            "content": "File photo\nMUMBAI: Computer science continues to dominate the imagination of India’s best engineering aspirants, but the first round of IIT seats preference for 2026 shows another branch quietly clawing its way back into favour: civil engineering. Th... [3897 chars]",
+            "url": "https://timesofindia.indiatimes.com/india/infrastructure-boom-ai-fears-drive-civil-engineerings-strong-comeback-at-top-iits/articleshow/131731052.cms",
+            "image": "https://static.toiimg.com/thumb/msid-131731062,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-15T01:32:00Z",
             "lang": "en",
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -71,77 +39,77 @@
             }
         },
         {
-            "id": "c3428674f1a7b4db8484b8c738d52a63",
-            "title": "Siri AI: This time Apple means it! [Cult of Mac podcast No. 24]",
-            "description": "This week on the Cult of Mac podcast: For once, Siri doesn't leave us angry! After a week of WWDC26 surprises, we're stoked about Siri AI.",
-            "content": "Lewis Wallace is the managing editor of Cult of Mac and author of our weekly newsletter, The Weekender.\nHe’s a San Francisco-based writer and editor specializing in technology and culture. He loves his iPhone, hates Siri, and appreciates any hardware... [520 chars]",
-            "url": "https://www.cultofmac.com/news/siri-ai-wwdc26-cult-of-mac-podcast-24",
-            "image": "https://www.cultofmac.com/wp-content/uploads/2026/06/Siri-AI-Cult-of-Mac-podcast-24.jpg.webp",
-            "publishedAt": "2026-06-13T22:03:30Z",
+            "id": "88ee09903bbd66eed7ab3f48da02837b",
+            "title": "Interpretable AI in materials discovery: Uncovering how models make predictions",
+            "description": "A method to interpret artificial intelligence (AI) models used in materials discovery by analyzing their learned features has been developed by researchers from Japan. The method extracts key features from an AI model trained on atomic structural data and optical absorption spectra, and then groups materials with similar structural and spectral characteristics. This approach can be extended to reveal how atomic arrangements influence other material properties, paving the way for more efficient materials design.",
+            "content": "A method to interpret artificial intelligence (AI) models used in materials discovery by analyzing their learned features has been developed by researchers from Japan. The method extracts key features from an AI model trained on atomic structural dat... [4507 chars]",
+            "url": "https://phys.org/news/2026-06-ai-materials-discovery-uncovering.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/interpretable-ai-in-ma.jpg",
+            "publishedAt": "2026-06-15T01:30:01Z",
             "lang": "en",
             "source": {
-                "id": "0f2b6767e87b258740a23ff093dd65a3",
-                "name": "Cult of Mac",
-                "url": "https://www.cultofmac.com",
-                "country": "us"
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
             }
         },
         {
-            "id": "7ee2b4542d7fde010939fea3b82a4613",
-            "title": "Plentisoft: Richard Roths Media Announces $52 Million Dollar Investment Approval to Expand its AI-Driven Marketing Systems",
-            "description": "Beverly Hills, California--(Newsfile Corp. - June 13, 2026) - Richard Roths Media today announced the approval and securing of a $52 million investment from GGC Capital Investment Group, a London-based",
-            "content": "Beverly Hills, California--(Newsfile Corp. - June 13, 2026) - Richard Roths Media today announced the approval and securing of a $52 million investment from GGC Capital Investment Group, a London-based investment firm. The funding is designated to ac... [7563 chars]",
-            "url": "https://www.finanznachrichten.de/nachrichten-2026-06/68759942-plentisoft-richard-roths-media-announces-dollar-52-million-dollar-investment-approval-to-expand-its-ai-driven-marketing-systems-296.htm",
-            "image": "https://www.finanznachrichten.de/content/g/fb.png",
-            "publishedAt": "2026-06-13T22:02:00Z",
+            "id": "0f903f7b180f61bb5c877f3fca5be19c",
+            "title": "US Shuts Anthropic’s Mythos 5 And Fable 5 To The World, AI Nationalism Begins",
+            "description": "Anthropic’s top AI models are now restricted for non-US users after a US government order, sparking global concerns over AI sovereignty, national security, and tech dependence. Here's how the world leaders responded., Technology & Science, Times Now",
+            "content": "The tech world has faced a dramatic shift to Anthropic’s plan this week. People across the world, including India, have suddenly lost access to Anthropic’s most advanced AI models, Mythos 5 and Fable 5, after the Trump-led government ordered the tech... [4373 chars]",
+            "url": "https://www.timesnownews.com/technology-science/us-shuts-anthropics-mythos-5-and-fable-5-to-the-world-ai-nationalism-begins-article-154613195",
+            "image": "https://images.timesnownews.com/thumb/msid-154613195,width-1280,height-720,resizemode-75/154613195.jpg",
+            "publishedAt": "2026-06-15T01:30:00Z",
             "lang": "en",
             "source": {
-                "id": "757fbdd82c8f9334e4004c82ac6fb28a",
-                "name": "FinanzNachrichten",
-                "url": "https://www.finanznachrichten.de",
-                "country": "de"
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
             }
         },
         {
-            "id": "72caa6f7d71b4b222b2fb604ce71b3fc",
-            "title": "World Cup Predictions: AI Reveals Mexico’s 2026 Chances",
-            "description": "An interesting study reveal Mexico's chance of going all the way as part of 2026 FIFA World Cup predictions.",
-            "content": "The action is already underway in one of the most anticipated sporting events. Mexico’s 2-0 opening win over South Africa on Thursday set the tone for what could be one exciting tourney. But among the 2026 FIFA World Cup Predictions, Mexico’s chances... [2907 chars]",
-            "url": "https://heavy.com/sports/soccer/world-cup-predictions-ai-reveals-mexicos-2026-chances/",
-            "image": "https://heavy.com/wp-content/uploads/2026/06/mexico-v-south-africa-group-a-fifa-world-cup-2026-mexico-1-e1781387685944.jpg?quality=65&strip=all",
-            "publishedAt": "2026-06-13T21:55:05Z",
+            "id": "3cb3bfa6a0ef575dc442a995cc2b50d5",
+            "title": "Top US Professor Says AI Skills Will Soon Be Non-Negotiable for Job Seekers",
+            "description": "Top US experts on Timesnownews.com - From geopolitics to AI to lifestyle, get the views from the best in the world., Lifestyle, Times Now",
+            "content": "The job market today, is as brutal as ever with no signs of the competitiveness slowing down in the near future. One of America's leading career development experts unpacks what it takes to not only land a job, but also excel in it. Neil Burton, Asso... [5895 chars]",
+            "url": "https://www.timesnownews.com/lifestyle/top-us-professor-says-ai-skills-will-soon-be-non-negotiable-for-job-seekers-article-154581219",
+            "image": "https://images.timesnownews.com/thumb/msid-154581219,width-1280,height-720,resizemode-75/154581219.jpg",
+            "publishedAt": "2026-06-15T01:30:00Z",
             "lang": "en",
             "source": {
-                "id": "cfda09234da4b4ff42f8876ac13e4be2",
-                "name": "Heavy.",
-                "url": "https://heavy.com",
-                "country": "us"
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
             }
         },
         {
-            "id": "f7fcd097217a239bd288ff41dcbbd84d",
-            "title": "You can ignore AI giants like SpaceX, but your 401(k) won't",
-            "description": "Nasdaq changed its rules to allow some huge companies to join its Nasdaq 100 index after just 15 trading days.",
-            "content": "SpaceX is now worth $2.1 trillion after its stock launched 19.2% higher in its debut on Wall Street. Whether or not you believe it deserves to be worth more than Exxon Mobil, Bank of America and Coca-Cola combined, the collective market does. And if ... [5664 chars]",
-            "url": "https://fortune.com/2026/06/13/spacex-stock-index-funds-passive-investing-401k-nasdaq-100-russell/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/AP26163505166088-e1781386497922.jpg?resize=1200,600",
-            "publishedAt": "2026-06-13T21:39:19Z",
+            "id": "213d547ddaa4f8d46c677f7be39db68f",
+            "title": "RITES taps AI to step up service and revenue",
+            "description": "RITES enhances service quality and revenue by leveraging AI through the Abhikalp innovation hub for improved operational efficiency.",
+            "content": "Every organisation is scrambling to use AI and other tech to improve productivity. At RITES — Rail India Technical and Economic Service — the attempt is to improve service quality and revenue. “We have recently launched a new centre of digital excell... [2118 chars]",
+            "url": "https://www.thehindubusinessline.com/economy/logistics/rites-taps-ai-to-step-up-service-and-revenue/article71102194.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/upltqn/article71102196.ece/alternates/LANDSCAPE_1200/BL1506_Logistics_Tube.jpg",
+            "publishedAt": "2026-06-15T01:28:00Z",
             "lang": "en",
             "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
             }
         },
         {
-            "id": "6217f8bb4b2b92df32ac9d127cfb5a17",
-            "title": "Anthropic Closed Doors a Glitch in Competitiveness",
-            "description": "The US governments decision to prohibit foreign nationals from accessing Anthropics Mythos and Fable 5 artificial intelligence (AI) models could spell a significant competitive disadvantage for Indian enterprises and IT services providers, said industry executives and experts.",
-            "content": "Anthropic Closed Doors a Glitch in Competitiveness | page 1\nMumbai: The US government’s decision to prohibit foreign nationals from accessing Anthropic’s Mythos and Fable 5 artificial intelligence (AI) models could spell a significant competitive dis... [4330 chars]",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jun/14/sunet-front/anthropic-closed-doors-a-glitch-in-competitiveness/articleshow/131712406.cms",
-            "image": "https://img.etimg.com/thumb/msid-131714207,width-1200,height-630,imgsize-72058,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-06-13T21:33:00Z",
+            "id": "ca2f0897f916a2d4662a5a24e3a6c633",
+            "title": "Anthropic staff to meet White House officials next week: Report",
+            "description": "Senior Anthropic officials are in Washington to meet White House representatives. This meeting aims to resolve a dispute that has led to the shutdown of the company's advanced AI models. The models Fable 5 and Mythos 5 were affected by a Trump administration order. Anthropic responded by disabling global access to these models.",
+            "content": "Synopsis\nSenior Anthropic officials are in Washington to meet White House representatives. This meeting aims to resolve a dispute that has led to the shutdown of the company's advanced AI models. The models Fable 5 and Mythos 5 were affected by a Tru... [1326 chars]",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-staff-to-meet-white-house-officials-next-week-report/articleshow/131730955.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-153852,resizemode-75,msid-131730955/tech/artificial-intelligence/anthropic-staff-to-meet-white-house-officials-next-week-report.jpg",
+            "publishedAt": "2026-06-15T01:13:40Z",
             "lang": "en",
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -151,19 +119,51 @@
             }
         },
         {
-            "id": "50b023c4f04b1e87eec6f8f6cb484de1",
-            "title": "AI in Marketing: 18 Innovative Approaches for Customer Engagement",
-            "description": "This article explores eighteen proven strategies for leveraging AI in marketing, backed by insights from industry experts",
-            "content": "Share\nShare\nShare\nShare\nEmail\nAI in Marketing: 18 Innovative Approaches for Customer Engagement\nArtificial intelligence is reshaping how brands connect with customers, moving beyond generic campaigns to create meaningful, personalized interactions at... [1521 chars]",
-            "url": "https://techbullion.com/ai-in-marketing-18-innovative-approaches-for-customer-engagement/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/06/featured-image-AI-in-Marketing-18-Innovative-Approaches-for-Customer-Engagement-1000x600.webp",
-            "publishedAt": "2026-06-13T21:30:17Z",
+            "id": "d4cc5e27dc0842636c591b83ea21b03f",
+            "title": "Modi-Macron meeting: Trade to AI; India, France set new targets",
+            "description": "India and France aim to double bilateral trade, establish an innovation roadmap and AI governance group. They plan to boost cooperation in defence, space, and economic security, with a focus on supply chain resilience and critical minerals. The leaders stressed on people-to-people ties, enhancing talent and student mobility.",
+            "content": "India 1 hr ago\nThis is an AI assisted summary.\nIndia and France aim to double bilateral trade, establish an innovation roadmap and AI governance group. They plan to boost cooperation in defence, space, and economic security, with a focus on supply ch... [22982 chars]",
+            "url": "https://indianexpress.com/shorts/india/narendra-modi-emmanuel-macron-meeting-trade-to-ai-india-france-set-new-targets-10739512/",
+            "image": "https://images.indianexpress.com/2026/06/PM-Narendra-Modi-with-French-President-Emmanuel-Macron-in-Nice-France-Sunday.jpg",
+            "publishedAt": "2026-06-15T01:10:03Z",
             "lang": "en",
             "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "bbe02b9341044c5fff3cfc02ce447839",
+            "title": "UK sandbox for AI health innovations",
+            "description": "London's new AI health innovation sandbox accelerates safe access to groundbreaking medical technologies, enhancing patient care and outcomes.",
+            "content": "Patients across London are set to benefit from faster access to innovative, AI‑powered healthcare technologies, as the Medicines and Healthcare products Regulatory Agency (MHRA), in partnership with NHS England (London) and the London Health Innovati... [1829 chars]",
+            "url": "https://www.thehindubusinessline.com/specials/pulse/uk-sandbox-for-ai-health-innovations/article71085976.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/8dm94/article71102261.ece/alternates/LANDSCAPE_1200/BL1506_Pulse_Regulator.jpg",
+            "publishedAt": "2026-06-15T01:09:00Z",
+            "lang": "en",
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "fc607248b882c2a08232a75aca24555f",
+            "title": "Jack Ma-backed Ant Group set for high-stakes overhaul of billion-user app",
+            "description": "Hangzhou-based Ant will roll out a design that lets users ask the Alipay AI to book a car ride, order coffee or arrange takeout — by typing or speaking their requests, according to people familiar with its plans and a video demo seen by Bloomberg News.",
+            "content": "Ant Group Co. is testing an overhaul to its Alipay super app that would introduce an AI agent interface, a major escalation in its battle for users with archrival WeChat.\nHangzhou-based Ant will roll out a design that lets users ask the Alipay AI to ... [3298 chars]",
+            "url": "https://www.moneycontrol.com/news/business/jack-ma-backed-ant-group-set-for-high-stakes-overhaul-of-billion-user-app-13949390.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2019/11/Jack-Ma-.jpg",
+            "publishedAt": "2026-06-15T01:08:13Z",
+            "lang": "en",
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
             }
         }
     ]
