@@ -4,112 +4,48 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 364939,
+    "totalArticles": 366023,
     "articles": [
         {
-            "id": "2e93bf8b435ae21f689547475bf5aea1",
-            "title": "SK Hynix Eyes Listing on Tech-Heavy Nasdaq in August; Shares Jump 7%",
-            "description": "South Korean chipmaker SK Hynix is eyeing the Nasdaq for its planned listing in the U.S., to bank on investor interest in AI-related stocks, Reuters reported Friday, citing two sources familiar...",
-            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/sk-hynix-eyes-listing-on-tech-heavy-nasdaq-in-august-shares-jump-7-ce7f5cd9d08eff2c",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-06-15T01:39:14Z",
+            "id": "ed703f8beefe111be43a44506e375164",
+            "title": "AP to join hands with Google in AI and digital governance projects",
+            "description": "The Andhra Pradesh government formed a joint task force with Google to enhance AI, cloud computing, and digital governance, aiming to position the state as a tech hub. | India News",
+            "content": "The decision was taken during a meeting between chief minister N Chandrababu Naidu and Google Asia-Pacific president Karan Bhatia in Singapore on the first day of Naidu’s two-day visit to the country.\n“The discussions focused on positioning Andhra Pr... [3793 chars]",
+            "url": "https://www.hindustantimes.com/india-news/ap-to-join-hands-with-google-in-ai-and-digital-governance-projects-101781550937140.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/550x309/ht-generic_india3_1751287297962_1751287304722.jpg",
+            "publishedAt": "2026-06-16T00:36:16Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "99521df2d9cb4f2b942b5c8863fda2f0",
-            "title": "Infrastructure boom, AI fears drive civil engineering’s strong comeback at top IITs",
-            "description": "India News: MUMBAI: Computer science continues to dominate the imagination of India’s best engineering aspirants, but the first round of IIT seats preference for .",
-            "content": "File photo\nMUMBAI: Computer science continues to dominate the imagination of India’s best engineering aspirants, but the first round of IIT seats preference for 2026 shows another branch quietly clawing its way back into favour: civil engineering. Th... [3897 chars]",
-            "url": "https://timesofindia.indiatimes.com/india/infrastructure-boom-ai-fears-drive-civil-engineerings-strong-comeback-at-top-iits/articleshow/131731052.cms",
-            "image": "https://static.toiimg.com/thumb/msid-131731062,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-15T01:32:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "88ee09903bbd66eed7ab3f48da02837b",
-            "title": "Interpretable AI in materials discovery: Uncovering how models make predictions",
-            "description": "A method to interpret artificial intelligence (AI) models used in materials discovery by analyzing their learned features has been developed by researchers from Japan. The method extracts key features from an AI model trained on atomic structural data and optical absorption spectra, and then groups materials with similar structural and spectral characteristics. This approach can be extended to reveal how atomic arrangements influence other material properties, paving the way for more efficient materials design.",
-            "content": "A method to interpret artificial intelligence (AI) models used in materials discovery by analyzing their learned features has been developed by researchers from Japan. The method extracts key features from an AI model trained on atomic structural dat... [4507 chars]",
-            "url": "https://phys.org/news/2026-06-ai-materials-discovery-uncovering.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/interpretable-ai-in-ma.jpg",
-            "publishedAt": "2026-06-15T01:30:01Z",
+            "id": "55a5a660c9124cb129d4ede706379b2d",
+            "title": "Singapore’s AI upskilling push: It is time to bring the frontline along",
+            "description": "While AI adoption is rising rapidly in Singapore, Rachel Chen of J&T Express warns that frontline employees risk being left behind without targeted upskilling.",
+            "content": "Singapore’s progress on AI adoption is gaining momentum. Now, nearly three in four employees are already using AI tools at work, according to IMDA’s latest Digital Economy Report, and 85% of those users say it helps them work faster and better. Consi... [7731 chars]",
+            "url": "https://hrmasia.com/singapores-ai-upskilling-push-it-is-time-to-bring-the-frontline-along/",
+            "image": "https://hrmasia.com/wp-content/uploads/2026/06/173313994_m-1024x674.jpg",
+            "publishedAt": "2026-06-16T00:32:13Z",
             "lang": "en",
             "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
+                "id": "42600681ae4c3d6a7f1e7a6f213bce84",
+                "name": "HRM Asia",
+                "url": "https://hrmasia.com",
+                "country": "sg"
             }
         },
         {
-            "id": "0f903f7b180f61bb5c877f3fca5be19c",
-            "title": "US Shuts Anthropic’s Mythos 5 And Fable 5 To The World, AI Nationalism Begins",
-            "description": "Anthropic’s top AI models are now restricted for non-US users after a US government order, sparking global concerns over AI sovereignty, national security, and tech dependence. Here's how the world leaders responded., Technology & Science, Times Now",
-            "content": "The tech world has faced a dramatic shift to Anthropic’s plan this week. People across the world, including India, have suddenly lost access to Anthropic’s most advanced AI models, Mythos 5 and Fable 5, after the Trump-led government ordered the tech... [4373 chars]",
-            "url": "https://www.timesnownews.com/technology-science/us-shuts-anthropics-mythos-5-and-fable-5-to-the-world-ai-nationalism-begins-article-154613195",
-            "image": "https://images.timesnownews.com/thumb/msid-154613195,width-1280,height-720,resizemode-75/154613195.jpg",
-            "publishedAt": "2026-06-15T01:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "3cb3bfa6a0ef575dc442a995cc2b50d5",
-            "title": "Top US Professor Says AI Skills Will Soon Be Non-Negotiable for Job Seekers",
-            "description": "Top US experts on Timesnownews.com - From geopolitics to AI to lifestyle, get the views from the best in the world., Lifestyle, Times Now",
-            "content": "The job market today, is as brutal as ever with no signs of the competitiveness slowing down in the near future. One of America's leading career development experts unpacks what it takes to not only land a job, but also excel in it. Neil Burton, Asso... [5895 chars]",
-            "url": "https://www.timesnownews.com/lifestyle/top-us-professor-says-ai-skills-will-soon-be-non-negotiable-for-job-seekers-article-154581219",
-            "image": "https://images.timesnownews.com/thumb/msid-154581219,width-1280,height-720,resizemode-75/154581219.jpg",
-            "publishedAt": "2026-06-15T01:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "213d547ddaa4f8d46c677f7be39db68f",
-            "title": "RITES taps AI to step up service and revenue",
-            "description": "RITES enhances service quality and revenue by leveraging AI through the Abhikalp innovation hub for improved operational efficiency.",
-            "content": "Every organisation is scrambling to use AI and other tech to improve productivity. At RITES — Rail India Technical and Economic Service — the attempt is to improve service quality and revenue. “We have recently launched a new centre of digital excell... [2118 chars]",
-            "url": "https://www.thehindubusinessline.com/economy/logistics/rites-taps-ai-to-step-up-service-and-revenue/article71102194.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/upltqn/article71102196.ece/alternates/LANDSCAPE_1200/BL1506_Logistics_Tube.jpg",
-            "publishedAt": "2026-06-15T01:28:00Z",
-            "lang": "en",
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "ca2f0897f916a2d4662a5a24e3a6c633",
-            "title": "Anthropic staff to meet White House officials next week: Report",
-            "description": "Senior Anthropic officials are in Washington to meet White House representatives. This meeting aims to resolve a dispute that has led to the shutdown of the company's advanced AI models. The models Fable 5 and Mythos 5 were affected by a Trump administration order. Anthropic responded by disabling global access to these models.",
-            "content": "Synopsis\nSenior Anthropic officials are in Washington to meet White House representatives. This meeting aims to resolve a dispute that has led to the shutdown of the company's advanced AI models. The models Fable 5 and Mythos 5 were affected by a Tru... [1326 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-staff-to-meet-white-house-officials-next-week-report/articleshow/131730955.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-153852,resizemode-75,msid-131730955/tech/artificial-intelligence/anthropic-staff-to-meet-white-house-officials-next-week-report.jpg",
-            "publishedAt": "2026-06-15T01:13:40Z",
+            "id": "0201ac9fd872aae78178a72ffd10a76a",
+            "title": "Talent shortage triggers AI adoption among insurers",
+            "description": "A shortage of trained insurance professionals is driving insurers to automate claims processing, underwriting, and customer onboarding. This shift enables companies to handle growing business volumes with greater accuracy and efficiency, rather than replacing existing roles. Technology adoption is enhancing productivity and allowing employees to focus on higher-value client interactions.",
+            "content": "Synopsis\nA shortage of trained insurance professionals is driving insurers to automate claims processing, underwriting, and customer onboarding. This shift enables companies to handle growing business volumes with greater accuracy and efficiency, rat... [3916 chars]",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talent-shortage-triggers-ai-adoption-among-insurers/articleshow/131753586.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-44324,resizemode-75,msid-131753586/tech/artificial-intelligence/talent-shortage-triggers-ai-adoption-among-insurers.jpg",
+            "publishedAt": "2026-06-16T00:30:00Z",
             "lang": "en",
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -119,29 +55,77 @@
             }
         },
         {
-            "id": "d4cc5e27dc0842636c591b83ea21b03f",
-            "title": "Modi-Macron meeting: Trade to AI; India, France set new targets",
-            "description": "India and France aim to double bilateral trade, establish an innovation roadmap and AI governance group. They plan to boost cooperation in defence, space, and economic security, with a focus on supply chain resilience and critical minerals. The leaders stressed on people-to-people ties, enhancing talent and student mobility.",
-            "content": "India 1 hr ago\nThis is an AI assisted summary.\nIndia and France aim to double bilateral trade, establish an innovation roadmap and AI governance group. They plan to boost cooperation in defence, space, and economic security, with a focus on supply ch... [22982 chars]",
-            "url": "https://indianexpress.com/shorts/india/narendra-modi-emmanuel-macron-meeting-trade-to-ai-india-france-set-new-targets-10739512/",
-            "image": "https://images.indianexpress.com/2026/06/PM-Narendra-Modi-with-French-President-Emmanuel-Macron-in-Nice-France-Sunday.jpg",
-            "publishedAt": "2026-06-15T01:10:03Z",
+            "id": "b227364b5a175f5748c3c5e00f70161f",
+            "title": "AI adoption gains momentum, returns emerge but infra lags: Industry executives",
+            "description": "Indian businesses are increasingly embedding AI, transforming operations and yielding measurable returns. However, legacy infrastructure, skill gaps, and a need for business model shifts pose challenges. Experts emphasise domain-specific AI applications and developing indigenous language models as India's key opportunity.",
+            "content": "Synopsis\nIndian businesses are increasingly embedding AI, transforming operations and yielding measurable returns. However, legacy infrastructure, skill gaps, and a need for business model shifts pose challenges. Experts emphasise domain-specific AI ... [5705 chars]",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-adoption-gains-momentum-returns-emerge-but-infra-lags-industry-executives/articleshow/131754283.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38468,resizemode-75,msid-131754283/tech/artificial-intelligence/ai-adoption-gains-momentum-returns-emerge-but-infra-lags-industry-executives.jpg",
+            "publishedAt": "2026-06-16T00:30:00Z",
             "lang": "en",
             "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "bbe02b9341044c5fff3cfc02ce447839",
-            "title": "UK sandbox for AI health innovations",
-            "description": "London's new AI health innovation sandbox accelerates safe access to groundbreaking medical technologies, enhancing patient care and outcomes.",
-            "content": "Patients across London are set to benefit from faster access to innovative, AI‑powered healthcare technologies, as the Medicines and Healthcare products Regulatory Agency (MHRA), in partnership with NHS England (London) and the London Health Innovati... [1829 chars]",
-            "url": "https://www.thehindubusinessline.com/specials/pulse/uk-sandbox-for-ai-health-innovations/article71085976.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/8dm94/article71102261.ece/alternates/LANDSCAPE_1200/BL1506_Pulse_Regulator.jpg",
-            "publishedAt": "2026-06-15T01:09:00Z",
+            "id": "8793c2997234ad9786d94b8abd353a31",
+            "title": "FIFA World Cup fever fuels cyber scams",
+            "description": "Cybercriminals are exploiting the FIFA World Cup, creating thousands of fake ticket portals, merchandise stores, and streaming sites to scam fans. Sophisticated operations are intercepting payment details and authentication, while AI is enabling more personalized and convincing phishing campaigns.",
+            "content": "Synopsis\nCybercriminals are exploiting the FIFA World Cup, creating thousands of fake ticket portals, merchandise stores, and streaming sites to scam fans. Sophisticated operations are intercepting payment details and authentication, while AI is enab... [4059 chars]",
+            "url": "https://economictimes.indiatimes.com/tech/technology/fifa-world-cup-fever-fuels-cyber-scams/articleshow/131754145.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-72272,resizemode-75,msid-131754145/tech/technology/fifa-world-cup-fever-fuels-cyber-scams.jpg",
+            "publishedAt": "2026-06-16T00:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "8bde30c055f5221474656aeca754f7d3",
+            "title": "Indian VCs turn to US AI startups in search of bigger returns",
+            "description": "Indian VC firms are increasingly backing AI startups founded by non-Indians, drawn by the promise of higher returns, writes Swathi Moorthy.",
+            "content": "Synopsis\nIndian VC firms are increasingly backing AI startups founded by non-Indians, drawn by the promise of higher returns, writes Swathi Moorthy.\nListen to this article in summarized format\nIndian venture capital firms Peak XV Partners, NuVentures... [3086 chars]",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-vcs-turn-to-us-ai-startups-in-search-of-bigger-returns/articleshow/131754506.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36148,resizemode-75,msid-131754506/tech/artificial-intelligence/indian-vcs-turn-to-us-ai-startups-in-search-of-bigger-returns.jpg",
+            "publishedAt": "2026-06-16T00:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "13c57ed184ff7dcbade85d91f32aecd7",
+            "title": "Tokenomics 2.0: The battle against AI costs",
+            "description": "Staggering token spending is forcing Indian firms to explore ways to rein in AI cost. This is where open-source models, small language models & inference layer startups step in, writes Swathi Moorthy.",
+            "content": "Synopsis\nStaggering token spending is forcing Indian firms to explore ways to rein in AI cost. This is where open-source models, small language models & inference layer startups step in, writes Swathi Moorthy.\nListen to this article in summarized for... [5404 chars]",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tokenomics-2-0-the-battle-against-ai-costs/articleshow/131754467.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1270284,resizemode-75,msid-131754467/tech/artificial-intelligence/tokenomics-2-0-the-battle-against-ai-costs.jpg",
+            "publishedAt": "2026-06-16T00:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "247e5cc38c916c7a834dac75104cc66a",
+            "title": "India shouldn’t shy away from frontier AI",
+            "description": "Democratisation of intelligence inside a nation’s own borders is essential for economic dynamism and societal benefit",
+            "content": "Frontier AI models have crossed a threshold. They are instruments of national power, economic dominance, and strategic advantage. As their capabilities grow, governments seem to be becoming less willing to leave decisions about access entirely to lab... [4530 chars]",
+            "url": "https://www.thehindubusinessline.com/opinion/india-shouldnt-shy-away-from-frontier-ai/article71105968.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/ovsw3u/article71105963.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UEE2LB5B5_R1507814500_5_2958268f-c2f5-41d0-9392-13e33aa0716a.jpg",
+            "publishedAt": "2026-06-16T00:30:00Z",
             "lang": "en",
             "source": {
                 "id": "680f00482cbf9f314921fefd917871d9",
@@ -151,19 +135,35 @@
             }
         },
         {
-            "id": "fc607248b882c2a08232a75aca24555f",
-            "title": "Jack Ma-backed Ant Group set for high-stakes overhaul of billion-user app",
-            "description": "Hangzhou-based Ant will roll out a design that lets users ask the Alipay AI to book a car ride, order coffee or arrange takeout — by typing or speaking their requests, according to people familiar with its plans and a video demo seen by Bloomberg News.",
-            "content": "Ant Group Co. is testing an overhaul to its Alipay super app that would introduce an AI agent interface, a major escalation in its battle for users with archrival WeChat.\nHangzhou-based Ant will roll out a design that lets users ask the Alipay AI to ... [3298 chars]",
-            "url": "https://www.moneycontrol.com/news/business/jack-ma-backed-ant-group-set-for-high-stakes-overhaul-of-billion-user-app-13949390.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2019/11/Jack-Ma-.jpg",
-            "publishedAt": "2026-06-15T01:08:13Z",
+            "id": "c7152232f406ab33e2b3e9543171925f",
+            "title": "GitHub's AI Surge Pushes Microsoft Into Amazon's Arms",
+            "description": "Microsoft is adding AWS capacity to GitHub after AI-driven growth strained infrastructure and triggered a series of reliability issues.",
+            "content": "Microsoft is turning to its biggest cloud rival, Amazon, to help address capacity issues on its GitHub coding platform following a series of AI-driven outages, according to two people familiar with the plans.\nGitHub, which Microsoft acquired in 2018,... [3373 chars]",
+            "url": "https://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6",
+            "image": "https://i.insider.com/6a306ef00b873a3c9460d159?width=1200&format=jpeg",
+            "publishedAt": "2026-06-16T00:27:57Z",
             "lang": "en",
             "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "a88da7bb851ffee7715158559b7b4b98",
+            "title": "Quest Global Launches Neprion to Accelerate AI Smart Wearables Launch Readiness",
+            "description": "**media[1100243]**New engineering service package designed to help OEMs, retailers, and fashion brands ensure reliability, interoperability, safety, and launch readiness for AI-enabled smart wearables",
+            "content": "New engineering service package designed to help OEMs, retailers, and fashion brands ensure reliability, interoperability, safety, and launch readiness for AI-enabled smart wearables\nBENGALURU, India and WINDSOR, Conn., June 16, 2026 /PRNewswire/ -- ... [3367 chars]",
+            "url": "https://www.manilatimes.net/2026/06/16/tmt-newswire/pr-newswire/quest-global-launches-neprion-to-accelerate-ai-smart-wearables-launch-readiness/2366063",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/16/1100242.jpg",
+            "publishedAt": "2026-06-16T00:21:46Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         }
     ]
