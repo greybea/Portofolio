@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 366023,
+    "totalArticles": 367197,
     "articles": [
         {
-            "id": "ed703f8beefe111be43a44506e375164",
-            "title": "AP to join hands with Google in AI and digital governance projects",
-            "description": "The Andhra Pradesh government formed a joint task force with Google to enhance AI, cloud computing, and digital governance, aiming to position the state as a tech hub. | India News",
-            "content": "The decision was taken during a meeting between chief minister N Chandrababu Naidu and Google Asia-Pacific president Karan Bhatia in Singapore on the first day of Naidu’s two-day visit to the country.\n“The discussions focused on positioning Andhra Pr... [3793 chars]",
-            "url": "https://www.hindustantimes.com/india-news/ap-to-join-hands-with-google-in-ai-and-digital-governance-projects-101781550937140.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/550x309/ht-generic_india3_1751287297962_1751287304722.jpg",
-            "publishedAt": "2026-06-16T00:36:16Z",
+            "id": "f67f52f35933a77ba90ffb6b33641ff1",
+            "title": "Church News podcast: Responsible and principled use of AI",
+            "description": "Deseret News reporter Tad Walch talks about AI and principles he has learned while covering Elder Gerrit W. Gong",
+            "content": "In recent years, artificial intelligence has moved from being a concept illustrated in science fiction books and movies to being something that many individuals use on a daily basis. Elder Gerrit W. Gong of the Quorum of the Twelve Apostles has spoke... [517 chars]",
+            "url": "https://www.deseret.com/faith/2026/06/16/church-news-podcast-episode-299-responsible-principled-use-of-ai-tad-walch-elder-gerrit-w-gong/",
+            "image": "https://www.deseret.com/resizer/v2/CJEYOEDM5RBFPMSF7B3U5SCGRE.jpg?focal=1905%2C528&auth=e383e0a07553860243eb95ac8e62129dc77fe6a54c5ceb8a1e7f037905674a12&width=630&height=331",
+            "publishedAt": "2026-06-17T00:05:21Z",
             "lang": "en",
             "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "55a5a660c9124cb129d4ede706379b2d",
-            "title": "Singapore’s AI upskilling push: It is time to bring the frontline along",
-            "description": "While AI adoption is rising rapidly in Singapore, Rachel Chen of J&T Express warns that frontline employees risk being left behind without targeted upskilling.",
-            "content": "Singapore’s progress on AI adoption is gaining momentum. Now, nearly three in four employees are already using AI tools at work, according to IMDA’s latest Digital Economy Report, and 85% of those users say it helps them work faster and better. Consi... [7731 chars]",
-            "url": "https://hrmasia.com/singapores-ai-upskilling-push-it-is-time-to-bring-the-frontline-along/",
-            "image": "https://hrmasia.com/wp-content/uploads/2026/06/173313994_m-1024x674.jpg",
-            "publishedAt": "2026-06-16T00:32:13Z",
-            "lang": "en",
-            "source": {
-                "id": "42600681ae4c3d6a7f1e7a6f213bce84",
-                "name": "HRM Asia",
-                "url": "https://hrmasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "0201ac9fd872aae78178a72ffd10a76a",
-            "title": "Talent shortage triggers AI adoption among insurers",
-            "description": "A shortage of trained insurance professionals is driving insurers to automate claims processing, underwriting, and customer onboarding. This shift enables companies to handle growing business volumes with greater accuracy and efficiency, rather than replacing existing roles. Technology adoption is enhancing productivity and allowing employees to focus on higher-value client interactions.",
-            "content": "Synopsis\nA shortage of trained insurance professionals is driving insurers to automate claims processing, underwriting, and customer onboarding. This shift enables companies to handle growing business volumes with greater accuracy and efficiency, rat... [3916 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talent-shortage-triggers-ai-adoption-among-insurers/articleshow/131753586.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-44324,resizemode-75,msid-131753586/tech/artificial-intelligence/talent-shortage-triggers-ai-adoption-among-insurers.jpg",
-            "publishedAt": "2026-06-16T00:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "b227364b5a175f5748c3c5e00f70161f",
-            "title": "AI adoption gains momentum, returns emerge but infra lags: Industry executives",
-            "description": "Indian businesses are increasingly embedding AI, transforming operations and yielding measurable returns. However, legacy infrastructure, skill gaps, and a need for business model shifts pose challenges. Experts emphasise domain-specific AI applications and developing indigenous language models as India's key opportunity.",
-            "content": "Synopsis\nIndian businesses are increasingly embedding AI, transforming operations and yielding measurable returns. However, legacy infrastructure, skill gaps, and a need for business model shifts pose challenges. Experts emphasise domain-specific AI ... [5705 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-adoption-gains-momentum-returns-emerge-but-infra-lags-industry-executives/articleshow/131754283.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38468,resizemode-75,msid-131754283/tech/artificial-intelligence/ai-adoption-gains-momentum-returns-emerge-but-infra-lags-industry-executives.jpg",
-            "publishedAt": "2026-06-16T00:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "8793c2997234ad9786d94b8abd353a31",
-            "title": "FIFA World Cup fever fuels cyber scams",
-            "description": "Cybercriminals are exploiting the FIFA World Cup, creating thousands of fake ticket portals, merchandise stores, and streaming sites to scam fans. Sophisticated operations are intercepting payment details and authentication, while AI is enabling more personalized and convincing phishing campaigns.",
-            "content": "Synopsis\nCybercriminals are exploiting the FIFA World Cup, creating thousands of fake ticket portals, merchandise stores, and streaming sites to scam fans. Sophisticated operations are intercepting payment details and authentication, while AI is enab... [4059 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/technology/fifa-world-cup-fever-fuels-cyber-scams/articleshow/131754145.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-72272,resizemode-75,msid-131754145/tech/technology/fifa-world-cup-fever-fuels-cyber-scams.jpg",
-            "publishedAt": "2026-06-16T00:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "8bde30c055f5221474656aeca754f7d3",
-            "title": "Indian VCs turn to US AI startups in search of bigger returns",
-            "description": "Indian VC firms are increasingly backing AI startups founded by non-Indians, drawn by the promise of higher returns, writes Swathi Moorthy.",
-            "content": "Synopsis\nIndian VC firms are increasingly backing AI startups founded by non-Indians, drawn by the promise of higher returns, writes Swathi Moorthy.\nListen to this article in summarized format\nIndian venture capital firms Peak XV Partners, NuVentures... [3086 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-vcs-turn-to-us-ai-startups-in-search-of-bigger-returns/articleshow/131754506.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36148,resizemode-75,msid-131754506/tech/artificial-intelligence/indian-vcs-turn-to-us-ai-startups-in-search-of-bigger-returns.jpg",
-            "publishedAt": "2026-06-16T00:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "13c57ed184ff7dcbade85d91f32aecd7",
-            "title": "Tokenomics 2.0: The battle against AI costs",
-            "description": "Staggering token spending is forcing Indian firms to explore ways to rein in AI cost. This is where open-source models, small language models & inference layer startups step in, writes Swathi Moorthy.",
-            "content": "Synopsis\nStaggering token spending is forcing Indian firms to explore ways to rein in AI cost. This is where open-source models, small language models & inference layer startups step in, writes Swathi Moorthy.\nListen to this article in summarized for... [5404 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tokenomics-2-0-the-battle-against-ai-costs/articleshow/131754467.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1270284,resizemode-75,msid-131754467/tech/artificial-intelligence/tokenomics-2-0-the-battle-against-ai-costs.jpg",
-            "publishedAt": "2026-06-16T00:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "247e5cc38c916c7a834dac75104cc66a",
-            "title": "India shouldn’t shy away from frontier AI",
-            "description": "Democratisation of intelligence inside a nation’s own borders is essential for economic dynamism and societal benefit",
-            "content": "Frontier AI models have crossed a threshold. They are instruments of national power, economic dominance, and strategic advantage. As their capabilities grow, governments seem to be becoming less willing to leave decisions about access entirely to lab... [4530 chars]",
-            "url": "https://www.thehindubusinessline.com/opinion/india-shouldnt-shy-away-from-frontier-ai/article71105968.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/ovsw3u/article71105963.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UEE2LB5B5_R1507814500_5_2958268f-c2f5-41d0-9392-13e33aa0716a.jpg",
-            "publishedAt": "2026-06-16T00:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "c7152232f406ab33e2b3e9543171925f",
-            "title": "GitHub's AI Surge Pushes Microsoft Into Amazon's Arms",
-            "description": "Microsoft is adding AWS capacity to GitHub after AI-driven growth strained infrastructure and triggered a series of reliability issues.",
-            "content": "Microsoft is turning to its biggest cloud rival, Amazon, to help address capacity issues on its GitHub coding platform following a series of AI-driven outages, according to two people familiar with the plans.\nGitHub, which Microsoft acquired in 2018,... [3373 chars]",
-            "url": "https://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6",
-            "image": "https://i.insider.com/6a306ef00b873a3c9460d159?width=1200&format=jpeg",
-            "publishedAt": "2026-06-16T00:27:57Z",
-            "lang": "en",
-            "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
+                "id": "aaa6f2928e430ec2ed450ed89cc822f5",
+                "name": "Salt Lake City Deseret News",
+                "url": "https://www.deseret.com",
                 "country": "us"
             }
         },
         {
-            "id": "a88da7bb851ffee7715158559b7b4b98",
-            "title": "Quest Global Launches Neprion to Accelerate AI Smart Wearables Launch Readiness",
-            "description": "**media[1100243]**New engineering service package designed to help OEMs, retailers, and fashion brands ensure reliability, interoperability, safety, and launch readiness for AI-enabled smart wearables",
-            "content": "New engineering service package designed to help OEMs, retailers, and fashion brands ensure reliability, interoperability, safety, and launch readiness for AI-enabled smart wearables\nBENGALURU, India and WINDSOR, Conn., June 16, 2026 /PRNewswire/ -- ... [3367 chars]",
-            "url": "https://www.manilatimes.net/2026/06/16/tmt-newswire/pr-newswire/quest-global-launches-neprion-to-accelerate-ai-smart-wearables-launch-readiness/2366063",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/16/1100242.jpg",
-            "publishedAt": "2026-06-16T00:21:46Z",
+            "id": "2b2b66bd14991b74cd9c318474f927a0",
+            "title": "Exclusive: US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say",
+            "description": "The U.S. has held ​off adding China’s AI startup DeepSeek, memory chipmaker CXMT and more than 100 other companies flagged as national security risks to a trade blacklist, according to two people familiar ‌with the matter, as the Trump administration tries to avoid escalating tensions with Beijing.",
+            "content": "June 16 (Reuters) - The U.S. has held ​off adding China’s AI startup DeepSeek, memory chipmaker CXMT and more than 100 other companies flagged as national security risks to a trade blacklist, according to two people familiar ‌with the matter, as the ... [4834 chars]",
+            "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+            "image": "https://www.reuters.com/resizer/v2/NSKWY2FN25PERMXDWNZB73IJ2M.jpg?auth=e8eac65ba6152edde32d15335c3c32be1c845a69969d437e1b038483a22aa1e1&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-06-17T00:02:34Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "988cd37eac1ae34aaaa2a69d1877661f",
+            "title": "US Holds Off Blacklisting China's DeepSeek, 100 Firms Deemed Security Risks",
+            "description": "The U.S. has held off adding China’s AI startup DeepSeek, memory chipmaker CXMT and more than 100 other companies flagged as national security risks to a trade",
+            "content": "June 16:\nThe US has held off adding China's AI startup DeepSeek, memory chipmaker CXMT and more than 100 other companies flagged as national security risks to a trade blacklist, according to two people familiar with the matter, as the Trump administr... [4921 chars]",
+            "url": "https://www.ndtv.com/india-news/us-holds-off-blacklisting-chinas-deepseek-100-firms-deemed-security-risks-11646695",
+            "image": "https://c.ndtvimg.com/2026-05/o6doos2k_deepseek_625x300_23_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-06-17T00:02:29Z",
+            "lang": "en",
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "4a24c4257aaba9bed6fed12d87616eb6",
+            "title": "US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say",
+            "description": "The U.S. has held off adding China's AI startup DeepSeek, memory chipmaker CXMT and more than 100 other companies flagged as national security risks to a trade blacklist, according to two people...\n-June 16, 2026 at 08:01 pm EDT\n- MarketScreener",
+            "content": "June 16 (Reuters) - The U.S. has held off adding China's AI startup DeepSeek, memory chipmaker CXMT and more than 100 other companies flagged as national security risks to a trade blacklist, according to two people familiar with the matter, as the Tr... [5022 chars]",
+            "url": "https://www.marketscreener.com/news/us-holds-off-blacklisting-china-s-deepseek-more-than-100-firms-deemed-security-risks-sources-say-ce7f5cdcd88bf225",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-17T000803Z_1_LYNXMPEM5G00D_RTROPTP_4_DEEPSEEK-MARKETS.JPG",
+            "publishedAt": "2026-06-17T00:01:45Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "9b7f8b9ce6eee6123d25b3d2934d6266",
+            "title": "Tech Brief (June 17): Ant Revamps Alipay With AI Assistant in Biggest App Overhaul",
+            "description": "Tech Brief (June 17): Ant Revamps Alipay With AI Assistant in Biggest App Overhaul - SiliconFlow raises $294 million as China’s AI inference demand surges, Alibaba unveils Qwen-Robot AI models",
+            "content": "SiliconFlow raises $294 million as China’s AI inference demand surges\nChinese AI model inference startup SiliconFlow has raised more than 2 billion yuan ($294 million) in a Series B funding round backed by corporate heavyweights including Trip.com Gr... [539 chars]",
+            "url": "https://www.caixinglobal.com/2026-06-17/tech-brief-june-17-ant-revamps-alipay-with-ai-assistant-in-biggest-app-overhaul-102455157.html",
+            "image": "https://img.caixin.com/2025-08-26/175617644777312_560_373.jpg",
+            "publishedAt": "2026-06-17T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "f6aff458be2c33b80c8600fb696f68fb",
+                "name": "Caixin",
+                "url": "https://www.caixinglobal.com",
+                "country": "cn"
+            }
+        },
+        {
+            "id": "9b3433811f833086d2b532bcb141dcf1",
+            "title": "The Smartest Way to Play the AI Boom in 2026",
+            "description": "Power has become the binding constraint on the AI boom, and one $130 million stock just signed a 15-year, $2.6 billion lease that validates the entire thesis. Wall Street hasn't priced it yet.",
+            "content": "If you've been investing in the AI boom, you probably own most of the same names everyone else does.\nNVIDIA for the chips. Microsoft, Google and Amazon for the cloud. Maybe Meta for the consumer side. Maybe Palantir or one of the AI software names. P... [18959 chars]",
+            "url": "https://oilprice.com/Energy/Energy-General/The-Smartest-Way-to-Play-the-AI-Boom-in-2026.html",
+            "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-16_h6bvdj4cpq.jpg",
+            "publishedAt": "2026-06-17T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
+                "name": "OilPrice",
+                "url": "https://oilprice.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "507c4c7642126fe66ed5bac986073423",
+            "title": "Red or Green? Nagpur’s signals will now decide on their own",
+            "description": "by reema mewar : first batch of junctions to connect to traffic management centre in july; city-wide ai-based traffic management system takes shape  waiting endlessly at a red signal even when there are hardly any vehicles may soon be",
+            "content": "By Reema Mewar :\nFirst batch of junctions to connect to Traffic Management Centre in July; city-wide AI-based traffic management system takes shape\nWaiting endlessly at a red signal even when there are hardly any vehicles may soon become a thing of t... [3163 chars]",
+            "url": "https://www.thehitavada.com/Encyc/2026/6/17/red-or-green-nagpurs-signals-will-now-decide-on-their-own.html",
+            "image": "https://www.thehitavada.com/Encyc/2026/6/17/Red-or-Green-Nagpurs-signals-will-now-decide-on-their-own_202606171125471556_H@@IGHT_502_W@@IDTH_1800.jpg",
+            "publishedAt": "2026-06-17T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "4430bda711b4e9028a02e956c2071e7e",
+            "title": "How to Pass an AI Agent’s Security Check Before It Kills Your Deal",
+            "description": "Business discovery is shifting toward \"agent-to-agent\" marketing, where AI agents evaluate a company's trust signals, documentation, integrations and credibility before human buyers ever see the shortlist.",
+            "content": "Picture a founder who runs a promising software company. Solid product, happy customers, decent website. One day, a Fortune 500 company in her exact target market goes looking for a vendor that does precisely what she does. She never gets a call. She... [7661 chars]",
+            "url": "https://www.entrepreneur.com/science-technology/the-rise-of-a2a-agent-to-agent-marketing-how-to-get/504522",
+            "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/06/ai-agent-background-check-0626_g2270770548-2182719734.jpg?resize=1024,683",
+            "publishedAt": "2026-06-17T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "839b9d172147498877bab641815b0631",
+                "name": "Entrepreneur",
+                "url": "https://www.entrepreneur.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ea14a205c460e64a8d3c689a59b367a6",
+            "title": "SpaceX overtakes Microsoft to become 4th-largest US company",
+            "description": "spacex continued its extraordinary stock market rally on tuesday, surpassing microsoft to become the fourth-largest company in the united states by market capitalisation, while also unveiling a major $60 billion acquisition of artificial intelligence coding platform cursor. the elon musk-led aerospace and technology company saw its shares rise around 8 per cent during early trading, pushing its market value to approximately $2.74 trillion. the gain placed spacex ahead of microsoft and further widened its le",
+            "content": "NEW DELHI :\nSpacex continued its extraordinary stock market rally on Tuesday, surpassing Microsoft to become the fourth-largest company in the United States by market capitalisation, while also unveiling a major $60 billion acquisition of artificial ... [1973 chars]",
+            "url": "https://www.thehitavada.com/Encyc/2026/6/17/spacex-overtakes-microsoft-to-become-4th-largest-us-company.html",
+            "image": "https://www.thehitavada.com/Encyc/2026/6/17/SpaceX-overtakes-Microsoft-to-become-4th-largest-US-company_202606171052114130_H@@IGHT_1036_W@@IDTH_1555.jpg",
+            "publishedAt": "2026-06-17T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "6b94b1125dccbf76314f0602a32070e9",
+            "title": "Red or Green? Nagpur’s signals will now decide on their own",
+            "description": "by reema mewar : first batch of junctions to connect to traffic management centre in july; city-wide ai-based traffic management system takes shape  waiting endlessly at a red signal even when there are hardly any vehicles may soon be",
+            "content": "By Reema Mewar :\nFirst batch of junctions to connect to Traffic Management Centre in July; city-wide AI-based traffic management system takes shape\nWaiting endlessly at a red signal even when there are hardly any vehicles may soon become a thing of t... [3163 chars]",
+            "url": "https://www.thehitavada.com//Encyc/2026/6/17/red-or-green-nagpurs-signals-will-now-decide-on-their-own.html",
+            "image": "https://www.thehitavada.com/Encyc/2026/6/17/Red-or-Green-Nagpurs-signals-will-now-decide-on-their-own_202606171125471556_H@@IGHT_502_W@@IDTH_1800.jpg",
+            "publishedAt": "2026-06-17T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
             }
         }
     ]
