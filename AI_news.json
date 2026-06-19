@@ -4,64 +4,80 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 368416,
+    "totalArticles": 369579,
     "articles": [
         {
-            "id": "d2399d1064587a8ceafd3467cdecc126",
-            "title": "iPhone 18 Pro's Dynamic Island might let Siri AI be a circle",
-            "description": "The pill-shaped Siri AI that shows up on iPhone 17 models isn’t what Apple had in mind. A hardware upgrade could fix that.",
-            "content": "The new Siri AI in iOS 27 shows up as a glowing pill on the iPhone — and it might just be teasing the iPhone 18 Pro’s biggest design change. On the iPhone 17, the Dynamic Island forces Siri AI to stretch wide and flat to mask the cutout, sacrificing ... [2092 chars]",
-            "url": "https://www.cultofmac.com/news/iphone-18-pro-design-change-dynamic-island-siri-ai",
-            "image": "https://www.cultofmac.com/wp-content/uploads/2026/06/Siri-AI-on-iPhone-17-Pro.jpg.webp",
-            "publishedAt": "2026-06-17T23:41:18Z",
+            "id": "2167644f0c8fb2824e1819099097c161",
+            "title": "Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy",
+            "description": "Commonwealth Bank of Australia named Victoria Ledda as group chief information officer and Rodrigo Castillo as group chief technology officer on Friday as the lender sharpens its focus on digital,...",
+            "content": "June 19 (Reuters) - Commonwealth Bank of Australia named Victoria Ledda as group chief information officer and Rodrigo Castillo as group chief technology officer on Friday as the lender sharpens its focus on digital, data and artificial intelligence ... [1310 chars]",
+            "url": "https://www.marketscreener.com/news/commonwealth-bank-of-australia-appoints-new-cio-cto-to-boost-technology-ai-strategy-ce7f5cd2d88eff2d",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-10T204301Z_1_LYNXMPELA912H_RTROPTP_4_CBA-RESULTS.JPG",
+            "publishedAt": "2026-06-18T23:56:37Z",
             "lang": "en",
             "source": {
-                "id": "0f2b6767e87b258740a23ff093dd65a3",
-                "name": "Cult of Mac",
-                "url": "https://www.cultofmac.com",
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "7a3c4ab08280ce7dbc50879679e8dba4",
+            "title": "SpaceX’s epic fundraising campaign for AI has only just begun",
+            "description": "SpaceX is already turning to the bond market and is preparing to seek at least US$20 billion in its first deal. Read more at straitstimes.com.",
+            "content": "NEW YORK - When Elon Musk went into sales pitch mode ahead of the SpaceX IPO, the comparison he marshaled to justify valuing the company in the trillions of dollars, and tapping investors for tens of billions, raised a few eyebrows.\n“We’re kind of li... [5946 chars]",
+            "url": "https://www.straitstimes.com/business/companies-markets/spacexs-epic-fundraising-campaign-for-ai-has-only-just-begun",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9b8c55234178288e7fd517a519cec1490655223d9936b59e6f78ebe6d5f8f104",
+            "publishedAt": "2026-06-18T23:48:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "df670d500da21b99b3d94d37e0f0eb3b",
+            "title": "Why Alphabet Raised $84.75 Billion In Stock For Its AI Build-Out",
+            "description": "While Nvidia, Meta and Oracle fund the AI build-out with bonds, Google's parent reached for equity, the largest such raise in U.S. corporate history. A $10 billion cheque from Berkshire Hathaway tells you who was convinced.",
+            "content": "Companies that mint cash do not usually pass the hat. Alphabet, which ended its first quarter with about $127 billion in cash and marketable securities, has just done so anyway. On June 1 it announced equity offerings totalling $80 billion, then upsi... [3521 chars]",
+            "url": "https://www.forbes.com/sites/daraabasiita/2026/06/18/why-alphabet-raised-8475-billion-in-stock-for-its-ai-build-out/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a347fc76f086b7013040895/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-06-18T23:37:49Z",
+            "lang": "en",
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
                 "country": "us"
             }
         },
         {
-            "id": "2c304e2b635c867799bab191d2ba31a7",
-            "title": "These Are The States Starting To Panic About AI Taking Over",
-            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-            "content": "Residents of Washington state are more concerned about artificial intelligence replacing jobs than workers anywhere else in the United States, according to a new report released in June 2026. The study, conducted by IP address provider Floxy, comes a... [2906 chars]",
-            "url": "https://www.zerohedge.com/markets/these-are-states-starting-panic-about-ai-taking-over",
-            "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-06/Screenshot%202026-06-16%20at%2007.50.44.jpg?itok=Br2LEDlZ",
-            "publishedAt": "2026-06-17T23:40:00Z",
+            "id": "16a7e62bd12bb3bd2062f0f6d96a19f5",
+            "title": "Reliance Industries AGM 2026: Five key things investors will watch for",
+            "description": "Investors and market participants will keenly be awaiting fresh details on the listing of the telecom arm, progress on the new energy firm, and watch for any update on the company’s plans in the area of artificial intelligence (AI).",
+            "content": "Oil-to-telecom conglomerate Reliance Industries' 49th Annual General Meeting (AGM) will be held later today, on June 19. Investors and market participants will keenly be awaiting fresh details on the listing of the telecom arm, progress on the new en... [3407 chars]",
+            "url": "https://www.moneycontrol.com/news/business/markets/reliance-industries-agm-2026-five-key-things-investors-will-watch-for-13953316.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260506122417_reliance-industries.jpg",
+            "publishedAt": "2026-06-18T23:30:06Z",
             "lang": "en",
             "source": {
-                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
-                "name": "ZeroHedge",
-                "url": "https://www.zerohedge.com",
-                "country": "us"
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
             }
         },
         {
-            "id": "9e671e685ede7620a1b841a8d6adcf64",
-            "title": "Tom Holland Says Artists Are 'Safe' From AI",
-            "description": "Tom Holland says artists are safe from AI taking their jobs because 'creativity has to do with the human experience.'",
-            "content": "Tom Holland is sharing his thoughts on the hot-button topic of AI, and he’s not shy about explaining why it “doesn’t have a soul.”\n“Creativity is safe from AI because creativity has to do with the human experience,” Holland said while appearing on Sp... [1458 chars]",
-            "url": "https://variety.com/2026/film/news/tom-holland-ai-artists-human-1236784500/",
-            "image": "https://variety.com/wp-content/uploads/2026/06/2281744573.jpg?crop=0px%2C92px%2C2996px%2C1687px&resize=1000%2C563",
-            "publishedAt": "2026-06-17T23:39:16Z",
-            "lang": "en",
-            "source": {
-                "id": "e6688d6db992f469baa7352aac100378",
-                "name": "Variety",
-                "url": "https://variety.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "237a4f4e210615e93938c352a8f4a698",
-            "title": "New \"electronic nose\" uses 16 sensors to detect food spoilage",
-            "description": "UC Berkeley researchers built an electronic nose that uses carbon nanotube sensors and AI to detect food spoilage and identify allergens.",
-            "content": "Food spoilage remains difficult to detect before it becomes a health risk. Consumers often rely on appearance and smell other than expiry dates to judge whether products are still safe to eat, despite the limitations of those methods.\nResearchers at ... [3670 chars]",
-            "url": "https://interestingengineering.com/innovation/electronic-nose-detects-food-spoilage-allergens",
-            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/Untitled-design-6-1.jpg",
-            "publishedAt": "2026-06-17T23:38:56Z",
+            "id": "34e75e54b7babd9b6e54638a20d9e4b9",
+            "title": "Sanders bills AI firms for $7T fund, aims $1,000 citizen payments",
+            "description": "Sanders wants AI companies to help fund annual $1,000 payments for Americans through a proposed $7 trillion sovereign wealth fund.",
+            "content": "Sanders argues that today’s AI systems rely heavily on content, knowledge, and creative works produced by generations of people. Because AI companies benefit from that collective human output, he says the public should share in the industry’s financi... [2709 chars]",
+            "url": "https://interestingengineering.com/ai-robotics/bernie-sanders-ai-sovereign-wealth-fund-bill",
+            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/Untitled-design-11-1.jpg",
+            "publishedAt": "2026-06-18T23:25:53Z",
             "lang": "en",
             "source": {
                 "id": "1a6c3258d04827f52d40713ad8166b1b",
@@ -71,77 +87,29 @@
             }
         },
         {
-            "id": "3fff268e969dde5b9229b8f504eeae42",
-            "title": "Psychologists Say Patients Are Bringing AI Into Therapy Sessions: Survey",
-            "description": "A new APA survey found that more than a third of psychologists have patients using AI as an additional mental health professional, even as clinicians warn that the technology can reinforce delusions.",
-            "content": "As generative AI becomes a fixture of daily life, patients are increasingly bringing chatbot conversations into therapy sessions.\nAccording to a new American Psychological Association survey of more than 1,200 U.S. psychologists, 77% said they have p... [3387 chars]",
-            "url": "https://decrypt.co/371451/psychologists-patients-bringing-ai-therapy-sessions-survey",
-            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-17-gID_7.png",
-            "publishedAt": "2026-06-17T23:36:08Z",
+            "id": "672d2b2efce4392c7589f806d6f75a96",
+            "title": "LA’s 911 dispatch system may get relief from AI-powered call handling",
+            "description": "Aurelian, a Florida firm, says its AI call-taker can ease LA’s 911 overload by handling nonemergency complaints and routing them to the proper channels amid staffing shortages.",
+            "content": "A Florida tech firm says it can help pull Los Angeles’ overloaded 911 system back from the brink by letting artificial intelligence handle routine complaints.\nPublic safety technology company Aurelian has developed an AI-powered call taker that answe... [4150 chars]",
+            "url": "https://nypost.com/2026/06/18/us-news/las-911-dispatch-system-may-get-relief-from-ai-powered-call-handling/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/131436726.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-06-18T23:23:49Z",
             "lang": "en",
             "source": {
-                "id": "6956007add5fc13a6721202ec906b1c4",
-                "name": "Decrypt",
-                "url": "https://decrypt.co",
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
                 "country": "us"
             }
         },
         {
-            "id": "e4eb9b0fbb7765dabe1b8bd4c9b74252",
-            "title": "Will AI Make Humans Redundant? Jeff Bezos Says No, Predicts Labour Shortage Instead",
-            "description": "JeffBezos' comments contrast with warnings from some political and technology leaders who argue that AI is already reshaping employment markets.",
-            "content": "JeffBezos' comments contrast with warnings from some political and technology leaders who argue that AI is already reshaping employment markets.\nAmazon founder Jeff Bezos dismissed concerns that artificial intelligence will eliminate large numbers of... [2168 chars]",
-            "url": "https://www.news18.com/world/will-ai-make-humans-redundant-jeff-bezos-says-no-predicts-labour-shortage-instead-ws-l-10157150.html",
-            "image": "https://images.news18.com/ibnlive/uploads/2026/01/Untitled-design-2026-01-31T185103.136-2026-01-930d661c05a85bb80aeb08e56c317910-16x9.jpg",
-            "publishedAt": "2026-06-17T23:34:33Z",
-            "lang": "en",
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "e8de8db367063f9be559559f8c5cb1bf",
-            "title": "Nvidia supplier SK Hynix ships samples of next-generation chips to major customers",
-            "description": "SK Hynix said ​on Thursday it has shipped ‌samples of its latest high-bandwidth memory (HBM) chips to major customers, as the ​South Korean chipmaker ​seeks to strengthen its position ⁠in the fast-growing AI ​semiconductor market.",
-            "content": "SEOUL, June 18 (Reuters) - SK Hynix (000660.KS), opens new tab said ​on Thursday it has shipped ‌samples of its latest high-bandwidth memory (HBM) chips to major customers, as the ​South Korean chipmaker ​seeks to strengthen its position ⁠in the fast... [571 chars]",
-            "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-says-ships-samples-12-layer-next-gen-hbm4e-chips-major-customers-2026-06-17/",
-            "image": "https://www.reuters.com/resizer/v2/24XOMFCXMZL5RD7J3VPMH77HTM.jpg?auth=303dbc85db971c5cb1e677109e0a090f090eb4125dad4b3a0ad83a446cbf9158&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-06-17T23:33:47Z",
-            "lang": "en",
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "04078c7c4b03095cb0b88e3a2526c961",
-            "title": "Anthropic and Google DeepMind CEOs push for US-led global AI coalition at G7",
-            "description": "Anthropic and Google DeepMind CEOs push for a US-led AI coalition at G7 to set global rules, manage risks, and guide safe AI development. | World News",
-            "content": "Anthropic CEO Dario Amodei and Google DeepMind CEO Demis Hassabis asked for a U.S.-led global AI coalition to help set rules and standards for artificial intelligence. They made this proposal during a closed-door lunch meeting with tech leaders and w... [1030 chars]",
-            "url": "https://www.hindustantimes.com/world-news/us-news/anthropic-and-google-deepmind-ceos-push-for-us-led-global-ai-coalition-at-g7-summit-101781723981433.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/06/17/550x309/G7-SUMMIT-TRUMP-92_1781724464641_1781724474581_348b1056-324f-4e70-acc7-164f3b066a2f.JPG",
-            "publishedAt": "2026-06-17T23:29:22Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "76fe0bb6eb951e37abe18e44cc6a1888",
-            "title": "Mother Nature AI Reveals Three-Specialist AI Platform as It Approaches 5 Million Users and Launches $8.5 Million Capital Raise",
-            "description": "New York health technology company combines general wellness, mental health, and nutrition AI into a single personalized ecosystem - and prepares its Vital IQ™ wearable for market",
-            "content": "New York health technology company combines general wellness, mental health, and nutrition AI into a single personalized ecosystem - and prepares its Vital IQ™ wearable for market\nNEW YORK, NY, June 17, 2026 (GLOBE NEWSWIRE) -- Mother Nature AI today... [4949 chars]",
-            "url": "https://www.manilatimes.net/2026/06/18/tmt-newswire/globenewswire/mother-nature-ai-reveals-three-specialist-ai-platform-as-it-approaches-5-million-users-and-launches-85-million-capital-raise/2367992",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/18/1103867.png",
-            "publishedAt": "2026-06-17T23:28:31Z",
+            "id": "e00cf40e7da475d8c958b5604b3dbc64",
+            "title": "Trupeer AI Appoints Former UiPath APAC President & CEO Raghu Subramanian to Accelerate Australian Enterprise Growth",
+            "description": "**media[1105523]**SYDNEY, June 19, 2026 /PRNewswire/ -- Trupeer AI, the workflow knowledge layer for teams and AI agents, today announced the appointment of Raghu Subramanian as President and Chief Business Officer as the company accelerates its expansion in Australia, a high-readiness enterprise technology market where advanced AI adoption is outpacing the knowledge infrastructure needed to support it. Backed by RTP Global, Salesforce Ventures and trusted by more than 50,000 teams in over 100 countries and over 120 languages, Trupeer is strengthening its leadership team to scale adoption across Australian enterprises, technology-led organisations.**media[1105524]**",
+            "content": "SYDNEY, June 19, 2026 /PRNewswire/ -- Trupeer AI, the workflow knowledge layer for teams and AI agents, today announced the appointment of Raghu Subramanian as President and Chief Business Officer as the company accelerates its expansion in Australia... [4613 chars]",
+            "url": "https://www.manilatimes.net/2026/06/19/tmt-newswire/pr-newswire/trupeer-ai-appoints-former-uipath-apac-president-ceo-raghu-subramanian-to-accelerate-australian-enterprise-growth/2368890",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/19/1105521.jpg",
+            "publishedAt": "2026-06-18T23:21:12Z",
             "lang": "en",
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -151,18 +119,50 @@
             }
         },
         {
-            "id": "41e1a0c47c5e3584b256d04098f368ee",
-            "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-            "description": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
-            "content": "It’s been called RAMageddon: AI’s insatiable demand for hardware has caused a worldwide shortage of memory chips. Now outgoing Apple CEO Tim Cook is warning its customers that your next Mac, iPhone, or iPad could be more expensive thanks to surging m... [1558 chars]",
-            "url": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2234130980.jpg?resize=1200,800",
-            "publishedAt": "2026-06-17T23:28:21Z",
+            "id": "f364d16f86f57a23da6adeb3c9418c65",
+            "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
+            "description": "By turning the terminal into a live, collaborative canvas, Anthropic is proving that the most valuable output of an AI coding assistant isn't just the code itself—it is the context, the reasoning, and the ability to share that work instantly.",
+            "content": "Anthropic announced a potentially game-changing new feature for users of Claude Code on the Claude Team and Enterprise subscription plans: Artifacts.\nThis update turns a Claude Code session's work into a live, interactive, and shareable, custom HTML ... [8414 chars]",
+            "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
+            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2rGZZLXFe3kRoiPC50Ycwv/a32853493a91cece13baf19f06f38fbb/ChatGPT_Image_Jun_18__2026__07_12_17_PM.png?w=800&q=75",
+            "publishedAt": "2026-06-18T23:18:59Z",
             "lang": "en",
             "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
+                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "90f9610449cb82d8ddf6a1b2e9488097",
+            "title": "AI Data Center Bonds Are Being Priced As Project Finance At Last",
+            "description": "For two years, a hyperscaler's name on the lease was enough to make a data-centre bond trade like the tenant's own debt. Citi says that shortcut is breaking down, and a Microsoft-linked bond shows where.",
+            "content": "There is an old rule in lending that a name on the door is worth less than a claim on the cash. Bond investors who spent two years buying data-centre debt on the strength of the tenant rather than the structure are now relearning it. In a note on Jun... [3928 chars]",
+            "url": "https://www.forbes.com/sites/daraabasiita/2026/06/18/ai-data-center-bonds-are-being-priced-as-project-finance-at-last/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a347b80fbd46175001d1779/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-06-18T23:18:39Z",
+            "lang": "en",
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "5b735eaf6531ccc09193a2c1b8476b94",
+            "title": "Best ETFs to Invest In, According to AI Analyst, 6/18/2026",
+            "description": "Exchange-traded funds (ETFs) are popular for their diversification benefits, extensive exposure across various sectors, assets, and themes, and ...",
+            "content": "Exchange-traded funds (ETFs) are popular for their diversification benefits, extensive exposure across various sectors, assets, and themes, and low costs. However, the vast universe of ETFs makes it tough for retail investors to pick attractive ETFs ... [764 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/best-etfs-to-invest-in-according-to-ai-analyst-6-18-2026-1036261885",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/06/image-1897.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-06-18T23:14:25Z",
+            "lang": "en",
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
                 "country": "us"
             }
         }
