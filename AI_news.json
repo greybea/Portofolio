@@ -4,96 +4,64 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 370409,
+    "totalArticles": 370840,
     "articles": [
         {
-            "id": "745467ef2bbd8843aeeecd7cc0a1574d",
-            "title": "This LLM in a box is powered by a hand crank.",
-            "description": "As spotted earlier by The Register, CrankGPT is a concept project from a two-person team at Squeez Labs that runs private, local AI models without needing a power-hungry data center. Instead, you have to literally crank out your own power for each of the chatbot’s answers.\n[Media: https://www.youtube.com/watch?v=HSapdLYpmWY]",
-            "content": "S\nYoutube\nThis LLM in a box is powered by a hand crank.\nAs spotted earlier by The Register, CrankGPT is a concept project from a two-person team at Squeez Labs that runs private, local AI models without needing a power-hungry data center. Instead, yo... [515 chars]",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/953083/this-llm-in-a-box-is-powered-by-a-hand-crank",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-            "publishedAt": "2026-06-19T22:08:01Z",
+            "id": "660dd5ce7edcaea961579b012418df63",
+            "title": "FAA is turning to AI to reduce the number of close calls between planes at the nation’s airports",
+            "description": "Federal Aviation Administration reportedly inks deal with Palantir to analyze incident data",
+            "content": "The Federal Aviation Administration is spending nearly $4 million on an artificial intelligence initiative to reduce close calls on airport runways as recent incidents have sparked fears among fliers.\nThe FAA’s deal with software giant Palantir Techn... [4521 chars]",
+            "url": "https://www.independent.co.uk/news/world/americas/faa-palantir-ai-close-calls-airports-b2999690.html",
+            "image": "https://static.independent.co.uk/2026/05/05/21/2267593721.jpg?trim=0,13,0,13&width=1200&height=800&crop=1200:800",
+            "publishedAt": "2026-06-20T22:21:49Z",
             "lang": "en",
             "source": {
-                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-                "name": "The Verge",
-                "url": "https://www.theverge.com",
+                "id": "97497c18f5cb431f5f324b3d8643c24f",
+                "name": "The Independent",
+                "url": "https://www.independent.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "f99f770cbf9a4f3dab75d780525d7222",
+            "title": "Bitcoin miner Bitdeer mined 921 BTC, but its smaller stash raises a bigger question",
+            "description": "The Bitcoin miner's AI cloud growth may reduce sell pressure, but May data shows Bitcoin retention still lagging.",
+            "content": "Bitdeer's latest operating update has revealed a concrete insight into the recent Bitcoin miner-AI pivot: the company produced far more Bitcoin but ended the month with far fewer coins than it held a year earlier.\nThe company reported 921 BTC mined i... [8002 chars]",
+            "url": "https://cryptoslate.com/bitcoin-miner-bitdeer-mined-921-btc-but-its-smaller-stash-raises-the-bigger-question/",
+            "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-bitdeer-.jpg",
+            "publishedAt": "2026-06-20T22:10:58Z",
+            "lang": "en",
+            "source": {
+                "id": "57f726ae1c2926b0eba0b6cd65467921",
+                "name": "CryptoSlate",
+                "url": "https://cryptoslate.com",
                 "country": "us"
             }
         },
         {
-            "id": "06f7f9192996697b7e1a337c4e84e9a5",
-            "title": "Maharashtra Signs Pact With Google To Train Over 4 Lakh Teachers In AI And Digital Skills Free Of Cost",
-            "description": "In Mumbai, the Maharashtra School Education Department has signed a Letter of Intent with Google for Education to train over four lakh teachers in Artificial Intelligence and digital skills through the ‘Google AI Educator Series’. The 18-month programme aims to enhance AI literacy and modern teaching methods across government and aided schools without financial burden on the state.",
-            "content": "Mumbai: In a major step towards integrating emerging technologies into the education sector, the Maharashtra School Education Department on Friday signed a Letter of Intent (LoI) with Google for Education to provide advanced training in Artificial In... [3355 chars]",
-            "url": "https://www.freepressjournal.in/education/maharashtra-signs-pact-with-google-to-train-over-4-lakh-teachers-in-ai-and-digital-skills-free-of-cost",
-            "image": "https://media.assettype.com/freepressjournal/2026-06-19/3g5at6x3/ChatGPT-Image-Jun-20-2026-032802-AM.png",
-            "publishedAt": "2026-06-19T21:58:40Z",
+            "id": "479bbdbb0e47ff37c1b0694c02bafd58",
+            "title": "The Sashimi robot is real and it doesn’t fumble at slicing and dicing",
+            "description": "A Norwegian research team built a robot that can slice and serve salmon sashimi using three arms, AI training, and a tactile sensor that knows when the blade hits the board.",
+            "content": "Robots can pick up boxes, sort packages, and screw in bolts without breaking a sweat. Some of them can even walk and run like humans. Hand one a floppy, slippery piece of raw salmon, though, and everything starts falling apart.\nA team at the Norwegia... [1621 chars]",
+            "url": "https://www.digitaltrends.com/computing/the-sashimi-robot-is-real-and-it-doesnt-fumble-at-slicing-and-dicing/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/06/Sashimi-robot-serving-food.jpg?resize=1200%2C630",
+            "publishedAt": "2026-06-20T21:59:30Z",
             "lang": "en",
             "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "453cc60eb3b8309a60dc5a2d01c84c17",
-            "title": "Answering The \"Trillion Dollar Question\": How China's AI Models Compete On Cost Effieiency",
-            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-            "content": "In recent weeks, there have been two key tensions surrounding the ongoing historic AI rollout:\nthe first one is the increasingly explosive debate over surging token costs (which we discussed most recently in \"The Value Didn't Arrive\": Bain Finds Cost... [523 chars]",
-            "url": "https://www.zerohedge.com/technology/answering-trillion-dollar-question-how-chinas-ai-models-compete-cost-effieiency",
-            "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/narrowing%20intel%20gap%20teaser.jpg?h=d31bab93&itok=WQAk-Z9P",
-            "publishedAt": "2026-06-19T21:50:06Z",
-            "lang": "en",
-            "source": {
-                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
-                "name": "ZeroHedge",
-                "url": "https://www.zerohedge.com",
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
                 "country": "us"
             }
         },
         {
-            "id": "c2dd8b9fec100292aad33e0eb2e8226a",
-            "title": "winning AI researcher John Jumper leaves Google DeepMind for Anthropic",
-            "description": "The battle for elite AI talent just claimed another major name. John Jumper, the Nobel Prize-winning researcher behind AlphaFold, announced Friday that he is leaving Google DeepMind after nearly nine years to join AI startup Anthropic. His departure marks one of the most significant talent moves in artificial intelligence this year and comes at a",
-            "content": "The battle for elite AI talent just claimed another major name.\nJohn Jumper, the Nobel Prize-winning researcher behind AlphaFold, announced Friday that he is leaving Google DeepMind after nearly nine years to join AI startup Anthropic. His departure ... [3628 chars]",
-            "url": "https://techstartups.com/2026/06/19/nobel-prize-winning-ai-researcher-john-jumper-leaves-google-deepmind-for-anthropic/",
-            "image": "https://techstartups.com/wp-content/uploads/2026/06/Nobel-winner.jpg",
-            "publishedAt": "2026-06-19T21:44:09Z",
-            "lang": "en",
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "690e968241310afd24a4162ac1d51a24",
-            "title": "Trump says he no longer views Anthropic as a national security threat after G7 meeting with CEO",
-            "description": "Trump told Axios that Anthropic has \"behaved very responsibly\" and signalled he may ease restrictions on its Fable 5 and Mythos 5 AI models.",
-            "content": "TL;DR\nTrump told Axios that Anthropic has “behaved very responsibly” and signalled he may ease restrictions on its Fable 5 and Mythos 5 AI models.\nPresident Donald Trump said in a pretaped Axios interview that he no longer views Anthropic as a nation... [3746 chars]",
-            "url": "https://thenextweb.com/news/trump-anthropic-not-national-security-threat-axios-interview",
-            "image": "https://media.thenextweb.com/2026/06/trump-anthropic-not-national-security-threat-axios-interview.avif",
-            "publishedAt": "2026-06-19T21:42:23Z",
-            "lang": "en",
-            "source": {
-                "id": "11c2fbf226e7334e9f93bb78243a79cc",
-                "name": "TNW",
-                "url": "https://thenextweb.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "2ac366b5e0e71e502532460ac4192567",
-            "title": "Turkey vs Paraguay prediction: I asked ChatGPT who’d win FIFA World Cup 2026 clash; AI picks winner in Group D match",
-            "description": "Turkey’s technical quality and attacking flair led by Arda Guler and Kenan Yıldız against Paraguay’s physicality, fighting spirit and set-piece danger. Both sides are desperate for a win after losing their opening Group D matches. I asked ChatGPT who’d win Turkey vs Paraguay.",
-            "content": "Aachal Maniyar\nAachal Maniyar is a Senior Content Producer at LiveMint, where she covers US sports with a focus on major leagues, marquee events, and athlete-driven stories, while also reporting extensively on cricket and global sports. With over fiv... [1877 chars]",
-            "url": "https://www.livemint.com/sports/football-news/turkey-vs-paraguay-prediction-i-asked-chatgpt-who-d-win-fifa-world-cup-2026-clash-ai-picks-winner-in-group-d-match-11781901900319.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/06/19/1600x900/logo/Paraguay-WCup-Soccer-8_1781904940806_1781904951565_86941d3e-c8eb-4782-8bbb-41f46b999dc7.jpg",
-            "publishedAt": "2026-06-19T21:32:51Z",
+            "id": "5474df1ea858001d2ff7fd78b6bb1232",
+            "title": "Tunisia vs Japan prediction: I asked ChatGPT who’d win FIFA World Cup 2026 clash; AI picks winner in Group F match",
+            "description": "Tunisia’s fighting spirit under new coach Herve Renard will be tested against Japan’s technical quality and tactical discipline led by Hajime Moriyasu. The Blue Samurai enter as favourites after a solid start. I asked ChatGPT who’d win Tunisia vs Japan.",
+            "content": "Aachal Maniyar\nAachal Maniyar is a Senior Content Producer at LiveMint, where she covers US sports with a focus on major leagues, marquee events, and athlete-driven stories, while also reporting extensively on cricket and global sports. With over fiv... [1875 chars]",
+            "url": "https://www.livemint.com/sports/football-news/tunisia-vs-japan-prediction-i-asked-chatgpt-who-d-win-fifa-world-cup-2026-clash-ai-picks-winner-in-group-f-tun-vs-jpn-11781984478307.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/06/20/1600x900/logo/Sports-football_1545997121647_1781991160898_a479d78d-7b94-4eb3-bb0d-fe10e0fe9fbb.jpg",
+            "publishedAt": "2026-06-20T21:32:23Z",
             "lang": "en",
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -103,67 +71,99 @@
             }
         },
         {
-            "id": "e5786da680bc3fd3550f2a3ae1521a8b",
-            "title": "Xiao-I Corporation Provides Update on First-Instance Rulings in Patent Litigation Against Apple; Company Intends to Appeal to the Supreme People's Court",
-            "description": "SHANGHAI, June 20, 2026 /PRNewswire/ -- Xiao-I Corporation (NASDAQ: AIXI) ('Xiao-I' or the 'Company'), a leading developer of AI solutions, provided a material update on the patent-related litigation between its variable interest entity, Shanghai Xiao-I Intelligent Network Technology Co., Ltd. ('Shanghai Xiao-I'), and Apple Inc. and its affiliated entities (collectively, 'Apple') before the Shanghai High People's Court.",
-            "content": "SHANGHAI, June 20, 2026 /PRNewswire/ -- Xiao-I Corporation (NASDAQ: AIXI) (\"Xiao-I\" or the \"Company\"), a leading developer of AI solutions, provided a material update on the patent-related litigation between its variable interest entity, Shanghai Xia... [3333 chars]",
-            "url": "https://www.manilatimes.net/2026/06/20/tmt-newswire/pr-newswire/xiao-i-corporation-provides-update-on-first-instance-rulings-in-patent-litigation-against-apple-company-intends-to-appeal-to-the-supreme-peoples-court/2369294",
-            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-06-19T21:25:03Z",
+            "id": "0204ee9c33910a813e0c2544d8160a06",
+            "title": "Bezos puts AI over humans, Musk buys code editor and Google’s geniuses are moving on – AI Roundup for the Week",
+            "description": "This week in AI features Elon Musk's Cursor acquisition, Anthropic's AI model restrictions, India's AI sovereignty debate, OpenAI's talent raid, and Jeff Bezos addressing AI's water footprint concerns. Stay updated on AI's latest developments.",
+            "content": "This week would go down in history as one made for the rocket man and his rocket-AI company. Other than the IPO filing, which kept our business and markets section busy on Monday and Tuesday, Elon Musk also went shopping for a small AI startup that c... [5092 chars]",
+            "url": "https://www.financialexpress.com/life/technology-bezos-puts-ai-over-humans-musk-buys-code-editor-and-googles-geniuses-are-moving-on-ai-roundup-for-the-week-4272612/",
+            "image": "https://images.financialexpressdigital.com/2026/06/weekly-ai-roundup-21-jun.jpg",
+            "publishedAt": "2026-06-20T21:05:31Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "7794a6f21b668840a66a40861e36f16a",
-            "title": "The New Google Pixel Update Quietly Buried This Useful Feature Under AI Marketing",
-            "description": "AirDrop compatibility has finally come to Google Pixel 9a and 8a via the Quick Share function, but it's not available on the Pixel 8 or Pixel 8 Pro yet.",
-            "content": "Google really wants Android users to know about its artificial intelligence (AI). Along with Android 17 rolling out to Pixel and other Android phones, Google has also released its June Pixel Drop, both of which contain a barrage of goodies for users ... [2391 chars]",
-            "url": "https://www.bgr.com/2198214/google-pixel-update-new-feature-buried-ai/",
-            "image": "https://www.bgr.com/img/gallery/the-new-google-pixel-update-quietly-buried-this-useful-feature-under-ai-marketing/l-intro-1781899708.jpg",
-            "publishedAt": "2026-06-19T21:17:00Z",
-            "lang": "en",
-            "source": {
-                "id": "b98becfda029f124cf65538c8af36d20",
-                "name": "BGR",
-                "url": "https://www.bgr.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "96f82b22d692ba7f87b181306bfa0c3d",
-            "title": "'Bigger Than Internet': Trump Calls AI 'Revolutionary Force' That Could Reshape Humanity",
-            "description": "Trump framed artificial intelligence as a breakthrough moment in human development, arguing that its capabilities are expanding faster.",
-            "content": "Trump framed artificial intelligence as a breakthrough moment in human development, arguing that its capabilities are expanding faster.\nUS President Donald Trump said that artificial intelligence is a defining technological shift of the modern era, s... [1881 chars]",
-            "url": "https://www.news18.com/world/bigger-than-internet-trump-calls-ai-revolutionary-force-that-could-reshape-humanity-ws-l-10161960.html",
-            "image": "https://images.news18.com/ibnlive/uploads/2026/06/trump-2-2026-06-6b490ef2b9bf733229af2547fd335a21-1200x675.jpg",
-            "publishedAt": "2026-06-19T21:13:33Z",
-            "lang": "en",
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "149a0b0bb40e3537ba1a4d67e0b223d8",
-            "title": "AI Is Replacing Sustainability As The Latest Business Trend",
-            "description": "The decline of sustainability reporting has impacted the sustainability and business industries, resulting in a shift in focus to AI",
-            "content": "In 2023, one of the top concerns of the business industry was sustainability and climate change. Anticipating new regulations and responding to consumer pressures, businesses began voluntarily releasing sustainability reports. With it came a new wave... [8759 chars]",
-            "url": "https://www.forbes.com/sites/jonmcgowan/2026/06/19/ai-is-replacing-sustainability-as-the-latest-business-trend/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a3560b4c31e3a1ab5231912/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-06-19T21:02:04Z",
+            "id": "7e2c6db3cab19f53e090b5b335b5eae9",
+            "title": "S’pore man targeted by former schoolmate who posted AI images of them as couple with baby",
+            "description": "Checks on June 15 found that the woman's Instagram account had been deactivated. Read more at straitstimes.com.",
+            "content": "SINGAPORE – Around December 2025, administrative assistant Luke (not his real name), who is single, was told that there were photos of him with a woman claiming to be his fiancee and the baby they supposedly had together.\nIn the months that followed,... [4933 chars]",
+            "url": "https://www.straitstimes.com/singapore/spore-man-targeted-by-former-schoolmate-who-posted-ai-images-of-them-as-couple-with-baby",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/dad252da4e673b56e99d3a5f8d90f6d2a62be56936705c4e100992f6d8ed9d05",
+            "publishedAt": "2026-06-20T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "7ddc78b7ede207c08aa1ae2d68834d31",
+            "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+            "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+            "content": "Asked about the privacy implications of chatbots like ChatGPT and Claude, Signal President Meredith Whittaker answered, “These are not your friends. These are not conscious beings. These are not sentient interlocutors.”\nWhittaker made those comments ... [1010 chars]",
+            "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/03/meredith-whittaker-1.jpg?resize=1200,800",
+            "publishedAt": "2026-06-20T20:32:29Z",
+            "lang": "en",
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
                 "country": "us"
+            }
+        },
+        {
+            "id": "e233581e611cac56cf203982711fd358",
+            "title": "UP showcases GCC potential at MachineCon Summit in Goa",
+            "description": "Uttar Pradesh promotes GCC Policy 2024 at MachineCon 2026, highlighting subsidies, payroll support, AI Mission, talent pool, and Noida airport, metro, expressways.",
+            "content": "UP govt officials at the meeting\nLucknow: Uttar Pradesh positioned itself as an emerging destination for Global Capability Centres (GCCs) at the MachineCon GCC Summit 2026 in Goa on Saturday. Addressing the summit, additional chief secretary, infrast... [1223 chars]",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/up-showcases-gcc-potential-at-machinecon-summit-in-goa/articleshow/131882877.cms",
+            "image": "https://static.toiimg.com/thumb/msid-131882875,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-20T20:18:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "e41bf5cc4f0b624feebca2123b890d9a",
+            "title": "A Filmy Kaleidoscope: The Mumbai International Film Festival Is A Rollercoaster Of AI, Documentaries, Young Talent And More",
+            "description": "MIFF is a rollercoaster of aspects of filmmaking which had not been getting enough attention till now, but were brought together all under one roof at the NFDC.",
+            "content": "The Mumbai International Film Festival (MIFF) 2026 has turned out to be a potpourri of documentaries, young talent, AI films, hidden gems and the future of cinema.\nEmerging talent\nInstead of being blasted with films of ‘A-listers’ that have been plas... [3979 chars]",
+            "url": "https://www.freepressjournal.in/entertainment/a-filmy-kaleidoscope-the-mumbai-international-film-festival-is-a-rollercoaster-of-ai-documentaries-young-talent-and-more",
+            "image": "https://media.assettype.com/freepressjournal/2026-06-20/nu4h0iuo/Untitled-design-57.jpg",
+            "publishedAt": "2026-06-20T20:13:22Z",
+            "lang": "en",
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "1b52890f554b2fdba770f3907b0f8ae3",
+            "title": "People are marrying holograms and making friends with chatbots. But can AI bring true happiness?",
+            "description": "Can technology really replace human relationships? As philosophy scholars who focus on human happiness and on artificial intelligence (AI), we tackle this question in a recent paper. In our study, we address the rise of AI companions, chatbots, and social robots for friendship, advice, emotional support, and even romance. We…",
+            "content": "Can technology really replace human relationships? As philosophy scholars who focus on human happiness and on artificial intelligence (AI), we tackle this question in a recent paper.\nIn our study, we address the rise of AI companions, chatbots, and s... [6237 chars]",
+            "url": "https://japantoday.com/category/features/lifestyle/People-are-marrying-holograms-and-making-friends-with-chatbots.-But-can-AI-bring-true-happiness-",
+            "image": "https://media.japantoday.com/img/store/f0/aa/da3bcb1f406261d426c7a7e8bcb6cef92508/istock-1356576745-1/_w1700.jpeg",
+            "publishedAt": "2026-06-20T20:10:00Z",
+            "lang": "en",
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
             }
         }
     ]
