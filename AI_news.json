@@ -4,64 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 370840,
+    "totalArticles": 371182,
     "articles": [
         {
-            "id": "660dd5ce7edcaea961579b012418df63",
-            "title": "FAA is turning to AI to reduce the number of close calls between planes at the nation’s airports",
-            "description": "Federal Aviation Administration reportedly inks deal with Palantir to analyze incident data",
-            "content": "The Federal Aviation Administration is spending nearly $4 million on an artificial intelligence initiative to reduce close calls on airport runways as recent incidents have sparked fears among fliers.\nThe FAA’s deal with software giant Palantir Techn... [4521 chars]",
-            "url": "https://www.independent.co.uk/news/world/americas/faa-palantir-ai-close-calls-airports-b2999690.html",
-            "image": "https://static.independent.co.uk/2026/05/05/21/2267593721.jpg?trim=0,13,0,13&width=1200&height=800&crop=1200:800",
-            "publishedAt": "2026-06-20T22:21:49Z",
+            "id": "e7357ce7d837d77eab18fb010df1949e",
+            "title": "America just exposed India’s technology dependency",
+            "description": "India's technology dependency is exposed as geopolitical restrictions threaten its AI aspirations and ownership in a global digital landscape.",
+            "content": "The US government’s recent announcement strictly restricting access to Anthropic’s advanced AI models Mythos and Fable only to approved American entities and US citizens sent not just several organisations but even countries scrambling. Interestingly... [3112 chars]",
+            "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/america-just-exposed-indias-technology-dependency/article71130245.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/x3jmwz/article71130248.ece/alternates/LANDSCAPE_1200/IMG_iStock-1976099664_2_1_7RG41OTU.jpg",
+            "publishedAt": "2026-06-22T01:23:00Z",
             "lang": "en",
             "source": {
-                "id": "97497c18f5cb431f5f324b3d8643c24f",
-                "name": "The Independent",
-                "url": "https://www.independent.co.uk",
-                "country": "gb"
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
             }
         },
         {
-            "id": "f99f770cbf9a4f3dab75d780525d7222",
-            "title": "Bitcoin miner Bitdeer mined 921 BTC, but its smaller stash raises a bigger question",
-            "description": "The Bitcoin miner's AI cloud growth may reduce sell pressure, but May data shows Bitcoin retention still lagging.",
-            "content": "Bitdeer's latest operating update has revealed a concrete insight into the recent Bitcoin miner-AI pivot: the company produced far more Bitcoin but ended the month with far fewer coins than it held a year earlier.\nThe company reported 921 BTC mined i... [8002 chars]",
-            "url": "https://cryptoslate.com/bitcoin-miner-bitdeer-mined-921-btc-but-its-smaller-stash-raises-the-bigger-question/",
-            "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-bitdeer-.jpg",
-            "publishedAt": "2026-06-20T22:10:58Z",
-            "lang": "en",
-            "source": {
-                "id": "57f726ae1c2926b0eba0b6cd65467921",
-                "name": "CryptoSlate",
-                "url": "https://cryptoslate.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "479bbdbb0e47ff37c1b0694c02bafd58",
-            "title": "The Sashimi robot is real and it doesn’t fumble at slicing and dicing",
-            "description": "A Norwegian research team built a robot that can slice and serve salmon sashimi using three arms, AI training, and a tactile sensor that knows when the blade hits the board.",
-            "content": "Robots can pick up boxes, sort packages, and screw in bolts without breaking a sweat. Some of them can even walk and run like humans. Hand one a floppy, slippery piece of raw salmon, though, and everything starts falling apart.\nA team at the Norwegia... [1621 chars]",
-            "url": "https://www.digitaltrends.com/computing/the-sashimi-robot-is-real-and-it-doesnt-fumble-at-slicing-and-dicing/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/06/Sashimi-robot-serving-food.jpg?resize=1200%2C630",
-            "publishedAt": "2026-06-20T21:59:30Z",
-            "lang": "en",
-            "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "5474df1ea858001d2ff7fd78b6bb1232",
-            "title": "Tunisia vs Japan prediction: I asked ChatGPT who’d win FIFA World Cup 2026 clash; AI picks winner in Group F match",
-            "description": "Tunisia’s fighting spirit under new coach Herve Renard will be tested against Japan’s technical quality and tactical discipline led by Hajime Moriyasu. The Blue Samurai enter as favourites after a solid start. I asked ChatGPT who’d win Tunisia vs Japan.",
-            "content": "Aachal Maniyar\nAachal Maniyar is a Senior Content Producer at LiveMint, where she covers US sports with a focus on major leagues, marquee events, and athlete-driven stories, while also reporting extensively on cricket and global sports. With over fiv... [1875 chars]",
-            "url": "https://www.livemint.com/sports/football-news/tunisia-vs-japan-prediction-i-asked-chatgpt-who-d-win-fifa-world-cup-2026-clash-ai-picks-winner-in-group-f-tun-vs-jpn-11781984478307.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/06/20/1600x900/logo/Sports-football_1545997121647_1781991160898_a479d78d-7b94-4eb3-bb0d-fe10e0fe9fbb.jpg",
-            "publishedAt": "2026-06-20T21:32:23Z",
+            "id": "bdc7ac595a93f8363582c954b1195eb3",
+            "title": "Microsoft’s Satya Nadella: we can’t let AI giants eat the economy",
+            "description": "Microsoft’s CEO offers a blistering critique of the AI power balance and calls for earning society’s permission.",
+            "content": "While he didn’t directly name OpenAI, Anthropic or Alphabet’s Google—the three companies building the most advanced proprietary models—he made clear that Microsoft is seeking to steer the AI race away from a future dictated and controlled by frontier... [4692 chars]",
+            "url": "https://www.livemint.com/ai/microsofts-satya-nadella-we-can-t-let-ai-giants-eat-the-economy-11782090572286.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/06/22/1600x900/logo/im-51475869_1782090575779_1782090600979_e4a78327-722c-4e8e-ba90-f50dd22e7580.jpg",
+            "publishedAt": "2026-06-22T01:12:09Z",
             "lang": "en",
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -71,29 +39,29 @@
             }
         },
         {
-            "id": "0204ee9c33910a813e0c2544d8160a06",
-            "title": "Bezos puts AI over humans, Musk buys code editor and Google’s geniuses are moving on – AI Roundup for the Week",
-            "description": "This week in AI features Elon Musk's Cursor acquisition, Anthropic's AI model restrictions, India's AI sovereignty debate, OpenAI's talent raid, and Jeff Bezos addressing AI's water footprint concerns. Stay updated on AI's latest developments.",
-            "content": "This week would go down in history as one made for the rocket man and his rocket-AI company. Other than the IPO filing, which kept our business and markets section busy on Monday and Tuesday, Elon Musk also went shopping for a small AI startup that c... [5092 chars]",
-            "url": "https://www.financialexpress.com/life/technology-bezos-puts-ai-over-humans-musk-buys-code-editor-and-googles-geniuses-are-moving-on-ai-roundup-for-the-week-4272612/",
-            "image": "https://images.financialexpressdigital.com/2026/06/weekly-ai-roundup-21-jun.jpg",
-            "publishedAt": "2026-06-20T21:05:31Z",
+            "id": "2839080ff159ee15526504a01f94ac34",
+            "title": "Circles, Greyskies, and HCLTech Collaborate in TM Forum Catalyst Program to Accelerate AI-led Autonomous Network Operations",
+            "description": "Singapore, June 22, 2026 /MarketersMEDIA/ -- Circles, GreySkies, and HCLTech today announced their participation in the TM Forum Catalyst Program, a collaborative innovation initiative that brings together Communication Service Providers (CSPs) and technology partners to co-create and showcase next-generation solutions for the telecommunications industry.",
+            "content": "-- Circles, GreySkies, and HCLTech today announced their participation in the TM Forum Catalyst Program, a collaborative innovation initiative that brings together Communication Service Providers (CSPs) and technology partners to co-create and showca... [5640 chars]",
+            "url": "https://www.manilatimes.net/2026/06/22/tmt-newswire/plentisoft/circles-greyskies-and-hcltech-collaborate-in-tm-forum-catalyst-program-to-accelerate-ai-led-autonomous-network-operations/2369715",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/22/1107529.jpg",
+            "publishedAt": "2026-06-22T01:11:08Z",
             "lang": "en",
             "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "7e2c6db3cab19f53e090b5b335b5eae9",
-            "title": "S’pore man targeted by former schoolmate who posted AI images of them as couple with baby",
-            "description": "Checks on June 15 found that the woman's Instagram account had been deactivated. Read more at straitstimes.com.",
-            "content": "SINGAPORE – Around December 2025, administrative assistant Luke (not his real name), who is single, was told that there were photos of him with a woman claiming to be his fiancee and the baby they supposedly had together.\nIn the months that followed,... [4933 chars]",
-            "url": "https://www.straitstimes.com/singapore/spore-man-targeted-by-former-schoolmate-who-posted-ai-images-of-them-as-couple-with-baby",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/dad252da4e673b56e99d3a5f8d90f6d2a62be56936705c4e100992f6d8ed9d05",
-            "publishedAt": "2026-06-20T21:00:00Z",
+            "id": "c729b4cfb8755268dc253d481282c35a",
+            "title": "South Korea’s early exports jump again as AI boom fuels chip demand",
+            "description": "Chip exports again led gains, soaring 188.4 per cent from a year earlier. Read more at straitstimes.com.",
+            "content": "SEOUL – South Korea’s export growth remained robust in early June thanks to a continued boom in the semiconductor sector.\nExports adjusted for working-day differences rose 49.7 per cent from a year earlier in the first 20 days of this month, accordin... [1955 chars]",
+            "url": "https://www.straitstimes.com/business/economy/south-koreas-early-exports-jump-again-as-ai-boom-fuels-chip-demand",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/767cf0db7c5f99f2a6cb9f7fc90ca886dcad866d69507afdc63a4805ba62f58f",
+            "publishedAt": "2026-06-22T01:10:21Z",
             "lang": "en",
             "source": {
                 "id": "72bbcd9c095a3d51c97cdda7a97dba31",
@@ -103,67 +71,99 @@
             }
         },
         {
-            "id": "7ddc78b7ede207c08aa1ae2d68834d31",
-            "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-            "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-            "content": "Asked about the privacy implications of chatbots like ChatGPT and Claude, Signal President Meredith Whittaker answered, “These are not your friends. These are not conscious beings. These are not sentient interlocutors.”\nWhittaker made those comments ... [1010 chars]",
-            "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-            "image": "https://techcrunch.com/wp-content/uploads/2024/03/meredith-whittaker-1.jpg?resize=1200,800",
-            "publishedAt": "2026-06-20T20:32:29Z",
+            "id": "c5b765f0ee679fc7adfe8b7032c6d401",
+            "title": "‘Don’t Go Bargain Hunting,’ Says Top Investor as Microsoft Stock Struggles to Gain Traction",
+            "description": "Microsoft (NASDAQ:MSFT) was widely expected to be one of the biggest beneficiaries of the AI boom. Instead, the stock has struggled to gain trac...",
+            "content": "Microsoft (NASDAQ:MSFT) was widely expected to be one of the biggest beneficiaries of the AI boom. Instead, the stock has struggled to gain traction as concerns over the company’s spending plans have overshadowed its otherwise strong operating perfor... [3903 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/don-t-go-bargain-hunting-says-top-investor-as-microsoft-stock-struggles-to-gain-traction-1036264197",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/06/image-2074-1024x543.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-06-22T01:09:54Z",
             "lang": "en",
             "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
                 "country": "us"
             }
         },
         {
-            "id": "e233581e611cac56cf203982711fd358",
-            "title": "UP showcases GCC potential at MachineCon Summit in Goa",
-            "description": "Uttar Pradesh promotes GCC Policy 2024 at MachineCon 2026, highlighting subsidies, payroll support, AI Mission, talent pool, and Noida airport, metro, expressways.",
-            "content": "UP govt officials at the meeting\nLucknow: Uttar Pradesh positioned itself as an emerging destination for Global Capability Centres (GCCs) at the MachineCon GCC Summit 2026 in Goa on Saturday. Addressing the summit, additional chief secretary, infrast... [1223 chars]",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/up-showcases-gcc-potential-at-machinecon-summit-in-goa/articleshow/131882877.cms",
-            "image": "https://static.toiimg.com/thumb/msid-131882875,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-20T20:18:00Z",
+            "id": "b7158738370d6d2bac1921d1608de5d6",
+            "title": "Paris AI action summit to Bharat Innovates: Reading India's digital diplomacy in France",
+            "description": "When governments choose where to spend the scarce capital of a leaders’ summit, the choice states a priority. India is allocating it to innovation, not hardware",
+            "content": "If you landed at Charles de Gaulle airport in Paris last week, then India would have been hard to miss. The arrival boards advertise the VivaTech and Eurosatory events in Paris; the screens by the baggage carousels flash the Bharat Innovates event in... [4943 chars]",
+            "url": "https://www.hindustantimes.com/opinion/paris-ai-action-summit-to-bharat-innovates-reading-indias-digital-diplomacy-in-france-pm-modi-g7-macron-101782061132162.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/06/21/550x309/PTI06-21-2026-000594B-0_1782061552517_1782061577563_d312b385-0bdd-45c6-93e0-0d392838849f.jpg",
+            "publishedAt": "2026-06-22T01:01:39Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "e41bf5cc4f0b624feebca2123b890d9a",
-            "title": "A Filmy Kaleidoscope: The Mumbai International Film Festival Is A Rollercoaster Of AI, Documentaries, Young Talent And More",
-            "description": "MIFF is a rollercoaster of aspects of filmmaking which had not been getting enough attention till now, but were brought together all under one roof at the NFDC.",
-            "content": "The Mumbai International Film Festival (MIFF) 2026 has turned out to be a potpourri of documentaries, young talent, AI films, hidden gems and the future of cinema.\nEmerging talent\nInstead of being blasted with films of ‘A-listers’ that have been plas... [3979 chars]",
-            "url": "https://www.freepressjournal.in/entertainment/a-filmy-kaleidoscope-the-mumbai-international-film-festival-is-a-rollercoaster-of-ai-documentaries-young-talent-and-more",
-            "image": "https://media.assettype.com/freepressjournal/2026-06-20/nu4h0iuo/Untitled-design-57.jpg",
-            "publishedAt": "2026-06-20T20:13:22Z",
+            "id": "ecf0c82b196def71e8680a72e33d849b",
+            "title": "SailPoint Announces Intent to Acquire Entro to Accelerate and Enhance Agentic Fabric and Secure the Future of AI-Driven Enterprises",
+            "description": "Entro to add complementary deep secrets discovery and non-human identity scanning, solidifying SailPoint’s leadership across all identity types—human, machine, and agent",
+            "content": "Entro to add complementary deep secrets discovery and non-human identity scanning, solidifying SailPoint’s leadership across all identity types—human, machine, and agent\nSailPoint, Inc. (Nasdaq: SAIL ), a leader in enterprise identity security, today... [5000 chars]",
+            "url": "https://itwire.com/it-industry-news/deals/sailpoint-announces-intent-to-acquire-entro-to-accelerate-and-enhance-agentic-fabric-and-secure-the-future-of-ai-driven-enterprises",
+            "image": "https://media.itwire.com/2026/06/22/sailpoint-announces-intent-to-acquire-entro-to-accelerate-and-enhance-agentic-fabric-and-secure-the-future-of-ai-driven-enterprises-f7b0f56bb71e.webp",
+            "publishedAt": "2026-06-22T01:01:25Z",
             "lang": "en",
             "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
             }
         },
         {
-            "id": "1b52890f554b2fdba770f3907b0f8ae3",
-            "title": "People are marrying holograms and making friends with chatbots. But can AI bring true happiness?",
-            "description": "Can technology really replace human relationships? As philosophy scholars who focus on human happiness and on artificial intelligence (AI), we tackle this question in a recent paper. In our study, we address the rise of AI companions, chatbots, and social robots for friendship, advice, emotional support, and even romance. We…",
-            "content": "Can technology really replace human relationships? As philosophy scholars who focus on human happiness and on artificial intelligence (AI), we tackle this question in a recent paper.\nIn our study, we address the rise of AI companions, chatbots, and s... [6237 chars]",
-            "url": "https://japantoday.com/category/features/lifestyle/People-are-marrying-holograms-and-making-friends-with-chatbots.-But-can-AI-bring-true-happiness-",
-            "image": "https://media.japantoday.com/img/store/f0/aa/da3bcb1f406261d426c7a7e8bcb6cef92508/istock-1356576745-1/_w1700.jpeg",
-            "publishedAt": "2026-06-20T20:10:00Z",
+            "id": "1a712fe9ddd8b6e30d219f15fb12ab73",
+            "title": "South Korean investors leverage Hong Kong to cash in on the AI and chips boom",
+            "description": "Some South Korean retail investors are turning to Hong Kong’s leveraged semiconductor ETFs for higher AI-driven returns.",
+            "content": "FOMO (the fear of missing out) is causing some South Korean retail investors to turn to Hong Kong-based platforms to leverage their investments and cash in on the boom in semiconductors and AI.\nAnalysts attributed the diversion to Hong Kong from the ... [1411 chars]",
+            "url": "https://www.scmp.com/business/banking-finance/article/3357851/south-korean-investors-leverage-hong-kong-cash-ai-and-chips-boom",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/22/27c34e2e-d1d3-4bab-8877-ff884113e153_caba88b6.jpg?itok=jStAISuj&v=1782088864",
+            "publishedAt": "2026-06-22T01:00:17Z",
             "lang": "en",
             "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            }
+        },
+        {
+            "id": "bcf7319441122e589f0dc90bbcf89a1c",
+            "title": "Apple supplier Lingyi seeks US$1.1 billion Hong Kong IPO to fund AI and robotics push",
+            "description": "The Shenzhen-listed components maker is using a Hong Kong float to fund its push into AI servers, smart glasses and robotics.",
+            "content": "Apple supplier Lingyi iTech is looking beyond smartphones, seeking to raise up to HK$8.3 billion (US$1.1 billion) in a Hong Kong initial public offering (IPO) to fund an ambitious expansion into artificial intelligence hardware and humanoid robotics.... [1262 chars]",
+            "url": "https://www.scmp.com/tech/article/3357705/apple-supplier-lingyi-seeks-us11-billion-hong-kong-ipo-fund-ai-and-robotics-push",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/22/68228602-44e6-42e7-b9e9-8de9f892f71b_43f21653.jpg?itok=4MNEXWcz&v=1782091781",
+            "publishedAt": "2026-06-22T01:00:11Z",
+            "lang": "en",
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            }
+        },
+        {
+            "id": "fa55f984a090576b4afe26b65c374280",
+            "title": "27: 8 costly mistakes taxpayers should avoid this tax return filing season",
+            "description": "The I-T Department’s growing scrutiny, using AI and data analytics tools, leaves little room for omissions and errors, making accurate tax return filing more important than ever.",
+            "content": "Synopsis\nThe I-T Department’s growing scrutiny, using AI and data analytics tools, leaves little room for omissions and errors, making accurate tax return filing more important than ever.\nListen to this article in summarized format\nFor most taxpayers... [12424 chars]",
+            "url": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-ay-2026-27-8-costly-mistakes-taxpayers-should-avoid-this-tax-return-filing-season/articleshow/131870003.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-164936,resizemode-75,msid-131870003/wealth/tax/itr-filing-ay-2026-27-8-costly-mistakes-taxpayers-should-avoid-this-tax-return-filing-season.jpg",
+            "publishedAt": "2026-06-22T01:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
             }
         }
     ]
