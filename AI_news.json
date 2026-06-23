@@ -4,80 +4,48 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 371182,
+    "totalArticles": 372127,
     "articles": [
         {
-            "id": "e7357ce7d837d77eab18fb010df1949e",
-            "title": "America just exposed India’s technology dependency",
-            "description": "India's technology dependency is exposed as geopolitical restrictions threaten its AI aspirations and ownership in a global digital landscape.",
-            "content": "The US government’s recent announcement strictly restricting access to Anthropic’s advanced AI models Mythos and Fable only to approved American entities and US citizens sent not just several organisations but even countries scrambling. Interestingly... [3112 chars]",
-            "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/america-just-exposed-indias-technology-dependency/article71130245.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/x3jmwz/article71130248.ece/alternates/LANDSCAPE_1200/IMG_iStock-1976099664_2_1_7RG41OTU.jpg",
-            "publishedAt": "2026-06-22T01:23:00Z",
+            "id": "b987da76009da975dce4c739fedd6864",
+            "title": "Why AI Governance Needs Visible Authority Now",
+            "description": "The advantage AI will not be won by organizations that deploy the most tools; it will go to organizations that can see clearly, decide wisely, and scale responsibly.",
+            "content": "Executive visibility is the missing AI governance layer. But visibility only becomes governance when every AI signal has an owner, a decision right, and a path to action.\nIn a great jazz ensemble, the danger is rarely that the musicians lack talent.\n... [16171 chars]",
+            "url": "https://www.forbes.com/sites/geraldleonard/2026/06/22/why-ai-governance-needs-visible-authority-now/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a39bbbdc9733721b0d8ea7a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-06-22T22:50:12Z",
             "lang": "en",
             "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
             }
         },
         {
-            "id": "bdc7ac595a93f8363582c954b1195eb3",
-            "title": "Microsoft’s Satya Nadella: we can’t let AI giants eat the economy",
-            "description": "Microsoft’s CEO offers a blistering critique of the AI power balance and calls for earning society’s permission.",
-            "content": "While he didn’t directly name OpenAI, Anthropic or Alphabet’s Google—the three companies building the most advanced proprietary models—he made clear that Microsoft is seeking to steer the AI race away from a future dictated and controlled by frontier... [4692 chars]",
-            "url": "https://www.livemint.com/ai/microsofts-satya-nadella-we-can-t-let-ai-giants-eat-the-economy-11782090572286.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/06/22/1600x900/logo/im-51475869_1782090575779_1782090600979_e4a78327-722c-4e8e-ba90-f50dd22e7580.jpg",
-            "publishedAt": "2026-06-22T01:12:09Z",
+            "id": "425460de6b08d251f2efbf6a60d6adff",
+            "title": "Meta Is 'Pausing' Employee Tracking Program After It Let The Whole Company See Sensitive Data",
+            "description": "This won’t make the already-controversial AI training endeavor any more popular.",
+            "content": "Meta has paused use of an AI training program that tracks its own employees' keystrokes and mouse movements. The company has suspended the Model Capability Initiative, not because of workers' understandable displeasure around being (almost) perpetual... [540 chars]",
+            "url": "https://www.engadget.com/2199458/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/",
+            "image": "https://www.engadget.com/img/gallery/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/l-intro-1782167927.jpg",
+            "publishedAt": "2026-06-22T22:40:14Z",
             "lang": "en",
             "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
+                "id": "549a7a859b2345bbe231b00e7244ef99",
+                "name": "Engadget",
+                "url": "https://www.engadget.com",
+                "country": "us"
             }
         },
         {
-            "id": "2839080ff159ee15526504a01f94ac34",
-            "title": "Circles, Greyskies, and HCLTech Collaborate in TM Forum Catalyst Program to Accelerate AI-led Autonomous Network Operations",
-            "description": "Singapore, June 22, 2026 /MarketersMEDIA/ -- Circles, GreySkies, and HCLTech today announced their participation in the TM Forum Catalyst Program, a collaborative innovation initiative that brings together Communication Service Providers (CSPs) and technology partners to co-create and showcase next-generation solutions for the telecommunications industry.",
-            "content": "-- Circles, GreySkies, and HCLTech today announced their participation in the TM Forum Catalyst Program, a collaborative innovation initiative that brings together Communication Service Providers (CSPs) and technology partners to co-create and showca... [5640 chars]",
-            "url": "https://www.manilatimes.net/2026/06/22/tmt-newswire/plentisoft/circles-greyskies-and-hcltech-collaborate-in-tm-forum-catalyst-program-to-accelerate-ai-led-autonomous-network-operations/2369715",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/22/1107529.jpg",
-            "publishedAt": "2026-06-22T01:11:08Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "c729b4cfb8755268dc253d481282c35a",
-            "title": "South Korea’s early exports jump again as AI boom fuels chip demand",
-            "description": "Chip exports again led gains, soaring 188.4 per cent from a year earlier. Read more at straitstimes.com.",
-            "content": "SEOUL – South Korea’s export growth remained robust in early June thanks to a continued boom in the semiconductor sector.\nExports adjusted for working-day differences rose 49.7 per cent from a year earlier in the first 20 days of this month, accordin... [1955 chars]",
-            "url": "https://www.straitstimes.com/business/economy/south-koreas-early-exports-jump-again-as-ai-boom-fuels-chip-demand",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/767cf0db7c5f99f2a6cb9f7fc90ca886dcad866d69507afdc63a4805ba62f58f",
-            "publishedAt": "2026-06-22T01:10:21Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "c5b765f0ee679fc7adfe8b7032c6d401",
-            "title": "‘Don’t Go Bargain Hunting,’ Says Top Investor as Microsoft Stock Struggles to Gain Traction",
-            "description": "Microsoft (NASDAQ:MSFT) was widely expected to be one of the biggest beneficiaries of the AI boom. Instead, the stock has struggled to gain trac...",
-            "content": "Microsoft (NASDAQ:MSFT) was widely expected to be one of the biggest beneficiaries of the AI boom. Instead, the stock has struggled to gain traction as concerns over the company’s spending plans have overshadowed its otherwise strong operating perfor... [3903 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/don-t-go-bargain-hunting-says-top-investor-as-microsoft-stock-struggles-to-gain-traction-1036264197",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/06/image-2074-1024x543.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-06-22T01:09:54Z",
+            "id": "08ae069c06daa75d610b52c2e356ea66",
+            "title": "3 “Strong Buy” Growth Stocks to Watch This Week, According to Analysts",
+            "description": "Analysts are upbeat about a fresh group of growth stocks this week as tech spending, AI demand, and digital media trends continue to shape the m...",
+            "content": "Analysts are upbeat about a fresh group of growth stocks this week as tech spending, AI demand, and digital media trends continue to shape the market: Snowflake (SNOW), Planet Labs (PL), and Netflix (NFLX).\nTipRanks' Prime Week Sale - 70% Off\nUnlock ... [2235 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/3-strong-buy-growth-stocks-to-watch-this-week-according-to-analysts-1036267275",
+            "image": "https://markets.businessinsider.com/favicon-32x32.png",
+            "publishedAt": "2026-06-22T22:23:30Z",
             "lang": "en",
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -87,83 +55,115 @@
             }
         },
         {
-            "id": "b7158738370d6d2bac1921d1608de5d6",
-            "title": "Paris AI action summit to Bharat Innovates: Reading India's digital diplomacy in France",
-            "description": "When governments choose where to spend the scarce capital of a leaders’ summit, the choice states a priority. India is allocating it to innovation, not hardware",
-            "content": "If you landed at Charles de Gaulle airport in Paris last week, then India would have been hard to miss. The arrival boards advertise the VivaTech and Eurosatory events in Paris; the screens by the baggage carousels flash the Bharat Innovates event in... [4943 chars]",
-            "url": "https://www.hindustantimes.com/opinion/paris-ai-action-summit-to-bharat-innovates-reading-indias-digital-diplomacy-in-france-pm-modi-g7-macron-101782061132162.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/06/21/550x309/PTI06-21-2026-000594B-0_1782061552517_1782061577563_d312b385-0bdd-45c6-93e0-0d392838849f.jpg",
-            "publishedAt": "2026-06-22T01:01:39Z",
+            "id": "1b8491023be5ea64b49a42180ac44f59",
+            "title": "Connectivity Is Marvell’s Hidden Growth Engine Today (NASDAQ:MRVL)",
+            "description": "Marvell is transitioning into an AI connectivity leader, driven by interconnect growth exceeding 70% in FY2027. Read more on MRVL stock here.",
+            "content": "Analyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, but may initiate a beneficial Long position through a purchase of the stock, or the purchase of call options or similar derivatives in ... [814 chars]",
+            "url": "https://seekingalpha.com/article/4916819-connectivity-is-marvells-hidden-growth-engine-today",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/885294132/image_885294132.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-06-22T22:21:01Z",
             "lang": "en",
             "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
             }
         },
         {
-            "id": "ecf0c82b196def71e8680a72e33d849b",
-            "title": "SailPoint Announces Intent to Acquire Entro to Accelerate and Enhance Agentic Fabric and Secure the Future of AI-Driven Enterprises",
-            "description": "Entro to add complementary deep secrets discovery and non-human identity scanning, solidifying SailPoint’s leadership across all identity types—human, machine, and agent",
-            "content": "Entro to add complementary deep secrets discovery and non-human identity scanning, solidifying SailPoint’s leadership across all identity types—human, machine, and agent\nSailPoint, Inc. (Nasdaq: SAIL ), a leader in enterprise identity security, today... [5000 chars]",
-            "url": "https://itwire.com/it-industry-news/deals/sailpoint-announces-intent-to-acquire-entro-to-accelerate-and-enhance-agentic-fabric-and-secure-the-future-of-ai-driven-enterprises",
-            "image": "https://media.itwire.com/2026/06/22/sailpoint-announces-intent-to-acquire-entro-to-accelerate-and-enhance-agentic-fabric-and-secure-the-future-of-ai-driven-enterprises-f7b0f56bb71e.webp",
-            "publishedAt": "2026-06-22T01:01:25Z",
+            "id": "163cec32f21fefcf084bc483fcd2f9e4",
+            "title": "Tom Hanks Says AI Could Create Woody Voice for 'Toy Story 6'",
+            "description": "Tom Hanks says Disney could use AI to keep Woody going in 'Toy Story 6' and beyond without his participation.",
+            "content": "Tom Hanks is back as Woody in “Top Story 5,” which set a franchise record with its massive $312 million worldwide opening. Given the enduring popularity of the 31-year-old franchise, people are already wondering if “Toy Story 6” is an inevitability. ... [2383 chars]",
+            "url": "https://variety.com/2026/film/news/tom-hanks-ai-woody-voice-toy-story-6-1236787237/",
+            "image": "https://variety.com/wp-content/uploads/2026/06/woody.png?w=999&h=563&crop=1",
+            "publishedAt": "2026-06-22T22:20:35Z",
             "lang": "en",
             "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
+                "id": "e6688d6db992f469baa7352aac100378",
+                "name": "Variety",
+                "url": "https://variety.com",
+                "country": "us"
             }
         },
         {
-            "id": "1a712fe9ddd8b6e30d219f15fb12ab73",
-            "title": "South Korean investors leverage Hong Kong to cash in on the AI and chips boom",
-            "description": "Some South Korean retail investors are turning to Hong Kong’s leveraged semiconductor ETFs for higher AI-driven returns.",
-            "content": "FOMO (the fear of missing out) is causing some South Korean retail investors to turn to Hong Kong-based platforms to leverage their investments and cash in on the boom in semiconductors and AI.\nAnalysts attributed the diversion to Hong Kong from the ... [1411 chars]",
-            "url": "https://www.scmp.com/business/banking-finance/article/3357851/south-korean-investors-leverage-hong-kong-cash-ai-and-chips-boom",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/22/27c34e2e-d1d3-4bab-8877-ff884113e153_caba88b6.jpg?itok=jStAISuj&v=1782088864",
-            "publishedAt": "2026-06-22T01:00:17Z",
+            "id": "7fca2ef3507cbedaf8f22f5cd6a1b691",
+            "title": "CoreWeave’s Liquidity Shock Meets AI Scale (NASDAQ:CRWV)",
+            "description": "CoreWeave remains a \"Strong Buy\" given its undervaluation and upside potential. Here's what investors need to know about the AI play.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of CRWV either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
+            "url": "https://seekingalpha.com/article/4916818-coreweaves-liquidity-shock-meets-ai-scale",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2165598582/image_2165598582.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-06-22T22:19:21Z",
             "lang": "en",
             "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
             }
         },
         {
-            "id": "bcf7319441122e589f0dc90bbcf89a1c",
-            "title": "Apple supplier Lingyi seeks US$1.1 billion Hong Kong IPO to fund AI and robotics push",
-            "description": "The Shenzhen-listed components maker is using a Hong Kong float to fund its push into AI servers, smart glasses and robotics.",
-            "content": "Apple supplier Lingyi iTech is looking beyond smartphones, seeking to raise up to HK$8.3 billion (US$1.1 billion) in a Hong Kong initial public offering (IPO) to fund an ambitious expansion into artificial intelligence hardware and humanoid robotics.... [1262 chars]",
-            "url": "https://www.scmp.com/tech/article/3357705/apple-supplier-lingyi-seeks-us11-billion-hong-kong-ipo-fund-ai-and-robotics-push",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/22/68228602-44e6-42e7-b9e9-8de9f892f71b_43f21653.jpg?itok=4MNEXWcz&v=1782091781",
-            "publishedAt": "2026-06-22T01:00:11Z",
+            "id": "e3b4f4a7aff5ad816022c42bacdd1fbb",
+            "title": "FTI Consulting Strengthens Risk, Compliance & AI Advisory Capabilities in Australia With Appointment of Jerome Nyssen",
+            "description": "SYDNEY, June 22, 2026 (GLOBE NEWSWIRE) -- FTI Consulting, Inc. (NYSE: FCN) today announced the appointment of Jerome Nyssen as a Senior Managing Director in the Risk Advisory practice. This appointment strengthens the firm’s capabilities across financial services and depth in AI-driven risk, compliance and governance transformation.",
+            "content": "SYDNEY, June 22, 2026 (GLOBE NEWSWIRE) -- FTI Consulting, Inc. (NYSE: FCN) today announced the appointment of Jerome Nyssen as a Senior Managing Director in the Risk Advisory practice. This appointment strengthens the firm’s capabilities across finan... [5116 chars]",
+            "url": "https://www.manilatimes.net/2026/06/23/tmt-newswire/globenewswire/fti-consulting-strengthens-risk-compliance-ai-advisory-capabilities-in-australia-with-appointment-of-jerome-nyssen/2370511",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/23/1109029.png",
+            "publishedAt": "2026-06-22T22:18:44Z",
             "lang": "en",
             "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "fa55f984a090576b4afe26b65c374280",
-            "title": "27: 8 costly mistakes taxpayers should avoid this tax return filing season",
-            "description": "The I-T Department’s growing scrutiny, using AI and data analytics tools, leaves little room for omissions and errors, making accurate tax return filing more important than ever.",
-            "content": "Synopsis\nThe I-T Department’s growing scrutiny, using AI and data analytics tools, leaves little room for omissions and errors, making accurate tax return filing more important than ever.\nListen to this article in summarized format\nFor most taxpayers... [12424 chars]",
-            "url": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-ay-2026-27-8-costly-mistakes-taxpayers-should-avoid-this-tax-return-filing-season/articleshow/131870003.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-164936,resizemode-75,msid-131870003/wealth/tax/itr-filing-ay-2026-27-8-costly-mistakes-taxpayers-should-avoid-this-tax-return-filing-season.jpg",
-            "publishedAt": "2026-06-22T01:00:00Z",
+            "id": "66d1cb2793288931a77ee5634208809b",
+            "title": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports",
+            "description": "Qualcomm is in advanced discussions to acquire Modular Inc in a transaction valuing ​the AI chip company at about $4 ‌billion, Bloomberg News reported on Monday, citing people familiar with the matter.",
+            "content": "June 22 (Reuters) - Qualcomm (QCOM.O), opens new tab is in advanced discussions to acquire Modular Inc in a transaction valuing ​the AI chip company at about $4 ‌billion, Bloomberg News reported on Monday, citing people familiar with the matter.\nIf c... [468 chars]",
+            "url": "https://www.reuters.com/legal/transactional/qualcomm-nearing-deal-ai-chip-startup-modular-bloomberg-news-reports-2026-06-22/",
+            "image": "https://www.reuters.com/resizer/v2/O7OTF3RI2FMG5DXWDH6ZWGCLTM.jpg?auth=80a3d8971e6d38f1e2c05155ef0d3ac1b24d1aab698f5d51571e637ccb6f6d60&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-06-22T22:17:53Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "17089bfabb928a283d42da9ab8715b49",
+            "title": "AI Lending In The US Needs One Rule, Not Fifty",
+            "description": "Senate Bill 24-205, was the most ambitious American attempt yet to govern how lenders, insurers and employers use AI to make decisions about people.",
+            "content": "Colorado has repealed the country’s first comprehensive artificial-intelligence law, weeks before it took effect. The episode is a warning about how not to regulate a fast-moving technology, and an argument for Congress to set one clear national rule... [2645 chars]",
+            "url": "https://www.forbes.com/sites/daraabasiita/2026/06/22/ai-lending-in-the-us-needs-one-rule-not-fifty/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a39b105334bff5a1af00208/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-06-22T22:11:18Z",
+            "lang": "en",
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "bb9d86192a2a6e782a3f86840e865c5a",
+            "title": "Trump team delays health funding with new screening process that uses AI to check for words like ‘culture’ and ‘gender’: report",
+            "description": "A Democratic senator said the new process is ‘undermining America’s edge in research’ and ‘denying resources and services to communities because of politics’",
+            "content": "Billions of dollars in grant funding from the Department of Health and Human Services have been reportedly delayed by new approval requirements.\nHHS funding opportunities are being held up by a new multi-step approval process, which critics have argu... [1868 chars]",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-hhs-funding-delays-ai-screening-b3000812.html",
+            "image": "https://static.independent.co.uk/2026/06/22/21/21/GettyImages-2276973491.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+            "publishedAt": "2026-06-22T22:07:25Z",
+            "lang": "en",
+            "source": {
+                "id": "97497c18f5cb431f5f324b3d8643c24f",
+                "name": "The Independent",
+                "url": "https://www.independent.co.uk",
+                "country": "gb"
             }
         }
     ]
