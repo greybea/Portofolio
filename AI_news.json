@@ -4,96 +4,128 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 375943,
+    "totalArticles": 377057,
     "articles": [
         {
-            "id": "5bfecef6f21cdcbf67e9790ef5b03f90",
-            "title": "AI Digital Transformation Strategy: Drive True ROI",
-            "description": "McKinsey data reveals only 10% of marketers unlock true AI value. Discover why an effective AI digital transformation strategy requires a CEO-level mandate.",
-            "content": "In a fast-evolving marketplace, artificial intelligence is driving unprecedented industry shifts, forcing companies to look beyond the hype. At a recent Cannes Lions panel discussion, industry leaders gathered to dissect what AI truly means for creat... [3539 chars]",
-            "url": "https://www.latimes.com/b2b/events/cannes-lions/story/2026-06-25/ai-digital-transformation-strategy-ceo-blueprint",
-            "image": "https://ca-times.brightspotcdn.com/dims4/default/cc5339b/2147483647/strip/true/crop/480x252+0+54/resize/1200x630!/quality/75/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxkEtuFcDLoQ%2Fhqdefault.jpg",
-            "publishedAt": "2026-06-25T22:36:20Z",
+            "id": "0934c7ccff87a811659f11881ea3acf5",
+            "title": "OpenAI limits its latest ChatGPT product to Trump-approved customers during cybersecurity review",
+            "description": "ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration, the latest in an unprecedented government vetting of AI products for cybersecurity risks.",
+            "content": "By MATT O’BRIEN\nChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration, the latest in an unprecedented government vetting of AI products for cy... [5121 chars]",
+            "url": "https://www.mercurynews.com/2026/06/26/openai-limits-its-latest-chatgpt-product-to-trump-approved-customers-during-cybersecurity-review/",
+            "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/France_G7_Summit_Trump_25217.jpg?w=1024&h=682",
+            "publishedAt": "2026-06-26T21:53:36Z",
             "lang": "en",
             "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
                 "country": "us"
             }
         },
         {
-            "id": "277af2bb37abb6956bab6c40786bf6f6",
-            "title": "How AI-based system is expected to make AQI forecast sharper in Delhi",
-            "description": "Drawing on a constant stream of live pollution data, the new AI-based DSS will use artificial intelligence (AI) to spot the first signs of a worsening episode early, so that action can be taken before conditions worsen, sources said.",
-            "content": "Improved prediction\nDrawing on a constant stream of live pollution data, the new AI-based DSS will use artificial intelligence (AI) to spot the first signs of a worsening episode early, so that action can be taken before conditions worsen, sources sa... [4658 chars]",
-            "url": "https://indianexpress.com/article/cities/delhi/how-ai-based-system-is-expected-to-make-aqi-forecast-sharper-in-delhi-10757938/",
-            "image": "https://images.indianexpress.com/2026/06/delhi-pollution-ANI-1_20251218222824_20260406184648_20260625223511.jpg",
-            "publishedAt": "2026-06-25T22:35:33Z",
+            "id": "a02249d56c316f92a001c8d9034bd6a9",
+            "title": "Farmland's Steady Returns May Be Less Steady Than They Look",
+            "description": "Pensions buy farmland for its calm. Those returns are smoothed by how rarely the land is priced, and sharper AI valuation tools are closing in.",
+            "content": "American farmland barely moved in the first quarter of 2026. The main institutional index of US row-crop land finished up a fraction over the prior year, the kind of placid result that has made farmland a favorite of pension funds looking for calm. C... [8964 chars]",
+            "url": "https://www.forbes.com/sites/daraabasiita/2026/06/26/farmlands-steady-returns-may-be-less-steady-than-they-look/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a3ef266b7ac96596df85ac0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-06-26T21:48:50Z",
             "lang": "en",
             "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "dd00e32846dff1fb54318dea5db79737",
-            "title": "LANCASTER AVENUE 21ST COMMUNITY DEVELOPMENT CORPORATION",
-            "description": "Expanding access to coaching, business systems, capital readiness, and AI-powered business support for Philadelphia entrepreneurs...",
-            "content": "Philadelphia, PA, June 25, 2026 (GLOBE NEWSWIRE) -- Lancaster Avenue 21st Century Business Association Community Development Corporation (LA21-CDC) is proud to announce grant support from Truist Foundation to expand its Small Business Sustainability ... [3817 chars]",
-            "url": "https://www.globenewswire.com/news-release/2026/06/25/3318000/0/en/lancaster-avenue-21st-community-development-corporation-receives-truist-foundation-support-to-strengthen-small-business-initiative-and-philadelphia-entrepreneurs.html",
-            "image": "https://ml.globenewswire.com/Resource/Download/837fc66f-1438-4671-b875-a0179c259040",
-            "publishedAt": "2026-06-25T22:33:00Z",
-            "lang": "en",
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
                 "country": "us"
             }
         },
         {
-            "id": "685e104e823b9dedf3d9b4fe9d094111",
-            "title": "The Earth's Warning to the AI Revolution",
-            "description": "Biju Dharmapalan bijudharmapalan@gmail.com AI has become the hallmark technology of this era. With its applications ranging across healthcare and education to agriculture and governance, AI is revolutionising the way societies operate. Finally, the release of generative AI like ChatGPT has...",
-            "content": "Biju Dharmapalan\nbijudharmapalan@gmail.com\nAI has become the hallmark technology of this era. With its applications ranging across healthcare and education to agriculture and governance, AI is revolutionising the way societies operate. Finally, the r... [6690 chars]",
-            "url": "https://www.dailyexcelsior.com/the-earths-warning-to-the-ai-revolution/",
-            "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTgyOWM1MDYwLTcwZTUtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-06-25T22:30:37Z",
+            "id": "b18e0f4ee98cab8586fbd7ab9f7b0115",
+            "title": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
+            "description": "Anthropic PBC and the Trump administration are moving closer to an agreement that would lift US restrictions on the company’s top two artificial intelligence models after weeks of talks between the two sides over security of the systems, according to people familiar with the matter.",
+            "content": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world\nConnecting decision makers to a dynamic network of infor... [754 chars]",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-26/anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idS.AuUfNeWQ/v1/1200x800.jpg",
+            "publishedAt": "2026-06-26T21:44:42Z",
             "lang": "en",
             "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "12f39e084904f1f113d9b8da2f496c15",
+            "title": "Oracle (ORCL) Stock Suffers Worst Week in 25 Years as AI Debt Fears Grow",
+            "description": "Tech giant Oracle (ORCL) just had its worst week on Wall Street in 25 years due to growing investor concerns about its heavy AI spending and ris...",
+            "content": "Tech giant Oracle (ORCL) just had its worst week on Wall Street in 25 years due to growing investor concerns about its heavy AI spending and rising debt levels. Over the course of the week, the stock fell 19%, its steepest weekly decline since August... [1749 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/oracle-orcl-stock-suffers-worst-week-in-25-years-as-ai-debt-fears-grow-1036280726",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/06/image-2693.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-06-26T21:33:13Z",
+            "lang": "en",
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "6163ccdaefac853ef543515dd29b44f3",
+            "title": "Reality Cheque: Big $ for Select Startups",
+            "description": "Indias seed-and early-stage startups are raising almost twice as much per round as they did a year ago, with venture firms frontloading capital for more mature products and business models that require upfront spending, particularly in artificial intelligence, deeptech, infrastructure and healthtech.",
+            "content": "Synopsis\nIndia’s seed-and early-stage startups are raising almost twice as much per round as they did a year ago, with venture firms frontloading capital for more mature products and business models that require upfront spending, particularly in arti... [6136 chars]",
+            "url": "https://economictimes.indiatimes.com/satet-front/reality-cheque-big-for-select-startups/articleshow/132024781.cms",
+            "image": "https://img.etimg.com/thumb/msid-132026753,width-1200,height-630,imgsize-60080,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-06-26T21:32:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "0434ff11a3b57bb60bdb95e77b04c10d",
-            "title": "Anime Publishers Reportedly Encouraged To Use AI Translations",
-            "description": "According to the new report, Crunchyroll, Bandai Namco, Square Enix and Shueisha will likely be offered the METI's government subsidies",
-            "content": "The Japanese government’s Ministry of Economy, Trade and Industry (METI) is reportedly set to offer 15 companies a new “overseas promotion” subsidy aimed at expanding Japan’s original manga, anime, and live-action markets. According to the new report... [1189 chars]",
-            "url": "https://kotaku.com/japanese-anime-manga-and-gaming-publishers-are-reportedly-being-paid-70-million-to-encourage-ai-generated-translations-2000710488",
-            "image": "https://kotaku.com/app/uploads/2021/06/a347dafccbe3bb8b7d90e405c57ab8c4-1200x675.jpg",
-            "publishedAt": "2026-06-25T22:30:36Z",
+            "id": "c13716d8b96f48ec7b21c4f1c3b2e7a6",
+            "title": "Reality Cheque: Big $ for Select Startups",
+            "description": "Indias seed-and early-stage startups are raising almost twice as much per round as they did a year ago, with venture firms frontloading capital for more mature products and business models that require upfront spending, particularly in artificial intelligence, deeptech, infrastructure and healthtech.",
+            "content": "Synopsis\nIndia’s seed-and early-stage startups are raising almost twice as much per round as they did a year ago, with venture firms frontloading capital for more mature products and business models that require upfront spending, particularly in arti... [6136 chars]",
+            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jun/27/satet-front/reality-cheque-big-for-select-startups/articleshow/132024781.cms",
+            "image": "https://img.etimg.com/thumb/msid-132026753,width-1200,height-630,imgsize-60080,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-06-26T21:32:00Z",
             "lang": "en",
             "source": {
-                "id": "0aab1d72ae666208d1824f73c0ea4209",
-                "name": "Kotaku",
-                "url": "https://kotaku.com",
-                "country": "au"
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
             }
         },
         {
-            "id": "e182c25fb8e62974bc8a863382d20f01",
-            "title": "Freshworks gains large customers as it eyes to cross $1 bn ARR this year",
-            "description": "Freshworks targets $1B ARR in 2026 as enterprise customers rise 30%; AI-paid users hit 7,000 and AI revenue tops $20M, with profitability focus.",
-            "content": "Dennis Woodside, CEO & president, Freshworks\nChennai: Freshworks continues to witness interest from enterprise customers as AI adoption and platform modernisation tilt the balance in its favour, according to its chief executive Dennis Woodside. The t... [1551 chars]",
-            "url": "https://timesofindia.indiatimes.com/city/chennai/freshworks-gains-large-customers-as-it-eyes-to-cross-1-bn-arr-this-year/articleshow/131999523.cms",
-            "image": "https://static.toiimg.com/thumb/msid-131999522,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-25T22:30:00Z",
+            "id": "91df00a893a60922e86aee280f065fe3",
+            "title": "Future Promises His New Album \"The Real Me\" Will Not Feature AI",
+            "description": "Future recently dropped his first single for his new album \"The Real Me,\" and \"Radio\" is leading the charge for a very hyped release.",
+            "content": "The message was simple: \"This not Ai #THEREALME.\" Of course, maybe this is just a reference to the album title itself and not a definitive declaration. But these days, fans are happy that their favorite artists are at least trying to clear the air ra... [438 chars]",
+            "url": "https://www.hotnewhiphop.com/1000011-future-promises-new-album-the-real-me-not-feature-ai",
+            "image": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/06/Future-Promises-New-Album-The-Real-Me-Not-Feature-AI-scaled-e1782508254153.jpg",
+            "publishedAt": "2026-06-26T21:30:35Z",
+            "lang": "en",
+            "source": {
+                "id": "abab8062417cb9b02ead633cc01bfb99",
+                "name": "HotNewHipHop",
+                "url": "https://www.hotnewhiphop.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ab87ca75cef072c29c48c3a5d608e5c9",
+            "title": "Nitin Nabin discusses digital public infrastructure, clean energy with envoys of 23 EU countries",
+            "description": "India News: NEW DELHI: Rapid expansion of digital public infrastructure to empower citizens and India’s growing focus on clean energy, AI and semiconductor develo.",
+            "content": "Nitin Nabin discusses digital public infrastructure, clean energy with envoys of 23 EU countries (Image/ANI)\nNEW DELHI: Rapid expansion of digital public infrastructure to empower citizens and India’s growing focus on clean energy, AI and semiconduct... [611 chars]",
+            "url": "https://timesofindia.indiatimes.com/india/nitin-nabin-discusses-digital-public-infrastructure-clean-energy-with-envoys-of-23-eu-countries/articleshow/132024622.cms",
+            "image": "https://static.toiimg.com/thumb/msid-132024625,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-06-26T21:22:00Z",
             "lang": "en",
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -103,67 +135,35 @@
             }
         },
         {
-            "id": "992e914f2c39b2d0517063f4fb5ec326",
-            "title": "Freshworks gains large customers as it eyes to cross $1 bn ARR this year",
-            "description": "Freshworks targets $1B ARR in 2026 as enterprise customers rise 30%; AI-paid users hit 7,000 and AI revenue tops $20M, with profitability focus.",
-            "content": "Dennis Woodside, CEO & president, Freshworks\nChennai: Freshworks continues to witness interest from enterprise customers as AI adoption and platform modernisation tilt the balance in its favour, according to its chief executive Dennis Woodside. The t... [1551 chars]",
-            "url": "https://timesofindia.indiatimes.com/city/chennai/freshworks-gains-large-customers-as-it-eyes-to-cross-1-bn-arr-this-year/articleshow/131999524.cms",
-            "image": "https://static.toiimg.com/thumb/msid-131999522,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-06-25T22:30:00Z",
+            "id": "edf344376bf99623a2600d09bcc7adc7",
+            "title": "US stocks recover from tech route as oil slides on Hormuz shipping recovery",
+            "description": "Stock markets started the day on the back foot as tech stocks came under renewed pressure after Apple announced price hikes on laptops, tablets and other products, citing spiralling memory and storage costs sparked by the rise of artificial intelligence.",
+            "content": "Wall Street's main stock indices overcame an early bout of tech jitters Friday thanks to buy-the-dip traders, finishing mildly lower, while oil prices fell as shipping traffic resumed through the Strait of Hormuz.\nShips continued to leave the Gulf, s... [2966 chars]",
+            "url": "https://www.moneycontrol.com/news/business/markets/us-stocks-recover-from-tech-route-as-oil-slides-on-hormuz-shipping-recovery-13959832.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2024/12/20241202073640_crude.jpg",
+            "publishedAt": "2026-06-26T21:18:19Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
                 "country": "in"
             }
         },
         {
-            "id": "ce34fa96f9c0165de364f71f353be1c8",
-            "title": "Quantum AI Microcities Project Launch First Global AGI",
-            "description": "Quantum AI Microcities Project Launch First Global AGI Communities Clinical Trial Network (Veterans First for America)...",
-            "content": "RICHMOND, Va., June 25, 2026 (GLOBE NEWSWIRE) -- This week, AI Wat QAIAx (pronounced “A.I. Wut, Ki-ya-ex”) AI City Hall Project has officially launched as the world’s first federally registered clinical trial involving an Artificial General Intellige... [7707 chars]",
-            "url": "https://www.globenewswire.com/news-release/2026/06/25/3317998/0/en/quantum-ai-microcities-project-launch-first-global-agi-communities-clinical-trial-network-veterans-first-for-america.html",
-            "image": "https://ml.globenewswire.com/Resource/Download/117438f3-7024-42e4-8ee5-03eed8e57993",
-            "publishedAt": "2026-06-25T22:19:59Z",
+            "id": "d4b5ee5cd19272b2c0dfc87ad90b4602",
+            "title": "How the Pentagon is shaping its next cyber strategy",
+            "description": "Drawing on Breaking Defense's TechNet Cyber 2026 coverage, this eBook examines how the Pentagon is advancing AI, cybersecurity, and cyber strategy to strengthen the future force.",
+            "content": "As the Pentagon accelerates efforts to modernize its cyber enterprise, artificial intelligence is emerging as both a powerful advantage and a growing security challenge. Drawing on reporting from AFCEA TechNet Cyber 2026, this eBook explores how Defe... [402 chars]",
+            "url": "https://breakingdefense.com/2026/06/how-the-pentagon-is-shaping-its-next-cyber-strategy/",
+            "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/Breaking-Defense-eBook-TechNet-Cyber-Featured-Image-2026-V2.png",
+            "publishedAt": "2026-06-26T21:16:51Z",
             "lang": "en",
             "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
+                "id": "391302f06b19835f4e0d9f8b4aa57091",
+                "name": "Breaking Defense",
+                "url": "https://breakingdefense.com",
                 "country": "us"
-            }
-        },
-        {
-            "id": "dcc9e26ec2dde2fa94da94f1fda4ebbb",
-            "title": "Apple increases Macs, iPads prices, blames memory chips shortage",
-            "description": "Apple on Thursday announced an increase in prices for Macs and iPads, citing a memory chip shortage brought on by the artificial intelligence boom.",
-            "content": "Apple on Thursday announced an increase in prices for Macs and iPads, citing a memory chip shortage brought on by the artificial intelligence boom.\nThe Cupertino, California-based company called the demand spike an “unprecedented challenge” for the c... [1314 chars]",
-            "url": "https://www.bnnbloomberg.ca/business/company-news/2026/06/25/apple-increases-prices-for-macs-and-ipads-blaming-a-shortage-of-memory-chips/",
-            "image": "https://www.bnnbloomberg.ca/resizer/v2/HJCIPVWDLOIJ42T7I5W63MWOKY.jpg?smart=true&auth=f192e5ab94ef67573b4df1458679fe0b15e13a0afa518c930716896a274d8bcb&width=1200&height=630",
-            "publishedAt": "2026-06-25T22:07:01Z",
-            "lang": "en",
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "a0be5707295c3d5868f0b1bc2b7b4b5e",
-            "title": "Upstart Publishes May 2026 UMI",
-            "description": "26.06.2026 - Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today updated the Upstart Macro Index (UMI) to include May 2026 data. For historical data and information about how the index is calculated, see ...",
-            "content": "While UMI is derived from Upstart-powered unsecured personal loans, broader macroeconomic trends can help contextualize recent movements in the index. The personal savings rate was 3.0% in May, flat with the level in April as an increase in disposabl... [4022 chars]",
-            "url": "https://www.wallstreet-online.de/nachricht/21043899-upstart-publishes-may-2026-umi",
-            "image": "https://assets.wallstreet-online.de/_media/3129/unternehmen/branchen/finanzdienstleistungen/size_645/finanzdienstleistung-adobe-stock.jpg",
-            "publishedAt": "2026-06-25T22:05:06Z",
-            "lang": "en",
-            "source": {
-                "id": "4ddba5324f2e0216fa6458240fdb0f97",
-                "name": "Wallstreet Online",
-                "url": "https://www.wallstreet-online.de",
-                "country": "de"
             }
         }
     ]
