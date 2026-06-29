@@ -4,32 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 377596,
+    "totalArticles": 378045,
     "articles": [
         {
-            "id": "ea0a94e6d6dadfc68685a11892b6c7f9",
-            "title": "Garnacho gets braids as Man Utd flop slammed over haircut 'so bad it must be AI'",
-            "description": "Some people just invite criticism and Alejandro Garnacho has done himself no favours in winning over any fans after the Chelsea star showed off his \"diabolical\" new hair",
-            "content": "Some people just invite criticism and Alejandro Garnacho has done himself no favours in winning over any fans after the Chelsea star showed off his \"diabolical\" new hair\nAlejandro Garnacho has a hard time making fans as it is, but the Chelsea winger ... [2763 chars]",
-            "url": "https://www.dailystar.co.uk/sport/football/alejandro-garnacho-hair-dreads-style-37357494",
-            "image": "https://i2-prod.dailystar.co.uk/article37220427.ece/ALTERNATES/s1200d/2_Alejandro-Garnacho.jpg",
-            "publishedAt": "2026-06-27T22:06:05Z",
+            "id": "5e1253ddb24ef8b72a815029aa4aa3d6",
+            "title": "Ford rehiring old engineers after AI failed at work",
+            "description": "Ford thought artificial intelligence could solve its quality problems, but the technology fell short without decades of engineering know-how. The automaker has now brought back hundreds of veteran engineers to train both younger employees and its AI, and the strategy is already paying off.",
+            "content": "Ford is bringing experienced engineers, including some of its former employees, back into the business after its artificial intelligence and automated quality systems failed to deliver the results it wanted. The company says bringing human expertise ... [3106 chars]",
+            "url": "https://www.indiatoday.in/technology/news/story/ford-rehiring-old-engineers-after-ai-failed-at-work-2936285-2026-06-29",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/the-upcoming-chennai-built-engines-will-feature-advanced-powertrains-meeting-future-global-performan-314848462-16x9.jpg?VersionId=fxxvzeQ5hzsFT4ZeWYnnRPHx9RG8WD0Y",
+            "publishedAt": "2026-06-29T00:19:57Z",
             "lang": "en",
             "source": {
-                "id": "4300aa22a5f803b09a37ff0632b44685",
-                "name": "The daily Star",
-                "url": "https://www.dailystar.co.uk",
-                "country": "gb"
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
             }
         },
         {
-            "id": "6ddc0db87f682e07f580c9167e19fe92",
-            "title": "US Govt to Vet Sharing AI Models: Cos",
-            "description": "ChatGPT maker OpenAI said it is restricting the release of its new artificial intelligence model at the request of US President Donald Trump's administration, the latest in an unprecedented government vetting of AI products for cybersecurity risks.",
-            "content": "Synopsis\nChatGPT maker OpenAI said it is restricting the release of its new artificial intelligence model at the request of US President Donald Trump's administration, the latest in an unprecedented government vetting of AI products for cybersecurity... [1076 chars]",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jun/28/sunet-front/us-govt-to-vet-sharing-ai-models-cos/articleshow/132042209.cms",
-            "image": "https://img.etimg.com/thumb/msid-132043133,width-1200,height-630,imgsize-53598,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-06-27T21:33:00Z",
+            "id": "b413749b703247937241ba1044d5efbf",
+            "title": "Tech equity sales renew AI debt-binge worries",
+            "description": "Tech giants are aggressively selling stock, raising billions, signaling a potential spending spree. While this boosts balance sheets, it also suggests increased borrowing and capital expenditure, particularly for AI infrastructure. Investors are wary, as recent bond performance indicates concerns about future debt burdens and the sustainability of these massive investments in a historically volatile industry.",
+            "content": "Synopsis\nTech giants are aggressively selling stock, raising billions, signaling a potential spending spree. While this boosts balance sheets, it also suggests increased borrowing and capital expenditure, particularly for AI infrastructure. Investors... [4855 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/tech-equity-sales-renew-ai-debt-binge-worries/articleshow/132060625.cms",
+            "image": "https://img.etimg.com/thumb/msid-132060623,width-1200,height-630,imgsize-110778,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-06-29T00:19:00Z",
             "lang": "en",
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -39,131 +39,131 @@
             }
         },
         {
-            "id": "7882a746fedf0bdedad6a53b27b7a363",
-            "title": "Big AI Had a Point When It Said It Needed to Be Told What Is Not Okay",
-            "description": "We live squarely in the time the AI CEOs were warning us about.",
-            "content": "A new report from Politico makes fascinating, if somewhat amusing, reading right now. It sounds like Big AI wants the Trump Administration to speak in a clear voice about what’s not okay, and broadly thinks it was inevitable that it would eventually ... [6837 chars]",
-            "url": "https://gizmodo.com/big-ai-had-a-point-when-it-said-it-needed-to-be-told-what-is-not-okay-2000778677",
-            "image": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-06-27T21:25:37Z",
+            "id": "601e1312573bbb814c930cb2ff5da471",
+            "title": "‘These Points Stand Out,’ Says UBS on Palantir Stock",
+            "description": "Few would have predicted not long ago that Palantir (NASDAQ:PLTR) would become one of the AI sector’s laggards. While the shares rebounded about...",
+            "content": "Few would have predicted not long ago that Palantir (NASDAQ:PLTR) would become one of the AI sector’s laggards. While the shares rebounded about 5% on Friday to snap a seven-session losing streak, they remain down 36% year-to-date, weighed down by co... [3300 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/these-points-stand-out-says-ubs-on-palantir-stock-1036281600",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/06/image-2751-1024x542.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-06-29T00:16:39Z",
             "lang": "en",
             "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
                 "country": "us"
             }
         },
         {
-            "id": "409aed7348956db43c377aa0f21fae65",
-            "title": "Wack 100 & Blueface Claim Footage Of Blue & Chrisean Rock Reuniting Is Fake",
-            "description": "Folks warned Blueface and Chrisean Rock of returning to their notoriously toxic relationship dynamic, but Wack 100 thinks it's all AI.",
-            "content": "Chrisean Rock seems to be done with Blueface yet again, as she recently started the process of removing her tattoo of him. However, new footage caught by The Neighborhood Talk and Livebitez on Instagram seemingly shows the couple on a Catalina Island... [1181 chars]",
-            "url": "https://www.hotnewhiphop.com/1000126-wack-100-claims-footage-blueface-chrisean-rock-reuniting-fake",
-            "image": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/06/Wack-100-Claims-Footage-Blueface-Chrisean-Rock-Reuniting-Fake-scaled.jpg",
-            "publishedAt": "2026-06-27T21:16:13Z",
+            "id": "6be331fb226680a843cbf100da720802",
+            "title": "WIRobotics Begins Building a Physical AI Development Ecosystem: The First Technology Release Features the ALLEX Simulation Model",
+            "description": "29.06.2026 - EQS-News: WIRobotics / Key word(s): Product Launch WIRobotics Begins Building a Physical AI Development Ecosystem: The First Technology Release Features the ALLEX Simulation Model 29.06.2026 / 02:05 CET/CEST The issuer is solely responsible for ... Seite 1",
+            "content": "WIRobotics plans to gradually release the core technologies developed throughout its humanoid robot program to researchers and developers. As the first technology release, the company has unveiled the simulation model of its humanoid robot, ALLEX, to... [1580 chars]",
+            "url": "https://www.wallstreet-online.de/nachricht/21049716-eqs-news-wirobotics-begins-building-a-physical-ai-development-ecosystem-the-first-technology-release-features-the-allex-simulation-model",
+            "image": "https://assets.wallstreet-online.de/_media/6/source1280/size_645/eqs-group-1280.png",
+            "publishedAt": "2026-06-29T00:10:02Z",
             "lang": "en",
             "source": {
-                "id": "abab8062417cb9b02ead633cc01bfb99",
-                "name": "HotNewHipHop",
-                "url": "https://www.hotnewhiphop.com",
+                "id": "4ddba5324f2e0216fa6458240fdb0f97",
+                "name": "Wallstreet Online",
+                "url": "https://www.wallstreet-online.de",
+                "country": "de"
+            }
+        },
+        {
+            "id": "2d7815836e86eb52190042184794ca1f",
+            "title": "HP Inc. Launches Frontier Strategic Partnership with OpenAI to Fuel Customer-Facing Experiences and Transform Internal Operations",
+            "description": "29.06.2026 - News Highlights:  HP Inc. will deploy powerful AI-driven solutions with OpenAI Frontier to help drive HP transformation and growth initiatives The Frontier platform will be used across HP’s business, to enhance customer-facing experiences and ... Seite 1",
+            "content": "News Highlights:\nHP Inc. will deploy powerful AI-driven solutions with OpenAI Frontier to help drive HP transformation and growth initiatives\nThe Frontier platform will be used across HP’s business, to enhance customer-facing experiences and internal... [1992 chars]",
+            "url": "https://www.wallstreet-online.de/nachricht/21049713-hp-inc-launches-frontier-strategic-partnership-with-openai-to-fuel-customer-facing-experiences-and-transform-internal-operations",
+            "image": "https://assets.wallstreet-online.de/_media/6/source1280/size_645/globenewswire-1280.png",
+            "publishedAt": "2026-06-29T00:05:34Z",
+            "lang": "en",
+            "source": {
+                "id": "4ddba5324f2e0216fa6458240fdb0f97",
+                "name": "Wallstreet Online",
+                "url": "https://www.wallstreet-online.de",
+                "country": "de"
+            }
+        },
+        {
+            "id": "db053731a4dd3d8296b3486534914ad0",
+            "title": "Why brokers believe China’s AI-driven stock run will find fresh legs",
+            "description": "Domestic and global banks put markers down on equity growth based on stronger earnings, exposure to energy transition.",
+            "content": "Chinese stocks may extend their gains in the second half of the year as resilient exports and recovering producer prices support economic growth while disruption from high oil prices fades, according to brokerages at home and abroad.\nAverage full-yea... [1836 chars]",
+            "url": "https://www.scmp.com/business/china-business/article/3358503/why-brokers-believe-chinas-ai-driven-stock-run-will-find-fresh-legs",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/26/e7ee5ef8-bdb3-4322-8172-bc22f535ec0d_73d45890.jpg?itok=25RlZn7p&v=1782465306",
+            "publishedAt": "2026-06-29T00:00:11Z",
+            "lang": "en",
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            }
+        },
+        {
+            "id": "8837164c3dc9c6aa3bcf98f2b3f6eeb8",
+            "title": "The many faces of creativity",
+            "description": "While AI and technology dominated conversations at Cannes 2026, most big winning campaigns were rooted in human and cultural insights",
+            "content": "Despite that, several of the big winning campaigns such as the KitKat Heist, Wikifarmer’s Wedding Rice, AXA’s Three Words and Heineken’s Pub that Refused to Die and Adidas’ Supernova Adaptive underscored the role of culture and human insights in impa... [3615 chars]",
+            "url": "https://www.financialexpress.com/business/brandwagon/the-many-faces-of-creativity/4278142/",
+            "image": "https://images.financialexpressdigital.com/2026/06/brand-ww.jpg",
+            "publishedAt": "2026-06-29T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "b597efd4fa30997a2bee278c99bfe088",
+            "title": "QuickCheck: Can criminals use AI to steal your fingerprints from your online photos?",
+            "description": "EVERY time Malaysians flash a peace sign for a selfie, pose for a group photo or upload a picture to Instagram, they are putting more of themselves online than they might realise.",
+            "content": "EVERY time Malaysians flash a peace sign for a selfie, pose for a group photo or upload a picture to Instagram, they are putting more of themselves online than they might realise.\nThe question is whether that digital trail is enough for criminals to ... [4319 chars]",
+            "url": "https://www.thestar.com.my/news/true-or-not/2026/06/29/quickcheck-can-criminals-use-ai-to-steal-your-fingerprints-from-your-online-photos",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/06/26/3978159.jpeg",
+            "publishedAt": "2026-06-29T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "e1da15a68355f9f97a4137c0a6c3fb9e",
+            "title": "HP Inc. Launches Frontier Strategic Partnership with OpenAI",
+            "description": "News Highlights:  HP Inc. will deploy powerful AI-driven solutions with OpenAI Frontier to help drive HP transformation and growth initiatives The...",
+            "content": "News Highlights:\nHP Inc. will deploy powerful AI-driven solutions with OpenAI Frontier to help drive HP transformation and growth initiatives\nThe Frontier platform will be used across HP’s business, to enhance customer-facing experiences and internal... [6251 chars]",
+            "url": "https://www.globenewswire.com/news-release/2026/06/29/3318623/0/en/hp-inc-launches-frontier-strategic-partnership-with-openai-to-fuel-customer-facing-experiences-and-transform-internal-operations.html",
+            "image": "https://ml.globenewswire.com/Resource/Download/d2df86df-608b-40f2-b3ed-5fcb32d36d56",
+            "publishedAt": "2026-06-29T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
                 "country": "us"
             }
         },
         {
-            "id": "c8e98866cb1b6df7c19b6c0006717a73",
-            "title": "A tale of 2 robots: How AI heals lonely seniors and harms vulnerable teens",
-            "description": "AI companions can reduce loneliness for seniors or prove lethal for teenagers. The difference lies in whether the machine points us back toward human life or replaces it",
-            "content": "Last month, Pennsylvania sued Character.AI to stop its chatbots from posing as doctors. A bot on the platform had told a state investigator it was a licensed psychiatrist, down to a fabricated Pennsylvania medical license number, in what the state de... [6818 chars]",
-            "url": "https://www.deseret.com/opinion/2026/06/27/chatbots-replacing-people-or-connecting-with-them/",
-            "image": "https://www.deseret.com/resizer/v2/VUI3LKYSIJD4ROTXB7PZSNA724.jpeg?focal=0%2C0&auth=255e09f6859a744fba8ccadee29f4dd1652b8652ff7c0f31913341fe7bae5b91&width=630&height=331",
-            "publishedAt": "2026-06-27T21:04:21Z",
+            "id": "9ce8a5505111487a933d2c25a5188190",
+            "title": "GOKO M6 Successfully Debut at Spoga+gafa 2026, Showcasing the Next Step in AI-Powered Robotic Lawn Care",
+            "description": "Cologne, Germany, June 28, 2026 (GLOBE NEWSWIRE) -- GOKO announced that its AI-powered 4WD robotic lawn mower, the GOKO M6, made a successful appearance at Spoga+gafa 2026, where it drew strong attention from industry visitors, partners, and lawn care professionals. Showcasing advanced terrain adaptability, AI-powered Quad Vision, RTK + VSLAM navigation, and large-area mowing capability, the GOKO M6 highlighted a growing shift in the robotic lawn care market: homeowners are no longer looking for basic mower automation alone, but for intelligent robotic solutions capable of handling the real conditions of modern residential lawns.",
+            "content": "Cologne, Germany, June 28, 2026 (GLOBE NEWSWIRE) -- GOKO announced that its AI-powered 4WD robotic lawn mower, the GOKO M6, made a successful appearance at Spoga+gafa 2026, where it drew strong attention from industry visitors, partners, and lawn car... [6134 chars]",
+            "url": "https://www.manilatimes.net/2026/06/29/tmt-newswire/globenewswire/goko-m6-successfully-debut-at-spogagafa-2026-showcasing-the-next-step-in-ai-powered-robotic-lawn-care/2374439",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/29/1116810.png",
+            "publishedAt": "2026-06-28T23:58:11Z",
             "lang": "en",
             "source": {
-                "id": "aaa6f2928e430ec2ed450ed89cc822f5",
-                "name": "Salt Lake City Deseret News",
-                "url": "https://www.deseret.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "694d051edeabaa9cc2ad685ed46ee2c5",
-            "title": "The danger of confusing AI mental health support with therapy",
-            "description": "In a recent episode of British sitcom Amandaland, Anne Flynn turns to ChatGPT for help talking to her teenage son about sex. The episode frames this as \"The Chat\": the awkward parent-child conversation many adults dread.",
-            "content": "In a recent episode of British sitcom Amandaland, Anne Flynn turns to ChatGPT for help talking to her teenage son about sex. The episode frames this as \"The Chat\": the awkward parent-child conversation many adults dread.\nWhat Anne is doing on screen ... [5819 chars]",
-            "url": "https://medicalxpress.com/news/2026-06-danger-ai-mental-health-therapy.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/therapy-2.jpg",
-            "publishedAt": "2026-06-27T21:00:05Z",
-            "lang": "en",
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "266b501ea235acfeb21a3d4e66a1d1a8",
-            "title": "AI leads Singapore's infectious disease fight",
-            "description": "Discover how Singapore's Communicable Diseases Agency is leveraging AI for advanced disease surveillance and outbreak response. Read more at straitstimes.com.",
-            "content": "SINGAPORE - With the risk of another pandemic ever-present, the Communicable Diseases Agency (CDA) is exploring the use of artificial intelligence (AI) in disease surveillance, said CDA chief executive officer Vernon Lee.\nThe technology can complemen... [6098 chars]",
-            "url": "https://www.straitstimes.com/singapore/health/diseases-unfortunately-do-not-sleep-how-cda-is-using-ai-to-lead-spores-infectious-diseases-fight",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d51deb40bb40704ba0a0d78cace6293dd3b584b600894bae63eab3e867485dba",
-            "publishedAt": "2026-06-27T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "3ba16e5db7853edd5c8cd14ab7b2d893",
-            "title": "China Is Quietly Winning the Clean Energy Trade War",
-            "description": "China's solar panel and battery exports to the US are surging as the Iran war and AI's energy demands reshape global supply chains.",
-            "content": "China’s clean energy dominance is growing. Buoyed by the skyrocketing energy needs and future projected demands of the artificial intelligence boom, clean energy projects are getting greenlit at a breakneck pace. And those projects depend on cheap Ch... [4047 chars]",
-            "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/China-Is-Quietly-Winning-the-Clean-Energy-Trade-War.html",
-            "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-            "publishedAt": "2026-06-27T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
-                "name": "OilPrice",
-                "url": "https://oilprice.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "262e6ea6d3f8ff345fba38d41e2110aa",
-            "title": "AI-equipped cleaning robot designed for offices",
-            "description": "Iris Ohyama will release on Wednesday \"JILBY,\" a cleaning robot designed for corporate clients. JILBY is an acronym derived from the words \"Job,\" \"Intelligence,\" \"Labor,\" \"Bot,\" and \"Your Side.\" Its design incorporates feedback from corporate users, featuring attributes such as quiet operation, high cleaning performance, and user-friendly controls with…",
-            "content": "Iris Ohyama will release on Wednesday \"JILBY,\" a cleaning robot designed for corporate clients.\nJILBY is an acronym derived from the words \"Job,\" \"Intelligence,\" \"Labor,\" \"Bot,\" and \"Your Side.\" Its design incorporates feedback from corporate users, ... [577 chars]",
-            "url": "https://japantoday.com/category/features/new-products/ai-equipped-cleaning-robot-designed-for-offices",
-            "image": "https://media.japantoday.com/img/store/7d/c2/794f6db6f7dc096a1aa0f5ada2cfe2e9d09b/screenshot-2026-06-27-at-11-27-42/_w1700.png",
-            "publishedAt": "2026-06-27T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "6a08cd8c9baa024cfe89dc784c9218ee",
-            "title": "Balochistan Governor urges universities to introduce AI-based curriculum",
-            "description": "KARACHI  - Governor Balochistan, Jaffar Khan Mandokhail, has directed all vice chancellors of public sector univer-sities to immediately introduce artificial",
-            "content": "KARACHI - Governor Balochistan, Jaffar Khan Mandokhail, has directed all vice chancellors of public sector univer-sities to immediately introduce artificial intelligence (AI)–based curricula and align academic programs with the evolving demands of th... [2124 chars]",
-            "url": "https://www.nation.com.pk/28-Jun-2026/balochistan-governor-urges-universities-introduce-ai-based-curriculum",
-            "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-            "publishedAt": "2026-06-27T20:51:00Z",
-            "lang": "en",
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         }
     ]
