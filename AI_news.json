@@ -4,112 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 380215,
+    "totalArticles": 381262,
     "articles": [
         {
-            "id": "4f811cc252bdc982b1b6fbb1026680bc",
-            "title": "Sakeena urges academic leaders to embrace AI with responsibility & ethical values",
-            "description": "Excelsior Correspondent SRINAGAR, June 30: Minister for Education, Social Welfare, Health and Medical Education, Sakeena Itoo today urged the academic leaders to embrace Artificial Intelligence (AI) with responsibility and ethical values, adding that AI is reshaping education, governance and virtually...",
-            "content": "Excelsior Correspondent\nSRINAGAR, June 30: Minister for Education, Social Welfare, Health and Medical Education, Sakeena Itoo today urged the academic leaders to embrace Artificial Intelligence (AI) with responsibility and ethical values, adding that... [2664 chars]",
-            "url": "https://www.dailyexcelsior.com/sakeena-urges-academic-leaders-to-embrace-ai-with-responsibility-ethical-values/",
-            "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWZhZWRmYzQwLTc0ZDYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-06-30T22:56:06Z",
-            "lang": "en",
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "ede63c741b2453c5216b3c80c6409ea0",
-            "title": "Pentagon approves first autonomous vehicle deal for Marine Corps",
-            "description": "Overland AI won a Marine Corps production contract to deliver autonomous ground vehicles for the MADIS air defense program by early 2027.",
-            "content": "Overland AI has secured a $19.7 million production agreement with the U.S. Marine Corps to supply autonomous ground vehicles for the Marine Air Defense Integrated System (MADIS), marking a significant step toward deploying fully autonomous vehicles i... [3314 chars]",
-            "url": "https://interestingengineering.com/military/marine-corps-autonomous-ground-vehicles",
-            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/Untitled-design-39-1.jpg",
-            "publishedAt": "2026-06-30T22:51:17Z",
-            "lang": "en",
-            "source": {
-                "id": "1a6c3258d04827f52d40713ad8166b1b",
-                "name": "Interesting Engineering",
-                "url": "https://interestingengineering.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e4bbf361244fdc16f8549a7c7ba14544",
-            "title": "Google Drive’s Ask Gemini and AI Overviews come to Android",
-            "description": "After debuting on the web earlier this year, Google Drive is bringing Ask Gemini and AI Overviews to mobile.",
-            "content": "After debuting on the web earlier this year, Google Drive is bringing Ask Gemini and AI Overviews to mobile.\nAsk Gemini brings the side panel to Google Drive for Android and iOS. Appearing to the right of the search bar, you can have “multi-turn conv... [2220 chars]",
-            "url": "https://9to5google.com/2026/06/30/google-drive-ask-gemini-android-ios/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-drive-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2026-06-30T22:50:35Z",
-            "lang": "en",
-            "source": {
-                "id": "151292b021d31d91d452f04b0b225727",
-                "name": "9to5Google",
-                "url": "https://9to5google.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "5d6580906ee12ead3c7f84d14617c85f",
-            "title": "US must innovate faster to counter China’s tech rise, lawmakers told",
-            "description": "Witnesses urge investment in AI, robotics and chips, warning US research cuts risk eroding America’s technological edge.",
-            "content": "A US congressional hearing on Tuesday urged the United States to innovate faster, smarter and better to counter China’s growing technological muscle, even as several lawmakers slammed the US President Donald Trump administration for policies they sai... [932 chars]",
-            "url": "https://www.scmp.com/news/us/article/3358957/us-must-innovate-faster-counter-chinas-tech-rise-lawmakers-told",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/01/472b8cc8-d4c7-426b-bb09-ce7ce9f4cf66_7272a670.png?itok=jR-FlZIK&v=1782859038",
-            "publishedAt": "2026-06-30T22:37:19Z",
-            "lang": "en",
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            }
-        },
-        {
-            "id": "2b6a7eaa888823441b621376546fd7a3",
-            "title": "U.S. Eases Export Controls on Fable 5 AI: A New Era for Anthropic",
-            "description": "The U.S. Commerce Department plans to lift export controls on Anthropic's Fable 5 AI model, as reported by Politico. A senior White House official confirmed the decision, marking a significant policy shift. This move could potentially expand the global market reach for Anthropic's groundbreaking AI technology.",
-            "content": "The U.S. Commerce Department is set to lift export controls on Anthropic's Fable 5 AI model, according to a report by Politico. A senior White House official confirmed the anticipated policy change, which is scheduled for implementation on Tuesday.\nT... [482 chars]",
-            "url": "https://www.devdiscourse.com/article/technology/3943311-us-eases-export-controls-on-fable-5-ai-a-new-era-for-anthropic",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png&width=920&format=jpeg",
-            "publishedAt": "2026-06-30T22:26:39Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "987ab5bdcc6a07a34d1628f8252ce87c",
-            "title": "Jim Cramer says the AI trade has shifted - and these stocks are leading now",
-            "description": "CNBC's Jim Cramer said Wall Street is rewarding the companies supplying the artificial intelligence boom rather than the technology giants funding it.",
-            "content": "CNBC's Jim Cramer on Tuesday offered up a straightforward framework for Wall Street's current approach to the artificial intelligence trade.\n\"Wall Street's now rewarding tech companies with products in high demand and punishing their customers,\" the ... [2389 chars]",
-            "url": "https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/106692661-1599449811224-gettyimages-1267327926-pre_9603.jpeg?v=1732626619&w=1920&h=1080",
-            "publishedAt": "2026-06-30T22:24:43Z",
-            "lang": "en",
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e09e1a59906003d04bd83d395c424eb0",
-            "title": "Economy, AI, defence ties in focus at India-Japan Summit",
-            "description": "Economic security, AI cooperation, and defense strategies will headline the India-Japan Summit, with discussions on resilient supply chains and energy diversification. | India News",
-            "content": "Economic security, including the creation of resilient supply chains for semiconductors, energy security, enhanced cooperation on artificial intelligence and a greater focus on defence and security are expected to top the agenda for the annual India-... [3103 chars]",
-            "url": "https://www.hindustantimes.com/india-news/economy-ai-defence-ties-in-focus-at-india-japan-summit-101782846394173.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/550x309/ht-generic_india1_1751287243850_1751287256749.jpg",
-            "publishedAt": "2026-06-30T22:20:13Z",
+            "id": "c97c3e769e0dbc19415e78a5fd5e15a1",
+            "title": "‘It's an honor’: Trump interacts with AI-powered Theodore Roosevelt avatar during library visit; watch",
+            "description": "A viral video shows President Trump interacting with an AI-powered Theodore Roosevelt avatar at the Roosevelt Library in North Dakota.",
+            "content": "Trump first toured the library and then gave a speech outside the 96,000-square-foot facility built with a budget of $450 million. Trump honored the 26th US President by comparing Roosevelt to himself. Trump claimed, like him, Roosevelt had a \"freaki... [1163 chars]",
+            "url": "https://www.hindustantimes.com/world-news/us-news/its-an-honor-trump-interacts-with-ai-powered-theodore-roosevelt-avatar-during-library-visit-watch-101782940842536.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/07/01/550x309/Trump_Roosevelt_1782940836125_1782940836259_ab3d42fb-4c1e-4edb-8e5c-ee7de5078ebc.JPG",
+            "publishedAt": "2026-07-01T22:11:41Z",
             "lang": "en",
             "source": {
                 "id": "21468bec836de1ebb209ff6f78fbfe3e",
@@ -119,51 +23,147 @@
             }
         },
         {
-            "id": "c0b5a8a08a78621d35e083b452100579",
-            "title": "Many Analysts Expected AI To Replace Workers. New Company Data Tells A Different Story.",
-            "description": "Businesses making the largest investments in artificial intelligence expanded their workforces faster than comparable companies after adopting the technology, according to new research.",
-            "content": "Businesses making the largest investments in artificial intelligence expanded their workforces faster than comparable companies after adopting the technology, according to new research released Tuesday.\nThe findings add fresh data to one of the bigge... [4113 chars]",
-            "url": "https://www.ibtimes.com/many-analysts-expected-ai-replace-workers-new-company-data-tells-different-story-3804750",
-            "image": "https://d.ibtimes.com/en/full/4573350/artificial-intelligence.jpg",
-            "publishedAt": "2026-06-30T22:17:01Z",
+            "id": "db9415e4dbc0b7c634dc56504e503efa",
+            "title": "CNA Explains: Why AI stocks are whipsawing markets from Wall Street to Seoul",
+            "description": "Are recent tech sell-offs a cause for concern, and is an AI bubble forming?",
+            "content": "SINGAPORE: Tech stocks have been swinging sharply in recent weeks, as investors weigh the promise of artificial intelligence against concerns over lofty valuations and returns on massive spending.\nThe volatility has rippled across global markets - fr... [4317 chars]",
+            "url": "https://www.channelnewsasia.com/singapore/ai-stocks-sell-tech-bubble-wall-street-kospi-6224231",
+            "image": "https://dam.mediacorp.sg/image/upload/s--CdhH5jb7--/c_crop,h_450,w_800,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-01T135448Z_2_LYNXMPEM402MF_RTROPTP_3_USA-STOCKS.JPG?itok=2Qh5g-c_",
+            "publishedAt": "2026-07-01T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "e9f142314f27c0c09ced6f3e74b46c5c",
+            "title": "Commentary: The true cost of AI scams isn’t financial - it's human",
+            "description": "Governments and international organisations need to be more actively involved in how AI technology develops and to what purpose, says veteran newspaper editor Han Fook Kwang.",
+            "content": "SINGAPORE: I was recently the subject of a piece of fake news in a scam to entice unsuspecting readers to part with their money.\nThe scammers published a completely fabricated story of me interviewing former transport minister S Iswaran after his rel... [6400 chars]",
+            "url": "https://www.channelnewsasia.com/commentary/ai-deepfake-iswaran-interview-scam-cost-6224366",
+            "image": "https://dam.mediacorp.sg/image/upload/s--rDhaLWhC--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2024/12/20/istock-1744769333.jpg?itok=NfuCdPi1",
+            "publishedAt": "2026-07-01T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "9e7d8e8fc5825946bcb1aa4b0141fa70",
+            "title": "Commentary: World Cup propels surveillance to new heights",
+            "description": "AI-driven surveillance is playing a major role across the World Cup, says this academic.",
+            "content": "RICHMOND, Virginia: The 2026 FIFA World Cup is the largest sporting event in history. It’s also the most surveilled World Cup ever. If you’re visiting or travelling around host cities, then you and your face, behaviour, movement and devices are being... [5948 chars]",
+            "url": "https://www.channelnewsasia.com/commentary/world-cup-surveillance-technology-us-stadium-6224326",
+            "image": "https://dam.mediacorp.sg/image/upload/s--ZN9-KCAp--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-07T131056Z_1_LYNXMPEM5608Y_RTROPTP_3_SOCCER-WORLDCUP-IRN-ARRIVAL.JPG?itok=FccbqyD1",
+            "publishedAt": "2026-07-01T21:58:00Z",
+            "lang": "en",
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "920b7efeae4a04d2454a2a1ca00bafc3",
+            "title": "TESLA and SPACEX Can Get100 GIGAWATTS of Power for AI Data Centers Using Modular Power and AI",
+            "description": "Duke \"Rethinking Load Growth\" reports that having a flexible energy demand during 3 peak hours unlocks 20% more overall power. Curtailing just ~0.5–1% of",
+            "content": "Duke “Rethinking Load Growth” reports that having a flexible energy demand during 3 peak hours unlocks 20% more overall power. Curtailing just ~0.5–1% of annual energy could unlock on the order of 76–100 GW of new load on today’s US grid.\nThis is how... [597 chars]",
+            "url": "https://www.nextbigfuture.com/2026/07/tesla-and-spacex-can-get100-gigawatts-of-power-for-ai-data-centers-using-modular-power-and-ai.html",
+            "image": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/07/Screenshot-2026-07-01-at-2.52.41-PM.jpg",
+            "publishedAt": "2026-07-01T21:55:31Z",
+            "lang": "en",
+            "source": {
+                "id": "21cef40ac6c3ef9110c7f509a6f6e7f6",
+                "name": "NextBigFuture.com",
+                "url": "https://www.nextbigfuture.com",
                 "country": "us"
             }
         },
         {
-            "id": "a88acf4dc7684cb576a3664072e3633a",
-            "title": "A golden ticket for AI: Netflix re-creates Gene Wilder’s voice for new ‘Willy Wonka’ show",
-            "description": "The streamer said it received the consent of the late actor’s estate for its new competition series, which will debut in September.",
-            "content": "Call it pure AI-magination.\nOn Tuesday, Netflix unveiled the trailer for its new Willy Wonka-themed competition show, which features a re-creation of Gene Wilder’s voice. Wilder, who died in 2016 at age 83, was known for his role as the eccentric can... [3491 chars]",
-            "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/gene-wilder-ai-voice-netflix-willy-wonka-competiton-show-rcna352440",
-            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260630-Gene-Wilder-ch-1526-55a93b.jpg",
-            "publishedAt": "2026-06-30T22:16:46Z",
+            "id": "dc5a8e5b40bed7ce89a4f70b4198e85d",
+            "title": "Anker’s Liberty 5 Pro: The Three-Year Gamble On Custom Earbud Silicon",
+            "description": "With the launch of the Liberty 5 Pro and 5 Pro Max, Anker introduces its first audio product powered by its new Thus AI chipset. What opportunities does this open up?",
+            "content": "Anker’s latest wireless earbuds, the Soundcore-branded Liberty 5 Pro and Liberty 5 Pro Max, sport improved noise cancellation, personalized sound and the company’s new AI-powered Thus chip for audio processing. They also hold the Guiness World Record... [4632 chars]",
+            "url": "https://www.forbes.com/sites/ewanspence/2026/07/01/anker-soundcore-liberty-5-pro-custom-silicon-ai-earbuds/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a458a97a7d14da31a9125cc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-07-01T21:54:56Z",
             "lang": "en",
             "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
                 "country": "us"
             }
         },
         {
-            "id": "dde9b87e7c5b85df05d0fcc3ced9704e",
-            "title": "Quantum eMotion to Sponsor AI for Good Global Summit and Participate in Cybersecurity Panel",
-            "description": "01.07.2026 - Montreal, Quebec--(Newsfile Corp. - June 30, 2026) - Quantum eMotion Corp. (TSXV: QNC) (NYSE American: QNC) (FSE: 34Q0) ('QeM' or the 'Company'), a leader in quantum-secure cybersecurity solutions, is pleased to announce its participation as a ... Seite 1",
-            "content": "Montreal, Quebec--(Newsfile Corp. - June 30, 2026) - Quantum eMotion Corp. (TSXV: QNC) (NYSE American: QNC) (FSE: 34Q0) (\"QeM\" or the \"Company\"), a leader in quantum-secure cybersecurity solutions, is pleased to announce its participation as a sponso... [2339 chars]",
-            "url": "https://www.wallstreet-online.de/nachricht/21059745-quantum-emotion-to-sponsor-ai-for-good-global-summit-and-participate-cybersecurity-panel",
-            "image": "https://assets.wallstreet-online.de/_media/3129/unternehmen/branchen/hardware/size_645/adobestock-1279069413.jpeg",
-            "publishedAt": "2026-06-30T22:16:21Z",
+            "id": "d2143a02ba89486819e88f4d092e8528",
+            "title": "AI Spending Is Boosting Bank Stocks, Not Hurting Bond Markets",
+            "description": "AI borrowing is surging, but investors say it's not disrupting the bond market. Instead, banks are benefiting from the financing boom.",
+            "content": "Wall Street is finding out just how deep its pockets really are.\nGoldman Sachs estimates hyperscalers such as Microsoft, Amazon, Alphabet and Meta will spend about $5.3 trillion on AI infrastructure through 2030. Barclays analysts expect those compan... [4053 chars]",
+            "url": "https://www.forbes.com/sites/brandonkochkodin/2026/07/01/why-the-ai-credit-rush-isnt-hurting-the-bond-market-but-is-boosting-bank-stocks/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a4589c8286a8d67cd6ee505/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-07-01T21:50:56Z",
             "lang": "en",
             "source": {
-                "id": "4ddba5324f2e0216fa6458240fdb0f97",
-                "name": "Wallstreet Online",
-                "url": "https://www.wallstreet-online.de",
-                "country": "de"
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0504cec1041960d3ef94ae877845f63b",
+            "title": "In A First, AI Decodes Entire Scroll Scorched In Mt. Vesuvius Eruption",
+            "description": "A full Herculaneum scroll \"unwrapped\" with technology reveals new texts, titles and authors unknown to history and ushers in a new era for the study of the ancient world.",
+            "content": "Using high-resolution X-ray imaging and artificial intelligence, scientists have for the first time virtually unrolled the surviving portion of an entire scroll scorched in the Mount Vesuvius eruption of 79 CE, viewing its contents from beginning to ... [3443 chars]",
+            "url": "https://www.forbes.com/sites/lesliekatz/2026/07/01/in-a-first-ai-decodes-entire-scroll-scorched-in-mt-vesuvius-eruption/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a45869a33c6b3656ed847db/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-07-01T21:46:26Z",
+            "lang": "en",
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "b6ee054b597607886ec9322b7382ab74",
+            "title": "Samsung Chases TSMC With Quantum-Powered Chipmaking as AI Reshapes the Most Critical Step in Fabrication",
+            "description": "Korean chip manufacturing giant Samsung is developing simulation technologies for lithography that rely on quantum computing and artificial intelligence, suggests a report from the Korean press. The technology will be used to run simulations of the first stage of the chip manufacturing process, and Samsung will also rely on artificial intelligence to streamline the process. Through the technology, the firm aims to reduce the time and cost of the lithography and etching processes. Samsung Is Developing Algorithms To Boost Its Photolithography, Say Sources In the semiconductor manufacturing process, lithography is the first and most important step. It involves high-end machines, […]",
+            "content": "Korean chip manufacturing giant Samsung is developing simulation technologies for lithography that rely on quantum computing and artificial intelligence, suggests a report from the Korean press. The technology will be used to run simulations of the f... [2107 chars]",
+            "url": "https://wccftech.com/samsung-chases-tsmc-with-quantum-powered-chipmaking-as-ai-reshapes-the-most-critical-step-in-fabrication/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2023/09/Intel-glass-substrate-3-728x486.jpg",
+            "publishedAt": "2026-07-01T21:39:43Z",
+            "lang": "en",
+            "source": {
+                "id": "9a68172fefded1b86fc9a95d43faf501",
+                "name": "Wccftech",
+                "url": "https://wccftech.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "2f70cdc44d6154faf5b00f6e9e009864",
+            "title": "Trump honors 'freakin' wild life' of Teddy Roosevelt, interacts with AI-powered ex-prez in North Dakota visit",
+            "description": "MEDORA, ND — President Trump paid tribute to Theodore Roosevelt as a “great man\" while cutting the ribbon to his new presidential library in the Dakota Badlands — after interacting with an artificial intelligence-powered hologram of his predecessor.",
+            "content": "MEDORA, ND — President Trump paid tribute to Theodore Roosevelt as a “great man” while cutting the ribbon to his new presidential library in the Dakota Badlands — after interacting with an artificial intelligence-powered hologram of his predecessor.\n... [4759 chars]",
+            "url": "https://nypost.com/2026/07/01/us-news/trump-honors-freakin-wild-life-of-teddy-roosevelt-interacts-with-ai-powered-ex-prez-in-north-dakota-visit/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-j3z38128y-1782939605689.jpg?quality=75&strip=all&1782925216&w=1200",
+            "publishedAt": "2026-07-01T21:36:38Z",
+            "lang": "en",
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
             }
         }
     ]
