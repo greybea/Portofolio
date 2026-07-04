@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 382306,
+    "totalArticles": 382959,
     "articles": [
         {
-            "id": "d454d172eee8bf1377be9e1185b6dd89",
-            "title": "SpaceX Secretly Unveiled New AI Device to Investors. Is It a Phone or Not?",
-            "description": "Though publicly denied by Elon Musk, a new AI device from SpaceX company wouldn't be very surprising.",
-            "content": "The idea of an AI-powered device that's not a smartphone is weird, but not unheard of. According to a report from The Wall Street Journal on Wednesday, SpaceX has already shown investors an early prototype of one.\nThe report says that Elon Musk's Spa... [2094 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/spacex-shows-new-ai-device-investors-phone-rumor/",
-            "image": "https://www.cnet.com/a/img/resize/7e1176030e078bceb92428dc60cadda8e58ee4be/hub/2026/06/11/682a67c1-9097-4fc9-a8b1-87f71971f1dc/3.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-07-02T22:23:20Z",
+            "id": "2321888e445bbe72e7b5f363dd1db751",
+            "title": "Yukon clinics are embracing AI - too quickly, some say",
+            "description": "AI tools have been in use in some Yukon clinics for months— and they’ve become a valuable resource for healthcare providers. But others argue AI has been embraced too quickly, without fully understanding potential impacts on patients.",
+            "content": "Artificial intelligence has been in use in some Yukon clinics for months — and according to the territory’s health department, they’ve already become a valuable resource for health care providers.\nBut others argue governments have embraced AI too qui... [6149 chars]",
+            "url": "https://www.cbc.ca/news/canada/north/yukon-clinics-are-embracing-ai-too-quickly-some-say-9.7256365",
+            "image": "https://i.cbc.ca/ais/72dbea4d-33da-4e6b-b0af-53a413ae81b5,1783033288996/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C1411%2C793%29%3BResize%3D620",
+            "publishedAt": "2026-07-03T21:29:05Z",
             "lang": "en",
             "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "f37cb5c7ce024be3d71650942e069632",
+            "title": "Are Those Fake Books on the New Air Force One AI-Generated?",
+            "description": "The books are somehow both real and fake at the same time.",
+            "content": "White House Press Secretary Karoline Leavitt posted a photo to X on Wednesday from the new Air Force One, a plane gifted to President Donald Trump from the government of Qatar, despite anti-bribery rules intended to stop that kind of transaction.\nBla... [2790 chars]",
+            "url": "https://gizmodo.com/are-those-fake-books-on-the-new-air-force-one-ai-generated-2000780884",
+            "image": "https://gizmodo.com/app/uploads/2026/07/karoline-leavitt-circle-1200x675.jpg",
+            "publishedAt": "2026-07-03T21:20:55Z",
+            "lang": "en",
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
                 "country": "us"
             }
         },
         {
-            "id": "0609e73ce3f723108419ae59a54d8b20",
-            "title": "Venture Capital & Startup Funding Roundup, July 2, 2026",
-            "description": "It's Thursday, July 2, 2026, and today's funding activity makes one thing clear: investors are no longer just betting on AI—they're funding the infrastructure, hardware, and specialized technologies needed to build the next generation of intelligent systems. If today's funding activity is any indication, venture capital is becoming increasingly selective about where it places billion-dollar",
-            "content": "It’s Thursday, July 2, 2026, and today’s funding activity makes one thing clear: investors are no longer just betting on AI—they’re funding the infrastructure, hardware, and specialized technologies needed to build the next generation of intelligent ... [39588 chars]",
-            "url": "https://techstartups.com/2026/07/02/venture-capital-startup-funding-roundup-july-2-2026/",
-            "image": "https://techstartups.com/wp-content/uploads/2026/07/CarbonSix-Founders.jpg",
-            "publishedAt": "2026-07-02T22:20:46Z",
+            "id": "eeb0f69b3cf9f1b86a6b14e70444304a",
+            "title": "The only AI glossary you'll need this year",
+            "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+            "content": "Artificial intelligence is rewriting the world, and simultaneously inventing a whole new language to describe how it’s doing it. Sit in on any product meeting, pitch, or panel these days, and you’ll hear people toss around LLMs, RAG, RLHF, and a doze... [22930 chars]",
+            "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
+            "publishedAt": "2026-07-03T21:20:00Z",
             "lang": "en",
             "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
                 "country": "us"
             }
         },
         {
-            "id": "fe952478004276ef9180d87624c32384",
-            "title": "Zuckerberg Said AI Agent Progress Has Been Slower Than Expected",
-            "description": "Superintelligence will take time, Zuckerberg tells Meta staff, as the company makes its AI training program opt-in after a data leak.",
-            "content": "Superintelligence at Meta is coming. But it's going to take a bit of time and elbow grease, first.\nThat's what the company's CEO Mark Zuckerberg told employees at an internal town hall on Thursday, according to two sources who listened in.\nMeta is po... [2268 chars]",
-            "url": "https://www.businessinsider.com/zuckerberg-said-metas-ai-progress-has-been-slower-than-expected-2026-7",
-            "image": "https://i.insider.com/6a46e11865e65d39ff1c947c?width=1150&format=jpeg",
-            "publishedAt": "2026-07-02T22:13:05Z",
+            "id": "0f28035db674f4008b2af133cb017f2b",
+            "title": "Meta to release new AI model with advanced coding capabilities ‘soon’",
+            "description": "Meta to release new AI model with advanced coding capabilities ‘soon’ - SiliconANGLE",
+            "content": "Meta Platforms Inc. is gearing up to release a new version of its flagship Muse Spark artificial intelligence model.\nAlexandr Wang, the company’s chief AI officer, wrote on X today that the update will roll out “soon.” The announcement came a few hou... [2705 chars]",
+            "url": "https://siliconangle.com/2026/07/03/meta-release-new-ai-model-advanced-coding-capabilities-soon/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Meta-1.png",
+            "publishedAt": "2026-07-03T21:11:32Z",
             "lang": "en",
             "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
                 "country": "us"
             }
         },
         {
-            "id": "f5e138125e656f488c963a5c1eb43f56",
-            "title": "Powered VeYou \"To Become The HBO Of Vertical\"",
-            "description": "'Wednesday' & 'Beetlejuice Beetlejuice' Producer Wants AI-Powered VeYou \"To Become The HBO Of Vertical\"; Soccer Microdrama 'Rival Hearts' Set",
-            "content": "EXCLUSIVE: Beetlejuice Beetlejuice producer Tommy Harper, an exec producer on the first two seasons of Wednesday, has lofty ambitions for fledgling microdrama platform VeYou.\n“We want to become the HBO of vertical,” he tells Deadline of the platform ... [3825 chars]",
-            "url": "https://deadline.com/2026/07/tommy-harper-wants-ai-powered-veyou-become-hbo-of-vertical-1236969589/",
-            "image": "https://deadline.com/wp-content/uploads/2026/06/Tommy-Harper.jpg?w=1024",
-            "publishedAt": "2026-07-02T22:08:08Z",
+            "id": "d011a50402507cbe9ebf2fca97f4d64c",
+            "title": "NASA and Red Hat are building an AI doctor for astronauts that works without any Earth connection at all",
+            "description": "NASA is testing an offline AI medical system for astronauts",
+            "content": "NASA's AI medical tool works where Earth-based doctors simply cannot reach\nDeep space has no signal — so NASA built its own offline doctor\nRamaLama runs AI models the same way containers run software — predictably\nAstronauts aboard the International ... [3391 chars]",
+            "url": "https://www.techradar.com/pro/nasa-and-red-hat-are-building-an-open-source-medical-system-to-diagnose-sick-astronauts-on-the-iss-could-a-star-trek-tricorder-be-next",
+            "image": "https://cdn.mos.cms.futurecdn.net/Q7TKhesndya4sXxhv3cw6e-1920-80.png",
+            "publishedAt": "2026-07-03T21:05:00Z",
             "lang": "en",
             "source": {
-                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
-                "name": "Deadline",
-                "url": "https://deadline.com",
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "6a5f6fc5e4e603a3250fcb06e0fd8677",
+            "title": "Japan taps Cognition's 'Devin-kun' as legacy code, shrinking workforce opens market for AI coding",
+            "description": "Cognition AI opened its first Asia office in Tokyo earlier this year. \"The country is running on aging infrastructure with a declining workforce.\"",
+            "content": "“Japan was our first or second most popular country in terms of user engagement overall,” said Russell Kaplan, president of Cognition AI, the San Francisco startup behind AI coding tool Devin, in early June.\nThe East Asian country has the world’s old... [5894 chars]",
+            "url": "https://fortune.com/2026/07/03/devin-kun-cognition-ai-japan-russell-kaplan/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2281047894-e1782981473594.jpg?resize=1200,600",
+            "publishedAt": "2026-07-03T21:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
                 "country": "us"
             }
         },
         {
-            "id": "eb52c1f005e912634fdc8b2b61fef24f",
-            "title": "Fact Check Team: Trump moves to limit OpenAI model launch as their involvement grows",
-            "description": "The Trump administration is taking a more direct role in the rollout of advanced artificial intelligence, reportedly stepping in to limit OpenAI’s new model.",
-            "content": "The Trump administration is taking a more direct role in the rollout of advanced artificial intelligence, reportedly stepping in to limit access to OpenAI’s newest ChatGPT model while federal officials review potential national security risks.\nAccord... [2849 chars]",
-            "url": "https://foxbaltimore.com/news/nation-world/fact-check-team-trump-moves-to-limit-openai-model-launch-as-their-involvement-grows-systems-administration-officials-government-artificial-intelligence",
-            "image": "https://foxbaltimore.com/resources/media2/16x9/3000/1320/0x157/90/c6caa01b-5b42-4656-b8b5-ad020c42e778-GettyImages2282033290.jpg",
-            "publishedAt": "2026-07-02T22:05:34Z",
+            "id": "f97ad1a8d84be15cb8bdcd2281c169cc",
+            "title": "Has Technology Ruined The World Cup?",
+            "description": "This comes after FIFA invested years developing tools that combine player tracking, artificial intelligence and ball sensors to reduce human error in crucial moments.",
+            "content": "Soccer has always embraced innovation, albeit reluctantly.\nIn the 1990s, the back-pass rule changed the way teams built from the back. A decade ago, goal-line technology finally settled arguments over whether the ball had crossed the line.\nToday, the... [5224 chars]",
+            "url": "https://www.forbes.com/sites/clementelisi/2026/07/03/has-technology-ruined-the-world-cup/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a481bc9110f8f5cab5c066f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-07-03T20:58:39Z",
             "lang": "en",
             "source": {
-                "id": "9f53afb019d44feb16bcc7da150e679a",
-                "name": "Baltimore News",
-                "url": "https://foxbaltimore.com",
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
                 "country": "us"
             }
         },
         {
-            "id": "11d44be3a9ae12201179a584c63411f4",
-            "title": "Fact Check Team: Trump moves to limit OpenAI model launch as their involvement grows",
-            "description": "The Trump administration is taking a more direct role in the rollout of advanced artificial intelligence, reportedly stepping in to limit OpenAI’s new model.",
-            "content": "The Trump administration is taking a more direct role in the rollout of advanced artificial intelligence, reportedly stepping in to limit access to OpenAI’s newest ChatGPT model while federal officials review potential national security risks.\nAccord... [2849 chars]",
-            "url": "https://wjla.com/news/nation-world/fact-check-team-trump-moves-to-limit-openai-model-launch-as-their-involvement-grows-systems-administration-officials-government-artificial-intelligence",
-            "image": "https://wjla.com/resources/media2/16x9/3000/1320/0x157/90/c6caa01b-5b42-4656-b8b5-ad020c42e778-GettyImages2282033290.jpg",
-            "publishedAt": "2026-07-02T22:05:34Z",
+            "id": "e5124d0fbc689e0c354b19e8123ee268",
+            "title": "Top 10 AI 3D Modeling Platforms for Product Rendering, Structural Design, and Prototyping in 2026",
+            "description": "Momaking is a relevant AI-assisted industrial design option for non-specialist hardware teams that need to move from product visualization",
+            "content": "Share\nShare\nShare\nShare\nEmail\nQuick Answer\nMomaking is a relevant AI-assisted industrial design option for non-specialist hardware teams that need to move from product visualization and preliminary structural support to quotation, 3D printing, CNC pr... [11533 chars]",
+            "url": "https://techbullion.com/top-10-ai-3d-modeling-platforms-for-product-rendering-structural-design-and-prototyping-in-2026/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/07/Screenshot_2026-07-04-01-48-43-34_a1b1bbe5f63d5b96c1a0f87c197ebfae.jpg",
+            "publishedAt": "2026-07-03T20:51:41Z",
             "lang": "en",
             "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "0bfcff906c18483f9c173013d1b0dd40",
+            "title": "Tesla Capped Employee AI Spending At $200 A Week. Uber And Other Companies Are Already Tightening Similar Internal Limits.",
+            "description": "The move reflects growing pressure on companies to monitor and control AI-related expenses as adoption spreads across corporate teams and platforms.",
+            "content": "Tesla has introduced a $200 weekly cap on employee spending for artificial intelligence tools as internal usage of generative systems has risen sharply across engineering and product teams. The policy applies to third-party AI services used through T... [3263 chars]",
+            "url": "https://www.ibtimes.com/tesla-capped-employee-ai-spending-200-week-uber-other-companies-are-already-tightening-similar-3804915",
+            "image": "https://d.ibtimes.com/en/full/4631201/tesla.jpg",
+            "publishedAt": "2026-07-03T20:50:05Z",
+            "lang": "en",
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
                 "country": "us"
             }
         },
         {
-            "id": "cc1ae7571fd7f3681c17d789175cd72c",
-            "title": "'Does He Think He's Real?' Social Media Reacts to Trump's Talk With AI Teddy Roosevelt",
-            "description": "The current president chatted with a life-sized AI version of the 26th US president at the new Theodore Roosevelt presidential library.",
-            "content": "Did you hear the one about President Donald Trump having an imaginary conversation with Theodore Roosevelt?\nAs it turns out, the farfetched scenario was absolutely true, even though the 26th president has been dead for over a century. But he has been... [2804 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/teddy-roosevelt-ai-avatar-donald-trump-interaction/",
-            "image": "https://www.cnet.com/a/img/resize/cbfe8d855afecc8c9a2a073e51c6b11fc293f34e/hub/2026/07/02/e443ad2a-f218-414a-860c-63e649ddc7ef/teddy-roosevelt-ai-exhibit.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-07-02T22:05:28Z",
+            "id": "b2fea0531a0f1ddbaef6907e86893ab0",
+            "title": "Inside America250 Time Capsule: iPhone, AI, Eagle Feather and More",
+            "description": "The United States will bury a 250-year time capsule near Philadelphia's Independence Hall as part of its America250 celebrations, with plans to open it in 2276., US News, Times Now",
+            "content": "As the United States marks its 250th anniversary on July 4, a nearly 900-pound (around 400-kilogram) stainless-steel time capsule will be buried near Philadelphia's Independence Hall with instructions not to open it until 2276.\nThe project is part of... [2234 chars]",
+            "url": "https://www.timesnownews.com/world/us/us-news/inside-america250-time-capsule-iphone-ai-eagle-feather-and-more-article-154923105",
+            "image": "https://images.timesnownews.com/thumb/msid-154923105,thumbsize-1168729,width-1280,height-720,resizemode-75/154923105.jpg",
+            "publishedAt": "2026-07-03T20:44:34Z",
             "lang": "en",
             "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "dcbdc65ac33aa30a2526c6e47ff9ddb6",
-            "title": "Finance Minister Sitharaman invites French businesses to partner in India's 'Viksit Bharat 2047' journey",
-            "description": "Union Finance Minister Nirmala Sitharaman on Thursday invited French businesses and investors to deepen engagement with India, highlighting opportunities in artificial intelligence (AI), clean energy, healthcare, digital infrastructure and financial services during the India-France Business Roundtable in Paris.",
-            "content": "Paris [France], July 3 (ANI): Union Finance Minister Nirmala Sitharaman on Thursday invited French businesses and investors to deepen engagement with India, highlighting opportunities in artificial intelligence (AI), clean energy, healthcare, digital... [3469 chars]",
-            "url": "https://www.tribuneindia.com/news/world/finance-minister-sitharaman-invites-french-businesses-to-partner-in-indias-viksit-bharat-2047-journey/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNlNGM1M2QwLTc2NjEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-07-02T22:03:01Z",
-            "lang": "en",
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
                 "country": "in"
-            }
-        },
-        {
-            "id": "faea6981874d0cd0cc4ce7311581a2d2",
-            "title": "Kioxia readies next-gen memory mass production as AI boom fuels dramatic comeback",
-            "description": "Kioxia will on Friday hold a ceremony at its fab in northern Japan as the chipmaker, whose shares have rocketed due to the AI ​investment boom, prepares to mass manufacture next-generation memory.",
-            "content": "Sign up here.\nFormerly Toshiba Memory, Kioxia was acquired from beleaguered industrial conglomerate Toshiba by a ​Bain Capital-led consortium in 2018 for 2 trillion yen ($12 billion).\nThe company, which ⁠invented NAND flash memory in the 1980s, was b... [1065 chars]",
-            "url": "https://www.reuters.com/business/autos-transportation/kioxia-readies-next-gen-memory-mass-production-ai-boom-fuels-dramatic-comeback-2026-07-02/",
-            "image": "https://www.reuters.com/resizer/v2/LLAQ4E2UZVLZVKBBDG45PP7PVA.jpg?auth=4283fe59add887510fdbb17e1aa8200a18c423b3ba0e3e85b1625a0646e232fa&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-07-02T22:02:39Z",
-            "lang": "en",
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "4ded5897130d181c9bce93fd32b3fa13",
-            "title": "Government-Backed AI? OpenAI Reportedly in Talks Over US Equity Stake",
-            "description": "ChatGPT-maker OpenAI is reportedly in discussions with the White House over a government financing deal. It may not happen.",
-            "content": "ChatGPT-maker OpenAI is in \"early conversations\" with the Trump administration about giving the government a 5% ownership stake in the company, the Financial Times reported on Thursday, citing two anonymous sources with knowledge of the matter.\nCEO S... [3962 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/government-backed-ai-openai-us-equity-stake/",
-            "image": "https://www.cnet.com/a/img/resize/1be6433a48fd5d8d0d59c1f36e83d6a3693fb221/hub/2026/07/02/96472845-e4a9-4906-bd83-b1d0c7adb767/gettyimages-2281424316.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-07-02T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
             }
         }
     ]
