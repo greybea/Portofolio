@@ -4,80 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 382959,
+    "totalArticles": 383245,
     "articles": [
         {
-            "id": "2321888e445bbe72e7b5f363dd1db751",
-            "title": "Yukon clinics are embracing AI - too quickly, some say",
-            "description": "AI tools have been in use in some Yukon clinics for months— and they’ve become a valuable resource for healthcare providers. But others argue AI has been embraced too quickly, without fully understanding potential impacts on patients.",
-            "content": "Artificial intelligence has been in use in some Yukon clinics for months — and according to the territory’s health department, they’ve already become a valuable resource for health care providers.\nBut others argue governments have embraced AI too qui... [6149 chars]",
-            "url": "https://www.cbc.ca/news/canada/north/yukon-clinics-are-embracing-ai-too-quickly-some-say-9.7256365",
-            "image": "https://i.cbc.ca/ais/72dbea4d-33da-4e6b-b0af-53a413ae81b5,1783033288996/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C1411%2C793%29%3BResize%3D620",
-            "publishedAt": "2026-07-03T21:29:05Z",
+            "id": "22ab5b12a1126fca1ed23ffba5ccbf17",
+            "title": "I use my local LLM to triage my email every morning, but I'll still never let it send replies",
+            "description": "The only way I'd ever let AI read my mail",
+            "content": "Summary\nI use a local Gemma 4 LLM to triage and summarize my email, cutting morning decision fatigue.\nEverything runs locally via Ollama and my GPU, so no emails leave my PC—privacy is central.\nIt summarizes and categorizes only; I still write replie... [9077 chars]",
+            "url": "https://www.xda-developers.com/i-used-a-local-llm-to-triage-my-email-but-ill-still-never-let-it-send-replies/",
+            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/local-ai-model-sorting-email-gemma-ollama.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-07-04T22:00:22Z",
             "lang": "en",
             "source": {
-                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
-                "name": "CBC.ca",
-                "url": "https://www.cbc.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "f37cb5c7ce024be3d71650942e069632",
-            "title": "Are Those Fake Books on the New Air Force One AI-Generated?",
-            "description": "The books are somehow both real and fake at the same time.",
-            "content": "White House Press Secretary Karoline Leavitt posted a photo to X on Wednesday from the new Air Force One, a plane gifted to President Donald Trump from the government of Qatar, despite anti-bribery rules intended to stop that kind of transaction.\nBla... [2790 chars]",
-            "url": "https://gizmodo.com/are-those-fake-books-on-the-new-air-force-one-ai-generated-2000780884",
-            "image": "https://gizmodo.com/app/uploads/2026/07/karoline-leavitt-circle-1200x675.jpg",
-            "publishedAt": "2026-07-03T21:20:55Z",
-            "lang": "en",
-            "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
+                "id": "891063cd06eaab8a5cf530418fb4c0be",
+                "name": "XDA Developers",
+                "url": "https://www.xda-developers.com",
                 "country": "us"
             }
         },
         {
-            "id": "eeb0f69b3cf9f1b86a6b14e70444304a",
-            "title": "The only AI glossary you'll need this year",
-            "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-            "content": "Artificial intelligence is rewriting the world, and simultaneously inventing a whole new language to describe how it’s doing it. Sit in on any product meeting, pitch, or panel these days, and you’ll hear people toss around LLMs, RAG, RLHF, and a doze... [22930 chars]",
-            "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
-            "publishedAt": "2026-07-03T21:20:00Z",
+            "id": "24808fc8b39db4c2f90bf254f7ab2fe3",
+            "title": "AI is rewriting China’s filmmaking rulebook, but the script isn’t finished",
+            "description": "More than 95 per cent of China's new microdramas in the first quarter of 2026 were AI-generated, compared with near zero a year ago. CNA speaks to the industry's key cast about the new plot twist.",
+            "content": "Advertisement\nEast Asia\nAI is rewriting China’s filmmaking rulebook, but the script isn’t finished\nMore than 95 per cent of China's new microdramas in the first quarter of 2026 were AI-generated, compared with near zero a year ago. CNA speaks to the ... [14474 chars]",
+            "url": "https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191",
+            "image": "https://dam.mediacorp.sg/image/upload/s--GXgA6a_J--/c_crop,h_899,w_1598,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/03/twl_1771.jpg?itok=diHO663N",
+            "publishedAt": "2026-07-04T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
             }
         },
         {
-            "id": "0f28035db674f4008b2af133cb017f2b",
-            "title": "Meta to release new AI model with advanced coding capabilities ‘soon’",
-            "description": "Meta to release new AI model with advanced coding capabilities ‘soon’ - SiliconANGLE",
-            "content": "Meta Platforms Inc. is gearing up to release a new version of its flagship Muse Spark artificial intelligence model.\nAlexandr Wang, the company’s chief AI officer, wrote on X today that the update will roll out “soon.” The announcement came a few hou... [2705 chars]",
-            "url": "https://siliconangle.com/2026/07/03/meta-release-new-ai-model-advanced-coding-capabilities-soon/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Meta-1.png",
-            "publishedAt": "2026-07-03T21:11:32Z",
+            "id": "b65be28cf27e63cbf4a304bf4df4160e",
+            "title": "Commentary: AI can be a personal trainer in your pocket - but is it safe?",
+            "description": "AI feels like the future of fitness coaching, but it has limitations, says this academic.",
+            "content": "ADELAIDE, Australia: Generative artificial intelligence (AI) is changing the fitness industry: People can now ask chatbots to write marathon plans, build gym programmes and even adjust workouts based on sleep or heart rate data.\nFor many, AI feels li... [5043 chars]",
+            "url": "https://www.channelnewsasia.com/commentary/ai-personal-trainer-fitness-programme-health-6230166",
+            "image": "https://dam.mediacorp.sg/image/upload/s--62K-rOfP--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/08/lzx_0774_0.jpg?itok=o0EbvzIv",
+            "publishedAt": "2026-07-04T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
-                "country": "us"
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
             }
         },
         {
-            "id": "d011a50402507cbe9ebf2fca97f4d64c",
-            "title": "NASA and Red Hat are building an AI doctor for astronauts that works without any Earth connection at all",
-            "description": "NASA is testing an offline AI medical system for astronauts",
-            "content": "NASA's AI medical tool works where Earth-based doctors simply cannot reach\nDeep space has no signal — so NASA built its own offline doctor\nRamaLama runs AI models the same way containers run software — predictably\nAstronauts aboard the International ... [3391 chars]",
-            "url": "https://www.techradar.com/pro/nasa-and-red-hat-are-building-an-open-source-medical-system-to-diagnose-sick-astronauts-on-the-iss-could-a-star-trek-tricorder-be-next",
-            "image": "https://cdn.mos.cms.futurecdn.net/Q7TKhesndya4sXxhv3cw6e-1920-80.png",
-            "publishedAt": "2026-07-03T21:05:00Z",
+            "id": "124866116f489b31a30bdb89a414ca49",
+            "title": "NHS app to use AI to determine which service best for patients",
+            "description": "The update will be available to all users in England by April 2028, the health service says.",
+            "content": "Artificial intelligence will be used on the NHS app to determine which service is most appropriate for patients in England, the health service has announced.\nA new triage tool will ask patients a series of questions, and will use the responses to dir... [2739 chars]",
+            "url": "https://www.bbc.com/news/articles/c0my2kjjnp2o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/15ba/live/e471abf0-77ca-11f1-a627-714adb4eed6e.jpg",
+            "publishedAt": "2026-07-04T21:32:08Z",
+            "lang": "en",
+            "source": {
+                "id": "109f2b4a20da4fe1c2fd502b03c07243",
+                "name": "BBC News",
+                "url": "https://www.bbc.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "4431f2e77db8447472bbf6c50a305467",
+            "title": "NHS to use AI on its app to direct patients to appropriate services",
+            "description": "Update in England expected to reach about 200,000 patients over the next year as part of £10bn package to overhaul NHS systems",
+            "content": "The NHS will begin using AI on its app to direct patients to the appropriate services, it has been announced.\nThe tool will be used to triage patients and to ascertain if they should be allocated a GP appointment. Some may be advised to attend a phar... [4151 chars]",
+            "url": "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
+            "image": "https://i.guim.co.uk/img/media/ff3edb27303ff3e647e27591d79ddbbba215afa9/311_0_3042_2435/master/3042.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c115fa9c98e2bb167a7c77671b44be76",
+            "publishedAt": "2026-07-04T21:30:08Z",
+            "lang": "en",
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "ad1c6404d4941a219edb024ed93b6d92",
+            "title": "China just broke the world record for fiber transmission, and the AI data center race will never be the same",
+            "description": "New air-filled fiber pushes 51.3 Tb/s across 128 miles",
+            "content": "Air-filled fiber carried 51.3 Tb/s across 206.5 km unaided\nResearchers push 1.2 Tb/s through each wavelength across record distances\nAI infrastructure increasingly depends on networks moving data faster everywhere\nChinese fiber manufacturer YOFC says... [3582 chars]",
+            "url": "https://www.techradar.com/pro/chinese-firms-fiber-trial-hits-staggering-51-3-tb-s-over-128-miles-without-signal-regeneration-could-this-be-an-end-to-bandwidth-bottlenecks",
+            "image": "https://cdn.mos.cms.futurecdn.net/MhzrHxrwvivyEjEHcer4VP-1980-80.jpg",
+            "publishedAt": "2026-07-04T21:05:00Z",
             "lang": "en",
             "source": {
                 "id": "76684855c5d801b81fd06490668d04fe",
@@ -87,83 +103,67 @@
             }
         },
         {
-            "id": "6a5f6fc5e4e603a3250fcb06e0fd8677",
-            "title": "Japan taps Cognition's 'Devin-kun' as legacy code, shrinking workforce opens market for AI coding",
-            "description": "Cognition AI opened its first Asia office in Tokyo earlier this year. \"The country is running on aging infrastructure with a declining workforce.\"",
-            "content": "“Japan was our first or second most popular country in terms of user engagement overall,” said Russell Kaplan, president of Cognition AI, the San Francisco startup behind AI coding tool Devin, in early June.\nThe East Asian country has the world’s old... [5894 chars]",
-            "url": "https://fortune.com/2026/07/03/devin-kun-cognition-ai-japan-russell-kaplan/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2281047894-e1782981473594.jpg?resize=1200,600",
-            "publishedAt": "2026-07-03T21:00:00Z",
+            "id": "774a6ef9c8d06dd11ac9c94f1100743e",
+            "title": "Micron (MU) Starts Major Japan Expansion to Boost HBM Output for the AI Boom",
+            "description": "Micron Technology (MU) has started work on a ¥1.5 trillion ($9.3 billion) expansion of its Hiroshima, Japan, factory to ramp up production of ad...",
+            "content": "Micron Technology (MU) has started work on a ¥1.5 trillion ($9.3 billion) expansion of its Hiroshima, Japan, factory to ramp up production of advanced memory chips. The new facility will make high-bandwidth memory (HBM), a key part of AI processors f... [2180 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/micron-mu-starts-major-japan-expansion-to-boost-hbm-output-for-the-ai-boom-1036298029",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/07/image-384.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-07-04T20:58:22Z",
             "lang": "en",
             "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
                 "country": "us"
             }
         },
         {
-            "id": "f97ad1a8d84be15cb8bdcd2281c169cc",
-            "title": "Has Technology Ruined The World Cup?",
-            "description": "This comes after FIFA invested years developing tools that combine player tracking, artificial intelligence and ball sensors to reduce human error in crucial moments.",
-            "content": "Soccer has always embraced innovation, albeit reluctantly.\nIn the 1990s, the back-pass rule changed the way teams built from the back. A decade ago, goal-line technology finally settled arguments over whether the ball had crossed the line.\nToday, the... [5224 chars]",
-            "url": "https://www.forbes.com/sites/clementelisi/2026/07/03/has-technology-ruined-the-world-cup/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a481bc9110f8f5cab5c066f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-07-03T20:58:39Z",
+            "id": "10bcc359fda3a26ab71d2d2b3ccfe985",
+            "title": "GLM-5.2 | A race to catch up",
+            "description": "Z.ai's GLM-5.2 challenges U.S. AI models in coding and cybersecurity, driving innovation in China's competitive AI landscape.",
+            "content": "“Won’t take that long.” That was Tang Jie’s response after businessman Elon Musk posted that Chinese artificial intelligence companies were still years away from matching the world’s leading AI models. Less than two weeks later, Mr. Tang, the 49-year... [3953 chars]",
+            "url": "https://www.thehindu.com/sci-tech/technology/glm-52-a-race-to-catch-up/article71183741.ece",
+            "image": "https://th-i.thgim.com/public/news/national/yzanbl/article71183737.ece/alternates/LANDSCAPE_1200/Chinese%20artificial%20intelligence%20company%20Zhipu%20AI%20in%20Beijing2.jpg",
+            "publishedAt": "2026-07-04T20:58:00Z",
             "lang": "en",
             "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e5124d0fbc689e0c354b19e8123ee268",
-            "title": "Top 10 AI 3D Modeling Platforms for Product Rendering, Structural Design, and Prototyping in 2026",
-            "description": "Momaking is a relevant AI-assisted industrial design option for non-specialist hardware teams that need to move from product visualization",
-            "content": "Share\nShare\nShare\nShare\nEmail\nQuick Answer\nMomaking is a relevant AI-assisted industrial design option for non-specialist hardware teams that need to move from product visualization and preliminary structural support to quotation, 3D printing, CNC pr... [11533 chars]",
-            "url": "https://techbullion.com/top-10-ai-3d-modeling-platforms-for-product-rendering-structural-design-and-prototyping-in-2026/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/07/Screenshot_2026-07-04-01-48-43-34_a1b1bbe5f63d5b96c1a0f87c197ebfae.jpg",
-            "publishedAt": "2026-07-03T20:51:41Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "0bfcff906c18483f9c173013d1b0dd40",
-            "title": "Tesla Capped Employee AI Spending At $200 A Week. Uber And Other Companies Are Already Tightening Similar Internal Limits.",
-            "description": "The move reflects growing pressure on companies to monitor and control AI-related expenses as adoption spreads across corporate teams and platforms.",
-            "content": "Tesla has introduced a $200 weekly cap on employee spending for artificial intelligence tools as internal usage of generative systems has risen sharply across engineering and product teams. The policy applies to third-party AI services used through T... [3263 chars]",
-            "url": "https://www.ibtimes.com/tesla-capped-employee-ai-spending-200-week-uber-other-companies-are-already-tightening-similar-3804915",
-            "image": "https://d.ibtimes.com/en/full/4631201/tesla.jpg",
-            "publishedAt": "2026-07-03T20:50:05Z",
-            "lang": "en",
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b2fea0531a0f1ddbaef6907e86893ab0",
-            "title": "Inside America250 Time Capsule: iPhone, AI, Eagle Feather and More",
-            "description": "The United States will bury a 250-year time capsule near Philadelphia's Independence Hall as part of its America250 celebrations, with plans to open it in 2276., US News, Times Now",
-            "content": "As the United States marks its 250th anniversary on July 4, a nearly 900-pound (around 400-kilogram) stainless-steel time capsule will be buried near Philadelphia's Independence Hall with instructions not to open it until 2276.\nThe project is part of... [2234 chars]",
-            "url": "https://www.timesnownews.com/world/us/us-news/inside-america250-time-capsule-iphone-ai-eagle-feather-and-more-article-154923105",
-            "image": "https://images.timesnownews.com/thumb/msid-154923105,thumbsize-1168729,width-1280,height-720,resizemode-75/154923105.jpg",
-            "publishedAt": "2026-07-03T20:44:34Z",
-            "lang": "en",
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
                 "country": "in"
+            }
+        },
+        {
+            "id": "4aeb7d2c2c2424535911a393be0f1bfb",
+            "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+            "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+            "content": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial from Google asks: What if the Founding Fathers had access to Google Workspace?\nWith the tagline “Group project, but make it 1776,” the ad depicts a lar... [1729 chars]",
+            "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
+            "publishedAt": "2026-07-04T20:55:25Z",
+            "lang": "en",
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "4cecd7385142acdbb604cf29f0a8ef3c",
+            "title": "What Gemini app upgrades you get with Google AI Plus & AI Pro",
+            "description": "While the free tier of the Gemini app allows you to be quite productive, subscribing to Google AI Plus or...",
+            "content": "While the free tier of the Gemini app allows you to be quite productive, subscribing to Google AI Plus or AI Pro unlocks a lot more.\nUsage Limits\nIn May, the Gemini app switched to compute-based usage limits. Free users get “Standard limits” that you... [2772 chars]",
+            "url": "https://9to5google.com/2026/07/04/gemini-app-free-plus-pro-features/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Gemini-app-free-Pro-cover-b.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-07-04T20:40:00Z",
+            "lang": "en",
+            "source": {
+                "id": "151292b021d31d91d452f04b0b225727",
+                "name": "9to5Google",
+                "url": "https://9to5google.com",
+                "country": "us"
             }
         }
     ]
