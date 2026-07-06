@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 383245,
+    "totalArticles": 383556,
     "articles": [
         {
-            "id": "22ab5b12a1126fca1ed23ffba5ccbf17",
-            "title": "I use my local LLM to triage my email every morning, but I'll still never let it send replies",
-            "description": "The only way I'd ever let AI read my mail",
-            "content": "Summary\nI use a local Gemma 4 LLM to triage and summarize my email, cutting morning decision fatigue.\nEverything runs locally via Ollama and my GPU, so no emails leave my PC—privacy is central.\nIt summarizes and categorizes only; I still write replie... [9077 chars]",
-            "url": "https://www.xda-developers.com/i-used-a-local-llm-to-triage-my-email-but-ill-still-never-let-it-send-replies/",
-            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/local-ai-model-sorting-email-gemma-ollama.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-07-04T22:00:22Z",
+            "id": "d8e3cad7f2869d4d5c18b225a9494e5a",
+            "title": "Samsung union leader’s $34 billion bonus victory turns to bitterness",
+            "description": "The AI gold rush has both emboldened a new generation of Korean tech workers and created new divisions among them. Read more at straitstimes.com.",
+            "content": "SEOUL - As recently as late May, Choi Seung-ho was hailed as a hero. Rallying workers at Samsung Electronics to demand a greater share of profits, the union leader secured a staggering windfall, particularly for some semiconductor workers who were pr... [9828 chars]",
+            "url": "https://www.straitstimes.com/business/companies-markets/samsung-union-leaders-34-billion-bonus-victory-turns-to-bitterness",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9e9075be463a2e3f109ca7c64bc9038afc3c7e8dc58adeb81abcede2a1fb59e4",
+            "publishedAt": "2026-07-05T23:34:51Z",
             "lang": "en",
             "source": {
-                "id": "891063cd06eaab8a5cf530418fb4c0be",
-                "name": "XDA Developers",
-                "url": "https://www.xda-developers.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "24808fc8b39db4c2f90bf254f7ab2fe3",
-            "title": "AI is rewriting China’s filmmaking rulebook, but the script isn’t finished",
-            "description": "More than 95 per cent of China's new microdramas in the first quarter of 2026 were AI-generated, compared with near zero a year ago. CNA speaks to the industry's key cast about the new plot twist.",
-            "content": "Advertisement\nEast Asia\nAI is rewriting China’s filmmaking rulebook, but the script isn’t finished\nMore than 95 per cent of China's new microdramas in the first quarter of 2026 were AI-generated, compared with near zero a year ago. CNA speaks to the ... [14474 chars]",
-            "url": "https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191",
-            "image": "https://dam.mediacorp.sg/image/upload/s--GXgA6a_J--/c_crop,h_899,w_1598,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/03/twl_1771.jpg?itok=diHO663N",
-            "publishedAt": "2026-07-04T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
                 "country": "sg"
             }
         },
         {
-            "id": "b65be28cf27e63cbf4a304bf4df4160e",
-            "title": "Commentary: AI can be a personal trainer in your pocket - but is it safe?",
-            "description": "AI feels like the future of fitness coaching, but it has limitations, says this academic.",
-            "content": "ADELAIDE, Australia: Generative artificial intelligence (AI) is changing the fitness industry: People can now ask chatbots to write marathon plans, build gym programmes and even adjust workouts based on sleep or heart rate data.\nFor many, AI feels li... [5043 chars]",
-            "url": "https://www.channelnewsasia.com/commentary/ai-personal-trainer-fitness-programme-health-6230166",
-            "image": "https://dam.mediacorp.sg/image/upload/s--62K-rOfP--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/08/lzx_0774_0.jpg?itok=o0EbvzIv",
-            "publishedAt": "2026-07-04T22:00:00Z",
+            "id": "de060d39bbef2af65d7622c7de45d28f",
+            "title": "Taylor Swift, Travis Kelce wedding guest break silence on AI wedding photos",
+            "description": "Taylor Swift and Travis Kelce’s wedding guest is challenging the veracity of online photos of the couple.The singer and the sportsman, both 36, who tied the note at MSG Arena in New York this...",
+            "content": "Taylor Swift and Travis Kelce’s wedding guest is challenging the veracity of online photos of the couple.\nThe singer and the sportsman, both 36, who tied the note at MSG Arena in New York this week, I have not officially shared their wedding photos w... [823 chars]",
+            "url": "https://www.thenews.com.pk/latest/1408192-taylor-swift-travis-kelce-wedding-guest-break-silence-on-ai-wedding-photos",
+            "image": "https://www.thenews.com.pk/assets/uploads/2026-07-06/1408192_042729_updates.jpg",
+            "publishedAt": "2026-07-05T23:27:00Z",
             "lang": "en",
             "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
             }
         },
         {
-            "id": "124866116f489b31a30bdb89a414ca49",
-            "title": "NHS app to use AI to determine which service best for patients",
-            "description": "The update will be available to all users in England by April 2028, the health service says.",
-            "content": "Artificial intelligence will be used on the NHS app to determine which service is most appropriate for patients in England, the health service has announced.\nA new triage tool will ask patients a series of questions, and will use the responses to dir... [2739 chars]",
-            "url": "https://www.bbc.com/news/articles/c0my2kjjnp2o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/15ba/live/e471abf0-77ca-11f1-a627-714adb4eed6e.jpg",
-            "publishedAt": "2026-07-04T21:32:08Z",
+            "id": "14cf6cf4ce3702f81e10bce97edb605e",
+            "title": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory",
+            "description": "SEOUL, July 6 (Reuters) - Samsung Electronics is likely to ⁠estimate that its operating profit jumped about 18-fold to another record high from a year earlier in the second quarter, as AI growth continues to ⁠strain memory supply and push chip prices higher.",
+            "content": "SEOUL, July 6 (Reuters) - Samsung Electronics is likely to ⁠estimate that its operating profit jumped about 18-fold to another record high from a year earlier in the second quarter, as AI growth continues to ⁠strain memory supply and push chip prices... [4273 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/07/06/samsung-likely-to-post-18-fold-jump-in-profit-on-surging-ai-demand-for-memory",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/07/06/3994253.jpg",
+            "publishedAt": "2026-07-05T23:13:00Z",
             "lang": "en",
             "source": {
-                "id": "109f2b4a20da4fe1c2fd502b03c07243",
-                "name": "BBC News",
-                "url": "https://www.bbc.com",
-                "country": "gb"
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
             }
         },
         {
-            "id": "4431f2e77db8447472bbf6c50a305467",
-            "title": "NHS to use AI on its app to direct patients to appropriate services",
-            "description": "Update in England expected to reach about 200,000 patients over the next year as part of £10bn package to overhaul NHS systems",
-            "content": "The NHS will begin using AI on its app to direct patients to the appropriate services, it has been announced.\nThe tool will be used to triage patients and to ascertain if they should be allocated a GP appointment. Some may be advised to attend a phar... [4151 chars]",
-            "url": "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
-            "image": "https://i.guim.co.uk/img/media/ff3edb27303ff3e647e27591d79ddbbba215afa9/311_0_3042_2435/master/3042.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c115fa9c98e2bb167a7c77671b44be76",
-            "publishedAt": "2026-07-04T21:30:08Z",
+            "id": "e1670bf2f4086dbf22e41700d53c0ff4",
+            "title": "Samsung Eyes Another Record Quarter on Explosive AI Memory Demand, But Rising Employee Bonuses Could Clou",
+            "description": "Samsung is expected to post a record profit as booming AI memory demand offsets concerns over rising bonus costs.",
+            "content": "AI Memory Boom Expected to Drive Another Record Quarter\nSamsung is expected to report an operating profit of about 86 trillion won ($56.35 billion) for the April-to-June quarter, according to an LSEG SmartEstimate based on forecasts from 30 analysts,... [2485 chars]",
+            "url": "https://www.benzinga.com/markets/tech/26/07/60270603/samsung-eyes-another-record-quarter-on-explosive-ai-memory-demand-but-rising-employee-bonuses-could-cloud-earnings-report",
+            "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/06/Modern-Office-Building-With-Large-Samsun.jpg",
+            "publishedAt": "2026-07-05T23:13:00Z",
             "lang": "en",
             "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "ad1c6404d4941a219edb024ed93b6d92",
-            "title": "China just broke the world record for fiber transmission, and the AI data center race will never be the same",
-            "description": "New air-filled fiber pushes 51.3 Tb/s across 128 miles",
-            "content": "Air-filled fiber carried 51.3 Tb/s across 206.5 km unaided\nResearchers push 1.2 Tb/s through each wavelength across record distances\nAI infrastructure increasingly depends on networks moving data faster everywhere\nChinese fiber manufacturer YOFC says... [3582 chars]",
-            "url": "https://www.techradar.com/pro/chinese-firms-fiber-trial-hits-staggering-51-3-tb-s-over-128-miles-without-signal-regeneration-could-this-be-an-end-to-bandwidth-bottlenecks",
-            "image": "https://cdn.mos.cms.futurecdn.net/MhzrHxrwvivyEjEHcer4VP-1980-80.jpg",
-            "publishedAt": "2026-07-04T21:05:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "774a6ef9c8d06dd11ac9c94f1100743e",
-            "title": "Micron (MU) Starts Major Japan Expansion to Boost HBM Output for the AI Boom",
-            "description": "Micron Technology (MU) has started work on a ¥1.5 trillion ($9.3 billion) expansion of its Hiroshima, Japan, factory to ramp up production of ad...",
-            "content": "Micron Technology (MU) has started work on a ¥1.5 trillion ($9.3 billion) expansion of its Hiroshima, Japan, factory to ramp up production of advanced memory chips. The new facility will make high-bandwidth memory (HBM), a key part of AI processors f... [2180 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/micron-mu-starts-major-japan-expansion-to-boost-hbm-output-for-the-ai-boom-1036298029",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/07/image-384.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-07-04T20:58:22Z",
-            "lang": "en",
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
                 "country": "us"
             }
         },
         {
-            "id": "10bcc359fda3a26ab71d2d2b3ccfe985",
-            "title": "GLM-5.2 | A race to catch up",
-            "description": "Z.ai's GLM-5.2 challenges U.S. AI models in coding and cybersecurity, driving innovation in China's competitive AI landscape.",
-            "content": "“Won’t take that long.” That was Tang Jie’s response after businessman Elon Musk posted that Chinese artificial intelligence companies were still years away from matching the world’s leading AI models. Less than two weeks later, Mr. Tang, the 49-year... [3953 chars]",
-            "url": "https://www.thehindu.com/sci-tech/technology/glm-52-a-race-to-catch-up/article71183741.ece",
-            "image": "https://th-i.thgim.com/public/news/national/yzanbl/article71183737.ece/alternates/LANDSCAPE_1200/Chinese%20artificial%20intelligence%20company%20Zhipu%20AI%20in%20Beijing2.jpg",
-            "publishedAt": "2026-07-04T20:58:00Z",
+            "id": "fddec0af262418aacd9d960a9704c127",
+            "title": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory",
+            "description": "Samsung Electronics is likely to estimate that its operating profit jumped about 18-fold ​to another record high from a year earlier in the second quarter, as AI growth continues to strain memory supply and push chip prices ‌higher.",
+            "content": "On Tuesday, the world's largest memory chipmaker by sales is likely to flag an operating profit of 86 trillion won ($56.35 billion) for the April to June quarter, according to an LSEG SmartEstimate based on forecasts from 30 analysts, weighted toward... [3665 chars]",
+            "url": "https://www.reuters.com/world/asia-pacific/samsung-likely-post-18-fold-jump-profit-surging-ai-demand-memory-2026-07-05/",
+            "image": "https://www.reuters.com/resizer/v2/Z7M74AN2O5ICFPBBX6WW63XVOY.jpg?auth=e21d6df7664263d635f67ff1109c4b8a15c81d1cd690df805e1aa80ffbc06292&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-05T23:07:38Z",
             "lang": "en",
             "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "70d66a81f1a744e12e7c95a378164e78",
+            "title": "Samsung's Profit Surge Amid Global Memory Chip Crunch",
+            "description": "Samsung Electronics is expected to report a significant increase in operating profit due to a global memory chip shortage fueled by AI demand. Despite potential bonuses affecting profits, strong performance and rising chip prices push valuations of major memory manufacturers over $1 trillion.",
+            "content": "Samsung Electronics is poised to announce an 18-fold increase in operating profit for the April to June quarter, driven by a global shortage in memory chips and high demand for AI infrastructure. Analysts project operating figures could hit 86 trilli... [721 chars]",
+            "url": "https://www.devdiscourse.com/article/technology/3945542-samsungs-profit-surge-amid-global-memory-chip-crunch",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/31_07_2024_07_44_59_3163368.png&width=920&format=jpeg",
+            "publishedAt": "2026-07-05T23:00:41Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
                 "country": "in"
             }
         },
         {
-            "id": "4aeb7d2c2c2424535911a393be0f1bfb",
-            "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-            "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-            "content": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial from Google asks: What if the Founding Fathers had access to Google Workspace?\nWith the tagline “Group project, but make it 1776,” the ad depicts a lar... [1729 chars]",
-            "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
-            "publishedAt": "2026-07-04T20:55:25Z",
+            "id": "b8d00ee1609450ef493665a3d13aef92",
+            "title": "Provides New Details on FF’s Robotics Q3 Campaign, EAI Robotics Summer Camps and Insight Into FF’s Delivery, Service, and Operations Capabilities",
+            "description": "06.07.2026 - Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, “FF” or the “Company”), a California-based global Embodied AI (EAI) ecosystem company, today shared a weekly business update from YT Jia, Founder and Global CEO of FF. This ... Seite 1",
+            "content": "Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, “FF” or the “Company”), a California-based global Embodied AI (EAI) ecosystem company, today shared a weekly business update from YT Jia, Founder and Global CEO of FF.\nThis pr... [1950 chars]",
+            "url": "https://www.wallstreet-online.de/nachricht/21074862-faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-update-provides-new-details-on-ff-s-robotics-q3-campaign-eai-robotics-summer-camps-and-insight-into-ff-s-delivery-service-and-operations-capabilities",
+            "image": "https://assets.wallstreet-online.de/_media/3129/unternehmen/branchen/fahrzeugindustrie/size_645/adobestock-258917169.jpeg",
+            "publishedAt": "2026-07-05T23:00:06Z",
             "lang": "en",
             "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
+                "id": "4ddba5324f2e0216fa6458240fdb0f97",
+                "name": "Wallstreet Online",
+                "url": "https://www.wallstreet-online.de",
+                "country": "de"
+            }
+        },
+        {
+            "id": "0d9e133f83ae5ad7b25d4e6983d96f87",
+            "title": "Illinois schools grapple with AI cyberbullying, deepfakes as new law takes effect",
+            "description": "From Capitol News Illinois: As of July 1, the state’s definition of cyberbullying was expanded to include AI-generated digital replicas, forcing districts across Illinois to update policies and procedures",
+            "content": "CHICAGO – Earlier this year, administrators at Lake Zurich High School confronted a growing challenge facing schools nationwide: students using artificial intelligence to create sexually explicit images of their classmates. After reporting the matter... [5289 chars]",
+            "url": "https://www.shawlocal.com/news/2026/07/05/illinois-schools-grapple-with-ai-cyberbullying-deepfakes-as-new-law-takes-effect/",
+            "image": "https://www.shawlocal.com/resizer/v2/3GFM2AQTFFFHBARNBH7EDO2ISU.jpg?auth=8c6c22fa9759ac6a36813e9c0b6eb36b0ad36d18486f66818ea81ec2f45ae960&width=1200&height=630&smart=true",
+            "publishedAt": "2026-07-05T23:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "c9db5acf558cb3805c540ea4298687bc",
+                "name": "Shaw Local Enewspapers",
+                "url": "https://www.shawlocal.com",
                 "country": "us"
             }
         },
         {
-            "id": "4cecd7385142acdbb604cf29f0a8ef3c",
-            "title": "What Gemini app upgrades you get with Google AI Plus & AI Pro",
-            "description": "While the free tier of the Gemini app allows you to be quite productive, subscribing to Google AI Plus or...",
-            "content": "While the free tier of the Gemini app allows you to be quite productive, subscribing to Google AI Plus or AI Pro unlocks a lot more.\nUsage Limits\nIn May, the Gemini app switched to compute-based usage limits. Free users get “Standard limits” that you... [2772 chars]",
-            "url": "https://9to5google.com/2026/07/04/gemini-app-free-plus-pro-features/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Gemini-app-free-Pro-cover-b.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2026-07-04T20:40:00Z",
+            "id": "c1f2e8ea39ed3b20ceeaf1b8d42459d6",
+            "title": "Big Tech’s $3 Trillion Struggle to Secure Enough Electricity",
+            "description": "As AI drives explosive demand for computing, electricity has emerged as the world’s most critical and scarce strategic resource.",
+            "content": "For most of modern history, oil was the world’s most valuable resource.\nIt powered industrial growth, decided wars, reshaped geopolitics, and created the largest corporations in history.\nThen oil lost its crown.\nData replaced it as the world’s domina... [11279 chars]",
+            "url": "https://oilprice.com/Energy/Energy-General/Big-Techs-3-Trillion-Struggle-to-Secure-Enough-Electricity.html",
+            "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-02_qfmniotsmk.jpg",
+            "publishedAt": "2026-07-05T23:00:00Z",
             "lang": "en",
             "source": {
-                "id": "151292b021d31d91d452f04b0b225727",
-                "name": "9to5Google",
-                "url": "https://9to5google.com",
+                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
+                "name": "OilPrice",
+                "url": "https://oilprice.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "cbdf4232817df094d21a4723331d741a",
+            "title": "After a nearly 800% explosion, this AI stock’s U.S. debut could signal if the market can still boom-or is headed for a bust",
+            "description": "Shares of South Korea's SK Hynix will list on the Nasdaq and are expected to start trading on Friday.",
+            "content": "South Korean chipmaker SK Hynix isn’t one of the Magnificent 7 stocks but is in a class of its own after pulling off a stunning rally on the back of the AI boom, and it’s about to land on U.S. markets.\nShares will list on the Nasdaq and are expected ... [3620 chars]",
+            "url": "https://www.newsbreak.com/fortune-561435/4752958172607-after-a-nearly-800-explosion-this-ai-stock-s-u-s-debut-could-signal-if-the-market-can-still-boom-or-is-headed-for-a-bust",
+            "image": "https://img.particlenews.com/img/id/1ErbLI_1D1BP8ga00",
+            "publishedAt": "2026-07-05T22:59:43Z",
+            "lang": "en",
+            "source": {
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
                 "country": "us"
             }
         }
