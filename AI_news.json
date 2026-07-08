@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 384349,
+    "totalArticles": 385309,
     "articles": [
         {
-            "id": "463a03c219266b4bac03d014de99b06e",
-            "title": "Ranking the top Agentic AI Security Solutions in 2026",
-            "description": "Agentic AI is changing the way businesses use artificial intelligence. Traditional AI tools simply generate responses. AI agents can make decisions. They can interact with...",
-            "content": "GUEST OPINION: Agentic AI is changing the way businesses use artificial intelligence. Traditional AI tools simply generate responses. AI agents can make decisions. They can interact with systems and complete tasks independently.\nWhile this creates ne... [3319 chars]",
-            "url": "https://itwire.com/guest-articles/guest-opinion/ranking-the-top-agentic-ai-security-solutions-in-2026",
-            "image": "https://media.itwire.com/2026/07/06/ranking-the-top-agentic-ai-security-solutions-in-2026-0212448d0bb2.png",
-            "publishedAt": "2026-07-06T22:42:16Z",
+            "id": "3254a383a6becbd300f3ee79916307da",
+            "title": "Meta Has a New AI Image Tool, and I Already Used It to Deepfake My Friend's Instagram",
+            "description": "Instagram users might want to opt out of this AI setting right now.",
+            "content": "Meta has a new AI model out, this time dedicated to generating and editing AI images. And yes, you can use it on Instagram. But if you have a public account, you need to change your settings now to avoid ending up the unwitting subject of anyone's AI... [3083 chars]",
+            "url": "https://www.cnet.com/tech/services-and-software/meta-muse-ai-image-content-reuse-deepfake-news/",
+            "image": "https://www.cnet.com/a/img/resize/94b6a8018f1f0bae0e6a04d8fbe80e551c50770f/hub/2026/07/07/d27ca56b-463d-450d-a8fb-89c0b9875df5/gettyimages-2269982800.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-07-07T22:03:22Z",
             "lang": "en",
             "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "cc17c2d97b2d9c894a7f2c3ae5790d99",
+            "title": "Commentary: AI will change warfare but people remain core to SAF",
+            "description": "As artificial intelligence shapes warfare development around the world, the SAF must enhance relations between man and machine, says defence consultancy managing director Nicholas Fang.",
+            "content": "SINGAPORE: In his message marking this year’s Singapore Armed Forces (SAF) Day on Jul 1, Defence Minister Chan Chun Sing paid homage to the extraordinary dedication of SAF servicemen and women that underpins the safety and security enjoyed by Singapo... [4943 chars]",
+            "url": "https://www.channelnewsasia.com/commentary/saf-day-ai-defence-war-drone-military-6237926",
+            "image": "https://dam.mediacorp.sg/image/upload/s--CrJKf6pC--/c_crop,h_900,w_1600,x_0,y_2/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/08/04/ilim6781.jpg?itok=ZpNpAbS5",
+            "publishedAt": "2026-07-07T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "fe8c307c625271ea9a8e713cba931f00",
+            "title": "The Looming Shadow of the “Useless Class”",
+            "description": "Uncover the warnings about AI automation leading to superfluous individuals in society, as outlined by Yuval Noah Harari.",
+            "content": "Harari’s Warning: A New “Useless Class” Emerges\nIn influential circles tied to global institutions, a chilling phrase has entered the conversation: the rise of a “useless class.” Historian and World Economic Forum advisor Yuval Noah Harari has repeat... [6574 chars]",
+            "url": "https://www.activistpost.com/the-looming-shadow-of-the-useless-class/",
+            "image": "https://www.activistpost.com/wp-content/uploads/2026/07/istockphoto-941716706-612x612-1.jpg",
+            "publishedAt": "2026-07-07T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "435d508bebcc8689d5c7711d44865b80",
+                "name": "Activist Post",
+                "url": "https://www.activistpost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "03344718a6e4e4bde77bb75fb9b73670",
+            "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images-Unless You Opt Out",
+            "description": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
+            "content": "28 Tips to Take Your ChatGPT Prompts to the Next Level\nSure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.\nHere’s How to Opt Out of Google Search’s New AI Data Training Feature\nGoogle’s Search ... [1846 chars]",
+            "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+            "image": "https://media.wired.com/photos/6a4d6e8fe06236b4d104fe30/191:100/w_1280,c_limit/Meta-Lets-Anyone-Use-Your-Instagram-Photos-in-AI-Images-Gear-2268477073.jpg",
+            "publishedAt": "2026-07-07T21:59:29Z",
+            "lang": "en",
+            "source": {
+                "id": "b683218c3952d77a76b7bda7512f2f6e",
+                "name": "WIRED",
+                "url": "https://www.wired.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "d4196dc16fde629514ebbe2ae1ed8b26",
+            "title": "Markets live: Oil prices surge after US launches strikes on Iran, ASX to slip after Wall Street's tech sell-off",
+            "description": "The Australian share market is likely to fall in morning trade after a sell-off across technology and artificial intelligence (AI) stocks knocked Wall Street's tech index sharply lower. Oil prices surged after the US confirmed it launched strikes on Iran, after three commercial ships were attacked near the Strait of Hormuz. Follow live.",
+            "content": "Telstra customers across the country are reporting that the provider's mobile network has crashed, potentially leaving millions of Australians unable to make phone calls or access the internet.\nUsers of other mobile providers that operate on Telstra'... [2986 chars]",
+            "url": "https://www.abc.net.au/news/2026-07-08/asx-markets-business-live-news/106891254",
+            "image": "https://live-production.wcms.abc-cdn.net.au/b46ef7ba423f4cbd92326131879ea127?impolicy=wcms_watermark_news&cropH=2700&cropW=4800&xPos=0&yPos=250&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-07-07T21:54:23Z",
+            "lang": "en",
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
                 "country": "au"
             }
         },
         {
-            "id": "c84e11e7ad11676a959c247d45c82948",
-            "title": "J&K was made for the age that's arriving",
-            "description": "Suhail Bhat hello@suhailbhat.com For a century we were taught our geography was a misfortune. The AI economy has quietly turned it into our single greatest asset - and the window to use it is open now. For a century we...",
-            "content": "Suhail Bhat\nhello@suhailbhat.com\nFor a century we were taught our geography was a misfortune. The AI economy has quietly turned it into our single greatest asset - and the window to use it is open now.\nFor a century we were taught our geography was a... [4843 chars]",
-            "url": "https://www.dailyexcelsior.com/jk-was-made-for-the-age-thats-arriving/",
-            "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYThlZWRjMTcwLTc5OGEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-07-06T22:32:12Z",
+            "id": "5855a960a5392dba5bd5c340aabc52f0",
+            "title": "Nasdaq sinks as AI worries hit chipmakers",
+            "description": "The Dow Jones Industrial Average declined 0.25 per cent to 52,925.15 points. Read more at straitstimes.com.",
+            "content": "NEW YORK - The Nasdaq ended sharply lower on July 7, weighed down by losses in Micron Technology and other chipmakers due to mounting doubts about the sustainability of Wall Street’s AI-driven rally.\nChip stocks in Asia and the US dropped after memor... [2523 chars]",
+            "url": "https://www.straitstimes.com/business/companies-markets/nasdaq-sinks-as-ai-worries-hit-chipmakers",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/43b5b9c51f7473bd568da235e20fab7e7021edf734d65d3fe04996fdbbb86e81",
+            "publishedAt": "2026-07-07T21:43:02Z",
             "lang": "en",
             "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "2a9366726148efc4dd1e126de944a0c0",
+            "title": "SCHMID Group Secures Repeat Order Exceeding EUR 37 Million for Advanced HDI-ML and mSAP Equipment",
+            "description": "FREUDENSTADT, Germany, July 07, 2026 (GLOBE NEWSWIRE) -- SCHMID Group (NASDAQ: SHMD) has received a repeat order exceeding EUR 37 million from a leading Chinese customer for advanced HDI-ML and mSAP production equipment. The equipment supports the customer’s next capacity expansion for next-generation AI server boards and optical module applications and follows the successful completion of the first phase supplied by SCHMID in 2025.",
+            "content": "FREUDENSTADT, Germany, July 07, 2026 (GLOBE NEWSWIRE) -- SCHMID Group (NASDAQ: SHMD) has received a repeat order exceeding EUR 37 million from a leading Chinese customer for advanced HDI-ML and mSAP production equipment. The equipment supports the cu... [4616 chars]",
+            "url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/schmid-group-secures-repeat-order-exceeding-eur-37-million-for-advanced-hdi-ml-and-msap-equipment/2380377",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/08/1128566.png",
+            "publishedAt": "2026-07-07T21:37:37Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "b3ca7c53b256574ccfdb900db31e2f00",
+            "title": "Google Cloud to Host its Latest AI Models in India: Thomas Kurian",
+            "description": "Google Cloud is making its latest artificial intelligence (AI) models available locally in India in a big data sovereignty push, chief executive Thomas Kurian told Surabhi Agarwal in a video interview.",
+            "content": "Synopsis\nGoogle Cloud is making its latest artificial intelligence (AI) models available locally in India in a big data sovereignty push, chief executive Thomas Kurian told Surabhi Agarwal in a video interview.\nGoogle Cloud is making its latest artif... [7623 chars]",
+            "url": "https://economictimes.indiatimes.com/et-front/first-goal-is-data-centre-then-we-bring-supply-chain-manufacturing/articleshow/132248916.cms",
+            "image": "https://img.etimg.com/thumb/msid-132250945,width-1200,height-630,imgsize-251432,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-07-07T21:32:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "c0d7227d4d5980d47d2b8e63c2a5b609",
-            "title": "Intel-Backed Syntiant, Maker of AI Chips for Earbuds and Cars, Files for IPO on Nasdaq",
-            "description": "Syntiant Corp filed for a U.S. IPO Monday, joining a growing list of AI companies tapping public markets amid strong investor demand.",
-            "content": "Syntiant Corp, an artificial intelligence software and semiconductor company, filed for a U.S. initial public offering on Monday, joining a growing list of AI companies seeking to tap public markets amid strong investor demand for the sector.\nBuildin... [1448 chars]",
-            "url": "https://www.benzinga.com/markets/ipos/26/07/60295845/intel-backed-syntiant-maker-of-ai-chips-for-earbuds-and-cars-files-for-ipo-on-nasdaq",
-            "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/07/Ipo--Initial-Public-Offering-Concept--Bu.jpg",
-            "publishedAt": "2026-07-06T22:28:00Z",
+            "id": "1043f748491dc26566a25bf74decceb5",
+            "title": "Google Cloud to Host its Latest AI Models in India: Thomas Kurian",
+            "description": "Google Cloud is making its latest artificial intelligence (AI) models available locally in India in a big data sovereignty push, chief executive Thomas Kurian told Surabhi Agarwal in a video interview.",
+            "content": "Synopsis\nGoogle Cloud is making its latest artificial intelligence (AI) models available locally in India in a big data sovereignty push, chief executive Thomas Kurian told Surabhi Agarwal in a video interview.\nGoogle Cloud is making its latest artif... [7623 chars]",
+            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jul/08/et-front/first-goal-is-data-centre-then-we-bring-supply-chain-manufacturing/articleshow/132248916.cms",
+            "image": "https://img.etimg.com/thumb/msid-132250945,width-1200,height-630,imgsize-251432,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-07-07T21:32:00Z",
             "lang": "en",
             "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "db4997f1cb36ee84b0264a9680d4649a",
+            "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+            "description": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
+            "content": "OpenAI’s chief futurist Joshua Achiam notified colleagues on Tuesday that he is leaving the company later this month after nearly nine years, WIRED has learned. Achiam, who previously led a team tasked with upholding the organization’s nonprofit miss... [6187 chars]",
+            "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+            "image": "https://media.wired.com/photos/6a431773890f52402e5ab8b7/191:100/w_1280,c_limit/Joshua-Achiam-Leaving-OpenAI-Business-2274413917.jpg",
+            "publishedAt": "2026-07-07T21:28:00Z",
+            "lang": "en",
+            "source": {
+                "id": "b683218c3952d77a76b7bda7512f2f6e",
+                "name": "WIRED",
+                "url": "https://www.wired.com",
                 "country": "us"
-            }
-        },
-        {
-            "id": "6423684a49bd3906ad74bdde9ece1a23",
-            "title": "Is AI ready to take over your prescriptions? Doctors are wary of Utah's automated refill program.",
-            "description": "WASHINGTON — A prescription refill program that quietly launched in Utah earlier this year has kicked off a big medical debate: Is artificial intelligence ready to take over tasks that, until now, could only be performed by doctors?",
-            "content": "At the center of the debate: state and federal laws limit prescribing to licensed medical professionals. Proponents say those laws, which have underwritten American medicine for over 100 years, should be updated to include AI chatbots and other new t... [6284 chars]",
-            "url": "https://www.bostonglobe.com/2026/07/06/nation/is-ai-ready-take-over-your-prescriptions-doctors-are-wary-utahs-automated-refill-program/",
-            "image": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=672",
-            "publishedAt": "2026-07-06T22:25:23Z",
-            "lang": "en",
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "cefdb386540da7936bd4e5fb03f8bf16",
-            "title": "The Hidden Psychological Cost Of Having AI As Your Boss",
-            "description": "As AI takes on more management decisions, leaders face an unexpected challenge: preventing technology from weakening trust, relationships, and employee engagement.",
-            "content": "One of the most important things I learned from spending decades in sales was how to interact with people who were different from me. You have probably experienced that challenge too. Some managers wanted data, others preferred direct feedback, and s... [5826 chars]",
-            "url": "https://www.forbes.com/sites/dianehamilton/2026/07/06/the-hidden-psychological-cost-of-having-ai-as-your-boss/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6734e4857ebdafddebf41456/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-07-06T22:13:32Z",
-            "lang": "en",
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "6fef9512f40feea4ac1e37e21672fafa",
-            "title": "How AI Is Transforming the Collision Repair Industry",
-            "description": "A good auto collision repair company uses a combination of skilled craftsmanship, years of experience, and specialized equipment to perform these tasks. However, modern collision repair companies want to ensure they are making accurate assessments, repair estimates, and more efficient repairs. That is why they are turning to artificial intelligence (AI) for assistance.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nCollision repair is a billion-dollar industry. When people suffer auto collisions that cause damage to their vehicles, they need a professional collision repair company to assess and repair the damage. These repair servi... [6747 chars]",
-            "url": "https://techbullion.com/how-ai-is-transforming-the-collision-repair-industry/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/07/Collision-Repair-1000x600.png",
-            "publishedAt": "2026-07-06T22:12:47Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "856cbf4578914a62177880ecd7105533",
-            "title": "Venture Capital & Startup Funding Roundup, July 6, 2026",
-            "description": "It’s Monday, July 6, 2026. Following the July 4 holiday weekend in the U.S., venture funding announcements were lighter than usual, but the deals that did emerge reveal where investors continue to place their biggest bets. Capital is concentrating where AI meets the physical world and high-stakes operational decisions. The standout funding rounds announced around",
-            "content": "It’s Monday, July 6, 2026. Following the July 4 holiday weekend in the U.S., venture funding announcements were lighter than usual, but the deals that did emerge reveal where investors continue to place their biggest bets. Capital is concentrating wh... [10542 chars]",
-            "url": "https://techstartups.com/2026/07/06/venture-capital-startup-funding-roundup-july-6-2026/",
-            "image": "https://techstartups.com/wp-content/uploads/2026/06/Taktile-founders.jpg",
-            "publishedAt": "2026-07-06T22:10:38Z",
-            "lang": "en",
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "81e983c25e2b7fc5bb91cc2d188a106b",
-            "title": "IREN Stock Soars as Analyst Says Buy the Dip",
-            "description": "Shares in Australian AI cloud company IREN Limited (IREN) closed more than 13% higher in Monday’s regular session. The stock had risen pre-marke...",
-            "content": "Shares in Australian AI cloud company IREN Limited (IREN) closed more than 13% higher in Monday’s regular session. The stock had risen pre-market on speculation of a possible deal with leading AI startup Anthropic. However, Freedom Broker’s new ratin... [2158 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/iren-stock-soars-as-analyst-says-buy-the-dip-1036301684",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/07/image-528-1024x428.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-07-06T22:07:22Z",
-            "lang": "en",
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "12e11736bfd7d9625a684d74207ed7b1",
-            "title": "Where Entrepreneurs Are Moving in 2026, And Why It’s Not Where You Might Expect",
-            "description": "New business formation data reveals that entrepreneurs are increasingly choosing lower-cost, business-friendly states over traditional startup hubs, as remote work and AI make location less important than ever.",
-            "content": "Listen to this post\nKey Takeaways\nNew business formation data shows entrepreneurs are increasingly launching companies in lower-cost, business-friendly states like North Carolina, Wyoming, Montana and Nevada instead of traditional startup hubs.\nThe s... [10482 chars]",
-            "url": "https://www.entrepreneur.com/business-news/where-entrepreneurs-are-moving-in-2026-and-why-its-not-where-you-might-expect",
-            "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/where-entrepreneurs-are-moving-to-0726_g1449865825.jpg?resize=1024,685",
-            "publishedAt": "2026-07-06T22:03:34Z",
-            "lang": "en",
-            "source": {
-                "id": "839b9d172147498877bab641815b0631",
-                "name": "Entrepreneur",
-                "url": "https://www.entrepreneur.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e0eb03ef7cbe9a639cf7dffac7cd9ce8",
-            "title": "Harvey Keitel reveals why he thinks AI has already ‘failed’",
-            "description": "The veteran actor has voiced concerns over artificial intelligence in filmmaking, arguing technology cannot replicate the emotional depth of a human performance while also revealing details of his latest independent film project.",
-            "content": "Harvey Keitel has warned artificial intelligence cannot replicate the emotional depth of a human performance.\nThe actor, 87, says the technology has failed to capture the qualities that make actors unique as he voiced concerns about the movie industr... [3290 chars]",
-            "url": "https://www.perthnow.com.au/entertainment/celebrity-gossip/harvey-keitel-reveals-why-he-thinks-ai-has-already-failed-c-22540438",
-            "image": "https://images.perthnow.com.au/publication/C-22540438/160ebfa0a436a9133daf2c1f2a43eb652bbc1ba7-16x9-x0y192w2048h1152.jpg?imwidth=1200",
-            "publishedAt": "2026-07-06T22:02:10Z",
-            "lang": "en",
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
             }
         }
     ]
