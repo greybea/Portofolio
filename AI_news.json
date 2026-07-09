@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 385309,
+    "totalArticles": 386299,
     "articles": [
         {
-            "id": "3254a383a6becbd300f3ee79916307da",
-            "title": "Meta Has a New AI Image Tool, and I Already Used It to Deepfake My Friend's Instagram",
-            "description": "Instagram users might want to opt out of this AI setting right now.",
-            "content": "Meta has a new AI model out, this time dedicated to generating and editing AI images. And yes, you can use it on Instagram. But if you have a public account, you need to change your settings now to avoid ending up the unwitting subject of anyone's AI... [3083 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/meta-muse-ai-image-content-reuse-deepfake-news/",
-            "image": "https://www.cnet.com/a/img/resize/94b6a8018f1f0bae0e6a04d8fbe80e551c50770f/hub/2026/07/07/d27ca56b-463d-450d-a8fb-89c0b9875df5/gettyimages-2269982800.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-07-07T22:03:22Z",
+            "id": "a5977c28ad742ddf87b07276869cfcfc",
+            "title": "NATO's AI 'Kill Web' on its eastern flank",
+            "description": "NATO is building an AI 'Kill Web' of sensors, drones and satellites along its eastern flank to detect and strike a Russian attack before it moves.",
+            "content": "NATO is building a vast AI network along its eastern flank, designed to spot an attack early and strike back fast. The plan is called the Eastern Flank Deterrence Initiative, and internal documents name one adversary outright: Russia.\nGerman tabloid ... [2802 chars]",
+            "url": "https://thenextweb.com/news/nato-ai-kill-web-eastern-flank-deterrence-russia",
+            "image": "https://media.thenextweb.com/2026/07/forterra-autonomous-ground-vehicles-ukraine-combat.avif",
+            "publishedAt": "2026-07-08T22:42:06Z",
             "lang": "en",
             "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
                 "country": "us"
             }
         },
         {
-            "id": "cc17c2d97b2d9c894a7f2c3ae5790d99",
-            "title": "Commentary: AI will change warfare but people remain core to SAF",
-            "description": "As artificial intelligence shapes warfare development around the world, the SAF must enhance relations between man and machine, says defence consultancy managing director Nicholas Fang.",
-            "content": "SINGAPORE: In his message marking this year’s Singapore Armed Forces (SAF) Day on Jul 1, Defence Minister Chan Chun Sing paid homage to the extraordinary dedication of SAF servicemen and women that underpins the safety and security enjoyed by Singapo... [4943 chars]",
-            "url": "https://www.channelnewsasia.com/commentary/saf-day-ai-defence-war-drone-military-6237926",
-            "image": "https://dam.mediacorp.sg/image/upload/s--CrJKf6pC--/c_crop,h_900,w_1600,x_0,y_2/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/08/04/ilim6781.jpg?itok=ZpNpAbS5",
-            "publishedAt": "2026-07-07T22:00:00Z",
+            "id": "5898bca73484f6d68625f684793b1ac0",
+            "title": "Adobe: Market Overreaction Creates A Highly Asymmetric Risk-Reward Opportunity",
+            "description": "Adobe stock trades at just 11.6x P/E amid AI fears. See why steady revenue growth, 36% margins, and buybacks could drive EPS and multiple expansion.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of ADBE either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
+            "url": "https://seekingalpha.com/article/4920725-adobe-market-overreaction-creates-a-highly-asymmetric-risk-reward-opportunity",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1007845610/image_1007845610.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-07-08T22:40:40Z",
             "lang": "en",
             "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "fe8c307c625271ea9a8e713cba931f00",
-            "title": "The Looming Shadow of the “Useless Class”",
-            "description": "Uncover the warnings about AI automation leading to superfluous individuals in society, as outlined by Yuval Noah Harari.",
-            "content": "Harari’s Warning: A New “Useless Class” Emerges\nIn influential circles tied to global institutions, a chilling phrase has entered the conversation: the rise of a “useless class.” Historian and World Economic Forum advisor Yuval Noah Harari has repeat... [6574 chars]",
-            "url": "https://www.activistpost.com/the-looming-shadow-of-the-useless-class/",
-            "image": "https://www.activistpost.com/wp-content/uploads/2026/07/istockphoto-941716706-612x612-1.jpg",
-            "publishedAt": "2026-07-07T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "435d508bebcc8689d5c7711d44865b80",
-                "name": "Activist Post",
-                "url": "https://www.activistpost.com",
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
                 "country": "us"
             }
         },
         {
-            "id": "03344718a6e4e4bde77bb75fb9b73670",
-            "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images-Unless You Opt Out",
-            "description": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
-            "content": "28 Tips to Take Your ChatGPT Prompts to the Next Level\nSure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.\nHere’s How to Opt Out of Google Search’s New AI Data Training Feature\nGoogle’s Search ... [1846 chars]",
-            "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-            "image": "https://media.wired.com/photos/6a4d6e8fe06236b4d104fe30/191:100/w_1280,c_limit/Meta-Lets-Anyone-Use-Your-Instagram-Photos-in-AI-Images-Gear-2268477073.jpg",
-            "publishedAt": "2026-07-07T21:59:29Z",
+            "id": "b24c143a52353729c3cc55c8b4054a47",
+            "title": "Should a chatbot manage your bank account? Probably not, according to analysis",
+            "description": "When it comes to managing your personal finances, you may want to stick with your accountant before turning to artificial intelligence, according to a new study from the University of Georgia.",
+            "content": "When it comes to managing your personal finances, you may want to stick with your accountant before turning to artificial intelligence, according to a new study from the University of Georgia.\nResearchers found that AI chatbots often provide recommen... [4577 chars]",
+            "url": "https://phys.org/news/2026-07-chatbot-bank-account-analysis.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2022/chatbot-2.jpg",
+            "publishedAt": "2026-07-08T22:40:03Z",
             "lang": "en",
             "source": {
-                "id": "b683218c3952d77a76b7bda7512f2f6e",
-                "name": "WIRED",
-                "url": "https://www.wired.com",
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "adbe6b29f5eddd746f7f141fcfc18357",
+            "title": "Venture Capital & Startup Funding Roundup, July 8, 2026",
+            "description": "It’s Wednesday, July 7, 2026. The last 16 hours brought a surge of capital into frontier tech: AI infrastructure, deep energy, and defense systems. Investors funneled mega-rounds into enterprise AI and chip startups (for example, Palo Alto’s SambaNova pulled in a $1 billion raise) just as industrial-age sectors got record backing – from multi-gigawatt power networks (Houston’s",
+            "content": "It’s Wednesday, July 7, 2026. The last 16 hours brought a surge of capital into frontier tech: AI infrastructure, deep energy, and defense systems. Investors funneled mega-rounds into enterprise AI and chip startups (for example, Palo Alto’s SambaNov... [40365 chars]",
+            "url": "https://techstartups.com/2026/07/08/venture-capital-startup-funding-roundup-july-8-2026/",
+            "image": "https://techstartups.com/wp-content/uploads/2026/07/Venus-Aerospace-960x640.jpg",
+            "publishedAt": "2026-07-08T22:39:13Z",
+            "lang": "en",
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
                 "country": "us"
             }
         },
         {
-            "id": "d4196dc16fde629514ebbe2ae1ed8b26",
-            "title": "Markets live: Oil prices surge after US launches strikes on Iran, ASX to slip after Wall Street's tech sell-off",
-            "description": "The Australian share market is likely to fall in morning trade after a sell-off across technology and artificial intelligence (AI) stocks knocked Wall Street's tech index sharply lower. Oil prices surged after the US confirmed it launched strikes on Iran, after three commercial ships were attacked near the Strait of Hormuz. Follow live.",
-            "content": "Telstra customers across the country are reporting that the provider's mobile network has crashed, potentially leaving millions of Australians unable to make phone calls or access the internet.\nUsers of other mobile providers that operate on Telstra'... [2986 chars]",
-            "url": "https://www.abc.net.au/news/2026-07-08/asx-markets-business-live-news/106891254",
-            "image": "https://live-production.wcms.abc-cdn.net.au/b46ef7ba423f4cbd92326131879ea127?impolicy=wcms_watermark_news&cropH=2700&cropW=4800&xPos=0&yPos=250&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-07-07T21:54:23Z",
+            "id": "0d50aacadfdae498418f66ce4d362615",
+            "title": "A Brown professor's proof of mass AI cheating",
+            "description": "A Brown professor moved his exam in-person and the class average crashed from 96 to 48, turning a fuzzy worry about AI cheating into a hard number.",
+            "content": "An economics professor at Brown University suspects most of his class cheated with AI, and he has the numbers to make the case. Roberto Serrano watched his take-home midterm average hit 96 out of 100. When he switched the final to an in-person test, ... [2946 chars]",
+            "url": "https://thenextweb.com/news/brown-university-ai-cheating-in-person-exam-serrano",
+            "image": "https://media.thenextweb.com/2026/07/ivy-league-brown-university.avif",
+            "publishedAt": "2026-07-08T22:31:24Z",
             "lang": "en",
             "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
+                "country": "us"
             }
         },
         {
-            "id": "5855a960a5392dba5bd5c340aabc52f0",
-            "title": "Nasdaq sinks as AI worries hit chipmakers",
-            "description": "The Dow Jones Industrial Average declined 0.25 per cent to 52,925.15 points. Read more at straitstimes.com.",
-            "content": "NEW YORK - The Nasdaq ended sharply lower on July 7, weighed down by losses in Micron Technology and other chipmakers due to mounting doubts about the sustainability of Wall Street’s AI-driven rally.\nChip stocks in Asia and the US dropped after memor... [2523 chars]",
-            "url": "https://www.straitstimes.com/business/companies-markets/nasdaq-sinks-as-ai-worries-hit-chipmakers",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/43b5b9c51f7473bd568da235e20fab7e7021edf734d65d3fe04996fdbbb86e81",
-            "publishedAt": "2026-07-07T21:43:02Z",
+            "id": "1a291385d4e0132cd190870745040431",
+            "title": "Google Photos can now turn your ordinary videos into AI-generated works of art",
+            "description": "Google has introduced Video Remix for Google Photos, a new Gemini-powered feature that transforms ordinary videos with AI-generated lighting, artistic styles, and background changes in just a few taps.",
+            "content": "Google is giving Photos another dose of Gemini. The company has announced Video Remix, a new AI-powered editing tool that can transform ordinary video clips into stylized creations with just a few taps. Rather than requiring professional editing skil... [1863 chars]",
+            "url": "https://www.digitaltrends.com/phones/google-photos-can-now-turn-your-ordinary-videos-into-ai-generated-works-of-art/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/07/Google-Photos-Video-Remix.jpg?resize=1200%2C630",
+            "publishedAt": "2026-07-08T22:31:18Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
+                "country": "us"
             }
         },
         {
-            "id": "2a9366726148efc4dd1e126de944a0c0",
-            "title": "SCHMID Group Secures Repeat Order Exceeding EUR 37 Million for Advanced HDI-ML and mSAP Equipment",
-            "description": "FREUDENSTADT, Germany, July 07, 2026 (GLOBE NEWSWIRE) -- SCHMID Group (NASDAQ: SHMD) has received a repeat order exceeding EUR 37 million from a leading Chinese customer for advanced HDI-ML and mSAP production equipment. The equipment supports the customer’s next capacity expansion for next-generation AI server boards and optical module applications and follows the successful completion of the first phase supplied by SCHMID in 2025.",
-            "content": "FREUDENSTADT, Germany, July 07, 2026 (GLOBE NEWSWIRE) -- SCHMID Group (NASDAQ: SHMD) has received a repeat order exceeding EUR 37 million from a leading Chinese customer for advanced HDI-ML and mSAP production equipment. The equipment supports the cu... [4616 chars]",
-            "url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/schmid-group-secures-repeat-order-exceeding-eur-37-million-for-advanced-hdi-ml-and-msap-equipment/2380377",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/08/1128566.png",
-            "publishedAt": "2026-07-07T21:37:37Z",
+            "id": "6c3641b59c80388d9cb7a7aef3aef413",
+            "title": "The Age of Human Replacement Has Already Begun",
+            "description": "B. S. Dara bsdara@gmail.com For years, the world laughed at the idea that artificial intelligence would replace human beings. Economists dismissed the fear as technological paranoia. Corporate leaders called it “augmentation.” Universities promised that AI would merely become another workplace...",
+            "content": "B. S. Dara\nbsdara@gmail.com\nFor years, the world laughed at the idea that artificial intelligence would replace human beings. Economists dismissed the fear as technological paranoia. Corporate leaders called it “augmentation.” Universities promised t... [9918 chars]",
+            "url": "https://www.dailyexcelsior.com/the-age-of-human-replacement-has-already-begun/",
+            "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWI3NjVhYTMwLTdiMWMtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+            "publishedAt": "2026-07-08T22:30:55Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "b3ca7c53b256574ccfdb900db31e2f00",
-            "title": "Google Cloud to Host its Latest AI Models in India: Thomas Kurian",
-            "description": "Google Cloud is making its latest artificial intelligence (AI) models available locally in India in a big data sovereignty push, chief executive Thomas Kurian told Surabhi Agarwal in a video interview.",
-            "content": "Synopsis\nGoogle Cloud is making its latest artificial intelligence (AI) models available locally in India in a big data sovereignty push, chief executive Thomas Kurian told Surabhi Agarwal in a video interview.\nGoogle Cloud is making its latest artif... [7623 chars]",
-            "url": "https://economictimes.indiatimes.com/et-front/first-goal-is-data-centre-then-we-bring-supply-chain-manufacturing/articleshow/132248916.cms",
-            "image": "https://img.etimg.com/thumb/msid-132250945,width-1200,height-630,imgsize-251432,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-07-07T21:32:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
                 "country": "in"
             }
         },
         {
-            "id": "1043f748491dc26566a25bf74decceb5",
-            "title": "Google Cloud to Host its Latest AI Models in India: Thomas Kurian",
-            "description": "Google Cloud is making its latest artificial intelligence (AI) models available locally in India in a big data sovereignty push, chief executive Thomas Kurian told Surabhi Agarwal in a video interview.",
-            "content": "Synopsis\nGoogle Cloud is making its latest artificial intelligence (AI) models available locally in India in a big data sovereignty push, chief executive Thomas Kurian told Surabhi Agarwal in a video interview.\nGoogle Cloud is making its latest artif... [7623 chars]",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jul/08/et-front/first-goal-is-data-centre-then-we-bring-supply-chain-manufacturing/articleshow/132248916.cms",
-            "image": "https://img.etimg.com/thumb/msid-132250945,width-1200,height-630,imgsize-251432,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-07-07T21:32:00Z",
+            "id": "c519a92e715397871b3a5bbf72db493a",
+            "title": "Taco Bell ramps up voice AI use across nearly 900 drive-thrus",
+            "description": "Taco Bell is expanding its voice AI drive-thru partnership with Omilia, having already deployed AI ordering at over 890 restaurants across 38 states to streamline the process.",
+            "content": "Taco Bell is expanding the use of artificial intelligence (AI) at drive-thrus and announced a new strategic partnership with an AI voice provider.\nThe fast food giant on Tuesday announced the expansion of a partnership with Omilia, a provider of a vo... [2338 chars]",
+            "url": "https://www.foxbusiness.com/lifestyle/taco-bell-ramps-up-voice-ai-use-across-drive-thrus",
+            "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/taco-bell-drive-thru-cars.jpg?ve=1&tl=1",
+            "publishedAt": "2026-07-08T22:25:27Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com",
+                "country": "us"
             }
         },
         {
-            "id": "db4997f1cb36ee84b0264a9680d4649a",
-            "title": "OpenAI’s Chief Futurist Is Leaving the Company",
-            "description": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
-            "content": "OpenAI’s chief futurist Joshua Achiam notified colleagues on Tuesday that he is leaving the company later this month after nearly nine years, WIRED has learned. Achiam, who previously led a team tasked with upholding the organization’s nonprofit miss... [6187 chars]",
-            "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
-            "image": "https://media.wired.com/photos/6a431773890f52402e5ab8b7/191:100/w_1280,c_limit/Joshua-Achiam-Leaving-OpenAI-Business-2274413917.jpg",
-            "publishedAt": "2026-07-07T21:28:00Z",
+            "id": "36ce7cfc4aa9b2c2ffe047c2ea13683f",
+            "title": "Meta plans billions for first AI data center in Canada, largest outside the US",
+            "description": "EDMONTON, Alberta (AP) — Facebook and Instagram parent Meta said Wednesday it will invest more than US$9.1 billion to build its first artificial intelligence…",
+            "content": "EDMONTON, Alberta (AP) — Facebook and Instagram parent Meta said Wednesday it will invest more than US$9.1 billion to build its first artificial intelligence data center in Canada and its largest outside the United States.\nThe facility will be built ... [1492 chars]",
+            "url": "https://wtop.com/social-media/2026/07/meta-plans-billions-for-first-ai-data-center-in-canada-largest-outside-the-us/",
+            "image": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+            "publishedAt": "2026-07-08T22:24:27Z",
             "lang": "en",
             "source": {
-                "id": "b683218c3952d77a76b7bda7512f2f6e",
-                "name": "WIRED",
-                "url": "https://www.wired.com",
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "8026211150ebf634e505e8d8960390fe",
+            "title": "Meta plans billions for first AI data center in Canada, largest outside US",
+            "description": "Facebook and Instagram parent Meta said Wednesday it will invest more than 13 billion Canadian dollars ($9.1 billion) to build its first artificial intelligence data center in Canada and its largest outside the United States.",
+            "content": "EDMONTON, Alberta (AP) — Facebook and Instagram parent Meta said Wednesday it will invest more than US$9.1 billion to build its first artificial intelligence data center in Canada and its largest outside the United States.\nThe facility will be built ... [1359 chars]",
+            "url": "https://apnews.com/article/meta-ai-data-center-canada-922a7d15ab730ec53b934269fc00a0fa",
+            "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+            "publishedAt": "2026-07-08T22:20:55Z",
+            "lang": "en",
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
                 "country": "us"
             }
         }
