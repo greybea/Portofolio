@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 386299,
+    "totalArticles": 387356,
     "articles": [
         {
-            "id": "a5977c28ad742ddf87b07276869cfcfc",
-            "title": "NATO's AI 'Kill Web' on its eastern flank",
-            "description": "NATO is building an AI 'Kill Web' of sensors, drones and satellites along its eastern flank to detect and strike a Russian attack before it moves.",
-            "content": "NATO is building a vast AI network along its eastern flank, designed to spot an attack early and strike back fast. The plan is called the Eastern Flank Deterrence Initiative, and internal documents name one adversary outright: Russia.\nGerman tabloid ... [2802 chars]",
-            "url": "https://thenextweb.com/news/nato-ai-kill-web-eastern-flank-deterrence-russia",
-            "image": "https://media.thenextweb.com/2026/07/forterra-autonomous-ground-vehicles-ukraine-combat.avif",
-            "publishedAt": "2026-07-08T22:42:06Z",
+            "id": "3924f9104df2739cf9418528cbdedd55",
+            "title": "Absurd AI attack ads facing scrutiny under Oregon election rules",
+            "description": "Political ads must disclose AI use when they contain “realistic but false” images of an individual “that a reasonable person would believe is real.”",
+            "content": "The ads were not typical political fare.\nIn one, U.S. Rep. Janelle Bynum, the 5th District incumbent, appears with Gov. Tina Kotek in a bizarre scene: Both Democrats are dressed in black and Kotek’s eyes glow red as the two women run, breathless and ... [2369 chars]",
+            "url": "https://www.oregonlive.com/politics/2026/07/absurd-ai-attack-ads-facing-scrutiny-under-oregon-election-rules.html",
+            "image": "https://www.oregonlive.com/resizer/v2/KJZBXPVCKVFBHCZ27QXOB2KSNI.jpg?auth=31943b8133eddff8f947f42b8ff19e7e474f3479b277d17f86f05d1218781b0b&width=1280&smart=true&quality=90",
+            "publishedAt": "2026-07-09T22:28:18Z",
             "lang": "en",
             "source": {
-                "id": "11c2fbf226e7334e9f93bb78243a79cc",
-                "name": "TNW",
-                "url": "https://thenextweb.com",
+                "id": "ad679e3c7caaa4d82a4efb8f9e7d62b5",
+                "name": "The Oregonian",
+                "url": "https://www.oregonlive.com",
                 "country": "us"
             }
         },
         {
-            "id": "5898bca73484f6d68625f684793b1ac0",
-            "title": "Adobe: Market Overreaction Creates A Highly Asymmetric Risk-Reward Opportunity",
-            "description": "Adobe stock trades at just 11.6x P/E amid AI fears. See why steady revenue growth, 36% margins, and buybacks could drive EPS and multiple expansion.",
-            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of ADBE either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
-            "url": "https://seekingalpha.com/article/4920725-adobe-market-overreaction-creates-a-highly-asymmetric-risk-reward-opportunity",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1007845610/image_1007845610.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-07-08T22:40:40Z",
+            "id": "d05963fff0b89789ec977f8922eb9dd2",
+            "title": "AI adoption helps Thai firms become digitally mature",
+            "description": "Thai businesses recorded a medium level of digital maturity for the first time as artificial intelligence (AI) adoption accelerates, according to the Thailand Digital Outlook 2026 survey.",
+            "content": "Thai businesses recorded a medium level of digital maturity for the first time as artificial intelligence (AI) adoption accelerates, according to the Thailand Digital Outlook 2026 survey.\nWetang Phuangsap, secretary-general of the National Board of D... [2529 chars]",
+            "url": "https://www.bangkokpost.com/business/general/3283789/ai-adoption-helps-thai-firms-become-digitally-mature",
+            "image": "https://static.bangkokpost.com/media/content/dcx/2026/07/10/6149749_700.jpg",
+            "publishedAt": "2026-07-09T22:26:00Z",
             "lang": "en",
             "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            }
+        },
+        {
+            "id": "8dbbd85b27e921bd09c1600ff4e73add",
+            "title": "OpenAI Has Released Its Latest Series of AI Models, CEO Sam Altman Says That They Increase Efficiency By More Than 50%",
+            "description": "OpenAI CEO Sam Altman said the company's latest flagship artificial intelligence model delivers a 54% improvement in token efficiency for agentic coding tasks.",
+            "content": "OpenAI CEO Sam Altman said the company's latest flagship artificial intelligence model delivers a 54% improvement in token efficiency for agentic coding tasks, a gain that could significantly reduce costs for businesses deploying AI-powered software ... [2665 chars]",
+            "url": "https://www.ibtimes.com/openai-has-released-its-latest-series-ai-models-ceo-sam-altman-says-that-they-increase-efficiency-3805128",
+            "image": "https://d.ibtimes.com/en/full/4651143/sam-altman.jpg",
+            "publishedAt": "2026-07-09T22:22:01Z",
+            "lang": "en",
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
                 "country": "us"
             }
         },
         {
-            "id": "b24c143a52353729c3cc55c8b4054a47",
-            "title": "Should a chatbot manage your bank account? Probably not, according to analysis",
-            "description": "When it comes to managing your personal finances, you may want to stick with your accountant before turning to artificial intelligence, according to a new study from the University of Georgia.",
-            "content": "When it comes to managing your personal finances, you may want to stick with your accountant before turning to artificial intelligence, according to a new study from the University of Georgia.\nResearchers found that AI chatbots often provide recommen... [4577 chars]",
-            "url": "https://phys.org/news/2026-07-chatbot-bank-account-analysis.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2022/chatbot-2.jpg",
-            "publishedAt": "2026-07-08T22:40:03Z",
+            "id": "c56555e1e51ef1fce78e8152786aeaef",
+            "title": "Patreon is working with Cloudflare to squash AI crawlers.",
+            "description": "In a post on Instagram, Patreon CEO Jack Conte says the move will prevent AI crawlers from training on creators’ work. Last year, Cloudflare began blocking AI crawlers by default and recently announced plans to give publishers more granular control of the kinds of scrapers they allow in.\n[Link: Patreon Blocks Crawlers From Stealing Creators' Work for AI Training | https://www.404media.co/patreon-cloudflare-partnership-ai-crawlers/ | 404 Media]",
+            "content": "E\nExternal Link\nPatreon is working with Cloudflare to squash AI crawlers.\nIn a post on Instagram, Patreon CEO Jack Conte says the move will prevent AI crawlers from training on creators’ work. Last year, Cloudflare began blocking AI crawlers by defau... [631 chars]",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/963723/patreon-is-working-with-cloudflare-to-squash-ai-crawlers",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+            "publishedAt": "2026-07-09T22:16:24Z",
             "lang": "en",
             "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
+                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+                "name": "The Verge",
+                "url": "https://www.theverge.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "12f7d02ea9444d0cfe8cd621e04e1f19",
+            "title": "Instagram’s AI image generator alarms privacy experts",
+            "description": "Instagram users should check privacy settings after rollout of new Meta AI image generator, advocates warn",
+            "content": "Meta has sparked blowback from privacy advocates for allowing its new AI image maker to generate photos of users with public profiles by default.\nUsers of Meta’s Muse Image AI tool, released Tuesday, can tag public Instagram profiles and generate pic... [4322 chars]",
+            "url": "https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy",
+            "image": "https://i.guim.co.uk/img/media/3b54d58e56432cfdd5ea4ccb50f9515661536d6b/508_0_5033_4024/master/5033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1f83cd11e496eddc9af135749eb8e73",
+            "publishedAt": "2026-07-09T22:15:29Z",
+            "lang": "en",
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
                 "country": "gb"
             }
         },
         {
-            "id": "adbe6b29f5eddd746f7f141fcfc18357",
-            "title": "Venture Capital & Startup Funding Roundup, July 8, 2026",
-            "description": "It’s Wednesday, July 7, 2026. The last 16 hours brought a surge of capital into frontier tech: AI infrastructure, deep energy, and defense systems. Investors funneled mega-rounds into enterprise AI and chip startups (for example, Palo Alto’s SambaNova pulled in a $1 billion raise) just as industrial-age sectors got record backing – from multi-gigawatt power networks (Houston’s",
-            "content": "It’s Wednesday, July 7, 2026. The last 16 hours brought a surge of capital into frontier tech: AI infrastructure, deep energy, and defense systems. Investors funneled mega-rounds into enterprise AI and chip startups (for example, Palo Alto’s SambaNov... [40365 chars]",
-            "url": "https://techstartups.com/2026/07/08/venture-capital-startup-funding-roundup-july-8-2026/",
-            "image": "https://techstartups.com/wp-content/uploads/2026/07/Venus-Aerospace-960x640.jpg",
-            "publishedAt": "2026-07-08T22:39:13Z",
+            "id": "66b9014891f9810fef4db220f2a850c5",
+            "title": "National Minority Quality Forum Calls for AI Policy That Prioritizes Communities with the Greatest Burden of Disease",
+            "description": "New commentary from Dr. Gary A. Puckrein published in ForYourHealth.News examines why certain communities should be first in line to benefit from artificial intelligence",
+            "content": "New commentary from Dr. Gary A. Puckrein published in ForYourHealth.News examines why certain communities should be first in line to benefit from artificial intelligence\nWashington D.C., July 09, 2026 (GLOBE NEWSWIRE) -- As artificial intelligence ra... [4434 chars]",
+            "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/national-minority-quality-forum-calls-for-ai-policy-that-prioritizes-communities-with-the-greatest-burden-of-disease/2382066",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/10/1131970.jpg",
+            "publishedAt": "2026-07-09T22:14:55Z",
             "lang": "en",
             "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "d319b08730ab549c5b7fe5819f496767",
+            "title": "Why Research Infrastructure Is A Strategic Priority For University Leaders",
+            "description": "Institutions that build research environments with scalable, secure AI and HPC infrastructure at their core are better positioned to compete and fulfill their mission.",
+            "content": "Universities have never been better positioned to drive breakthrough research. The questions are bigger, the datasets are richer, and the potential for cross-disciplinary collaboration has never been greater. But a widening infrastructure gap is putt... [3640 chars]",
+            "url": "https://www.forbes.com/sites/delltechnologies/2026/07/09/why-research-infrastructure-is-a-strategic-priority-for-university-leaders/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a50117513e6555576d6a4c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-07-09T22:12:40Z",
+            "lang": "en",
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
                 "country": "us"
             }
         },
         {
-            "id": "0d50aacadfdae498418f66ce4d362615",
-            "title": "A Brown professor's proof of mass AI cheating",
-            "description": "A Brown professor moved his exam in-person and the class average crashed from 96 to 48, turning a fuzzy worry about AI cheating into a hard number.",
-            "content": "An economics professor at Brown University suspects most of his class cheated with AI, and he has the numbers to make the case. Roberto Serrano watched his take-home midterm average hit 96 out of 100. When he switched the final to an in-person test, ... [2946 chars]",
-            "url": "https://thenextweb.com/news/brown-university-ai-cheating-in-person-exam-serrano",
-            "image": "https://media.thenextweb.com/2026/07/ivy-league-brown-university.avif",
-            "publishedAt": "2026-07-08T22:31:24Z",
+            "id": "ef796f483242aadaf66db76431bfe787",
+            "title": "Column: AI can help dyslexic learners build career readiness",
+            "description": "AI is making education more accessible and personalized for dyslexic, at-risk and multilingual learners, Virginia Peninsula MOAA President Glenn Marshall writes in a guest column.",
+            "content": "Students with dyslexia often face major learning challenges. Traditional classrooms, with heavy reading and standard tests, can be especially difficult. But educational technology, especially artificial intelligence (AI), is creating new ways to impr... [4073 chars]",
+            "url": "https://www.pilotonline.com/2026/07/09/column-ai-can-help-dyslexic-learners-build-career-readiness/",
+            "image": "https://www.pilotonline.com/wp-content/uploads/migration/2021/02/17/VP5WK2QMBRAE5F4SXHBCXQZAPI.jpg?w=1024&h=670",
+            "publishedAt": "2026-07-09T22:05:58Z",
             "lang": "en",
             "source": {
-                "id": "11c2fbf226e7334e9f93bb78243a79cc",
-                "name": "TNW",
-                "url": "https://thenextweb.com",
+                "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
+                "name": "Norfolk Virginian-Pilot",
+                "url": "https://www.pilotonline.com",
                 "country": "us"
             }
         },
         {
-            "id": "1a291385d4e0132cd190870745040431",
-            "title": "Google Photos can now turn your ordinary videos into AI-generated works of art",
-            "description": "Google has introduced Video Remix for Google Photos, a new Gemini-powered feature that transforms ordinary videos with AI-generated lighting, artistic styles, and background changes in just a few taps.",
-            "content": "Google is giving Photos another dose of Gemini. The company has announced Video Remix, a new AI-powered editing tool that can transform ordinary video clips into stylized creations with just a few taps. Rather than requiring professional editing skil... [1863 chars]",
-            "url": "https://www.digitaltrends.com/phones/google-photos-can-now-turn-your-ordinary-videos-into-ai-generated-works-of-art/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/07/Google-Photos-Video-Remix.jpg?resize=1200%2C630",
-            "publishedAt": "2026-07-08T22:31:18Z",
+            "id": "3579a3be1f32b6fa431f82f51507844a",
+            "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+            "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+            "content": "OpenAI is sunsetting Atlas, the AI-powered browser it launched in October with ChatGPT at its core. But it’s not giving up on the idea that AI should help people browse the web. Instead, it’s taking some of the agentic browsing features it tested in ... [1620 chars]",
+            "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-app-browser.jpg?resize=1200,675",
+            "publishedAt": "2026-07-09T22:03:54Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
                 "country": "us"
             }
         },
         {
-            "id": "6c3641b59c80388d9cb7a7aef3aef413",
-            "title": "The Age of Human Replacement Has Already Begun",
-            "description": "B. S. Dara bsdara@gmail.com For years, the world laughed at the idea that artificial intelligence would replace human beings. Economists dismissed the fear as technological paranoia. Corporate leaders called it “augmentation.” Universities promised that AI would merely become another workplace...",
-            "content": "B. S. Dara\nbsdara@gmail.com\nFor years, the world laughed at the idea that artificial intelligence would replace human beings. Economists dismissed the fear as technological paranoia. Corporate leaders called it “augmentation.” Universities promised t... [9918 chars]",
-            "url": "https://www.dailyexcelsior.com/the-age-of-human-replacement-has-already-begun/",
-            "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWI3NjVhYTMwLTdiMWMtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-07-08T22:30:55Z",
+            "id": "f1e733f644fb1c06aae8a419ef5b1157",
+            "title": "The good, bad and ugly of AI’s economic impact",
+            "description": "Policymakers and investors ⁠fear artificial ​intelligence will induce ​a jobs apocalypse. Fortunately, neither theory ​nor evidence ​backs this up. The ‌technology ⁠has other more insidious macroeconomic effects, though. It ​could ​even ⁠reverse the secret of ​capitalism’s success.",
+            "content": "LONDON, July 9 (Reuters Breakingviews) - A year ago Ford Motor (F.N), opens new tab CEO Jim Farley warned, opens new tab “artificial intelligence is going to replace literally half of all white-collar workers in the U.S.”. In February Mustafa Suleyma... [7710 chars]",
+            "url": "https://www.reuters.com/commentary/breakingviews/good-bad-ugly-ais-economic-impact-2026-07-09/",
+            "image": "https://www.reuters.com/resizer/v2/ODUOGVYCRFMCLD4UCRBQ6P35YY.jpg?auth=4c829787b6e0ed7435fa08efbb3911a5bfd749b9d06808325a5828c4e18e6b6b&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-09T22:00:26Z",
             "lang": "en",
             "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "c519a92e715397871b3a5bbf72db493a",
-            "title": "Taco Bell ramps up voice AI use across nearly 900 drive-thrus",
-            "description": "Taco Bell is expanding its voice AI drive-thru partnership with Omilia, having already deployed AI ordering at over 890 restaurants across 38 states to streamline the process.",
-            "content": "Taco Bell is expanding the use of artificial intelligence (AI) at drive-thrus and announced a new strategic partnership with an AI voice provider.\nThe fast food giant on Tuesday announced the expansion of a partnership with Omilia, a provider of a vo... [2338 chars]",
-            "url": "https://www.foxbusiness.com/lifestyle/taco-bell-ramps-up-voice-ai-use-across-drive-thrus",
-            "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/taco-bell-drive-thru-cars.jpg?ve=1&tl=1",
-            "publishedAt": "2026-07-08T22:25:27Z",
-            "lang": "en",
-            "source": {
-                "id": "1b97b25c0ec482f85326378f82f7f815",
-                "name": "Fox Business",
-                "url": "https://www.foxbusiness.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "36ce7cfc4aa9b2c2ffe047c2ea13683f",
-            "title": "Meta plans billions for first AI data center in Canada, largest outside the US",
-            "description": "EDMONTON, Alberta (AP) — Facebook and Instagram parent Meta said Wednesday it will invest more than US$9.1 billion to build its first artificial intelligence…",
-            "content": "EDMONTON, Alberta (AP) — Facebook and Instagram parent Meta said Wednesday it will invest more than US$9.1 billion to build its first artificial intelligence data center in Canada and its largest outside the United States.\nThe facility will be built ... [1492 chars]",
-            "url": "https://wtop.com/social-media/2026/07/meta-plans-billions-for-first-ai-data-center-in-canada-largest-outside-the-us/",
-            "image": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-            "publishedAt": "2026-07-08T22:24:27Z",
-            "lang": "en",
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "8026211150ebf634e505e8d8960390fe",
-            "title": "Meta plans billions for first AI data center in Canada, largest outside US",
-            "description": "Facebook and Instagram parent Meta said Wednesday it will invest more than 13 billion Canadian dollars ($9.1 billion) to build its first artificial intelligence data center in Canada and its largest outside the United States.",
-            "content": "EDMONTON, Alberta (AP) — Facebook and Instagram parent Meta said Wednesday it will invest more than US$9.1 billion to build its first artificial intelligence data center in Canada and its largest outside the United States.\nThe facility will be built ... [1359 chars]",
-            "url": "https://apnews.com/article/meta-ai-data-center-canada-922a7d15ab730ec53b934269fc00a0fa",
-            "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-            "publishedAt": "2026-07-08T22:20:55Z",
-            "lang": "en",
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
                 "country": "us"
             }
         }
