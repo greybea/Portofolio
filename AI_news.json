@@ -4,64 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 388192,
+    "totalArticles": 388601,
     "articles": [
         {
-            "id": "184077ec465d88657b5175c223f3df2b",
-            "title": "Apple is suing OpenAI over theft of trade secrets in blockbuster lawsuit",
-            "description": "Apple has sued OpenAI, alleging the company orchestrated a campaign to steal confidential product information through former employees as both companies race to build next-generation AI hardware.",
-            "content": "For the past two years, Apple and OpenAI have been presented as close AI partners. ChatGPT powers key Apple Intelligence features, Siri can hand complex queries over to OpenAI, and together the two companies helped bring generative AI to millions of ... [3001 chars]",
-            "url": "https://www.digitaltrends.com/cool-tech/apple-is-suing-openai-of-stealing-trade-secrets-in-blockbuster-lawsuit/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/07/Apple-store-Apple-Building-Apple-Logo.jpg?resize=1200%2C630",
-            "publishedAt": "2026-07-10T21:11:08Z",
+            "id": "a59c3726f7a621d3ecef0d916e93fa3d",
+            "title": "The problem with nostalgic AI images of old Singapore",
+            "description": "AI nostalgia slop of Singapore causes a “double loss” of these places: first, to time and progress, and now, to a cultural flattening. It also suggests that history must fit a specific aesthetic to be worth remembering. Read more at straitstimes.com.",
+            "content": "Doomscrolling on Instagram recently, I came across what looked like a photograph of the former Jurong Entertainment Centre (JEC). The image appeared hyper-realistic – its distinctive facade, with its blue-grey palette and Shaw Brothers “SB” signage, ... [7657 chars]",
+            "url": "https://www.straitstimes.com/opinion/nostalgic-ai-images-of-old-singapore-make-me-uneasy",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a2d4b99305f87223777a74f45cf1c89e050215fb1ab87fe85101c03e27173212",
+            "publishedAt": "2026-07-11T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
-                "country": "us"
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
             }
         },
         {
-            "id": "e7d61cd876e0f06ffae3ac68a9511434",
-            "title": "SK Hynix rises nearly 13% in debut on Wall Street as demand for memory chips soars amid AI frenzy",
-            "description": "Shares of South Korean memory chipmaker SK Hynix rose nearly 13% as they made their debut on Wall Street, at a time when demand for chips is surging thanks to the frenzy around artificial intelligence",
-            "content": "NEW YORK (AP) — Shares of South Korean memory chipmaker SK Hynix rose 12.8% as they made their debut on Wall Street, at a time when demand for chips is surging thanks to the frenzy around artificial intelligence.\nThe company is already one of the lar... [2929 chars]",
-            "url": "https://www.barchart.com/story/news/3222276/sk-hynix-rises-nearly-13-in-debut-on-wall-street-as-demand-for-memory-chips-soars-amid-ai-frenzy",
-            "image": "https://barchart-news-media-prod.aws.barchart.com/ap/d1aa45e9415a48d783dc7f4aac9571b6/d1aa45e9415a48d783dc7f4aac9571b6_main_south_korea_financial_markets_35437.jpg",
-            "publishedAt": "2026-07-10T21:07:44Z",
-            "lang": "en",
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "34b57b222bcaa9d6eb6a667cab88f398",
-            "title": "Apple Accuses OpenAI of Using Job Interviews to Extract its Hardware Secrets in New Lawsuit",
-            "description": "Apple sues OpenAI for trade secret theft. Lawsuits raise concerns over AI ethics and user privacy as publishers seek court sanctions.",
-            "content": "Apple Inc. (NASDAQ:AAPL) sued OpenAI in federal court in Northern California on Friday, accusing the AI company of taking Apple’s trade secrets to accelerate its own push into consumer devices.\nThe complaint lands as publishers seek court sanctions a... [3492 chars]",
-            "url": "https://www.benzinga.com/news/legal/26/07/60401831/apple-accuses-openai-of-using-job-interviews-to-extract-its-hardware-secrets-in-new-lawsuit",
-            "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/10/Beijing--China---July-21--2023-Apple-Log.jpg",
-            "publishedAt": "2026-07-10T21:07:20Z",
-            "lang": "en",
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "f649f98ddb520793f938d586db3636b3",
-            "title": "Apple Sues OpenAI: Battle Over Trade Secrets",
-            "description": "Apple has filed a lawsuit against OpenAI and two former employees, accusing them of stealing trade secrets to bolster OpenAI's hardware ambitions. The complaint raises allegations of misappropriation of Apple's confidential information. Tensions between Apple and OpenAI have increased amidst growing competition in the AI and consumer hardware sectors.",
-            "content": "In a dramatic escalation of tensions, Apple has initiated legal proceedings against OpenAI, alongside two former employees, accusing them of trade secret misappropriation. The lawsuit, lodged in the U.S. District Court for the Northern District of Ca... [980 chars]",
-            "url": "https://www.devdiscourse.com/article/technology/3948723-apple-sues-openai-battle-over-trade-secrets",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_09_2025_19_52_07_7502257.png&width=920&format=jpeg",
-            "publishedAt": "2026-07-10T21:03:38Z",
+            "id": "ef8c8e2aa8c879da54e827c5a81b81d3",
+            "title": "Trailblazers and Innovations: From Wally Funk's Legacy to China's Rockets",
+            "description": "Wally Funk, pioneering aviator and former astronaut trainee, has died at 87. Also, China tested a sea-based rocket booster recovery system, challenging U.S. dominance in reusable rockets. Meanwhile, SpaceX's immediate value is anchored on Earth, benefiting from the AI boom in infrastructure, particularly data centers.",
+            "content": "Pioneering aviator and astronaut trainee Wally Funk, who made history as the oldest person to fly to space, has passed away in Texas at the age of 87. Known for her groundbreaking achievements in aviation, Funk's death was announced by the city of Gr... [622 chars]",
+            "url": "https://www.devdiscourse.com/article/science-environment/3948902-trailblazers-and-innovations-from-wally-funks-legacy-to-chinas-rockets",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_29_23_945969.png&width=920&format=jpeg",
+            "publishedAt": "2026-07-11T20:57:12Z",
             "lang": "en",
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -71,98 +39,130 @@
             }
         },
         {
-            "id": "e83bbca320d61762dc57dae3fa856979",
-            "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
-            "description": "A VB Pulse survey of 101 enterprises finds 57% traced a wrong AI agent answer to bad context, and only 25% have a governed context layer in production.",
-            "content": "An enterprise AI agent answers with total confidence, but the number is wrong. Nobody catches it until someone traces it back to a stale metric definition or a document the retrieval system never pulled. The model did not fail. The context it was giv... [7534 chars]",
-            "url": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
-            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1dmfePLwv5tMnsvynK7fRY/af274baef6c18c897c0f82229f923bf8/agentic-ai-context-smk1.jpg?w=800&q=75",
-            "publishedAt": "2026-07-10T20:58:32Z",
+            "id": "e8e1b7860df92b4bf0299660a637292f",
+            "title": "Meta scales back AI tool after backlash",
+            "description": "Meta has pulled the plug on a feature of a recently launched AI tool following criticism that it made Instagram accounts fodder for use in creating AI-generated images.",
+            "content": "Meta has pulled the plug on a feature of a recently launched AI tool following criticism that it made Instagram accounts fodder for use in creating AI-generated images.\nThe move on Friday came less than a week after the parent of Instagram and Facebo... [1349 chars]",
+            "url": "https://www.manilatimes.net/2026/07/12/business/sunday-business-it/meta-scales-back-ai-tool-after-backlash/2382830",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/12/1133661.jpg",
+            "publishedAt": "2026-07-11T20:40:00Z",
             "lang": "en",
             "source": {
-                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
-                "name": "VentureBeat",
-                "url": "https://venturebeat.com",
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "b8dc6e88709e215477e63c8634af2b06",
+            "title": "Meta Removes Default AI Integration On Instagram",
+            "description": "Designed to feed its new ‘Muse Image’ tool, Meta opted in users' their posts used for training material without permission",
+            "content": "This week, Meta introduced “Muse Image,” a new tool suite for Instagram and WhatsApp. Currently available stateside, what stirred controversy was how it was integrated, automatically using other posts unless opting out manually. Backlash to any AI an... [1863 chars]",
+            "url": "https://kotaku.com/meta-removes-latest-ai-integration-on-instagram-following-sag-aftra-backlash-2000714982",
+            "image": "https://kotaku.com/app/uploads/2026/05/zuckerberg-1200x675.jpg",
+            "publishedAt": "2026-07-11T20:38:23Z",
+            "lang": "en",
+            "source": {
+                "id": "0aab1d72ae666208d1824f73c0ea4209",
+                "name": "Kotaku",
+                "url": "https://kotaku.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "e13265d6cd1b12035a041d05f9967248",
+            "title": "Phoebe Gates' AI Shopping App Phia Reportedly Claimed Unearned Affiliate Sales Through Fake Clicks",
+            "description": "Gates, who is Bill Gates’ daughter, founded the app alongside Sophia Kianni.",
+            "content": "According to multiple reports, the AI-powered shopping plugin Phia used a tactic known as cookie stuffing to attach its affiliate code to sales it didn't actually drive. Phia, which launched last spring, was co-founded by Phoebe Gates — Bill Gates' d... [1004 chars]",
+            "url": "https://www.engadget.com/2212973/phoebe-gates-ai-shopping-app-phia-affiliate-sales-fake-clicks/",
+            "image": "https://www.engadget.com/img/gallery/phoebe-gates-ai-shopping-app-phia-reportedly-claimed-unearned-affiliate-sales-through-fake-clicks/l-intro-1783801413.jpg",
+            "publishedAt": "2026-07-11T20:29:36Z",
+            "lang": "en",
+            "source": {
+                "id": "549a7a859b2345bbe231b00e7244ef99",
+                "name": "Engadget",
+                "url": "https://www.engadget.com",
                 "country": "us"
             }
         },
         {
-            "id": "68b218918440e9efa28c7c891f0f1101",
-            "title": "Celestial Wonders and Technological Triumphs: Exploring Space Innovations",
-            "description": "Current science news highlights include the detection of an exoplanet surviving its star's death, advancements in bioprinting tissues on the International Space Station, the passing of aviator Wally Funk, China's successful rocket booster recovery, and SpaceX's Earth-based AI infrastructure developments.",
-            "content": "Astronomers have discovered an exoplanet that continues to orbit its star even after the star's death. This groundbreaking finding suggests that outer planets could survive the sun's transformation into a white dwarf, akin to a celestial endurance te... [654 chars]",
-            "url": "https://www.devdiscourse.com/article/science-environment/3948718-celestial-wonders-and-technological-triumphs-exploring-space-innovations",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/10_07_2024_15_06_33_7038425.png&width=920&format=jpeg",
-            "publishedAt": "2026-07-10T20:56:11Z",
+            "id": "766256fd54bf84ac1acb6b2153db1faa",
+            "title": "What Smart People Are Saying About Apple's Lawsuit Against OpenAI",
+            "description": "Apple sued OpenAI on Friday, accusing the AI startup of orchestrating a campaign to steal trade secrets from iPhone maker.",
+            "content": "The AI talent war may now be worthy of a Hollywood adaptation.\nIn a new lawsuit that reads like a corporate crime thriller, Apple accused OpenAI of poaching former Apple employees, conducting \"show and tell\" interviews, and accessing confidential doc... [8024 chars]",
+            "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+            "image": "https://i.insider.com/6a52a04ddaf4d560957bfd06?width=1200&format=jpeg",
+            "publishedAt": "2026-07-11T20:23:05Z",
             "lang": "en",
             "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "4dd7bdd83a5a628978a41d8e3fb7158a",
-            "title": "'Security warning' for millions of Instagram users: Meta has just decided that anyone can generate AI images of you from your public Instagram account by typing ...",
-            "description": "Tech News News: Cybersecurity firm Malwarebytes warned the tool could be used for “impersonation, scams, or other abuse.” In a blog post on its website Malwarebytes w.",
-            "content": "Representative Image\nCybersecurity firm Malwarebytes warned the tool could be used for “impersonation, scams, or other abuse.” In a blog post on its website Malwarebytes wrote that every consumer app has a settings menu that allows users to make deci... [4507 chars]",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/security-warning-for-millions-of-instagram-users-meta-has-just-decided-that-anyone-can-generate-ai-images-of-you-from-your-public-instagram-account-by-typing-/articleshow/132320490.cms",
-            "image": "https://static.toiimg.com/thumb/msid-132320486,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-10T20:55:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "50a3a4bbc1a1edad6729d9b857da039d",
-            "title": "Anthropic Confronts the Hard Questions About AI Responsibility",
-            "description": "A new film is the latest from the company’s “Keep Thinking” campaign",
-            "content": "While AI can provide endless answers, Anthropic wants people to keep asking questions about it—specifically, its impact on humans.\nThe AI company has launched a new film, “Hard Questions,” created by Mother and directed by Myles McAuliffe. The work i... [1652 chars]",
-            "url": "https://www.adweek.com/creativity/anthropic-confronts-the-hard-questions-about-ai-responsibility/",
-            "image": "https://static-www.adweek.com/wp-content/uploads/2026/07/zocdoc-cmo-6.jpg?w=600&h=315&crop=1",
-            "publishedAt": "2026-07-10T20:54:33Z",
-            "lang": "en",
-            "source": {
-                "id": "e9159c384a74cd663934e35c84b61001",
-                "name": "Adweek",
-                "url": "https://www.adweek.com",
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
                 "country": "us"
             }
         },
         {
-            "id": "9e69b1b3615a16fb43a764a6f3b51325",
-            "title": "South Korean chipmaker SK Hynix debuts on Nasdaq at $170 a share",
-            "description": "SK Hynix, the South Korean chipmaker worth $1 trillion, opened Friday at $170 a share on the Nasdaq and quickly rose higher – signaling investors are still eager for access to the AI trade, even after weeks of wild swings in tech and chip stocks.",
-            "content": "SK Hynix, the South Korean chipmaker worth $1 trillion, opened Friday at $170 a share on the Nasdaq and quickly rose higher – signaling investors are still eager for access to the AI trade, even after weeks of wild swings in tech and chip stocks.\nAs ... [2903 chars]",
-            "url": "https://nypost.com/2026/07/10/business/south-korean-chipmaker-sk-hynix-debuts-on-nasdaq-at-170-a-share/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134005379.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-07-10T20:53:55Z",
+            "id": "6397cf39453b75d3cdb468b3bd340138",
+            "title": "Meta's AI Detector Can't Detect Images It Generated Itself, Report Finds",
+            "description": "Once the images were cropped, the detection tool began to struggle, according to Reuters.",
+            "content": "Meta’s new AI detection tool isn’t working entirely as advertised, according to a new report.\nMeta debuted its first image generation model, Muse Image, earlier this week. As part of the debut, the tech giant also announced that all images generated ... [3001 chars]",
+            "url": "https://gizmodo.com/metas-ai-detector-cant-detect-images-it-generated-itself-report-finds-2000784335",
+            "image": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2285403793-1200x675.jpg",
+            "publishedAt": "2026-07-11T20:22:27Z",
             "lang": "en",
             "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
                 "country": "us"
             }
         },
         {
-            "id": "c7201deb0d2e79e7d29978f8944d2fc6",
-            "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-            "description": "By KAITLYN HUAMANI and MATT O’BRIEN Apple on Friday accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT, a major rupture in a partnership between the iPhone maker and the artificial intelligence company. Apple said in the lawsuit filed in a California federal court that the theft of […]",
-            "content": "By KAITLYN HUAMANI and MATT O’BRIEN\nApple on Friday accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT, a major rupture in a partnership between the iPhone maker and the artificial intelligence company.\nApple s... [4380 chars]",
-            "url": "https://www.mercurynews.com/2026/07/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets-2/",
-            "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/Apple_OpenAI_Lawsuit_268_5.jpg?w=1024&h=682",
-            "publishedAt": "2026-07-10T20:53:49Z",
+            "id": "140b9d4ff9aa7ed152d578c69ab1ce3d",
+            "title": "AI is entering a new phase - and these are the stocks investors should be watching",
+            "description": "CNBC's Paulina Likos and Zev Fima discuss Wall Street's shift from AI euphoria toward rationalization and what it means for investors.",
+            "content": "In this Club Check-in, Investing Club's Paulina Likos and Zev Fima discuss Wall Street's shift from AI euphoria toward rationalization and what it means for investors. After years of rewarding companies for announcing ever-larger artificial intellige... [1556 chars]",
+            "url": "https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108080987-1755613115045-108080987-1755610449468-108080987-1735653388433-gettyimages-2191194281-avils-notitle241230_np5bz.jpeg?v=1770839823&w=1920&h=1080",
+            "publishedAt": "2026-07-11T20:11:31Z",
             "lang": "en",
             "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "a72c085f4f318ef644f238deb832e219",
+            "title": "AI companies want to water down Australia’s copyright laws. Artists are outraged, Labor is split",
+            "description": "Anthony Albanese will deliver a landmark speech on AI this week as MPs are torn between attracting datacentre investment and protecting the rights of creatives",
+            "content": "When Anna Funder stood before a pack of journalists at Parliament House earlier this month, she presented herself not just as a writer but also a “victim of crime”.\nThe Stasiland author was using the analogy to illustrate how technology companies hav... [9106 chars]",
+            "url": "https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres",
+            "image": "https://i.guim.co.uk/img/media/22ada131c2cb310491b0adad1a133e8a5cada2c6/255_557_4171_3337/master/4171.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3198d4788a2109c3310713822129091e",
+            "publishedAt": "2026-07-11T20:00:59Z",
+            "lang": "en",
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "d425a36af0a602822b17b154ed751f2b",
+            "title": "Mass Effect Officially Returns To Its Best Era In 2027",
+            "description": "Dark Horse Direct releases a highly detailed Mass Effect: EDI Figure, commemorating the iconic AI from the Mass Effect trilogy.",
+            "content": "Since the launch of Mass Effect: Andromeda back in 2017, fans have been left wanting when it comes to the continuation of the Mass Effect franchise. First arriving back in 2007 with the launch of Mass Effect, the sci-fi series by BioWare was followed... [1757 chars]",
+            "url": "https://screenrant.com/mass-effect-edi-statue-2027-release/",
+            "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/07/mass-effect-4-protagonist-with-concept-art.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-07-11T20:00:22Z",
+            "lang": "en",
+            "source": {
+                "id": "6b8b6fae575a37200ef9ef50109518f5",
+                "name": "Screen Rant",
+                "url": "https://screenrant.com",
                 "country": "us"
             }
         }
