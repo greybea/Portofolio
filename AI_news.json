@@ -4,16 +4,128 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 388601,
+    "totalArticles": 388874,
     "articles": [
         {
-            "id": "a59c3726f7a621d3ecef0d916e93fa3d",
-            "title": "The problem with nostalgic AI images of old Singapore",
-            "description": "AI nostalgia slop of Singapore causes a “double loss” of these places: first, to time and progress, and now, to a cultural flattening. It also suggests that history must fit a specific aesthetic to be worth remembering. Read more at straitstimes.com.",
-            "content": "Doomscrolling on Instagram recently, I came across what looked like a photograph of the former Jurong Entertainment Centre (JEC). The image appeared hyper-realistic – its distinctive facade, with its blue-grey palette and Shaw Brothers “SB” signage, ... [7657 chars]",
-            "url": "https://www.straitstimes.com/opinion/nostalgic-ai-images-of-old-singapore-make-me-uneasy",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a2d4b99305f87223777a74f45cf1c89e050215fb1ab87fe85101c03e27173212",
-            "publishedAt": "2026-07-11T21:00:00Z",
+            "id": "b60f1d5474e4a3958109ed050d13fafd",
+            "title": "The Week in Breakingviews: Causes of correlation",
+            "description": "Despite renewed hostilities in ⁠the Strait ​of Hormuz, investors remain ​obsessed with artificial intelligence. This week’s update ​argues there will ​be few places to ‌hide ⁠when the AI trade goes into reverse. Plus: looking ​for ​Japan’s ⁠missing migrants, and a gamble ​on Tobin ​taxes.",
+            "content": "LONDON, July 12 (Reuters Breakingviews) - Welcome back! The ceasefire in the Strait of Hormuz ended, but financial markets shrugged. Investors are more focused on artificial intelligence. What else should we be thinking about? Email me, opens new tab... [6745 chars]",
+            "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-07-12/",
+            "image": "https://www.reuters.com/resizer/v2/XUSYUVG45ZI6LFZT2TSG6RPWAQ.jpg?auth=fda97f09fba9db7b896ec7132e92fb4ec69fba24c7e3830cda17b3b577596e1b&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-07-12T22:45:29Z",
+            "lang": "en",
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "487b73bf3ccbd223f38a4bd53b7647b9",
+            "title": "Apple bites OpenAI with lawsuit",
+            "description": "Apple has accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT, a major rupture in a partnership between the iPhone maker and the artificial intelligence company.",
+            "content": "Apple has accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT, a major rupture in a partnership between the iPhone maker and the artificial intelligence company.\nApple said in the lawsuit filed Friday in a Calif... [4021 chars]",
+            "url": "https://www.bostonherald.com/2026/07/12/apple-bites-openai-with-lawsuit/",
+            "image": "https://www.bostonherald.com/wp-content/uploads/2026/07/AP26191741826805.jpg?w=1024&h=683",
+            "publishedAt": "2026-07-12T22:33:21Z",
+            "lang": "en",
+            "source": {
+                "id": "bc49d994b41ac710f5c89f6e6adeece4",
+                "name": "The Boston Herald",
+                "url": "https://www.bostonherald.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c995a8f5ef1bbc7cc1408216a50e6293",
+            "title": "Micron or SK hynix: One Investor Sees More Upside in This AI Memory Stock",
+            "description": "Until last week, U.S. investors keen to jump on the memory bandwagon had few good options. Micron (NASDAQ:MU) was listed on the Nasdaq, while SK...",
+            "content": "Until last week, U.S. investors keen to jump on the memory bandwagon had few good options. Micron (NASDAQ:MU) was listed on the Nasdaq, while SK hynix (NASDAQ:SKHY) and Samsung were accessible only through thinly traded OTC shares or diversified Kore... [2524 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/micron-or-sk-hynix-one-investor-sees-more-upside-in-this-ai-memory-stock-1036317384",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/07/image-1068-1024x545.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-07-12T22:23:06Z",
+            "lang": "en",
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "eda60780814ccf8e12aaa1ab2e1b8802",
+            "title": "Machine learning calibration of biosensors for microcystin toxin monitoring in freshwater",
+            "description": "Portable screen-printed carbon electrode (SPCE) biosensors offer a rapid, low-cost way to detect microcystin-lysine-arginine (MC-LR), an extremely potent toxin produced by cyanobacteria during harmful algal blooms in freshwater. Even at low concentrations, MC-LR can damage the liver and has been linked to an increased risk of liver and colon cancer, and the World Health Organization has set a guideline value of 1 microgram per liter for MC-LR in drinking water.",
+            "content": "Portable screen-printed carbon electrode (SPCE) biosensors offer a rapid, low-cost way to detect microcystin-lysine-arginine (MC-LR), an extremely potent toxin produced by cyanobacteria during harmful algal blooms in freshwater. Even at low concentra... [3248 chars]",
+            "url": "https://phys.org/news/2026-07-machine-calibration-biosensors-microcystin-toxin.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/machine-learning-calib.jpg",
+            "publishedAt": "2026-07-12T22:20:01Z",
+            "lang": "en",
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "e72357916581459a3f770b9ddec3e240",
+            "title": "Apple Finalized The M7 Chip Design Just Six Months After The M6, As AI Pressures Company To Bring Neural Processing Upgrades Into Overdrive Mode",
+            "description": "AI has forced Apple to move rapidly with the development of the M7, with the latter’s chip design completed shortly after the M6",
+            "content": "How We Rate Rumors\n0-20%: Unlikely - Lacks credible sources\n21-40%: Questionable - Some concerns remain\n41-60%: Plausible - Reasonable evidence\n61-80%: Probable - Strong evidence\n81-100%: Highly Likely - Multiple reliable sources\nRUMOR ASSESSMENT\n60%... [3170 chars]",
+            "url": "https://wccftech.com/apple-m7-chip-design-finalized-six-months-after-m6-due-to-ai/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Apple-M7.jpg",
+            "publishedAt": "2026-07-12T22:10:46Z",
+            "lang": "en",
+            "source": {
+                "id": "9a68172fefded1b86fc9a95d43faf501",
+                "name": "Wccftech",
+                "url": "https://wccftech.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "b340a1eaecd8e3e6714d6327b6927fa7",
+            "title": "How to spot AI and fake images in hotel and holiday listings",
+            "description": "AI is allowing scammers to create fake hotel photos, to mislead travellers and steal money. Hear from the experts about how to spot the deceptive images.",
+            "content": "You might want to look closer at those glossy accommodation photos the next time you're planning a getaway.\nA new wave of artificial intelligence (AI) is making its way into the travel industry, and the internet is awash with stories of unsuspecting ... [2507 chars]",
+            "url": "https://www.canberratimes.com.au/story/9307149/how-to-spot-ai-and-fake-images-in-hotel-and-holiday-listings/",
+            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/QQwHRnUv9qYdvjDNLdqaup/8dfe131f-2408-4c4c-b26f-124065fe8209.jpg/r0_812_4032_2929_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-07-12T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "e9e16e101eac1736f7531f6b7e01ecfb",
+            "title": "Why the world's biggest AI companies want data centres in the NT",
+            "description": "The NT's sunny skies, natural gas reserves and proximity to Asia have caught the attention of a dozen data centre developers.",
+            "content": "From the tropics of the Top End to the red dirt of Central Australia, the Northern Territory seems a world away from the rapid development associated with artificial intelligence.\nBut the NT could soon be at the centre of one of the world's most cont... [4082 chars]",
+            "url": "https://www.abc.net.au/news/2026-07-13/data-centre-hyperscalers-target-northern-territory/106898282",
+            "image": "https://live-production.wcms.abc-cdn.net.au/bd42b59296c8058230e3f624fbc1399f?impolicy=wcms_watermark_news&cropH=811&cropW=1441&xPos=0&yPos=74&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-07-12T21:08:31Z",
+            "lang": "en",
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "204bfc8e21c53b4571e131fe637e8214",
+            "title": "Singapore proposes mandatory notification when firms use personal data for AI training",
+            "description": "Organisations should issue AI-specific notifications explaining that data will be used to develop generative AI models. Read more at straitstimes.com.",
+            "content": "SINGAPORE – Organisations that use personal data to train generative artificial intelligence models must clearly notify users affected under proposed new rules.\nThe Personal Data Protection Commission (PDPC), which consulted the public on the rules, ... [4426 chars]",
+            "url": "https://www.straitstimes.com/tech/singapore-proposes-ai-specific-notices-for-personal-data-used-in-ai-training",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f275a2e73f3efc8c9b192be9f1887a4d2882078d99560c98f5b895b4d9c18721",
+            "publishedAt": "2026-07-12T21:00:00Z",
             "lang": "en",
             "source": {
                 "id": "72bbcd9c095a3d51c97cdda7a97dba31",
@@ -23,146 +135,34 @@
             }
         },
         {
-            "id": "ef8c8e2aa8c879da54e827c5a81b81d3",
-            "title": "Trailblazers and Innovations: From Wally Funk's Legacy to China's Rockets",
-            "description": "Wally Funk, pioneering aviator and former astronaut trainee, has died at 87. Also, China tested a sea-based rocket booster recovery system, challenging U.S. dominance in reusable rockets. Meanwhile, SpaceX's immediate value is anchored on Earth, benefiting from the AI boom in infrastructure, particularly data centers.",
-            "content": "Pioneering aviator and astronaut trainee Wally Funk, who made history as the oldest person to fly to space, has passed away in Texas at the age of 87. Known for her groundbreaking achievements in aviation, Funk's death was announced by the city of Gr... [622 chars]",
-            "url": "https://www.devdiscourse.com/article/science-environment/3948902-trailblazers-and-innovations-from-wally-funks-legacy-to-chinas-rockets",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_29_23_945969.png&width=920&format=jpeg",
-            "publishedAt": "2026-07-11T20:57:12Z",
+            "id": "a15c0e8a46bdc713091271dee6ce5880",
+            "title": "There are many SkillsFuture courses out there. Which are the right ones to take?",
+            "description": "In an age of AI and tech changes, workers need to adapt quickly. Training is crucial - but it has to be the right kind. Read more at straitstimes.com.",
+            "content": "Paul is a marketing executive at a small boutique digital firm in Singapore. He hopes to move into a regional role at a global bank or fintech firm, where customer acquisition and digital campaigns are increasingly data-driven. To bridge this gap, he... [9696 chars]",
+            "url": "https://www.straitstimes.com/opinion/there-are-many-skillsfuture-courses-out-there-which-are-the-right-ones-to-take",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f1c1523af51107c21cc017f216f344914b054a5ed5b5d8a884b05564bac81189",
+            "publishedAt": "2026-07-12T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
             }
         },
         {
-            "id": "e8e1b7860df92b4bf0299660a637292f",
-            "title": "Meta scales back AI tool after backlash",
-            "description": "Meta has pulled the plug on a feature of a recently launched AI tool following criticism that it made Instagram accounts fodder for use in creating AI-generated images.",
-            "content": "Meta has pulled the plug on a feature of a recently launched AI tool following criticism that it made Instagram accounts fodder for use in creating AI-generated images.\nThe move on Friday came less than a week after the parent of Instagram and Facebo... [1349 chars]",
-            "url": "https://www.manilatimes.net/2026/07/12/business/sunday-business-it/meta-scales-back-ai-tool-after-backlash/2382830",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/12/1133661.jpg",
-            "publishedAt": "2026-07-11T20:40:00Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "b8dc6e88709e215477e63c8634af2b06",
-            "title": "Meta Removes Default AI Integration On Instagram",
-            "description": "Designed to feed its new ‘Muse Image’ tool, Meta opted in users' their posts used for training material without permission",
-            "content": "This week, Meta introduced “Muse Image,” a new tool suite for Instagram and WhatsApp. Currently available stateside, what stirred controversy was how it was integrated, automatically using other posts unless opting out manually. Backlash to any AI an... [1863 chars]",
-            "url": "https://kotaku.com/meta-removes-latest-ai-integration-on-instagram-following-sag-aftra-backlash-2000714982",
-            "image": "https://kotaku.com/app/uploads/2026/05/zuckerberg-1200x675.jpg",
-            "publishedAt": "2026-07-11T20:38:23Z",
-            "lang": "en",
-            "source": {
-                "id": "0aab1d72ae666208d1824f73c0ea4209",
-                "name": "Kotaku",
-                "url": "https://kotaku.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "e13265d6cd1b12035a041d05f9967248",
-            "title": "Phoebe Gates' AI Shopping App Phia Reportedly Claimed Unearned Affiliate Sales Through Fake Clicks",
-            "description": "Gates, who is Bill Gates’ daughter, founded the app alongside Sophia Kianni.",
-            "content": "According to multiple reports, the AI-powered shopping plugin Phia used a tactic known as cookie stuffing to attach its affiliate code to sales it didn't actually drive. Phia, which launched last spring, was co-founded by Phoebe Gates — Bill Gates' d... [1004 chars]",
-            "url": "https://www.engadget.com/2212973/phoebe-gates-ai-shopping-app-phia-affiliate-sales-fake-clicks/",
-            "image": "https://www.engadget.com/img/gallery/phoebe-gates-ai-shopping-app-phia-reportedly-claimed-unearned-affiliate-sales-through-fake-clicks/l-intro-1783801413.jpg",
-            "publishedAt": "2026-07-11T20:29:36Z",
+            "id": "568bede72679332734d8f7dd24806ec3",
+            "title": "What Are Your Plans For AI Appreciation Day?",
+            "description": "The best way to celebrate AI Appreciation Day is to not.",
+            "content": "It's AI Appreciation Day on July 16 and we're all left wondering who asked for this. In name, it's about as serious as the marketing stunts that gave us gems like National Hot Dog Day or National Doughnut Day. In practice, the day calls for the inten... [599 chars]",
+            "url": "https://www.engadget.com/2213147/what-are-your-plans-for-ai-appreciation-day/",
+            "image": "https://www.engadget.com/img/gallery/what-are-your-plans-for-ai-appreciation-day/l-intro-1783886916.jpg",
+            "publishedAt": "2026-07-12T20:30:53Z",
             "lang": "en",
             "source": {
                 "id": "549a7a859b2345bbe231b00e7244ef99",
                 "name": "Engadget",
                 "url": "https://www.engadget.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "766256fd54bf84ac1acb6b2153db1faa",
-            "title": "What Smart People Are Saying About Apple's Lawsuit Against OpenAI",
-            "description": "Apple sued OpenAI on Friday, accusing the AI startup of orchestrating a campaign to steal trade secrets from iPhone maker.",
-            "content": "The AI talent war may now be worthy of a Hollywood adaptation.\nIn a new lawsuit that reads like a corporate crime thriller, Apple accused OpenAI of poaching former Apple employees, conducting \"show and tell\" interviews, and accessing confidential doc... [8024 chars]",
-            "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-            "image": "https://i.insider.com/6a52a04ddaf4d560957bfd06?width=1200&format=jpeg",
-            "publishedAt": "2026-07-11T20:23:05Z",
-            "lang": "en",
-            "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "6397cf39453b75d3cdb468b3bd340138",
-            "title": "Meta's AI Detector Can't Detect Images It Generated Itself, Report Finds",
-            "description": "Once the images were cropped, the detection tool began to struggle, according to Reuters.",
-            "content": "Meta’s new AI detection tool isn’t working entirely as advertised, according to a new report.\nMeta debuted its first image generation model, Muse Image, earlier this week. As part of the debut, the tech giant also announced that all images generated ... [3001 chars]",
-            "url": "https://gizmodo.com/metas-ai-detector-cant-detect-images-it-generated-itself-report-finds-2000784335",
-            "image": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2285403793-1200x675.jpg",
-            "publishedAt": "2026-07-11T20:22:27Z",
-            "lang": "en",
-            "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "140b9d4ff9aa7ed152d578c69ab1ce3d",
-            "title": "AI is entering a new phase - and these are the stocks investors should be watching",
-            "description": "CNBC's Paulina Likos and Zev Fima discuss Wall Street's shift from AI euphoria toward rationalization and what it means for investors.",
-            "content": "In this Club Check-in, Investing Club's Paulina Likos and Zev Fima discuss Wall Street's shift from AI euphoria toward rationalization and what it means for investors. After years of rewarding companies for announcing ever-larger artificial intellige... [1556 chars]",
-            "url": "https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108080987-1755613115045-108080987-1755610449468-108080987-1735653388433-gettyimages-2191194281-avils-notitle241230_np5bz.jpeg?v=1770839823&w=1920&h=1080",
-            "publishedAt": "2026-07-11T20:11:31Z",
-            "lang": "en",
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "a72c085f4f318ef644f238deb832e219",
-            "title": "AI companies want to water down Australia’s copyright laws. Artists are outraged, Labor is split",
-            "description": "Anthony Albanese will deliver a landmark speech on AI this week as MPs are torn between attracting datacentre investment and protecting the rights of creatives",
-            "content": "When Anna Funder stood before a pack of journalists at Parliament House earlier this month, she presented herself not just as a writer but also a “victim of crime”.\nThe Stasiland author was using the analogy to illustrate how technology companies hav... [9106 chars]",
-            "url": "https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres",
-            "image": "https://i.guim.co.uk/img/media/22ada131c2cb310491b0adad1a133e8a5cada2c6/255_557_4171_3337/master/4171.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3198d4788a2109c3310713822129091e",
-            "publishedAt": "2026-07-11T20:00:59Z",
-            "lang": "en",
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "d425a36af0a602822b17b154ed751f2b",
-            "title": "Mass Effect Officially Returns To Its Best Era In 2027",
-            "description": "Dark Horse Direct releases a highly detailed Mass Effect: EDI Figure, commemorating the iconic AI from the Mass Effect trilogy.",
-            "content": "Since the launch of Mass Effect: Andromeda back in 2017, fans have been left wanting when it comes to the continuation of the Mass Effect franchise. First arriving back in 2007 with the launch of Mass Effect, the sci-fi series by BioWare was followed... [1757 chars]",
-            "url": "https://screenrant.com/mass-effect-edi-statue-2027-release/",
-            "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/07/mass-effect-4-protagonist-with-concept-art.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-07-11T20:00:22Z",
-            "lang": "en",
-            "source": {
-                "id": "6b8b6fae575a37200ef9ef50109518f5",
-                "name": "Screen Rant",
-                "url": "https://screenrant.com",
                 "country": "us"
             }
         }
