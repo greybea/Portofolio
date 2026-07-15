@@ -4,128 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 389710,
+    "totalArticles": 390875,
     "articles": [
         {
-            "id": "eb10cb1318edbe2e70c26e838fdfafc5",
-            "title": "Meta axes controversial Muse generative AI feature amid privacy concerns",
-            "description": "Meta is discontinuing its Muse generative AI feature that it launched last week. Muse quickly garnered criticism for allowing people to generate images based on photos and videos from public Meta accounts on the likes of Instagram, even if they didn’t consent to this use. In a statement to outlets like Reuters, the company said […]",
-            "content": "Meta is discontinuing its Muse generative AI feature that it launched last week.\nMuse quickly garnered criticism for allowing people to generate images based on photos and videos from public Meta accounts on the likes of Instagram, even if they didn’... [828 chars]",
-            "url": "https://mobilesyrup.com/2026/07/13/meta-axes-controversial-muse-generative-ai-feature-amid-privacy-concerns/",
-            "image": "https://production-static.mobilesyrup.com/uploads/2026/06/meta-header-scaled.jpg",
-            "publishedAt": "2026-07-13T21:42:27Z",
+            "id": "ecfacdf35e153ff9f55e63958c378b3d",
+            "title": "driven layoff picks hit workers on medical and parental leave",
+            "description": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs…",
+            "content": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.\nThey are among the 8,000 employees, or about 10... [4952 chars]",
+            "url": "https://wtop.com/parenting/2026/07/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave/",
+            "image": "https://wtop.com/wp-content/uploads/2026/07/UE-META_8_623-scaled.jpg",
+            "publishedAt": "2026-07-14T21:44:48Z",
             "lang": "en",
             "source": {
-                "id": "065af1b88f232671921c1449e7a0035e",
-                "name": "MobileSyrup",
-                "url": "https://mobilesyrup.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "3acf1a4a76e301ebfa9b424a00bb2bfd",
-            "title": "challans in 3 months; riders without helmet lead charts",
-            "description": "Senior traffic cop says more AI-powered cameras to be installed in Ludhiana.",
-            "content": "The e-challaning system of the Police Commissionerate, Ludhiana, has been fully operational now. The high definition cameras installed at various intersections in the industrial hub have caught as many as 66,079 offenders from April to June for commi... [2755 chars]",
-            "url": "https://www.tribuneindia.com/news/ludhiana/over-66k-e-challans-in-3-months-riders-without-helmet-lead-charts/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdkYTFlZjMwLTdmMDMtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-            "publishedAt": "2026-07-13T21:40:29Z",
-            "lang": "en",
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "0d6886ff6b3e5842fa6e659a0d4449e5",
-            "title": "iOS 27 public beta is here: how to download it now",
-            "description": "The iOS 27 public beta is officially live, delivering a massive wave of features that range from a highly contextual Siri AI to more Apple Intelligence features.",
-            "content": "You don’t have to wait any longer to experience the latest iPhone software because the iOS 27 public beta is finally available. Arriving a little over a month after its reveal at WWDC 2026, this release brings the new Siri and a host of fresh Apple I... [2306 chars]",
-            "url": "https://www.tomsguide.com/phones/iphones/how-to-download-ios-27-public-beta",
-            "image": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1794-80.jpg",
-            "publishedAt": "2026-07-13T21:39:24Z",
-            "lang": "en",
-            "source": {
-                "id": "dcc4f4c6eb081eb8a9ee9cca215517f5",
-                "name": "Tom's Guide",
-                "url": "https://www.tomsguide.com",
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
                 "country": "us"
             }
         },
         {
-            "id": "8208f5f4280d51098827c7dc71538bb9",
-            "title": "Siri AI Is Becoming Apple’s Everything Tool",
-            "description": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
-            "content": "The latest version of Apple’s smartphone software, iOS 27, is available for iPhone owners as a public beta. It’s the first time Apple’s long-promised revamped version of Siri is available to the general public.\nShowcased at the company’s WWDC event i... [8277 chars]",
-            "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
-            "image": "https://media.wired.com/photos/6a55464e20012bbe11800495/191:100/w_1280,c_limit/Siri-Apple-Everything-Tool-Gear-2260718787.jpg",
-            "publishedAt": "2026-07-13T21:39:09Z",
+            "id": "d400a18f8423e192584ba98e11c816de",
+            "title": "Meta’s AI can now dub your voice in more languages on Instagram and Facebook.",
+            "description": "The AI translations are expanding to Japanese, Korean, French, German, and Italian on Instagram and Bahasa, Indonesian, Arabic, French, Vietnamese, and Thai on Facebook, according to Instagram boss Adam Mosseri.\n[Media: https://www.instagram.com/p/DaxpKQfRaSV/]",
+            "content": "J\nInstagram\nMeta’s AI can now dub your voice in more languages on Instagram and Facebook.\nThe AI translations are expanding to Japanese, Korean, French, German, and Italian on Instagram and Bahasa, Indonesian, Arabic, French, Vietnamese, and Thai on ... [487 chars]",
+            "url": "https://www.theverge.com/tech/965660/metas-ai-can-now-dub-your-voice-in-more-languages-on-instagram-and-facebook",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+            "publishedAt": "2026-07-14T21:44:41Z",
             "lang": "en",
             "source": {
-                "id": "b683218c3952d77a76b7bda7512f2f6e",
-                "name": "WIRED",
-                "url": "https://www.wired.com",
+                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+                "name": "The Verge",
+                "url": "https://www.theverge.com",
                 "country": "us"
             }
         },
         {
-            "id": "b7e8dbb6c823e35f1d56cba34d19023b",
-            "title": "'Not sexy' or 'Tech Moment'? Lorde hates on AI glasses as Kylie Jenner faces backlash over Meta campaign",
-            "description": "During her set at Madrid's Mad Cool Festival, Lorde took aim at wearable AI, calling smart glasses \"not sexy.\" Meanwhile, Kylie Jenner is facing backlash over her collaboration with Meta on a line of AI-powered smart glasses featuring a built-in camera, and hands-free recording capabilities.",
-            "content": "Lorde has made her stance on AI smart glasses crystal clear.\nDuring her set at Madrid's Mad Cool Festival over the weekend, the singer paused to take aim at the wearable AI technology, urging fans to think twice before embracing it.\n\"Increasingly, in... [4300 chars]",
-            "url": "https://www.cbc.ca/news/entertainment/kylie-jenner-meta-campaign-backlash-9.7268730",
-            "image": "https://i.cbc.ca/ais/85e32a1a-1421-4d5b-8941-864e318cd8d3,1783972865434/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C11%2C3594%2C2021%29%3BResize%3D620",
-            "publishedAt": "2026-07-13T21:35:00Z",
+            "id": "5da783e3dcd49cba2e15cf30a54a3f01",
+            "title": "Lawsuit claims Meta's AI unfairly targeted employees on leave",
+            "description": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems that disproportionately targeted those on medical or family leave for layoffs.",
+            "content": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.\nThey are among the 8,000 employees, or about 10... [4562 chars]",
+            "url": "https://apnews.com/article/meta-lawsuit-workers-target-ai-layoffs-leave-019fb9c7fdc09167e91547546bce5be8",
+            "image": "https://dims.apnews.com/dims4/default/0a76a8c/2147483647/strip/true/crop/5804x3867+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2Fb1%2F000183a919584eadc43fff5823f6%2F3ed49573c8ac45ce80ecbac67158dea1",
+            "publishedAt": "2026-07-14T21:42:33Z",
             "lang": "en",
             "source": {
-                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
-                "name": "CBC.ca",
-                "url": "https://www.cbc.ca",
-                "country": "ca"
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
             }
         },
         {
-            "id": "67d1658c71bbdbb307140d6ee11a3b72",
-            "title": "Govt Working with AI Cos for Models on Par with Mythos",
-            "description": "The Indian government has asked homegrown AI firms Sarvam and BharatGen to tweak their existing foundation models and develop Mythos-like capabilities that can be deployed to protect the country's critical infrastructure against cyberattacks, top officials in the know told ET.",
-            "content": "Synopsis\nThe Indian government has asked homegrown AI firms Sarvam and BharatGen to tweak their existing foundation models and develop Mythos-like capabilities that can be deployed to protect the country's critical infrastructure against cyberattacks... [5454 chars]",
-            "url": "https://economictimes.indiatimes.com/et-front/govt-working-withai-cos-for-models-on-par-with-mythos/articleshow/132376458.cms",
-            "image": "https://img.etimg.com/thumb/msid-132378299,width-1200,height-630,imgsize-83946,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-07-13T21:34:00Z",
+            "id": "e8f28d52290c00250af20a7742d9c25c",
+            "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave",
+            "description": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems that disproportionately targeted those on medical or family leave for layoffs.",
+            "content": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.\nThey are among the 8,000 employees, or about 10... [4562 chars]",
+            "url": "https://www.clickondetroit.com/business/2026/07/14/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave/",
+            "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/OGHOBLS3DFCFDMGF53INE6OZXQ.jpg?_a=DATAg1kSZAA0",
+            "publishedAt": "2026-07-14T21:42:33Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
             }
         },
         {
-            "id": "5e4e0c2ba3c1544f9492b56cc4298479",
-            "title": "Govt Working with AI Cos for Models on Par with Mythos",
-            "description": "The Indian government has asked homegrown AI firms Sarvam and BharatGen to tweak their existing foundation models and develop Mythos-like capabilities that can be deployed to protect the country's critical infrastructure against cyberattacks, top officials in the know told ET.",
-            "content": "Synopsis\nThe Indian government has asked homegrown AI firms Sarvam and BharatGen to tweak their existing foundation models and develop Mythos-like capabilities that can be deployed to protect the country's critical infrastructure against cyberattacks... [5454 chars]",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jul/14/et-front/govt-working-withai-cos-for-models-on-par-with-mythos/articleshow/132376458.cms",
-            "image": "https://img.etimg.com/thumb/msid-132378299,width-1200,height-630,imgsize-83946,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-07-13T21:34:00Z",
+            "id": "eed60dcb571bf6e7c33c29f4ef91ef11",
+            "title": "Samsung Health's AI consent sparked outrage, but it turns out it was all just a misunderstanding",
+            "description": "Things need to be clearer",
+            "content": "A day or so ago, we reported that Samsung Health customers were having their data effectively held hostage if they weren't willing to consent to having the data used for Samsung's AI training. As you can imagine, people were pretty angry about this. ... [1903 chars]",
+            "url": "https://www.androidpolice.com/samsung-health-ai-consent-decline-doesnt-delete-data/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/samsung-health-move.JPG?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-07-14T21:42:08Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
+                "id": "3855a489b685d9599a636250ed950d3c",
+                "name": "Android Police",
+                "url": "https://www.androidpolice.com",
+                "country": "us"
             }
         },
         {
-            "id": "73472c6ace62bc8e4206f620c266ab19",
-            "title": "Why China is seriously cultivating AI entertainment",
-            "description": "With rules and support, policymakers appear to be positioning AI and its entertainment nexus as the foundation for a new cultural economy.",
-            "content": "Advertisement\nWhy China is seriously cultivating AI entertainment\nWith rules and support, policymakers appear to be positioning AI and its entertainment nexus as the foundation for a new cultural economy\n3 -MIN READ3 -MIN\nListen\nHugh Harsono writes r... [2189 chars]",
-            "url": "https://www.scmp.com/opinion/china-opinion/article/3359882/why-china-seriously-cultivating-ai-entertainment",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/07/12/c0e371ad-3ae0-41d0-b4ab-59802f4de83d_f92a69d9.jpg?itok=zUYQSP4L&v=1783832893",
-            "publishedAt": "2026-07-13T21:30:07Z",
+            "id": "019ece8139a0d0a87d44314c42215155",
+            "title": "Boko Haram exploited US and Chinese AI chatbots for attacks, Cambridge study finds",
+            "description": "Former fighters say AI helped with bomb-making, planning and propaganda, raising calls for US-China action on terrorist misuse of chatbots.",
+            "content": "Huddled in a room around a big screen, dozens of Boko Haram members listened intently as external consultants, whom they called “the white guys”, coached them on how to use leading artificial intelligence chatbots with laptops pre-installed with VPNs... [1516 chars]",
+            "url": "https://www.scmp.com/news/us/article/3360585/boko-haram-exploited-us-and-chinese-ai-chatbots-attacks-cambridge-study-finds",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/15/efc151e2-7784-4813-a3cb-4d555f87d967_7a5cff0b.jpg?itok=u12ktqU6&v=1784065179",
+            "publishedAt": "2026-07-14T21:39:46Z",
             "lang": "en",
             "source": {
                 "id": "d6397b77175680e2678c0d60edcee7af",
@@ -135,35 +103,67 @@
             }
         },
         {
-            "id": "3b680513d0198bead01b4905fe7216da",
-            "title": "How To Get Siri AI In The iOS 27 Public Beta",
-            "description": "Confused about where the latest version of Siri is in the new iOS Beta? There's just a few more steps you need to do to get the upgrade.",
-            "content": "With iOS 27 public beta out, you might be wondering where the new Siri AI is, as you'll still get the \"old\" Apple Intelligence interface when you press the Side Button. If you want to upgrade from the glowing borders to the Dynamic Island Siri, it's ... [2330 chars]",
-            "url": "https://www.bgr.com/2214236/how-to-get-siri-ai-ios-27-public-beta-guide/",
-            "image": "https://www.bgr.com/img/gallery/how-to-get-siri-ai-in-the-ios-27-public-beta/l-intro-1783457038.jpg",
-            "publishedAt": "2026-07-13T21:30:00Z",
+            "id": "e6f194f6ab7d149d1bfebd8439e25b8d",
+            "title": "OpenAI's First AI Device Will Be a Portable Smart Speaker",
+            "description": "OpenAI's first AI hardware product is a mobile smart speaker without a display, reports Bloomberg. The device is at the heart of a new legal dispute with Apple, with Apple accusing OpenAI of stealing trade secrets that have contributed to the development of the product. OpenAI's speaker-like product is designed to \"serve as a humanlike AI companion that lives in the home,\" according to Bloomberg.",
+            "content": "OpenAI's first AI hardware product is a mobile smart speaker without a display, reports Bloomberg. The device is at the heart of a new legal dispute with Apple, with Apple accusing OpenAI of stealing trade secrets that have contributed to the develop... [2397 chars]",
+            "url": "https://www.macrumors.com/2026/07/14/openai-ai-hardware-device-speaker/",
+            "image": "https://images.macrumors.com/t/_Zqp6utkD3f5AUEd2S6oIEW_7N8=/2000x/article-new/2025/11/openai-chatgpt-logo.jpg",
+            "publishedAt": "2026-07-14T21:37:59Z",
             "lang": "en",
             "source": {
-                "id": "b98becfda029f124cf65538c8af36d20",
-                "name": "BGR",
-                "url": "https://www.bgr.com",
+                "id": "10216cb8fabd0accd5eb967c97fc37ab",
+                "name": "MacRumors",
+                "url": "https://www.macrumors.com",
                 "country": "us"
             }
         },
         {
-            "id": "aa50a9b37c1c80681797273559a33f7d",
-            "title": "Jet.AI Closes Transaction with flyExclusive, Advancing Transition to a Pure-Play AI Infrastructure",
-            "description": "LAS VEGAS, July 13, 2026 (GLOBE NEWSWIRE) -- Jet.AI Inc. (NASDAQ: JTAI) ('Jet.AI” or the 'Company”), an emerging provider of high-performance GPU infrastructure and AI cloud services, announced the successful closing of its merger transaction with flyExclusive, Inc. ('flyExclusive”), following stockholder approval at the Company’s reconvened Special Meeting of Stockholders and satisfaction of all remaining customary closing conditions.",
-            "content": "LAS VEGAS, July 13, 2026 (GLOBE NEWSWIRE) -- Jet.AI Inc. (NASDAQ: JTAI) (\"Jet.AI” or the \"Company”), an emerging provider of high-performance GPU infrastructure and AI cloud services, announced the successful closing of its merger transaction with fl... [8476 chars]",
-            "url": "https://www.manilatimes.net/2026/07/14/tmt-newswire/globenewswire/jetai-closes-transaction-with-flyexclusive-advancing-transition-to-a-pure-play-ai-infrastructure/2383709",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/14/1135588.png",
-            "publishedAt": "2026-07-13T21:27:07Z",
+            "id": "b7a91ace8b3a2585b8b8d062ea054689",
+            "title": "New York Is First State to Press Pause on AI Data Center Construction",
+            "description": "Gov. Kathy Hochul signs an executive order to pause new construction, but it won't affect data centers that have already broken ground.",
+            "content": "New York Gov. Kathy Hochul signed an executive order on Tuesday to pause the issuance of new building permits for hyperscale data centers in the state, the first state-level freeze on new construction of AI data centers.\nThe moratorium could last up ... [4474 chars]",
+            "url": "https://www.cnet.com/tech/services-and-software/new-york-first-state-moratorium-ai-data-center-construction/",
+            "image": "https://www.cnet.com/a/img/resize/ce3480e01af52a541fcaf30f34e2f1afe350b78e/hub/2026/07/14/c358a46b-7175-48bc-a740-0d17857b5259/gettyimages-2276391842.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-07-14T21:35:39Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "cbedd127d0845734059c7b758ff44b6a",
+            "title": "English Majors Can Teach Us How To Be Indispensable In The Age Of AI",
+            "description": "To increase their durability in the job market, professionals can borrow a page from the English major handbook and start honing their close reading skills.",
+            "content": "Click through any thought leadership outlet, and you’ll see that CEOs and AI titans agree: English majors are the new best hire.\nAnthropic President Daniela Amodei, who studied English Literature at the University of California, Santa Cruz, told ABC ... [7311 chars]",
+            "url": "https://www.forbes.com/sites/gracefoster/2026/07/14/english-majors-can-teach-us-how-to-be-indispensable-in-the-age-of-ai/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a50f15c7eea1acbfe2a864c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-07-14T21:35:05Z",
+            "lang": "en",
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "2493fb4bde81976ba76159f1ece6b0c7",
+            "title": "George Lucas says AI is \"the future\"",
+            "description": "It's very much like sitting here saying, 'Well, I believe the horse and the buggy is really where it's at'",
+            "content": "Star Wars creator George Lucas is the latest prominent voice to come out in support of AI in the creative arts, comparing its rise to that of the invention of the automobile.\nLucas's full-throated embrace of AI despite its inherent ethical and enviro... [2119 chars]",
+            "url": "https://www.gamesradar.com/entertainment/star-wars-movies/star-wars-creator-george-lucas-compares-ai-to-the-invention-of-cars-theres-nothing-you-can-do-about-it/",
+            "image": "https://cdn.mos.cms.futurecdn.net/wxYiqTGWtqHGfkcjJMzHsX-1920-80.jpg",
+            "publishedAt": "2026-07-14T21:26:24Z",
+            "lang": "en",
+            "source": {
+                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
+                "name": "GamesRadar+",
+                "url": "https://www.gamesradar.com",
+                "country": "us"
             }
         }
     ]
