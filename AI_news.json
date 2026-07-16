@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 390875,
+    "totalArticles": 391894,
     "articles": [
         {
-            "id": "ecfacdf35e153ff9f55e63958c378b3d",
-            "title": "driven layoff picks hit workers on medical and parental leave",
-            "description": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs…",
-            "content": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.\nThey are among the 8,000 employees, or about 10... [4952 chars]",
-            "url": "https://wtop.com/parenting/2026/07/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave/",
-            "image": "https://wtop.com/wp-content/uploads/2026/07/UE-META_8_623-scaled.jpg",
-            "publishedAt": "2026-07-14T21:44:48Z",
+            "id": "19ca0b4d90d6cfc8420e4d4dfab359ca",
+            "title": "Jamie Dimon Says Anthropic’s Mythos Access Debate Is a Warning Sign for AI’s Future",
+            "description": "JPMorgan Chase & Co. CEO Jamie Dimon warned that the risks stemming from Anthropic’s Mythos AI model are a “real issue.\"",
+            "content": "Anthropic has found itself at the center of debate over how governments should manage cybersecurity risks posed by powerful AI models.\nAnthropic has since added more companies to the project, expanding its access to approximately 150 new organization... [1496 chars]",
+            "url": "https://www.benzinga.com/markets/private-markets/26/07/60486804/jamie-dimon-says-anthropics-mythos-access-debate-is-a-warning-sign-for-ais-future",
+            "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/15/Closeup-Of-Jamie-Dimon--Ceo-Of-Jpmorgan-.jpg",
+            "publishedAt": "2026-07-15T21:50:18Z",
             "lang": "en",
             "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
                 "country": "us"
             }
         },
         {
-            "id": "d400a18f8423e192584ba98e11c816de",
-            "title": "Meta’s AI can now dub your voice in more languages on Instagram and Facebook.",
-            "description": "The AI translations are expanding to Japanese, Korean, French, German, and Italian on Instagram and Bahasa, Indonesian, Arabic, French, Vietnamese, and Thai on Facebook, according to Instagram boss Adam Mosseri.\n[Media: https://www.instagram.com/p/DaxpKQfRaSV/]",
-            "content": "J\nInstagram\nMeta’s AI can now dub your voice in more languages on Instagram and Facebook.\nThe AI translations are expanding to Japanese, Korean, French, German, and Italian on Instagram and Bahasa, Indonesian, Arabic, French, Vietnamese, and Thai on ... [487 chars]",
-            "url": "https://www.theverge.com/tech/965660/metas-ai-can-now-dub-your-voice-in-more-languages-on-instagram-and-facebook",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-            "publishedAt": "2026-07-14T21:44:41Z",
+            "id": "4f582630c9b764eccc69557ddaa8bea3",
+            "title": "Quebec and Alberta plan to work together to integrate AI in government",
+            "description": "MONTREAL — The Quebec and Alberta governments plan to work together to implement artificial intelligence in public administration, which Quebec's cybersecurity minister says will help both provinces build on each other's experience to develop new too",
+            "content": "MONTREAL — The Quebec and Alberta governments plan to work together to implement artificial intelligence in public administration, which Quebec's cybersecurity minister says will help both provinces build on each other's experience to develop new too... [3530 chars]",
+            "url": "https://www.sootoday.com/national-news/quebec-and-alberta-plan-to-work-together-to-integrate-ai-in-government-12551305",
+            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/07/91905bda1f05ed62fd841ed917e66a4c7e7a40506c232cf281e0c17995e08e56.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-07-15T21:43:24Z",
             "lang": "en",
             "source": {
-                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-                "name": "The Verge",
-                "url": "https://www.theverge.com",
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "a59d239301383c9b6967794b02582382",
+            "title": "Quebec and Alberta plan to work together to integrate AI in government",
+            "description": "MONTREAL — The Quebec and Alberta governments plan to work together to implement artificial intelligence in public administration, which Quebec's cybersecurity minister says will help both provinces build on each other's experience to develop new too",
+            "content": "MONTREAL — The Quebec and Alberta governments plan to work together to implement artificial intelligence in public administration, which Quebec's cybersecurity minister says will help both provinces build on each other's experience to develop new too... [3530 chars]",
+            "url": "https://www.baytoday.ca/national-news/quebec-and-alberta-plan-to-work-together-to-integrate-ai-in-government-12551305",
+            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/07/91905bda1f05ed62fd841ed917e66a4c7e7a40506c232cf281e0c17995e08e56.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2026-07-15T21:43:24Z",
+            "lang": "en",
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "50882b32cdd12d0b0d4dacfdd1718a8c",
+            "title": "AI Music App Suno Got Hacked, Giving a Glimpse of Just How Much Music It Scraped",
+            "description": "That's a lot of artists not getting paid.",
+            "content": "AI models tend to be black boxes, but it seems they do become a little less opaque if you forcibly crack them open. According to a report from 404 Media, a hacker who allegedly breached AI music generation platform Suno back in November 2025 was able... [4231 chars]",
+            "url": "https://gizmodo.com/ai-music-app-suno-got-hacked-giving-a-glimpse-of-just-how-much-music-it-scraped-2000786013",
+            "image": "https://gizmodo.com/app/uploads/2025/11/studio-landing-page-any-audio-1200x675.jpg",
+            "publishedAt": "2026-07-15T21:40:53Z",
+            "lang": "en",
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
                 "country": "us"
             }
         },
         {
-            "id": "5da783e3dcd49cba2e15cf30a54a3f01",
-            "title": "Lawsuit claims Meta's AI unfairly targeted employees on leave",
-            "description": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems that disproportionately targeted those on medical or family leave for layoffs.",
-            "content": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.\nThey are among the 8,000 employees, or about 10... [4562 chars]",
-            "url": "https://apnews.com/article/meta-lawsuit-workers-target-ai-layoffs-leave-019fb9c7fdc09167e91547546bce5be8",
-            "image": "https://dims.apnews.com/dims4/default/0a76a8c/2147483647/strip/true/crop/5804x3867+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2Fb1%2F000183a919584eadc43fff5823f6%2F3ed49573c8ac45ce80ecbac67158dea1",
-            "publishedAt": "2026-07-14T21:42:33Z",
+            "id": "2c8713117b5d737041134098233f34df",
+            "title": "xAI sues user for exploiting AI tool to sexualise minors",
+            "description": "Lawsuit accuses Terry Harwood of misusing xAI to bypass safeguards and produce explicit deepfakes involving minors.",
+            "content": "Elon Musk’s xAI has filed a lawsuit against a South Carolina man who was arrested earlier this year on charges of sexually exploiting minors, alleging that he misused the company’s AI tool to create sexually explicit content involving a child.\nThe la... [2838 chars]",
+            "url": "https://www.aljazeera.com/economy/2026/7/15/xai-sues-user-for-exploiting-ai-tool-to-sexualise-minors",
+            "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2025-02-16T142607Z_263064880_RC2PVCA4ZVJM_RTRMADP_3_XAI-AI-1784145757.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-07-15T21:31:44Z",
             "lang": "en",
             "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
+                "id": "8ed6c6b6dec4f35a4963354fb78b9754",
+                "name": "Al Jazeera",
+                "url": "https://www.aljazeera.com",
+                "country": "qa"
+            }
+        },
+        {
+            "id": "a10ff026a7139bf6fc2a887f0c9b1056",
+            "title": "Suno AI music was trained on 2M+ scraped YouTube songs",
+            "description": "A hack of Suno AI music exposed its source code, showing it scraped millions of songs from YouTube, Deezer, and Genius to train its song generator.",
+            "content": "For years, musicians have said AI song generators fed on their work without asking. A hacker just opened the black box and showed them exactly how.\nLeaked source code from Suno, one of the biggest AI music tools, tells the story. It trained its model... [2208 chars]",
+            "url": "https://thenextweb.com/news/suno-ai-music-hack-training-data",
+            "image": "https://media.thenextweb.com/2026/07/Suno-homepage-screenshot.avif",
+            "publishedAt": "2026-07-15T21:30:42Z",
+            "lang": "en",
+            "source": {
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
                 "country": "us"
             }
         },
         {
-            "id": "e8f28d52290c00250af20a7742d9c25c",
-            "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave",
-            "description": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems that disproportionately targeted those on medical or family leave for layoffs.",
-            "content": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leave.\nThey are among the 8,000 employees, or about 10... [4562 chars]",
-            "url": "https://www.clickondetroit.com/business/2026/07/14/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave/",
-            "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/OGHOBLS3DFCFDMGF53INE6OZXQ.jpg?_a=DATAg1kSZAA0",
-            "publishedAt": "2026-07-14T21:42:33Z",
+            "id": "1504971519550d6afad034f44b92a7cd",
+            "title": "Elon Musk Just Ditched His Clean‑Energy Image With a Billion‑Dollar Fossil‑Fuel Play",
+            "description": "Elon Musk's space and AI company has quietly bought a fossil fuel company.",
+            "content": "When it comes to Elon Musk, the world’s richest person is well-known for clean energy initiatives that include bets on electric vehicles, solar power, energy storage and more. These days, Musk is having to turn to fossil fuels to help power his AI am... [1320 chars]",
+            "url": "https://www.benzinga.com/m-a/26/07/60486651/elon-musk-just-ditched-his-clean%e2%80%91energy-image-with-a-billion%e2%80%91dollar-fossil%e2%80%91fuel-play",
+            "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/15/Clean-Energy-For-Transportation--Wind-Tu.jpg",
+            "publishedAt": "2026-07-15T21:29:05Z",
             "lang": "en",
             "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
                 "country": "us"
             }
         },
         {
-            "id": "eed60dcb571bf6e7c33c29f4ef91ef11",
-            "title": "Samsung Health's AI consent sparked outrage, but it turns out it was all just a misunderstanding",
-            "description": "Things need to be clearer",
-            "content": "A day or so ago, we reported that Samsung Health customers were having their data effectively held hostage if they weren't willing to consent to having the data used for Samsung's AI training. As you can imagine, people were pretty angry about this. ... [1903 chars]",
-            "url": "https://www.androidpolice.com/samsung-health-ai-consent-decline-doesnt-delete-data/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/samsung-health-move.JPG?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-07-14T21:42:08Z",
+            "id": "14cd26fbedb80552d99f301596a356e7",
+            "title": "Enterprise agents drive AI growth in AWS Marketplace",
+            "description": "Enterprise agents are reshaping AWS Marketplace as AI-assisted listings and agentic AI adoption surge, AWS VP Matt Yanchyshyn explains.",
+            "content": "Product listings in AWS Marketplace gained new AI-based features last month in anticipation of continued growth in the use of enterprise agents.\nAmazon Web Services Inc. unveiled AI-assisted product listings in Product Assistant chat, a feature that ... [2559 chars]",
+            "url": "https://siliconangle.com/2026/07/15/aws-product-listing-service-enterprise-agents-ai-awsmarketplaceseries/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Matt-Yanchyshyn.jpg",
+            "publishedAt": "2026-07-15T21:26:22Z",
             "lang": "en",
             "source": {
-                "id": "3855a489b685d9599a636250ed950d3c",
-                "name": "Android Police",
-                "url": "https://www.androidpolice.com",
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
                 "country": "us"
             }
         },
         {
-            "id": "019ece8139a0d0a87d44314c42215155",
-            "title": "Boko Haram exploited US and Chinese AI chatbots for attacks, Cambridge study finds",
-            "description": "Former fighters say AI helped with bomb-making, planning and propaganda, raising calls for US-China action on terrorist misuse of chatbots.",
-            "content": "Huddled in a room around a big screen, dozens of Boko Haram members listened intently as external consultants, whom they called “the white guys”, coached them on how to use leading artificial intelligence chatbots with laptops pre-installed with VPNs... [1516 chars]",
-            "url": "https://www.scmp.com/news/us/article/3360585/boko-haram-exploited-us-and-chinese-ai-chatbots-attacks-cambridge-study-finds",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/15/efc151e2-7784-4813-a3cb-4d555f87d967_7a5cff0b.jpg?itok=u12ktqU6&v=1784065179",
-            "publishedAt": "2026-07-14T21:39:46Z",
+            "id": "b6eb33f5ff0aa260bdaa1f07f7dc1651",
+            "title": "OpenAI Just Launched Its First Hardware Product-and It’s a Tiny Keyboard for Bossing Around AI Agents",
+            "description": "The AI company teamed up with Work Louder on a programmable keyboard designed specifically for Codex.",
+            "content": "OpenAI has officially rolled out its first piece of hardware, and it’s not the one you’re thinking of.\nThe company behind ChatGPT announced on Wednesday a $230 mini keyboard designed specifically to work with its AI coding agent, Codesx. The device i... [2432 chars]",
+            "url": "https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2000786080",
+            "image": "https://gizmodo.com/app/uploads/2026/07/openAI_keyboard-1200x675.jpg",
+            "publishedAt": "2026-07-15T21:25:11Z",
             "lang": "en",
             "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            }
-        },
-        {
-            "id": "e6f194f6ab7d149d1bfebd8439e25b8d",
-            "title": "OpenAI's First AI Device Will Be a Portable Smart Speaker",
-            "description": "OpenAI's first AI hardware product is a mobile smart speaker without a display, reports Bloomberg. The device is at the heart of a new legal dispute with Apple, with Apple accusing OpenAI of stealing trade secrets that have contributed to the development of the product. OpenAI's speaker-like product is designed to \"serve as a humanlike AI companion that lives in the home,\" according to Bloomberg.",
-            "content": "OpenAI's first AI hardware product is a mobile smart speaker without a display, reports Bloomberg. The device is at the heart of a new legal dispute with Apple, with Apple accusing OpenAI of stealing trade secrets that have contributed to the develop... [2397 chars]",
-            "url": "https://www.macrumors.com/2026/07/14/openai-ai-hardware-device-speaker/",
-            "image": "https://images.macrumors.com/t/_Zqp6utkD3f5AUEd2S6oIEW_7N8=/2000x/article-new/2025/11/openai-chatgpt-logo.jpg",
-            "publishedAt": "2026-07-14T21:37:59Z",
-            "lang": "en",
-            "source": {
-                "id": "10216cb8fabd0accd5eb967c97fc37ab",
-                "name": "MacRumors",
-                "url": "https://www.macrumors.com",
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
                 "country": "us"
             }
         },
         {
-            "id": "b7a91ace8b3a2585b8b8d062ea054689",
-            "title": "New York Is First State to Press Pause on AI Data Center Construction",
-            "description": "Gov. Kathy Hochul signs an executive order to pause new construction, but it won't affect data centers that have already broken ground.",
-            "content": "New York Gov. Kathy Hochul signed an executive order on Tuesday to pause the issuance of new building permits for hyperscale data centers in the state, the first state-level freeze on new construction of AI data centers.\nThe moratorium could last up ... [4474 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/new-york-first-state-moratorium-ai-data-center-construction/",
-            "image": "https://www.cnet.com/a/img/resize/ce3480e01af52a541fcaf30f34e2f1afe350b78e/hub/2026/07/14/c358a46b-7175-48bc-a740-0d17857b5259/gettyimages-2276391842.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-07-14T21:35:39Z",
+            "id": "02081d422b1a9a08aec05b5172d645d2",
+            "title": "Authors, publishers sue Google over alleged AI copyright infringement",
+            "description": "Hachette and Elsevier lead US legal action against Google, alleging misuse of books for Gemini AI model training.",
+            "content": "Hachette Book Group, Cengage Learning, Elsevier, and author Scott Turow have filed a lawsuit against Google in a federal United States court in New York, alleging the Silicon Valley tech giant committed copyright infringement while training its Gemin... [6281 chars]",
+            "url": "https://www.aljazeera.com/economy/2026/7/15/authors-publishers-sue-google-over-alleged-ai-copyright-infringement",
+            "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a57da4115bbf-1784142401.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-07-15T21:21:20Z",
             "lang": "en",
             "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "cbedd127d0845734059c7b758ff44b6a",
-            "title": "English Majors Can Teach Us How To Be Indispensable In The Age Of AI",
-            "description": "To increase their durability in the job market, professionals can borrow a page from the English major handbook and start honing their close reading skills.",
-            "content": "Click through any thought leadership outlet, and you’ll see that CEOs and AI titans agree: English majors are the new best hire.\nAnthropic President Daniela Amodei, who studied English Literature at the University of California, Santa Cruz, told ABC ... [7311 chars]",
-            "url": "https://www.forbes.com/sites/gracefoster/2026/07/14/english-majors-can-teach-us-how-to-be-indispensable-in-the-age-of-ai/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a50f15c7eea1acbfe2a864c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-07-14T21:35:05Z",
-            "lang": "en",
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "2493fb4bde81976ba76159f1ece6b0c7",
-            "title": "George Lucas says AI is \"the future\"",
-            "description": "It's very much like sitting here saying, 'Well, I believe the horse and the buggy is really where it's at'",
-            "content": "Star Wars creator George Lucas is the latest prominent voice to come out in support of AI in the creative arts, comparing its rise to that of the invention of the automobile.\nLucas's full-throated embrace of AI despite its inherent ethical and enviro... [2119 chars]",
-            "url": "https://www.gamesradar.com/entertainment/star-wars-movies/star-wars-creator-george-lucas-compares-ai-to-the-invention-of-cars-theres-nothing-you-can-do-about-it/",
-            "image": "https://cdn.mos.cms.futurecdn.net/wxYiqTGWtqHGfkcjJMzHsX-1920-80.jpg",
-            "publishedAt": "2026-07-14T21:26:24Z",
-            "lang": "en",
-            "source": {
-                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
-                "name": "GamesRadar+",
-                "url": "https://www.gamesradar.com",
-                "country": "us"
+                "id": "8ed6c6b6dec4f35a4963354fb78b9754",
+                "name": "Al Jazeera",
+                "url": "https://www.aljazeera.com",
+                "country": "qa"
             }
         }
     ]
