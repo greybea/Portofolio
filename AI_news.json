@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 391894,
+    "totalArticles": 393031,
     "articles": [
         {
-            "id": "19ca0b4d90d6cfc8420e4d4dfab359ca",
-            "title": "Jamie Dimon Says Anthropic’s Mythos Access Debate Is a Warning Sign for AI’s Future",
-            "description": "JPMorgan Chase & Co. CEO Jamie Dimon warned that the risks stemming from Anthropic’s Mythos AI model are a “real issue.\"",
-            "content": "Anthropic has found itself at the center of debate over how governments should manage cybersecurity risks posed by powerful AI models.\nAnthropic has since added more companies to the project, expanding its access to approximately 150 new organization... [1496 chars]",
-            "url": "https://www.benzinga.com/markets/private-markets/26/07/60486804/jamie-dimon-says-anthropics-mythos-access-debate-is-a-warning-sign-for-ais-future",
-            "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/15/Closeup-Of-Jamie-Dimon--Ceo-Of-Jpmorgan-.jpg",
-            "publishedAt": "2026-07-15T21:50:18Z",
+            "id": "a65918e737e0ba123ba6dd45c948cb1c",
+            "title": "Baird Initiates Vertiv Stock (VRT) at Buy Ahead of Q2 Earnings. Here’s Why",
+            "description": "AI infrastructure provider Vertiv Holdings (VRT) is scheduled to announce its second-quarter earnings on July 29. Ahead of the company’s Q2 resu...",
+            "content": "AI infrastructure provider Vertiv Holdings (VRT) is scheduled to announce its second-quarter earnings on July 29. Ahead of the company’s Q2 results, Baird analyst Luke Junk initiated coverage of VRT stock with a Buy rating and a price target of $370.... [1909 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/baird-initiates-vertiv-stock-vrt-at-buy-ahead-of-q2-earnings-here-s-why-1036334824",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/07/image-1699.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-07-16T21:32:25Z",
             "lang": "en",
             "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
                 "country": "us"
             }
         },
         {
-            "id": "4f582630c9b764eccc69557ddaa8bea3",
-            "title": "Quebec and Alberta plan to work together to integrate AI in government",
-            "description": "MONTREAL — The Quebec and Alberta governments plan to work together to implement artificial intelligence in public administration, which Quebec's cybersecurity minister says will help both provinces build on each other's experience to develop new too",
-            "content": "MONTREAL — The Quebec and Alberta governments plan to work together to implement artificial intelligence in public administration, which Quebec's cybersecurity minister says will help both provinces build on each other's experience to develop new too... [3530 chars]",
-            "url": "https://www.sootoday.com/national-news/quebec-and-alberta-plan-to-work-together-to-integrate-ai-in-government-12551305",
-            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/07/91905bda1f05ed62fd841ed917e66a4c7e7a40506c232cf281e0c17995e08e56.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-07-15T21:43:24Z",
+            "id": "8301350b6fdb04de44c38599682ae7e7",
+            "title": "Hong Kong’s AI education blueprint is a start - but schools need more",
+            "description": "A pedagogical framework, case studies and genuine collaboration between the authorities, researchers, school leaders and teachers are vital.",
+            "content": "It has incorporated concerns and suggestions raised by educators and researchers, including an AI pedagogical framework, a plan to build a shared resource platform, and progressive AI literacy training for teachers.\nOur Hong Kong Foundation’s survey,... [1067 chars]",
+            "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3360372/hong-kongs-ai-education-blueprint-start-schools-need-more",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/07/15/dfc3498b-479c-4f16-a34d-578f9e821fd3_a6b84ecd.jpg?itok=sfDlB26a&v=1784095383",
+            "publishedAt": "2026-07-16T21:30:05Z",
             "lang": "en",
             "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            }
+        },
+        {
+            "id": "d9388f947a4cdff20616f056b95387ea",
+            "title": "Google is Short of AI Compute And Delayed an AI Model Release",
+            "description": "Bloomberg reports $GOOG engineers are hitting capacity constraints when they try to use AI internally. At a company guiding $180B to $190B of capex this year.",
+            "content": "Bloomberg reports $GOOG engineers are hitting capacity constraints when they try to use AI internally. At a company guiding $180B to $190B of capex this year.\nGemini 3.5 Pro is months behind schedule. Engineers are now required to use AI to write cod... [709 chars]",
+            "url": "https://www.nextbigfuture.com/2026/07/google-is-short-of-ai-compute-and-delayed-an-ai-model-release.html",
+            "image": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/07/googledelayed.jpg",
+            "publishedAt": "2026-07-16T21:24:55Z",
+            "lang": "en",
+            "source": {
+                "id": "21cef40ac6c3ef9110c7f509a6f6e7f6",
+                "name": "NextBigFuture.com",
+                "url": "https://www.nextbigfuture.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "4bb7b9c0970fc5966118dcb304658729",
+            "title": "AI humanoid robotics company sets up shop in Fremont",
+            "description": "A robotics company has set up shop in Fremont, bringing dozens of jobs and robot-related artificial intelligence technologies and to the East Bay.",
+            "content": "FREMONT — Robotics company Agility expects to bring jobs and robot-related artificial intelligence technologies to Fremont’s Ardenwood neighborhood with its new research center.\nThe company said it plans to hire about 200 people to work in the compan... [1815 chars]",
+            "url": "https://www.mercurynews.com/2026/07/16/tech-robot-fremont-property-build-real-estate-economy-jobs-ai-develop/",
+            "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SJM-L-FMTROBOTICS-02.jpg?w=1024&h=834",
+            "publishedAt": "2026-07-16T21:22:16Z",
+            "lang": "en",
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "affa72dacedf5663e7fe4982acc4f20a",
+            "title": "IBM: AI Just Exposed A Bigger Problem",
+            "description": "International Business Machines Corporation Q2 earnings missed estimates as software slowed and infrastructure fell, raising AI concerns. Click for more on IBM stock.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of IBM either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (othe... [678 chars]",
+            "url": "https://seekingalpha.com/article/4922776-ibm-ai-just-exposed-a-bigger-problem",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2243780205/image_2243780205.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-07-16T21:11:06Z",
+            "lang": "en",
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "3b56743f594455b52c908c521ad2017d",
+            "title": "Fake TTE held at railway station in West Bengal; used AI to generate identity documents",
+            "description": "Fake TTE held at railway station in West Bengal; used AI to generate identity documents - Kolkata, July 17 A man, masquerading as a Travelling Ticket Examiner (TTE) was apprehended at the Rampurhat railway ... Get Latest News on National only on lokmattimes.com",
+            "content": "Kolkata, July 17 A man, masquerading as a Travelling Ticket Examiner (TTE) was apprehended at the Rampurhat railway station in West Bengal's Birbhum by the Railway Protection Force (RPF) in the early hours of Wednesday.\nThe Eastern Railway (ER) offic... [3488 chars]",
+            "url": "https://www.lokmattimes.com/national/fake-tte-held-at-railway-station-in-west-bengal-used-ai-to-generate-identity-documents/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607173867257_202607.jpg",
+            "publishedAt": "2026-07-16T21:10:22Z",
+            "lang": "en",
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "5f76fa3374cfee5aabc9af981668ca22",
+            "title": "Slumping AI stocks drag down markets around the world",
+            "description": "Drops for computer chipmakers and other AI winners dragged down stock markets worldwide",
+            "content": "Drops for computer chipmakers and other winners of the artificial-intelligence boom dragged down stock markets worldwide on Thursday.\nThe Standard & Poor’s 500 fell 0.5%, even though more stocks rose within the index than fell. The Dow Jones industri... [3988 chars]",
+            "url": "https://www.latimes.com/business/story/2026-07-16/slumping-ai-stocks-drag-down-markets-around-world",
+            "image": "https://ca-times.brightspotcdn.com/dims4/default/3572c7c/2147483647/strip/true/crop/7123x3740+0+505/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6d%2Fb4%2F8d7c00a749ad9038e4f066b0a7d8%2F479876f81e994b03b5965ad8330548f8.jpg",
+            "publishedAt": "2026-07-16T21:08:18Z",
+            "lang": "en",
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "6a0a1c8e81b3ebb9d8b7dda2d4586065",
+            "title": "Kevin O'Leary sued after accusing Utah AI data centre critics of acting as foreign agents",
+            "description": "The founders of two community groups in Utah are suing Canadian businessman Kevin O'Leary and the Fox News network, claiming the entrepreneur falsely accused them in multiple interviews of working for the Chinese government to stop a proposed data centre in their state.",
+            "content": "The founders of two organizations in Utah are suing Canadian businessman Kevin O'Leary and the Fox News, claiming the entrepreneur falsely accused them of working as foreign agents after they criticized the AI data centre he's proposed for their stat... [4939 chars]",
+            "url": "https://www.cbc.ca/news/canada/kevin-oleary-utah-data-centre-defamation-lawsuit-9.7271846",
+            "image": "https://i.cbc.ca/ais/c1c6e67d-bb6f-4b05-bd1e-facd84b83356,1784157058763/full/max/0/default.jpg?im=Crop%2Crect%3D%28238%2C1087%2C5282%2C2971%29%3BResize%3D620",
+            "publishedAt": "2026-07-16T21:06:28Z",
+            "lang": "en",
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
                 "country": "ca"
             }
         },
         {
-            "id": "a59d239301383c9b6967794b02582382",
-            "title": "Quebec and Alberta plan to work together to integrate AI in government",
-            "description": "MONTREAL — The Quebec and Alberta governments plan to work together to implement artificial intelligence in public administration, which Quebec's cybersecurity minister says will help both provinces build on each other's experience to develop new too",
-            "content": "MONTREAL — The Quebec and Alberta governments plan to work together to implement artificial intelligence in public administration, which Quebec's cybersecurity minister says will help both provinces build on each other's experience to develop new too... [3530 chars]",
-            "url": "https://www.baytoday.ca/national-news/quebec-and-alberta-plan-to-work-together-to-integrate-ai-in-government-12551305",
-            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/07/91905bda1f05ed62fd841ed917e66a4c7e7a40506c232cf281e0c17995e08e56.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-07-15T21:43:24Z",
+            "id": "b52b8745fbd3984dbf1d5d5b4e184513",
+            "title": "China AI Model Kimi K3 Scores Near Fable and GPT 5.6",
+            "description": "Introducing Kimi K3 has been revealed and it is open Frontier Intelligence",
+            "content": "Introducing Kimi K3 has been revealed and it is open Frontier Intelligence\n🔹 2.8 Trillion Parameters, 1 Million Context, Native Multimodal\n🔹 Kimi Delta Attention enables up to 6.3x faster decoding in million-token contexts\n🔹 Attention Residuals deliv... [808 chars]",
+            "url": "https://www.nextbigfuture.com/2026/07/china-ai-model-kimi-k3-scores-near-fable-and-gpt-5-6.html",
+            "image": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/07/Kimik3.jpg",
+            "publishedAt": "2026-07-16T21:05:25Z",
             "lang": "en",
             "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "50882b32cdd12d0b0d4dacfdd1718a8c",
-            "title": "AI Music App Suno Got Hacked, Giving a Glimpse of Just How Much Music It Scraped",
-            "description": "That's a lot of artists not getting paid.",
-            "content": "AI models tend to be black boxes, but it seems they do become a little less opaque if you forcibly crack them open. According to a report from 404 Media, a hacker who allegedly breached AI music generation platform Suno back in November 2025 was able... [4231 chars]",
-            "url": "https://gizmodo.com/ai-music-app-suno-got-hacked-giving-a-glimpse-of-just-how-much-music-it-scraped-2000786013",
-            "image": "https://gizmodo.com/app/uploads/2025/11/studio-landing-page-any-audio-1200x675.jpg",
-            "publishedAt": "2026-07-15T21:40:53Z",
-            "lang": "en",
-            "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
+                "id": "21cef40ac6c3ef9110c7f509a6f6e7f6",
+                "name": "NextBigFuture.com",
+                "url": "https://www.nextbigfuture.com",
                 "country": "us"
             }
         },
         {
-            "id": "2c8713117b5d737041134098233f34df",
-            "title": "xAI sues user for exploiting AI tool to sexualise minors",
-            "description": "Lawsuit accuses Terry Harwood of misusing xAI to bypass safeguards and produce explicit deepfakes involving minors.",
-            "content": "Elon Musk’s xAI has filed a lawsuit against a South Carolina man who was arrested earlier this year on charges of sexually exploiting minors, alleging that he misused the company’s AI tool to create sexually explicit content involving a child.\nThe la... [2838 chars]",
-            "url": "https://www.aljazeera.com/economy/2026/7/15/xai-sues-user-for-exploiting-ai-tool-to-sexualise-minors",
-            "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2025-02-16T142607Z_263064880_RC2PVCA4ZVJM_RTRMADP_3_XAI-AI-1784145757.jpg?resize=1920%2C1440",
-            "publishedAt": "2026-07-15T21:31:44Z",
+            "id": "146c5681e476ab227e004ed46e243047",
+            "title": "Half of all games released on Steam will use AI by 2028, study predicts: \"AI lowers the barrier not just to make a game but to make several\"",
+            "description": "Does anyone actually want this?",
+            "content": "Hi, have you had your fill of bad video game news this week? I hope not, because I just picked up a plate of fresh, sizzling garbage: a study by former Habbo Hotel developer Sulka Haro suggests half of the games available on Steam by 2028 will incorp... [1935 chars]",
+            "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
+            "image": "https://cdn.mos.cms.futurecdn.net/Fu4TJCX2kRcbsfxswuJM33-1920-80.jpg",
+            "publishedAt": "2026-07-16T21:05:00Z",
             "lang": "en",
             "source": {
-                "id": "8ed6c6b6dec4f35a4963354fb78b9754",
-                "name": "Al Jazeera",
-                "url": "https://www.aljazeera.com",
-                "country": "qa"
-            }
-        },
-        {
-            "id": "a10ff026a7139bf6fc2a887f0c9b1056",
-            "title": "Suno AI music was trained on 2M+ scraped YouTube songs",
-            "description": "A hack of Suno AI music exposed its source code, showing it scraped millions of songs from YouTube, Deezer, and Genius to train its song generator.",
-            "content": "For years, musicians have said AI song generators fed on their work without asking. A hacker just opened the black box and showed them exactly how.\nLeaked source code from Suno, one of the biggest AI music tools, tells the story. It trained its model... [2208 chars]",
-            "url": "https://thenextweb.com/news/suno-ai-music-hack-training-data",
-            "image": "https://media.thenextweb.com/2026/07/Suno-homepage-screenshot.avif",
-            "publishedAt": "2026-07-15T21:30:42Z",
-            "lang": "en",
-            "source": {
-                "id": "11c2fbf226e7334e9f93bb78243a79cc",
-                "name": "TNW",
-                "url": "https://thenextweb.com",
+                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
+                "name": "GamesRadar+",
+                "url": "https://www.gamesradar.com",
                 "country": "us"
-            }
-        },
-        {
-            "id": "1504971519550d6afad034f44b92a7cd",
-            "title": "Elon Musk Just Ditched His Clean‑Energy Image With a Billion‑Dollar Fossil‑Fuel Play",
-            "description": "Elon Musk's space and AI company has quietly bought a fossil fuel company.",
-            "content": "When it comes to Elon Musk, the world’s richest person is well-known for clean energy initiatives that include bets on electric vehicles, solar power, energy storage and more. These days, Musk is having to turn to fossil fuels to help power his AI am... [1320 chars]",
-            "url": "https://www.benzinga.com/m-a/26/07/60486651/elon-musk-just-ditched-his-clean%e2%80%91energy-image-with-a-billion%e2%80%91dollar-fossil%e2%80%91fuel-play",
-            "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/15/Clean-Energy-For-Transportation--Wind-Tu.jpg",
-            "publishedAt": "2026-07-15T21:29:05Z",
-            "lang": "en",
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "14cd26fbedb80552d99f301596a356e7",
-            "title": "Enterprise agents drive AI growth in AWS Marketplace",
-            "description": "Enterprise agents are reshaping AWS Marketplace as AI-assisted listings and agentic AI adoption surge, AWS VP Matt Yanchyshyn explains.",
-            "content": "Product listings in AWS Marketplace gained new AI-based features last month in anticipation of continued growth in the use of enterprise agents.\nAmazon Web Services Inc. unveiled AI-assisted product listings in Product Assistant chat, a feature that ... [2559 chars]",
-            "url": "https://siliconangle.com/2026/07/15/aws-product-listing-service-enterprise-agents-ai-awsmarketplaceseries/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Matt-Yanchyshyn.jpg",
-            "publishedAt": "2026-07-15T21:26:22Z",
-            "lang": "en",
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b6eb33f5ff0aa260bdaa1f07f7dc1651",
-            "title": "OpenAI Just Launched Its First Hardware Product-and It’s a Tiny Keyboard for Bossing Around AI Agents",
-            "description": "The AI company teamed up with Work Louder on a programmable keyboard designed specifically for Codex.",
-            "content": "OpenAI has officially rolled out its first piece of hardware, and it’s not the one you’re thinking of.\nThe company behind ChatGPT announced on Wednesday a $230 mini keyboard designed specifically to work with its AI coding agent, Codesx. The device i... [2432 chars]",
-            "url": "https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2000786080",
-            "image": "https://gizmodo.com/app/uploads/2026/07/openAI_keyboard-1200x675.jpg",
-            "publishedAt": "2026-07-15T21:25:11Z",
-            "lang": "en",
-            "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "02081d422b1a9a08aec05b5172d645d2",
-            "title": "Authors, publishers sue Google over alleged AI copyright infringement",
-            "description": "Hachette and Elsevier lead US legal action against Google, alleging misuse of books for Gemini AI model training.",
-            "content": "Hachette Book Group, Cengage Learning, Elsevier, and author Scott Turow have filed a lawsuit against Google in a federal United States court in New York, alleging the Silicon Valley tech giant committed copyright infringement while training its Gemin... [6281 chars]",
-            "url": "https://www.aljazeera.com/economy/2026/7/15/authors-publishers-sue-google-over-alleged-ai-copyright-infringement",
-            "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a57da4115bbf-1784142401.jpg?resize=1920%2C1440",
-            "publishedAt": "2026-07-15T21:21:20Z",
-            "lang": "en",
-            "source": {
-                "id": "8ed6c6b6dec4f35a4963354fb78b9754",
-                "name": "Al Jazeera",
-                "url": "https://www.aljazeera.com",
-                "country": "qa"
             }
         }
     ]
