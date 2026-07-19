@@ -4,64 +4,144 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 393995,
+    "totalArticles": 394373,
     "articles": [
         {
-            "id": "7aa6b143d6b0002deb9e5942b25e1a25",
-            "title": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic",
-            "description": "By Clare Duffy, CNN New York (CNN) — Meta is in talks with Anthropic about leasing computing capacity to the AI startup. It’s a move that could put the social media giant in competition with Amazon, Microsoft and Google in a new line of business: cloud computing. The conversation about a potential deal is still",
-            "content": "By Clare Duffy, CNN\nNew York (CNN) — Meta is in talks with Anthropic about leasing computing capacity to the AI startup. It’s a move that could put the social media giant in competition with Amazon, Microsoft and Google in a new line of business: clo... [2403 chars]",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2026/07/17/meta-in-talks-to-rent-some-of-its-billions-in-ai-infrastructure-to-anthropic/",
-            "image": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
-            "publishedAt": "2026-07-17T21:07:52Z",
+            "id": "95f08756a71392ad89b96a755363a4e3",
+            "title": "Apple is finally removing AI apps that can digitally undress anyone",
+            "description": "Apple has removed several AI nudify apps after legal action accused the company of allowing deepfake pornography tools to remain on the App Store.",
+            "content": "Apple has removed several AI-powered “nudify” apps from the App Store after coming under legal pressure from San Francisco’s city attorney, but the episode raises a much bigger question than whether a handful of apps violated App Store rules.\nThe rea... [5611 chars]",
+            "url": "https://www.digitaltrends.com/phones/apple-is-finally-removing-ai-apps-that-can-digitally-undress-anyone/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-19T024027.566.jpg?resize=1200%2C630",
+            "publishedAt": "2026-07-18T21:14:27Z",
             "lang": "en",
             "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
                 "country": "us"
             }
         },
         {
-            "id": "982a70d8c0bc67df30435ddcf29da90d",
-            "title": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic",
-            "description": "Meta is in talks with Anthropic about leasing computing capacity to the AI startup. It’s a move that could put the social media giant in competition with Amazon, Microsoft and Google in a new line of business: cloud computing.",
-            "content": "Meta is in talks with Anthropic about leasing computing capacity to the AI startup. It’s a move that could put the social media giant in competition with Amazon, Microsoft and Google in a new line of business: cloud computing.\nThe conversation about ... [2366 chars]",
-            "url": "https://edition.cnn.com/2026/07/17/tech/meta-anthropic-ai-cloud-computing",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260717-dario-amodei-mark-zuckerberg-split.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-07-17T21:07:52Z",
+            "id": "7549eeb0d9081da217fccea03a5e3d56",
+            "title": "What Is a Microgrid? How They Work and Why They're Suddenly Everywhere",
+            "description": "How microgrids work, why they matter, and why AI data centers are racing to build their own power grids.",
+            "content": "When Hurricane Maria flattened Puerto Rico's power grid in 2017, one building in the mountain town of Adjuntas never went dark. Casa Pueblo, a local environmental group, had already wired its headquarters with solar panels and batteries. That system ... [11277 chars]",
+            "url": "https://oilprice.com/Energy/Energy-General/What-Is-a-Microgrid-How-They-Work-and-Why-Theyre-Suddenly-Everywhere.html",
+            "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-16_jeyni4lake.jpg",
+            "publishedAt": "2026-07-18T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
+                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
+                "name": "OilPrice",
+                "url": "https://oilprice.com",
                 "country": "us"
             }
         },
         {
-            "id": "c75ae5db306d07771a3c2693297dd15a",
-            "title": "SpaceX might land another big compute customer: the Department of Defense.",
-            "description": "The Pentagon may make a deal where it would pay for billions of dollars of compute from SpaceX, according to The Wall Street Journal.\nSpaceX already provides compute to Google and Anthropic, and the company wants to do more in cloud computing, the WSJ says.\n[Link: SpaceX in Talks to Provide Computing Power for Pentagon’s AI Push | https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4?mod=rss_Technology | The Wall Street Journal]",
-            "content": "J\nExternal Link\nSpaceX might land another big compute customer: the Department of Defense.\nThe Pentagon may make a deal where it would pay for billions of dollars of compute from SpaceX, according to The Wall Street Journal.\nSpaceX already provides c... [628 chars]",
-            "url": "https://www.theverge.com/science/967560/spacex-might-land-another-big-compute-customer-the-department-of-defense",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-            "publishedAt": "2026-07-17T21:07:47Z",
+            "id": "cb0adc6acbb0ac3798ecf3cf34a668e5",
+            "title": "‘If someone needs a million drones, we must be able to deliver’: Weapons maker Saab’s CEO",
+            "description": "The Swedish defence contractor is pushing advances in AI for modern warfare while expanding partnerships globally. Read more at straitstimes.com.",
+            "content": "SINGAPORE – These are boom times for Europe’s defence companies. The long war in Europe, the five-month-old conflict over Iran, and US President Donald Trump’s push to get European and other defence partners to carry more of the military financial bu... [9802 chars]",
+            "url": "https://www.straitstimes.com/opinion/if-someone-needs-a-million-drones-we-must-be-able-to-deliver-weapons-maker-saabs-ceo",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cd140cb9d1073251e88994b88a559b00f17f72c5f82636529771668a60b69ec4",
+            "publishedAt": "2026-07-18T21:00:00Z",
             "lang": "en",
             "source": {
-                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-                "name": "The Verge",
-                "url": "https://www.theverge.com",
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "506820f21d3b9309aafa4eac0af093ce",
+            "title": "AI 'Actor' Sparks Debate and Transformation in Entertainment Industry",
+            "description": "The creation of AI 'actor' Tilly Norwood by Eline van der Velden has sparked a debate, with her character aiming to explore the possibilities of AI rather than replace human performers. Meanwhile, Marvel Comics relocates to California, and Rolling Stones achieve chart success with their 15th UK number one album.",
+            "content": "The entertainment industry is abuzz with discussions surrounding Tilly Norwood, an AI 'actor' developed by Eline van der Velden. Designed to ignite conversation rather than replace human talent, Tilly symbolizes a new frontier in film.\nMarvel Comics ... [438 chars]",
+            "url": "https://www.devdiscourse.com/article/entertainment/3952514-ai-actor-sparks-debate-and-transformation-in-entertainment-industry",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_10_2025_00_54_53_6925116.png&width=920&format=jpeg",
+            "publishedAt": "2026-07-18T20:57:39Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "6186b4a566cd3829296f130d758a2c90",
+            "title": "gen optical links can connect thousands of chips",
+            "description": "Chinese chip startup Biren has introduced a new optical supernode architecture designed to connect thousands of AI chips in a single cluster.",
+            "content": "As AI models continue to grow in size and complexity, chipmakers are shifting their focus from individual processor performance to the ability to efficiently connect thousands of accelerators into a single computing system.\nThese highly interconnecte... [3301 chars]",
+            "url": "https://interestingengineering.com/ai-robotics/chinese-firm-optical-links-connect-chips",
+            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/image-1920x1080-2026-07-18T185026.888.png?w=1920",
+            "publishedAt": "2026-07-18T20:48:06Z",
+            "lang": "en",
+            "source": {
+                "id": "1a6c3258d04827f52d40713ad8166b1b",
+                "name": "Interesting Engineering",
+                "url": "https://interestingengineering.com",
                 "country": "us"
             }
         },
         {
-            "id": "f59bc317244580edb1aada1662e3305c",
-            "title": "'You're giving ballistic ⁠missiles to individuals with Mythos': JPMorgan CEO Jamie Dimon says Anthropic's AI model poses some serious risks",
-            "description": "Anthropic’s Claude Mythos AI is just too powerful",
-            "content": "JPMorgan CEO Jamie Dimon warns controls may be needed for Claude Mythos\nThe AI model from Anthropic is highly advanced, and has been proven to detect zero-day vulnerabilities and even develop working exploits\nThe US government has previously instruct... [2828 chars]",
-            "url": "https://www.techradar.com/pro/youre-giving-ballistic-missiles-to-individuals-with-mythos-jpmorgan-ceo-jamie-dimon-says-anthropics-ai-model-poses-some-serious-risks",
-            "image": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg",
-            "publishedAt": "2026-07-17T21:05:00Z",
+            "id": "6e29215eed49d6bf4a2028e451233c70",
+            "title": "Data centers have united Americans of both parties in a shared hatred",
+            "description": "Data centers have become a lightning rod for people’s frustrations over corporate power, public trust and the costs of the AI boom.",
+            "content": "Kyle Schmidt ticked through what makes him irate about the massive Google data center slated for construction about a mile away from his home near Sand Springs, Oklahoma.\nHe didn’t like that residents were kept in the dark about what would be built o... [7418 chars]",
+            "url": "https://www.adn.com/nation-world/2026/07/18/data-centers-have-united-americans-of-both-parties-in-a-shared-hatred/",
+            "image": "https://www.adn.com/resizer/v2/BLA4EZINLWQCKJHTRNZCXN4ERM.jpg?smart=true&auth=54fabff9b8684b250ac5d388c62781fc2e25aa9a41c4ba3e08961c59d5a117ee&width=1200&height=630",
+            "publishedAt": "2026-07-18T20:46:27Z",
+            "lang": "en",
+            "source": {
+                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
+                "name": "Anchorage Daily News",
+                "url": "https://www.adn.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "bfeb76108f95b87b1f667c1f724da2c7",
+            "title": "New York Mets reject concerns over in-game AI use after Ottavino claims",
+            "description": "Mets interim manager Andy Green says the club remains fully compliant with MLB rules after former reliever Adam Ottavino alleged the team used AI for in-game strategy",
+            "content": "New York Mets interim manager Andy Green said the club is fully compliant with Major League Baseball when asked about a report that singled out his organization for using artificial intelligence for in-game strategy decisions.\n“Whatever the rules are... [1498 chars]",
+            "url": "https://www.theguardian.com/sport/2026/jul/18/mets-andy-green-ai-strategy-mlb-compliance-ottavino-report",
+            "image": "https://i.guim.co.uk/img/media/0367b0969dca4e8cee61f34a60839bcf76ba6964/107_0_2462_1970/master/2462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d7642e70477118dc9b125d0224e2159",
+            "publishedAt": "2026-07-18T20:33:01Z",
+            "lang": "en",
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "bbfaaaeb159d79cf4ce7283dbb8f4180",
+            "title": "Anti-AI data center protesters rally across the US",
+            "description": "Humans First, a conservative-led nonprofit, organized nationwide protests against AI data centers on Saturday.",
+            "content": "America's anti-data center movement went national on Saturday.\nProtesters across the US rallied against the hulking facilities as part of a nationwide demonstration organized by Humans First, a newly founded conservative nonprofit taking on what it c... [5884 chars]",
+            "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+            "image": "https://i.insider.com/6a5bce9354f9875261776ee1?width=1200&format=jpeg",
+            "publishedAt": "2026-07-18T20:31:37Z",
+            "lang": "en",
+            "source": {
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "b078db9876356ca9874cdca1a0c88698",
+            "title": "US Air Force drone fires real missile for the first time as AI-powered fighter technology enters a new battlefield era",
+            "description": "AI combat drone reaches major milestone after launching AMRAAM missile",
+            "content": "US Air Force drone fires live missile during landmark autonomous aircraft test\nHuman pilots remain in control despite growing drone autonomy capabilities\nYFQ-44A advances America’s plans for future robotic fighter operations\nThe US Air Force has succ... [3176 chars]",
+            "url": "https://www.techradar.com/pro/usafs-autonomous-ai-fighter-drone-just-fired-a-real-amraam-air-to-air-missile-in-a-world-first",
+            "image": "https://cdn.mos.cms.futurecdn.net/iYQ9fHQkgKEtffDUfqfYXY-1920-80.png",
+            "publishedAt": "2026-07-18T20:05:00Z",
             "lang": "en",
             "source": {
                 "id": "76684855c5d801b81fd06490668d04fe",
@@ -71,99 +151,19 @@
             }
         },
         {
-            "id": "cc9707dbcc783baa4e36693579108fde",
-            "title": "Iran says it destroyed US unmanned depot, AI center in Bahrain",
-            "description": "Iran’s Islamic Revolutionary Guard Corps (IRGC) said Friday it had destroyed a US unmanned surface (drone) vessel depot and Bahrain’s “main artificial intelligence center” i…",
-            "content": "Iran’s Islamic Revolutionary Guard Corps (IRGC) said Friday it had destroyed a US unmanned surface (drone) vessel depot and Bahrain’s “main artificial intelligence center” in retaliation for recent US attacks on Iran, Anadolu reports.\nIn a statement,... [991 chars]",
-            "url": "https://www.middleeastmonitor.com/20260717-iran-says-it-destroyed-us-unmanned-depot-ai-center-in-bahrain/",
-            "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/01/image-2-4.jpg?fit=920%2C613&ssl=1",
-            "publishedAt": "2026-07-17T21:04:19Z",
+            "id": "1d94edcd61eaeb16d6ff4060c41ca979",
+            "title": "ANU accused of ‘hysterical’ response to students using AI to cheat as unis scramble to ‘secure’ assessments",
+            "description": "Australia risks ‘shipping’ intellectual capability overseas if educational rigour not restored, experts warn",
+            "content": "An academic at the Australian National University has accused it of a “hysterical” response to students using AI to cheat, as tertiary institutions rush to shore up the credibility of assessments.\nBut a colleague warned Australia is in danger of “shi... [5083 chars]",
+            "url": "https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments",
+            "image": "https://i.guim.co.uk/img/media/c017396124a3bfb3ea30c82d125ba81f61c43e6d/757_0_6181_4945/master/6181.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb41eb25c1b86bfaf705bfa173516225",
+            "publishedAt": "2026-07-18T20:00:09Z",
             "lang": "en",
             "source": {
-                "id": "e95f61df83ec26b9d965123c7b4cb57d",
-                "name": "Middle East Monitor",
-                "url": "https://www.middleeastmonitor.com",
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
                 "country": "gb"
-            }
-        },
-        {
-            "id": "7c1340e9fa52f60ede69c1bc8371354c",
-            "title": "MLB restricts dugout iPads to bar use of AI to make game decisions",
-            "description": "In some cases, use of the dugout iPad grew to include recommendations regarding substitutions, pitch calling, and other in-game decisions traditionally made by players and coaches.",
-            "content": "NEW YORK — Major League Baseball is restricting iPad usage in dugouts to prevent the tablets from running artificial intelligence to help make decisions.\nThe tablets have access to video and league-provided data, and also included a custom tab where ... [893 chars]",
-            "url": "https://chicago.suntimes.com/mlb/2026/07/17/mlb-restricts-dugout-ipads-to-bar-use-of-ai-to-make-game-decisions",
-            "image": "https://cst.brightspotcdn.com/dims4/default/a6464f6/2147483647/strip/true/crop/8256x4713+0+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F46%2Fe057a9e64685978d75239f39a221%2Fipad.jpg",
-            "publishedAt": "2026-07-17T21:04:14Z",
-            "lang": "en",
-            "source": {
-                "id": "a9b75d29a22d0e3d5640bed825a22b93",
-                "name": "Chicago Sun-Times",
-                "url": "https://chicago.suntimes.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "9d1068676b5169a150513898ea558413",
-            "title": "China's Kimi K3 rattles US AI industry",
-            "description": "WASHINGTON — Kimi K3, a new artificial intelligence program from a Chinese startup called Moonshot AI, stunned the US tech industry on Friday, setting off fresh discussion over the China-US rivalry to dominate AI.",
-            "content": "WASHINGTON — Kimi K3, a new artificial intelligence program from a Chinese startup called Moonshot AI, stunned the US tech industry on Friday, setting off fresh discussion over the China-US rivalry to dominate AI.\nThe program was released Thursday an... [2667 chars]",
-            "url": "https://www.manilatimes.net/2026/07/18/world/chinas-kimi-k3-rattles-us-ai-industry/2386827",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/18/1141656.jpg",
-            "publishedAt": "2026-07-17T21:03:00Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "521427ef21928f5768c939217d4aee9b",
-            "title": "The sell-off for AI stars worsens, while oil prices keep jumping",
-            "description": "The sell-off for AI winners deepened and yanked stock markets lower worldwide. The S&P 500 fell 1% Friday to finish its first losing week in the last three and only its third since March. The Dow Jones Industrial Average dropped 0.8%, and the Nasdaq composite sank 1.4%. Nvidia was the heaviest weight on the market and briefly gave up its status as the most valuable stock on Wall Street. The worries about whether AI stocks have shot too high dragged down Asian markets even more sharply. Oil prices jumped again on worries about the war with Iran, but longer-term Treasury yields eased.",
-            "content": "NEW YORK (AP) — The sell-off for winners of the artificial-intelligence boom deepened Friday and yanked stock markets lower worldwide. Oil prices, meanwhile, continued to jump because of the war with Iran.\nThe S&P 500 fell 1% to finish its first losi... [1465 chars]",
-            "url": "https://www.ajc.com/news/2026/07/the-sell-off-for-ai-stars-worsens-while-oil-prices-keep-jumping/",
-            "image": "https://images.ajc.com/resizer/v2/MEZYBPVKNBGW3KHLQCSR32UPEU.jpg?auth=98a687e748b390e70bcfd1b044e615314d2c6ce426d301e1e609704171321ea1&width=1200&height=630&smart=true",
-            "publishedAt": "2026-07-17T21:02:24Z",
-            "lang": "en",
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e2ea6d391c85027c3e545e356344713b",
-            "title": "Netflix Paid $587 Million for Ben Affleck’s AI Company",
-            "description": "Netflix bought Ben Affleck's AI company for $587 million, new filing reveals.",
-            "content": "When Netflix acquired Ben Affleck’s mysterious AI company InterPositive earlier this year, it took the industry by storm.\nWhat was the company? What tools did it create for filmmakers? How would Netflix use them, and use Affleck, who committed to wor... [2803 chars]",
-            "url": "https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/",
-            "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Ben-Affleck_0564_R1.jpg?crop=0px%2C1251px%2C11648px%2C6518px&resize=1440%2C810",
-            "publishedAt": "2026-07-17T21:01:14Z",
-            "lang": "en",
-            "source": {
-                "id": "e83df266d4bbd78d7528c3ee4fc0fc5f",
-                "name": "The Hollywood Reporter",
-                "url": "https://www.hollywoodreporter.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "a45137d82c73b7321ca06dee39364486",
-            "title": "I replaced five automation scripts with one local AI agent, and it broke things I didn't expect",
-            "description": "It was a bad idea.",
-            "content": "I have seen enough success with local agents to take them seriously. They work especially well for coding because they can inspect a project, edit files, run tests, and correct their own mistakes. That experience convinced me that one local agent cou... [5588 chars]",
-            "url": "https://www.xda-developers.com/replaced-five-automation-scripts-local-ai-agent-broke-unexpected-things/",
-            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/agent-command-hero.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-07-17T21:00:10Z",
-            "lang": "en",
-            "source": {
-                "id": "891063cd06eaab8a5cf530418fb4c0be",
-                "name": "XDA Developers",
-                "url": "https://www.xda-developers.com",
-                "country": "us"
             }
         }
     ]
