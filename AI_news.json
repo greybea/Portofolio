@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 394373,
+    "totalArticles": 394669,
     "articles": [
         {
-            "id": "95f08756a71392ad89b96a755363a4e3",
-            "title": "Apple is finally removing AI apps that can digitally undress anyone",
-            "description": "Apple has removed several AI nudify apps after legal action accused the company of allowing deepfake pornography tools to remain on the App Store.",
-            "content": "Apple has removed several AI-powered “nudify” apps from the App Store after coming under legal pressure from San Francisco’s city attorney, but the episode raises a much bigger question than whether a handful of apps violated App Store rules.\nThe rea... [5611 chars]",
-            "url": "https://www.digitaltrends.com/phones/apple-is-finally-removing-ai-apps-that-can-digitally-undress-anyone/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-19T024027.566.jpg?resize=1200%2C630",
-            "publishedAt": "2026-07-18T21:14:27Z",
+            "id": "ad1a8a303e2c79df4f3ebaee3488c240",
+            "title": "Europe’s AI Fiscal Capacity Depends on More Than Adoption",
+            "description": "A fivefold increase in euro-area residents’ payments to U.S.-registered intellectual-property owners is not an AI number on its own. That is precisely why it",
+            "content": "Europe can benefit from foreign AI without capturing an equal share of its rents\nFiscal resilience requires compute, capital, ownership and local industrial capability\nThe viable strategy is high adoption with minimum technological sovereignty\nA five... [13688 chars]",
+            "url": "https://www.europesays.com/3141517/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/07/EuropeE28099s20AI20Fiscal20Capacity_20260715_ECON.jpg",
+            "publishedAt": "2026-07-19T22:36:24Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "7549eeb0d9081da217fccea03a5e3d56",
-            "title": "What Is a Microgrid? How They Work and Why They're Suddenly Everywhere",
-            "description": "How microgrids work, why they matter, and why AI data centers are racing to build their own power grids.",
-            "content": "When Hurricane Maria flattened Puerto Rico's power grid in 2017, one building in the mountain town of Adjuntas never went dark. Casa Pueblo, a local environmental group, had already wired its headquarters with solar panels and batteries. That system ... [11277 chars]",
-            "url": "https://oilprice.com/Energy/Energy-General/What-Is-a-Microgrid-How-They-Work-and-Why-Theyre-Suddenly-Everywhere.html",
-            "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-16_jeyni4lake.jpg",
-            "publishedAt": "2026-07-18T21:00:00Z",
+            "id": "32f729edd542a04087ac1151db6732ef",
+            "title": "AI Express seeks to be value carrier; providing OTP is just not enough: Chairman Nipun Aggarwal",
+            "description": "ABU DHABI, Jul 19: Air India Express is trying to position itself as a value carrier as more passengers want an experience and providing on time performance is just not enough, according to the airline's Chairman Nipun Aggarwal. Part of...",
+            "content": "ABU DHABI, Jul 19: Air India Express is trying to position itself as a value carrier as more passengers want an experience and providing on time performance is just not enough, according to the airline's Chairman Nipun Aggarwal.\nPart of the Tata Grou... [2134 chars]",
+            "url": "https://www.dailyexcelsior.com/ai-express-seeks-to-be-value-carrier-providing-otp-is-just-not-enough-chairman-nipun-aggarwal/",
+            "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTdkYjk3OTMwLTgzYzEtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+            "publishedAt": "2026-07-19T22:30:25Z",
             "lang": "en",
             "source": {
-                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
-                "name": "OilPrice",
-                "url": "https://oilprice.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "cb0adc6acbb0ac3798ecf3cf34a668e5",
-            "title": "‘If someone needs a million drones, we must be able to deliver’: Weapons maker Saab’s CEO",
-            "description": "The Swedish defence contractor is pushing advances in AI for modern warfare while expanding partnerships globally. Read more at straitstimes.com.",
-            "content": "SINGAPORE – These are boom times for Europe’s defence companies. The long war in Europe, the five-month-old conflict over Iran, and US President Donald Trump’s push to get European and other defence partners to carry more of the military financial bu... [9802 chars]",
-            "url": "https://www.straitstimes.com/opinion/if-someone-needs-a-million-drones-we-must-be-able-to-deliver-weapons-maker-saabs-ceo",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cd140cb9d1073251e88994b88a559b00f17f72c5f82636529771668a60b69ec4",
-            "publishedAt": "2026-07-18T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "506820f21d3b9309aafa4eac0af093ce",
-            "title": "AI 'Actor' Sparks Debate and Transformation in Entertainment Industry",
-            "description": "The creation of AI 'actor' Tilly Norwood by Eline van der Velden has sparked a debate, with her character aiming to explore the possibilities of AI rather than replace human performers. Meanwhile, Marvel Comics relocates to California, and Rolling Stones achieve chart success with their 15th UK number one album.",
-            "content": "The entertainment industry is abuzz with discussions surrounding Tilly Norwood, an AI 'actor' developed by Eline van der Velden. Designed to ignite conversation rather than replace human talent, Tilly symbolizes a new frontier in film.\nMarvel Comics ... [438 chars]",
-            "url": "https://www.devdiscourse.com/article/entertainment/3952514-ai-actor-sparks-debate-and-transformation-in-entertainment-industry",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_10_2025_00_54_53_6925116.png&width=920&format=jpeg",
-            "publishedAt": "2026-07-18T20:57:39Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
                 "country": "in"
             }
         },
         {
-            "id": "6186b4a566cd3829296f130d758a2c90",
-            "title": "gen optical links can connect thousands of chips",
-            "description": "Chinese chip startup Biren has introduced a new optical supernode architecture designed to connect thousands of AI chips in a single cluster.",
-            "content": "As AI models continue to grow in size and complexity, chipmakers are shifting their focus from individual processor performance to the ability to efficiently connect thousands of accelerators into a single computing system.\nThese highly interconnecte... [3301 chars]",
-            "url": "https://interestingengineering.com/ai-robotics/chinese-firm-optical-links-connect-chips",
-            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/image-1920x1080-2026-07-18T185026.888.png?w=1920",
-            "publishedAt": "2026-07-18T20:48:06Z",
+            "id": "adb7d7cedbf35dd11c20c4a084dc8bd0",
+            "title": "How is the Digital Markets Act supporting AI innovation in Europe?",
+            "description": "Artificial intelligence is becoming increasingly embedded in how people use their phones – users can summon an AI assistant to draft a message, plan a trip,",
+            "content": "Artificial intelligence is becoming increasingly embedded in how people use their phones – users can summon an AI assistant to draft a message, plan a trip, shop and more. But every assistant must reach the user through a mobile operating system, two... [1132 chars]",
+            "url": "https://www.europesays.com/3141516/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/01/Newsletter20image-768x432.jpg",
+            "publishedAt": "2026-07-19T22:28:05Z",
             "lang": "en",
             "source": {
-                "id": "1a6c3258d04827f52d40713ad8166b1b",
-                "name": "Interesting Engineering",
-                "url": "https://interestingengineering.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "6e29215eed49d6bf4a2028e451233c70",
-            "title": "Data centers have united Americans of both parties in a shared hatred",
-            "description": "Data centers have become a lightning rod for people’s frustrations over corporate power, public trust and the costs of the AI boom.",
-            "content": "Kyle Schmidt ticked through what makes him irate about the massive Google data center slated for construction about a mile away from his home near Sand Springs, Oklahoma.\nHe didn’t like that residents were kept in the dark about what would be built o... [7418 chars]",
-            "url": "https://www.adn.com/nation-world/2026/07/18/data-centers-have-united-americans-of-both-parties-in-a-shared-hatred/",
-            "image": "https://www.adn.com/resizer/v2/BLA4EZINLWQCKJHTRNZCXN4ERM.jpg?smart=true&auth=54fabff9b8684b250ac5d388c62781fc2e25aa9a41c4ba3e08961c59d5a117ee&width=1200&height=630",
-            "publishedAt": "2026-07-18T20:46:27Z",
+            "id": "1b1997d5fa05e033d093f434e7c7e8bc",
+            "title": "'Fabrications aimed at making bad performance': NTA warns of criminal action on AI, fake OMRs",
+            "description": "India News: NEW DELHI: Acting swiftly on a wave of post-result complaints, National Testing Agency (NTA) has warned of strict action against fake claims after fin.",
+            "content": "‘Fabrications Aimed At Masking Bad Performance’\nNEW DELHI: Acting swiftly on a wave of post-result complaints, National Testing Agency (NTA) has warned of strict action against fake claims after finding that several optical mark recognition (OMR) she... [2416 chars]",
+            "url": "https://timesofindia.indiatimes.com/india/fabrications-aimed-at-making-bad-performance-nta-warns-of-criminal-action-on-ai-fake-omrs/articleshow/132503369.cms",
+            "image": "https://static.toiimg.com/thumb/msid-132503451,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-07-19T22:20:00Z",
             "lang": "en",
             "source": {
-                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-                "name": "Anchorage Daily News",
-                "url": "https://www.adn.com",
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "48ce5d7a85568e6d8eb4bd3ea0d83fb4",
+            "title": "South Korea's Kospi drops nearly 5% as some AI stocks swoon, while oil keeps climbing",
+            "description": "Asian shares are mostly higher but South Korea's Kospi has fallen nearly 5% as investors unload more stocks linked to artificial intelligence. HONG KONG",
+            "content": "Asian shares are mostly higher but South Korea’s Kospi has fallen nearly 5% as investors unload more stocks linked to artificial intelligence.\nHONG KONG (AP) — Asian shares were mostly higher on Monday but South Korea’s Kospi fell nearly 5% as invest... [3086 chars]",
+            "url": "https://www.breitbart.com/news/south-koreas-kospi-drops-nearly-5-as-some-ai-stocks-swoon-while-oil-keeps-climbing/",
+            "image": "https://media.breitbart.com/media/2026/07/wi/ap/south-korea-financial-markets-17441-south-korea-financial-markets-screen-korea-composite-stock-640x335.jpg",
+            "publishedAt": "2026-07-19T21:49:18Z",
+            "lang": "en",
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
                 "country": "us"
             }
         },
         {
-            "id": "bfeb76108f95b87b1f667c1f724da2c7",
-            "title": "New York Mets reject concerns over in-game AI use after Ottavino claims",
-            "description": "Mets interim manager Andy Green says the club remains fully compliant with MLB rules after former reliever Adam Ottavino alleged the team used AI for in-game strategy",
-            "content": "New York Mets interim manager Andy Green said the club is fully compliant with Major League Baseball when asked about a report that singled out his organization for using artificial intelligence for in-game strategy decisions.\n“Whatever the rules are... [1498 chars]",
-            "url": "https://www.theguardian.com/sport/2026/jul/18/mets-andy-green-ai-strategy-mlb-compliance-ottavino-report",
-            "image": "https://i.guim.co.uk/img/media/0367b0969dca4e8cee61f34a60839bcf76ba6964/107_0_2462_1970/master/2462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d7642e70477118dc9b125d0224e2159",
-            "publishedAt": "2026-07-18T20:33:01Z",
+            "id": "3f07abb7d740050b402b51cb6b6eef0f",
+            "title": "APS to vote on charter school blending STEM, AI and New Mexican and Middle Eastern history",
+            "description": "Albuquerque educators have applied to open Andalusia Natural Sciences Academy, a charter high school combining STEM, AI literacy and New Mexico's Spanish colonial and Al-Andalus history. The APS Board will vote on the application Aug. 19.",
+            "content": "A group of Albuquerque educators have filed an application to open a high school in the city to teach students about Spanish and Middle Eastern history, architecture and artificial intelligence.\nRadi Abouelhassan, a resource teacher at Albuquerque Pu... [3702 chars]",
+            "url": "https://www.abqjournal.com/news/aps-to-consider-application-from-charter-school-teaching-new-mexican-middle-eastern-history/3084951",
+            "image": "https://image.abqjournal.com/3085006.jpg?imageId=3085006&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-07-19T21:46:19Z",
             "lang": "en",
             "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "bbfaaaeb159d79cf4ce7283dbb8f4180",
-            "title": "Anti-AI data center protesters rally across the US",
-            "description": "Humans First, a conservative-led nonprofit, organized nationwide protests against AI data centers on Saturday.",
-            "content": "America's anti-data center movement went national on Saturday.\nProtesters across the US rallied against the hulking facilities as part of a nationwide demonstration organized by Humans First, a newly founded conservative nonprofit taking on what it c... [5884 chars]",
-            "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-            "image": "https://i.insider.com/6a5bce9354f9875261776ee1?width=1200&format=jpeg",
-            "publishedAt": "2026-07-18T20:31:37Z",
-            "lang": "en",
-            "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
+                "id": "e3cad7a35669a0f5933fa172f5aa2e41",
+                "name": "Albuquerque Journal",
+                "url": "https://www.abqjournal.com",
                 "country": "us"
             }
         },
         {
-            "id": "b078db9876356ca9874cdca1a0c88698",
-            "title": "US Air Force drone fires real missile for the first time as AI-powered fighter technology enters a new battlefield era",
-            "description": "AI combat drone reaches major milestone after launching AMRAAM missile",
-            "content": "US Air Force drone fires live missile during landmark autonomous aircraft test\nHuman pilots remain in control despite growing drone autonomy capabilities\nYFQ-44A advances America’s plans for future robotic fighter operations\nThe US Air Force has succ... [3176 chars]",
-            "url": "https://www.techradar.com/pro/usafs-autonomous-ai-fighter-drone-just-fired-a-real-amraam-air-to-air-missile-in-a-world-first",
-            "image": "https://cdn.mos.cms.futurecdn.net/iYQ9fHQkgKEtffDUfqfYXY-1920-80.png",
-            "publishedAt": "2026-07-18T20:05:00Z",
+            "id": "b5c642f9357195d0a9ad10aed058f609",
+            "title": "market to rise as US strikes and AI tech fears loom",
+            "description": "Shares are set to rise, but investors remain on edge after US soldiers were killed in Iranian strikes over the weekend and AI-exposed stocks sold off heavily last week. Follow live.",
+            "content": "Fletcher Building has secured up to $NZ60 million ($50.2 million) in government funding to keep New Zealand’s only cement manufacturing plant operating until at least 2040, averting a planned shift to imported cement from 2030.\nThe support comes afte... [470 chars]",
+            "url": "https://www.afr.com/markets/equity-markets/asx-on-edge-as-us-strikes-on-iran-and-tech-wobbles-roil-markets-20260719-p60go1",
+            "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/5c79b9132269374b0341740df62b5c023b64edef69398c1d8980244a04850808",
+            "publishedAt": "2026-07-19T21:32:59Z",
             "lang": "en",
             "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
                 "country": "au"
             }
         },
         {
-            "id": "1d94edcd61eaeb16d6ff4060c41ca979",
-            "title": "ANU accused of ‘hysterical’ response to students using AI to cheat as unis scramble to ‘secure’ assessments",
-            "description": "Australia risks ‘shipping’ intellectual capability overseas if educational rigour not restored, experts warn",
-            "content": "An academic at the Australian National University has accused it of a “hysterical” response to students using AI to cheat, as tertiary institutions rush to shore up the credibility of assessments.\nBut a colleague warned Australia is in danger of “shi... [5083 chars]",
-            "url": "https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments",
-            "image": "https://i.guim.co.uk/img/media/c017396124a3bfb3ea30c82d125ba81f61c43e6d/757_0_6181_4945/master/6181.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb41eb25c1b86bfaf705bfa173516225",
-            "publishedAt": "2026-07-18T20:00:09Z",
+            "id": "09bf9f315f3a7b16eadaa0bc361e7657",
+            "title": "Taylor Swift, Travis Kelce's Wedding Guests Defend Ceremony",
+            "description": "Simone Biles, Tavia Hunt and more stars push back against rumors, fake AI photos and criticism of Taylor Swift and Travis Kelce's MSG ceremony",
+            "content": "Taylor Swift and Travis Kelce‘s July 3, 2026, wedding at Madison Square Garden may have been phone-free, but that hasn’t stopped a flood of rumors, AI-generated images of the newlyweds and online criticism from swirling in the days since the couple’s... [4110 chars]",
+            "url": "https://www.usmagazine.com/celebrity-news/news/taylor-swift-travis-kelces-wedding-guests-defend-ceremony/",
+            "image": "https://www.usmagazine.com/wp-content/uploads/2026/07/taylor-Swift-and-Travis-Kelce-Wedding-Guests-Defend-Ceremony-GettyImages-1968530700.jpg?crop=0px%2C39px%2C2000px%2C1051px&resize=1200%2C630&quality=78&strip=all",
+            "publishedAt": "2026-07-19T21:23:38Z",
             "lang": "en",
             "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
+                "id": "979e74ee88ce49ccc427aa90ec068196",
+                "name": "Us Weekly",
+                "url": "https://www.usmagazine.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "3518c646fa775eb52678026bc44ac339",
+            "title": "AI Jobs Surged 8 Times Faster Than The Job Market. You Don’t Need To Code",
+            "description": "PwC found that AI jobs are growing eight times faster that the job market, carrying a 62% wage premium for AI skills. Explore high-paying AI jobs that require no coding.",
+            "content": "Where These No-Code, High-Paying AI Jobs Are Emerging\nLet’s start with healthcare.\n1. Healthcare\nHealthcare is an industry that, by nature, holds enormous volumes of clinical and patient data to run its operations effectively.\nFor this reason, health... [3864 chars]",
+            "url": "https://www.forbes.com/sites/rachelwells/2026/07/19/ai-jobs-surged-8x-faster-than-the-job-market-you-dont-need-to-code/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a5d35f8df9431e0619bb4ec/0x0.jpg?format=jpg&crop=2960,1663,x0,y0,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-07-19T21:17:51Z",
+            "lang": "en",
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "e7114bcf43805f83196aa7a5030f2010",
+            "title": "China's Xi calls for more global efforts to guide AI, chides US for its curbs on tech sharing",
+            "description": "SHANGHAI (AP) — Development and governance of artificial intelligence should be a global effort, Chinese President Xi Jinping said Friday, while reiterating",
+            "content": "SHANGHAI (AP) — Development and governance of artificial intelligence should be a global effort, Chinese President Xi Jinping said Friday, while reiterating China’s objections to what he called the “overstretching” of national security concerns.\nSpea... [4611 chars]",
+            "url": "https://www.europesays.com/3141379/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/07/China_AI_61653.jpg",
+            "publishedAt": "2026-07-19T20:55:29Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
             }
         }
     ]
