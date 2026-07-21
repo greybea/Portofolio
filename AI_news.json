@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 394669,
+    "totalArticles": 395550,
     "articles": [
         {
-            "id": "ad1a8a303e2c79df4f3ebaee3488c240",
-            "title": "Europe’s AI Fiscal Capacity Depends on More Than Adoption",
-            "description": "A fivefold increase in euro-area residents’ payments to U.S.-registered intellectual-property owners is not an AI number on its own. That is precisely why it",
-            "content": "Europe can benefit from foreign AI without capturing an equal share of its rents\nFiscal resilience requires compute, capital, ownership and local industrial capability\nThe viable strategy is high adoption with minimum technological sovereignty\nA five... [13688 chars]",
-            "url": "https://www.europesays.com/3141517/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/07/EuropeE28099s20AI20Fiscal20Capacity_20260715_ECON.jpg",
-            "publishedAt": "2026-07-19T22:36:24Z",
+            "id": "90e59cfdb045e2fc540b45f84bc8398d",
+            "title": "Ionic Digital Announces Effectiveness of Registration Statement and Expected Commencement of Trading on Nasdaq",
+            "description": "WASHINGTON, July 20, 2026 (GLOBE NEWSWIRE) -- Ionic Digital Inc. ('Ionic Digital” or the 'Company”), a digital infrastructure company supporting the expanding needs of AI and high-performance computing (HPC), today announced that its registration statement on Form S-1, as filed with the Securities and Exchange Commission (the 'SEC”), relating to a proposed public direct listing of its Class A common stock (the 'Common Stock”) was declared effective by the SEC today, July 20, 2026.",
+            "content": "WASHINGTON, July 20, 2026 (GLOBE NEWSWIRE) -- Ionic Digital Inc. (\"Ionic Digital” or the \"Company”), a digital infrastructure company supporting the expanding needs of AI and high-performance computing (HPC), today announced that its registration sta... [3409 chars]",
+            "url": "https://www.manilatimes.net/2026/07/21/tmt-newswire/globenewswire/ionic-digital-announces-effectiveness-of-registration-statement-and-expected-commencement-of-trading-on-nasdaq/2388014",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/21/1144235.png",
+            "publishedAt": "2026-07-20T22:01:37Z",
             "lang": "en",
             "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "7994866f309ee06190a46ed9ad4101e9",
+            "title": "37 Years Later, TNG's Best Episode Is Still Peak Star Trek",
+            "description": "In a groundbreaking episode, The Next Generation upended Star Trek tradition to grapple with the philosophical implications of AI and sentience.",
+            "content": "While it is almost impossible to choose the best episode of The Next Generation, the Star Trek series never outdid one surprisingly early, innovative outing that shone a spotlight on its breakout character. There are a few actors who appeared in both... [3402 chars]",
+            "url": "https://screenrant.com/tng-best-episode-star-trek-greatest/",
+            "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/the-cast-of-star-trek-the-next-generation.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-07-20T22:01:11Z",
+            "lang": "en",
+            "source": {
+                "id": "6b8b6fae575a37200ef9ef50109518f5",
+                "name": "Screen Rant",
+                "url": "https://screenrant.com",
                 "country": "us"
             }
         },
         {
-            "id": "32f729edd542a04087ac1151db6732ef",
-            "title": "AI Express seeks to be value carrier; providing OTP is just not enough: Chairman Nipun Aggarwal",
-            "description": "ABU DHABI, Jul 19: Air India Express is trying to position itself as a value carrier as more passengers want an experience and providing on time performance is just not enough, according to the airline's Chairman Nipun Aggarwal. Part of...",
-            "content": "ABU DHABI, Jul 19: Air India Express is trying to position itself as a value carrier as more passengers want an experience and providing on time performance is just not enough, according to the airline's Chairman Nipun Aggarwal.\nPart of the Tata Grou... [2134 chars]",
-            "url": "https://www.dailyexcelsior.com/ai-express-seeks-to-be-value-carrier-providing-otp-is-just-not-enough-chairman-nipun-aggarwal/",
-            "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTdkYjk3OTMwLTgzYzEtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-            "publishedAt": "2026-07-19T22:30:25Z",
+            "id": "b2e540ac47abb3a43ef1d63909343de9",
+            "title": "Beatbot AquaSense X review: The pool cleaner for those that want to be pampered",
+            "description": "Armed with a self-washing dock and AI navigation, the Beatbot AquaSense X is the ultimate luxury pool cleaner, if you don't have any qualms dropping top dollars for the convenience.",
+            "content": "Quick take:\nFor some people, robot pool cleaners solved the worst work of pool ownership years ago, but then added a new one: hauling a dripping machine to the charging station, and cleaning out the debris basket after each run. The Beatbot AquaSense... [18672 chars]",
+            "url": "https://www.digitaltrends.com/home/beatbot-aquasense-x-review-the-pool-cleaner-for-those-that-want-to-be-pampered/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/07/aquasense-x-iskim-1-scaled.jpeg?resize=1200%2C630",
+            "publishedAt": "2026-07-20T22:00:47Z",
             "lang": "en",
             "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "adb7d7cedbf35dd11c20c4a084dc8bd0",
-            "title": "How is the Digital Markets Act supporting AI innovation in Europe?",
-            "description": "Artificial intelligence is becoming increasingly embedded in how people use their phones – users can summon an AI assistant to draft a message, plan a trip,",
-            "content": "Artificial intelligence is becoming increasingly embedded in how people use their phones – users can summon an AI assistant to draft a message, plan a trip, shop and more. But every assistant must reach the user through a mobile operating system, two... [1132 chars]",
-            "url": "https://www.europesays.com/3141516/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/01/Newsletter20image-768x432.jpg",
-            "publishedAt": "2026-07-19T22:28:05Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
                 "country": "us"
             }
         },
         {
-            "id": "1b1997d5fa05e033d093f434e7c7e8bc",
-            "title": "'Fabrications aimed at making bad performance': NTA warns of criminal action on AI, fake OMRs",
-            "description": "India News: NEW DELHI: Acting swiftly on a wave of post-result complaints, National Testing Agency (NTA) has warned of strict action against fake claims after fin.",
-            "content": "‘Fabrications Aimed At Masking Bad Performance’\nNEW DELHI: Acting swiftly on a wave of post-result complaints, National Testing Agency (NTA) has warned of strict action against fake claims after finding that several optical mark recognition (OMR) she... [2416 chars]",
-            "url": "https://timesofindia.indiatimes.com/india/fabrications-aimed-at-making-bad-performance-nta-warns-of-criminal-action-on-ai-fake-omrs/articleshow/132503369.cms",
-            "image": "https://static.toiimg.com/thumb/msid-132503451,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-07-19T22:20:00Z",
+            "id": "c2b8d3b684a52d3042f1b3e813478d9e",
+            "title": "Quote of the day by Alan Turing: 'We can only see a short distance ahead, but we can see plenty there that needs to be done' — key guidance on the road to building AI",
+            "description": "The legendary computer scientist outlined the foundations for many of the technologies we use today",
+            "content": "Alan Turing is widely revered as one of the most important scientific and technological figures in modern history. Following his work on cracking the Enigma Machine during the Second World War, Turing published his thoughts on the future of machine i... [2427 chars]",
+            "url": "https://www.techradar.com/pro/quote-of-the-day-by-alan-turing-we-can-only-see-a-short-distance-ahead-but-we-can-see-plenty-there-that-needs-to-be-done-key-guidance-on-the-road-to-building-ai",
+            "image": "https://cdn.mos.cms.futurecdn.net/daca50fd1567c1e9f28bb4e32cb6170d-640-80.jpg",
+            "publishedAt": "2026-07-20T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "48ce5d7a85568e6d8eb4bd3ea0d83fb4",
-            "title": "South Korea's Kospi drops nearly 5% as some AI stocks swoon, while oil keeps climbing",
-            "description": "Asian shares are mostly higher but South Korea's Kospi has fallen nearly 5% as investors unload more stocks linked to artificial intelligence. HONG KONG",
-            "content": "Asian shares are mostly higher but South Korea’s Kospi has fallen nearly 5% as investors unload more stocks linked to artificial intelligence.\nHONG KONG (AP) — Asian shares were mostly higher on Monday but South Korea’s Kospi fell nearly 5% as invest... [3086 chars]",
-            "url": "https://www.breitbart.com/news/south-koreas-kospi-drops-nearly-5-as-some-ai-stocks-swoon-while-oil-keeps-climbing/",
-            "image": "https://media.breitbart.com/media/2026/07/wi/ap/south-korea-financial-markets-17441-south-korea-financial-markets-screen-korea-composite-stock-640x335.jpg",
-            "publishedAt": "2026-07-19T21:49:18Z",
-            "lang": "en",
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "3f07abb7d740050b402b51cb6b6eef0f",
-            "title": "APS to vote on charter school blending STEM, AI and New Mexican and Middle Eastern history",
-            "description": "Albuquerque educators have applied to open Andalusia Natural Sciences Academy, a charter high school combining STEM, AI literacy and New Mexico's Spanish colonial and Al-Andalus history. The APS Board will vote on the application Aug. 19.",
-            "content": "A group of Albuquerque educators have filed an application to open a high school in the city to teach students about Spanish and Middle Eastern history, architecture and artificial intelligence.\nRadi Abouelhassan, a resource teacher at Albuquerque Pu... [3702 chars]",
-            "url": "https://www.abqjournal.com/news/aps-to-consider-application-from-charter-school-teaching-new-mexican-middle-eastern-history/3084951",
-            "image": "https://image.abqjournal.com/3085006.jpg?imageId=3085006&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-            "publishedAt": "2026-07-19T21:46:19Z",
-            "lang": "en",
-            "source": {
-                "id": "e3cad7a35669a0f5933fa172f5aa2e41",
-                "name": "Albuquerque Journal",
-                "url": "https://www.abqjournal.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b5c642f9357195d0a9ad10aed058f609",
-            "title": "market to rise as US strikes and AI tech fears loom",
-            "description": "Shares are set to rise, but investors remain on edge after US soldiers were killed in Iranian strikes over the weekend and AI-exposed stocks sold off heavily last week. Follow live.",
-            "content": "Fletcher Building has secured up to $NZ60 million ($50.2 million) in government funding to keep New Zealand’s only cement manufacturing plant operating until at least 2040, averting a planned shift to imported cement from 2030.\nThe support comes afte... [470 chars]",
-            "url": "https://www.afr.com/markets/equity-markets/asx-on-edge-as-us-strikes-on-iran-and-tech-wobbles-roil-markets-20260719-p60go1",
-            "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/5c79b9132269374b0341740df62b5c023b64edef69398c1d8980244a04850808",
-            "publishedAt": "2026-07-19T21:32:59Z",
-            "lang": "en",
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
                 "country": "au"
             }
         },
         {
-            "id": "09bf9f315f3a7b16eadaa0bc361e7657",
-            "title": "Taylor Swift, Travis Kelce's Wedding Guests Defend Ceremony",
-            "description": "Simone Biles, Tavia Hunt and more stars push back against rumors, fake AI photos and criticism of Taylor Swift and Travis Kelce's MSG ceremony",
-            "content": "Taylor Swift and Travis Kelce‘s July 3, 2026, wedding at Madison Square Garden may have been phone-free, but that hasn’t stopped a flood of rumors, AI-generated images of the newlyweds and online criticism from swirling in the days since the couple’s... [4110 chars]",
-            "url": "https://www.usmagazine.com/celebrity-news/news/taylor-swift-travis-kelces-wedding-guests-defend-ceremony/",
-            "image": "https://www.usmagazine.com/wp-content/uploads/2026/07/taylor-Swift-and-Travis-Kelce-Wedding-Guests-Defend-Ceremony-GettyImages-1968530700.jpg?crop=0px%2C39px%2C2000px%2C1051px&resize=1200%2C630&quality=78&strip=all",
-            "publishedAt": "2026-07-19T21:23:38Z",
+            "id": "cc705f83bd3cd52991e898187186912d",
+            "title": "roborock launches premium AI-supported RockMow X120H LiDAR AWD robot mower with $699 savings to $2,500",
+            "description": "Roborock has officially launched its RockMow X120H LiDAR AWD Robot Lawn Mower with a deal to score it for $2,499.99...",
+            "content": "Roborock has officially launched its RockMow X120H LiDAR AWD Robot Lawn Mower with a deal to score it for $2,499.99 shipped exclusively on Amazon. This new autonomous mowing solution will go for $3,199 after this initial deal fades. The deal here is ... [2453 chars]",
+            "url": "https://9to5toys.com/2026/07/20/roborock-launches-rockmow-x120h-lidar-awd-robot-mower-2500/",
+            "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/07/Roborock-RockMow-X120H-LiDAR-AWD-Robot-Lawn-Mower.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-07-20T21:53:27Z",
             "lang": "en",
             "source": {
-                "id": "979e74ee88ce49ccc427aa90ec068196",
-                "name": "Us Weekly",
-                "url": "https://www.usmagazine.com",
+                "id": "2c66ef23cd21309998bc5edbc0f0db53",
+                "name": "9to5Toys",
+                "url": "https://9to5toys.com",
                 "country": "us"
             }
         },
         {
-            "id": "3518c646fa775eb52678026bc44ac339",
-            "title": "AI Jobs Surged 8 Times Faster Than The Job Market. You Don’t Need To Code",
-            "description": "PwC found that AI jobs are growing eight times faster that the job market, carrying a 62% wage premium for AI skills. Explore high-paying AI jobs that require no coding.",
-            "content": "Where These No-Code, High-Paying AI Jobs Are Emerging\nLet’s start with healthcare.\n1. Healthcare\nHealthcare is an industry that, by nature, holds enormous volumes of clinical and patient data to run its operations effectively.\nFor this reason, health... [3864 chars]",
-            "url": "https://www.forbes.com/sites/rachelwells/2026/07/19/ai-jobs-surged-8x-faster-than-the-job-market-you-dont-need-to-code/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a5d35f8df9431e0619bb4ec/0x0.jpg?format=jpg&crop=2960,1663,x0,y0,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-07-19T21:17:51Z",
+            "id": "7616b723d4f155fc81bd20faa1cacfee",
+            "title": "SC $80M investment in data centers draw scrutiny over power, jobs",
+            "description": "South Carolina has poured $80 million into attracting and supporting data centers, a 250% funding increase, as the state positions itself as a top destination for artificial intelligence infrastructure.",
+            "content": "CHARLESTON, S.C. (WCSC) — South Carolina has poured $80 million into attracting and supporting data centers, a 250% funding increase, as the state positions itself as a top destination for artificial intelligence infrastructure.\nBut industry leaders ... [3527 chars]",
+            "url": "https://www.live5news.com/2026/07/20/sc-80m-investment-in-data-centers-draw-scrutiny-over-power-jobs/",
+            "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/RPFXQLEHZFGKFD2J6QMTXVT6LQ.png?auth=b84823147fea9a8b6fc8d082a46f2d330d5a2ebba36535ef8289c72305d8c6bb&width=1200&height=600&smart=true",
+            "publishedAt": "2026-07-20T21:50:00Z",
             "lang": "en",
             "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
+                "id": "e7b4d14003cc89c64a689f1c38723ef5",
+                "name": "Live 5 News WCSC",
+                "url": "https://www.live5news.com",
                 "country": "us"
             }
         },
         {
-            "id": "e7114bcf43805f83196aa7a5030f2010",
-            "title": "China's Xi calls for more global efforts to guide AI, chides US for its curbs on tech sharing",
-            "description": "SHANGHAI (AP) — Development and governance of artificial intelligence should be a global effort, Chinese President Xi Jinping said Friday, while reiterating",
-            "content": "SHANGHAI (AP) — Development and governance of artificial intelligence should be a global effort, Chinese President Xi Jinping said Friday, while reiterating China’s objections to what he called the “overstretching” of national security concerns.\nSpea... [4611 chars]",
-            "url": "https://www.europesays.com/3141379/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/07/China_AI_61653.jpg",
-            "publishedAt": "2026-07-19T20:55:29Z",
+            "id": "60146fcb893eb7e551e0cf0e00960d13",
+            "title": "YouTube Cracks Down on 'Off-Putting Content' and AI Slop",
+            "description": "Do AI thumbnails next, please.",
+            "content": "Future YouTubers, heed this warning: Don’t freak people out with your slop. YouTube recently clarified its policies on what it considers to be “inauthentic content,” effectively cracking down on the low-effort, highly upsetting kinds of AI slop that ... [2313 chars]",
+            "url": "https://gizmodo.com/youtube-cracks-down-on-off-putting-content-and-ai-slop-2000787956",
+            "image": "https://gizmodo.com/app/uploads/2024/10/youtube-on-a-phone-e1740147209205.jpg",
+            "publishedAt": "2026-07-20T21:48:42Z",
             "lang": "en",
             "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "79d3288acf9bbdaa09c590e2b1b4b06a",
+            "title": "Record AI Copyright Suit Climaxes in $1.5 Billion Settlement",
+            "description": "A significant $1.5 billion settlement was approved by a federal judge in San Francisco concerning Anthropic's use of pirated books in its AI model Claude. Authors accused Anthropic of copyright infringement while training the AI. The case marks a landmark U.S. copyright settlement despite objections over its scope.",
+            "content": "In a groundbreaking decision, a federal judge in San Francisco has sanctioned a $1.5 billion settlement in a copyright infringement case involving AI company Anthropic. The lawsuit was initiated by authors claiming Anthropic misused pirated books wit... [611 chars]",
+            "url": "https://www.devdiscourse.com/article/law-order/3953156-record-ai-copyright-suit-climaxes-in-15-billion-settlement",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/30_07_2025_09_35_52_1491997.png&width=920&format=jpeg",
+            "publishedAt": "2026-07-20T21:47:13Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "06b1fedbcf5c11e1e0ad203a9f233281",
+            "title": "AI in Marketing Attribution: Success Stories and Key Lessons",
+            "description": "Readers will discover proven strategies from unifying data sources to building attribution models that drive measurable revenue growth.",
+            "content": "At OneMetrik, we operate as an AI-powered performance marketing agency exclusively for B2B SaaS companies. Early on, we recognized a massive flaw in traditional B2B marketing: agencies optimize for platform vanity metrics (clicks, impressions, and MQ... [26475 chars]",
+            "url": "https://techbullion.com/ai-in-marketing-attribution-success-stories-and-key-lessons/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/07/featured-image-AI-in-Marketing-Attribution-Success-Stories-and-Key-Lessons-1000x600.webp",
+            "publishedAt": "2026-07-20T21:44:25Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "1255de767d71ef48eeff61529c6e39fc",
+            "title": "Jeff Bezos Backs UK startup Racing To Fix Chip Materials",
+            "description": "The chip industry has a materials problem. Building faster, denser semiconductors takes rare minerals and enormous amounts of energy, and supply has not kept pace with AI driven demand. That gap has become one of the",
+            "content": "The chip industry has a materials problem. Building faster, denser semiconductors takes rare minerals and enormous amounts of energy, and supply has not kept pace with AI driven demand. That gap has become one of the defining stories of the AI boom t... [3619 chars]",
+            "url": "https://www.benzinga.com/Opinion/26/07/60567511/jeff-bezos-backs-uk-startup-racing-to-fix-chip-materials",
+            "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/20/Chip.png",
+            "publishedAt": "2026-07-20T21:33:43Z",
+            "lang": "en",
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
                 "country": "us"
             }
         }
