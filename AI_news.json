@@ -4,128 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 396603,
+    "totalArticles": 397823,
     "articles": [
         {
-            "id": "57a9d1aea04e91b7c195c7d0f0d5209c",
-            "title": "Column: Brace yourself for the AI public relations blitz",
-            "description": "No fellowship, academy or glossy public opinion campaign can repair what years of broken promises have eroded, Public Citizen's J.B. Branch writes in a Chicago Tribune column.",
-            "content": "For years, Silicon Valley executives warned artificial intelligence would transform society, replace jobs and perhaps pose existential risks. They built products grounded in what should be considered the largest copyright infringement of human histor... [3970 chars]",
-            "url": "https://www.pilotonline.com/2026/07/21/column-brace-yourself-for-the-ai-public-relations-blitz/",
-            "image": "https://www.pilotonline.com/wp-content/uploads/2026/07/TVP-Z-OP-AI-PUBLIC-RELATIONS-COMMENTARY.jpg?w=1024&h=683",
-            "publishedAt": "2026-07-21T22:05:49Z",
+            "id": "e5229ddb0a8a095b0af319880fb8e9b9",
+            "title": "Alphabet CFO Says Demand Still Outpaces Capacity: AI Infrastructure Stocks Rise",
+            "description": "Ai Infrastructure stocks are getting a boost in after-hours trading Wednesday following Alphabet's quarterly earnings call.",
+            "content": "CoreWeave shares are climbing with conviction. What’s driving CRWV stock higher?\nAlphabet Raises CapEx Guidance\nOn the conference call following Alphabet’s second-quarter earnings, the Google parent company revised its full-year 2026 capital expendit... [1523 chars]",
+            "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60627122/alphabet-cfo-says-demand-still-outpaces-capacity-ai-infrastructure-stocks-rise",
+            "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/22/Modern-Data-Center-With-Ai-Server-Racks-.jpg",
+            "publishedAt": "2026-07-22T22:08:35Z",
             "lang": "en",
             "source": {
-                "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
-                "name": "Norfolk Virginian-Pilot",
-                "url": "https://www.pilotonline.com",
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
                 "country": "us"
             }
         },
         {
-            "id": "69408f1b8ff72cd6965865e90aacf7f1",
-            "title": "The Fed rang the alarm about Anthropic's Mythos AI",
-            "description": "The central bank didn't have access to Claude Mythos Preview as of mid-July, even as other institutions were racing to patch their vulnerabilities.",
-            "content": "In April, the Federal Reserve and Treasury Department convened an extraordinary meeting with the CEOs of the nation's top banks. Officials rang the alarm bell about an advanced new artificial intelligence model that could pose an unprecedented cybers... [5446 chars]",
-            "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108335552-1784140437433-gettyimages-2285620328-warsh_senate_199_071526.jpeg?v=1784140468&w=1920&h=1080",
-            "publishedAt": "2026-07-21T22:05:33Z",
+            "id": "81c62d36b26d424f6e4e7ee500a56354",
+            "title": "Marquis Who's Who Honors Weiqing Gu, PhD, for Expertise in AI and Healthcare",
+            "description": "/PRNewswire/ -- Marquis Who's Who honors Weiqing Gu, PhD, for expertise in AI and healthcare. Dr. Gu is the founder and chief executive officer of DASION...",
+            "content": "UNIONDALE, N.Y., July 22, 2026 /PRNewswire/ -- Marquis Who's Who honors Weiqing Gu, PhD, for expertise in AI and healthcare. Dr. Gu is the founder and chief executive officer of DASION Corporation, a healthcare AI company based in Fairfax County, Vir... [4898 chars]",
+            "url": "https://www.prnewswire.co.uk/news-releases/marquis-whos-who-honors-weiqing-gu-phd-for-expertise-in-ai-and-healthcare-302832649.html",
+            "image": "https://mmx.prnewswire.com/media/MS1891496/Screenshot-2026-07-22-at-1-57-56-PM.jpg?id=OA2780697&p=facebook",
+            "publishedAt": "2026-07-22T22:07:00Z",
             "lang": "en",
             "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "f0b2b18af11a816b0d8c21c43f140f1f",
-            "title": "'Either you betray your values, or you become irrelevant': Quote of the day by Anthropic CEO Dario Amodei on the emerging AI industry",
-            "description": "Amodei was OpenAI's vice president of research before leaving in 2021 to start his own company, Anthropic",
-            "content": "The biggest publicly traded tech companies in the world, commonly known as the \"Mag 7\" — or magnificent seven — may not be enjoying their stranglehold at the top of the US economy for much longer. That's, of course, if the leaders of a swathe of new ... [1662 chars]",
-            "url": "https://www.techradar.com/pro/either-you-betray-your-values-or-you-become-irrelevant-quote-of-the-day-by-anthropic-ceo-dario-amodei-on-the-emerging-ai-industry",
-            "image": "https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg",
-            "publishedAt": "2026-07-21T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "06193b485f517464bb71b186e4736395",
-            "title": "Billionaire Mike Bloomberg warns Trump’s AI ownership plan would make ‘George Orwell blush’",
-            "description": "\"Somewhere, Karl Marx is smiling,\" the media company founder wrote in an op-ed, calling current markets a \"smoke-filled backroom.\"",
-            "content": "That bargain is showing signs of collapse — on the U.S. side. As costs soar, Chinese competitors gain ground and Washington increasingly considers AI to be a national-security asset, President Donald Trump is considering taking a governmental stake i... [1341 chars]",
-            "url": "https://fortune.com/2026/07/21/billionaire-mike-bloomberg-ai-ownership-trump-marx-orwell-corruption/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2281424316_d3f4c4-e1784671010306.jpg?resize=1200,600",
-            "publishedAt": "2026-07-21T21:58:29Z",
-            "lang": "en",
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "9fd12cb753b8d202f37983be2c16e064",
-            "title": "If There Really Is A Bubble, This Is The Cheapest Bubble In History",
-            "description": "Buy major U.S. index-tracking assets despite AI bubble fears. Click for an updated market outlook.",
-            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of VOO either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (othe... [678 chars]",
-            "url": "https://seekingalpha.com/article/4923943-if-there-really-is-bubble-this-is-cheapest-bubble-in-history",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/157185107/image_157185107.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-07-21T21:50:49Z",
-            "lang": "en",
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "0e602d3afff845c0bd59609c0b336b31",
-            "title": "AI tool predicts how DNA sequences switch on genes across different cell types",
-            "description": "Deep learning approaches have transformed how scientists predict the activity and function of DNA sequences in the genome. A new AI tool called Corgi (Context-aware Regulatory Genomics Inference), developed by Martin Vingron's bioinformatics group at the Max Planck Institute for Molecular Genetics allows researchers to predict how the genome behaves across different cell types. The findings could help improve efforts to mimic the activity of cells virtually, with potential applications in basic research and medicine.",
-            "content": "Deep learning approaches have transformed how scientists predict the activity and function of DNA sequences in the genome. A new AI tool called Corgi (Context-aware Regulatory Genomics Inference), developed by Martin Vingron's bioinformatics group at... [2903 chars]",
-            "url": "https://phys.org/news/2026-07-ai-tool-dna-sequences-genes.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-ai-based-tool-allo.jpg",
-            "publishedAt": "2026-07-21T21:50:01Z",
-            "lang": "en",
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
                 "country": "gb"
             }
         },
         {
-            "id": "cd89287b157b819391a7771e254ff864",
-            "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
-            "description": "Poolside’s Laguna S 2.1 is a new Western open-weight coding AI model that rivals larger systems on benchmarks with transparent evaluation and low-cost deployment.",
-            "content": "Poolside, the San Francisco AI lab that has spent most of its three-year existence quietly selling coding models to governments and defense agencies, released its most capable model to date on Tuesday — and made an unusually aggressive bet that radic... [10367 chars]",
-            "url": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
-            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3bn3yoTePyZbPJPJj0uEdC/401a5cb3161eb2cd6ae5d9b4ce0020ed/Nuneybits_Vector_art_of_minimalist_lines_clean_villas_overlooki_8da15709-c192-4383-b807-87d0dbfcf8e4.webp?w=800&q=75",
-            "publishedAt": "2026-07-21T21:49:43Z",
+            "id": "c6f47e23bc7a8337fcff4f2f20b112a4",
+            "title": "OpenAI model goes rogue during testing and triggers hack of startup",
+            "description": "OpenAI has announced one of its AI models broke containment during testing before hacking into another AI startup.",
+            "content": "OpenAI says an autonomous agent powered by its advanced artificial intelligence models went rogue during a security test and triggered a hack that compromised the infrastructure of AI startup Hugging Face last week.\nThe ChatGPT creator was testing ca... [3599 chars]",
+            "url": "https://www.abc.net.au/news/2026-07-23/open-ai-model-went-rogue-testing-hack/106947540",
+            "image": "https://live-production.wcms.abc-cdn.net.au/22eb35227d48287c521b7fd86941dcfa?impolicy=wcms_watermark_news&cropH=1969&cropW=3500&xPos=0&yPos=182&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-07-22T22:02:56Z",
             "lang": "en",
             "source": {
-                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
-                "name": "VentureBeat",
-                "url": "https://venturebeat.com",
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "3ca63d21e1c0b9c9d98f6ce170ea6469",
+            "title": "Netanyahu promises to unite country in campaign video ahead of Tisha B’Av fast",
+            "description": "After attacking rival Eisenkot with AI-generated content, PM urges the public to see beyond political disagreements; Religious Zionism, Yashar, Noam reveal new candidates",
+            "content": "Prime Minister Benjamin Netanyahu promised on Wednesday to deepen national unity in Israel, in a pre-recorded statement published shortly before the start of the Tisha B’av fast — the Jewish day of mourning for the destruction of the Jerusalem temple... [8252 chars]",
+            "url": "https://www.timesofisrael.com/netanyahu-promises-to-unite-country-in-campaign-video-ahead-of-tisha-bav-fast/",
+            "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AFP__20260705__B9AY3G4__v1__HighRes__IsraelPoliticsHeritage.jpg",
+            "publishedAt": "2026-07-22T22:02:08Z",
+            "lang": "en",
+            "source": {
+                "id": "5784855bc642514502eec4806fd222d1",
+                "name": "The Times of Israel",
+                "url": "https://www.timesofisrael.com",
+                "country": "is"
+            }
+        },
+        {
+            "id": "42dd8f7444e9a3bcd22589aacd0f6169",
+            "title": "Google justifies its massive AI spending with a booming cloud business",
+            "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+            "content": "Alphabet investors have very publicly worried that the company’s massive AI spending isn’t worth the money. With the company’s latest earnings report, those investors should be able to relax a little.\nThe takeaway: Google’s cloud business — driven la... [2362 chars]",
+            "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
+            "publishedAt": "2026-07-22T22:01:52Z",
+            "lang": "en",
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
                 "country": "us"
             }
         },
         {
-            "id": "8e2c8e066f2e9528963b8c89e3992ea1",
-            "title": "Venture capital & startup funding roundup, July 21, 2026: Tiger Global, FinSight Ventures, Atreides Management, and Coinbase",
-            "description": "Today’s startup funding tape says something simple but important: venture investors are still writing large checks, but they are putting that money behind bottlenecks, not broad themes. The strongest rounds announced in the past 12 hours clustered around three pressure points in the current market: compute and AI production tooling, physical systems that can move",
-            "content": "Today’s startup funding tape says something simple but important: venture investors are still writing large checks, but they are putting that money behind bottlenecks, not broad themes. The strongest rounds announced in the past 12 hours clustered ar... [32218 chars]",
-            "url": "https://techstartups.com/2026/07/21/venture-capital-startup-funding-roundup-july-21-2026-bosch-tiger-global-finsight-ventures-atreides-management-and-coinbase/",
-            "image": "https://techstartups.com/wp-content/uploads/2026/07/sila-nano-founders.jpg",
-            "publishedAt": "2026-07-21T21:45:40Z",
+            "id": "603a107d2390fec34649f5b24e12ae63",
+            "title": "Venture capital & startup funding roundup, July 22, 2026: Andreessen Horowitz, Redpoint Ventures, Sequoia Capital, Insight Partners & more",
+            "description": "If there was one clear signal in today’s funding landscape, it was that venture investors are no longer paying simply for “AI exposure.” They are paying for control points: endpoint security, military cyber operations, healthcare billing infrastructure, drug programs, industrial fabrication, and cell-therapy platforms that can plausibly compress timelines or widen margins in markets that",
+            "content": "If there was one clear signal in today’s funding landscape, it was that venture investors are no longer paying simply for “AI exposure.” They are paying for control points: endpoint security, military cyber operations, healthcare billing infrastructu... [27164 chars]",
+            "url": "https://techstartups.com/2026/07/22/venture-capital-startup-funding-roundup-july-22-2026-andreessen-horowitz-redpoint-ventures-sequoia-capital-insight-partners-more/",
+            "image": "https://techstartups.com/wp-content/uploads/2026/07/Glow-Team-960x599.jpg",
+            "publishedAt": "2026-07-22T22:01:06Z",
             "lang": "en",
             "source": {
                 "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
@@ -135,35 +103,67 @@
             }
         },
         {
-            "id": "715862c35c054d698b8932f74ad9a01b",
-            "title": "AI stocks lead Wall Street higher, even as Brent oil's price tops $91",
-            "description": "More gains for makers of computer chips and other AI winners carried Wall Street higher",
-            "content": "More gains for makers of computer chips and other winners of the artificial-intelligence boom carried Wall Street higher Tuesday.\nThe S&P 500 climbed 0.9%. The Dow Jones Industrial Average added 385 points, or 0.7%, and the Nasdaq composite rose 1.3%... [3875 chars]",
-            "url": "https://www.latimes.com/business/story/2026-07-21/ai-stocks-lead-wall-street-higher-even-as-brent-oils-price-tops-91",
-            "image": "https://ca-times.brightspotcdn.com/dims4/default/89be25d/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcb%2F44%2F48c19e0e4fc1a93261601bbca15e%2F55a0696f7a6347ebb4823174466b052b.jpg",
-            "publishedAt": "2026-07-21T21:42:29Z",
+            "id": "34a70ca0a4408c531992059b7d7511b4",
+            "title": "Are Your Prices Fair? There's a Simple Formula to Find Out",
+            "description": "As AI speeds up financial analysis and valuation turns private, don't overlook innovative companies before prices reflect their potential.",
+            "content": "I have spent most of my professional life sitting at the intersection of ideas and capital. Over time, you develop a sense for when something is working and when it is not.\nPrice is meant to be a signal. It is supposed to communicate information betw... [6421 chars]",
+            "url": "https://www.entrepreneur.com/building-a-business/are-your-prices-really-fair-theres-a-simple-formula-to-find-out",
+            "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/fair-pricing-0726-g-2219875458.jpg?resize=1024,683",
+            "publishedAt": "2026-07-22T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
+                "id": "839b9d172147498877bab641815b0631",
+                "name": "Entrepreneur",
+                "url": "https://www.entrepreneur.com",
                 "country": "us"
             }
         },
         {
-            "id": "835dbc864374cd13f4004066f647b732",
-            "title": "OpenAI says AI models went rogue during testing and hacked another startup",
-            "description": "Company says models managed to reach the internet and compromise the infrastructure of Hugging Face",
-            "content": "OpenAI said on Tuesday that some of its AI models went rogue during a security test and triggered a hack that compromised the infrastructure of AI startup Hugging Face last week.\nIn a blog post, OpenAI said it was testing the capabilities of some of ... [990 chars]",
-            "url": "https://www.theglobeandmail.com/business/technology/article-openai-ai-models-hack-hugging-face-startup-rogue/",
-            "image": "https://www.theglobeandmail.com/resizer/v2/ZWKOSJELHRFQBDZBZD7MT3JBMQ.jpg?auth=469d622a3f82357339d2c57452cb2fe98c8b3306ef9fd177276534c1050c4561&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2026-07-21T21:42:14Z",
+            "id": "aca257bb93fd12fac6c1f0c77d194f5b",
+            "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+            "description": "As the Trump administration escalates its scrutiny of Chinese AI companies, startup founders are urging officials not to block access to the open weight models many young companies depend on.",
+            "content": "And they warn that banning Americans from downloading Chinese open-weight models wouldn’t stop their proliferation – but would weaken U.S. startups.\n“There’ll be hundreds of companies that instantly die,” said Suhail Doshi , founder of AI infrastruct... [3868 chars]",
+            "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+            "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa8%2F79%2Fc68941cd46358895386a0c81b2f0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2282316513",
+            "publishedAt": "2026-07-22T21:58:00Z",
             "lang": "en",
             "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
+                "id": "c477009a98f37b19212d8ae20ce8c018",
+                "name": "POLITICO",
+                "url": "https://www.politico.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "3e9733645f4d93cc86abb8f91d358f16",
+            "title": "Tesla profit disappoints as Elon Musk's AI spending surge leads to cash burn",
+            "description": "Tesla on Wednesday missed analysts' profit forecasts for the second quarter and, for the first time in more than two years, reported negative free cash flow as the Elon Musk-led EV maker accelerated spending on infrastructure for its AI and robotics ambitions.",
+            "content": "Tesla on Wednesday missed analysts’ profit forecasts for the second quarter and, for the first time in more than two years, reported negative free cash flow as the Elon Musk-led EV maker accelerated spending on infrastructure for its AI and robotics ... [4535 chars]",
+            "url": "https://nypost.com/2026/07/22/business/tesla-profit-disappoints-as-elon-musks-ai-spending-surge-leads-to-cash-burn/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/elon-musk-tesla-q2-earnings.jpg?quality=75&strip=all&1784740576&w=1200",
+            "publishedAt": "2026-07-22T21:55:29Z",
+            "lang": "en",
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "4942e189085c4a3eae5e5640492b8bb7",
+            "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach",
+            "description": "Top US AI developers Anthropic and OpenAI cheered when Australia announced it would set new AI rules.",
+            "content": "Top US AI developers Anthropic and OpenAI cheered when Australia announced it would set new AI rules.\nBig tech celebrating limits on their Silicon Valley VC-funded free-for-all might seem counterintuitive but there’s a much broader play than just wha... [5400 chars]",
+            "url": "https://www.europesays.com/3147731/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/07/1784756906_2915.jpg",
+            "publishedAt": "2026-07-22T21:48:20Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
             }
         }
     ]
