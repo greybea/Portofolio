@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 399122,
+    "totalArticles": 400041,
     "articles": [
         {
-            "id": "3aceb05a41698f1380b90b7d151ec2bc",
-            "title": "Black Forest Labs Unveils FLUX 3 AI: Ditches Stills for Video-And Robot Hands",
-            "description": "FLUX 3 is the German AI lab’s first video model, and the same system is already teaching robots to work an Audi assembly line.",
-            "content": "Black Forest Labs released FLUX 3 on Thursday, and for the first time, the company’s flagship model generates video instead of just still images. The German AI lab, known for the FLUX line of image generators, trained the new system on images, video,... [3422 chars]",
-            "url": "https://decrypt.co/374189/black-forest-labs-flux-3-image-video-robot-hands",
-            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-23-a-las-18.35.15-gID_7.png",
-            "publishedAt": "2026-07-23T22:02:41Z",
+            "id": "810f31e6a62d5d424d5ec370efab70cc",
+            "title": "Hitachi launches Agentic AI platform after 200",
+            "description": "Hitachi Ltd. has developed an AI-driven platform for enterprise system integration and plans to apply it across growing modernization demand, targeting a 30%",
+            "content": "KEY POINTSHitachi launches Agentic AI Integration Platform for enterprise system integration from planning and requirements to testing and operationsInternal results show about 200-fold productivity gains in design-to-test work, with a 30% companywid... [4118 chars]",
+            "url": "https://www.europesays.com/3151804/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/07/1784928151_hitachi-launches-agentic-ai-platform-after-200-fold-productivity-gain.jpg",
+            "publishedAt": "2026-07-24T21:22:25Z",
             "lang": "en",
             "source": {
-                "id": "6956007add5fc13a6721202ec906b1c4",
-                "name": "Decrypt",
-                "url": "https://decrypt.co",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "80b06525c23250d2cb1662c26c5e792c",
-            "title": "Six IPOs this year, most trading below issue price: What this means for Singapore's market reforms",
-            "description": "Analysts say the underwhelming showing reflects thin liquidity and a global tilt towards AI stocks more than a failure of Singapore's push to revive its equity market.",
-            "content": "SINGAPORE: Despite early hype over initial public offerings (IPOs) on the Singapore Exchange this year, only six companies have listed and five were below their IPO prices as of the market's close on Thursday (Jul 23).\nThe lacklustre performance may ... [5679 chars]",
-            "url": "https://www.channelnewsasia.com/singapore/sgx-ipo-price-stocks-justco-foundation-healthcare-6270171",
-            "image": "https://dam.mediacorp.sg/image/upload/s--FuYD-q-2--/c_crop,h_1123,w_1997,x_3,y_51/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/sgx-07---file-photo-data.jpg?itok=xg614R47",
-            "publishedAt": "2026-07-23T22:00:00Z",
+            "id": "2b607783e8cf829bb75cc8eed6a21506",
+            "title": "SAP cuts travel and hiring costs to fund AI push",
+            "description": "SAP is reallocating its resources by tightening hiring and travel budgets to focus on AI development. The company is completing acquisitions and creating",
+            "content": "SAP is reallocating its resources by tightening hiring and travel budgets to focus on AI development. The company is completing acquisitions and creating agentic software aimed at improving enterprise operations. This strategic move highlights its co... [5670 chars]",
+            "url": "https://www.europesays.com/3151802/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/07/news-cover-sap-is-redeploying-workers-and-cutting-travel-costs-to-fund-an-all-in-ai-push.jpeg",
+            "publishedAt": "2026-07-24T21:21:15Z",
             "lang": "en",
             "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "94ff5760f682970055b25e116323e499",
+            "title": "Edge AI infrastructure earns Cisco Unified Edge a CUBEd award",
+            "description": "Cisco Unified Edge combines modular systems and centralized management to help enterprises adapt edge AI infrastructure as workload demands evolve.",
+            "content": "Organizations are expanding their use of edge AI infrastructure as workloads move beyond traditional data centers, creating new demands on systems designed for an earlier era of computing.\nCisco Systems Inc.’s Unified Edge platform, winner of the 202... [3958 chars]",
+            "url": "https://siliconangle.com/2026/07/24/edge-ai-infrastructure-earns-cisco-unified-edge-cubed-award-ciscoaward/",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/TheCUBE-Research’s-Dave-Vellante-and-James-Leach-director-of-product-management-at-Cisco-Systems-Inc.-–-2026-Tech-Innovation-CUBEd-Award-–-Most-Innovative-IoT-or-Edge-Platform.png",
+            "publishedAt": "2026-07-24T21:16:09Z",
+            "lang": "en",
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c35f22ec3e6bc3e7e1542922666150b0",
+            "title": "Nvidia, Microsoft urge US to protect open AI models amid policy debate",
+            "description": "Nvidia, Microsoft and Meta urge US policymakers not to broadly restrict open-weight AI models amid a growing debate over AI regulation",
+            "content": "Nvidia, Microsoft, Meta and more than 20 other technology companies are urging U.S. policymakers not to broadly restrict open-weight artificial intelligence (AI) models, saying the technology is critical to maintaining America's leadership in the glo... [3385 chars]",
+            "url": "https://www.foxbusiness.com/technology/nvidia-microsoft-urge-us-avoid-broad-restrictions-open-ai-models",
+            "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/nvidia-ceo-jensen-huang-tokyo-open-ai-models.jpg?ve=1&tl=1",
+            "publishedAt": "2026-07-24T21:12:12Z",
+            "lang": "en",
+            "source": {
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "782ff41e084d10c33b857e7d1c661607",
+            "title": "I'm Still Waiting For The Perfect Time To Strike On Marvell",
+            "description": "Marvell Technology, Inc. looks overvalued despite record revenue; AI infra multiples may compress as hyperscaler capex slows. Click for this MRVL stock update.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of MSFT either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [743 chars]",
+            "url": "https://seekingalpha.com/article/4925465-im-still-waiting-for-the-perfect-time-to-strike-on-marvell",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1699670760/image_1699670760.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-07-24T21:10:11Z",
+            "lang": "en",
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "036f44136ec8ae1361458367257ebf62",
+            "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
+            "description": "Falling oil prices provided Wall Street with some support even as Middle East hostilities continued. Read more at straitstimes.com.",
+            "content": "NEW YORK - The tech-heavy Nasdaq fell on July 24 as investors sold chip stocks on worries about massive spending on artificial intelligence ahead of the next batch of megacap earnings reports, while falling oil prices provided Wall Street with some s... [4140 chars]",
+            "url": "https://www.straitstimes.com/business/nasdaq-lags-on-angst-over-ai-spending-ahead-of-earnings-reports",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ff8e57af3dc7f09867f8a08ac5d9c9066c04d74ea67e74cddbc0f890aadafbd5",
+            "publishedAt": "2026-07-24T21:09:44Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
                 "country": "sg"
             }
         },
         {
-            "id": "e8ff39fa357586199e02dbe7f3e0ad9c",
-            "title": "How Waico is democratising AI",
-            "description": "The global artificial intelligence landscape is undergoing a profound transformation, moving away from restrictive, exclusionary models towards a collaborative, inclusive architecture designed to empower the Global South. The establishment of the World Artificial Intelligence Cooperation Organisation (Waico) in Shanghai marks a pivotal shift towards a multipolar era of digital governance, prioritising sovereignty, inclusivity, and shared prosperity.",
-            "content": "The global artificial intelligence landscape is undergoing a profound transformation, moving away from the restrictive, exclusionary models favoured by Western powers towards a collaborative, inclusive architecture designed to empower the Global Sout... [6471 chars]",
-            "url": "https://mg.co.za/thought-leader/2026-07-23-how-waico-is-democratising-ai/",
-            "image": "https://images.newsteam.io/image/400/GbSdY1y2zckUP7s2AsqEmEuBcsfo7fmsXEs8ur62p87zopwG9Z1Z1k5ACm5zUPQRVLpQAsZQhcuCmFs87AbUFszTVSVREaF1WMD7qtyLQ5Zzsb2XC4eYMbkqMmFEWrt1CuUZ7DxRMb4wwM3R5AqHt",
-            "publishedAt": "2026-07-23T22:00:00Z",
+            "id": "2527d95d798a3c9b61443765cd35fc07",
+            "title": "Hoping to Collect on Apple's $250M AI iPhone Settlement? You'll Have to Wait a Year",
+            "description": "The company will pay some iPhone owners to settle a lawsuit, but following a development last week, it's clear the legal machine grinds slowly.",
+            "content": "If you purchased an iPhone 16 or iPhone 15 at launch in order to jump into promised Apple Intelligence features, you were probably disappointed: The signature AI abilities were nowhere to be found, and only a few related features appeared later.\nThe ... [3884 chars]",
+            "url": "https://www.cnet.com/tech/mobile/copy-of-hoping-to-collect-on-apples-250m-ai-iphone-settlement-youll-have-to-wait-a-year/",
+            "image": "https://www.cnet.com/wp-content/uploads/sites/2/65c5ca63-9fce-4f5c-8f77-230edb3262c5.png",
+            "publishedAt": "2026-07-24T21:09:29Z",
             "lang": "en",
             "source": {
-                "id": "5bf0bdeb15a50383d0bd0c332086a129",
-                "name": "Mail & Guardian",
-                "url": "https://mg.co.za",
-                "country": "za"
-            }
-        },
-        {
-            "id": "8b0140dc469393ad4f5b41dfbef1871a",
-            "title": "Innovaccer’s CEO walked away from Disney and NASA. Now, the startup has crossed $200 million in ARR",
-            "description": "The company connects hospitals’ electronic health records and insurance claims systems, positioning itself as the infrastructure layer beneath the healthcare AI boom.",
-            "content": "That 2016 pivot allowed Innovaccer to cross $200 million in annual recurring revenue, Fortune learned exclusively. The current metric is now up from roughly $130 million last year.\nInnovacer pulls data out of hospitals’ electronic health records and ... [1061 chars]",
-            "url": "https://fortune.com/2026/07/23/innovaccers-ceo-walked-away-from-disney-and-nasa-to-fix-healthcares-data-mess-now-the-startup-has-crossed-200-million-in-arr/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Innovaccer-at-HIMSS42.jpg?resize=1200,600",
-            "publishedAt": "2026-07-23T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
                 "country": "us"
             }
         },
         {
-            "id": "3b57ecd0423acd47fcc5afc0d34d8311",
-            "title": "Commentary: Why the US is losing Chinese AI stars",
-            "description": "More entrepreneurs from China believe there are now greater opportunities at home than in Silicon Valley, says this Financial Times writer.",
-            "content": "HONG KONG: In 2019, Moonshot AI’s founder Yang Zhilin completed his PhD at Carnegie Mellon University (CMU) in just four years - about two fewer than the standard. Apple wanted him. Google and Meta had already hosted him as an intern. Postdoctoral do... [4330 chars]",
-            "url": "https://www.channelnewsasia.com/commentary/us-losing-chinese-ai-founders-moonshotai-6272996",
-            "image": "https://dam.mediacorp.sg/image/upload/s--wqrcboYx--/c_crop,h_449,w_799,x_1,y_2/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-17T020622Z_1_LYNXMPEM6G02H_RTROPTP_3_CHINA-TECH.JPG?itok=nh_6NRCw",
-            "publishedAt": "2026-07-23T21:59:00Z",
+            "id": "b22beea81c5c45a167ca1cf9d9e9521d",
+            "title": "Qualcomm powers Samsung’s new devices, price increases follow",
+            "description": "The San Diego semiconductor company says it crammed AI-capable compute into Samsung Galaxy phones, watches, and a new line of smart glasses — days before reports of a \"double-digit\" semiconductor price hike emerged Friday morning.",
+            "content": "Qualcomm confirmed its newest chips will power Samsung’s newest devices this week, extending a partnership between the two companies that goes back nearly 30 years.\nThe San Diego semiconductor company said its chips cram AI power into Samsung Galaxy ... [1901 chars]",
+            "url": "https://www.sandiegouniontribune.com/2026/07/24/qualcomm-powers-samsungs-new-devices-price-increases-follow/",
+            "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/07/SUT-L-QCOM-INVESTOR-002.jpg?w=2000&h=1333",
+            "publishedAt": "2026-07-24T21:05:31Z",
             "lang": "en",
             "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "8dd26792d8d6a74929f3732ea01fdc3e",
-            "title": "Mario Kart Wii is being \"rebuilt for PC,\" but the project's AI vibe coding instantly soured many Nintendo fans on the project",
-            "description": "\"The first static recompilation of a Wii game\" isn't going over well",
-            "content": "AI vibe coding has done the impossible: make Nintendo fans unexcited for Mario Kart Wii on PC. A new static recompilation project promises to give us a fresh way to play one of the best Wii games of all time, but as with many similar projects, the se... [1876 chars]",
-            "url": "https://www.gamesradar.com/games/racing/mario-kart-wii-is-being-rebuilt-for-pc-but-the-projects-ai-vibe-coding-instantly-soured-many-nintendo-fans-on-the-project/",
-            "image": "https://cdn.mos.cms.futurecdn.net/dz78u7jn2wiEyfBAbmj6e3-1920-80.jpg",
-            "publishedAt": "2026-07-23T21:55:25Z",
-            "lang": "en",
-            "source": {
-                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
-                "name": "GamesRadar+",
-                "url": "https://www.gamesradar.com",
+                "id": "8fac888ae06647c3a7d6093c60c9d9b5",
+                "name": "San Diego Union-Tribune",
+                "url": "https://www.sandiegouniontribune.com",
                 "country": "us"
             }
         },
         {
-            "id": "da28abb7eb1d9148de20aeed5352e60b",
-            "title": "Gemini Spark rolling out to Google AI Pro users in the US",
-            "description": "After launching in May with AI Ultra, Gemini Spark is now rolling out to Google AI Pro subscribers in the US. It will “soon” be available...",
-            "content": "After launching in May with AI Ultra, Gemini Spark is now rolling out to Google AI Pro subscribers in the US. It will “soon” be available to AI Pro members in other countries.\nGemini Spark is Google’s personal AI agent for automating complex tasks. O... [2967 chars]",
-            "url": "https://9to5google.com/2026/07/23/gemini-spark-google-ai-pro-us/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Mac-spark-summer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2026-07-23T21:53:02Z",
+            "id": "0ca3b455461338c78f3a656f1069ddde",
+            "title": "Beatbot offers a weekend flash sale on its most premium AquaSense 2 Ultra AI robotic pool cleaner for $2,149, more",
+            "description": "Through the weekend Beatbot is offering a special flash sale on its premium AquaSense 2 Ultra AI Robotic Pool Cleaner...",
+            "content": "Through the weekend Beatbot is offering a special flash sale on its premium AquaSense 2 Ultra AI Robotic Pool Cleaner for $2,149 shipped, after using the code 2ULTRA150 at checkout, beating Amazon’s pricing by $150. Normally fetching a steep $3,150 a... [1792 chars]",
+            "url": "https://9to5toys.com/2026/07/24/beatbot-weekend-flash-sale-aquasense-2-ultra-ai-robotic-pool-cleaner-2149-more/",
+            "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/07/Beatbot-AquaSense-2-Ultra-robotic-pool-cleaner.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-07-24T21:01:44Z",
             "lang": "en",
             "source": {
-                "id": "151292b021d31d91d452f04b0b225727",
-                "name": "9to5Google",
-                "url": "https://9to5google.com",
+                "id": "2c66ef23cd21309998bc5edbc0f0db53",
+                "name": "9to5Toys",
+                "url": "https://9to5toys.com",
                 "country": "us"
             }
         },
         {
-            "id": "d991bb15c2357dbd194de1977dc939f1",
-            "title": "SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns",
-            "description": "SAP's finance chief said on Thursday that artificial intelligence in enterprise software must move beyond chatbots and coding tools into more ​complex business processes, where clean data, reliability and cost control matter ‌more than access to the most powerful model.",
-            "content": "Companies have poured money into generative AI but are still seeking evidence of broad productivity gains, and SAP is arguing that ​the returns will come less from general-purpose models than from ​governed systems embedded in specific business proce... [1517 chars]",
-            "url": "https://www.reuters.com/business/sap-cfo-says-ai-must-move-beyond-chatbot-low-hanging-fruit-before-seeing-returns-2026-07-23/",
-            "image": "https://www.reuters.com/resizer/v2/6G6IQB2COFOW3P3AXAKZH73FLE.jpg?auth=0def16f7ab7328c959a28dc5ba95f98e75aa2bcf261221d9d3ac7f9eb27fa01a&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-07-23T21:53:00Z",
+            "id": "7f4a9518b5b5ab602fd7ea223e21d049",
+            "title": "Power grid guru Peter Lake to leave Trump’s Energy Dominance Council",
+            "description": "Lake was heavily involved with key aspects of President Donald Trump’s energy and AI dominance agenda.",
+            "content": "NEDC Chair and Interior Secretary Doug Burgum touted Lake’s “strategic vision, steady guidance and deep real-world expertise.” Energy Secretary Chris Wright cited Lake ’s “extensive electric grid experience, intelligence, and passion for reliable, af... [2523 chars]",
+            "url": "https://www.politico.com/news/2026/07/24/grid-guru-peter-lake-to-leave-trumps-energy-dominance-council-01011325",
+            "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fde%2F66%2F29d52bbf44cc92dd10f86d2ace05%2Few-0827-klump-q-a-1160-01-1.jpg",
+            "publishedAt": "2026-07-24T21:01:00Z",
             "lang": "en",
             "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "d1b46837a0054f942a8ff33bbb5e52c1",
-            "title": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
-            "description": "Amkor Technology said on Thursday it had entered a multi-year agreement with ​Nvidia worth $1.5 billion to expand advanced semiconductor ‌packaging and test capacity in the U.S., as the chip industry races to build out ​AI infrastructure.",
-            "content": "July 23 (Reuters) - Amkor Technology (AMKR.O), opens new tab said on Thursday it had entered a multi-year agreement with ​Nvidia (NVDA.O), opens new tab worth $1.5 billion to expand advanced semiconductor ‌packaging and test capacity in the U.S., as ... [256 chars]",
-            "url": "https://www.reuters.com/world/asia-pacific/nvidia-amkor-strike-15-billion-chip-packaging-deal-2026-07-23/",
-            "image": "https://www.reuters.com/resizer/v2/SJRQF5FRYZNARCHCHW7XYAP7Z4.jpg?auth=a61ed2f60408d7ffb1040d7a9aed6e487bdaca003440ae90e9514bcd79e8f475&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-07-23T21:44:25Z",
-            "lang": "en",
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e7e97a6d3db27dd0215a447679afdfce",
-            "title": "How Taxpayers Residing Near Data Centers May Be Impacted By Trump’s Policy",
-            "description": "Americans living near new artificial intelligence data centers could see changes to their electricity bills.",
-            "content": "Americans living near new artificial intelligence (AI) data centers could see changes to their electricity bills, local taxes, jobs and infrastructure as the Trump administration pushes a new plan aimed at shifting the costs of the AI boom away from ... [13422 chars]",
-            "url": "https://www.newsweek.com/how-taxpayers-residing-near-data-centers-may-be-impacted-by-trumps-policy-12236973",
-            "image": "https://assets.newsweek.com/wp-content/uploads/2026/07/AP26204671487411.jpg?w=1200&crop=1",
-            "publishedAt": "2026-07-23T21:41:21Z",
-            "lang": "en",
-            "source": {
-                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
-                "name": "Newsweek",
-                "url": "https://www.newsweek.com",
+                "id": "c477009a98f37b19212d8ae20ce8c018",
+                "name": "POLITICO",
+                "url": "https://www.politico.com",
                 "country": "us"
             }
         }
