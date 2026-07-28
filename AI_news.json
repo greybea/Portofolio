@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 400799,
+    "totalArticles": 401701,
     "articles": [
         {
-            "id": "2463da6d5ecb969cf50473efdb594e3c",
-            "title": "US Federal Reserve faces growing pressure to hike rates as price risks rebound",
-            "description": "AI-driven demand, Iran war and the newly announced tariffs also call for higher rates. Read more at straitstimes.com.",
-            "content": "US Federal Reserve officials will head into their policy meeting this week confronting a resurgence in price pressures that could make their decision on whether to hold or hike interest rates a close call – and a contentious one.\nRenewed tensions in ... [5752 chars]",
-            "url": "https://www.straitstimes.com/business/us-federal-reserve-faces-growing-pressure-to-hike-rates-as-price-risks-rebound",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b21f4f2333708d424b4a9a1d736f913f2eacbe6520cfd3e6a4a1d49eaa81e720",
-            "publishedAt": "2026-07-26T22:57:00Z",
+            "id": "a1a4ac0cd10fcd1f35fd6a267f8c9a92",
+            "title": "Stocks Settle Mixed as AI Angst Offsets Easing Geopolitical Tensions",
+            "description": "The S&P 500 Index ($SPX) (SPY) on Monday closed up +0.02%, the Dow Jones Industrial Average ($DOWI) (DIA) closed up +0.51%, and the Nasdaq 100 Index",
+            "content": "The S&P 500 Index ($SPX) (SPY) on Monday closed up +0.02%, the Dow Jones Industrial Average ($DOWI) (DIA) closed up +0.51%, and the Nasdaq 100 Index ($IUXX) (QQQ) closed down -0.32%. September E-mini S&P futures (ESU26) rose +0.02%, and September E-m... [9720 chars]",
+            "url": "https://www.europesays.com/3157887/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/07/New20York20Stock20Exchange20NYSE20in20Manhattan20by204kclips20via20Shutterstock.jpg",
+            "publishedAt": "2026-07-27T22:11:28Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "a84b358cbb8c109f379a35750ce121de",
-            "title": "Osome Eyes the Next Wave of AI Companies Choosing Singapore",
-            "description": "**media[1151712]**SINGAPORE, HONG KONG and LONDON, July 27, 2026 /PRNewswire/ -- Osome, the AI company management platform trusted by more than 50,000 tech founders and solopreneurs globally, is strengthening its support for the next wave of AI companies choosing Singapore as their regional base.**media[1151713]**",
-            "content": "SINGAPORE, HONG KONG and LONDON, July 27, 2026 /PRNewswire/ -- Osome, the AI company management platform trusted by more than 50,000 tech founders and solopreneurs globally, is strengthening its support for the next wave of AI companies choosing Sing... [2206 chars]",
-            "url": "https://www.manilatimes.net/2026/07/27/tmt-newswire/pr-newswire/osome-eyes-the-next-wave-of-ai-companies-choosing-singapore/2391732",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/27/1151710.jpg",
-            "publishedAt": "2026-07-26T22:22:14Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "d0a34e66ddb3492dd08bfd3d01740fb0",
-            "title": "Trump Self Soothes With Bonkers AI Posting Spree",
-            "description": "Trump abandoned words altogether as he unleashed a stream of AI images, many centered around his vision of another presidential term.",
-            "content": "The president of the United States has flooded his Truth Social account with a bizarre AI stream of his digital fever dreams as pressure builds to end his unpopular war in Iran.\nDonald Trump unleashed a bonkers posting spree Sunday centered around hi... [2143 chars]",
-            "url": "https://www.thedailybeast.com/trump-self-soothes-with-bonkers-ai-posting-spree/",
-            "image": "https://www.thedailybeast.com/resizer/v2/YC5JYUYDQNEIJIKXY555NI7HHE.JPG?smart=true&auth=7683b433d34343343a656e4a2edfe309f2db0f269edc9408fc5bc5ca82929e75&width=1200&height=630",
-            "publishedAt": "2026-07-26T22:06:00Z",
-            "lang": "en",
-            "source": {
-                "id": "dd4c720b98e562405eba2c628af5bfd0",
-                "name": "The Daily Beast",
-                "url": "https://www.thedailybeast.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "bd121da78d416ecf866409796cfe37dc",
-            "title": "Media OutReach Newswire Strengthens USA Distribution Network",
-            "description": "The newswire guarantees online postings on USA Today and increases its guaranteed distribution on high-domain-rating local US news sites to empower AI visibility",
-            "content": "The newswire guarantees online postings on USA Today and increases its guaranteed distribution on high-domain-rating local US news sites to empower AI visibility\nHONG KONG SAR - Media OutReach Newswire - 20 July 2026 - Media OutReach Newswire, the fi... [5795 chars]",
-            "url": "https://www.manilatimes.net/2026/07/27/tmt-newswire/media-outreach-newswire/media-outreach-newswire-strengthens-usa-distribution-network/2391731",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/27/1151701.png",
-            "publishedAt": "2026-07-26T22:03:57Z",
+            "id": "8c839079c64c8bde8b7da2a7f72cf866",
+            "title": "Crypto Companies Are Pivoting To AI To Save Themselves It's Not Working",
+            "description": "Crypto companies are pivoting to “AI” as Bitcoin treasury stocks implode—but the market isn't convinced. Investors have seen this narrative playbook before, and it's failing faster.",
+            "content": "“Crypto + AI” is the new “blockchain + [anything].” A desperate rebrand for failing business models, and investors aren’t buying it.\nThe Pattern We’ve Seen Before\n2017: Every company added “blockchain” to their name and watched their stock price trip... [8610 chars]",
+            "url": "https://www.cryptobreaking.com/crypto-companies-are-pivoting-to/",
+            "image": "https://www.cryptobreaking.com/wp-content/uploads/2026/07/Bannieres-YouTube-Web3-Projects-Rethinking-Paid-Ads-33.jpg",
+            "publishedAt": "2026-07-27T22:11:03Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
+                "id": "03f4f74aaa0a44ccbb846a1630123293",
+                "name": "Crypto Breaking News",
+                "url": "https://www.cryptobreaking.com",
+                "country": "ae"
             }
         },
         {
-            "id": "a6cb1440397a04e1e44e5506baab9487",
-            "title": "South China Morning Post",
-            "description": "The Nobel Prize-winning economist discusses how AI is reshaping US-China competition – and poses unique challenges for both economies.",
-            "content": "Simon Johnson is a professor of entrepreneurship at the Massachusetts Institute of Technology (MIT). A former chief economist of the International Monetary Fund (IMF), he won a joint Nobel Prize for economics in 2024 for his research into how institu... [1383 chars]",
-            "url": "https://www.scmp.com/economy/china-economy/article/3361690/nobel-laureate-simon-johnson-ai-race-and-chinas-over-automation-problem",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/24/1de9d22d-4490-46a3-9512-8ff55cd92a75_109af293.jpg?itok=vTM9TpAl&v=1784868309",
-            "publishedAt": "2026-07-26T22:00:13Z",
+            "id": "82764bdfc6ebd396361134551ce5a3d4",
+            "title": "agentic artificial intelligence needs shared memory",
+            "description": "Enterprise investment in agentic artificial intelligence is accelerating, but the infrastructure supporting those systems is still catching up.",
+            "content": "Enterprise investment in agentic artificial intelligence is accelerating, but the infrastructure supporting those systems is still catching up.\nOrganizations are moving agents into customer support, software development, sales operations and other pr... [10877 chars]",
+            "url": "https://www.europesays.com/3157883/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/07/Yugabyte-Header-Image.png",
+            "publishedAt": "2026-07-27T22:09:22Z",
             "lang": "en",
             "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            }
-        },
-        {
-            "id": "2928c63c7750b896b9c8430b865af3c6",
-            "title": "The faces behind China's AI rise: Meet the founders of DeepSeek, Z.ai and Moonshot AI",
-            "description": "As China emerges as a key competitor in the global AI race, CNA takes a look at the figures leading its top companies.",
-            "content": "SINGAPORE: China has caused much buzz in the tech sector recently after one of its artificial intelligence startups launched the world's largest open-weight AI systems in July.\nThe country has emerged as a key competitor in the global AI race, with c... [10922 chars]",
-            "url": "https://www.channelnewsasia.com/east-asia/china-deepseek-zhipu-ai-moonshot-liang-wenfeng-yang-zhilin-tang-jie-6269866",
-            "image": "https://dam.mediacorp.sg/image/upload/s--SY5UvxZ5--/c_crop,h_720,w_1280,x_0,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/22/chinese_ai_companies_founders.jpg?itok=UDKAAfRM",
-            "publishedAt": "2026-07-26T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "a93b3f6017b4a9140caa1bb5c711c343",
-            "title": "Australia's AI ambitions could hamper housing target",
-            "description": "Australia's drive to become an AI powerhouse clashes with its ambitious housing goals, straining the construction workforce and real estate market. Read more at straitstimes.com.",
-            "content": "SYDNEY - Australia’s push to become a regional artificial intelligence powerhouse is testing its ability to deliver on another national priority: building enough homes.\nCanberra has been keen to accelerate AI investment and the growth of data centres... [7742 chars]",
-            "url": "https://www.straitstimes.com/asia/australianz/australias-ai-ambitions-add-to-squeeze-as-housing-target-looms",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/22a40198c13a4d62d2621c077d4f7bfc91fc99c4b0c61051a584f76b79eba0d5",
-            "publishedAt": "2026-07-26T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "b86df866710bd54d8e7feaf8c4544f97",
-            "title": "AI cyberattacks mean we can't defend ourselves the same way as before: Singapore's founding cybersecurity chief",
-            "description": "Mr David Koh looked back on his time as chief executive of the Cyber Security Agency of Singapore, in his first exclusive media interview since retiring on Jul 1.",
-            "content": "SINGAPORE: A burglary is happening in your home right now. You can’t see the intruders – you don’t know who they are, how they got in, what they have taken and how many of them lie in wait.\nYou realise something is wrong when the front door, which yo... [9020 chars]",
-            "url": "https://www.channelnewsasia.com/singapore/cybersecurity-csa-founding-chief-david-koh-ai-cyberattack-defend-6275631",
-            "image": "https://dam.mediacorp.sg/image/upload/s--ixw4Cm2B--/c_crop,h_1123,w_1997,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/24/20260720_bk_david_koh_2.jpg?itok=G64udV3H",
-            "publishedAt": "2026-07-26T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "811de1f37adbef0c53f7f9d39a810882",
-            "title": "Micron or Cerebras: One Chip Stock Is a Strong Buy, the Other a Sell, Says Investor",
-            "description": "While the race to build AI infrastructure has been a major boost for chip and memory companies, the past few weeks have shown how quickly market...",
-            "content": "While the race to build AI infrastructure has been a major boost for chip and memory companies, the past few weeks have shown how quickly market sentiment can change. Concerns that AI spending may not keep growing at its recent pace have weighed on s... [4089 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/micron-or-cerebras-one-chip-stock-is-a-strong-buy-the-other-a-sell-says-investor-1036364882",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/07/image-2722-1024x406.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-07-26T21:50:33Z",
-            "lang": "en",
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "07ea5cc591ce81e90aea22e8fd8e5c19",
-            "title": "ChatGPT’s Health Launch Is Foreshadowing The Future Of Healthcare",
-            "description": "The integration of health data into consumer AI platforms is rapidly growing.",
-            "content": "Earlier this week, OpenAI launched the Health platform in ChatGPT for US users. Individuals have always been able to use GPT to inquire about medical conditions, understand potential symptoms or gather other generalized information about healthcare o... [2764 chars]",
-            "url": "https://www.forbes.com/sites/saibala/2026/07/26/chatgpts-health-launch-is-foreshadowing-the-future-of-healthcare/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/66c7eb6be1c323c19b6563e1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-07-26T21:41:44Z",
+            "id": "7f27cd5a6800d64bf9e8f32847820991",
+            "title": "From Procurement To Production: The Real Bottleneck In The AI Infrastructure Buildout",
+            "description": "Learn how factory-integrated AI infrastructure helps organizations move from procurement to production faster while managing power, density and complexity.",
+            "content": "For the past year, the AI infrastructure conversation has been dominated by a single question: how much to invest. Global AI infrastructure spending grew 166% year-over-year in early 2025, reaching $82 billion in a single quarter.1 The market has ans... [6758 chars]",
+            "url": "https://www.forbes.com/sites/delltechnologies/2026/07/27/from-procurement-to-production-the-real-bottleneck-in-the-ai-infrastructure-buildout/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a67d32b75841da858b25cb4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-07-27T22:08:43Z",
             "lang": "en",
             "source": {
                 "id": "a0300bc9a6e9d5b317bd6f614767231f",
                 "name": "Forbes",
                 "url": "https://www.forbes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "d02647a1451dd5d0cbc48ada98ca0c8c",
+            "title": "Claude Code Creator Wants You to Stop Micromanaging Your AI",
+            "description": "Boris Cherny, creator of Anthropic's Claude Code, said users don't need to get too specific with their instructions for modern models.",
+            "content": "If AI users are the new bosses and agents are the new employees, then the creator of Anthropic's popular coding agent has a piece of evergreen management advice: Stop micromanaging your AI.\nBoris Cherny, the creator of Anthropic's Claude Code, said a... [1550 chars]",
+            "url": "https://www.businessinsider.com/anthropic-claude-code-prompting-tips-boris-cherny-micromanaging-ai-2026-7",
+            "image": "https://i.insider.com/6a67d20a548c9c486b3111cb?width=1200&format=jpeg",
+            "publishedAt": "2026-07-27T22:08:02Z",
+            "lang": "en",
+            "source": {
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "a8923a20fc8da93235323a94ea6b28af",
+            "title": "Media OutReach Newswire Strengthens USA Distribution Network",
+            "description": "The newswire guarantees online postings on USA Today and increases its guaranteed distribution on high-domain-rating local US news sites to empower AI visibility",
+            "content": "The newswire guarantees online postings on USA Today and increases its guaranteed distribution on high-domain-rating local US news sites to empower AI visibility\nHONG KONG SAR - Media OutReach Newswire - 20 July 2026 - Media OutReach Newswire, the fi... [5795 chars]",
+            "url": "https://www.manilatimes.net/2026/07/28/tmt-newswire/media-outreach-newswire/media-outreach-newswire-strengthens-usa-distribution-network/2392574",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/28/1153382.png",
+            "publishedAt": "2026-07-27T22:06:49Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "a80b97cc15a8380d37754435fad58c56",
+            "title": "China's AI Companies Are Winning Users, But Losing Money",
+            "description": "Chinese AI startups are winning over global developers with low-cost open-weight models, but soaring compute costs and heavy losses show that widespread adoption has not yet created a profitable",
+            "content": "By now, the headline has become familiar: a Chinese AI startup undercuts OpenAI or Anthropic by releasing a vastly cheaper, almost-as-good-or-better open-weight frontier model and policymakers in the U.S. government fret that the country is falling b... [1932 chars]",
+            "url": "https://www.ibtimes.com/china-ai-companies-winning-users-losing-money-3805788",
+            "image": "https://d.ibtimes.com/en/full/4651704/iqiyis-chief-executive-gong-yu-delivers-speech.jpg",
+            "publishedAt": "2026-07-27T22:03:35Z",
+            "lang": "en",
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "58b236720f5bf5b3bd290d4e4396aa0e",
+            "title": "Is This What Comes After AI Slop?",
+            "description": "Daggermouth could be the first best-selling novel partly written by a chatbot.",
+            "content": "Most self-published authors can only dream of writing something as popular as Daggermouth. Set in a surveillance state ruled by a masked elite, the novel traces the unlikely romance between the president’s son and an assassin hired to kill him. Since... [9209 chars]",
+            "url": "https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/",
+            "image": "https://cdn.theatlantic.com/thumbor/xLb7xcblP8yskhs6ZsiIFdjBij8=/0x43:2000x1085/1200x625/media/img/mt/2026/07/2026_07_23_Oremus_AI_bestseller_final/original.jpg",
+            "publishedAt": "2026-07-27T22:01:00Z",
+            "lang": "en",
+            "source": {
+                "id": "a2e577ba2489a893201ce3c6c670f6de",
+                "name": "The Atlantic",
+                "url": "https://www.theatlantic.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "dd885f599e286b1759a48d3567492b76",
+            "title": "Hyundai Motor's AI push struggles to offset earnings concerns",
+            "description": "Hyundai Motor Group's push into physical artificial intelligence (AI) is failing to offset mounting investor concerns, as weakening automotive earn...",
+            "content": "Hyundai Motor Group's push into physical artificial intelligence (AI) is failing to offset mounting investor concerns, as weakening automotive earnings prompt brokerages to cut their target prices for Hyundai Motor and Kia.\nDespite Hyundai Motor Grou... [2948 chars]",
+            "url": "https://www.koreatimes.co.kr/business/companies/20260728/hyundai-motors-ai-push-struggles-to-offset-earnings-concerns",
+            "image": "https://newsimg.koreatimes.co.kr/2026/07/27/2a521c2a-02b3-418b-b74b-505cc54618ac.jpg",
+            "publishedAt": "2026-07-27T22:00:12Z",
+            "lang": "en",
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
+            }
+        },
+        {
+            "id": "565025aabde6b8683dda9bbc276e21e1",
+            "title": "Fox News Poll: Cool your servers! Voters reject data centers",
+            "description": "Data centers face broad opposition as a new survey finds voters oppose AI-related construction by a 40-point margin, citing environmental concerns over economic growth.",
+            "content": "While U.S. tech companies race for AI dominance, the latest Fox News nationwide survey finds voters hitting the brakes on data centers, as more prefer taking time to address local concerns than rushing expansion to maintain a competitive global edge.... [2750 chars]",
+            "url": "https://www.foxnews.com/politics/fox-news-poll-cool-your-servers-voters-reject-data-centers",
+            "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/utah-data-center-protest-box-elder-county.jpeg",
+            "publishedAt": "2026-07-27T22:00:03Z",
+            "lang": "en",
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
                 "country": "us"
             }
         }
