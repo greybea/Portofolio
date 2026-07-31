@@ -4,112 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 404066,
+    "totalArticles": 405315,
     "articles": [
         {
-            "id": "1d14ee01e260e3894d6918599a01dff5",
-            "title": "AI Campaign Comes to Meta's Earnings Call",
-            "description": "Mark Zuckerberg is doing a big AI public relations push. It's unclear if it will move the needle. So why not try cold, hard cash?",
-            "content": "Many Americans are very concerned about AI. Can Mark Zuckerberg change their minds?\nThat is what the Meta CEO is trying to do, via a persuasion campaign: Last week, the company launched an ad, scored by a David Bowie song, telling viewers to ignore \"... [3885 chars]",
-            "url": "https://www.businessinsider.com/mark-zuckerberg-meta-ai-pr-campaign-cash-payments-2026-7",
-            "image": "https://i.insider.com/6a6a767bce52cb26b83959c5?width=1200&format=jpeg",
-            "publishedAt": "2026-07-29T22:08:04Z",
+            "id": "ded01d64d46dba9ec4b66fe6661da16e",
+            "title": "Small business owners ays AI helps, not hurts them",
+            "description": "Artificial intelligence has enabled nurses to spend more time with their patients, allowed small business owners to expand more quickly and hire more employees and helped entrepreneurs build their websites.",
+            "content": "If you listen to the loudest voices in the artificial intelligence debate, you would think America is on the brink of an apocalypse and that “Terminator”-style robots are hunting humans, rogue computers are turning on their creators like Hal in “2001... [6715 chars]",
+            "url": "https://nypost.com/2026/07/30/business/small-business-owners-ays-ai-helps-not-hurts-them/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-ososdk9hq-1785450168266.jpg?quality=75&strip=all&1785435781&w=1200",
+            "publishedAt": "2026-07-30T22:24:29Z",
             "lang": "en",
             "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
                 "country": "us"
             }
         },
         {
-            "id": "0f72d19fd9ba17386a1c59e4c8d03c0a",
-            "title": "Column: Meta abandons its AI-generating tool, but guardrails are needed",
-            "description": "Without meaningful guardrails, social media platforms and AI companies will push the bounds as far as possible, the Heritage Foundation's Annie Chestnut Tutor writes.",
-            "content": "Meta recently introduced a new AI feature on Instagram — then removed it after sharp public uproar. The tool, part of its latest Muse Image model, allowed users to generate AI images using content from public Instagram accounts.\nThe element that ince... [3943 chars]",
-            "url": "https://www.pilotonline.com/2026/07/29/column-meta-abandons-its-ai-generating-tool-but-guardrails-are-needed/",
-            "image": "https://www.pilotonline.com/wp-content/uploads/2026/07/TVP-Z-OP-META-AI-GUARDRAILS-HERITAGE-COMMENTARY.jpg?w=3000&h=2000",
-            "publishedAt": "2026-07-29T22:05:04Z",
+            "id": "ef34622caebaaed5485bddbb225c4903",
+            "title": "Amazon’s Ad Revenue Hits $76B Over the Past 12 Months",
+            "description": "The ad business saw strong initial results from Sponsored AI Prompts.",
+            "content": "$76 billion: Amazon’s 12-month advertising revenue.\n$20 billion: The company’s Q2 ad revenue, up 26% year-over-year.\n$200.6 billion: Second quarter net sales, up 20% year-over-year.\n$42.2 billion: AWS revenue, a 37% year-over-year increase.\n36 millio... [456 chars]",
+            "url": "https://www.adweek.com/commerce/amazons-ad-revenue-hits-76b/",
+            "image": "https://static-www.adweek.com/wp-content/uploads/2026/07/Amazon-earnings.jpg?w=600&h=315&crop=1",
+            "publishedAt": "2026-07-30T22:23:25Z",
             "lang": "en",
             "source": {
-                "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
-                "name": "Norfolk Virginian-Pilot",
-                "url": "https://www.pilotonline.com",
+                "id": "e9159c384a74cd663934e35c84b61001",
+                "name": "Adweek",
+                "url": "https://www.adweek.com",
                 "country": "us"
             }
         },
         {
-            "id": "b8ee1de0bddfaf7728ea24f7ac25efc4",
-            "title": "Microsoft Becomes One of the First AI Giants to Hold the Line on Capex",
-            "description": "Most tech giants have been raising their AI capex forecasts. Microsoft is an outlier.",
-            "content": "Microsoft kept its capex forecast unchanged on Wednesday, becoming one of the first data center giants to hold the line on the industry's runaway AI spending spree.\nThe stock surged about 8% on the news.\nEarlier this year, the company said it planned... [1800 chars]",
-            "url": "https://www.businessinsider.com/microsoft-ai-capex-unchanged-data-centers-spending-tech-giants-2026-7",
-            "image": "https://i.insider.com/6a6a594d548c9c486b31217c?width=1200&format=jpeg",
-            "publishedAt": "2026-07-29T22:04:44Z",
+            "id": "1ded2014097d968c5f9d596a09733998",
+            "title": "Samsung reports record profit as South Korean chip giants benefit from global AI boom",
+            "description": "SEOUL, Jul 30 : South Korean technology giant Samsung Electronics on Thursday reported a record operating profit of 89.5 trillion won (USD 62 billion) for the April-June period, a day after crosstown rival SK Hynix also reported record earnings, as...",
+            "content": "SEOUL, Jul 30 : South Korean technology giant Samsung Electronics on Thursday reported a record operating profit of 89.5 trillion won (USD 62 billion) for the April-June period, a day after crosstown rival SK Hynix also reported record earnings, as t... [2355 chars]",
+            "url": "https://www.dailyexcelsior.com/samsung-reports-record-profit-as-south-korean-chip-giants-benefit-from-global-ai-boom/",
+            "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWYyOTczNGQwLThjNjQtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
+            "publishedAt": "2026-07-30T22:20:33Z",
             "lang": "en",
             "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "266dce695ab0ec838ca16b702750adfd",
+            "title": "Anthropic's models gained unauthorized 'real",
+            "description": "Anthropic's artificial intelligence (AI) models \"gained unauthorized access\" to three outside organizations during testing that was supposed to keep them",
+            "content": "Anthropic’s artificial intelligence (AI) models “gained unauthorized access” to three outside organizations during testing that was supposed to keep them away from “real-world” systems, the company said on Thursday.\nThe announcement comes just days a... [3184 chars]",
+            "url": "https://www.breitbart.com/news/anthropics-models-gained-unauthorized-real-world-access-during-testing/",
+            "image": "https://media.breitbart.com/media/2026/06/wi/afp/anthropic-is-at-odds-trump-administration-terminated-of-government-contracts-640x335.jpg",
+            "publishedAt": "2026-07-30T22:19:16Z",
+            "lang": "en",
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
                 "country": "us"
             }
         },
         {
-            "id": "460c75c53a45b4f7cfc251e2fcd0b9ec",
-            "title": "Knowledge graph architecture for enterprise AI",
-            "description": "Thumos Care's Shan Rizvi says knowledge graph architecture gives enterprises traceable, auditable AI reasoning they own, and that improves with use.",
-            "content": "Knowledge graph architecture has emerged from the concept stage, consigned to the realm of academia, to the production infrastructure stage, and the enterprises that shape it the right way will own the intelligence their AI creates.\nThat’s the centra... [4064 chars]",
-            "url": "https://siliconangle.com/2026/07/29/knowledge-graph-architecture-enterprise-ai-neo4jdataplusai/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Shan-Rizvi-Clean.jpg",
-            "publishedAt": "2026-07-29T22:02:46Z",
+            "id": "7def39af03635d871b37b87950ce9af7",
+            "title": "Amazon to boost spending on AI and other technology by $20 billion after strong Q2 results",
+            "description": "Amazon said it will be increasing this year’s capital spending on technology, mostly artificial intelligence, by an additional 10% after the tech and e-commerce giant delivered strong profits and net sales during for fiscal second quarter, helped by...",
+            "content": "NEW YORK (AP) — Amazon said it will be increasing this year's capital spending on technology, mostly artificial intelligence, by an additional 10% after the tech and e-commerce giant delivered strong profits and net sales during for fiscal second qua... [4571 chars]",
+            "url": "https://www.barchart.com/story/news/3564068/amazon-to-boost-spending-on-ai-and-other-technology-by-20-billion-after-strong-q2-results",
+            "image": "https://assets.barchart.com/img/barchart-og.png",
+            "publishedAt": "2026-07-30T22:04:05Z",
             "lang": "en",
             "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
                 "country": "us"
             }
         },
         {
-            "id": "727c93ee7b8f5eb896a1a453b43afbc4",
-            "title": "Tech Bros Run the Marxist Playbook",
-            "description": "Jim Rickards on AI and Marxism...",
-            "content": "Can Marxism offer a framework for understanding artificial intelligence (AI) and the tech bros behind it?\nThis is not to suggest that Marxism is a viable economic system or a practical alternative to capitalism. It’s not. But Karl Marx was a heterodo... [7031 chars]",
-            "url": "https://dailyreckoning.com/tech-bros-run-the-marxist-playbook/",
-            "image": "https://dailyreckoning.com/wp-content/uploads/2026/07/dr-hero-img-07-29-26.jpg",
-            "publishedAt": "2026-07-29T22:00:48Z",
-            "lang": "en",
-            "source": {
-                "id": "4df2dff079dc5c9e1bc2b2880281fc11",
-                "name": "The Daily Reckoning",
-                "url": "https://dailyreckoning.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "66df410a3317ecc81ef08552f7686032",
-            "title": "Open-source AI is imperfect hedge against US clout",
-            "description": "Public ​AI models released by ⁠Chinese startups ​like Moonshot lag ​just four months behind top proprietary systems from ​OpenAI. That ​boosts their appeal for governments ‌and ⁠firms spooked by the risk of Washington restrictions. ​Yet buyers ​still ⁠need US tech for ​the hardest tasks.",
-            "content": "NEW YORK, July 30 (Reuters Breakingviews) - Modifiable artificial intelligence has a new sales pitch. Large language models that users can download, change and run on their own infrastructure already promise lower per-token costs than renting proprie... [8261 chars]",
-            "url": "https://www.reuters.com/commentary/breakingviews/open-source-ai-is-imperfect-hedge-against-us-clout-2026-07-29/",
-            "image": "https://www.reuters.com/resizer/v2/CJNLVDIKSBN7FDQA2LSTULRX6E.jpg?auth=d319c27c9e1e5fa3699229c3b52e17072f2f4c945d888ec137f9a9b1e42b05bc&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-07-29T22:00:29Z",
-            "lang": "en",
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "28dfce7dce0de061673e3222bfcf20f3",
-            "title": "Quote of the day by Tom Hanks on AI in cinema: 'Without a doubt, people will be able to tell. But the question is, will they care?' — a cynical observation about modern film audiences",
-            "description": "The technology available to filmmakers is improving dramatically, but there's a big backlash brewing around the use of generative AI",
-            "content": "Tom Hanks is one of the most celebrated actors in the world, having starred in several iconic films throughout his career and winning two Academy Awards in the process. Like all actors, however, he's been no stranger to the rise of AI and its potenti... [2513 chars]",
-            "url": "https://www.techradar.com/pro/quote-of-the-day-by-tom-hanks-on-ai-in-cinema-without-a-doubt-people-will-be-able-to-tell-but-the-question-is-will-they-care-a-cynical-observation-about-modern-film-audiences",
-            "image": "https://cdn.mos.cms.futurecdn.net/4syjDYp3WERZNGTw898fJ8-2560-80.jpg",
-            "publishedAt": "2026-07-29T22:00:00Z",
+            "id": "c3b55021c930f397b2c919c553394725",
+            "title": "I asked Star Trek: Voyager's Jeri Ryan what movie makes the best 'companion piece' for the classic sci-fi franchise — and her answer is a stark warning for AI users",
+            "description": "This is a woman clearly concerned by 2020s tech",
+            "content": "When it comes to long-standing TV franchises that I'm most terrified to cover, Star Trek is easily at the top of the list. With so many seasons, opinions, and legacies developing in popular culture since the mid-1960s and the original series, I feel ... [3393 chars]",
+            "url": "https://www.techradar.com/streaming/entertainment/i-asked-star-trek-voyagers-jeri-ryan-what-movie-makes-the-best-companion-piece-for-the-classic-sci-fi-franchise-and-her-answer-is-a-stark-warning-for-ai-users",
+            "image": "https://cdn.mos.cms.futurecdn.net/u89dZNsrfX878dtZKjZH8H-1920-80.jpg",
+            "publishedAt": "2026-07-30T22:00:00Z",
             "lang": "en",
             "source": {
                 "id": "76684855c5d801b81fd06490668d04fe",
@@ -119,50 +103,66 @@
             }
         },
         {
-            "id": "20341d9aeb5b559e04bf410a6c41eed5",
-            "title": "Questrade introduces Canada’s first AI-connected brokerage accounts as competition heats up",
-            "description": "New integration allows clients to draft trades, ask AI assistants questions about their portfolios, market conditions and watchlists using their own account data",
-            "content": "Online trade platform Questrade Financial Group Inc. is rolling out what it says is Canada’s first direct connection between brokerage accounts and popular AI assistants such as Claude and ChatGPT, as part of several products it’s releasing as compet... [3669 chars]",
-            "url": "https://www.theglobeandmail.com/investing/personal-finance/retirement/article-questrade-ai-artificial-intelligence-brokerage-accounts/",
-            "image": "https://www.theglobeandmail.com/resizer/v2/7D42NMYVDVD5HFBOPKZC25LJB4.JPG?auth=a39ed2573bf97f0e1240f883c83325ce11f642ddb676ab78746456250919fd79&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2026-07-29T22:00:00Z",
+            "id": "cca2d4b5f432dfd04b2f0b9972df9f5c",
+            "title": "See The Hilarious AI Ads That Furious California Democrats Want Banned",
+            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+            "content": "Two California Democrats are moving to outlaw AI-generated campaign ads at the federal level, just days after a Republican rival for the governor's mansion used the technology to hammer their party.\nSen. Adam Schiff (D-CA) and Rep. Ro Khanna (D-CA) o... [1671 chars]",
+            "url": "https://www.zerohedge.com/political/see-hilarious-ai-ads-furious-california-democrats-want-banned",
+            "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-07/bed23.jpg?itok=_qisJqHs",
+            "publishedAt": "2026-07-30T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
+                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+                "name": "ZeroHedge",
+                "url": "https://www.zerohedge.com",
+                "country": "us"
             }
         },
         {
-            "id": "833ab286c6248852f32a5d2d91ac9870",
-            "title": "Two Israeli universities rank among top 30 global producers of AI talent, startups",
-            "description": "Technion and Tel Aviv University secure 25th and 28th places, respectively, in global index measuring universities' ability to educate talent, generate research and entrepreneurship in AI",
-            "content": "Two Israeli institutions – Haifa’s Technion-Israel Institute of Technology and Tel Aviv University – have earned spots among the world’s top 30 universities for churning out talent, research and entrepreneurship in artificial intelligence, according ... [2779 chars]",
-            "url": "https://www.timesofisrael.com/two-israeli-universities-rank-among-top-30-global-producers-of-ai-talent-startups/",
-            "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/DUAL3r4.jpeg",
-            "publishedAt": "2026-07-29T21:55:18Z",
+            "id": "a185256d4272fa82c2f3d97727344f7c",
+            "title": "'With artificial intelligence, we are summoning the demon' - quote of the day by Elon Musk on the rise of machine intelligence",
+            "description": "Scientists and technology execs alike are torn on what the implications of AI will be, although many liken it to a higher power",
+            "content": "With AI, the genie is out of the bottle, and there's no turning back. That's the overriding viewpoint across science and in Silicon Valley, where execs are increasingly building powerful systems. Beyond just building smarter machines, many among them... [1300 chars]",
+            "url": "https://www.techradar.com/pro/with-artificial-intelligence-we-are-summoning-the-demon-quote-of-the-day-by-elon-musk-on-the-rise-of-machine-intelligence",
+            "image": "https://cdn.mos.cms.futurecdn.net/fkx6mFKRAjjR8ponn66BT3-2560-80.jpg",
+            "publishedAt": "2026-07-30T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "5784855bc642514502eec4806fd222d1",
-                "name": "The Times of Israel",
-                "url": "https://www.timesofisrael.com",
-                "country": "is"
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
             }
         },
         {
-            "id": "68b30bd4a406475c6c99ba154ef65eb9",
-            "title": "SC, NC gets $160M NSF award to modernize power grid amid surging demand from EVs, AI",
-            "description": "As electric vehicles, mobile devices and artificial intelligence data centers drive up electricity demand, the Carolinas are getting a major federal investment aimed at preparing the region’s power grid for the future.",
-            "content": "SUMMERVILLE, S.C. (WCSC) — As electric vehicles, mobile devices and artificial intelligence data centers drive up electricity demand, the Carolinas are getting a major federal investment aimed at preparing the region’s power grid for the future.\nThe ... [2460 chars]",
-            "url": "https://www.live5news.com/2026/07/29/sc-nc-gets-160m-nsf-award-modernize-power-grid-amid-surging-demand-evs-ai/",
-            "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/7K7BY4M4MRDJ7NZ2JPO642ARS4.jpeg?auth=355f73ecb43da48821fed7ea6e9715288e5a85e4ae0a413aff9b618ff8296902&width=1200&height=600&smart=true",
-            "publishedAt": "2026-07-29T21:50:00Z",
+            "id": "cc239e029e4f4330fb212212d252b874",
+            "title": "GigaromAI Launches No-Code Agentic AI Trading Platform, Bringing Institutional-Grade Automation to Individual Investors",
+            "description": "New platform pairs pre-built quantitative strategies with automated execution and layered risk controls, opening algorithmic trading to users without programming experience",
+            "content": "New platform pairs pre-built quantitative strategies with automated execution and layered risk controls, opening algorithmic trading to users without programming experience\nNEW YORK, July 30, 2026 (GLOBE NEWSWIRE) -- GigaromAI today announced the lau... [3397 chars]",
+            "url": "https://www.manilatimes.net/2026/07/31/tmt-newswire/globenewswire/gigaromai-launches-no-code-agentic-ai-trading-platform-bringing-institutional-grade-automation-to-individual-investors/2395546",
+            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-07-30T21:56:40Z",
             "lang": "en",
             "source": {
-                "id": "e7b4d14003cc89c64a689f1c38723ef5",
-                "name": "Live 5 News WCSC",
-                "url": "https://www.live5news.com",
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "c6ee03543e4b518a55655e9a357ab91e",
+            "title": "Strong iPhone sales propel Apple's fiscal Q3 results past Wall Street's expectations",
+            "description": "Apple posted a solid fiscal third quarter on Thursday, climbing past Wall Street’s expectations thanks to strong sales of the iPhone and MacBook computers. Apple raised the prices of its Macs and iPads last month, citing a memory-chip shortage brought on by the artificial intelligence boom. The company had called the demand spike an “unprecedented challenge” for the consumer electronics industry. While it hasn’t yet raised iPhone prices, analysts and consumers expect that to happen later this year.",
+            "content": "Apple posted a solid fiscal third quarter on Thursday, climbing past Wall Street's expectations thanks to strong sales of the iPhone and MacBook computers.\nApple raised the prices of its Macs and iPads last month, citing a memory-chip shortage brough... [463 chars]",
+            "url": "https://www.ajc.com/news/2026/07/strong-iphone-sales-propel-apples-fiscal-q3-results-past-wall-streets-expectations/",
+            "image": "https://images.ajc.com/resizer/v2/KSUD2NXZ6FEQZB6AX5RNNPF53Y.jpg?auth=ae509e6ada5c1cdd98c5172d45633924301c9d9c748083fbd4ddff8790ee6588&width=1200&height=630&smart=true",
+            "publishedAt": "2026-07-30T21:52:01Z",
+            "lang": "en",
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
                 "country": "us"
             }
         }
