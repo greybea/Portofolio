@@ -4,96 +4,64 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 405315,
+    "totalArticles": 406417,
     "articles": [
         {
-            "id": "ded01d64d46dba9ec4b66fe6661da16e",
-            "title": "Small business owners ays AI helps, not hurts them",
-            "description": "Artificial intelligence has enabled nurses to spend more time with their patients, allowed small business owners to expand more quickly and hire more employees and helped entrepreneurs build their websites.",
-            "content": "If you listen to the loudest voices in the artificial intelligence debate, you would think America is on the brink of an apocalypse and that “Terminator”-style robots are hunting humans, rogue computers are turning on their creators like Hal in “2001... [6715 chars]",
-            "url": "https://nypost.com/2026/07/30/business/small-business-owners-ays-ai-helps-not-hurts-them/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-ososdk9hq-1785450168266.jpg?quality=75&strip=all&1785435781&w=1200",
-            "publishedAt": "2026-07-30T22:24:29Z",
+            "id": "a5e3e763ac227f3973cfba2245c1d2ef",
+            "title": "Trump AI executive order nears key deadline regulation debate heats up",
+            "description": "OpenAI's Sam Altman and Nvidia's Jensen Huang were among tech leaders in Washington, D.C., ahead of a deadline the White House set in its AI executive order.",
+            "content": "When President Donald Trump signed his AI executive order in early June, he gave federal agencies 60 days to develop a key framework as part of its implementation.\nOn Saturday, their time is up.\nThe fast-approaching deadline of Aug. 1 has been the su... [4324 chars]",
+            "url": "https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108323110-1781699541487-gettyimages-2282032931-090a1102_w6yjjkp0.jpeg?v=1781699571&w=1920&h=1080",
+            "publishedAt": "2026-07-31T21:46:32Z",
             "lang": "en",
             "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
                 "country": "us"
             }
         },
         {
-            "id": "ef34622caebaaed5485bddbb225c4903",
-            "title": "Amazon’s Ad Revenue Hits $76B Over the Past 12 Months",
-            "description": "The ad business saw strong initial results from Sponsored AI Prompts.",
-            "content": "$76 billion: Amazon’s 12-month advertising revenue.\n$20 billion: The company’s Q2 ad revenue, up 26% year-over-year.\n$200.6 billion: Second quarter net sales, up 20% year-over-year.\n$42.2 billion: AWS revenue, a 37% year-over-year increase.\n36 millio... [456 chars]",
-            "url": "https://www.adweek.com/commerce/amazons-ad-revenue-hits-76b/",
-            "image": "https://static-www.adweek.com/wp-content/uploads/2026/07/Amazon-earnings.jpg?w=600&h=315&crop=1",
-            "publishedAt": "2026-07-30T22:23:25Z",
+            "id": "62090faddc56c4d91f5c18ef5a539a81",
+            "title": "Is This Song of the Summer Actually Made With AI? This Artist Certainly Thinks So",
+            "description": "An artist/producer named Medasin broke down why he believes one of the most popular songs in the world right now is actually made with AI.",
+            "content": "“Rubberz” by Shoreline Mafia rapper Fenix Flexin has sparked so much dialogue amongst hip-hop circles. He’s a West Coast rapper who channeled his inner Morrissey and made catchy new wave with it for one song.\nTo call it jarring would be an understate... [2338 chars]",
+            "url": "https://www.vice.com/en/article/is-this-song-of-the-summer-actually-made-with-ai-this-artist-certainly-thinks-so/",
+            "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/07/Is-This-Song-of-The-Summer-Actually-Made-With-AI-This-Content-Creator-Thinks-So.jpg?w=1200",
+            "publishedAt": "2026-07-31T21:45:00Z",
             "lang": "en",
             "source": {
-                "id": "e9159c384a74cd663934e35c84b61001",
-                "name": "Adweek",
-                "url": "https://www.adweek.com",
+                "id": "9c188f87e786da40d8a7261297d97a8f",
+                "name": "VICE",
+                "url": "https://www.vice.com",
                 "country": "us"
             }
         },
         {
-            "id": "1ded2014097d968c5f9d596a09733998",
-            "title": "Samsung reports record profit as South Korean chip giants benefit from global AI boom",
-            "description": "SEOUL, Jul 30 : South Korean technology giant Samsung Electronics on Thursday reported a record operating profit of 89.5 trillion won (USD 62 billion) for the April-June period, a day after crosstown rival SK Hynix also reported record earnings, as...",
-            "content": "SEOUL, Jul 30 : South Korean technology giant Samsung Electronics on Thursday reported a record operating profit of 89.5 trillion won (USD 62 billion) for the April-June period, a day after crosstown rival SK Hynix also reported record earnings, as t... [2355 chars]",
-            "url": "https://www.dailyexcelsior.com/samsung-reports-record-profit-as-south-korean-chip-giants-benefit-from-global-ai-boom/",
-            "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWYyOTczNGQwLThjNjQtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
-            "publishedAt": "2026-07-30T22:20:33Z",
+            "id": "d5adb0cf2a924d6a7595be0a4a1a0c48",
+            "title": "‘Irresponsible’: Google rolls back new satellite image AI tool after backlash",
+            "description": "Furious researchers and open-source intelligence experts complained about the potential for disinformation. Read more at straitstimes.com.",
+            "content": "WASHINGTON - Google rolled back on July 31 a new feature allowing Google Earth users to generate AI visualisations on top of the service’s satellite imagery, following a furious backlash from researchers and open-source intelligence experts about the... [3880 chars]",
+            "url": "https://www.straitstimes.com/world/united-states/irresponsible-google-rolls-back-new-satellite-image-ai-tool-after-backlash",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8217114fe292a5115eec2b143d18379bb956bcbc5ced0d8b16d1700b253e7d52",
+            "publishedAt": "2026-07-31T21:40:40Z",
             "lang": "en",
             "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
             }
         },
         {
-            "id": "266dce695ab0ec838ca16b702750adfd",
-            "title": "Anthropic's models gained unauthorized 'real",
-            "description": "Anthropic's artificial intelligence (AI) models \"gained unauthorized access\" to three outside organizations during testing that was supposed to keep them",
-            "content": "Anthropic’s artificial intelligence (AI) models “gained unauthorized access” to three outside organizations during testing that was supposed to keep them away from “real-world” systems, the company said on Thursday.\nThe announcement comes just days a... [3184 chars]",
-            "url": "https://www.breitbart.com/news/anthropics-models-gained-unauthorized-real-world-access-during-testing/",
-            "image": "https://media.breitbart.com/media/2026/06/wi/afp/anthropic-is-at-odds-trump-administration-terminated-of-government-contracts-640x335.jpg",
-            "publishedAt": "2026-07-30T22:19:16Z",
-            "lang": "en",
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "7def39af03635d871b37b87950ce9af7",
-            "title": "Amazon to boost spending on AI and other technology by $20 billion after strong Q2 results",
-            "description": "Amazon said it will be increasing this year’s capital spending on technology, mostly artificial intelligence, by an additional 10% after the tech and e-commerce giant delivered strong profits and net sales during for fiscal second quarter, helped by...",
-            "content": "NEW YORK (AP) — Amazon said it will be increasing this year's capital spending on technology, mostly artificial intelligence, by an additional 10% after the tech and e-commerce giant delivered strong profits and net sales during for fiscal second qua... [4571 chars]",
-            "url": "https://www.barchart.com/story/news/3564068/amazon-to-boost-spending-on-ai-and-other-technology-by-20-billion-after-strong-q2-results",
-            "image": "https://assets.barchart.com/img/barchart-og.png",
-            "publishedAt": "2026-07-30T22:04:05Z",
-            "lang": "en",
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c3b55021c930f397b2c919c553394725",
-            "title": "I asked Star Trek: Voyager's Jeri Ryan what movie makes the best 'companion piece' for the classic sci-fi franchise — and her answer is a stark warning for AI users",
-            "description": "This is a woman clearly concerned by 2020s tech",
-            "content": "When it comes to long-standing TV franchises that I'm most terrified to cover, Star Trek is easily at the top of the list. With so many seasons, opinions, and legacies developing in popular culture since the mid-1960s and the original series, I feel ... [3393 chars]",
-            "url": "https://www.techradar.com/streaming/entertainment/i-asked-star-trek-voyagers-jeri-ryan-what-movie-makes-the-best-companion-piece-for-the-classic-sci-fi-franchise-and-her-answer-is-a-stark-warning-for-ai-users",
-            "image": "https://cdn.mos.cms.futurecdn.net/u89dZNsrfX878dtZKjZH8H-1920-80.jpg",
-            "publishedAt": "2026-07-30T22:00:00Z",
+            "id": "52e9b0cddb244323a210665a4169d99e",
+            "title": "How to speed up your client mock-ups using Adobe Stock’s integrated AI image editing workspace",
+            "description": "Turning Adobe stock images into custom client-ready visuals with AI",
+            "content": "Creating mock-ups for your clients is a great way to test ideas before committing to a final design. It doesn’t need to be fully-polished, but should demonstrate the intended look and feel and show how key brand elements will come together.\nThis migh... [5296 chars]",
+            "url": "https://www.techradar.com/pro/software-services/how-to-speed-up-your-client-mock-ups-using-adobe-stocks-integrated-ai-image-editing-workspace",
+            "image": "https://cdn.mos.cms.futurecdn.net/KUnB6tDbi4nnKihDeJTLgZ-1920-80.jpg",
+            "publishedAt": "2026-07-31T21:40:00Z",
             "lang": "en",
             "source": {
                 "id": "76684855c5d801b81fd06490668d04fe",
@@ -103,45 +71,45 @@
             }
         },
         {
-            "id": "cca2d4b5f432dfd04b2f0b9972df9f5c",
-            "title": "See The Hilarious AI Ads That Furious California Democrats Want Banned",
-            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-            "content": "Two California Democrats are moving to outlaw AI-generated campaign ads at the federal level, just days after a Republican rival for the governor's mansion used the technology to hammer their party.\nSen. Adam Schiff (D-CA) and Rep. Ro Khanna (D-CA) o... [1671 chars]",
-            "url": "https://www.zerohedge.com/political/see-hilarious-ai-ads-furious-california-democrats-want-banned",
-            "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-07/bed23.jpg?itok=_qisJqHs",
-            "publishedAt": "2026-07-30T22:00:00Z",
+            "id": "4c83ec1fe5b9484be4dc67835ba6c30e",
+            "title": "OpenAI has reportedly found that more of its AI agents went rogue.",
+            "description": "Reuters reports the agents “escaped containment,” though they aren’t believed to have left “OpenAI’s network.” Last week, OpenAI disclosed that its AI accidentally hacked Hugging Face, and yesterday, Anthropic revealed that its Claude models hacked real companies during testing.\n[Link: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe | https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/ | Reuters]",
+            "content": "J\nExternal Link\nOpenAI has reportedly found that more of its AI agents went rogue.\nReuters reports the agents “escaped containment,” though they aren’t believed to have left “OpenAI’s network.” Last week, OpenAI disclosed that its AI accidentally hac... [645 chars]",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/974082/openai-has-reportedly-found-that-more-of-its-ai-agents-went-rogue",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+            "publishedAt": "2026-07-31T21:35:27Z",
             "lang": "en",
             "source": {
-                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
-                "name": "ZeroHedge",
-                "url": "https://www.zerohedge.com",
+                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+                "name": "The Verge",
+                "url": "https://www.theverge.com",
                 "country": "us"
             }
         },
         {
-            "id": "a185256d4272fa82c2f3d97727344f7c",
-            "title": "'With artificial intelligence, we are summoning the demon' - quote of the day by Elon Musk on the rise of machine intelligence",
-            "description": "Scientists and technology execs alike are torn on what the implications of AI will be, although many liken it to a higher power",
-            "content": "With AI, the genie is out of the bottle, and there's no turning back. That's the overriding viewpoint across science and in Silicon Valley, where execs are increasingly building powerful systems. Beyond just building smarter machines, many among them... [1300 chars]",
-            "url": "https://www.techradar.com/pro/with-artificial-intelligence-we-are-summoning-the-demon-quote-of-the-day-by-elon-musk-on-the-rise-of-machine-intelligence",
-            "image": "https://cdn.mos.cms.futurecdn.net/fkx6mFKRAjjR8ponn66BT3-2560-80.jpg",
-            "publishedAt": "2026-07-30T22:00:00Z",
+            "id": "bb02832485945c0708e71ac06b775f9e",
+            "title": "Situational Awareness, the hedge fund making headlines, explained",
+            "description": "By Elisabeth Buchwald, CNN (CNN) — For years, Situational Awareness was closely tracked by Wall Street, members of the AI community and its founder’s fiercest followers. Outside those circles, however, the multibillion-dollar hedge fund remained largely unknown. But that was before it began unraveling this week. Situational Awareness was founded in 2024 by German-born Leopold",
+            "content": "By Elisabeth Buchwald, CNN\n(CNN) — For years, Situational Awareness was closely tracked by Wall Street, members of the AI community and its founder’s fiercest followers. Outside those circles, however, the multibillion-dollar hedge fund remained larg... [2006 chars]",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2026/07/31/situational-awareness-the-hedge-fund-making-headlines-explained/",
+            "image": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
+            "publishedAt": "2026-07-31T21:33:34Z",
             "lang": "en",
             "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
             }
         },
         {
-            "id": "cc239e029e4f4330fb212212d252b874",
-            "title": "GigaromAI Launches No-Code Agentic AI Trading Platform, Bringing Institutional-Grade Automation to Individual Investors",
-            "description": "New platform pairs pre-built quantitative strategies with automated execution and layered risk controls, opening algorithmic trading to users without programming experience",
-            "content": "New platform pairs pre-built quantitative strategies with automated execution and layered risk controls, opening algorithmic trading to users without programming experience\nNEW YORK, July 30, 2026 (GLOBE NEWSWIRE) -- GigaromAI today announced the lau... [3397 chars]",
-            "url": "https://www.manilatimes.net/2026/07/31/tmt-newswire/globenewswire/gigaromai-launches-no-code-agentic-ai-trading-platform-bringing-institutional-grade-automation-to-individual-investors/2395546",
+            "id": "24022dc049765e54fbcfaa436e094f14",
+            "title": "AI/R Joins the Claude Partner Network Services Track to Build the Next Generation of Intelligent Digital Ecosystems",
+            "description": "As a member of the Claude Partner Network Services Track, the company plans to train more than 1,000 software engineers in Anthropic technologies",
+            "content": "As a member of the Claude Partner Network Services Track, the company plans to train more than 1,000 software engineers in Anthropic technologies\nSAN FRANCISCO, July 31, 2026 (GLOBE NEWSWIRE) -- AI/R, a technology company specialized in agentic AI, a... [2490 chars]",
+            "url": "https://www.manilatimes.net/2026/08/01/tmt-newswire/globenewswire/air-joins-the-claude-partner-network-services-track-to-build-the-next-generation-of-intelligent-digital-ecosystems/2396204",
             "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-07-30T21:56:40Z",
+            "publishedAt": "2026-07-31T21:28:54Z",
             "lang": "en",
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -151,18 +119,50 @@
             }
         },
         {
-            "id": "c6ee03543e4b518a55655e9a357ab91e",
-            "title": "Strong iPhone sales propel Apple's fiscal Q3 results past Wall Street's expectations",
-            "description": "Apple posted a solid fiscal third quarter on Thursday, climbing past Wall Street’s expectations thanks to strong sales of the iPhone and MacBook computers. Apple raised the prices of its Macs and iPads last month, citing a memory-chip shortage brought on by the artificial intelligence boom. The company had called the demand spike an “unprecedented challenge” for the consumer electronics industry. While it hasn’t yet raised iPhone prices, analysts and consumers expect that to happen later this year.",
-            "content": "Apple posted a solid fiscal third quarter on Thursday, climbing past Wall Street's expectations thanks to strong sales of the iPhone and MacBook computers.\nApple raised the prices of its Macs and iPads last month, citing a memory-chip shortage brough... [463 chars]",
-            "url": "https://www.ajc.com/news/2026/07/strong-iphone-sales-propel-apples-fiscal-q3-results-past-wall-streets-expectations/",
-            "image": "https://images.ajc.com/resizer/v2/KSUD2NXZ6FEQZB6AX5RNNPF53Y.jpg?auth=ae509e6ada5c1cdd98c5172d45633924301c9d9c748083fbd4ddff8790ee6588&width=1200&height=630&smart=true",
-            "publishedAt": "2026-07-30T21:52:01Z",
+            "id": "3335b65f3042cdb55af9a7f6382ea406",
+            "title": "Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down.",
+            "description": "Situational Awareness, led by a 24-year-old, exploded onto the artificial intelligence scene — and then nose-dived.",
+            "content": "Last year, Leopold Aschenbrenner, a man barely of legal drinking age with a fondness for Rubik’s Cubes, crisscrossed the nation to raise money for his high-flying hedge fund.\nAn ex-researcher at OpenAI, who departed there in a cloud of controversy an... [1226 chars]",
+            "url": "https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html",
+            "image": "https://static01.nyt.com/images/2026/07/31/multimedia/Biz-Situational-Awareness-twfz/Biz-Situational-Awareness-twfz-facebookJumbo.jpg",
+            "publishedAt": "2026-07-31T21:28:40Z",
             "lang": "en",
             "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "5517831adf060c2cf0f5b43c247b3e33",
+            "title": "Flock cameras face North Texas privacy backlash",
+            "description": "Police say the AI-assisted cameras are critical investigative tools, but critics across the political spectrum are calling for tighter rules or removal.",
+            "content": "Hannah Foust’s entry into a growing debate over police surveillance began with a photo in a group chat.\nA friend had spotted an oblong camera mounted high on a streetlamp one May evening over a residential intersection in Carrollton. Not everyone in ... [10938 chars]",
+            "url": "https://www.dallasnews.com/news/public-safety/article/flock-cameras-face-north-texas-privacy-backlash-22363524.php",
+            "image": "https://s.hdnux.com/photos/01/66/75/42/31185060/7/rawImage.jpg",
+            "publishedAt": "2026-07-31T21:21:17Z",
+            "lang": "en",
+            "source": {
+                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+                "name": "The Dallas Morning News",
+                "url": "https://www.dallasnews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c82a11652d6e5549b257d573dd1b64a1",
+            "title": "Policy expert urges transparency after AI hack, says lack of rules leave security gaps",
+            "description": "As Washington weighs how to rein in rapidly advancing artificial intelligence, OpenAI CEO Sam Altman spent part of this week on Capitol Hill.",
+            "content": "As Washington weighs how to rein in rapidly advancing artificial intelligence, OpenAI CEO Sam Altman spent part of this week on Capitol Hill and at the White House meeting with lawmakers and administration officials to preview powerful new AI systems... [3299 chars]",
+            "url": "https://wjla.com/news/nation-world/policy-expert-urges-transparency-after-ai-hack-says-lack-of-rules-leave-security-gaps-artificial-intelligence-capitol-hill-white-house-washington-sam-altman",
+            "image": "https://wjla.com/resources/media2/16x9/4806/1320/0x258/90/53a6cf22-a16d-4530-806e-736d0acac20b-GettyImages22881819331.jpg",
+            "publishedAt": "2026-07-31T21:20:08Z",
+            "lang": "en",
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
                 "country": "us"
             }
         }
