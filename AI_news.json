@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 406806,
+    "totalArticles": 407163,
     "articles": [
         {
-            "id": "0819bc08f1fe16d12f796d39a25629ec",
-            "title": "Commonwealth Games 2026: England's Dimeji Shittu 'robbed' in final",
-            "description": "After commentators claim England's Dimeji Shittu was \"robbed\" in the Commonwealth Games final, is judging helped by artificial intelligence the answer?",
-            "content": "The pundits made their feelings known.\n\"Shocking. Terrible. Totally robbed,\" said former champion Richie Woodhall.\nEngland's Dimeji Shittu had to settle for silver at the Commonwealth Games on Saturday after a controversial defeat by India's Ankush P... [3442 chars]",
-            "url": "https://www.bbc.com/sport/boxing/articles/c4g42xk1l7vo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c0e8/live/3c971ec0-8de5-11f1-92c6-e748252fe919.jpg",
-            "publishedAt": "2026-08-01T21:05:12Z",
+            "id": "b5b4003a0ee805763363aabd820caafd",
+            "title": "Greggs offering new meal deal - but only if your area 'qualifies'",
+            "description": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside",
+            "content": "Greggs is launching a new discounted 'quicknic' meal deal — but only if your region scores highly enough on an expert weather formula. The bakery chain has developed an AI-assisted algorithm, drawing on two years of weather and behavioural data, to p... [2991 chars]",
+            "url": "https://www.kentlive.news/whats-on/food-drink/greggs-offering-new-meal-deal-11087328",
+            "image": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article11087327.ece/ALTERNATES/s1200/0_Exterior-of-Greggs-bakery-in-Crawley-UK.jpg",
+            "publishedAt": "2026-08-02T23:01:00Z",
             "lang": "en",
             "source": {
-                "id": "109f2b4a20da4fe1c2fd502b03c07243",
-                "name": "BBC News",
-                "url": "https://www.bbc.com",
+                "id": "bfe25a83887ff19368d58c1047525381",
+                "name": "Kentlive",
+                "url": "https://www.kentlive.news",
                 "country": "gb"
             }
         },
         {
-            "id": "83bf98c7b5069191bdcdbfb0f57b2ae6",
-            "title": "Moline man faces county's first AI CSAM case",
-            "description": "A Moline man is charged with allegedly creating child sex abuse materials using artificial intelligence.",
-            "content": "Love\n0\nFunny\n0\nWow\n0\nSad\n0\nAngry\n0\nSign up for our Crime & Courts newsletter\nGet the latest in local public safety news with this weekly email.\n* I understand and agree that registration on or use of this site constitutes agreement to its user agreem... [367 chars]",
-            "url": "https://qctimes.com/news/local/crime-courts/article_ef559f9b-8d04-4ca9-acc2-ea39d14d655b.html",
-            "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/f5/ef559f9b-8d04-4ca9-acc2-ea39d14d655b/6a6bc68fbca56.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2026-08-01T21:00:00Z",
+            "id": "6e3119b050b3c2ec92f9a400bedac849",
+            "title": "Greggs launches new deal this week but not all UK areas 'meet criteria'",
+            "description": "Greggs has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a 'Quicknic' lunch outside",
+            "content": "Greggs is launching a new discounted 'quicknic' meal deal - but only if your region achieves top marks on experts' weather formula. The bakery chain has developed an AI-powered formula combining two years of weather and behavioural data to pinpoint t... [3352 chars]",
+            "url": "https://www.express.co.uk/life-style/food/2234893/greggs-launches-new-deal-week-all-uk-areas-meet-criteria",
+            "image": "https://cdn.images.express.co.uk/img/dynamic/14/1200x630/7072484.jpg",
+            "publishedAt": "2026-08-02T23:01:00Z",
             "lang": "en",
             "source": {
-                "id": "720c8090279dd552e56c637e16f9926a",
-                "name": "Davenport Quad-City Times",
-                "url": "https://qctimes.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "f233c7c356a904b46de5dadcabad5634",
-            "title": "AI’s Electricity Demand Is Not the Real Problem. Its Inflexibility Is",
-            "description": "Flexible grid connections, workload shifting, batteries and smarter siting could make data centers valuable grid assets rather than merely another source of demand.",
-            "content": "The electricity demand created by artificial intelligence is usually presented as a simple supply problem. AI requires increasingly large data centers, those facilities consume enormous amounts of electricity, and utilities must somehow build enough ... [9227 chars]",
-            "url": "https://oilprice.com/Energy/Energy-General/AIs-Electricity-Demand-Is-Not-the-Real-Problem-Its-Inflexibility-Is.html",
-            "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-            "publishedAt": "2026-08-01T21:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
-                "name": "OilPrice",
-                "url": "https://oilprice.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "868da3bb56e6c2d4176d54764fd8e81b",
-            "title": "Reuters Science News Summary",
-            "description": "SpaceX's upcoming earnings call may focus on AI spending and Starlink profits, but investors are also inquiring about the company's future plans and potential new ventures.",
-            "content": "Following is a summary of current science news briefs.\nWill ​SpaceX paint its rocket pink? Investor ​questions go beyond Moon and Mars ‌ahead of ​first results\nSpaceX's first earnings call as a public company may be expected to focus on AI spending a... [1720 chars]",
-            "url": "https://www.devdiscourse.com/article/technology/3958483-reuters-science-news-summary",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/16_06_2026_17_24_20_1254816.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-08-01T20:57:41Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "0e97d00e3268eefa1a6240c4f0de155f",
-            "title": "Suppliers Scramble As Rare Books Destroyed To Train AI",
-            "description": "ISBNdb says their controversial books-to-AI pipeline landing page was ‘a test of market interest’ after disgust of a program straight out of Fahrenheit 451",
-            "content": "This week, heavy readers and casual posters alike were aghast at emerging reports of rare books being mulched in bulk as a sacrifice for LLMs. Word traveled that book suppliers were receiving abnormally large orders, believing that AI firms sought cl... [2562 chars]",
-            "url": "https://kotaku.com/book-database-shutters-ai-service-following-outrage-over-destroyed-rare-texts-2000721018",
-            "image": "https://kotaku.com/app/uploads/2026/08/brainiacinj2-1200x675.jpg",
-            "publishedAt": "2026-08-01T20:56:06Z",
-            "lang": "en",
-            "source": {
-                "id": "0aab1d72ae666208d1824f73c0ea4209",
-                "name": "Kotaku",
-                "url": "https://kotaku.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "3f5c8b0a734a1a2568cc5e23b9e142bf",
-            "title": "AI opens new era in cognitive studies of wild primates",
-            "description": "Scientists created an AI system that uses facial recognition and real-time touchscreen testing to automate cognitive studies of capuchin monkeys in the wild. The American Journal of Primatology published a proof-of-concept for the novel method—dubbed CapuchinAI—developed by researchers at Emory University and Georgia Institute of Technology.",
-            "content": "Scientists created an AI system that uses facial recognition and real-time touchscreen testing to automate cognitive studies of capuchin monkeys in the wild. The American Journal of Primatology published a proof-of-concept for the novel method—dubbed... [12395 chars]",
-            "url": "https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-opens-new-era-in-co.jpg",
-            "publishedAt": "2026-08-01T20:00:02Z",
-            "lang": "en",
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
+                "id": "c97ef3cad273a1993c998ca7ddcc5212",
+                "name": "Daily Express",
+                "url": "https://www.express.co.uk",
                 "country": "gb"
             }
         },
         {
-            "id": "0af82bbf936b87dd4bc4c3b4e0f6c193",
-            "title": "‘More than just objects’: Australian book sellers raise alarm over ‘horrific’ destruction of rare titles to feed AI",
-            "description": "Secondhand booksellers believe they may have been caught up in the AI supply chain that sees old books scanned then destroyed",
-            "content": "“Sometimes books tell you more than the content,” says Tim White, as he lines up carefully dust-jacketed books and pamphlets in plastic sleeves on temporary shelves in Melbourne University’s Wilson Hall.\nHe’s preparing his stall for this weekend’s Me... [5704 chars]",
-            "url": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
-            "image": "https://i.guim.co.uk/img/media/8e9145c9178f46d349d7a59d97341cc385714546/0_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=511d3f794914d7b87f30149681e4a132",
-            "publishedAt": "2026-08-01T20:00:02Z",
+            "id": "d8c14a42df9aaa9f81e9641b10145af4",
+            "title": "Greggs offering new meal deal - but only if your area 'qualifies'",
+            "description": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside",
+            "content": "Greggs is launching a new discounted 'quicknic' meal deal — but only if your region scores highly enough on an expert weather formula. The bakery chain has developed an AI-assisted algorithm, drawing on two years of weather and behavioural data, to p... [2991 chars]",
+            "url": "https://www.gloucestershirelive.co.uk/whats-on/food-drink/greggs-offering-new-meal-deal-11087328",
+            "image": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article11087327.ece/ALTERNATES/s1200/0_Exterior-of-Greggs-bakery-in-Crawley-UK.jpg",
+            "publishedAt": "2026-08-02T23:01:00Z",
             "lang": "en",
             "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
+                "id": "64d10c1ff3b17360a2d85350c6f6e3f9",
+                "name": "Gloucestershire Live",
+                "url": "https://www.gloucestershirelive.co.uk",
                 "country": "gb"
             }
         },
         {
-            "id": "c98746c72bb3dc89bee2b734a24e0ee9",
-            "title": "How to Track Your Brand’s AI Visiblity in 2026",
-            "description": "With 94% of enterprise executives ramping up AI visibility spending but a third of marketers unsure how to measure it, here's the five-layer system that separates real impact from dashboard theater.",
-            "content": "According to a recent report, 94% of 250 surveyed enterprise C-level executives plan to ramp up spending on AI visibility efforts in 2026. However, while almost all executives agree that generative engine optimization had a positive impact on their b... [7385 chars]",
-            "url": "https://www.entrepreneur.com/business-news/how-to-track-your-brands-ai-visiblity-in-2026",
-            "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/track-brand-ai-visibility-0726_g2157898234.jpg?resize=1024,683",
-            "publishedAt": "2026-08-01T20:00:00Z",
+            "id": "c504a22a4ef13f49e079adcdb37adf47",
+            "title": "Greggs offering new meal deal - but only if your area 'qualifies'",
+            "description": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside",
+            "content": "Greggs is launching a new discounted 'quicknic' meal deal — but only if your region scores highly enough on an expert weather formula. The bakery chain has developed an AI-assisted algorithm, drawing on two years of weather and behavioural data, to p... [2991 chars]",
+            "url": "https://www.somersetlive.co.uk/whats-on/food-drink/greggs-offering-new-meal-deal-11087328",
+            "image": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article11087327.ece/ALTERNATES/s1200/0_Exterior-of-Greggs-bakery-in-Crawley-UK.jpg",
+            "publishedAt": "2026-08-02T23:01:00Z",
             "lang": "en",
             "source": {
-                "id": "839b9d172147498877bab641815b0631",
-                "name": "Entrepreneur",
-                "url": "https://www.entrepreneur.com",
+                "id": "86bee80db7609c40c30b8b88a5655835",
+                "name": "Somerset Live",
+                "url": "https://www.somersetlive.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "984561d631d6f9356f9756166d68e4e5",
+            "title": "Greggs offering new meal deal - but only if your area 'qualifies'",
+            "description": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside",
+            "content": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside\nGreggs is launching a new discounted 'quickn... [3197 chars]",
+            "url": "https://www.bristolpost.co.uk/news/uk-world-news/greggs-offering-new-meal-deal-11087328",
+            "image": "https://i2-prod.bristolpost.co.uk/article11087327.ece/ALTERNATES/s1200d/0_Exterior-of-Greggs-bakery-in-Crawley-UK.jpg",
+            "publishedAt": "2026-08-02T23:01:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5c2044417247ef708f41c539b26a51d4",
+                "name": "Bristol Post",
+                "url": "https://www.bristolpost.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "02de220a4da681fb20f97d974488e233",
+            "title": "Greggs offering new meal deal - but only if your area 'qualifies'",
+            "description": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside",
+            "content": "Greggs is launching a new discounted 'quicknic' meal deal — but only if your region scores highly enough on an expert weather formula. The bakery chain has developed an AI-assisted algorithm, drawing on two years of weather and behavioural data, to p... [2991 chars]",
+            "url": "https://www.essexlive.news/whats-on/food-drink/greggs-offering-new-meal-deal-11087328",
+            "image": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article11087327.ece/ALTERNATES/s1200/0_Exterior-of-Greggs-bakery-in-Crawley-UK.jpg",
+            "publishedAt": "2026-08-02T23:01:00Z",
+            "lang": "en",
+            "source": {
+                "id": "ef101bf5da0ff8e48c95444036a4bcd7",
+                "name": "Essexlive",
+                "url": "https://www.essexlive.news",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "d7808c57e7e5807a3728e42be0a887bd",
+            "title": "Greggs offering new meal deal - but only if your area 'qualifies'",
+            "description": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside",
+            "content": "Greggs is launching a new discounted 'quicknic' meal deal — but only if your region scores highly enough on an expert weather formula. The bakery chain has developed an AI-assisted algorithm, drawing on two years of weather and behavioural data, to p... [2991 chars]",
+            "url": "https://www.plymouthherald.co.uk/whats-on/food-drink/greggs-offering-new-meal-deal-11087328",
+            "image": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article11087327.ece/ALTERNATES/s1200/0_Exterior-of-Greggs-bakery-in-Crawley-UK.jpg",
+            "publishedAt": "2026-08-02T23:01:00Z",
+            "lang": "en",
+            "source": {
+                "id": "e4c9e4e9d9550870a5c47f12f4415b7f",
+                "name": "Plymouth Live",
+                "url": "https://www.plymouthherald.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "3f5cff0ce21cb5238fb30b7f49357873",
+            "title": "AI boom fuels ‘RAMaggedon’ chip crunch, pushes up laptop and phone prices",
+            "description": "HONG KONG, Aug 3 — Print-outs of articles about the global memory chip shortage are pinned beside a price list at a Hong Kong computer shop, offering an explanation to confused...",
+            "content": "HONG KONG, Aug 3 — Print-outs of articles about the global memory chip shortage are pinned beside a price list at a Hong Kong computer shop, offering an explanation to confused customers feeling the pinch.\nPrice rises for goods such as laptops and sm... [3801 chars]",
+            "url": "https://www.malaymail.com/news/money/2026/08/03/ai-boom-fuels-ramaggedon-chip-crunch-pushes-up-laptop-and-phone-prices/229972",
+            "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/02/355186.jpg",
+            "publishedAt": "2026-08-02T23:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "cc589abcee543815a82a8b2856ebe9ed",
+                "name": "Malay Mail",
+                "url": "https://www.malaymail.com",
+                "country": "my"
+            }
+        },
+        {
+            "id": "02f5d2580b11217d19f84ffbdee5b82b",
+            "title": "Gregg Araki Found AI Useful For Editing This 'I Want Your Sex' Scene",
+            "description": "With his first movie in more than a decade, Gregg Araki found himself working in a whole new era of Hollywood to bring 'I Want Your Sex' to the big screen.",
+            "content": "With his first movie in more than a decade, Gregg Araki found himself working in a whole new era of Hollywood to bring I Want Your Sex to the big screen.\nDiscussing his new erotic comedy thriller, now playing in theaters, the co-writer and director e... [2437 chars]",
+            "url": "https://deadline.com/2026/08/gregg-araki-not-supporter-ai-useful-editing-i-want-your-sex-1237015578/",
+            "image": "https://deadline.com/wp-content/uploads/2026/08/10.jpg?w=1024",
+            "publishedAt": "2026-08-02T22:40:52Z",
+            "lang": "en",
+            "source": {
+                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
+                "name": "Deadline",
+                "url": "https://deadline.com",
                 "country": "us"
             }
         },
         {
-            "id": "6d00426c4bbb35e55a69280691f69425",
-            "title": "YouTuber Hank Green Says He Uses AI 'Too Heavily' in Apology to Fans",
-            "description": "Hank Green, one of YouTube's most prolific stars, is facing backlash for relying on AI to create his content.",
-            "content": "Hank Green, one of the internet's most steadfast and reliable content creators, said he's slowing down production after fans criticized him for using AI.\nIn addition to his personal account, Green hosts the educational YouTube channels SciShow and Cr... [3757 chars]",
-            "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
-            "image": "https://i.insider.com/6a6e0152a62e6e00bc53972b?width=1200&format=jpeg",
-            "publishedAt": "2026-08-01T19:55:38Z",
+            "id": "b344cc4148da8a6b10cabea4ec3b9328",
+            "title": "Launching a bid for AI sovereignty",
+            "description": "Thailand is advancing artificial intelligence (AI) sovereignty through domestic large language models (LLM) such as ThaiLLM, led by the Big Data Institute (BDI) and its partners.",
+            "content": "Thailand is advancing artificial intelligence (AI) sovereignty through domestic large language models (LLM) such as ThaiLLM, led by the Big Data Institute (BDI) and its partners.\nThe initiative aims to reduce reliance on foreign technology while ensu... [7398 chars]",
+            "url": "https://www.bangkokpost.com/business/general/3295694/launching-a-bid-for-ai-sovereignty",
+            "image": "https://static.bangkokpost.com/media/content/20260803/c1_3295694_260803053242_700.jpg",
+            "publishedAt": "2026-08-02T22:31:00Z",
             "lang": "en",
             "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c3a681b5291466f92e6016c38ff1716b",
-            "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-            "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-            "content": "Hank Green, a novelist, comedian, and YouTuber with 3.2 million subscribers, recently apologized to his audience for his growing reliance on AI chatbots.\nThe controversy started when, in the middle of a video posted on the educational channel Complex... [2208 chars]",
-            "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1040458588.jpg?w=1024",
-            "publishedAt": "2026-08-01T19:45:45Z",
-            "lang": "en",
-            "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
             }
         }
     ]
