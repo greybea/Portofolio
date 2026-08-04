@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 407163,
+    "totalArticles": 408006,
     "articles": [
         {
-            "id": "b5b4003a0ee805763363aabd820caafd",
-            "title": "Greggs offering new meal deal - but only if your area 'qualifies'",
-            "description": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside",
-            "content": "Greggs is launching a new discounted 'quicknic' meal deal — but only if your region scores highly enough on an expert weather formula. The bakery chain has developed an AI-assisted algorithm, drawing on two years of weather and behavioural data, to p... [2991 chars]",
-            "url": "https://www.kentlive.news/whats-on/food-drink/greggs-offering-new-meal-deal-11087328",
-            "image": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article11087327.ece/ALTERNATES/s1200/0_Exterior-of-Greggs-bakery-in-Crawley-UK.jpg",
-            "publishedAt": "2026-08-02T23:01:00Z",
+            "id": "7f263a1249439783592d1eb7cbf95b34",
+            "title": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch",
+            "description": "Cramer said Amazon CEO Andy Jassy finally explained how Amazon's massive AI spending will generate long-term returns.",
+            "content": "CNBC's Jim Cramer said on Monday that Amazon CEO Andy Jassy's earnings call changed how Wall Street views massive artificial intelligence investments.\n\"Until Jassy spoke, the market seemed highly skeptical of how these megacap tech companies were spe... [2260 chars]",
+            "url": "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/107113453-NUP_198430_00764r.jpg?v=1693609111&w=1920&h=1080",
+            "publishedAt": "2026-08-03T22:20:01Z",
             "lang": "en",
             "source": {
-                "id": "bfe25a83887ff19368d58c1047525381",
-                "name": "Kentlive",
-                "url": "https://www.kentlive.news",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "6e3119b050b3c2ec92f9a400bedac849",
-            "title": "Greggs launches new deal this week but not all UK areas 'meet criteria'",
-            "description": "Greggs has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a 'Quicknic' lunch outside",
-            "content": "Greggs is launching a new discounted 'quicknic' meal deal - but only if your region achieves top marks on experts' weather formula. The bakery chain has developed an AI-powered formula combining two years of weather and behavioural data to pinpoint t... [3352 chars]",
-            "url": "https://www.express.co.uk/life-style/food/2234893/greggs-launches-new-deal-week-all-uk-areas-meet-criteria",
-            "image": "https://cdn.images.express.co.uk/img/dynamic/14/1200x630/7072484.jpg",
-            "publishedAt": "2026-08-02T23:01:00Z",
-            "lang": "en",
-            "source": {
-                "id": "c97ef3cad273a1993c998ca7ddcc5212",
-                "name": "Daily Express",
-                "url": "https://www.express.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "d8c14a42df9aaa9f81e9641b10145af4",
-            "title": "Greggs offering new meal deal - but only if your area 'qualifies'",
-            "description": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside",
-            "content": "Greggs is launching a new discounted 'quicknic' meal deal — but only if your region scores highly enough on an expert weather formula. The bakery chain has developed an AI-assisted algorithm, drawing on two years of weather and behavioural data, to p... [2991 chars]",
-            "url": "https://www.gloucestershirelive.co.uk/whats-on/food-drink/greggs-offering-new-meal-deal-11087328",
-            "image": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article11087327.ece/ALTERNATES/s1200/0_Exterior-of-Greggs-bakery-in-Crawley-UK.jpg",
-            "publishedAt": "2026-08-02T23:01:00Z",
-            "lang": "en",
-            "source": {
-                "id": "64d10c1ff3b17360a2d85350c6f6e3f9",
-                "name": "Gloucestershire Live",
-                "url": "https://www.gloucestershirelive.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "c504a22a4ef13f49e079adcdb37adf47",
-            "title": "Greggs offering new meal deal - but only if your area 'qualifies'",
-            "description": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside",
-            "content": "Greggs is launching a new discounted 'quicknic' meal deal — but only if your region scores highly enough on an expert weather formula. The bakery chain has developed an AI-assisted algorithm, drawing on two years of weather and behavioural data, to p... [2991 chars]",
-            "url": "https://www.somersetlive.co.uk/whats-on/food-drink/greggs-offering-new-meal-deal-11087328",
-            "image": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article11087327.ece/ALTERNATES/s1200/0_Exterior-of-Greggs-bakery-in-Crawley-UK.jpg",
-            "publishedAt": "2026-08-02T23:01:00Z",
-            "lang": "en",
-            "source": {
-                "id": "86bee80db7609c40c30b8b88a5655835",
-                "name": "Somerset Live",
-                "url": "https://www.somersetlive.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "984561d631d6f9356f9756166d68e4e5",
-            "title": "Greggs offering new meal deal - but only if your area 'qualifies'",
-            "description": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside",
-            "content": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside\nGreggs is launching a new discounted 'quickn... [3197 chars]",
-            "url": "https://www.bristolpost.co.uk/news/uk-world-news/greggs-offering-new-meal-deal-11087328",
-            "image": "https://i2-prod.bristolpost.co.uk/article11087327.ece/ALTERNATES/s1200d/0_Exterior-of-Greggs-bakery-in-Crawley-UK.jpg",
-            "publishedAt": "2026-08-02T23:01:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5c2044417247ef708f41c539b26a51d4",
-                "name": "Bristol Post",
-                "url": "https://www.bristolpost.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "02de220a4da681fb20f97d974488e233",
-            "title": "Greggs offering new meal deal - but only if your area 'qualifies'",
-            "description": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside",
-            "content": "Greggs is launching a new discounted 'quicknic' meal deal — but only if your region scores highly enough on an expert weather formula. The bakery chain has developed an AI-assisted algorithm, drawing on two years of weather and behavioural data, to p... [2991 chars]",
-            "url": "https://www.essexlive.news/whats-on/food-drink/greggs-offering-new-meal-deal-11087328",
-            "image": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article11087327.ece/ALTERNATES/s1200/0_Exterior-of-Greggs-bakery-in-Crawley-UK.jpg",
-            "publishedAt": "2026-08-02T23:01:00Z",
-            "lang": "en",
-            "source": {
-                "id": "ef101bf5da0ff8e48c95444036a4bcd7",
-                "name": "Essexlive",
-                "url": "https://www.essexlive.news",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "d7808c57e7e5807a3728e42be0a887bd",
-            "title": "Greggs offering new meal deal - but only if your area 'qualifies'",
-            "description": "The bakery giant has created an AI-assisted formula combining two years of weather and behaviour analysis to identify the best days for workers to ditch their desks for a £4.75 'Quicknic' meal deal outside",
-            "content": "Greggs is launching a new discounted 'quicknic' meal deal — but only if your region scores highly enough on an expert weather formula. The bakery chain has developed an AI-assisted algorithm, drawing on two years of weather and behavioural data, to p... [2991 chars]",
-            "url": "https://www.plymouthherald.co.uk/whats-on/food-drink/greggs-offering-new-meal-deal-11087328",
-            "image": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article11087327.ece/ALTERNATES/s1200/0_Exterior-of-Greggs-bakery-in-Crawley-UK.jpg",
-            "publishedAt": "2026-08-02T23:01:00Z",
-            "lang": "en",
-            "source": {
-                "id": "e4c9e4e9d9550870a5c47f12f4415b7f",
-                "name": "Plymouth Live",
-                "url": "https://www.plymouthherald.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "3f5cff0ce21cb5238fb30b7f49357873",
-            "title": "AI boom fuels ‘RAMaggedon’ chip crunch, pushes up laptop and phone prices",
-            "description": "HONG KONG, Aug 3 — Print-outs of articles about the global memory chip shortage are pinned beside a price list at a Hong Kong computer shop, offering an explanation to confused...",
-            "content": "HONG KONG, Aug 3 — Print-outs of articles about the global memory chip shortage are pinned beside a price list at a Hong Kong computer shop, offering an explanation to confused customers feeling the pinch.\nPrice rises for goods such as laptops and sm... [3801 chars]",
-            "url": "https://www.malaymail.com/news/money/2026/08/03/ai-boom-fuels-ramaggedon-chip-crunch-pushes-up-laptop-and-phone-prices/229972",
-            "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/02/355186.jpg",
-            "publishedAt": "2026-08-02T23:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            }
-        },
-        {
-            "id": "02f5d2580b11217d19f84ffbdee5b82b",
-            "title": "Gregg Araki Found AI Useful For Editing This 'I Want Your Sex' Scene",
-            "description": "With his first movie in more than a decade, Gregg Araki found himself working in a whole new era of Hollywood to bring 'I Want Your Sex' to the big screen.",
-            "content": "With his first movie in more than a decade, Gregg Araki found himself working in a whole new era of Hollywood to bring I Want Your Sex to the big screen.\nDiscussing his new erotic comedy thriller, now playing in theaters, the co-writer and director e... [2437 chars]",
-            "url": "https://deadline.com/2026/08/gregg-araki-not-supporter-ai-useful-editing-i-want-your-sex-1237015578/",
-            "image": "https://deadline.com/wp-content/uploads/2026/08/10.jpg?w=1024",
-            "publishedAt": "2026-08-02T22:40:52Z",
-            "lang": "en",
-            "source": {
-                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
-                "name": "Deadline",
-                "url": "https://deadline.com",
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
                 "country": "us"
             }
         },
         {
-            "id": "b344cc4148da8a6b10cabea4ec3b9328",
-            "title": "Launching a bid for AI sovereignty",
-            "description": "Thailand is advancing artificial intelligence (AI) sovereignty through domestic large language models (LLM) such as ThaiLLM, led by the Big Data Institute (BDI) and its partners.",
-            "content": "Thailand is advancing artificial intelligence (AI) sovereignty through domestic large language models (LLM) such as ThaiLLM, led by the Big Data Institute (BDI) and its partners.\nThe initiative aims to reduce reliance on foreign technology while ensu... [7398 chars]",
-            "url": "https://www.bangkokpost.com/business/general/3295694/launching-a-bid-for-ai-sovereignty",
-            "image": "https://static.bangkokpost.com/media/content/20260803/c1_3295694_260803053242_700.jpg",
-            "publishedAt": "2026-08-02T22:31:00Z",
+            "id": "fcb4110f8538b96b039d9bee617670ef",
+            "title": "Anthropic pays AI’s biggest salaries. Its CEO just discovered people might take them for the money.",
+            "description": "Elite AI researchers keep jumping between labs despite huge pay. Anthropic’s CEO fears people join for money not mission, though his lab pays the most.",
+            "content": "The most valuable workers in technology cannot be kept, whatever the price. That is the uncomfortable admission running through the AI industry this week, as elite researchers keep hopping between labs that have offered them almost everything money c... [2747 chars]",
+            "url": "https://thenextweb.com/news/ai-talent-wars-loyalty-money-mission-anthropic",
+            "image": "https://media.thenextweb.com/2026/05/anthropic-cuts-unauthorized-platform-list-965-billion-valuation.jpg",
+            "publishedAt": "2026-08-03T22:15:27Z",
             "lang": "en",
             "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "cbf001bfea13861936e92a11f4ccc9e4",
+            "title": "AI models atom movement to predict solid-state reaction pathways, including impurities, in minutes",
+            "description": "A research team at the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) has successfully demonstrated an AI modeling approach that accurately and rapidly predicts how reactions between solid materials unfold over time. It is the first predictive model that accounts for how atoms travel through materials during solid-state reactions. Importantly, its predictions provide practical insights into the best recipes for making advanced materials.",
+            "content": "A research team at the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) has successfully demonstrated an AI modeling approach that accurately and rapidly predicts how reactions between solid materials unfold over time. It i... [5270 chars]",
+            "url": "https://phys.org/news/2026-08-ai-atom-movement-solid-state.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-ai-modeling-approa.jpg",
+            "publishedAt": "2026-08-03T22:00:06Z",
+            "lang": "en",
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "d3b65b4ea73f9f59f976f5ce8653e6ae",
+            "title": "Quote of the day by filmmaker James Cameron on AI: 'All of human art and human experience put into a blender' — dismissing the rise of AI in creative industries",
+            "description": "Although AI is increasingly being incorporated into the production process, not everyone is on the same page",
+            "content": "The rise of generative AI has undoubtedly lowered the barrier to entry for creating film, with individuals as well as massive production companies leveraging the technology in different ways. But many, including Academy Award-winning filmmaker James ... [2442 chars]",
+            "url": "https://www.techradar.com/pro/quote-of-the-day-by-filmmaker-james-cameron-on-ai-all-of-human-art-and-human-experience-put-into-a-blender-dismissing-the-rise-of-ai-in-creative-industries",
+            "image": "https://cdn.mos.cms.futurecdn.net/nHAYvf5jFRP9hSFiWY2zLU-1024-80.jpg",
+            "publishedAt": "2026-08-03T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "c344dc5e8f5a990405351d15ffdce957",
+            "title": "I'm not convinced that Stuart Fails to Save the Universe titles are 'AI slop' — in fact HBO Max creators have teased that there really is a hidden message in the changes",
+            "description": "Or are they messing with me? Undecided",
+            "content": "Even with episode 2 of The Big Bang Theory spinoff bringing back Penny (Kaley Cuoco) and film and TV's Christine Baranski in cameo roles, Stuart Fails to Save the Universe has had a rough week of press.\nWith the title card for the new HBO Max show up... [1871 chars]",
+            "url": "https://www.techradar.com/streaming/hbo-max/stuart-fails-to-save-the-universe-title-cards",
+            "image": "https://cdn.mos.cms.futurecdn.net/uDDjZX6fYJrBya74ruZM8J-1920-80.jpg",
+            "publishedAt": "2026-08-03T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "1feaa535a6929a267adf1290ec34564f",
+            "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing",
+            "description": "The White House has invited Meta, Anthropic, OpenAI, and Google to discuss voluntary government safety testing for advanced US AI models amid concerns over potential cyberattack risks.",
+            "content": "Meta, Anthropic, OpenAI and Google have been invited to meet White House officials on Tuesday to discuss voluntary government safety testing for the most advanced U.S. AI models, according to three sources familiar with the matter and ‌news reports. ... [3075 chars]",
+            "url": "https://www.devdiscourse.com/article/technology/3959121-meta-anthropic-google-openai-to-meet-trump-officials-about-ai-safety-testing",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_08_2026_16_27_17_5480699.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-08-03T21:58:05Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "65aabde6ba6a9d7b6d4cc274dd9c1dfe",
+            "title": "Big Tech's Anthropic and OpenAI stakes distort corporate earnings",
+            "description": "If you were to strip out Big Tech's investment gains from private AI companies, the earnings story is a lot less bullish.",
+            "content": "Tech companies' venture capital portfolios are making corporate profits look a lot stronger than they really are.\nMicrosoft , Amazon and Alphabet booked sizable investment gains in the most recent quarter thanks to stakes in Anthropic and OpenAI, and... [4282 chars]",
+            "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+            "publishedAt": "2026-08-03T21:53:42Z",
+            "lang": "en",
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0ec6afabd66d85a7afb3c5bc41809da0",
+            "title": "Why AI Can’t Replicate The Experienced Executive’s Gut Instinct",
+            "description": "High quality decision making comes from years of undocumented, unanalyzed, unspoken experiences that AI cannot replicate.",
+            "content": "On a mid-sized hedge fund’s trading floor in London, during the most volatile stretch of the European sovereign debt crisis, 18 high-frequency traders worked with identical access to capital, information and news feeds. Some of them would go on to ea... [5655 chars]",
+            "url": "https://www.forbes.com/sites/juliettehan/2026/08/03/why-ai-cant-replicate-the-experienced-executives-gut-instinct/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a710b77e836702d68461b38/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-08-03T21:52:01Z",
+            "lang": "en",
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "20bc8cc76053679ee73d1691a319e858",
+            "title": "OpenAI CEO goes viral for more strange ChatGPT parenting advice",
+            "description": "It's not the first time Sam Altman has caught backlash for making comments on artificial intelligence and parenting.",
+            "content": "Over the weekend, OpenAI CEO Sam Altman caught flak online for suggesting a new use for ChatGPT: getting to know your kids.\nIn a post on X on Friday, Altman wrote that he heard of a new “cool use case” where users explain their kids' interests to Cha... [2204 chars]",
+            "url": "https://www.sfgate.com/tech/article/chatgpt-parenting-advice-22372408.php",
+            "image": "https://s.hdnux.com/photos/01/66/77/05/31191415/3/rawImage.jpg",
+            "publishedAt": "2026-08-03T21:47:39Z",
+            "lang": "en",
+            "source": {
+                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
+                "name": "SFGATE",
+                "url": "https://www.sfgate.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "d6e3f335d09a085219e7f1b93e6e989d",
+            "title": "OpenAI CEO goes viral for strange ChatGPT parenting advice",
+            "description": "It's not the first time Sam Altman has caught backlash for making comments on artificial intelligence and parenting.",
+            "content": "Over the weekend, OpenAI CEO Sam Altman caught flak online for suggesting a new use for ChatGPT: getting to know your kids.\nIn a post on X on Friday, Altman wrote that he heard of a new “cool use case” where users explain their kids' interests to Cha... [2204 chars]",
+            "url": "https://www.sfgate.com/tech/article/sam-altman-ai-parenting-22372408.php",
+            "image": "https://s.hdnux.com/photos/01/66/77/05/31191415/3/rawImage.jpg",
+            "publishedAt": "2026-08-03T21:47:39Z",
+            "lang": "en",
+            "source": {
+                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
+                "name": "SFGATE",
+                "url": "https://www.sfgate.com",
+                "country": "us"
             }
         }
     ]
