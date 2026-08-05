@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 408006,
+    "totalArticles": 408954,
     "articles": [
         {
-            "id": "7f263a1249439783592d1eb7cbf95b34",
-            "title": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch",
-            "description": "Cramer said Amazon CEO Andy Jassy finally explained how Amazon's massive AI spending will generate long-term returns.",
-            "content": "CNBC's Jim Cramer said on Monday that Amazon CEO Andy Jassy's earnings call changed how Wall Street views massive artificial intelligence investments.\n\"Until Jassy spoke, the market seemed highly skeptical of how these megacap tech companies were spe... [2260 chars]",
-            "url": "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/107113453-NUP_198430_00764r.jpg?v=1693609111&w=1920&h=1080",
-            "publishedAt": "2026-08-03T22:20:01Z",
+            "id": "5b76c8d0397813f6e0cbedf817f1c769",
+            "title": "Hugging Face CEO Says China Leads AI Race With Open",
+            "description": "Hugging Face CEO Clément Delangue said Monday that China is winning the artificial intelligence race with open-weight models and could catch up to U.S. frontier labs by the end of 2026 or in 2027, according to CNBC. Open-weight models are AI systems whose trained parameters are released publicly, allowing outside developers to modify and deploy […]",
+            "content": "Hugging Face CEO Clément Delangue said Monday that China is winning the artificial intelligence race with open-weight models and could catch up to U.S. frontier labs by the end of 2026 or in 2027, according to CNBC. Open-weight models are AI systems ... [5074 chars]",
+            "url": "https://www.naturalnews.com/2026-08-04-hugging-face-ceo-china-leads-ai-race.html",
+            "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/hugging-face-clment-delangue-china-ai-race-3158-original.jpg",
+            "publishedAt": "2026-08-04T22:17:13Z",
             "lang": "en",
             "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
                 "country": "us"
             }
         },
         {
-            "id": "fcb4110f8538b96b039d9bee617670ef",
-            "title": "Anthropic pays AI’s biggest salaries. Its CEO just discovered people might take them for the money.",
-            "description": "Elite AI researchers keep jumping between labs despite huge pay. Anthropic’s CEO fears people join for money not mission, though his lab pays the most.",
-            "content": "The most valuable workers in technology cannot be kept, whatever the price. That is the uncomfortable admission running through the AI industry this week, as elite researchers keep hopping between labs that have offered them almost everything money c... [2747 chars]",
-            "url": "https://thenextweb.com/news/ai-talent-wars-loyalty-money-mission-anthropic",
-            "image": "https://media.thenextweb.com/2026/05/anthropic-cuts-unauthorized-platform-list-965-billion-valuation.jpg",
-            "publishedAt": "2026-08-03T22:15:27Z",
+            "id": "5d01900c0439e490cbc9a09d26350c0a",
+            "title": "White House Readies A.I. Framework to Review Security Risks",
+            "description": "The voluntary review process will cover closed-source artificial intelligence models, but exclude those that publish the underlying code.",
+            "content": "In a meeting on Tuesday with top artificial intelligence companies, White House officials said the federal government planned to review only certain types of artificial intelligence models for potential security risks and not others, according to fou... [1939 chars]",
+            "url": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
+            "image": "https://static01.nyt.com/images/2026/08/04/multimedia/04biz-ai-trump-vbcg/04biz-ai-trump-vbcg-facebookJumbo.jpg",
+            "publishedAt": "2026-08-04T22:17:11Z",
             "lang": "en",
             "source": {
-                "id": "11c2fbf226e7334e9f93bb78243a79cc",
-                "name": "TNW",
-                "url": "https://thenextweb.com",
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
                 "country": "us"
             }
         },
         {
-            "id": "cbf001bfea13861936e92a11f4ccc9e4",
-            "title": "AI models atom movement to predict solid-state reaction pathways, including impurities, in minutes",
-            "description": "A research team at the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) has successfully demonstrated an AI modeling approach that accurately and rapidly predicts how reactions between solid materials unfold over time. It is the first predictive model that accounts for how atoms travel through materials during solid-state reactions. Importantly, its predictions provide practical insights into the best recipes for making advanced materials.",
-            "content": "A research team at the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) has successfully demonstrated an AI modeling approach that accurately and rapidly predicts how reactions between solid materials unfold over time. It i... [5270 chars]",
-            "url": "https://phys.org/news/2026-08-ai-atom-movement-solid-state.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-ai-modeling-approa.jpg",
-            "publishedAt": "2026-08-03T22:00:06Z",
+            "id": "0c36e4c5d7d8e5b50cbb824f0d23786f",
+            "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude-The Internet Bugs Back",
+            "description": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
+            "content": "Nicholas Charriere thought he had a heartwarming story. His daughter was spending her first night ever sharing a room with someone else, her toddler cousin. The two of them talked for over an hour in what he described as \"a very nonsensical toddler d... [3713 chars]",
+            "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
+            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/05/Screen-Shot-2020-05-07-at-10.11.20-PM-gID_4.png",
+            "publishedAt": "2026-08-04T22:16:03Z",
             "lang": "en",
             "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
+                "id": "6956007add5fc13a6721202ec906b1c4",
+                "name": "Decrypt",
+                "url": "https://decrypt.co",
+                "country": "us"
+            }
+        },
+        {
+            "id": "b3fffe7c88ded0183e472f496c906b66",
+            "title": "SpaceX taps NVIDIA for 1M-satellite AI plan",
+            "description": "SpaceX taps NVIDIA’s Vera Rubin platform for its Starmind AI satellite network as it seeks FCC approval for up to one million satellites.",
+            "content": "SpaceX has expanded its partnership with NVIDIA to power Starmind, a proposed network of orbital data centers designed to process artificial intelligence workloads in space.\nSpaceX adds NVIDIA chips to Starmind network\nSpaceX plans to equip its Starm... [3792 chars]",
+            "url": "https://crypto.news/spacex-taps-nvidia-for-1m-dollars-satellite-ai-plan/",
+            "image": "https://media.crypto.news/2026/06/Elon-Musk1.webp",
+            "publishedAt": "2026-08-04T22:14:07Z",
+            "lang": "en",
+            "source": {
+                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+                "name": "Crypto News",
+                "url": "https://crypto.news",
+                "country": "lt"
+            }
+        },
+        {
+            "id": "2669c0081898c41a2af3ec30f7b82c6b",
+            "title": "Agora, Inc. to Report Second Quarter 2026 Financial Results on August 13, 2026",
+            "description": "SANTA CLARA, Calif., Aug. 04, 2026 (GLOBE NEWSWIRE) -- Agora, Inc. (NASDAQ: API), a pioneer and leader in conversational AI and real-time engagement technology, will report its second quarter 2026 financial results after the close of U.S. markets on August 13, 2026. Agora, Inc. will host a conference call to discuss the financial results at 6 p.m. Pacific Time / 9 p.m. Eastern Time on the same day. Details for the conference call are as follows:",
+            "content": "SANTA CLARA, Calif., Aug. 04, 2026 (GLOBE NEWSWIRE) -- Agora, Inc. (NASDAQ: API), a pioneer and leader in conversational AI and real-time engagement technology, will report its second quarter 2026 financial results after the close of U.S. markets on ... [1587 chars]",
+            "url": "https://www.manilatimes.net/2026/08/05/tmt-newswire/globenewswire/agora-inc-to-report-second-quarter-2026-financial-results-on-august-13-2026/2398547",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/05/1164124.png",
+            "publishedAt": "2026-08-04T22:12:08Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "7625ca3c8e9dc120f9226f14a783a820",
+            "title": "Kanye West’s Vultures II and Bully Used AI, New Lawsuit Alleges",
+            "description": "An anonymous producer is seeking compensation for what he claims was unpaid and uncredited work on both albums",
+            "content": "When Kanye West released Vultures 2, his second collaborative LP with Ty Dolla $ign, in 2024, he quickly drew accusations of using AI to deepfake his own voice. Now, a lawsuit filed by a producer who claims to have worked on the album appears to corr... [1658 chars]",
+            "url": "https://pitchfork.com/story/kanye-wests-vultures-ii-and-bully-used-ai-new-lawsuit-alleges/",
+            "image": "https://media.pitchfork.com/photos/6a7262f7f2099ddd9073c842/16:9/w_1280,c_limit/Kanye-West.jpeg",
+            "publishedAt": "2026-08-04T22:12:04Z",
+            "lang": "en",
+            "source": {
+                "id": "235b6031e7700aa9826bbc6211ce6248",
+                "name": "Pitchfork",
+                "url": "https://pitchfork.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "e6a1a1c0b9a2bbe1db54e87643814b33",
+            "title": "White House Completes New AI Framework. Its Rules Are Still Not Public",
+            "description": "The framework stems from Trump's June 2 executive order, which directed federal agencies to create a voluntary process allowing AI developers to determine whether models qualify as \"covered frontier",
+            "content": "The White House has completed a long-awaited voluntary framework for evaluating the nation's most advanced artificial intelligence models, meeting a deadline established by President Donald Trump's June executive order.\nHowever, the administration is... [2583 chars]",
+            "url": "https://www.ibtimes.com/white-house-completes-new-ai-framework-its-rules-are-still-not-public-3806074",
+            "image": "https://d.ibtimes.com/en/full/4649449/ai-costs.jpg",
+            "publishedAt": "2026-08-04T22:11:01Z",
+            "lang": "en",
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "2c09dfb97fc0bb51257e30e873dd59c9",
+            "title": "Amazon loses ban on Perplexity's AI shopping tools",
+            "description": "A US court has lifted an injunction that banned Perplexity's shopping browser Comet and its associated AI agent.",
+            "content": "A US appeals court has overturned a ruling that had temporarily barred Perplexity from using its AI-powered agentic shopping tools on Amazon's platform.\nIn a novel legal dispute, the San Francisco-based 9th US Circuit Court of Appeals determined that... [2011 chars]",
+            "url": "https://www.perthnow.com.au/news/politics/amazon-loses-ban-on-perplexitys-ai-shopping-tools-c-22678013",
+            "image": "https://images.perthnow.com.au/publication/C-22678013/60d0e6f5f6d08515453a77ce0aaeeaeb4223003b-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-08-04T22:10:33Z",
+            "lang": "en",
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "abe7a7a1cb927b0286f5f26033ca31f1",
+            "title": "Everything Apple Is Expected to Announce in September",
+            "description": "Apple is going to announce at least five new devices next month at its annual iPhone-centric event, though it's possible we'll also get devices that were waiting on Siri AI. Here's what's coming. iPhone 18 Pro Rumors suggest the iPhone 18 Pro is going to look a lot like the iPhone 17 Pro, but with a smaller Dynamic Island. It's getting a new Wide camera with a variable aperture for more control over lighting and background blur, plus a faster A20 Pro chip.",
+            "content": "Apple is going to announce at least five new devices next month at its annual iPhone-centric event, though it's possible we'll also get devices that were waiting on Siri AI. Here's what's coming.\niPhone 18 Pro\nRumors suggest the iPhone 18 Pro is goin... [4617 chars]",
+            "url": "https://www.macrumors.com/2026/08/04/apple-september-2026-announcements/",
+            "image": "https://images.macrumors.com/t/191Xoz19WjC7B5g2L8ho_lSPnfM=/2372x/article-new/2026/08/Everything-Apple-Is-Expected-to-Announce-in-September-Feature.jpg",
+            "publishedAt": "2026-08-04T22:10:01Z",
+            "lang": "en",
+            "source": {
+                "id": "10216cb8fabd0accd5eb967c97fc37ab",
+                "name": "MacRumors",
+                "url": "https://www.macrumors.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "2dd90f6f539904a49b87c8558c448276",
+            "title": "How AI is changing jobs in the Philippines' outsourcing industry",
+            "description": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
+            "content": "'I feel like I dug my own grave': The workers caught in the AI transition\nFor 15 years, single mother Lisa made a living from content writing.\nShe began writing straight out of college, freelanced for years and eventually followed a path taken by man... [7640 chars]",
+            "url": "https://www.bbc.com/news/articles/cgr7nxve05go",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d916/live/b72ddec0-8648-11f1-a268-d919c0699520.jpg",
+            "publishedAt": "2026-08-04T22:10:00Z",
+            "lang": "en",
+            "source": {
+                "id": "109f2b4a20da4fe1c2fd502b03c07243",
+                "name": "BBC News",
+                "url": "https://www.bbc.com",
                 "country": "gb"
-            }
-        },
-        {
-            "id": "d3b65b4ea73f9f59f976f5ce8653e6ae",
-            "title": "Quote of the day by filmmaker James Cameron on AI: 'All of human art and human experience put into a blender' — dismissing the rise of AI in creative industries",
-            "description": "Although AI is increasingly being incorporated into the production process, not everyone is on the same page",
-            "content": "The rise of generative AI has undoubtedly lowered the barrier to entry for creating film, with individuals as well as massive production companies leveraging the technology in different ways. But many, including Academy Award-winning filmmaker James ... [2442 chars]",
-            "url": "https://www.techradar.com/pro/quote-of-the-day-by-filmmaker-james-cameron-on-ai-all-of-human-art-and-human-experience-put-into-a-blender-dismissing-the-rise-of-ai-in-creative-industries",
-            "image": "https://cdn.mos.cms.futurecdn.net/nHAYvf5jFRP9hSFiWY2zLU-1024-80.jpg",
-            "publishedAt": "2026-08-03T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "c344dc5e8f5a990405351d15ffdce957",
-            "title": "I'm not convinced that Stuart Fails to Save the Universe titles are 'AI slop' — in fact HBO Max creators have teased that there really is a hidden message in the changes",
-            "description": "Or are they messing with me? Undecided",
-            "content": "Even with episode 2 of The Big Bang Theory spinoff bringing back Penny (Kaley Cuoco) and film and TV's Christine Baranski in cameo roles, Stuart Fails to Save the Universe has had a rough week of press.\nWith the title card for the new HBO Max show up... [1871 chars]",
-            "url": "https://www.techradar.com/streaming/hbo-max/stuart-fails-to-save-the-universe-title-cards",
-            "image": "https://cdn.mos.cms.futurecdn.net/uDDjZX6fYJrBya74ruZM8J-1920-80.jpg",
-            "publishedAt": "2026-08-03T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "1feaa535a6929a267adf1290ec34564f",
-            "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing",
-            "description": "The White House has invited Meta, Anthropic, OpenAI, and Google to discuss voluntary government safety testing for advanced US AI models amid concerns over potential cyberattack risks.",
-            "content": "Meta, Anthropic, OpenAI and Google have been invited to meet White House officials on Tuesday to discuss voluntary government safety testing for the most advanced U.S. AI models, according to three sources familiar with the matter and ‌news reports. ... [3075 chars]",
-            "url": "https://www.devdiscourse.com/article/technology/3959121-meta-anthropic-google-openai-to-meet-trump-officials-about-ai-safety-testing",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_08_2026_16_27_17_5480699.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-08-03T21:58:05Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "65aabde6ba6a9d7b6d4cc274dd9c1dfe",
-            "title": "Big Tech's Anthropic and OpenAI stakes distort corporate earnings",
-            "description": "If you were to strip out Big Tech's investment gains from private AI companies, the earnings story is a lot less bullish.",
-            "content": "Tech companies' venture capital portfolios are making corporate profits look a lot stronger than they really are.\nMicrosoft , Amazon and Alphabet booked sizable investment gains in the most recent quarter thanks to stakes in Anthropic and OpenAI, and... [4282 chars]",
-            "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
-            "publishedAt": "2026-08-03T21:53:42Z",
-            "lang": "en",
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "0ec6afabd66d85a7afb3c5bc41809da0",
-            "title": "Why AI Can’t Replicate The Experienced Executive’s Gut Instinct",
-            "description": "High quality decision making comes from years of undocumented, unanalyzed, unspoken experiences that AI cannot replicate.",
-            "content": "On a mid-sized hedge fund’s trading floor in London, during the most volatile stretch of the European sovereign debt crisis, 18 high-frequency traders worked with identical access to capital, information and news feeds. Some of them would go on to ea... [5655 chars]",
-            "url": "https://www.forbes.com/sites/juliettehan/2026/08/03/why-ai-cant-replicate-the-experienced-executives-gut-instinct/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a710b77e836702d68461b38/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-08-03T21:52:01Z",
-            "lang": "en",
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "20bc8cc76053679ee73d1691a319e858",
-            "title": "OpenAI CEO goes viral for more strange ChatGPT parenting advice",
-            "description": "It's not the first time Sam Altman has caught backlash for making comments on artificial intelligence and parenting.",
-            "content": "Over the weekend, OpenAI CEO Sam Altman caught flak online for suggesting a new use for ChatGPT: getting to know your kids.\nIn a post on X on Friday, Altman wrote that he heard of a new “cool use case” where users explain their kids' interests to Cha... [2204 chars]",
-            "url": "https://www.sfgate.com/tech/article/chatgpt-parenting-advice-22372408.php",
-            "image": "https://s.hdnux.com/photos/01/66/77/05/31191415/3/rawImage.jpg",
-            "publishedAt": "2026-08-03T21:47:39Z",
-            "lang": "en",
-            "source": {
-                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-                "name": "SFGATE",
-                "url": "https://www.sfgate.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "d6e3f335d09a085219e7f1b93e6e989d",
-            "title": "OpenAI CEO goes viral for strange ChatGPT parenting advice",
-            "description": "It's not the first time Sam Altman has caught backlash for making comments on artificial intelligence and parenting.",
-            "content": "Over the weekend, OpenAI CEO Sam Altman caught flak online for suggesting a new use for ChatGPT: getting to know your kids.\nIn a post on X on Friday, Altman wrote that he heard of a new “cool use case” where users explain their kids' interests to Cha... [2204 chars]",
-            "url": "https://www.sfgate.com/tech/article/sam-altman-ai-parenting-22372408.php",
-            "image": "https://s.hdnux.com/photos/01/66/77/05/31191415/3/rawImage.jpg",
-            "publishedAt": "2026-08-03T21:47:39Z",
-            "lang": "en",
-            "source": {
-                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-                "name": "SFGATE",
-                "url": "https://www.sfgate.com",
-                "country": "us"
             }
         }
     ]
