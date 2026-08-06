@@ -4,16 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 408954,
+    "totalArticles": 409968,
     "articles": [
         {
-            "id": "5b76c8d0397813f6e0cbedf817f1c769",
-            "title": "Hugging Face CEO Says China Leads AI Race With Open",
-            "description": "Hugging Face CEO Clément Delangue said Monday that China is winning the artificial intelligence race with open-weight models and could catch up to U.S. frontier labs by the end of 2026 or in 2027, according to CNBC. Open-weight models are AI systems whose trained parameters are released publicly, allowing outside developers to modify and deploy […]",
-            "content": "Hugging Face CEO Clément Delangue said Monday that China is winning the artificial intelligence race with open-weight models and could catch up to U.S. frontier labs by the end of 2026 or in 2027, according to CNBC. Open-weight models are AI systems ... [5074 chars]",
-            "url": "https://www.naturalnews.com/2026-08-04-hugging-face-ceo-china-leads-ai-race.html",
-            "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/hugging-face-clment-delangue-china-ai-race-3158-original.jpg",
-            "publishedAt": "2026-08-04T22:17:13Z",
+            "id": "9de69be1b4f8f3564689a3a6bd83cff9",
+            "title": "AI Linked to 55% of Cybercrime Cases in Africa, Interpol Report Says",
+            "description": "Interpol said Monday that artificial intelligence featured in 55% of cybercrime cases examined across Africa in 2025, according to the African Cyberthreat Assessment Report 2026. The report, based on intelligence from law enforcement agencies in 36 African countries, found that reported financial losses linked to cybercrime more than doubled from $192 million in 2024 to […]",
+            "content": "Interpol said Monday that artificial intelligence featured in 55% of cybercrime cases examined across Africa in 2025, according to the African Cyberthreat Assessment Report 2026. The report, based on intelligence from law enforcement agencies in 36 A... [4428 chars]",
+            "url": "https://www.naturalnews.com/2026-08-05-ai-linked-cybercrime-cases-africa-interpol-report.html",
+            "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/artificial-intelligence-cybercrime-africa-interpol-report-3190-original.jpg",
+            "publishedAt": "2026-08-05T22:17:44Z",
             "lang": "en",
             "source": {
                 "id": "188e9ebf53d05fc7ba360240a0b28154",
@@ -23,109 +23,45 @@
             }
         },
         {
-            "id": "5d01900c0439e490cbc9a09d26350c0a",
-            "title": "White House Readies A.I. Framework to Review Security Risks",
-            "description": "The voluntary review process will cover closed-source artificial intelligence models, but exclude those that publish the underlying code.",
-            "content": "In a meeting on Tuesday with top artificial intelligence companies, White House officials said the federal government planned to review only certain types of artificial intelligence models for potential security risks and not others, according to fou... [1939 chars]",
-            "url": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
-            "image": "https://static01.nyt.com/images/2026/08/04/multimedia/04biz-ai-trump-vbcg/04biz-ai-trump-vbcg-facebookJumbo.jpg",
-            "publishedAt": "2026-08-04T22:17:11Z",
+            "id": "c220dee2a4656bee34eec89e737c4040",
+            "title": "Hedge Funds Take Big Hit in July After Bruising AI Selloff",
+            "description": "A spate of well-known hedge funds reported steep losses in July as AI shares tumbled, most notably forcing the highly leveraged Situational Awareness to sell most of its stock portfolio at a deep discount to Ken Griffin’s Citadel.",
+            "content": "(Bloomberg) -- A spate of well-known hedge funds reported steep losses in July as AI shares tumbled, most notably forcing the highly leveraged Situational Awareness to sell most of its stock portfolio at a deep discount to Ken Griffin’s Citadel.\nSitu... [3296 chars]",
+            "url": "https://www.livemint.com/market/hedge-funds-take-big-hit-in-july-after-bruising-ai-selloff-11785967923926.html",
+            "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+            "publishedAt": "2026-08-05T22:12:03Z",
             "lang": "en",
             "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
             }
         },
         {
-            "id": "0c36e4c5d7d8e5b50cbb824f0d23786f",
-            "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude-The Internet Bugs Back",
-            "description": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
-            "content": "Nicholas Charriere thought he had a heartwarming story. His daughter was spending her first night ever sharing a room with someone else, her toddler cousin. The two of them talked for over an hour in what he described as \"a very nonsensical toddler d... [3713 chars]",
-            "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
-            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/05/Screen-Shot-2020-05-07-at-10.11.20-PM-gID_4.png",
-            "publishedAt": "2026-08-04T22:16:03Z",
+            "id": "822778f37120b76884f2cd42a6eace1b",
+            "title": "Silicon Motion Unveils MonTitan SSD Reference Design Kit for AI Infrastructure at FMS 2026",
+            "description": "06.08.2026 - Silicon Motion Technology Corporation (NasdaqGS: SIMO), a global leader in designing and marketing NAND flash controllers for solid-state storage devices, today unveiled its new MonTitan SSD Reference Design Kit (RDK), featuring the company’s ...",
+            "content": "Silicon Motion Technology Corporation (NasdaqGS: SIMO), a global leader in designing and marketing NAND flash controllers for solid-state storage devices, today unveiled its new MonTitan SSD Reference Design Kit (RDK), featuring the company’s next-ge... [3507 chars]",
+            "url": "https://www.wallstreet-online.de/nachricht/21204396-silicon-motion-unveils-montitan-ssd-reference-design-kit-for-ai-infrastructure-at-fms-2026",
+            "image": "https://assets.wallstreet-online.de/_media/3129/unternehmen/branchen/halbleiter/size_645/halbleiter-adobe-stock.jpg",
+            "publishedAt": "2026-08-05T22:10:03Z",
             "lang": "en",
             "source": {
-                "id": "6956007add5fc13a6721202ec906b1c4",
-                "name": "Decrypt",
-                "url": "https://decrypt.co",
-                "country": "us"
+                "id": "4ddba5324f2e0216fa6458240fdb0f97",
+                "name": "Wallstreet Online",
+                "url": "https://www.wallstreet-online.de",
+                "country": "de"
             }
         },
         {
-            "id": "b3fffe7c88ded0183e472f496c906b66",
-            "title": "SpaceX taps NVIDIA for 1M-satellite AI plan",
-            "description": "SpaceX taps NVIDIA’s Vera Rubin platform for its Starmind AI satellite network as it seeks FCC approval for up to one million satellites.",
-            "content": "SpaceX has expanded its partnership with NVIDIA to power Starmind, a proposed network of orbital data centers designed to process artificial intelligence workloads in space.\nSpaceX adds NVIDIA chips to Starmind network\nSpaceX plans to equip its Starm... [3792 chars]",
-            "url": "https://crypto.news/spacex-taps-nvidia-for-1m-dollars-satellite-ai-plan/",
-            "image": "https://media.crypto.news/2026/06/Elon-Musk1.webp",
-            "publishedAt": "2026-08-04T22:14:07Z",
-            "lang": "en",
-            "source": {
-                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
-                "name": "Crypto News",
-                "url": "https://crypto.news",
-                "country": "lt"
-            }
-        },
-        {
-            "id": "2669c0081898c41a2af3ec30f7b82c6b",
-            "title": "Agora, Inc. to Report Second Quarter 2026 Financial Results on August 13, 2026",
-            "description": "SANTA CLARA, Calif., Aug. 04, 2026 (GLOBE NEWSWIRE) -- Agora, Inc. (NASDAQ: API), a pioneer and leader in conversational AI and real-time engagement technology, will report its second quarter 2026 financial results after the close of U.S. markets on August 13, 2026. Agora, Inc. will host a conference call to discuss the financial results at 6 p.m. Pacific Time / 9 p.m. Eastern Time on the same day. Details for the conference call are as follows:",
-            "content": "SANTA CLARA, Calif., Aug. 04, 2026 (GLOBE NEWSWIRE) -- Agora, Inc. (NASDAQ: API), a pioneer and leader in conversational AI and real-time engagement technology, will report its second quarter 2026 financial results after the close of U.S. markets on ... [1587 chars]",
-            "url": "https://www.manilatimes.net/2026/08/05/tmt-newswire/globenewswire/agora-inc-to-report-second-quarter-2026-financial-results-on-august-13-2026/2398547",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/05/1164124.png",
-            "publishedAt": "2026-08-04T22:12:08Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "7625ca3c8e9dc120f9226f14a783a820",
-            "title": "Kanye West’s Vultures II and Bully Used AI, New Lawsuit Alleges",
-            "description": "An anonymous producer is seeking compensation for what he claims was unpaid and uncredited work on both albums",
-            "content": "When Kanye West released Vultures 2, his second collaborative LP with Ty Dolla $ign, in 2024, he quickly drew accusations of using AI to deepfake his own voice. Now, a lawsuit filed by a producer who claims to have worked on the album appears to corr... [1658 chars]",
-            "url": "https://pitchfork.com/story/kanye-wests-vultures-ii-and-bully-used-ai-new-lawsuit-alleges/",
-            "image": "https://media.pitchfork.com/photos/6a7262f7f2099ddd9073c842/16:9/w_1280,c_limit/Kanye-West.jpeg",
-            "publishedAt": "2026-08-04T22:12:04Z",
-            "lang": "en",
-            "source": {
-                "id": "235b6031e7700aa9826bbc6211ce6248",
-                "name": "Pitchfork",
-                "url": "https://pitchfork.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e6a1a1c0b9a2bbe1db54e87643814b33",
-            "title": "White House Completes New AI Framework. Its Rules Are Still Not Public",
-            "description": "The framework stems from Trump's June 2 executive order, which directed federal agencies to create a voluntary process allowing AI developers to determine whether models qualify as \"covered frontier",
-            "content": "The White House has completed a long-awaited voluntary framework for evaluating the nation's most advanced artificial intelligence models, meeting a deadline established by President Donald Trump's June executive order.\nHowever, the administration is... [2583 chars]",
-            "url": "https://www.ibtimes.com/white-house-completes-new-ai-framework-its-rules-are-still-not-public-3806074",
-            "image": "https://d.ibtimes.com/en/full/4649449/ai-costs.jpg",
-            "publishedAt": "2026-08-04T22:11:01Z",
-            "lang": "en",
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "2c09dfb97fc0bb51257e30e873dd59c9",
-            "title": "Amazon loses ban on Perplexity's AI shopping tools",
-            "description": "A US court has lifted an injunction that banned Perplexity's shopping browser Comet and its associated AI agent.",
-            "content": "A US appeals court has overturned a ruling that had temporarily barred Perplexity from using its AI-powered agentic shopping tools on Amazon's platform.\nIn a novel legal dispute, the San Francisco-based 9th US Circuit Court of Appeals determined that... [2011 chars]",
-            "url": "https://www.perthnow.com.au/news/politics/amazon-loses-ban-on-perplexitys-ai-shopping-tools-c-22678013",
-            "image": "https://images.perthnow.com.au/publication/C-22678013/60d0e6f5f6d08515453a77ce0aaeeaeb4223003b-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-08-04T22:10:33Z",
+            "id": "2ef94b58850ec56c05dd9e2069facd63",
+            "title": "News and politics live updates: Liberal MP Dan Tehan tears into Chris Bowen’s data centre demand",
+            "description": "LIVE UPDATES: Dan Tehan has accused Chris Bowen of forcing the AI sector to fill the gap as Labor struggles to meet its renewable energy targets.",
+            "content": "Dan Tehan has accused Chris Bowen of trying to force private investment to compensate for what he described as shortcomings in Labor’s renewable energy rollout after the government vowed to press ahead with plans requiring major AI data centres to ba... [2391 chars]",
+            "url": "https://www.perthnow.com.au/news/politics/news-and-politics-live-updates-liberal-mp-dan-tehan-tears-into-chris-bowens-data-centre-demand-c-22683076",
+            "image": "https://images.perthnow.com.au/publication/C-22683076/3af41dd6c062c1901b58c7ab8f60dfb9f20cc289-16x9-x152y303w2287h1287.jpg?imwidth=1200",
+            "publishedAt": "2026-08-05T22:00:50Z",
             "lang": "en",
             "source": {
                 "id": "7f6e8514e9d8f8376aaa9a7229861518",
@@ -135,35 +71,99 @@
             }
         },
         {
-            "id": "abe7a7a1cb927b0286f5f26033ca31f1",
-            "title": "Everything Apple Is Expected to Announce in September",
-            "description": "Apple is going to announce at least five new devices next month at its annual iPhone-centric event, though it's possible we'll also get devices that were waiting on Siri AI. Here's what's coming. iPhone 18 Pro Rumors suggest the iPhone 18 Pro is going to look a lot like the iPhone 17 Pro, but with a smaller Dynamic Island. It's getting a new Wide camera with a variable aperture for more control over lighting and background blur, plus a faster A20 Pro chip.",
-            "content": "Apple is going to announce at least five new devices next month at its annual iPhone-centric event, though it's possible we'll also get devices that were waiting on Siri AI. Here's what's coming.\niPhone 18 Pro\nRumors suggest the iPhone 18 Pro is goin... [4617 chars]",
-            "url": "https://www.macrumors.com/2026/08/04/apple-september-2026-announcements/",
-            "image": "https://images.macrumors.com/t/191Xoz19WjC7B5g2L8ho_lSPnfM=/2372x/article-new/2026/08/Everything-Apple-Is-Expected-to-Announce-in-September-Feature.jpg",
-            "publishedAt": "2026-08-04T22:10:01Z",
+            "id": "d25b70a9e0aadd26228a543d7c0c6c49",
+            "title": "China’s Palantir? Private tech firms surge into defence AI, aiming to match US giants",
+            "description": "Some mainland companies’ tech proficiency may be closing gaps with American counterparts, but challenges remain, analysts say.",
+            "content": "In a post published on its official account on January 6, Jingan suggested the build-up indicated that Washington “may already be in the midst of preparations for a potential military operation” – more than 50 days before the strikes took place.\nWhil... [543 chars]",
+            "url": "https://www.scmp.com/news/china/military/article/3363032/chinas-palantir-private-tech-firms-surge-defence-ai-aiming-match-us-giants",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/05/c3601a83-408d-4d9d-9d92-d8d10489ffc0_9621ec13.jpg?itok=fJwsXOZ_&v=1785916244",
+            "publishedAt": "2026-08-05T22:00:06Z",
             "lang": "en",
             "source": {
-                "id": "10216cb8fabd0accd5eb967c97fc37ab",
-                "name": "MacRumors",
-                "url": "https://www.macrumors.com",
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            }
+        },
+        {
+            "id": "525139e99d6ab11c0f84300d81ff439d",
+            "title": "Quote of the day by Anduril founder Palmer Lucky: 'There's no moral high ground to making a land mine that can't tell the difference between a school bus full of children and Russian armor'",
+            "description": "The era of 'dumb weapons' is coming to an end, with companies striving to infuse AI and other technologies into the tools of future warfare",
+            "content": "The thought of infusing AI into weapons immediately evokes deep fears, not only based on the idea that autonomous weapons may make life-and-death decisions on our behalf, but also on the prospect of errors creeping in. But for Palmer Luckey, founder ... [2309 chars]",
+            "url": "https://www.techradar.com/pro/quote-of-the-day-by-anduril-founder-palmer-lucky-theres-no-moral-high-ground-to-making-a-land-mine-that-cant-tell-the-difference-between-a-school-bus-full-of-children-and-russian-armor",
+            "image": "https://cdn.mos.cms.futurecdn.net/39Z5e2bDfsmjmP8LyhD989-1920-80.jpg",
+            "publishedAt": "2026-08-05T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "62453c3da1caa90695f6fad0d8f39208",
+            "title": "Japan Looks To Palantir For Battlefield AI",
+            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+            "content": "Japan is preparing to introduce AI into the command-and-control systems of its Self-Defense Forces as part of a wider military modernization effort aimed at improving operational speed and interoperability with the United States, according to Nikkei.... [1944 chars]",
+            "url": "https://www.zerohedge.com/markets/japan-looks-palantir-battlefield-ai",
+            "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-08/Screenshot%202026-08-05%20at%2006.16.16.jpg?itok=woU0G9v8",
+            "publishedAt": "2026-08-05T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+                "name": "ZeroHedge",
+                "url": "https://www.zerohedge.com",
                 "country": "us"
             }
         },
         {
-            "id": "2dd90f6f539904a49b87c8558c448276",
-            "title": "How AI is changing jobs in the Philippines' outsourcing industry",
-            "description": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
-            "content": "'I feel like I dug my own grave': The workers caught in the AI transition\nFor 15 years, single mother Lisa made a living from content writing.\nShe began writing straight out of college, freelanced for years and eventually followed a path taken by man... [7640 chars]",
-            "url": "https://www.bbc.com/news/articles/cgr7nxve05go",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d916/live/b72ddec0-8648-11f1-a268-d919c0699520.jpg",
-            "publishedAt": "2026-08-04T22:10:00Z",
+            "id": "ba45d582dea8f1b924227c0c2224b1bf",
+            "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
+            "description": "Big Tech firms are increasingly deploying fuel cells to power AI and data centers, attracted by faster deployment, lower emissions, and reduced dependence on congested electricity grids.",
+            "content": "Tech giants are tapping fuel cell developers and providers to power data and AI computing centers with technology that is cleaner and faster to implement than a conventional gas-powered electricity source.\nFuel cells generate electricity by directly ... [4756 chars]",
+            "url": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
+            "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-05_idp48hwu60.jpg",
+            "publishedAt": "2026-08-05T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "109f2b4a20da4fe1c2fd502b03c07243",
-                "name": "BBC News",
-                "url": "https://www.bbc.com",
-                "country": "gb"
+                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
+                "name": "OilPrice",
+                "url": "https://oilprice.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ccbda847fd0d7a31d9fad949964578b2",
+            "title": "Commentary: AI didn’t ruin these films. It made them possible",
+            "description": "Bloomberg Opinion's Catherine Thorbecke went to an AI film festival expecting slop, and left surprised by how much humanity emanated from the screen.",
+            "content": "TOKYO: I went into an AI film festival in Tokyo last week expecting slop, and left surprised by how much humanity emanated from the screen.\nMy favourite was an 11-minute short from the point of view of a child with a camcorder spending a magical summ... [5338 chars]",
+            "url": "https://www.channelnewsasia.com/commentary/ai-film-making-holllywood-artist-creators-6300591",
+            "image": "https://dam.mediacorp.sg/image/upload/s--FFIQNYLl--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-01-16t010445z_1_lynxmpel0f011_rtroptp_3_ai-training.jpg?itok=TXyJ_SgQ",
+            "publishedAt": "2026-08-05T21:59:00Z",
+            "lang": "en",
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "26366f50c17641fec8918a100ac6ed65",
+            "title": "Uber Wants to Avoid Tech Backlash While Building Its Giant Robotaxi Fleet",
+            "description": "Robotaxi proliferation should be \"slower\" and \"more deliberate\" than AI to avoid pushback, the CEO said.",
+            "content": "Uber is eyeing an autonomous vehicle empire, and executives are ready to spend $10 billion over the next few years to achieve it, according to CEO Dara Khosrowshahi.\n“We expect to commit over $10 billion of capital over the coming years to bring AVs ... [3981 chars]",
+            "url": "https://gizmodo.com/theyve-had-their-fair-share-of-issues-uber-wants-to-avoid-tech-backlash-while-building-its-giant-robotaxi-fleet-2000794826",
+            "image": "https://gizmodo.com/app/uploads/2026/05/shutterstock_2352380579-1200x675.jpg",
+            "publishedAt": "2026-08-05T21:58:35Z",
+            "lang": "en",
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
             }
         }
     ]
