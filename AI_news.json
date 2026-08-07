@@ -4,32 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 409968,
+    "totalArticles": 410952,
     "articles": [
         {
-            "id": "9de69be1b4f8f3564689a3a6bd83cff9",
-            "title": "AI Linked to 55% of Cybercrime Cases in Africa, Interpol Report Says",
-            "description": "Interpol said Monday that artificial intelligence featured in 55% of cybercrime cases examined across Africa in 2025, according to the African Cyberthreat Assessment Report 2026. The report, based on intelligence from law enforcement agencies in 36 African countries, found that reported financial losses linked to cybercrime more than doubled from $192 million in 2024 to […]",
-            "content": "Interpol said Monday that artificial intelligence featured in 55% of cybercrime cases examined across Africa in 2025, according to the African Cyberthreat Assessment Report 2026. The report, based on intelligence from law enforcement agencies in 36 A... [4428 chars]",
-            "url": "https://www.naturalnews.com/2026-08-05-ai-linked-cybercrime-cases-africa-interpol-report.html",
-            "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/artificial-intelligence-cybercrime-africa-interpol-report-3190-original.jpg",
-            "publishedAt": "2026-08-05T22:17:44Z",
+            "id": "896802ab72b90c8ef314181ed0afeee6",
+            "title": "House Democrats Propose AI Tax-Funded Worker Protection Program",
+            "description": "Three House Democrats introduced legislation Thursday that would tax AI companies and use that revenue to fund a jobs program created to stanch mass unemployment.",
+            "content": "Three House Democrats introduced legislation Thursday that would tax AI companies and use that revenue to fund a jobs program created to stanch mass unemployment.\nThe AI Tax And Work Protection Act would impose a tax on these companies calculated on ... [344 chars]",
+            "url": "https://news.bloombergtax.com/daily-tax-report/house-democrats-propose-ai-tax-funded-worker-protection-program",
+            "image": "https://bwrite-static.bloombergindustry.com/dims4/default/d0f809b/2147483647/legacy_thumbnail/960x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F50%2Ff2%2F73591c4d4c6b8ed7e0f16ab3c19b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2276544544",
+            "publishedAt": "2026-08-06T20:42:42Z",
             "lang": "en",
             "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
+                "id": "2b5db686603d0197d748f18d2dc01aec",
+                "name": "Bloomberg Tax News",
+                "url": "https://news.bloombergtax.com",
                 "country": "us"
             }
         },
         {
-            "id": "c220dee2a4656bee34eec89e737c4040",
-            "title": "Hedge Funds Take Big Hit in July After Bruising AI Selloff",
-            "description": "A spate of well-known hedge funds reported steep losses in July as AI shares tumbled, most notably forcing the highly leveraged Situational Awareness to sell most of its stock portfolio at a deep discount to Ken Griffin’s Citadel.",
-            "content": "(Bloomberg) -- A spate of well-known hedge funds reported steep losses in July as AI shares tumbled, most notably forcing the highly leveraged Situational Awareness to sell most of its stock portfolio at a deep discount to Ken Griffin’s Citadel.\nSitu... [3296 chars]",
-            "url": "https://www.livemint.com/market/hedge-funds-take-big-hit-in-july-after-bruising-ai-selloff-11785967923926.html",
-            "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-            "publishedAt": "2026-08-05T22:12:03Z",
+            "id": "3b8eb1ab36e14ab075fbb2636989f7ca",
+            "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
+            "description": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
+            "content": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.\nIn recent weeks OpenAI and Anthropic also have described... [2933 chars]",
+            "url": "https://www.livemint.com/technology/meta-says-its-ai-model-hacked-another-company-adding-to-worries-about-bots-going-rogue-11786048853608.html",
+            "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
+            "publishedAt": "2026-08-06T20:40:53Z",
             "lang": "en",
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -39,130 +39,130 @@
             }
         },
         {
-            "id": "822778f37120b76884f2cd42a6eace1b",
-            "title": "Silicon Motion Unveils MonTitan SSD Reference Design Kit for AI Infrastructure at FMS 2026",
-            "description": "06.08.2026 - Silicon Motion Technology Corporation (NasdaqGS: SIMO), a global leader in designing and marketing NAND flash controllers for solid-state storage devices, today unveiled its new MonTitan SSD Reference Design Kit (RDK), featuring the company’s ...",
-            "content": "Silicon Motion Technology Corporation (NasdaqGS: SIMO), a global leader in designing and marketing NAND flash controllers for solid-state storage devices, today unveiled its new MonTitan SSD Reference Design Kit (RDK), featuring the company’s next-ge... [3507 chars]",
-            "url": "https://www.wallstreet-online.de/nachricht/21204396-silicon-motion-unveils-montitan-ssd-reference-design-kit-for-ai-infrastructure-at-fms-2026",
-            "image": "https://assets.wallstreet-online.de/_media/3129/unternehmen/branchen/halbleiter/size_645/halbleiter-adobe-stock.jpg",
-            "publishedAt": "2026-08-05T22:10:03Z",
-            "lang": "en",
-            "source": {
-                "id": "4ddba5324f2e0216fa6458240fdb0f97",
-                "name": "Wallstreet Online",
-                "url": "https://www.wallstreet-online.de",
-                "country": "de"
-            }
-        },
-        {
-            "id": "2ef94b58850ec56c05dd9e2069facd63",
-            "title": "News and politics live updates: Liberal MP Dan Tehan tears into Chris Bowen’s data centre demand",
-            "description": "LIVE UPDATES: Dan Tehan has accused Chris Bowen of forcing the AI sector to fill the gap as Labor struggles to meet its renewable energy targets.",
-            "content": "Dan Tehan has accused Chris Bowen of trying to force private investment to compensate for what he described as shortcomings in Labor’s renewable energy rollout after the government vowed to press ahead with plans requiring major AI data centres to ba... [2391 chars]",
-            "url": "https://www.perthnow.com.au/news/politics/news-and-politics-live-updates-liberal-mp-dan-tehan-tears-into-chris-bowens-data-centre-demand-c-22683076",
-            "image": "https://images.perthnow.com.au/publication/C-22683076/3af41dd6c062c1901b58c7ab8f60dfb9f20cc289-16x9-x152y303w2287h1287.jpg?imwidth=1200",
-            "publishedAt": "2026-08-05T22:00:50Z",
-            "lang": "en",
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "d25b70a9e0aadd26228a543d7c0c6c49",
-            "title": "China’s Palantir? Private tech firms surge into defence AI, aiming to match US giants",
-            "description": "Some mainland companies’ tech proficiency may be closing gaps with American counterparts, but challenges remain, analysts say.",
-            "content": "In a post published on its official account on January 6, Jingan suggested the build-up indicated that Washington “may already be in the midst of preparations for a potential military operation” – more than 50 days before the strikes took place.\nWhil... [543 chars]",
-            "url": "https://www.scmp.com/news/china/military/article/3363032/chinas-palantir-private-tech-firms-surge-defence-ai-aiming-match-us-giants",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/05/c3601a83-408d-4d9d-9d92-d8d10489ffc0_9621ec13.jpg?itok=fJwsXOZ_&v=1785916244",
-            "publishedAt": "2026-08-05T22:00:06Z",
-            "lang": "en",
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            }
-        },
-        {
-            "id": "525139e99d6ab11c0f84300d81ff439d",
-            "title": "Quote of the day by Anduril founder Palmer Lucky: 'There's no moral high ground to making a land mine that can't tell the difference between a school bus full of children and Russian armor'",
-            "description": "The era of 'dumb weapons' is coming to an end, with companies striving to infuse AI and other technologies into the tools of future warfare",
-            "content": "The thought of infusing AI into weapons immediately evokes deep fears, not only based on the idea that autonomous weapons may make life-and-death decisions on our behalf, but also on the prospect of errors creeping in. But for Palmer Luckey, founder ... [2309 chars]",
-            "url": "https://www.techradar.com/pro/quote-of-the-day-by-anduril-founder-palmer-lucky-theres-no-moral-high-ground-to-making-a-land-mine-that-cant-tell-the-difference-between-a-school-bus-full-of-children-and-russian-armor",
-            "image": "https://cdn.mos.cms.futurecdn.net/39Z5e2bDfsmjmP8LyhD989-1920-80.jpg",
-            "publishedAt": "2026-08-05T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "62453c3da1caa90695f6fad0d8f39208",
-            "title": "Japan Looks To Palantir For Battlefield AI",
-            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-            "content": "Japan is preparing to introduce AI into the command-and-control systems of its Self-Defense Forces as part of a wider military modernization effort aimed at improving operational speed and interoperability with the United States, according to Nikkei.... [1944 chars]",
-            "url": "https://www.zerohedge.com/markets/japan-looks-palantir-battlefield-ai",
-            "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-08/Screenshot%202026-08-05%20at%2006.16.16.jpg?itok=woU0G9v8",
-            "publishedAt": "2026-08-05T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
-                "name": "ZeroHedge",
-                "url": "https://www.zerohedge.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "ba45d582dea8f1b924227c0c2224b1bf",
-            "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
-            "description": "Big Tech firms are increasingly deploying fuel cells to power AI and data centers, attracted by faster deployment, lower emissions, and reduced dependence on congested electricity grids.",
-            "content": "Tech giants are tapping fuel cell developers and providers to power data and AI computing centers with technology that is cleaner and faster to implement than a conventional gas-powered electricity source.\nFuel cells generate electricity by directly ... [4756 chars]",
-            "url": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
-            "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-05_idp48hwu60.jpg",
-            "publishedAt": "2026-08-05T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1fc0d2b0cf3d92c9d8bfae0b4ee9b6ce",
-                "name": "OilPrice",
-                "url": "https://oilprice.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "ccbda847fd0d7a31d9fad949964578b2",
-            "title": "Commentary: AI didn’t ruin these films. It made them possible",
-            "description": "Bloomberg Opinion's Catherine Thorbecke went to an AI film festival expecting slop, and left surprised by how much humanity emanated from the screen.",
-            "content": "TOKYO: I went into an AI film festival in Tokyo last week expecting slop, and left surprised by how much humanity emanated from the screen.\nMy favourite was an 11-minute short from the point of view of a child with a camcorder spending a magical summ... [5338 chars]",
-            "url": "https://www.channelnewsasia.com/commentary/ai-film-making-holllywood-artist-creators-6300591",
-            "image": "https://dam.mediacorp.sg/image/upload/s--FFIQNYLl--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-01-16t010445z_1_lynxmpel0f011_rtroptp_3_ai-training.jpg?itok=TXyJ_SgQ",
-            "publishedAt": "2026-08-05T21:59:00Z",
-            "lang": "en",
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "26366f50c17641fec8918a100ac6ed65",
-            "title": "Uber Wants to Avoid Tech Backlash While Building Its Giant Robotaxi Fleet",
-            "description": "Robotaxi proliferation should be \"slower\" and \"more deliberate\" than AI to avoid pushback, the CEO said.",
-            "content": "Uber is eyeing an autonomous vehicle empire, and executives are ready to spend $10 billion over the next few years to achieve it, according to CEO Dara Khosrowshahi.\n“We expect to commit over $10 billion of capital over the coming years to bring AVs ... [3981 chars]",
-            "url": "https://gizmodo.com/theyve-had-their-fair-share-of-issues-uber-wants-to-avoid-tech-backlash-while-building-its-giant-robotaxi-fleet-2000794826",
-            "image": "https://gizmodo.com/app/uploads/2026/05/shutterstock_2352380579-1200x675.jpg",
-            "publishedAt": "2026-08-05T21:58:35Z",
+            "id": "600ecec8f71ab259b52100f9d4348558",
+            "title": "This Startup Will Pay You $50 to Let AI Read Your Mind",
+            "description": "Humans have long dreamed of telepathically communicating with machines. Will Conduit succeed where others before it have failed?",
+            "content": "In 1908, a Columbia University psychiatry professor named Frederick Peterson claimed to have built a “psychometer”—a contraption which he said could read people’s thoughts using, among other components, a mirror and a lamp. “It is almost like sorcery... [3756 chars]",
+            "url": "https://gizmodo.com/this-startup-will-pay-you-50-to-let-ai-read-your-mind-2000795661",
+            "image": "https://gizmodo.com/app/uploads/2026/08/Brainchip-1200x675.jpg",
+            "publishedAt": "2026-08-06T20:40:47Z",
             "lang": "en",
             "source": {
                 "id": "18c2a6429621fbedc49891aa7c847ec6",
                 "name": "Gizmodo",
                 "url": "https://gizmodo.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "55c88fbee0a7e40867238e1f62c3e7a8",
+            "title": "Adding an AI tool to Google Earth shook our trust in maps that has been centuries in the making",
+            "description": "Throughout the 18th and 19th centuries, Europe's cartographers traded on their reputation for accuracy and detail at a time of huge societal change. But as demand grew for increasingly detailed maps of the world to support industrialization at home and colonization overseas, they didn't always get it right.",
+            "content": "Throughout the 18th and 19th centuries, Europe's cartographers traded on their reputation for accuracy and detail at a time of huge societal change. But as demand grew for increasingly detailed maps of the world to support industrialization at home a... [5755 chars]",
+            "url": "https://phys.org/news/2026-08-adding-ai-tool-google-earth.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/adding-an-ai-tool-to-g.jpg",
+            "publishedAt": "2026-08-06T20:40:05Z",
+            "lang": "en",
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "e802b7a5c7268972d9c8b6af5aa915d0",
+            "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
+            "description": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of…",
+            "content": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.\nIn recent weeks OpenAI and Anthropic also have described... [3066 chars]",
+            "url": "https://wtop.com/national/2026/08/meta-says-its-ai-model-hacked-another-company-adding-to-worries-about-bots-going-rogue/",
+            "image": "https://wtop.com/wp-content/uploads/2026/07/Canada-Meta-Data-Center_26545-scaled.jpg",
+            "publishedAt": "2026-08-06T20:38:51Z",
+            "lang": "en",
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ca562ead2137c65b83fdd99871b159a5",
+            "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
+            "description": "Meta on Thursday said that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue",
+            "content": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.\nIn recent weeks OpenAI and Anthropic also have described... [2933 chars]",
+            "url": "https://www.barchart.com/story/news/3703606/meta-says-its-ai-model-hacked-another-company-adding-to-worries-about-bots-going-rogue",
+            "image": "https://barchart-news-media-prod.aws.barchart.com/ap/54795e5c82544ca7bbe27b78cadca841/54795e5c82544ca7bbe27b78cadca841_main_canada-meta-data-center_26545.jpg",
+            "publishedAt": "2026-08-06T20:38:51Z",
+            "lang": "en",
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "579e3eb45807dbee8ac7dcb38d56e1b4",
+            "title": "Meta joins OpenAI and Anthropic in saying one of its AI models went rogue",
+            "description": "Meta on Thursday said that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.",
+            "content": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.\nIn recent weeks OpenAI and Anthropic also have described... [2933 chars]",
+            "url": "https://apnews.com/article/meta-ai-hacking-anthropic-irregular-openai-0e8061437da6779be962b24ac134a514",
+            "image": "https://dims.apnews.com/dims4/default/1f2ac64/2147483647/strip/true/crop/5804x3867+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F82%2F23%2Ff9274eb71b08dac8c5bab2cae61a%2Fed33499e1521436d9e128d410feb96a7",
+            "publishedAt": "2026-08-06T20:38:51Z",
+            "lang": "en",
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "4c85c09d27e447124774ae3269872081",
+            "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
+            "description": "Meta on Thursday said that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.",
+            "content": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.\nIn recent weeks OpenAI and Anthropic also have described... [2933 chars]",
+            "url": "https://www.clickondetroit.com/business/2026/08/06/meta-says-its-ai-model-hacked-another-company-adding-to-worries-about-bots-going-rogue/",
+            "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5RPT6NJ5IBGXBBMDER34KIWTPY.jpg?_a=DATAg1kSZAA0",
+            "publishedAt": "2026-08-06T20:38:50Z",
+            "lang": "en",
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "431a3ffe5acaed84b26059441adf633a",
+            "title": "Tom Holland, Zendaya hit by another AI hoax",
+            "description": "Zendaya has once again found herself at the center of viral online speculations.Recently, an AI-generated image falsely appeared to show the wife of Tom Holland with a baby bump.The image spread on...",
+            "content": "Zendaya has once again found herself at the center of viral online speculations.\nRecently, an AI-generated image falsely appeared to show the wife of Tom Holland with a baby bump.\nThe image spread on X, Instagram and TikTok, showing Zendaya walking a... [1493 chars]",
+            "url": "https://www.thenews.com.pk/latest/1411474-tom-holland-zendaya-hit-by-another-ai-hoax",
+            "image": "https://www.thenews.com.pk/assets/uploads/2026-08-07/1411474_010627_updates.jpg",
+            "publishedAt": "2026-08-06T20:35:00Z",
+            "lang": "en",
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            }
+        },
+        {
+            "id": "1a9d82586007be696372e656d8214ef1",
+            "title": "China commissions world's largest data center with 2 GW green power",
+            "description": "Envision's new China campus targets 1M AI accelerators, 2GW capacity and renewable power for large-scale computing.",
+            "content": "Green energy company Envision Energy, which develops renewable power and energy storage technologies, has commissioned a large-scale computing campus in Ulanqab, Inner Mongolia. The Envision Galaxy Campus combines renewable power, energy storage and ... [3484 chars]",
+            "url": "https://interestingengineering.com/energy/envision-galaxy-campus-million-ai-accelerators-renewable-power",
+            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Envision-china-campus.jpg",
+            "publishedAt": "2026-08-06T20:32:34Z",
+            "lang": "en",
+            "source": {
+                "id": "1a6c3258d04827f52d40713ad8166b1b",
+                "name": "Interesting Engineering",
+                "url": "https://interestingengineering.com",
                 "country": "us"
             }
         }
