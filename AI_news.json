@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 410952,
+    "totalArticles": 411786,
     "articles": [
         {
-            "id": "896802ab72b90c8ef314181ed0afeee6",
-            "title": "House Democrats Propose AI Tax-Funded Worker Protection Program",
-            "description": "Three House Democrats introduced legislation Thursday that would tax AI companies and use that revenue to fund a jobs program created to stanch mass unemployment.",
-            "content": "Three House Democrats introduced legislation Thursday that would tax AI companies and use that revenue to fund a jobs program created to stanch mass unemployment.\nThe AI Tax And Work Protection Act would impose a tax on these companies calculated on ... [344 chars]",
-            "url": "https://news.bloombergtax.com/daily-tax-report/house-democrats-propose-ai-tax-funded-worker-protection-program",
-            "image": "https://bwrite-static.bloombergindustry.com/dims4/default/d0f809b/2147483647/legacy_thumbnail/960x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F50%2Ff2%2F73591c4d4c6b8ed7e0f16ab3c19b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2276544544",
-            "publishedAt": "2026-08-06T20:42:42Z",
+            "id": "2cd3582afc7910b091423b636944b401",
+            "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+            "description": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
+            "content": "Scott Mlyn | CNBC\nThe \"SaaSpocalypse\" was raging this week. Then it got a reprieve.\nThe pennies-on-the-dollar acquisition of one-time highflyer Airtable, followed by plunges in HubSpot , Datadog and Figma on earnings reports, all served to underscore... [4998 chars]",
+            "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/106413615-1582815498409img_8994r.jpg?v=1698963731&w=1920&h=1080",
+            "publishedAt": "2026-08-07T20:22:17Z",
             "lang": "en",
             "source": {
-                "id": "2b5db686603d0197d748f18d2dc01aec",
-                "name": "Bloomberg Tax News",
-                "url": "https://news.bloombergtax.com",
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
                 "country": "us"
             }
         },
         {
-            "id": "3b8eb1ab36e14ab075fbb2636989f7ca",
-            "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
-            "description": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
-            "content": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.\nIn recent weeks OpenAI and Anthropic also have described... [2933 chars]",
-            "url": "https://www.livemint.com/technology/meta-says-its-ai-model-hacked-another-company-adding-to-worries-about-bots-going-rogue-11786048853608.html",
-            "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
-            "publishedAt": "2026-08-06T20:40:53Z",
+            "id": "a59d83688741ab589a0811429c0e9c6f",
+            "title": "Help, I’m talking to my computer. It’s remarkably convenient and utterly embarrassing.",
+            "description": "I have been using AI-powered voice dictation tools like Wispr Flow and Willow for months. They are extremely convenient, and at the same time, pretty awkward, too.",
+            "content": "A decade ago, Google introduced voice typing with the Gboard app on Android, and a year later, the perk landed on iPhones with the keyboard app. I never paid much attention to it. The biggest reason was that it was just not accurate.\nThe big promise ... [7907 chars]",
+            "url": "https://www.digitaltrends.com/computing/help-im-talking-to-my-computer-its-remarkably-convenient-and-utterly-embarrassing/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/08/talking-computer.jpg?resize=1200%2C630",
+            "publishedAt": "2026-08-07T20:10:12Z",
             "lang": "en",
             "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "fc1bdcdf398a653115f27b2fd2289c77",
+            "title": "From Contract Manufacturer to AI Powerhouse: Celestica's Profitable Turnaround",
+            "description": "Celestica (TSX:CLS) is a Canadian AI winner and it's probably not done yet.",
+            "content": "The AI revolution is coming to Canada too, with the great AI data centre buildout kicking off and a number of firms looking to invest in the cause.\nUndoubtedly, it might be a wise idea to stick with the U.S. cloud. hyperscalers over the near- to medi... [2822 chars]",
+            "url": "https://www.fool.ca/2026/08/07/from-contract-manufacturer-to-ai-powerhouse-celesticas-profitable-turnaround/",
+            "image": "https://www.fool.ca/wp-content/uploads/2024/04/GettyImages-1473086836-1200x686.jpg",
+            "publishedAt": "2026-08-07T20:10:00Z",
+            "lang": "en",
+            "source": {
+                "id": "19d1f502a5658ccbfaaa50f77b89993f",
+                "name": "The Motley Fool Canada",
+                "url": "https://www.fool.ca",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "81fc0b8d5ea39e554f251d5f76b63b7f",
+            "title": "Hivemind AI takes command of drone boats as Taiwan hosts first coordinated on-water swarming mission with autonomous vessel fleet",
+            "description": "AI takes command of drone boats and steers them using real-time radar and imagery",
+            "content": "Hivemind completes first autonomous swarming mission on water in Taiwan\nDrone boats identified and escorted a vessel during a coordinated surveillance exercise\nSeaShark 600 and 800 vessels operated together under a single autonomous command\nAn autono... [3294 chars]",
+            "url": "https://www.techradar.com/pro/hivemind-ai-software-carries-out-first-on-water-swarming-test-in-taiwan-mission",
+            "image": "https://cdn.mos.cms.futurecdn.net/UtscASpaaRgHcAAhv4qjyk-1920-80.jpg",
+            "publishedAt": "2026-08-07T20:10:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "c7a3aca0ecee58567daa8e18c75f4a1b",
+            "title": "Excelsoft Technologies posts 57% PAT surge in Q1FY27 amid strategic AI investments",
+            "description": "Excelsoft Technologies posted a 57.13% YoY increase in net profit to ₹92.28 million for Q1FY27, supported by 44.05% revenue growth to ₹802.63 million. While EBITDA margins compressed to 16.24% due to strategic investments in AI and nearshore delivery, PAT margins improved to 11.50%.",
+            "content": "Excelsoft Technologies reported a robust start to FY27, with net profit after tax (PAT) surging 57.13% year-on-year to ₹92.28 million for the quarter ended June 30, 2026. The bottom-line growth was underpinned by a 44.05% increase in revenue from ope... [8553 chars]",
+            "url": "https://scanx.trade/stock-market-news/companies/excelsoft-technologies-q1-results-net-profit-surges-57-yoy/47678290",
+            "image": "http://news-images.dhan.co/excelsoft-technologies-q1-results-net-profit-surges-57-yoy.jpg",
+            "publishedAt": "2026-08-07T20:09:01Z",
+            "lang": "en",
+            "source": {
+                "id": "f746366686e467440a63dd26dbb72053",
+                "name": "scanx.trade",
+                "url": "https://scanx.trade",
                 "country": "in"
             }
         },
         {
-            "id": "600ecec8f71ab259b52100f9d4348558",
-            "title": "This Startup Will Pay You $50 to Let AI Read Your Mind",
-            "description": "Humans have long dreamed of telepathically communicating with machines. Will Conduit succeed where others before it have failed?",
-            "content": "In 1908, a Columbia University psychiatry professor named Frederick Peterson claimed to have built a “psychometer”—a contraption which he said could read people’s thoughts using, among other components, a mirror and a lamp. “It is almost like sorcery... [3756 chars]",
-            "url": "https://gizmodo.com/this-startup-will-pay-you-50-to-let-ai-read-your-mind-2000795661",
-            "image": "https://gizmodo.com/app/uploads/2026/08/Brainchip-1200x675.jpg",
-            "publishedAt": "2026-08-06T20:40:47Z",
+            "id": "abc5e982505f4f94b01731e8b67e42ab",
+            "title": "Mumbai Railways Seek Double Ticket Checking Staff Strength Amid Rise In AI-Generated Fake Tickets",
+            "description": "At present, Central Railway has around 1,400 ticket checking staff, while Western Railway has nearly 1,100. However, Mumbai",
+            "content": "Mumbai: Faced with a sharp rise in fake railway tickets, AI-generated ticket images and fraudulent mobile applications, Central and Western Railway have sought nearly double the existing strength of ticket checking staff on Mumbai's suburban network.... [2791 chars]",
+            "url": "https://www.freepressjournal.in/mumbai/mumbai-railways-seek-double-ticket-checking-staff-strength-amid-rise-in-ai-generated-fake-tickets",
+            "image": "https://media.assettype.com/freepressjournal/2025-11-30/ckzn75i1/IMG-20251130-WA0004.jpg",
+            "publishedAt": "2026-08-07T20:00:00Z",
             "lang": "en",
             "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "d8b28b62b3a92b75a26ff4732e5bd662",
+            "title": "The Insta360 GO Ultra Now Has an AI Voice Assistant",
+            "description": "Insta360 just pushed an update for the GO Ultra that adds a Gemini-powered voice assistant, which it says turns the camera into “a more capable companion for travel, exploration, and storytelling.” The tiny vlogging camera can now perform real-time translation, answer questions based on what the camera is pointed at, or can just answer standard",
+            "content": "Insta360 just pushed an update for the GO Ultra that adds a Gemini-powered voice assistant, which it says turns the camera into “a more capable companion for travel, exploration, and storytelling.” The tiny vlogging camera can now perform real-time t... [558 chars]",
+            "url": "https://petapixel.com/reel/2026/08/07/the-insta360-go-ultra-now-has-an-ai-voice-assistant/",
+            "image": "https://i.ytimg.com/vi/i2v3JlB7gH0/maxresdefault.jpg",
+            "publishedAt": "2026-08-07T19:57:55Z",
+            "lang": "en",
+            "source": {
+                "id": "62c14ad4f80bd5e90cbba873513fe4b9",
+                "name": "PetaPixel",
+                "url": "https://petapixel.com",
                 "country": "us"
             }
         },
         {
-            "id": "55c88fbee0a7e40867238e1f62c3e7a8",
-            "title": "Adding an AI tool to Google Earth shook our trust in maps that has been centuries in the making",
-            "description": "Throughout the 18th and 19th centuries, Europe's cartographers traded on their reputation for accuracy and detail at a time of huge societal change. But as demand grew for increasingly detailed maps of the world to support industrialization at home and colonization overseas, they didn't always get it right.",
-            "content": "Throughout the 18th and 19th centuries, Europe's cartographers traded on their reputation for accuracy and detail at a time of huge societal change. But as demand grew for increasingly detailed maps of the world to support industrialization at home a... [5755 chars]",
-            "url": "https://phys.org/news/2026-08-adding-ai-tool-google-earth.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/adding-an-ai-tool-to-g.jpg",
-            "publishedAt": "2026-08-06T20:40:05Z",
+            "id": "4a945e3b93196fb5efafed0d1450d2ae",
+            "title": "Six Canadians stocks that could benefit from the AI buildout",
+            "description": "The Financial Post asked portfolio managers for the Canadian stocks they thought could catch a ride on the AI wave. Find out more here",
+            "content": "Article content\nAfter a shaky July that included a US$500-billion single-day selloff, the AI trade came roaring back this week and helped push the S&P 500 and S&P/TSX composite indexes to new highs.\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\nSubsc... [4855 chars]",
+            "url": "https://financialpost.com/investing/six-canadians-stocks-benefit-from-ai-buildout",
+            "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/0808-mg-canadian-stocks.jpg",
+            "publishedAt": "2026-08-07T19:45:19Z",
             "lang": "en",
             "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
+                "id": "2492bcb79914b2ce3d9867453dae22ac",
+                "name": "Financial Post",
+                "url": "https://financialpost.com",
+                "country": "ca"
             }
         },
         {
-            "id": "e802b7a5c7268972d9c8b6af5aa915d0",
-            "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
-            "description": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of…",
-            "content": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.\nIn recent weeks OpenAI and Anthropic also have described... [3066 chars]",
-            "url": "https://wtop.com/national/2026/08/meta-says-its-ai-model-hacked-another-company-adding-to-worries-about-bots-going-rogue/",
-            "image": "https://wtop.com/wp-content/uploads/2026/07/Canada-Meta-Data-Center_26545-scaled.jpg",
-            "publishedAt": "2026-08-06T20:38:51Z",
+            "id": "d93489662a1622fe774bac6041e24bc5",
+            "title": "NavVis raised €73.7M to build the spatial data layer that factories need before they can deploy AI",
+            "description": "Munich-based NavVis raised €73.7M Series D to scale its spatial twin platform. Over 1B sqm of industrial space scanned. BMW, VW, Toyota, Siemens, BASF are customers.",
+            "content": "TL;DR\nNavVis raised €73.7M Series D led by The Jordan Company. Spatial twin platform has scanned 1B+ sqm. 1,500+ customers including BMW, VW, Toyota, Siemens. Expanding in US market. Partners with Nvidia, SAP, Autodesk.\nNavVis, a Munich-based spatial... [2169 chars]",
+            "url": "https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai",
+            "image": "https://media.thenextweb.com/2026/08/navvis-73-7m-series-d-spatial-twin-industrial-ai.jpg",
+            "publishedAt": "2026-08-07T19:42:08Z",
             "lang": "en",
             "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
                 "country": "us"
             }
         },
         {
-            "id": "ca562ead2137c65b83fdd99871b159a5",
-            "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
-            "description": "Meta on Thursday said that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue",
-            "content": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.\nIn recent weeks OpenAI and Anthropic also have described... [2933 chars]",
-            "url": "https://www.barchart.com/story/news/3703606/meta-says-its-ai-model-hacked-another-company-adding-to-worries-about-bots-going-rogue",
-            "image": "https://barchart-news-media-prod.aws.barchart.com/ap/54795e5c82544ca7bbe27b78cadca841/54795e5c82544ca7bbe27b78cadca841_main_canada-meta-data-center_26545.jpg",
-            "publishedAt": "2026-08-06T20:38:51Z",
+            "id": "0701be3ec4d5b7ecfdcedfd3b0fc1c98",
+            "title": "IIT Jammu's AI centre, Project Phoenix to drive innovation, entrepreneurship in J&K: CM",
+            "description": "Jammu and Kashmir Chief Minister Omar Abdullah on Thursday said the newly launched AI Centre of Excellence at IIT Jammu would focus on developing technology-driven solutions to the UT's challenges, while Project Phoenix would promote entrepreneurship and self-employment among the youth.",
+            "content": "Jammu and Kashmir Chief Minister Omar Abdullah on Thursday said the newly launched AI Centre of Excellence at IIT Jammu would focus on developing technology-driven solutions to the UT's challenges, while Project Phoenix would promote entrepreneurship... [2733 chars]",
+            "url": "https://www.tribuneindia.com/news/j-k/iit-jammus-ai-centre-project-phoenix-to-drive-innovation-entrepreneurship-in-jk-cm/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIzMjRkNzUwLTkyOTctMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+            "publishedAt": "2026-08-07T19:35:23Z",
             "lang": "en",
             "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "579e3eb45807dbee8ac7dcb38d56e1b4",
-            "title": "Meta joins OpenAI and Anthropic in saying one of its AI models went rogue",
-            "description": "Meta on Thursday said that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.",
-            "content": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.\nIn recent weeks OpenAI and Anthropic also have described... [2933 chars]",
-            "url": "https://apnews.com/article/meta-ai-hacking-anthropic-irregular-openai-0e8061437da6779be962b24ac134a514",
-            "image": "https://dims.apnews.com/dims4/default/1f2ac64/2147483647/strip/true/crop/5804x3867+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F82%2F23%2Ff9274eb71b08dac8c5bab2cae61a%2Fed33499e1521436d9e128d410feb96a7",
-            "publishedAt": "2026-08-06T20:38:51Z",
-            "lang": "en",
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "4c85c09d27e447124774ae3269872081",
-            "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
-            "description": "Meta on Thursday said that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.",
-            "content": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.\nIn recent weeks OpenAI and Anthropic also have described... [2933 chars]",
-            "url": "https://www.clickondetroit.com/business/2026/08/06/meta-says-its-ai-model-hacked-another-company-adding-to-worries-about-bots-going-rogue/",
-            "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5RPT6NJ5IBGXBBMDER34KIWTPY.jpg?_a=DATAg1kSZAA0",
-            "publishedAt": "2026-08-06T20:38:50Z",
-            "lang": "en",
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "431a3ffe5acaed84b26059441adf633a",
-            "title": "Tom Holland, Zendaya hit by another AI hoax",
-            "description": "Zendaya has once again found herself at the center of viral online speculations.Recently, an AI-generated image falsely appeared to show the wife of Tom Holland with a baby bump.The image spread on...",
-            "content": "Zendaya has once again found herself at the center of viral online speculations.\nRecently, an AI-generated image falsely appeared to show the wife of Tom Holland with a baby bump.\nThe image spread on X, Instagram and TikTok, showing Zendaya walking a... [1493 chars]",
-            "url": "https://www.thenews.com.pk/latest/1411474-tom-holland-zendaya-hit-by-another-ai-hoax",
-            "image": "https://www.thenews.com.pk/assets/uploads/2026-08-07/1411474_010627_updates.jpg",
-            "publishedAt": "2026-08-06T20:35:00Z",
-            "lang": "en",
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            }
-        },
-        {
-            "id": "1a9d82586007be696372e656d8214ef1",
-            "title": "China commissions world's largest data center with 2 GW green power",
-            "description": "Envision's new China campus targets 1M AI accelerators, 2GW capacity and renewable power for large-scale computing.",
-            "content": "Green energy company Envision Energy, which develops renewable power and energy storage technologies, has commissioned a large-scale computing campus in Ulanqab, Inner Mongolia. The Envision Galaxy Campus combines renewable power, energy storage and ... [3484 chars]",
-            "url": "https://interestingengineering.com/energy/envision-galaxy-campus-million-ai-accelerators-renewable-power",
-            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Envision-china-campus.jpg",
-            "publishedAt": "2026-08-06T20:32:34Z",
-            "lang": "en",
-            "source": {
-                "id": "1a6c3258d04827f52d40713ad8166b1b",
-                "name": "Interesting Engineering",
-                "url": "https://interestingengineering.com",
-                "country": "us"
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
             }
         }
     ]
