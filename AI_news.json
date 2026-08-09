@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 411786,
+    "totalArticles": 412131,
     "articles": [
         {
-            "id": "2cd3582afc7910b091423b636944b401",
-            "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
-            "description": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
-            "content": "Scott Mlyn | CNBC\nThe \"SaaSpocalypse\" was raging this week. Then it got a reprieve.\nThe pennies-on-the-dollar acquisition of one-time highflyer Airtable, followed by plunges in HubSpot , Datadog and Figma on earnings reports, all served to underscore... [4998 chars]",
-            "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/106413615-1582815498409img_8994r.jpg?v=1698963731&w=1920&h=1080",
-            "publishedAt": "2026-08-07T20:22:17Z",
+            "id": "98b6470866cbb56b9bb712955a830656",
+            "title": "South Carolina Senate candidates debate Iran war and Flock cameras",
+            "description": "South Carolina Senate primary candidates addressed voters on the Iran war, Flock cameras and privacy, AI data centers and the filibuster ahead of the Aug. 11 election.",
+            "content": "Nine Republican candidates vying to permanently fill late Sen. Lindsey Graham's Senate seat spoke directly to voters Saturday at an event in Florence County, South Carolina, where they addressed the war with Iran, the rising tide of socialism in the ... [8749 chars]",
+            "url": "https://www.foxnews.com/politics/graham-replacement-hopefuls-make-final-pitches-before-special-election-iran-war-dsa-flock-cams",
+            "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/darline-graham-1.png",
+            "publishedAt": "2026-08-08T20:26:10Z",
             "lang": "en",
             "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
                 "country": "us"
             }
         },
         {
-            "id": "a59d83688741ab589a0811429c0e9c6f",
-            "title": "Help, I’m talking to my computer. It’s remarkably convenient and utterly embarrassing.",
-            "description": "I have been using AI-powered voice dictation tools like Wispr Flow and Willow for months. They are extremely convenient, and at the same time, pretty awkward, too.",
-            "content": "A decade ago, Google introduced voice typing with the Gboard app on Android, and a year later, the perk landed on iPhones with the keyboard app. I never paid much attention to it. The biggest reason was that it was just not accurate.\nThe big promise ... [7907 chars]",
-            "url": "https://www.digitaltrends.com/computing/help-im-talking-to-my-computer-its-remarkably-convenient-and-utterly-embarrassing/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/08/talking-computer.jpg?resize=1200%2C630",
-            "publishedAt": "2026-08-07T20:10:12Z",
+            "id": "bdd2a2dedc673ffcb071e7bdd360f050",
+            "title": "AI titans to tidy agent frontier with plugin prescription",
+            "description": "The AI giants have joined forces to ask the world’s developers to all please write their agentic skills and tools into the same format. In return, coders will",
+            "content": "The AI giants have joined forces to ask the world’s developers to all please write their agentic skills and tools into the same format. In return, coders will be able to move these superpowers easily from one platform to another (such as when they ge... [3558 chars]",
+            "url": "https://www.europesays.com/3182969/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/08/5285041.jpg",
+            "publishedAt": "2026-08-08T20:20:20Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "fc1bdcdf398a653115f27b2fd2289c77",
-            "title": "From Contract Manufacturer to AI Powerhouse: Celestica's Profitable Turnaround",
-            "description": "Celestica (TSX:CLS) is a Canadian AI winner and it's probably not done yet.",
-            "content": "The AI revolution is coming to Canada too, with the great AI data centre buildout kicking off and a number of firms looking to invest in the cause.\nUndoubtedly, it might be a wise idea to stick with the U.S. cloud. hyperscalers over the near- to medi... [2822 chars]",
-            "url": "https://www.fool.ca/2026/08/07/from-contract-manufacturer-to-ai-powerhouse-celesticas-profitable-turnaround/",
-            "image": "https://www.fool.ca/wp-content/uploads/2024/04/GettyImages-1473086836-1200x686.jpg",
-            "publishedAt": "2026-08-07T20:10:00Z",
+            "id": "639bc58fb0bf123b0ec85019eaeda8ee",
+            "title": "Can Clarivate’s (CLVT) Agentic AI Push Deepen Its Moat Or Signal A Riskier Shift?",
+            "description": "Clarivate Plc recently expanded agentic AI capabilities across its Cortellis portfolio, embedding natural language and multi‑agent tools into life sciences",
+            "content": "Clarivate Plc recently expanded agentic AI capabilities across its Cortellis portfolio, embedding natural language and multi‑agent tools into life sciences R&D, safety and competitive intelligence workflows to cut manual effort and speed evidence-bas... [3248 chars]",
+            "url": "https://www.europesays.com/3182967/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/08/https2F2Fmedia.zenfs_.com2Fen2Fsimply_wall_st__3162F51efc4c16661a09e764445427d52ecc6.jpeg",
+            "publishedAt": "2026-08-08T20:18:48Z",
             "lang": "en",
             "source": {
-                "id": "19d1f502a5658ccbfaaa50f77b89993f",
-                "name": "The Motley Fool Canada",
-                "url": "https://www.fool.ca",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "6e54142c12cff1abbfb06ec95043b76c",
+            "title": "ELDER: AI cannot give writers something to say",
+            "description": "That's one reason the rise of artificial intelligence doesn't worry me nearly as much as it worries some people. Read on.",
+            "content": "Article content\nSee more Toronto Sun on Google —save as a Preferred Source\nAdvertisement 2\nStory continues below\nThis advertisement has not loaded yet, but your article continues below.\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\nSubscribe now to r... [6975 chars]",
+            "url": "https://torontosun.com/opinion/columnists/ai-cannot-give-writers-something-to-say",
+            "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/08/AdobeStock_739390615.jpeg",
+            "publishedAt": "2026-08-08T20:00:18Z",
+            "lang": "en",
+            "source": {
+                "id": "09dc1bda762f4f787cec10477a894d96",
+                "name": "Toronto Sun",
+                "url": "https://torontosun.com",
                 "country": "ca"
             }
         },
         {
-            "id": "81fc0b8d5ea39e554f251d5f76b63b7f",
-            "title": "Hivemind AI takes command of drone boats as Taiwan hosts first coordinated on-water swarming mission with autonomous vessel fleet",
-            "description": "AI takes command of drone boats and steers them using real-time radar and imagery",
-            "content": "Hivemind completes first autonomous swarming mission on water in Taiwan\nDrone boats identified and escorted a vessel during a coordinated surveillance exercise\nSeaShark 600 and 800 vessels operated together under a single autonomous command\nAn autono... [3294 chars]",
-            "url": "https://www.techradar.com/pro/hivemind-ai-software-carries-out-first-on-water-swarming-test-in-taiwan-mission",
-            "image": "https://cdn.mos.cms.futurecdn.net/UtscASpaaRgHcAAhv4qjyk-1920-80.jpg",
-            "publishedAt": "2026-08-07T20:10:00Z",
+            "id": "12ac8ae07a7224775491d4f0210dcd58",
+            "title": "Andy Burnham issued warning as millions sound AI warning",
+            "description": "EXCLUSIVE: On July 24, the government announced the launch of the Prime Minister's new AI Taskforce.",
+            "content": "Millions of small businesses are warning that artificial intelligence must not come at the expense of human relationships, as the Government launches a major push to put AI at the heart of economic growth and public services. At a time when Andy Burn... [5518 chars]",
+            "url": "https://www.express.co.uk/news/uk/2237034/andy-burnham-issued-warning-millions",
+            "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/7083184.jpg",
+            "publishedAt": "2026-08-08T20:00:00Z",
             "lang": "en",
             "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
+                "id": "c97ef3cad273a1993c998ca7ddcc5212",
+                "name": "Daily Express",
+                "url": "https://www.express.co.uk",
+                "country": "gb"
             }
         },
         {
-            "id": "c7a3aca0ecee58567daa8e18c75f4a1b",
-            "title": "Excelsoft Technologies posts 57% PAT surge in Q1FY27 amid strategic AI investments",
-            "description": "Excelsoft Technologies posted a 57.13% YoY increase in net profit to ₹92.28 million for Q1FY27, supported by 44.05% revenue growth to ₹802.63 million. While EBITDA margins compressed to 16.24% due to strategic investments in AI and nearshore delivery, PAT margins improved to 11.50%.",
-            "content": "Excelsoft Technologies reported a robust start to FY27, with net profit after tax (PAT) surging 57.13% year-on-year to ₹92.28 million for the quarter ended June 30, 2026. The bottom-line growth was underpinned by a 44.05% increase in revenue from ope... [8553 chars]",
-            "url": "https://scanx.trade/stock-market-news/companies/excelsoft-technologies-q1-results-net-profit-surges-57-yoy/47678290",
-            "image": "http://news-images.dhan.co/excelsoft-technologies-q1-results-net-profit-surges-57-yoy.jpg",
-            "publishedAt": "2026-08-07T20:09:01Z",
+            "id": "1b72000774460a794525f2b1d750a650",
+            "title": "Prosperous Bengal essential to resurgent Bharat: Samik",
+            "description": "Samik Bhattacharya says prosperous Bengal vital to resurgent Bharat; urges entrepreneurs to lead revival as investors eye AI hospital, water tech and auto projects.",
+            "content": "Samik Bhattacharya\nKolkata: A prosperous Bengal is essential to a resurgent Bharat, state BJP president Samik Bhattacharya said on Saturday, urging young entrepreneurs and home-grown businesses to be the change agents. Speaking at the inaugural confe... [1360 chars]",
+            "url": "https://timesofindia.indiatimes.com/city/kolkata/prosperous-bengal-essential-to-resurgent-bharat-samik/articleshow/133059070.cms",
+            "image": "https://static.toiimg.com/thumb/msid-133059069,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-08T19:59:00Z",
             "lang": "en",
             "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "abc5e982505f4f94b01731e8b67e42ab",
-            "title": "Mumbai Railways Seek Double Ticket Checking Staff Strength Amid Rise In AI-Generated Fake Tickets",
-            "description": "At present, Central Railway has around 1,400 ticket checking staff, while Western Railway has nearly 1,100. However, Mumbai",
-            "content": "Mumbai: Faced with a sharp rise in fake railway tickets, AI-generated ticket images and fraudulent mobile applications, Central and Western Railway have sought nearly double the existing strength of ticket checking staff on Mumbai's suburban network.... [2791 chars]",
-            "url": "https://www.freepressjournal.in/mumbai/mumbai-railways-seek-double-ticket-checking-staff-strength-amid-rise-in-ai-generated-fake-tickets",
-            "image": "https://media.assettype.com/freepressjournal/2025-11-30/ckzn75i1/IMG-20251130-WA0004.jpg",
-            "publishedAt": "2026-08-07T20:00:00Z",
+            "id": "42a85c41f01b0e611f72f10f561cbf97",
+            "title": "Drugstore chain pulls back AI assistant after receiving hundreds of customer complaints",
+            "description": "A drugstore chain says it is scaling back its AI assistant after receiving hundreds of customer complaints.",
+            "content": "BURLINGTON, Vt. (WCAX/Gray News) - A drugstore chain says it is scaling back its AI assistant after receiving hundreds of customer complaints.\nKinney Drugs said customers have reported incoherent calls, wrong dosages and missed prescription notificat... [1033 chars]",
+            "url": "https://www.wistv.com/2026/08/08/drugstore-chain-pulls-back-ai-assistant-after-receiving-hundreds-customer-complaints/",
+            "image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/QEV2FCRJFVE4HN5LGUQU3IWK5U.png?auth=2f0b57d18eb3d3dbb7bc5fb4d2610e3390e058794706a44bf2b74201e08cff23&width=1200&height=600&smart=true",
+            "publishedAt": "2026-08-08T19:58:50Z",
             "lang": "en",
             "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "d8b28b62b3a92b75a26ff4732e5bd662",
-            "title": "The Insta360 GO Ultra Now Has an AI Voice Assistant",
-            "description": "Insta360 just pushed an update for the GO Ultra that adds a Gemini-powered voice assistant, which it says turns the camera into “a more capable companion for travel, exploration, and storytelling.” The tiny vlogging camera can now perform real-time translation, answer questions based on what the camera is pointed at, or can just answer standard",
-            "content": "Insta360 just pushed an update for the GO Ultra that adds a Gemini-powered voice assistant, which it says turns the camera into “a more capable companion for travel, exploration, and storytelling.” The tiny vlogging camera can now perform real-time t... [558 chars]",
-            "url": "https://petapixel.com/reel/2026/08/07/the-insta360-go-ultra-now-has-an-ai-voice-assistant/",
-            "image": "https://i.ytimg.com/vi/i2v3JlB7gH0/maxresdefault.jpg",
-            "publishedAt": "2026-08-07T19:57:55Z",
-            "lang": "en",
-            "source": {
-                "id": "62c14ad4f80bd5e90cbba873513fe4b9",
-                "name": "PetaPixel",
-                "url": "https://petapixel.com",
+                "id": "04c17c43a7507fac95fd9ba5d47715b5",
+                "name": "WIS10",
+                "url": "https://www.wistv.com",
                 "country": "us"
             }
         },
         {
-            "id": "4a945e3b93196fb5efafed0d1450d2ae",
-            "title": "Six Canadians stocks that could benefit from the AI buildout",
-            "description": "The Financial Post asked portfolio managers for the Canadian stocks they thought could catch a ride on the AI wave. Find out more here",
-            "content": "Article content\nAfter a shaky July that included a US$500-billion single-day selloff, the AI trade came roaring back this week and helped push the S&P 500 and S&P/TSX composite indexes to new highs.\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\nSubsc... [4855 chars]",
-            "url": "https://financialpost.com/investing/six-canadians-stocks-benefit-from-ai-buildout",
-            "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/0808-mg-canadian-stocks.jpg",
-            "publishedAt": "2026-08-07T19:45:19Z",
+            "id": "a97d263b4aadac09a35bda19c85f471a",
+            "title": "Drugstore chain pulls back AI assistant after receiving hundreds of customer complaints",
+            "description": "A drugstore chain says it is scaling back its AI assistant after receiving hundreds of customer complaints.",
+            "content": "BURLINGTON, Vt. (WCAX/Gray News) - A drugstore chain says it is scaling back its AI assistant after receiving hundreds of customer complaints.\nKinney Drugs said customers have reported incoherent calls, wrong dosages and missed prescription notificat... [1033 chars]",
+            "url": "https://www.weau.com/2026/08/08/drugstore-chain-pulls-back-ai-assistant-after-receiving-hundreds-customer-complaints/",
+            "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/QEV2FCRJFVE4HN5LGUQU3IWK5U.png?auth=2f0b57d18eb3d3dbb7bc5fb4d2610e3390e058794706a44bf2b74201e08cff23&width=1200&height=600&smart=true",
+            "publishedAt": "2026-08-08T19:58:50Z",
             "lang": "en",
             "source": {
-                "id": "2492bcb79914b2ce3d9867453dae22ac",
-                "name": "Financial Post",
-                "url": "https://financialpost.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "d93489662a1622fe774bac6041e24bc5",
-            "title": "NavVis raised €73.7M to build the spatial data layer that factories need before they can deploy AI",
-            "description": "Munich-based NavVis raised €73.7M Series D to scale its spatial twin platform. Over 1B sqm of industrial space scanned. BMW, VW, Toyota, Siemens, BASF are customers.",
-            "content": "TL;DR\nNavVis raised €73.7M Series D led by The Jordan Company. Spatial twin platform has scanned 1B+ sqm. 1,500+ customers including BMW, VW, Toyota, Siemens. Expanding in US market. Partners with Nvidia, SAP, Autodesk.\nNavVis, a Munich-based spatial... [2169 chars]",
-            "url": "https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai",
-            "image": "https://media.thenextweb.com/2026/08/navvis-73-7m-series-d-spatial-twin-industrial-ai.jpg",
-            "publishedAt": "2026-08-07T19:42:08Z",
-            "lang": "en",
-            "source": {
-                "id": "11c2fbf226e7334e9f93bb78243a79cc",
-                "name": "TNW",
-                "url": "https://thenextweb.com",
+                "id": "3f09ae62ee37a33ab191a698fec83f4b",
+                "name": "WEAU",
+                "url": "https://www.weau.com",
                 "country": "us"
             }
         },
         {
-            "id": "0701be3ec4d5b7ecfdcedfd3b0fc1c98",
-            "title": "IIT Jammu's AI centre, Project Phoenix to drive innovation, entrepreneurship in J&K: CM",
-            "description": "Jammu and Kashmir Chief Minister Omar Abdullah on Thursday said the newly launched AI Centre of Excellence at IIT Jammu would focus on developing technology-driven solutions to the UT's challenges, while Project Phoenix would promote entrepreneurship and self-employment among the youth.",
-            "content": "Jammu and Kashmir Chief Minister Omar Abdullah on Thursday said the newly launched AI Centre of Excellence at IIT Jammu would focus on developing technology-driven solutions to the UT's challenges, while Project Phoenix would promote entrepreneurship... [2733 chars]",
-            "url": "https://www.tribuneindia.com/news/j-k/iit-jammus-ai-centre-project-phoenix-to-drive-innovation-entrepreneurship-in-jk-cm/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIzMjRkNzUwLTkyOTctMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-07T19:35:23Z",
+            "id": "78becb6ba061389d7640f396161bde7c",
+            "title": "Drugstore chain pulls back AI assistant after receiving hundreds of customer complaints",
+            "description": "A drugstore chain says it is scaling back its AI assistant after receiving hundreds of customer complaints.",
+            "content": "BURLINGTON, Vt. (WCAX/Gray News) - A drugstore chain says it is scaling back its AI assistant after receiving hundreds of customer complaints.\nKinney Drugs said customers have reported incoherent calls, wrong dosages and missed prescription notificat... [1033 chars]",
+            "url": "https://www.live5news.com/2026/08/08/drugstore-chain-pulls-back-ai-assistant-after-receiving-hundreds-customer-complaints/",
+            "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/QEV2FCRJFVE4HN5LGUQU3IWK5U.png?auth=2f0b57d18eb3d3dbb7bc5fb4d2610e3390e058794706a44bf2b74201e08cff23&width=1200&height=600&smart=true",
+            "publishedAt": "2026-08-08T19:58:50Z",
             "lang": "en",
             "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
+                "id": "e7b4d14003cc89c64a689f1c38723ef5",
+                "name": "Live 5 News WCSC",
+                "url": "https://www.live5news.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "347eb6a6c558674b555674144cf6ac4f",
+            "title": "Medina County fair warns of AI app spreading false info",
+            "description": "Medina County officials say an artificial intelligence-based app is spreading false information about the Medina County Fairgrounds.",
+            "content": "Medina County officials say an app that uses artificial intelligence is incorrectly reporting information about emergency situations occurring at the Medina County Fairgrounds.\nMedina County fair officials posted on social media on Aug. 8 to assure r... [1018 chars]",
+            "url": "https://www.beaconjournal.com/story/news/local/2026/08/08/medina-county-fair-warns-of-ai-app-spreading-false-info/91228455007/",
+            "image": "https://www.beaconjournal.com/gcdn/presto/2021/08/05/NABJ/b40782c2-d0a3-4a7e-bacf-bb196502cb9d-time02.jpg?crop=1565,881,x0,y457&width=1565&height=881&format=pjpg&auto=webp",
+            "publishedAt": "2026-08-08T19:53:51Z",
+            "lang": "en",
+            "source": {
+                "id": "a264eb6813d0472e83bde84a1aef630a",
+                "name": "Akron Beacon Journal",
+                "url": "https://www.beaconjournal.com",
+                "country": "us"
             }
         }
     ]
