@@ -4,48 +4,48 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 412392,
+    "totalArticles": 413178,
     "articles": [
         {
-            "id": "b556efa15cb88ee2d4768a8a81765e01",
-            "title": "Grok Imagine Image 2.0 Gets Major AI Image Editing Upgrade, Challenges GPT Image 2",
-            "description": "xAI has upgraded Grok Imagine Image 2.0 with precise image editing, background removal, multi-reference support and Smart Resize. The model has also climbed to No. 2 in an AI image-generation ranking, behind GPT Image 2.",
-            "content": "xAI is stepping up its challenge in the increasingly competitive AI image-generation market with Grok Imagine Image 2.0, an upgraded model that places greater emphasis on image editing and precise creative control. The latest version introduces tools... [3294 chars]",
-            "url": "https://in.mashable.com/tech/112672/grok-imagine-image-20-gets-major-ai-image-editing-upgrade-challenges-gpt-image-2",
-            "image": "https://sm.mashable.com/mashable_in/seo/default/grokai_5t1j.jpg",
-            "publishedAt": "2026-08-09T20:52:49Z",
+            "id": "c09f0480b07e1c8f3136422903e90f46",
+            "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
+            "description": "NVIDIA-FUNDING:Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
+            "content": "By Juby Babu and Isla Binnie\nAug 10 (Reuters) - Nvidia said on Monday it has partnered with six major financial institutions to launch compute financing platforms aimed at raising over $500 billion in third-party capital for AI infrastructure.\nThe mo... [1428 chars]",
+            "url": "https://www.livemint.com/companies/nvidia-partners-with-wall-street-giants-to-raise-500-billion-for-ai-buildout-11786394408235.html",
+            "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
+            "publishedAt": "2026-08-10T20:40:07Z",
             "lang": "en",
             "source": {
-                "id": "e894895ef041ab9c6cb7fe7223531f53",
-                "name": "Mashable India",
-                "url": "https://in.mashable.com",
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
                 "country": "in"
             }
         },
         {
-            "id": "8c2b5121e1f56519b1bf79dc3e7d884b",
-            "title": "Mark Cuban Says These 5 Types of Jobs Are Most at Risk From AI",
-            "description": "Make Money: 8 dumb ways to make money (almost anyone can do this)",
-            "content": "Mark Cuban has made it clear that he believes AI is a good thing for the job market overall, even if it will impact some categories.\nThe billionaire investor doesn’t see the technology as a negative, but he does think that it will change the nature o... [5789 chars]",
-            "url": "https://www.europesays.com/3184972/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/08/2d8bea54-e198-4267-b497-a744c0c909b1.jpg",
-            "publishedAt": "2026-08-09T20:33:18Z",
+            "id": "8dc2db38c82ea04690daf2b66597ebe4",
+            "title": "Nvidia Partners with Financial Giants to Boost AI Infrastructure Funding",
+            "description": "Nvidia has collaborated with six major financial institutions to launch financing platforms for AI infrastructure, aiming to raise over $500 billion. This initiative comes as demand for AI computing capacity surges, prompting investments from multiple sectors. The move seeks to broaden access to Nvidia infrastructure and offer lucrative investment opportunities.",
+            "content": "Nvidia announced on Monday a strategic collaboration with six major financial entities to launch compute financing platforms, aiming to amass over $500 billion in third-party capital for AI infrastructure. This initiative underscores the increasing d... [687 chars]",
+            "url": "https://www.devdiscourse.com/article/technology/3962191-nvidia-partners-with-financial-giants-to-boost-ai-infrastructure-funding",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_08_2025_05_35_28_91605.png&width=920&format=jpeg",
+            "publishedAt": "2026-08-10T20:38:34Z",
             "lang": "en",
             "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
             }
         },
         {
-            "id": "a1303b586581d7d6195016b9df0dd764",
-            "title": "Nvidia Is Going to Space With Elon Musk's Million-Satellites Plan. Here's Why It Could Be the Start of a Trillion-Dollar Cycle.",
-            "description": "SpaceX’s exclusive commitment to Nvidia signals the chipmaker’s AI leadership is expanding into entirely new markets.",
-            "content": "Nvidia (NVDA) just extended its grip on artificial intelligence (AI) computing with plans to go where no chipmaker has gone before: orbit. On Aug. 4, SpaceX (SPCX) and Nvidia announced they are partnering to design the compute payload for the Starmin... [6099 chars]",
-            "url": "https://www.barchart.com/story/news/3746369/nvidia-is-going-to-space-with-elon-musk-s-million-satellites-plan-here-s-why-it-could-be-the-start-of-a-trillion-dollar-cycle",
-            "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20J%20-%20Z)/NVIDIA%20Corp%20logo%20outside%20building-by%20BING-JHEN_HONG%20via%20iStock.jpg",
-            "publishedAt": "2026-08-09T20:11:12Z",
+            "id": "f50c353632834b85e534c2fc9b26dbd5",
+            "title": "Sandisk's Pullback Looks Like a Buying Opportunity",
+            "description": "Demand for AI memory remains robust, and analysts still see substantial upside for SNDK stock.",
+            "content": "Do memory stocks have a problem? Despite reporting massive revenue growth and rising profits, many memory stocks are on a downswing. Sandisk (SNDK) was the most recent victim, as the stock fell more than 6% following impressive fiscal fourth-quarter ... [4416 chars]",
+            "url": "https://www.barchart.com/story/news/3763350/sandisk-s-pullback-looks-like-a-buying-opportunity",
+            "image": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/AI%20(artificial%20intelligence)/Data%20Center%20by%20Caureem%20via%20Shutterstock%20(2).jpg",
+            "publishedAt": "2026-08-10T20:31:06Z",
             "lang": "en",
             "source": {
                 "id": "f81e0cedbddbe08e3058634e8bb4a56f",
@@ -55,115 +55,115 @@
             }
         },
         {
-            "id": "8aa9cb0e501f74c56ad7a50a9cd13621",
-            "title": "The numbers that changed how to think about AI data centres",
-            "description": "The numbers that changed how to think about AI data centres",
-            "content": "By Stan Chung\nOp-Ed Commentary\nFor years we talked about the cloud as though it floated somewhere above us.\nIt doesn’t.\nOn July 8, Meta broke ground on the largest data-centre project in Canadian history, north of Edmonton. Suddenly the cloud has a s... [6195 chars]",
-            "url": "https://www.e-know.ca/regions/east-kootenay/the-numbers-that-changed-how-to-think-about-ai-data-centres/",
-            "image": "https://s3.amazonaws.com/wpe-e-know.ca/eknow/wp-content/uploads/2026/08/Cloud-Water.jpg",
-            "publishedAt": "2026-08-09T20:04:43Z",
+            "id": "a8fbe84bddd886caae91427aab573a06",
+            "title": "Corma raised $60M from Sequoia to build the defensive AI that cybersecurity is missing",
+            "description": "Corma raised $60M seed from Sequoia, Khosla, and Coatue to build the first foundation model for defensive cybersecurity. Its AI agents cut response times 94%.",
+            "content": "TL;DR\nCorma raised $60M seed from Sequoia, Khosla, Coatue. Building first defensive cybersecurity foundation model. In simulations, AI attackers won 88%, defenders caught 12%. Already deployed at Fortune 100/500 orgs. Team from DeepMind and Unit 8200... [2236 chars]",
+            "url": "https://thenextweb.com/news/corma-60m-seed-sequoia-defensive-cybersecurity-ai",
+            "image": "https://media.thenextweb.com/2026/08/corma-60m-seed-sequoia-defensive-cybersecurity-ai.jpg",
+            "publishedAt": "2026-08-10T20:30:57Z",
             "lang": "en",
             "source": {
-                "id": "a65e093ce213c6ccc54dbfffdc92d659",
-                "name": "East Kootenay News",
-                "url": "https://www.e-know.ca",
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "bc1917d0d46cf590a25eb14e8c44245d",
+            "title": "No Moonshot Required: How Canada's Kinaxis Turns AI Demand Into Steady Profit",
+            "description": "Kinaxis stock keeps compounding as AI demand lifts SaaS sales and profit margins. Here is what KXS stock investors should know now.",
+            "content": "While much of the AI trade is built on promises and future potential, one Canadian software company is already raking in profits. Kinaxis (TSX:KXS) just posted its strongest first half ever, and it did so without chasing flashy headlines.\nThe Ottawa-... [3550 chars]",
+            "url": "https://www.fool.ca/2026/08/10/no-moonshot-required-how-canadas-kinaxis-turns-ai-demand-into-steady-profit/",
+            "image": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-1367106352-1-1200x800.jpg",
+            "publishedAt": "2026-08-10T20:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "19d1f502a5658ccbfaaa50f77b89993f",
+                "name": "The Motley Fool Canada",
+                "url": "https://www.fool.ca",
                 "country": "ca"
             }
         },
         {
-            "id": "830a5808b1eed921dd98475569274da8",
-            "title": "‘KGMU’s digital transformation, AI-driven healthcare my priorities’",
-            "description": "KGMU VC Prof Soniya Nityanand begins 2nd term, prioritising AI-driven digital transformation, new centres, service upgrades, and land-linked expansion plans.",
-            "content": "Prof Soniya Nityanand\nAfter becoming the first vice-chancellor of King George’s Medical University (KGMU) to bag a second consecutive term,Prof Soniya Nityanand on Sunday said the next three years will focus on consolidating gains in academics, patie... [2768 chars]",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/kgmus-digital-transformation-ai-driven-healthcare-my-priorities/articleshow/133074860.cms",
-            "image": "https://static.toiimg.com/thumb/msid-133074859,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-09T19:55:00Z",
+            "id": "22667f1b2f312a52c961ce39a0e648cd",
+            "title": "The Arena Group is renaming itself Paradium.AI, and its revenue just halved",
+            "description": "The Arena Group is renaming itself Paradium.AI by the end of August. Second-quarter revenue fell to $22.2m from $45.0m a year earlier.",
+            "content": "The Arena Group is renaming itself Paradium.AI. The publisher of TheStreet, Parade and Men’s Journal expects the change to finish by the end of August.\nBusiness Insider had it first. Steven Tweedie and Ben Shimkus obtained a staff memo from chief exe... [4522 chars]",
+            "url": "https://thenextweb.com/news/arena-group-paradium-ai-rebrand-q2-2026-results",
+            "image": "https://media.thenextweb.com/2026/08/paul-edmondson-ceo-Arena-Group.jpg",
+            "publishedAt": "2026-08-10T20:27:18Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ec186ae8f2ee54371a0ec1e80d85be61",
+            "title": "US stocks edge down from their record after oil prices climb 5%",
+            "description": "The U.S. stock market edged down from its all-time high, while oil prices rose on uncertainty about when the Strait of Hormuz could reopen and get the global flow of crude going again. The S&P 500 slipped 0.1% Monday. The Dow Jones Industrial Average dipped 0.1%, and the Nasdaq composite fell 0.3%. Intel weighed on the market after saying it may sell $15 billion of its stock to raise cash to take advantage of the AI frenzy. That helped offset Berkshire Hathaway's gain after it became one of the latest U.S. companies to deliver a better profit for the spring than expected. Brent crude rose 5%.",
+            "content": "NEW YORK (AP) — The U.S. stock market edged down from its all-time high on Monday, while oil prices rose on uncertainty about when the Strait of Hormuz could reopen and get the global flow of crude going again.\nThe S&P 500 slipped 0.1% from its recor... [3407 chars]",
+            "url": "https://www.ajc.com/news/2026/08/us-stocks-slip-below-their-records-as-oil-prices-rise-5/",
+            "image": "https://images.ajc.com/resizer/v2/AQ7NKBW7MVDRTNCGFEEDJBK2VA.jpg?auth=c4202046a96b2118b5b44d586a3cb6c24540507000e6a6164c03b4702bd90e7e&width=1200&height=630&smart=true",
+            "publishedAt": "2026-08-10T20:22:39Z",
+            "lang": "en",
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "57931cfda8477346af6486e8a6f38e73",
+            "title": "Scientists are using AI to design new viruses. Should they be?",
+            "description": "Research is outpacing regulation to govern artificial-intelligence-designed biology",
+            "content": "Scientists have crossed a threshold in artificial intelligence: using the technology, researchers have created real viruses that are entirely new to science. The achievement is impressive and raises obvious fears: Could AI, in the not-too-distant fut... [5192 chars]",
+            "url": "https://www.scientificamerican.com/article/scientists-are-using-ai-to-design-new-viruses-should-they-be/",
+            "image": "https://static.scientificamerican.com/dam/asset/483a16e5-03ef-462a-8d08-cbc0ecd5ae5b/AI-virus.jpg?m=1786393762.741&w=1200",
+            "publishedAt": "2026-08-10T20:20:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9290338c23f31e3f547a2dbfa1c52c03",
+                "name": "Scientific American",
+                "url": "https://www.scientificamerican.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "75c0b2498443fb97314aafc0e91b60c9",
+            "title": "In financial services, trust comes before speed; AI doesn't replace it",
+            "description": "India is a compelling place to test that idea, because India has been quietly building something transformative. Only a decade ago, shopkeepers offered toffees to customers when there wasn't exact change on hand.",
+            "content": "Synopsis\nIndia is a compelling place to test that idea, because India has been quietly building something transformative. Only a decade ago, shopkeepers offered toffees to customers when there wasn't exact change on hand.\nKevin Strain\nPrime Minister ... [4166 chars]",
+            "url": "https://economictimes.indiatimes.com/news/india/in-financial-services-trust-comes-before-speed-ai-doesnt-replace-it/articleshow/133135936.cms",
+            "image": "https://img.etimg.com/thumb/msid-133136198,width-1200,height-630,imgsize-82850,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-10T20:20:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "cf7e847b669f579abaea12003ee09f15",
-            "title": "How Cursor Recruits Elite AI Talent When Huge Salaries Aren't Enough",
-            "description": "Cursor is pulling out all the stops to nab top talent. Matt Ward, the company's head of talent, said recruiting the best takes a coordinated effort.",
-            "content": "In the fight for elite AI talent, the salary is the easy part.\nAt Cursor, the $60 billion company behind a suite of popular coding tools recently acquired by SpaceX, hiring a candidate is a bit like trying to win over someone who's completely out of ... [3102 chars]",
-            "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
-            "image": "https://i.insider.com/6a78c4428fcc2e955f7ded51?width=1200&format=jpeg",
-            "publishedAt": "2026-08-09T19:50:44Z",
+            "id": "2bc9566bc26af387cb8ce8385b6d2e78",
+            "title": "Bitcoin defenders seek frontier AI access in 40-group push",
+            "description": "More than 40 Bitcoin organizations urged leading AI labs to give vetted open-source defenders controlled access to frontier cybersecurity models.",
+            "content": "Bitcoin Policy Institute and more than 40 digital-asset organizations have called on leading AI laboratories to give qualified open-source security researchers controlled access to frontier models as AI-assisted cyberattacks grow more capable.\nBitcoi... [6274 chars]",
+            "url": "https://crypto.news/bitcoin-defenders-seek-frontier-ai-access-group-push/",
+            "image": "https://media.crypto.news/2026/07/Bitcoin1.webp",
+            "publishedAt": "2026-08-10T20:13:56Z",
             "lang": "en",
             "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "edebf747892980bda56fa0f07cc51b08",
-            "title": "UAE advances agentic AI project targeting 50% of government operations",
-            "description": "More than 100 federal officials attended a workshop marking the start of the project's strategic government workstream.",
-            "content": "WAM\nThe UAE has launched the strategic phase of its agentic AI project, which aims to convert 50 per cent of federal government operations, services and tasks to AI-driven models within two years.\nMore than 100 federal officials attended a workshop m... [828 chars]",
-            "url": "https://www.europesays.com/3184908/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/08/6a78b059826c4.jpg",
-            "publishedAt": "2026-08-09T19:34:29Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "786e75e8bad0d5fe910cea12634614f5",
-            "title": "Progress Software (PRGS) Rolls Out Agentic AI Tools, Is The Stock Still A Bargain?",
-            "description": "Progress Software stock reacts to new agentic AI push",
-            "content": "Progress Software stock reacts to new agentic AI push\nProgress Software (PRGS) is in focus after the company introduced agentic AI capabilities to its Sitefinity Generative CMS, embedding AI agents directly into content workflows for analysis, optimi... [3167 chars]",
-            "url": "https://www.europesays.com/3184907/",
-            "image": "https://www.europesays.com/wp-content/uploads/2025/10/1585186669041.jpeg",
-            "publishedAt": "2026-08-09T19:33:22Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "1eb4dbc3170619b97644fe156beb7c13",
-            "title": "Quorant Launches Subscription Based Quantitative Data Analysis Platform Offering Human Verification Beyond Simple AI Computations",
-            "description": "Discover Quorant, a subscription-based platform for rigorous quantitative data analysis with expert verification.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nAmid the flood of generative AI tools in the market, startup Quorant officially launches a dedicated subscription-based quantitative data analysis platform based on a differentiated premise: simple computation is merely ... [4981 chars]",
-            "url": "https://techbullion.com/quorant-launches-subscription-based-quantitative-data-analysis-platform-offering-human-verification-beyond-simple-ai-computations/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/08/main-image-1000x495.jpg",
-            "publishedAt": "2026-08-09T19:12:17Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "9ce75bfc88a349e8ce7a2e20339127b0",
-            "title": "Dogecoin Price Prediction: DOGE Stalls Near $0.07 as AlphaPepe Builds the Product-Backed Upgrade to Legacy Meme Coins",
-            "description": "Explore AlphaPepe Crypto Presale and discover how it enhances meme coins with real AI DEX utility before its launch.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nDogecoin is stuck near $0.07, and that stall tells you the whole story. The brand is huge. The community is deep. But the easy multiplier days are mostly behind it. Big market cap means big money is needed to move the pr... [4846 chars]",
-            "url": "https://techbullion.com/dogecoin-price-prediction-doge-stalls-near-0-07-as-alphapepe-builds-the-product-backed-upgrade-to-legacy-meme-coins/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/08/Dogecoin.png",
-            "publishedAt": "2026-08-09T19:01:40Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
+                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+                "name": "Crypto News",
+                "url": "https://crypto.news",
+                "country": "lt"
             }
         }
     ]
