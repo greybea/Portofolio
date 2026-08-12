@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 413178,
+    "totalArticles": 414174,
     "articles": [
         {
-            "id": "c09f0480b07e1c8f3136422903e90f46",
-            "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
-            "description": "NVIDIA-FUNDING:Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
-            "content": "By Juby Babu and Isla Binnie\nAug 10 (Reuters) - Nvidia said on Monday it has partnered with six major financial institutions to launch compute financing platforms aimed at raising over $500 billion in third-party capital for AI infrastructure.\nThe mo... [1428 chars]",
-            "url": "https://www.livemint.com/companies/nvidia-partners-with-wall-street-giants-to-raise-500-billion-for-ai-buildout-11786394408235.html",
-            "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
-            "publishedAt": "2026-08-10T20:40:07Z",
+            "id": "98cec59c734d935c4ff3266305cc22a3",
+            "title": "Trump Whisperer Shares Bonkers AI Video to Defend Plane Swap",
+            "description": "Laura Loomer shared an unhinged video depicting the president’s secret plane swap.",
+            "content": "MAGA activist Laura Loomer shared a bizarre AI-generated fantasy to defend the president’s plane swap.\nLoomer, 33, shared the unhinged video on X in defense of the president following a bombshell report from the Washington Post that detailed a secret... [2410 chars]",
+            "url": "https://www.thedailybeast.com/trump-whisperer-laura-loomer-shares-bonkers-ai-video-to-trump-defend-plane-swap/",
+            "image": "https://www.thedailybeast.com/resizer/v2/LD2Y65AWUFDIFD4NGKDGIASVKY.jpg?smart=true&auth=c90b23cb6dc319df01f72649145903becd0d40d8260f90fb3a8260938cd5f5df&width=1200&height=630",
+            "publishedAt": "2026-08-11T20:56:43Z",
             "lang": "en",
             "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "8dc2db38c82ea04690daf2b66597ebe4",
-            "title": "Nvidia Partners with Financial Giants to Boost AI Infrastructure Funding",
-            "description": "Nvidia has collaborated with six major financial institutions to launch financing platforms for AI infrastructure, aiming to raise over $500 billion. This initiative comes as demand for AI computing capacity surges, prompting investments from multiple sectors. The move seeks to broaden access to Nvidia infrastructure and offer lucrative investment opportunities.",
-            "content": "Nvidia announced on Monday a strategic collaboration with six major financial entities to launch compute financing platforms, aiming to amass over $500 billion in third-party capital for AI infrastructure. This initiative underscores the increasing d... [687 chars]",
-            "url": "https://www.devdiscourse.com/article/technology/3962191-nvidia-partners-with-financial-giants-to-boost-ai-infrastructure-funding",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_08_2025_05_35_28_91605.png&width=920&format=jpeg",
-            "publishedAt": "2026-08-10T20:38:34Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "f50c353632834b85e534c2fc9b26dbd5",
-            "title": "Sandisk's Pullback Looks Like a Buying Opportunity",
-            "description": "Demand for AI memory remains robust, and analysts still see substantial upside for SNDK stock.",
-            "content": "Do memory stocks have a problem? Despite reporting massive revenue growth and rising profits, many memory stocks are on a downswing. Sandisk (SNDK) was the most recent victim, as the stock fell more than 6% following impressive fiscal fourth-quarter ... [4416 chars]",
-            "url": "https://www.barchart.com/story/news/3763350/sandisk-s-pullback-looks-like-a-buying-opportunity",
-            "image": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/AI%20(artificial%20intelligence)/Data%20Center%20by%20Caureem%20via%20Shutterstock%20(2).jpg",
-            "publishedAt": "2026-08-10T20:31:06Z",
-            "lang": "en",
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
+                "id": "dd4c720b98e562405eba2c628af5bfd0",
+                "name": "The Daily Beast",
+                "url": "https://www.thedailybeast.com",
                 "country": "us"
             }
         },
         {
-            "id": "a8fbe84bddd886caae91427aab573a06",
-            "title": "Corma raised $60M from Sequoia to build the defensive AI that cybersecurity is missing",
-            "description": "Corma raised $60M seed from Sequoia, Khosla, and Coatue to build the first foundation model for defensive cybersecurity. Its AI agents cut response times 94%.",
-            "content": "TL;DR\nCorma raised $60M seed from Sequoia, Khosla, Coatue. Building first defensive cybersecurity foundation model. In simulations, AI attackers won 88%, defenders caught 12%. Already deployed at Fortune 100/500 orgs. Team from DeepMind and Unit 8200... [2236 chars]",
-            "url": "https://thenextweb.com/news/corma-60m-seed-sequoia-defensive-cybersecurity-ai",
-            "image": "https://media.thenextweb.com/2026/08/corma-60m-seed-sequoia-defensive-cybersecurity-ai.jpg",
-            "publishedAt": "2026-08-10T20:30:57Z",
+            "id": "cf6eb637132c962752f7cd98875a76b9",
+            "title": "Spotify Will Start Labeling AI Artists on Its Platform Next Month",
+            "description": "The human creators behind AI-generated profiles are encouraged to voluntarily identify themselves. If they don’t, the streaming platform says it has a plan to catch them.",
+            "content": "A lack of regulation in the U.S. surrounding the use of deepfakes has led to a wave of AI artists washing over streaming platforms, but on Tuesday, Spotify announced it was taking a new step to give users some clarity around whether an artist is an a... [3275 chars]",
+            "url": "https://gizmodo.com/spotify-will-start-labeling-ai-artists-on-its-platform-next-month-2000797319",
+            "image": "https://gizmodo.com/app/uploads/2026/08/Spotify-1200x675.jpg",
+            "publishedAt": "2026-08-11T20:55:59Z",
+            "lang": "en",
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "65ffe94d39e20a94325313af42a6f393",
+            "title": "Lionsgate Stock Slips After Report of Activist Investor Pushing Sale",
+            "description": "Anson Funds letter to the studio’s board of directors urged they consider an AI pivot or hang a for sale sign to avoid becoming an “AI casualty.”",
+            "content": "Shares in Lionsgate had a roller coaster ride on Tuesday after a report that an activist investor had urged a pivot of the Hollywood studio towards artificial intelligence to avoid becoming an “Al casualty.”\nSemafor was the first to report on the let... [2101 chars]",
+            "url": "https://www.hollywoodreporter.com/business/business-news/lionsgate-activist-investor-sale-1236671497/",
+            "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/153_PBW_1180_CIN_v0018_COMP_g_r709.1025_rgb-H-2026.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2026-08-11T20:47:03Z",
+            "lang": "en",
+            "source": {
+                "id": "e83df266d4bbd78d7528c3ee4fc0fc5f",
+                "name": "The Hollywood Reporter",
+                "url": "https://www.hollywoodreporter.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "517aca88107dbc656af282ee7c369aba",
+            "title": "Fetterman rejects Sanders's call to pause AI development: 'Must not happen'",
+            "description": "Senator Bernie Sanders demanded Monday that AI executives stop work on their models until their capabilities are better understood.",
+            "content": "Sen. John Fetterman, the Pennsylvania Democrat, rejected a call made Monday by his progressive colleague Bernie Sanders for a pause in AI development.\nSanders demanded in an open letter to the CEOs of OpenAI, Anthropic and Meta earlier in the day tha... [884 chars]",
+            "url": "https://foxbaltimore.com/station/share/senator-john-fetterman-rejects-bernie-sanderss-call-to-pause-ai-development-must-not-happen-china",
+            "image": "https://foxbaltimore.com/resources/media2/16x9/7404/1320/0x1/90/87fbbe0b-9d3d-4c09-a055-dc5aaec914a2-GettyImages22673821791.jpg",
+            "publishedAt": "2026-08-11T20:45:58Z",
+            "lang": "en",
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "a01d66e2b14720692cdc1bc3b9fc30eb",
+            "title": "Fetterman rejects Sanders's call to pause AI development: 'Must not happen'",
+            "description": "Senator Bernie Sanders demanded Monday that AI executives stop work on their models until their capabilities are better understood.",
+            "content": "Sen. John Fetterman, the Pennsylvania Democrat, rejected a call made Monday by his progressive colleague Bernie Sanders for a pause in AI development.\nSanders demanded in an open letter to the CEOs of OpenAI, Anthropic and Meta earlier in the day tha... [884 chars]",
+            "url": "https://wjla.com/news/nation-world/senator-john-fetterman-rejects-bernie-sanderss-call-to-pause-ai-development-must-not-happen-china",
+            "image": "https://wjla.com/resources/media2/16x9/7404/1320/0x1/90/87fbbe0b-9d3d-4c09-a055-dc5aaec914a2-GettyImages22673821791.jpg",
+            "publishedAt": "2026-08-11T20:45:58Z",
+            "lang": "en",
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "29d42e572b61a9c620ad216e85cb2c3e",
+            "title": "Quantinuum and Oracle Partner to Accelerate Hybrid Quantum Compute Adoption on Oracle Cloud Infrastructure",
+            "description": "**media[1173335]**Quantinuum's most advanced quantum computer, Helios, will be deployed in a US-based OCI AI data center to enable hybrid quantum-AI workloads as an OCI service.Quantinuum and Oracle aim to support enterprise, AI lab, academic, and research applications spanning drug discovery, materials science, financial modeling, and large-scale optimization, including AI workloads. BROOMFIELD, Colo. and AUSTIN, Texas, Aug. 12, 2026 /PRNewswire/ -- Quantinuum (NASDAQ: QNT), a leading quantum computing company, and Oracle today announced a multi-year strategic partnership to bring quantum computing to Oracle Cloud Infrastructure (OCI). Under the partnership, OCI customers will be able to directly access Quantinuum's Helios, the most accurate commercial quantum computer in the world,[1] through OCI's quantum service, alongside OCI's high-performance computing (HPC) and GPU infrastructure.",
+            "content": "Quantinuum's most advanced quantum computer, Helios, will be deployed in a US-based OCI AI data center to enable hybrid quantum-AI workloads as an OCI service.\nQuantinuum and Oracle aim to support enterprise, AI lab, academic, and research applicatio... [8911 chars]",
+            "url": "https://www.manilatimes.net/2026/08/12/tmt-newswire/pr-newswire/quantinuum-and-oracle-partner-to-accelerate-hybrid-quantum-compute-adoption-on-oracle-cloud-infrastructure/2403474",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/12/1173334.jpg",
+            "publishedAt": "2026-08-11T20:41:19Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "d8dcb6460bcbffd40cb9cb0a125559d1",
+            "title": "Mapping how mental health risks emerge in AI chatbot conversations",
+            "description": "Scientists at UCL have developed a framework for stress-testing how AI chatbots respond to vulnerable users, helping researchers identify weaknesses and test ways to make mental health interactions safer.",
+            "content": "Scientists at UCL have developed a framework for stress-testing how AI chatbots respond to vulnerable users, helping researchers identify weaknesses and test ways to make mental health interactions safer.\nPublished in Nature Medicine, the study intro... [3860 chars]",
+            "url": "https://medicalxpress.com/news/2026-08-mental-health-emerge-ai-chatbot.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/lonely-computer.jpg",
+            "publishedAt": "2026-08-11T20:40:04Z",
+            "lang": "en",
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "88df7ff5c2c014f4740216b189c6a514",
+            "title": "Grok Bot Brings Always-On AI Agents to macOS and iOS",
+            "description": "Elon Musk's SpaceXAI today announced the launch of Grok Bot, a \"team of always-on agents\" that can complete tasks using tools, websites, and apps. Grok Bot can work in the cloud, so jobs keep running when your laptop is closed. The feature is tied to Cursor, the AI coding company that SpaceX is acquiring for $60 billion. Grok subscribers can send a message to a bot from their phone or desktop app using natural language.",
+            "content": "Elon Musk's SpaceXAI today announced the launch of Grok Bot, a \"team of always-on agents\" that can complete tasks using tools, websites, and apps. Grok Bot can work in the cloud, so jobs keep running when your laptop is closed. The feature is tied to... [1416 chars]",
+            "url": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios/",
+            "image": "https://images.macrumors.com/t/vjskRb9YPAGFszyGUGOClm9hy8M=/1600x/article-new/2026/01/grok-logo-purple-gradient.jpg",
+            "publishedAt": "2026-08-11T20:34:50Z",
+            "lang": "en",
+            "source": {
+                "id": "10216cb8fabd0accd5eb967c97fc37ab",
+                "name": "MacRumors",
+                "url": "https://www.macrumors.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c280b4687fd5ec28d8de240cf8a05f17",
+            "title": "Urevo Cyber Mega Smart Treadmill Offers UK Runners Sub",
+            "description": "Take your running seriously? Urevo’s new Cyber Mega Smart Treadmill combines impressive hardware and an AI training tool to get you ready for your next big race.",
+            "content": "Urevo, the smart fitness company known for its under-desk pads and home cardio machines, is tapping into the increasing popularity of serious marathon running with the Cyber Mega Smart Treadmill, which is now available in the UK.\nRepresenting its fir... [1925 chars]",
+            "url": "https://www.forbes.com/sites/bennyhareven/2026/08/11/urevo-cyber-mega-smart-treadmill-featuring-sub-free-ai-training-hits-uk/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a7b859b5919f184cdd693ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-08-11T20:32:29Z",
+            "lang": "en",
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ed516e091c921dcbea6bf179d19b9d70",
+            "title": "SpaceXAI launches Grok Bot as the agent race moves to office work",
+            "description": "SpaceXAI has released Grok Bot in beta, AI agents that sign into apps, keep context and work in parallel. Access starts with paid Grok and Cursor tiers.",
+            "content": "SpaceXAI has launched Grok Bot in beta, AI agents that sign into apps and websites, retain context between tasks and coordinate with each other. Access is limited at first to SuperGrok Heavy, Cursor Ultra and Cursor Teams Premium subscribers, with an... [1843 chars]",
+            "url": "https://thenextweb.com/news/spacexai-grok-bot-ai-agents-cursor",
+            "image": "https://media.thenextweb.com/2026/08/grok-imagine-image-2-editing-arena-ranking-spacexai.jpg",
+            "publishedAt": "2026-08-11T20:26:43Z",
             "lang": "en",
             "source": {
                 "id": "11c2fbf226e7334e9f93bb78243a79cc",
                 "name": "TNW",
                 "url": "https://thenextweb.com",
                 "country": "us"
-            }
-        },
-        {
-            "id": "bc1917d0d46cf590a25eb14e8c44245d",
-            "title": "No Moonshot Required: How Canada's Kinaxis Turns AI Demand Into Steady Profit",
-            "description": "Kinaxis stock keeps compounding as AI demand lifts SaaS sales and profit margins. Here is what KXS stock investors should know now.",
-            "content": "While much of the AI trade is built on promises and future potential, one Canadian software company is already raking in profits. Kinaxis (TSX:KXS) just posted its strongest first half ever, and it did so without chasing flashy headlines.\nThe Ottawa-... [3550 chars]",
-            "url": "https://www.fool.ca/2026/08/10/no-moonshot-required-how-canadas-kinaxis-turns-ai-demand-into-steady-profit/",
-            "image": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-1367106352-1-1200x800.jpg",
-            "publishedAt": "2026-08-10T20:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "19d1f502a5658ccbfaaa50f77b89993f",
-                "name": "The Motley Fool Canada",
-                "url": "https://www.fool.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "22667f1b2f312a52c961ce39a0e648cd",
-            "title": "The Arena Group is renaming itself Paradium.AI, and its revenue just halved",
-            "description": "The Arena Group is renaming itself Paradium.AI by the end of August. Second-quarter revenue fell to $22.2m from $45.0m a year earlier.",
-            "content": "The Arena Group is renaming itself Paradium.AI. The publisher of TheStreet, Parade and Men’s Journal expects the change to finish by the end of August.\nBusiness Insider had it first. Steven Tweedie and Ben Shimkus obtained a staff memo from chief exe... [4522 chars]",
-            "url": "https://thenextweb.com/news/arena-group-paradium-ai-rebrand-q2-2026-results",
-            "image": "https://media.thenextweb.com/2026/08/paul-edmondson-ceo-Arena-Group.jpg",
-            "publishedAt": "2026-08-10T20:27:18Z",
-            "lang": "en",
-            "source": {
-                "id": "11c2fbf226e7334e9f93bb78243a79cc",
-                "name": "TNW",
-                "url": "https://thenextweb.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "ec186ae8f2ee54371a0ec1e80d85be61",
-            "title": "US stocks edge down from their record after oil prices climb 5%",
-            "description": "The U.S. stock market edged down from its all-time high, while oil prices rose on uncertainty about when the Strait of Hormuz could reopen and get the global flow of crude going again. The S&P 500 slipped 0.1% Monday. The Dow Jones Industrial Average dipped 0.1%, and the Nasdaq composite fell 0.3%. Intel weighed on the market after saying it may sell $15 billion of its stock to raise cash to take advantage of the AI frenzy. That helped offset Berkshire Hathaway's gain after it became one of the latest U.S. companies to deliver a better profit for the spring than expected. Brent crude rose 5%.",
-            "content": "NEW YORK (AP) — The U.S. stock market edged down from its all-time high on Monday, while oil prices rose on uncertainty about when the Strait of Hormuz could reopen and get the global flow of crude going again.\nThe S&P 500 slipped 0.1% from its recor... [3407 chars]",
-            "url": "https://www.ajc.com/news/2026/08/us-stocks-slip-below-their-records-as-oil-prices-rise-5/",
-            "image": "https://images.ajc.com/resizer/v2/AQ7NKBW7MVDRTNCGFEEDJBK2VA.jpg?auth=c4202046a96b2118b5b44d586a3cb6c24540507000e6a6164c03b4702bd90e7e&width=1200&height=630&smart=true",
-            "publishedAt": "2026-08-10T20:22:39Z",
-            "lang": "en",
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "57931cfda8477346af6486e8a6f38e73",
-            "title": "Scientists are using AI to design new viruses. Should they be?",
-            "description": "Research is outpacing regulation to govern artificial-intelligence-designed biology",
-            "content": "Scientists have crossed a threshold in artificial intelligence: using the technology, researchers have created real viruses that are entirely new to science. The achievement is impressive and raises obvious fears: Could AI, in the not-too-distant fut... [5192 chars]",
-            "url": "https://www.scientificamerican.com/article/scientists-are-using-ai-to-design-new-viruses-should-they-be/",
-            "image": "https://static.scientificamerican.com/dam/asset/483a16e5-03ef-462a-8d08-cbc0ecd5ae5b/AI-virus.jpg?m=1786393762.741&w=1200",
-            "publishedAt": "2026-08-10T20:20:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9290338c23f31e3f547a2dbfa1c52c03",
-                "name": "Scientific American",
-                "url": "https://www.scientificamerican.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "75c0b2498443fb97314aafc0e91b60c9",
-            "title": "In financial services, trust comes before speed; AI doesn't replace it",
-            "description": "India is a compelling place to test that idea, because India has been quietly building something transformative. Only a decade ago, shopkeepers offered toffees to customers when there wasn't exact change on hand.",
-            "content": "Synopsis\nIndia is a compelling place to test that idea, because India has been quietly building something transformative. Only a decade ago, shopkeepers offered toffees to customers when there wasn't exact change on hand.\nKevin Strain\nPrime Minister ... [4166 chars]",
-            "url": "https://economictimes.indiatimes.com/news/india/in-financial-services-trust-comes-before-speed-ai-doesnt-replace-it/articleshow/133135936.cms",
-            "image": "https://img.etimg.com/thumb/msid-133136198,width-1200,height-630,imgsize-82850,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-08-10T20:20:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "2bc9566bc26af387cb8ce8385b6d2e78",
-            "title": "Bitcoin defenders seek frontier AI access in 40-group push",
-            "description": "More than 40 Bitcoin organizations urged leading AI labs to give vetted open-source defenders controlled access to frontier cybersecurity models.",
-            "content": "Bitcoin Policy Institute and more than 40 digital-asset organizations have called on leading AI laboratories to give qualified open-source security researchers controlled access to frontier models as AI-assisted cyberattacks grow more capable.\nBitcoi... [6274 chars]",
-            "url": "https://crypto.news/bitcoin-defenders-seek-frontier-ai-access-group-push/",
-            "image": "https://media.crypto.news/2026/07/Bitcoin1.webp",
-            "publishedAt": "2026-08-10T20:13:56Z",
-            "lang": "en",
-            "source": {
-                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
-                "name": "Crypto News",
-                "url": "https://crypto.news",
-                "country": "lt"
             }
         }
     ]
