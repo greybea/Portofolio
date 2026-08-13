@@ -4,128 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 414174,
+    "totalArticles": 415048,
     "articles": [
         {
-            "id": "98cec59c734d935c4ff3266305cc22a3",
-            "title": "Trump Whisperer Shares Bonkers AI Video to Defend Plane Swap",
-            "description": "Laura Loomer shared an unhinged video depicting the president’s secret plane swap.",
-            "content": "MAGA activist Laura Loomer shared a bizarre AI-generated fantasy to defend the president’s plane swap.\nLoomer, 33, shared the unhinged video on X in defense of the president following a bombshell report from the Washington Post that detailed a secret... [2410 chars]",
-            "url": "https://www.thedailybeast.com/trump-whisperer-laura-loomer-shares-bonkers-ai-video-to-trump-defend-plane-swap/",
-            "image": "https://www.thedailybeast.com/resizer/v2/LD2Y65AWUFDIFD4NGKDGIASVKY.jpg?smart=true&auth=c90b23cb6dc319df01f72649145903becd0d40d8260f90fb3a8260938cd5f5df&width=1200&height=630",
-            "publishedAt": "2026-08-11T20:56:43Z",
-            "lang": "en",
-            "source": {
-                "id": "dd4c720b98e562405eba2c628af5bfd0",
-                "name": "The Daily Beast",
-                "url": "https://www.thedailybeast.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "cf6eb637132c962752f7cd98875a76b9",
-            "title": "Spotify Will Start Labeling AI Artists on Its Platform Next Month",
-            "description": "The human creators behind AI-generated profiles are encouraged to voluntarily identify themselves. If they don’t, the streaming platform says it has a plan to catch them.",
-            "content": "A lack of regulation in the U.S. surrounding the use of deepfakes has led to a wave of AI artists washing over streaming platforms, but on Tuesday, Spotify announced it was taking a new step to give users some clarity around whether an artist is an a... [3275 chars]",
-            "url": "https://gizmodo.com/spotify-will-start-labeling-ai-artists-on-its-platform-next-month-2000797319",
-            "image": "https://gizmodo.com/app/uploads/2026/08/Spotify-1200x675.jpg",
-            "publishedAt": "2026-08-11T20:55:59Z",
-            "lang": "en",
-            "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "65ffe94d39e20a94325313af42a6f393",
-            "title": "Lionsgate Stock Slips After Report of Activist Investor Pushing Sale",
-            "description": "Anson Funds letter to the studio’s board of directors urged they consider an AI pivot or hang a for sale sign to avoid becoming an “AI casualty.”",
-            "content": "Shares in Lionsgate had a roller coaster ride on Tuesday after a report that an activist investor had urged a pivot of the Hollywood studio towards artificial intelligence to avoid becoming an “Al casualty.”\nSemafor was the first to report on the let... [2101 chars]",
-            "url": "https://www.hollywoodreporter.com/business/business-news/lionsgate-activist-investor-sale-1236671497/",
-            "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/153_PBW_1180_CIN_v0018_COMP_g_r709.1025_rgb-H-2026.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2026-08-11T20:47:03Z",
-            "lang": "en",
-            "source": {
-                "id": "e83df266d4bbd78d7528c3ee4fc0fc5f",
-                "name": "The Hollywood Reporter",
-                "url": "https://www.hollywoodreporter.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "517aca88107dbc656af282ee7c369aba",
-            "title": "Fetterman rejects Sanders's call to pause AI development: 'Must not happen'",
-            "description": "Senator Bernie Sanders demanded Monday that AI executives stop work on their models until their capabilities are better understood.",
-            "content": "Sen. John Fetterman, the Pennsylvania Democrat, rejected a call made Monday by his progressive colleague Bernie Sanders for a pause in AI development.\nSanders demanded in an open letter to the CEOs of OpenAI, Anthropic and Meta earlier in the day tha... [884 chars]",
-            "url": "https://foxbaltimore.com/station/share/senator-john-fetterman-rejects-bernie-sanderss-call-to-pause-ai-development-must-not-happen-china",
-            "image": "https://foxbaltimore.com/resources/media2/16x9/7404/1320/0x1/90/87fbbe0b-9d3d-4c09-a055-dc5aaec914a2-GettyImages22673821791.jpg",
-            "publishedAt": "2026-08-11T20:45:58Z",
-            "lang": "en",
-            "source": {
-                "id": "9f53afb019d44feb16bcc7da150e679a",
-                "name": "Baltimore News",
-                "url": "https://foxbaltimore.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "a01d66e2b14720692cdc1bc3b9fc30eb",
-            "title": "Fetterman rejects Sanders's call to pause AI development: 'Must not happen'",
-            "description": "Senator Bernie Sanders demanded Monday that AI executives stop work on their models until their capabilities are better understood.",
-            "content": "Sen. John Fetterman, the Pennsylvania Democrat, rejected a call made Monday by his progressive colleague Bernie Sanders for a pause in AI development.\nSanders demanded in an open letter to the CEOs of OpenAI, Anthropic and Meta earlier in the day tha... [884 chars]",
-            "url": "https://wjla.com/news/nation-world/senator-john-fetterman-rejects-bernie-sanderss-call-to-pause-ai-development-must-not-happen-china",
-            "image": "https://wjla.com/resources/media2/16x9/7404/1320/0x1/90/87fbbe0b-9d3d-4c09-a055-dc5aaec914a2-GettyImages22673821791.jpg",
-            "publishedAt": "2026-08-11T20:45:58Z",
-            "lang": "en",
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "29d42e572b61a9c620ad216e85cb2c3e",
-            "title": "Quantinuum and Oracle Partner to Accelerate Hybrid Quantum Compute Adoption on Oracle Cloud Infrastructure",
-            "description": "**media[1173335]**Quantinuum's most advanced quantum computer, Helios, will be deployed in a US-based OCI AI data center to enable hybrid quantum-AI workloads as an OCI service.Quantinuum and Oracle aim to support enterprise, AI lab, academic, and research applications spanning drug discovery, materials science, financial modeling, and large-scale optimization, including AI workloads. BROOMFIELD, Colo. and AUSTIN, Texas, Aug. 12, 2026 /PRNewswire/ -- Quantinuum (NASDAQ: QNT), a leading quantum computing company, and Oracle today announced a multi-year strategic partnership to bring quantum computing to Oracle Cloud Infrastructure (OCI). Under the partnership, OCI customers will be able to directly access Quantinuum's Helios, the most accurate commercial quantum computer in the world,[1] through OCI's quantum service, alongside OCI's high-performance computing (HPC) and GPU infrastructure.",
-            "content": "Quantinuum's most advanced quantum computer, Helios, will be deployed in a US-based OCI AI data center to enable hybrid quantum-AI workloads as an OCI service.\nQuantinuum and Oracle aim to support enterprise, AI lab, academic, and research applicatio... [8911 chars]",
-            "url": "https://www.manilatimes.net/2026/08/12/tmt-newswire/pr-newswire/quantinuum-and-oracle-partner-to-accelerate-hybrid-quantum-compute-adoption-on-oracle-cloud-infrastructure/2403474",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/12/1173334.jpg",
-            "publishedAt": "2026-08-11T20:41:19Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "d8dcb6460bcbffd40cb9cb0a125559d1",
-            "title": "Mapping how mental health risks emerge in AI chatbot conversations",
-            "description": "Scientists at UCL have developed a framework for stress-testing how AI chatbots respond to vulnerable users, helping researchers identify weaknesses and test ways to make mental health interactions safer.",
-            "content": "Scientists at UCL have developed a framework for stress-testing how AI chatbots respond to vulnerable users, helping researchers identify weaknesses and test ways to make mental health interactions safer.\nPublished in Nature Medicine, the study intro... [3860 chars]",
-            "url": "https://medicalxpress.com/news/2026-08-mental-health-emerge-ai-chatbot.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/lonely-computer.jpg",
-            "publishedAt": "2026-08-11T20:40:04Z",
-            "lang": "en",
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "88df7ff5c2c014f4740216b189c6a514",
-            "title": "Grok Bot Brings Always-On AI Agents to macOS and iOS",
-            "description": "Elon Musk's SpaceXAI today announced the launch of Grok Bot, a \"team of always-on agents\" that can complete tasks using tools, websites, and apps. Grok Bot can work in the cloud, so jobs keep running when your laptop is closed. The feature is tied to Cursor, the AI coding company that SpaceX is acquiring for $60 billion. Grok subscribers can send a message to a bot from their phone or desktop app using natural language.",
-            "content": "Elon Musk's SpaceXAI today announced the launch of Grok Bot, a \"team of always-on agents\" that can complete tasks using tools, websites, and apps. Grok Bot can work in the cloud, so jobs keep running when your laptop is closed. The feature is tied to... [1416 chars]",
-            "url": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios/",
-            "image": "https://images.macrumors.com/t/vjskRb9YPAGFszyGUGOClm9hy8M=/1600x/article-new/2026/01/grok-logo-purple-gradient.jpg",
-            "publishedAt": "2026-08-11T20:34:50Z",
+            "id": "bff89a6c64254513cfff6c94ebf7cf5e",
+            "title": "Google Kicks Off Fall Hardware Season With New Pixel 11 Smartphones",
+            "description": "Google today announced new products that compete with Apple devices like the iPhone and the Apple Watch. There are new Pixel smartphones with AI capabilities, a new foldable, and new wearable devices. Pixel 11 Pro Fold The Pixel 11 Pro Fold is thinner and lighter than the prior-generation Pixel Fold. It has a 6.5-inch OLED display when closed, and an 8-inch OLED display when open. When unfolded, it's 5.1mm thick, and when closed, it's 10.2mm thick.",
+            "content": "Google today announced new products that compete with Apple devices like the iPhone and the Apple Watch. There are new Pixel smartphones with AI capabilities, a new foldable, and new wearable devices.\nPixel 11 Pro Fold\nThe Pixel 11 Pro Fold is thinne... [4373 chars]",
+            "url": "https://www.macrumors.com/2026/08/12/google-pixel-11-lineup/",
+            "image": "https://images.macrumors.com/t/ljvC64kwKtsOrNRPO7MobLL_5Nk=/1600x/article-new/2026/08/pixel-11-pro-fold.jpg",
+            "publishedAt": "2026-08-12T20:59:00Z",
             "lang": "en",
             "source": {
                 "id": "10216cb8fabd0accd5eb967c97fc37ab",
@@ -135,34 +23,146 @@
             }
         },
         {
-            "id": "c280b4687fd5ec28d8de240cf8a05f17",
-            "title": "Urevo Cyber Mega Smart Treadmill Offers UK Runners Sub",
-            "description": "Take your running seriously? Urevo’s new Cyber Mega Smart Treadmill combines impressive hardware and an AI training tool to get you ready for your next big race.",
-            "content": "Urevo, the smart fitness company known for its under-desk pads and home cardio machines, is tapping into the increasing popularity of serious marathon running with the Cyber Mega Smart Treadmill, which is now available in the UK.\nRepresenting its fir... [1925 chars]",
-            "url": "https://www.forbes.com/sites/bennyhareven/2026/08/11/urevo-cyber-mega-smart-treadmill-featuring-sub-free-ai-training-hits-uk/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a7b859b5919f184cdd693ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-08-11T20:32:29Z",
+            "id": "9e80c09d9fc5becaba15ad45960470d5",
+            "title": "AI Forecasting Revolutionizes Weather Predictions Amid Rising Extremes",
+            "description": "A look at how AI weather models in China are revolutionizing forecasting as meteorologists tackle Typhoon Dolphin. AI systems like Shanghai AI Laboratory's Fengwu, Huawei's Pangu, and Fudan University's Fuxi significantly outperform traditional predictions, marking China's prominence in improved weather prediction amidst increasing climate challenges.",
+            "content": "In the realm of meteorology, China's innovative approach to weather forecasting is making headlines. As Typhoon Dolphin threatened the Chinese coast, artificial intelligence models joined forces with conventional systems, showcasing the country's sig... [582 chars]",
+            "url": "https://www.devdiscourse.com/article/science-environment/3963171-ai-forecasting-revolutionizes-weather-predictions-amid-rising-extremes",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_05_2025_13_48_32_8297515.png&width=920&format=jpeg",
+            "publishedAt": "2026-08-12T20:56:07Z",
             "lang": "en",
             "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "a8bc6dff86b273381ee53427dcc3508e",
+            "title": "Dow Jones Futures: Cisco, Coherent Are Earnings Movers Late After Nebius, Lumentum, CoreWeave Lead AI Rally",
+            "description": "Dow Jones futures: AI stocks led Wednesday, led by Nebius, Lumentum, CoreWeave and Super Micro. Cisco and Coherent were earnings movers late.",
+            "content": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we ... [1013 chars]",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cisco-coherent-earnings-movers-nebius-lumentum-coreweave-ai-rally/",
+            "image": "https://www.investors.com/wp-content/uploads/2024/03/Stock-digitalbull-generatedai-01-adobe.jpg",
+            "publishedAt": "2026-08-12T20:52:58Z",
+            "lang": "en",
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
                 "country": "us"
             }
         },
         {
-            "id": "ed516e091c921dcbea6bf179d19b9d70",
-            "title": "SpaceXAI launches Grok Bot as the agent race moves to office work",
-            "description": "SpaceXAI has released Grok Bot in beta, AI agents that sign into apps, keep context and work in parallel. Access starts with paid Grok and Cursor tiers.",
-            "content": "SpaceXAI has launched Grok Bot in beta, AI agents that sign into apps and websites, retain context between tasks and coordinate with each other. Access is limited at first to SuperGrok Heavy, Cursor Ultra and Cursor Teams Premium subscribers, with an... [1843 chars]",
-            "url": "https://thenextweb.com/news/spacexai-grok-bot-ai-agents-cursor",
-            "image": "https://media.thenextweb.com/2026/08/grok-imagine-image-2-editing-arena-ranking-spacexai.jpg",
-            "publishedAt": "2026-08-11T20:26:43Z",
+            "id": "7db550409d76c43ba916e120bd2b0eeb",
+            "title": "Dear HP Stock Fans, Mark Your Calendars for August 26",
+            "description": "HP’s strong growth faces a key test as rising component costs threaten to pressure profits despite growing AI PC adoption.",
+            "content": "HP (HPQ) has given investors plenty to celebrate in 2026, but Aug. 26 could be the next major test. The PC maker is scheduled to report its fiscal third-quarter results after the market closes, giving investors a fresh look at whether the artificial ... [3904 chars]",
+            "url": "https://www.barchart.com/story/news/3813902/dear-hp-stock-fans-mark-your-calendars-for-august-26",
+            "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20A%20-%20I)/The%20logo%20of%20American%20Hewlett-Packard%20Enterprise%20company%20on%20a%20black%20building%20By%20mino21.jpeg",
+            "publishedAt": "2026-08-12T20:47:27Z",
             "lang": "en",
             "source": {
-                "id": "11c2fbf226e7334e9f93bb78243a79cc",
-                "name": "TNW",
-                "url": "https://thenextweb.com",
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "efe147de02f73a7ca1b3abefe5ef57bc",
+            "title": "Stocks Close Higher on Favorable CPI Report and Positive AI News",
+            "description": "The S&P 500 Index ($SPX ) (SPY ) on Wednesday rose +0.26%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell -0.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +0.74%. September E-mini S&P futures (ESU26 ) rose +0.31%, and September E...",
+            "content": "The S&P 500 Index ($SPX) (SPY) on Wednesday rose +0.26%, the Dow Jones Industrial Average ($DOWI) (DIA) fell -0.04%, and the Nasdaq 100 Index ($IUXX) (QQQ) rose +0.74%. September E-mini S&P futures (ESU26) rose +0.31%, and September E-mini Nasdaq fut... [4948 chars]",
+            "url": "https://www.barchart.com/story/news/3813891/stocks-close-higher-on-favorable-cpi-report-and-positive-ai-news",
+            "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Wall%20Street/The%20Wall%20Street%20sign%20is%20seen%20outside%20the%20New%20York%20Stock%20Exchange%20by%20hapabapa%20via%20iStock.jpg",
+            "publishedAt": "2026-08-12T20:46:20Z",
+            "lang": "en",
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "dc20f9ea18dd1726569b7c6dc205048d",
+            "title": "I Dropped Out of Harvard to Build a $2.5 Billion AI-Powered Startup",
+            "description": "After struggling to get a comprehensive picture of her own health, Pranitha Patil launched a solution. Now, Function is valued at $2.5B.",
+            "content": "This as-told-to story is based on a conversation with Pranitha Patil, co-founder and chief business officer of preventive health membership platform Function, now valued at $2.5 billion. Function, co-founded by Jonathan Swerdlin (CEO), Dr. Mark Hyman... [7199 chars]",
+            "url": "https://www.entrepreneur.com/building-a-business/i-dropped-out-of-harvard-to-build-a-2-5-billion-ai-powered-company-function",
+            "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/Function-Pranitha-Patil_3000x2000_horizontal_25746e.jpg?resize=1024,683",
+            "publishedAt": "2026-08-12T20:45:11Z",
+            "lang": "en",
+            "source": {
+                "id": "839b9d172147498877bab641815b0631",
+                "name": "Entrepreneur",
+                "url": "https://www.entrepreneur.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "b13ecaf0302606639deb6e6b3f0b9afd",
+            "title": "Echoing Palworld dev, video game lawyer says all her clients have anti-AI contracts because gamers hate it and it's a copyright landmine: \"I think we're going to see lawsuits\"",
+            "description": "Don't touch it. It's not worth the legal liability",
+            "content": "Video game lawyer Haley MacLean has seen such a sharp rise in anti-AI wording in the game dev and publisher contracts she reviews that virtually \"all\" of her clients now explicitly oppose the tech.\nSpeaking with GamesRadar+, MacLean, a corporate IP l... [6509 chars]",
+            "url": "https://www.gamesradar.com/games/echoing-palworld-dev-video-game-lawyer-says-all-her-clients-have-anti-ai-contracts-because-gamers-hate-it-and-its-a-copyright-landmine-i-think-were-going-to-see-lawsuits/",
+            "image": "https://cdn.mos.cms.futurecdn.net/RpwAGo8wiBn3WGfd4EGH3A-1920-80.jpg",
+            "publishedAt": "2026-08-12T20:37:36Z",
+            "lang": "en",
+            "source": {
+                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
+                "name": "GamesRadar+",
+                "url": "https://www.gamesradar.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "05858bfc0c85b75ea12dfb1081f8af07",
+            "title": "Bruce Blakeman has defiant message for Dems angry about his AI ads on Hochul, Mamdani",
+            "description": "\"Everybody knows it’s AI, and it’s funny — so what’s your problem? Get a life,” Blakeman said.",
+            "content": "Republican gubernatorial candidate Bruce Blakeman told Democrats to get over it after party leaders filed a complaint against him for a series of AI campaign ads.\nBlakeman said he’d continue to use artificial intelligence ads despite a complaint to t... [2823 chars]",
+            "url": "https://nypost.com/2026/08/12/us-news/bruce-blakeman-has-defiant-message-for-dems-angry-about-his-ai-ads-on-hochul-mamdani/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/comp-Screenshot-2026-08-12-at-14137-PM.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-08-12T20:33:56Z",
+            "lang": "en",
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "9aed03d185baf3434286dafe12d9673b",
+            "title": "'We have serious concerns,’ northern Alberta chief says after hosting community meeting on Wonder Valley",
+            "description": "Sturgeon Lake Cree Nation leaders and legal council presented to band members in their northern Alberta community on what they know about the proposed Wonder Valley AI data centre campus that is being backed by celebrity investor Kevin O'Leary in their traditional territory.",
+            "content": "Dozens of band members were in attendance Tuesday afternoon at the Sturgeon Lake Cree Nation Community Hall, as community leaders and legal counsel hosted their first engagement session to inform residents of what the proposed Wonder Valley AI data c... [4249 chars]",
+            "url": "https://www.cbc.ca/news/canada/edmonton/sturgeon-lake-cree-nation-wonder-valley-engagement-session-9.7305052",
+            "image": "https://i.cbc.ca/ais/4d2bd844-dc76-4c40-9739-7d59c53e048e,1786565935695/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C432%2C5712%2C3213%29%3BResize%3D620",
+            "publishedAt": "2026-08-12T20:32:23Z",
+            "lang": "en",
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "4dba7b59aa4f591efa837b7679564aba",
+            "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
+            "description": "Researchers found every major AI provider encrypts reasoning tokens with a single global key—and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.",
+            "content": "Security researchers have found a way to read the encrypted \"inner thoughts\" of every major AI reasoning model—and uncovered 62 live API keys and 33 passwords buried in session logs that developers had shared publicly online without knowing what was ... [4139 chars]",
+            "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
+            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png",
+            "publishedAt": "2026-08-12T20:31:04Z",
+            "lang": "en",
+            "source": {
+                "id": "6956007add5fc13a6721202ec906b1c4",
+                "name": "Decrypt",
+                "url": "https://decrypt.co",
                 "country": "us"
             }
         }
