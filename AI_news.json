@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 415048,
+    "totalArticles": 415906,
     "articles": [
         {
-            "id": "bff89a6c64254513cfff6c94ebf7cf5e",
-            "title": "Google Kicks Off Fall Hardware Season With New Pixel 11 Smartphones",
-            "description": "Google today announced new products that compete with Apple devices like the iPhone and the Apple Watch. There are new Pixel smartphones with AI capabilities, a new foldable, and new wearable devices. Pixel 11 Pro Fold The Pixel 11 Pro Fold is thinner and lighter than the prior-generation Pixel Fold. It has a 6.5-inch OLED display when closed, and an 8-inch OLED display when open. When unfolded, it's 5.1mm thick, and when closed, it's 10.2mm thick.",
-            "content": "Google today announced new products that compete with Apple devices like the iPhone and the Apple Watch. There are new Pixel smartphones with AI capabilities, a new foldable, and new wearable devices.\nPixel 11 Pro Fold\nThe Pixel 11 Pro Fold is thinne... [4373 chars]",
-            "url": "https://www.macrumors.com/2026/08/12/google-pixel-11-lineup/",
-            "image": "https://images.macrumors.com/t/ljvC64kwKtsOrNRPO7MobLL_5Nk=/1600x/article-new/2026/08/pixel-11-pro-fold.jpg",
-            "publishedAt": "2026-08-12T20:59:00Z",
+            "id": "142df1a5e522e9c77458ae79cf5b1ecd",
+            "title": "Drive Point Exchange Unveils Revolutionary Customer-Facing App with AI Integration",
+            "description": "The new app promises 24/7 customer support and enhanced user experience through AI technology.",
+            "content": "The new app promises 24/7 customer support and enhanced user experience through AI technology.\nChicago, IL, Aug. 13, 2026 (GLOBE NEWSWIRE) -- Drive Point Exchange, a leader in auto finance solutions, has announced the launch of its groundbreaking cus... [3107 chars]",
+            "url": "https://www.manilatimes.net/2026/08/14/tmt-newswire/globenewswire/drive-point-exchange-unveils-revolutionary-customer-facing-app-with-ai-integration/2405379",
+            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-08-13T20:51:25Z",
             "lang": "en",
             "source": {
-                "id": "10216cb8fabd0accd5eb967c97fc37ab",
-                "name": "MacRumors",
-                "url": "https://www.macrumors.com",
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "1ec9c135c2c295faf8a0f896a65ac790",
+            "title": "This AI Chatbot Was Just One Busy Guy, and He Has Hit His Limit",
+            "description": "People ask Tucker Bryant's ChatTJB for advice on everything from their fiction and personal dilemmas to how they should spend their free time.",
+            "content": "The early history of AI will be remembered for the rise and fall of many chatbot services. Remember Microsoft Tay? Maybe it’s best if you don’t.\nBut one interesting footnote in that history will be the rapid ascent of ChatTJB, a chatbot service with ... [5223 chars]",
+            "url": "https://www.cnet.com/tech/services-and-software/this-ai-chatbot-chat-tjb-was-just-one-busy-guy-and-he-has-hit-his-limit/",
+            "image": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-chatTJB-billboard.jpg",
+            "publishedAt": "2026-08-13T20:46:56Z",
+            "lang": "en",
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
                 "country": "us"
             }
         },
         {
-            "id": "9e80c09d9fc5becaba15ad45960470d5",
-            "title": "AI Forecasting Revolutionizes Weather Predictions Amid Rising Extremes",
-            "description": "A look at how AI weather models in China are revolutionizing forecasting as meteorologists tackle Typhoon Dolphin. AI systems like Shanghai AI Laboratory's Fengwu, Huawei's Pangu, and Fudan University's Fuxi significantly outperform traditional predictions, marking China's prominence in improved weather prediction amidst increasing climate challenges.",
-            "content": "In the realm of meteorology, China's innovative approach to weather forecasting is making headlines. As Typhoon Dolphin threatened the Chinese coast, artificial intelligence models joined forces with conventional systems, showcasing the country's sig... [582 chars]",
-            "url": "https://www.devdiscourse.com/article/science-environment/3963171-ai-forecasting-revolutionizes-weather-predictions-amid-rising-extremes",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_05_2025_13_48_32_8297515.png&width=920&format=jpeg",
-            "publishedAt": "2026-08-12T20:56:07Z",
+            "id": "8babeea079262a1d90289814aaa9ce9c",
+            "title": "Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows",
+            "description": "/PRNewswire/ -- Iyuno today shared new details on the architecture behind CLOE, its AI platform designed to address a key challenge in content production:...",
+            "content": "Company outlines a system designed to maintain continuity across scenes, episodes, and languages\nBURBANK, Calif., Aug. 13, 2026 /PRNewswire/ -- Iyuno today shared new details on the architecture behind CLOE, its AI platform designed to address a key ... [1524 chars]",
+            "url": "https://www.prnewswire.co.uk/news-releases/iyuno-details-the-architecture-behind-cloe-a-multi-agent-ai-system-for-consistent-content-workflows-302851389.html",
+            "image": "https://mmx.prnewswire.com/media/MS1969462/Iyuno-CLOE-PR-1.jpg?id=OA2886575&p=facebook",
+            "publishedAt": "2026-08-13T20:41:00Z",
             "lang": "en",
             "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
             }
         },
         {
-            "id": "a8bc6dff86b273381ee53427dcc3508e",
-            "title": "Dow Jones Futures: Cisco, Coherent Are Earnings Movers Late After Nebius, Lumentum, CoreWeave Lead AI Rally",
-            "description": "Dow Jones futures: AI stocks led Wednesday, led by Nebius, Lumentum, CoreWeave and Super Micro. Cisco and Coherent were earnings movers late.",
-            "content": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we ... [1013 chars]",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cisco-coherent-earnings-movers-nebius-lumentum-coreweave-ai-rally/",
-            "image": "https://www.investors.com/wp-content/uploads/2024/03/Stock-digitalbull-generatedai-01-adobe.jpg",
-            "publishedAt": "2026-08-12T20:52:58Z",
+            "id": "429b03b834680b54ff214058e42651fa",
+            "title": "Here's Why This Canadian Dividend Stock Has Unexpected Data Centre Upside",
+            "description": "Brookfield Renewable is a reliable dividend payer and could benefit from rapid expansion of AI-powered data centres.",
+            "content": "The TSX has several high-quality dividend stocks, and Brookfield Renewable Partners (TSX:BEP.UN) is one among them. The renewable energy company has a strong track record of returning capital to shareholders through growing distributions. Moreover, i... [3512 chars]",
+            "url": "https://www.fool.ca/2026/08/13/heres-why-this-canadian-dividend-stock-has-unexpected-data-centre-upside/",
+            "image": "https://www.fool.ca/wp-content/uploads/2021/11/Motley-Fool-AMP-SD-Logo.png",
+            "publishedAt": "2026-08-13T20:40:00Z",
             "lang": "en",
             "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "7db550409d76c43ba916e120bd2b0eeb",
-            "title": "Dear HP Stock Fans, Mark Your Calendars for August 26",
-            "description": "HP’s strong growth faces a key test as rising component costs threaten to pressure profits despite growing AI PC adoption.",
-            "content": "HP (HPQ) has given investors plenty to celebrate in 2026, but Aug. 26 could be the next major test. The PC maker is scheduled to report its fiscal third-quarter results after the market closes, giving investors a fresh look at whether the artificial ... [3904 chars]",
-            "url": "https://www.barchart.com/story/news/3813902/dear-hp-stock-fans-mark-your-calendars-for-august-26",
-            "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20A%20-%20I)/The%20logo%20of%20American%20Hewlett-Packard%20Enterprise%20company%20on%20a%20black%20building%20By%20mino21.jpeg",
-            "publishedAt": "2026-08-12T20:47:27Z",
-            "lang": "en",
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "efe147de02f73a7ca1b3abefe5ef57bc",
-            "title": "Stocks Close Higher on Favorable CPI Report and Positive AI News",
-            "description": "The S&P 500 Index ($SPX ) (SPY ) on Wednesday rose +0.26%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell -0.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +0.74%. September E-mini S&P futures (ESU26 ) rose +0.31%, and September E...",
-            "content": "The S&P 500 Index ($SPX) (SPY) on Wednesday rose +0.26%, the Dow Jones Industrial Average ($DOWI) (DIA) fell -0.04%, and the Nasdaq 100 Index ($IUXX) (QQQ) rose +0.74%. September E-mini S&P futures (ESU26) rose +0.31%, and September E-mini Nasdaq fut... [4948 chars]",
-            "url": "https://www.barchart.com/story/news/3813891/stocks-close-higher-on-favorable-cpi-report-and-positive-ai-news",
-            "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Wall%20Street/The%20Wall%20Street%20sign%20is%20seen%20outside%20the%20New%20York%20Stock%20Exchange%20by%20hapabapa%20via%20iStock.jpg",
-            "publishedAt": "2026-08-12T20:46:20Z",
-            "lang": "en",
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "dc20f9ea18dd1726569b7c6dc205048d",
-            "title": "I Dropped Out of Harvard to Build a $2.5 Billion AI-Powered Startup",
-            "description": "After struggling to get a comprehensive picture of her own health, Pranitha Patil launched a solution. Now, Function is valued at $2.5B.",
-            "content": "This as-told-to story is based on a conversation with Pranitha Patil, co-founder and chief business officer of preventive health membership platform Function, now valued at $2.5 billion. Function, co-founded by Jonathan Swerdlin (CEO), Dr. Mark Hyman... [7199 chars]",
-            "url": "https://www.entrepreneur.com/building-a-business/i-dropped-out-of-harvard-to-build-a-2-5-billion-ai-powered-company-function",
-            "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/Function-Pranitha-Patil_3000x2000_horizontal_25746e.jpg?resize=1024,683",
-            "publishedAt": "2026-08-12T20:45:11Z",
-            "lang": "en",
-            "source": {
-                "id": "839b9d172147498877bab641815b0631",
-                "name": "Entrepreneur",
-                "url": "https://www.entrepreneur.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b13ecaf0302606639deb6e6b3f0b9afd",
-            "title": "Echoing Palworld dev, video game lawyer says all her clients have anti-AI contracts because gamers hate it and it's a copyright landmine: \"I think we're going to see lawsuits\"",
-            "description": "Don't touch it. It's not worth the legal liability",
-            "content": "Video game lawyer Haley MacLean has seen such a sharp rise in anti-AI wording in the game dev and publisher contracts she reviews that virtually \"all\" of her clients now explicitly oppose the tech.\nSpeaking with GamesRadar+, MacLean, a corporate IP l... [6509 chars]",
-            "url": "https://www.gamesradar.com/games/echoing-palworld-dev-video-game-lawyer-says-all-her-clients-have-anti-ai-contracts-because-gamers-hate-it-and-its-a-copyright-landmine-i-think-were-going-to-see-lawsuits/",
-            "image": "https://cdn.mos.cms.futurecdn.net/RpwAGo8wiBn3WGfd4EGH3A-1920-80.jpg",
-            "publishedAt": "2026-08-12T20:37:36Z",
-            "lang": "en",
-            "source": {
-                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
-                "name": "GamesRadar+",
-                "url": "https://www.gamesradar.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "05858bfc0c85b75ea12dfb1081f8af07",
-            "title": "Bruce Blakeman has defiant message for Dems angry about his AI ads on Hochul, Mamdani",
-            "description": "\"Everybody knows it’s AI, and it’s funny — so what’s your problem? Get a life,” Blakeman said.",
-            "content": "Republican gubernatorial candidate Bruce Blakeman told Democrats to get over it after party leaders filed a complaint against him for a series of AI campaign ads.\nBlakeman said he’d continue to use artificial intelligence ads despite a complaint to t... [2823 chars]",
-            "url": "https://nypost.com/2026/08/12/us-news/bruce-blakeman-has-defiant-message-for-dems-angry-about-his-ai-ads-on-hochul-mamdani/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/comp-Screenshot-2026-08-12-at-14137-PM.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-08-12T20:33:56Z",
-            "lang": "en",
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "9aed03d185baf3434286dafe12d9673b",
-            "title": "'We have serious concerns,’ northern Alberta chief says after hosting community meeting on Wonder Valley",
-            "description": "Sturgeon Lake Cree Nation leaders and legal council presented to band members in their northern Alberta community on what they know about the proposed Wonder Valley AI data centre campus that is being backed by celebrity investor Kevin O'Leary in their traditional territory.",
-            "content": "Dozens of band members were in attendance Tuesday afternoon at the Sturgeon Lake Cree Nation Community Hall, as community leaders and legal counsel hosted their first engagement session to inform residents of what the proposed Wonder Valley AI data c... [4249 chars]",
-            "url": "https://www.cbc.ca/news/canada/edmonton/sturgeon-lake-cree-nation-wonder-valley-engagement-session-9.7305052",
-            "image": "https://i.cbc.ca/ais/4d2bd844-dc76-4c40-9739-7d59c53e048e,1786565935695/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C432%2C5712%2C3213%29%3BResize%3D620",
-            "publishedAt": "2026-08-12T20:32:23Z",
-            "lang": "en",
-            "source": {
-                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
-                "name": "CBC.ca",
-                "url": "https://www.cbc.ca",
+                "id": "19d1f502a5658ccbfaaa50f77b89993f",
+                "name": "The Motley Fool Canada",
+                "url": "https://www.fool.ca",
                 "country": "ca"
             }
         },
         {
-            "id": "4dba7b59aa4f591efa837b7679564aba",
-            "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
-            "description": "Researchers found every major AI provider encrypts reasoning tokens with a single global key—and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.",
-            "content": "Security researchers have found a way to read the encrypted \"inner thoughts\" of every major AI reasoning model—and uncovered 62 live API keys and 33 passwords buried in session logs that developers had shared publicly online without knowing what was ... [4139 chars]",
-            "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
-            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png",
-            "publishedAt": "2026-08-12T20:31:04Z",
+            "id": "a4de900bdce3af11cdaa0a38dec43d78",
+            "title": "Twitch Adds Setting Letting Users Opt Out of AI Training Amid User Backlash",
+            "description": "The new setting is enabled by default, meaning users have to opt out if they don’t want their content used to train Amazon’s AI.",
+            "content": "AI companies have already scraped much of the public internet to train their models. Now Amazon is turning to Twitch streamers.\nTwitch announced Wednesday that it is adding a new account setting that allows users to opt out of having content from the... [2748 chars]",
+            "url": "https://gizmodo.com/twitch-adds-setting-letting-users-opt-out-of-ai-training-amid-user-backlash-2000798452",
+            "image": "https://gizmodo.com/app/uploads/2024/01/52bd8d2c4b22befedb4ccfc1b9075448.jpg",
+            "publishedAt": "2026-08-13T20:30:43Z",
+            "lang": "en",
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0c756651bdbe3d0d965dda71ca183ff6",
+            "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+            "description": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.",
+            "content": "Anthropic has begun embedding an imperceptible watermark in all text its newest Claude models generate. The change took effect for models launched in the EU on August 2, 2026, and Anthropic says it will apply worldwide.\nAnthropic laid out the plan in... [3463 chars]",
+            "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png",
+            "publishedAt": "2026-08-13T20:30:24Z",
             "lang": "en",
             "source": {
                 "id": "6956007add5fc13a6721202ec906b1c4",
                 "name": "Decrypt",
                 "url": "https://decrypt.co",
                 "country": "us"
+            }
+        },
+        {
+            "id": "b99cfce0876606d978611d6eeba73a8d",
+            "title": "Buried in OpenAI's latest research: No correlation between AI use and revenue per employee",
+            "description": "The AI lab grapples with a question that's existential for its future: Do ChatGPT corporate customers get a clear ROI?",
+            "content": "Juicy details OpenAI doesn’t want you to see in its new report\nAnthropic reportedly plans a $2 trillion IPO in October—the largest ever\nOpenAI replaces its chief revenue officer after less than a year\nGoogle pronounces Sam Altman dead—for 41 minutes\n... [8166 chars]",
+            "url": "https://fortune.com/2026/08/13/buried-in-openais-latest-research-no-correlation-between-ai-use-and-revenue-per-employee/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2287521321-e1786645857178.jpg?resize=1200,600",
+            "publishedAt": "2026-08-13T20:28:57Z",
+            "lang": "en",
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "e07f4ff6ae521ce06a6182a0e3ad278c",
+            "title": "Nebius Remains The King Of Compute",
+            "description": "Nebius Group N.V. strongly reinforced my bullish thesis in Q2, with Nebius AI revenue growing 514% year over year. Read more on NBIS stock here.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of NBIS either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
+            "url": "https://seekingalpha.com/article/4936349-nebius-remains-the-king-of-compute",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2257858693/image_2257858693.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-08-13T20:24:00Z",
+            "lang": "en",
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "50dcd6a5a9ee2d37e77c49365db5bcf9",
+            "title": "Ontario unveils AI data-centre framework after community pushback",
+            "description": "New playbook tackles concerns over electricity use, water consumption and local impacts.",
+            "content": "New playbook tackles concerns over electricity use, water consumption and local impacts.\nArticle content\nGUELPH – Ontario now has a “Data Centre Playbook” laying out provincewide rules for electricity- and water-hungry facilities that provide computi... [6095 chars]",
+            "url": "https://www.thewhig.com/news/national/ontario-unveils-ai-data-centre-framework-after-community-pushback/wcm/dda55c43-4905-4ed5-974d-74302a2d83dd",
+            "image": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2026/08/ONTARIO-LIBERAL-LEADERSHIP-DEBATE-20260810.jpg",
+            "publishedAt": "2026-08-13T20:19:03Z",
+            "lang": "en",
+            "source": {
+                "id": "e2b598a29c7ee64ba90dd28fd6eb5df2",
+                "name": "The Kingston Whig-Standard",
+                "url": "https://www.thewhig.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "2376dbf6aca6a53b985015e04d7d4e11",
+            "title": "Ontario unveils AI data-centre framework after community pushback",
+            "description": "New playbook tackles concerns over electricity use, water consumption and local impacts.",
+            "content": "Article content\nGUELPH – Ontario now has a “Data Centre Playbook” laying out provincewide rules for electricity- and water-hungry facilities that provide computing power for artificial intelligence.\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\nSubsc... [4292 chars]",
+            "url": "https://lfpress.com/news/national/ontario-unveils-ai-data-centre-framework-after-community-pushback",
+            "image": "https://smartcdn.gprod.postmedia.digital/lfpress/wp-content/uploads/2026/08/ONTARIO-LIBERAL-LEADERSHIP-DEBATE-20260810.jpg",
+            "publishedAt": "2026-08-13T20:19:03Z",
+            "lang": "en",
+            "source": {
+                "id": "8c6e9834b8fccfc4c516038dbb543005",
+                "name": "The London Free Press",
+                "url": "https://lfpress.com",
+                "country": "gb"
             }
         }
     ]
