@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 416667,
+    "totalArticles": 417058,
     "articles": [
         {
-            "id": "5bad610ead0f2d6292c4fee0983d392a",
-            "title": "Why Industrial AI's Biggest Challenge Isn't Intelligence. It's Execution",
-            "description": "Manufacturers have never had more data at their fingertips. Every day, sensors, connected equipment, enterprise systems, and analytics platforms generate insights designed to improve reliability, increase productivity, and reduce operational costs.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nManufacturers have never had more data at their fingertips. Every day, sensors, connected equipment, enterprise systems, and analytics platforms generate insights designed to improve reliability, increase productivity, a... [7064 chars]",
-            "url": "https://techbullion.com/why-industrial-ais-biggest-challenge-isnt-intelligence-its-execution/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/08/vv-31.png",
-            "publishedAt": "2026-08-14T20:10:45Z",
+            "id": "e2536ed6d28728497bca645920b078b8",
+            "title": "Anthropic's Latest AI Risk Report Is Full of Agents Behaving Badly",
+            "description": "Anthropic's latest risk report says Claude agents bypassed safeguards, killed other agents, and refused tasks over ethical concerns.",
+            "content": "Claude agents are killing rival agents, gaming the system to hide their tracks, and expressing moral concerns.\nThat's according to Anthropic's latest risk report, a summary of the dangers posed by the products the company is building and releasing to... [2977 chars]",
+            "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+            "image": "https://i.insider.com/6a809050bd87410e364d2e02?width=1200&format=jpeg",
+            "publishedAt": "2026-08-15T20:09:46Z",
             "lang": "en",
             "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
             }
         },
         {
-            "id": "3f0e6ec48b539059ff10c0453ec0f6e2",
-            "title": "Meet Anusha Arora, the 15-year-old Washington student who built an AI music therapy platform using finger sensors and won $50,000",
-            "description": "News News: Anusha Arora, a 15-year-old student from Bellevue, Washington, has won the inaugural F. Thomson Leighton and Bonnie Berger Family Prize for STEM Excel.",
-            "content": "Anusha Arora, a 15-year-old student from Bellevue, Washington, has won $50,000 at Regeneron ISEF 2026 for Harmony, an AI-powered music therapy platform.\nAnusha Arora, a 15-year-old student from Bellevue, Washington, has won the inaugural F. Thomson L... [6355 chars]",
-            "url": "https://timesofindia.indiatimes.com/education/news/meet-anusha-arora-the-15-year-old-washington-student-who-built-an-ai-music-therapy-platform-using-finger-sensors-and-won-50000/articleshow/133251355.cms",
-            "image": "https://static.toiimg.com/thumb/msid-133251355,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-14T20:10:00Z",
+            "id": "71d3c4570b39e1f307a497408f949dc7",
+            "title": "Silicon Valley’s young billionaires getting rich from AI",
+            "description": "Silicon Valley’s Artificial Intelligence boom is creating young billionaires, fueling lavish spending as startups soar to massive valuations and reshape tech wealth.",
+            "content": "Silicon Valley’s artificial intelligence boom is spawning a new class of billionaires who are barely old enough to rent a car — but now rich enough to live large in California’s most lavish mega-mansions.\nDespite fears of a bubble, the AI market is p... [6043 chars]",
+            "url": "https://nypost.com/2026/08/15/us-news/silicon-valleys-young-billionaires-getting-rich-from-ai/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-8fy9vs0dl-1786820621750.jpg?quality=75&strip=all&1786806315&w=1200",
+            "publishedAt": "2026-08-15T20:03:52Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "75aaa254ec7b49a19bd83799660bb6bd",
+            "title": "My RTX 5070 sits idle while integrated graphics handle my everyday AI work",
+            "description": "I stopped using my RTX GPU for every LLM.",
+            "content": "I have an RTX 5070 on my main machine, so naturally, I assumed it would be my go-to hardware for running local LLMs. But that hasn't really been the case. After spending more time experimenting with local AI, I found myself running many of the models... [4253 chars]",
+            "url": "https://www.xda-developers.com/rtx-5070-sits-idle-while-integrated-graphics-handle-my-everyday-ai-work/",
+            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/nzxt-h9-flow-case-white-rtx-4070-ti-verticla-mount.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-08-15T20:00:10Z",
+            "lang": "en",
+            "source": {
+                "id": "891063cd06eaab8a5cf530418fb4c0be",
+                "name": "XDA Developers",
+                "url": "https://www.xda-developers.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "727a8413cdb1eba8b840b9d1f9040b0d",
+            "title": "Safety testing was an obscure part of building AI. Then models went rogue.",
+            "description": "Security experts say testing needs enforceable rules and better oversight as AI models continue to advance.",
+            "content": "A string of incidents in which hacking evaluations of powerful artificial intelligence systems spilled out onto the open internet is prompting security experts and some lawmakers to question whether those tests are creating more trouble than they’re ... [8448 chars]",
+            "url": "https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817",
+            "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe7%2F5f%2Fd5df42f141bcba07f17dc54a5dce%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2281437509",
+            "publishedAt": "2026-08-15T20:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "c477009a98f37b19212d8ae20ce8c018",
+                "name": "POLITICO",
+                "url": "https://www.politico.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "3defb8a64e6be6841b8b01a266101b2d",
+            "title": "Here's Goldman's Limited-Loss AI Trade As 'Dispersion' Bomb Looms",
+            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+            "content": "The market backdrop has turned more constructive in recent weeks, supported by resilient earnings growth, cleaner factor positioning, and a moderation in geopolitical risk.\nAgainst this improved environment, Goldman Sachs global head of equity custom... [312 chars]",
+            "url": "https://www.zerohedge.com/markets/real-ai-trade-isnt-mag7-anymore-its-software-dispersion-and-top-goldman-trader-says-window",
+            "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-08/0%20%2862%29.jpg?h=5aff9812&itok=pz2Ueo4T",
+            "publishedAt": "2026-08-15T19:45:00Z",
+            "lang": "en",
+            "source": {
+                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+                "name": "ZeroHedge",
+                "url": "https://www.zerohedge.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "70a612445fc3c3ccf6de1a088193bd67",
+            "title": "Formula 1 world champion Lando Norris has signed up with a mysterious company claiming it provides 'rocket fuel for AI' - but why?",
+            "description": "What is Starburst? And what can it provide Lando with?",
+            "content": "In today's social media age, celebrity brand ambassadors are a common sight, helping endorse or promote a brand's products or tools, giving that extra bit of sparkle or star power.\nThis is especially true in the consumer market, but we're now increas... [3166 chars]",
+            "url": "https://www.techradar.com/pro/formula-1-world-champion-lando-norris-has-signed-up-with-a-mysterious-company-claiming-it-provides-rocket-fuel-for-ai-but-why",
+            "image": "https://cdn.mos.cms.futurecdn.net/nBKpD9aLHrRwRaymwtYvXK-1922-80.jpg",
+            "publishedAt": "2026-08-15T19:45:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "5cc4733b681ac1cee70078e20559fd35",
+            "title": "Vineland issues stop-work order for AI data center project",
+            "description": "Vineland officials say they issued two stop-work orders and fines related to the proposed DataOne AI data center as residents continue to challenge the project's construction and zoning status.",
+            "content": "The Monday, Aug. 17, Planning Board special meeting will revolve around the massive Phase 2 DataOne project expansion.\nContact Buzz Keough:\n(609) 272-7238\nwkeough@pressofac.com\nThe business news you need\nGet the latest local business news delivered F... [515 chars]",
+            "url": "https://pressofatlanticcity.com/news/local/business/development/article_a664ecd2-f9f2-4fdb-b28f-aaf737a4d3af.html",
+            "image": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/a/66/a664ecd2-f9f2-4fdb-b28f-aaf737a4d3af/6a7f4d3cc4610.preview.jpg?crop=800%2C420%2C0%2C31",
+            "publishedAt": "2026-08-15T19:45:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9af43a2802617b590f4e74738cf61a47",
+                "name": "Press of Atlantic City",
+                "url": "https://pressofatlanticcity.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "1f8db9626f787d174333caee58ce2016",
+            "title": "Trump taken to Walter Reed Hospital today? Fact-checking viral claim",
+            "description": "One of the posts included an AI-generated video appearing to show two bodyguards carrying the 80-year-old president near the hospital.",
+            "content": "President Donald Trump’s health has been under growing public scrutiny, particularly after he was seen with bruising on his hands and swelling in his legs.\nIn May, Trump underwent a medical evaluation at Walter Reed National Military Medical Center. ... [2871 chars]",
+            "url": "https://www.hindustantimes.com/world-news/us-news/donald-trump-taken-to-walter-reed-hospital-today-fact-checking-viral-claim-101786821359650.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/08/15/1600x900/logo/AP08-15-2026-000041B-0_1786822976807_1786822983900_89071c4a-dc81-4ce0-a997-978d1a20cbec.jpg",
+            "publishedAt": "2026-08-15T19:44:07Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "bba997af94a77f16b93b009e8c2a5b3f",
-            "title": "US stock: S&P 500 ends lower as investors weigh data, Middle East tensions",
-            "description": "The S&P 500's streak came to an end, falling from its peak as weaker retail sales suggested caution among consumers. Despite a strong outlook, Applied Materials saw its shares slump, dragging down AI-related stocks. In contrast, rising oil prices helped lift the energy index. Reddit experienced a surge following news of its index inclusion.",
-            "content": "Synopsis\nThe S&P 500's streak came to an end, falling from its peak as weaker retail sales suggested caution among consumers. Despite a strong outlook, Applied Materials saw its shares slump, dragging down AI-related stocks. In contrast, rising oil p... [5010 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-sp-500-ends-lower-as-investors-weigh-data-middle-east-tensions/articleshow/133251425.cms",
-            "image": "https://img.etimg.com/thumb/msid-133251431,width-1200,height-630,imgsize-53588,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-08-14T20:10:00Z",
+            "id": "23053a91f5ec5cc180bff45d27f16034",
+            "title": "Which Is the Better Artificial Intelligence ETF, Roundhill's CHAT or Vanguard's VGT?",
+            "description": "The Roundhill Generative AI & Technology ETF (CHAT -0.10%) offers thematic exposure to the artificial intelligence ecosystem, while the Vanguard",
+            "content": "The Roundhill Generative AI & Technology ETF (CHAT -0.10%) offers thematic exposure to the artificial intelligence ecosystem, while the Vanguard Information Technology ETF (VGT -0.35%) provides broad-based technology sector coverage with much lower c... [3763 chars]",
+            "url": "https://www.europesays.com/3195938/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/07/urlhttps3A2F2Fcdn.content.foolcdn.com2Fimages2F1umn9qeh2Fproduction2F3f28864d917b18e124dc11.png",
+            "publishedAt": "2026-08-15T19:28:32Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "34b1c696cb2c55068409f76db8109493",
-            "title": "TruthScan Releases Detection Tool for AI-Generated and Fraudulent PDFs",
-            "description": "TruthScan's new AI-powered PDF detector identifies forged, edited, and AI-generated documents in seconds.",
-            "content": "TruthScan's new AI-powered PDF detector identifies forged, edited, and AI-generated documents in seconds.\nSheridan, WY, Aug. 14, 2026 (GLOBE NEWSWIRE) -- TruthScan just released a new Fake PDF Detector. It identifies AI-generated, forged, and edited ... [2312 chars]",
-            "url": "https://www.manilatimes.net/2026/08/15/tmt-newswire/globenewswire/truthscan-releases-detection-tool-for-ai-generated-and-fraudulent-pdfs/2405996",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/15/1177752.png",
-            "publishedAt": "2026-08-14T20:03:55Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "2b3f3ad3f60eac9c186be8b98cb5ebb2",
-            "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
-            "description": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
-            "content": "Wall Street's largest banks are riding a lucrative new wave — bankrolling the AI gold rush. Goldman Sachs was a key facilitator in this week's artificial intelligence funding announcements from both Nvidia and Intel . These are just two of several re... [9850 chars]",
-            "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108334981-1784059637128-gettyimages-2285488608-US_STOCKS.jpeg?v=1784059834&w=1920&h=1080",
-            "publishedAt": "2026-08-14T20:02:24Z",
-            "lang": "en",
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "1dd1d0fab976599443b27b7d77a593a1",
-            "title": "Market Woes: S&P 500 Slips Amid AI Stock Volatility and Geopolitical Tensions",
-            "description": "The S&P 500 fell Friday, led by a decline in Applied Materials amidst AI-driven stock volatility and geopolitical tensions in the Strait of Hormuz. Weak retail sales data added to market anxieties. Despite inflation and rate concerns, the overall market sentiment remains cautiously optimistic about Federal Reserve's stance on interest rates.",
-            "content": "The S&P 500 declined on Friday, influenced by disappointing performances from key players like Applied Materials. Despite a robust quarterly forecast, the chip equipment maker's shares fell, emphasizing investor concerns over AI stock valuations.\nGeo... [610 chars]",
-            "url": "https://www.devdiscourse.com/article/business/3964130-market-woes-sp-500-slips-amid-ai-stock-volatility-and-geopolitical-tensions",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_04_2025_14_03_33_204335.png&width=920&format=jpeg",
-            "publishedAt": "2026-08-14T20:01:49Z",
+            "id": "a70b4f93c78e7cdbe8cd30d5792f65d4",
+            "title": "Bybit Launches Unitree, Moonshot AI Pre",
+            "description": "Bybit has launched pre-IPO perpetuals tied to Unitree and Moonshot AI as its TradFi derivatives lineup grows to more than 200 products.",
+            "content": "Dubai-based crypto exchange crypto exchange Bybit has launched pre-IPO perpetual contracts tied to Chinese robotics firm Unitree and artificial intelligence startup Moonshot AI, expanding its push into private-market trading.\nThe USDT-denominated and... [1010 chars]",
+            "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.jpg",
+            "publishedAt": "2026-08-15T19:27:29Z",
             "lang": "en",
             "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "2d881bed403c743dc290db7d2985c027",
-            "title": "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
-            "description": "This week’s Android headlines: new Pixel 11 family, Pixel Watch 5 revealed, Gemini3.7 Flash launched, Galaxy Z Fold8 success, Samsung’s approach to AI, Honor Robot on sale and more...",
-            "content": "Taking a look back at this week’s news and headlines across the Android world, including Made By Google details, new Pixel 11 family, Pixel Watch 5 revealed, Gemini3.7 Flash launched, Galaxy Z Fold8 success, Samsung’s approach to AI, Honor Robot on s... [5821 chars]",
-            "url": "https://www.forbes.com/sites/ewanspence/2026/08/14/android-news-headlines-pixel-11-pro-honor-robot-samsung-galaxy-ai-z-fold8/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a7f73f883d745c9e3b21c4c/0x0.jpg?format=jpg&crop=1780,1002,x1249,y811,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-08-14T20:01:44Z",
-            "lang": "en",
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "19632b8a3a17a8476622cf938af692e1",
-            "title": "Saber says its rideshare game uses AI for voices, music, and missions.",
-            "description": "After denying that it replaced writers for Rideshare “Stimulator” with ChatGPT and admitting that the game has some AI-generated elements, Saber Interactive has added an AI content disclosure to the title’s Steam page.\nWhile the main campaign is written by humans, AI tools are used for “voice generation and some localization.” Free ride mode, which is optional, includes “AI-generated passenger missions and localized dialogue.” There are also radio stations featuring AI-generated music, though they’ll be labeled in the game.\n[Link: Rideshare \"Stimulator\" on Steam | https://store.steampowered.com/app/2366590/Rideshare_Stimulator/ | Steam]",
-            "content": "J\nExternal Link\nSaber says its rideshare game uses AI for voices, music, and missions.\nAfter denying that it replaced writers for Rideshare “Stimulator” with ChatGPT and admitting that the game has some AI-generated elements, Saber Interactive has ad... [972 chars]",
-            "url": "https://www.theverge.com/games/980559/saber-says-its-rideshare-game-uses-ai-for-voices-music-and-missions",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-            "publishedAt": "2026-08-14T20:01:29Z",
-            "lang": "en",
-            "source": {
-                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-                "name": "The Verge",
-                "url": "https://www.theverge.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "8ba26cd9786ee3f5b7976f7505bf0861",
-            "title": "These AI tools make my life much easier on the Mac",
-            "description": "Nearly four years into the latest AI boom sparked by ChatGPT, here are the tools that have actually stuck and make my life, work, and personal projects much easier on my Mac.",
-            "content": "9to5Mac is brought to you by Memoket: The Memoket Gem is an 11g AI wearable that slots beside your Apple Watch in a co-wear band. Press once to capture a conversation, and Gem connects it to what you discussed weeks ago — surfacing the earlier thread... [9234 chars]",
-            "url": "https://9to5mac.com/2026/08/14/these-ai-tools-make-my-life-much-easier-on-the-mac/",
-            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2019/10/cropped-cropped-mac1-1.png?w=32",
-            "publishedAt": "2026-08-14T19:57:27Z",
-            "lang": "en",
-            "source": {
-                "id": "92f73865e835e33ed68c11447777c939",
-                "name": "9to5Mac",
-                "url": "https://9to5mac.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "4ffb9967bc46da4732e7055dfb13d6ee",
-            "title": "Cisco: Buy The Dip Before The Next Leg Up",
-            "description": "Cisco Systems is surging in AI infrastructure: Q4 FY26 revenue +18% YoY, AI orders 4.5x. Click for this CSCO stock earnings update.",
-            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of CSCO either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [933 chars]",
-            "url": "https://seekingalpha.com/article/4936911-cisco-buy-the-dip-before-the-next-leg-up",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2212183062/image_2212183062.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-08-14T19:47:46Z",
-            "lang": "en",
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
+                "id": "89726dd24a4d78041c65af3b4a364b31",
+                "name": "Cointelegraph",
+                "url": "https://cointelegraph.com",
                 "country": "us"
             }
         }
