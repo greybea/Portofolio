@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 417058,
+    "totalArticles": 418221,
     "articles": [
         {
-            "id": "e2536ed6d28728497bca645920b078b8",
-            "title": "Anthropic's Latest AI Risk Report Is Full of Agents Behaving Badly",
-            "description": "Anthropic's latest risk report says Claude agents bypassed safeguards, killed other agents, and refused tasks over ethical concerns.",
-            "content": "Claude agents are killing rival agents, gaming the system to hide their tracks, and expressing moral concerns.\nThat's according to Anthropic's latest risk report, a summary of the dangers posed by the products the company is building and releasing to... [2977 chars]",
-            "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-            "image": "https://i.insider.com/6a809050bd87410e364d2e02?width=1200&format=jpeg",
-            "publishedAt": "2026-08-15T20:09:46Z",
+            "id": "6915891cd7c48f7a811cd55a32b5649f",
+            "title": "Use AI and keep your brain sharp",
+            "description": "Artificial intelligence can be a handy tool but too heavy use risks weakening critical thinking skills, one expert says.",
+            "content": "Artificial intelligence can be a handy tool, but too much heavy use risks weakening critical thinking skills, one expert says.\nSinead Bovell, a tech entrepreneur, suggested using AI as a “sparring partner” in an interview with CTV Your Morning on Mon... [2203 chars]",
+            "url": "https://www.cp24.com/news/canada/2026/08/17/heavy-use-of-ai-can-weaken-critical-thinking-skills-heres-how-you-can-use-it-to-polish-them-instead/",
+            "image": "https://www.cp24.com/resizer/v2/Y5ZBU76UWZC73BPNQTN6NXHHPE.jpeg?smart=true&auth=7db0e52137f9289a47098c7b6fcfecbea5ffa2f119584ecf8848296c34c33891&width=1200&height=630",
+            "publishedAt": "2026-08-17T20:19:01Z",
             "lang": "en",
             "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "643151a56a70895f4c8eb219e61a4e6d",
+            "title": "This R-Rated Film Studio Wants to Be the HBO of AI",
+            "description": "Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content.",
+            "content": "Demand for artificially generated smut is surging. But the quality of the visual content being created and shared—like on companion apps, where adult performers are selling their likeness to give fans a 24/7 experience, WIRED reported in March—isn’t ... [5110 chars]",
+            "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
+            "image": "https://media.wired.com/photos/6a6a49d8f2f28be47a641341/191:100/w_1280,c_limit/culture_ai__video_hbo_porn.jpg",
+            "publishedAt": "2026-08-17T20:18:17Z",
+            "lang": "en",
+            "source": {
+                "id": "b683218c3952d77a76b7bda7512f2f6e",
+                "name": "WIRED",
+                "url": "https://www.wired.com",
                 "country": "us"
             }
         },
         {
-            "id": "71d3c4570b39e1f307a497408f949dc7",
-            "title": "Silicon Valley’s young billionaires getting rich from AI",
-            "description": "Silicon Valley’s Artificial Intelligence boom is creating young billionaires, fueling lavish spending as startups soar to massive valuations and reshape tech wealth.",
-            "content": "Silicon Valley’s artificial intelligence boom is spawning a new class of billionaires who are barely old enough to rent a car — but now rich enough to live large in California’s most lavish mega-mansions.\nDespite fears of a bubble, the AI market is p... [6043 chars]",
-            "url": "https://nypost.com/2026/08/15/us-news/silicon-valleys-young-billionaires-getting-rich-from-ai/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-8fy9vs0dl-1786820621750.jpg?quality=75&strip=all&1786806315&w=1200",
-            "publishedAt": "2026-08-15T20:03:52Z",
+            "id": "159530542207a0391ffb740fce540b90",
+            "title": "US stocks: US market slips as oil prices rise, retail results awaited",
+            "description": "As investors braced for retail earnings reports, major stock indexes fell, signaling caution in the market. Oil prices surged, driven by concerns over Iran alongside global supply uncertainties. Recent economic data from July amplified the cautious atmosphere, as Home Depot and Walmart's earnings loom ahead, promising key insights into consumer spending trends. Technology stocks, however, exhibited a mixed performance in the face of AI investment risks.",
+            "content": "Synopsis\nAs investors braced for retail earnings reports, major stock indexes fell, signaling caution in the market. Oil prices surged, driven by concerns over Iran alongside global supply uncertainties. Recent economic data from July amplified the c... [4445 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-slips-as-oil-prices-rise-retail-results-awaited/articleshow/133306298.cms",
+            "image": "https://img.etimg.com/thumb/msid-133306300,width-1200,height-630,imgsize-106308,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-08-17T20:08:00Z",
             "lang": "en",
             "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "75aaa254ec7b49a19bd83799660bb6bd",
-            "title": "My RTX 5070 sits idle while integrated graphics handle my everyday AI work",
-            "description": "I stopped using my RTX GPU for every LLM.",
-            "content": "I have an RTX 5070 on my main machine, so naturally, I assumed it would be my go-to hardware for running local LLMs. But that hasn't really been the case. After spending more time experimenting with local AI, I found myself running many of the models... [4253 chars]",
-            "url": "https://www.xda-developers.com/rtx-5070-sits-idle-while-integrated-graphics-handle-my-everyday-ai-work/",
-            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/nzxt-h9-flow-case-white-rtx-4070-ti-verticla-mount.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-08-15T20:00:10Z",
-            "lang": "en",
-            "source": {
-                "id": "891063cd06eaab8a5cf530418fb4c0be",
-                "name": "XDA Developers",
-                "url": "https://www.xda-developers.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "727a8413cdb1eba8b840b9d1f9040b0d",
-            "title": "Safety testing was an obscure part of building AI. Then models went rogue.",
-            "description": "Security experts say testing needs enforceable rules and better oversight as AI models continue to advance.",
-            "content": "A string of incidents in which hacking evaluations of powerful artificial intelligence systems spilled out onto the open internet is prompting security experts and some lawmakers to question whether those tests are creating more trouble than they’re ... [8448 chars]",
-            "url": "https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817",
-            "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe7%2F5f%2Fd5df42f141bcba07f17dc54a5dce%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2281437509",
-            "publishedAt": "2026-08-15T20:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "c477009a98f37b19212d8ae20ce8c018",
-                "name": "POLITICO",
-                "url": "https://www.politico.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "3defb8a64e6be6841b8b01a266101b2d",
-            "title": "Here's Goldman's Limited-Loss AI Trade As 'Dispersion' Bomb Looms",
-            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-            "content": "The market backdrop has turned more constructive in recent weeks, supported by resilient earnings growth, cleaner factor positioning, and a moderation in geopolitical risk.\nAgainst this improved environment, Goldman Sachs global head of equity custom... [312 chars]",
-            "url": "https://www.zerohedge.com/markets/real-ai-trade-isnt-mag7-anymore-its-software-dispersion-and-top-goldman-trader-says-window",
-            "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-08/0%20%2862%29.jpg?h=5aff9812&itok=pz2Ueo4T",
-            "publishedAt": "2026-08-15T19:45:00Z",
-            "lang": "en",
-            "source": {
-                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
-                "name": "ZeroHedge",
-                "url": "https://www.zerohedge.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "70a612445fc3c3ccf6de1a088193bd67",
-            "title": "Formula 1 world champion Lando Norris has signed up with a mysterious company claiming it provides 'rocket fuel for AI' - but why?",
-            "description": "What is Starburst? And what can it provide Lando with?",
-            "content": "In today's social media age, celebrity brand ambassadors are a common sight, helping endorse or promote a brand's products or tools, giving that extra bit of sparkle or star power.\nThis is especially true in the consumer market, but we're now increas... [3166 chars]",
-            "url": "https://www.techradar.com/pro/formula-1-world-champion-lando-norris-has-signed-up-with-a-mysterious-company-claiming-it-provides-rocket-fuel-for-ai-but-why",
-            "image": "https://cdn.mos.cms.futurecdn.net/nBKpD9aLHrRwRaymwtYvXK-1922-80.jpg",
-            "publishedAt": "2026-08-15T19:45:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "5cc4733b681ac1cee70078e20559fd35",
-            "title": "Vineland issues stop-work order for AI data center project",
-            "description": "Vineland officials say they issued two stop-work orders and fines related to the proposed DataOne AI data center as residents continue to challenge the project's construction and zoning status.",
-            "content": "The Monday, Aug. 17, Planning Board special meeting will revolve around the massive Phase 2 DataOne project expansion.\nContact Buzz Keough:\n(609) 272-7238\nwkeough@pressofac.com\nThe business news you need\nGet the latest local business news delivered F... [515 chars]",
-            "url": "https://pressofatlanticcity.com/news/local/business/development/article_a664ecd2-f9f2-4fdb-b28f-aaf737a4d3af.html",
-            "image": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/a/66/a664ecd2-f9f2-4fdb-b28f-aaf737a4d3af/6a7f4d3cc4610.preview.jpg?crop=800%2C420%2C0%2C31",
-            "publishedAt": "2026-08-15T19:45:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9af43a2802617b590f4e74738cf61a47",
-                "name": "Press of Atlantic City",
-                "url": "https://pressofatlanticcity.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "1f8db9626f787d174333caee58ce2016",
-            "title": "Trump taken to Walter Reed Hospital today? Fact-checking viral claim",
-            "description": "One of the posts included an AI-generated video appearing to show two bodyguards carrying the 80-year-old president near the hospital.",
-            "content": "President Donald Trump’s health has been under growing public scrutiny, particularly after he was seen with bruising on his hands and swelling in his legs.\nIn May, Trump underwent a medical evaluation at Walter Reed National Military Medical Center. ... [2871 chars]",
-            "url": "https://www.hindustantimes.com/world-news/us-news/donald-trump-taken-to-walter-reed-hospital-today-fact-checking-viral-claim-101786821359650.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/08/15/1600x900/logo/AP08-15-2026-000041B-0_1786822976807_1786822983900_89071c4a-dc81-4ce0-a997-978d1a20cbec.jpg",
-            "publishedAt": "2026-08-15T19:44:07Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "23053a91f5ec5cc180bff45d27f16034",
-            "title": "Which Is the Better Artificial Intelligence ETF, Roundhill's CHAT or Vanguard's VGT?",
-            "description": "The Roundhill Generative AI & Technology ETF (CHAT -0.10%) offers thematic exposure to the artificial intelligence ecosystem, while the Vanguard",
-            "content": "The Roundhill Generative AI & Technology ETF (CHAT -0.10%) offers thematic exposure to the artificial intelligence ecosystem, while the Vanguard Information Technology ETF (VGT -0.35%) provides broad-based technology sector coverage with much lower c... [3763 chars]",
-            "url": "https://www.europesays.com/3195938/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/07/urlhttps3A2F2Fcdn.content.foolcdn.com2Fimages2F1umn9qeh2Fproduction2F3f28864d917b18e124dc11.png",
-            "publishedAt": "2026-08-15T19:28:32Z",
+            "id": "de6db6ccf0cd2b5296b9cd75ce05405e",
+            "title": "Nvidia's stock has started to come alive. Here's 3 reasons why it can continue",
+            "description": "The leading AI chipmaker has rebounded since late July.",
+            "content": "Nvidia's stock is showing signs of life ahead of earnings next week. The move is justified and should have more room to go. Shares of Nvidia on Monday closed around $225 a share for the second session in a row — a closing level that previously hadn't... [9624 chars]",
+            "url": "https://www.cnbc.com/2026/08/17/nvidias-stock-has-started-to-come-alive-heres-3-reasons-why-it-can-continue-.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108314500-1780318077234-gettyimages-2278512962-AFP_B4KP4F3.jpeg?v=1780318133&w=1920&h=1080",
+            "publishedAt": "2026-08-17T20:07:26Z",
             "lang": "en",
             "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
                 "country": "us"
             }
         },
         {
-            "id": "a70b4f93c78e7cdbe8cd30d5792f65d4",
-            "title": "Bybit Launches Unitree, Moonshot AI Pre",
-            "description": "Bybit has launched pre-IPO perpetuals tied to Unitree and Moonshot AI as its TradFi derivatives lineup grows to more than 200 products.",
-            "content": "Dubai-based crypto exchange crypto exchange Bybit has launched pre-IPO perpetual contracts tied to Chinese robotics firm Unitree and artificial intelligence startup Moonshot AI, expanding its push into private-market trading.\nThe USDT-denominated and... [1010 chars]",
-            "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.jpg",
-            "publishedAt": "2026-08-15T19:27:29Z",
+            "id": "2c21652778fda264a0cb523c6261724d",
+            "title": "This Index Is Collapsing, The AI Bubble Is Popping - Wake Up",
+            "description": "Stock market highs hide risks: the LLM Token Expenditure Index signals an AI model price war that could pop the AI bubble.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial short position in the shares of QQQ either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [773 chars]",
+            "url": "https://seekingalpha.com/article/4937432-this-index-is-collapsing-the-ai-bubble-is-popping-wake-up",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1453534485/image_1453534485.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-08-17T20:06:40Z",
             "lang": "en",
             "source": {
-                "id": "89726dd24a4d78041c65af3b4a364b31",
-                "name": "Cointelegraph",
-                "url": "https://cointelegraph.com",
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "1fa12dab2b8762c3224a36ad6cf4ca12",
+            "title": "Two more AI pilots fail prelim drug test",
+            "description": "Two more Air India pilots have tested “non-negative” in preliminary drug screening, widening scrutiny of the airline’s cockpit crew after the Phuket-Delhi flight incident in which its pilot-in-command tested positive for drugs.",
+            "content": "Two more Air India pilots have tested “non-negative” in preliminary drug screening, widening scrutiny of the airline’s cockpit crew after the Phuket-Delhi flight incident in which its pilot-in-command tested positive for drugs.\nThe two pilots have be... [2917 chars]",
+            "url": "https://www.tribuneindia.com/news/top-headlines/two-more-ai-pilots-fail-prelim-drug-test/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNmMmVkZjUwLTlhNzYtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+            "publishedAt": "2026-08-17T20:04:08Z",
+            "lang": "en",
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "56ce2a4341d3239653f5130f7d2840d6",
+            "title": "Monero Price Prediction: FCMP++ Could Give XMR a 100M-Output Privacy Set as AlphaPepe Turns AI Into Working Trading Utility",
+            "description": "Join the AlphaPepe crypto presale to explore its AI-powered DEX and secure your place before the public launch.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nMonero is preparing one of the biggest privacy upgrades in crypto. FCMP++ is designed to expand the anonymity set from 16 ring members to roughly 100 million historical outputs, while AlphaPepe is pursuing a different ki... [5512 chars]",
+            "url": "https://techbullion.com/monero-price-prediction-fcmp-could-give-xmr-a-100m-output-privacy-set-as-alphapepe-turns-ai-into-working-trading-utility/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/08/Monero.png",
+            "publishedAt": "2026-08-17T20:01:29Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "f9f2a5fee5761b538e3ade3703ec5be6",
+            "title": "Wall Street's Mixed Signals: Markets Droop Amid Retail Earnings and Oil Surge",
+            "description": "Wall Street's indices experienced a downturn as investors awaited retail sector earnings reports. Rising oil prices, spurred by geopolitical concerns, lent support to the energy index. Notably, tech stocks faced volatility amid renewed investor focus on artificial intelligence spending, while a notable investment in Vista by Peter Thiel bolstered its shares.",
+            "content": "On Monday, Wall Street's major indices fell as investors braced for key quarterly reports from leading retailers, which could provide crucial insights into U.S. consumer behavior. This anticipation coincided with a surge in oil prices, indicating con... [762 chars]",
+            "url": "https://www.devdiscourse.com/article/business/3964748-wall-streets-mixed-signals-markets-droop-amid-retail-earnings-and-oil-surge",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/16_07_2024_20_42_35_7996437.png&width=920&format=jpeg",
+            "publishedAt": "2026-08-17T20:01:04Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "66998cb04a805e59e5ea4c773f7b4f92",
+            "title": "China Aims to Spoil the AI Party",
+            "description": "They’re running their playbook on intelligence…",
+            "content": "China is running their favorite playbook on AI.\nThe same one they ran on metals, rare earths, cars, solar panels, and manufacturing in general.\nIt’s a simple model. Build stuff for cheaper than everyone else, and undercut the world on price.\nWe’ve be... [3997 chars]",
+            "url": "https://dailyreckoning.com/china-aims-to-spoil-the-ai-party/",
+            "image": "https://dailyreckoning.com/wp-content/uploads/2026/08/dr-hero-img-08-17-26.jpg",
+            "publishedAt": "2026-08-17T20:00:49Z",
+            "lang": "en",
+            "source": {
+                "id": "4df2dff079dc5c9e1bc2b2880281fc11",
+                "name": "The Daily Reckoning",
+                "url": "https://dailyreckoning.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c757a5e8ea3ff5d8195079a32252ad1b",
+            "title": "The Google Pixel 10a Is $75 Off Right Now",
+            "description": "This Google Pixel has a long battery life and built-in AI assistance. You can get it on Amazon for 13% off right now.",
+            "content": "The Google Pixel 10a is $524 right now, down from $599, marking its lowest price ever, according to price trackers. If you’re looking to upgrade your current Pixel or finally switch to the Pixel lineup, this is a great option. Its 1080 x 2424 resolut... [714 chars]",
+            "url": "https://lifehacker.com/tech/google-pixel-10a-deal-august-2026",
+            "image": "https://lifehacker.com/imagery/articles/01M08M34V2A2AQ779MNCP1ZSBF/hero-image.fill.size_1200x675.jpg",
+            "publishedAt": "2026-08-17T20:00:47Z",
+            "lang": "en",
+            "source": {
+                "id": "5240ef9173881b8031afe68dcbb2f7a3",
+                "name": "Lifehacker",
+                "url": "https://lifehacker.com",
                 "country": "us"
             }
         }
