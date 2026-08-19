@@ -4,64 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 418221,
+    "totalArticles": 419118,
     "articles": [
         {
-            "id": "6915891cd7c48f7a811cd55a32b5649f",
-            "title": "Use AI and keep your brain sharp",
-            "description": "Artificial intelligence can be a handy tool but too heavy use risks weakening critical thinking skills, one expert says.",
-            "content": "Artificial intelligence can be a handy tool, but too much heavy use risks weakening critical thinking skills, one expert says.\nSinead Bovell, a tech entrepreneur, suggested using AI as a “sparring partner” in an interview with CTV Your Morning on Mon... [2203 chars]",
-            "url": "https://www.cp24.com/news/canada/2026/08/17/heavy-use-of-ai-can-weaken-critical-thinking-skills-heres-how-you-can-use-it-to-polish-them-instead/",
-            "image": "https://www.cp24.com/resizer/v2/Y5ZBU76UWZC73BPNQTN6NXHHPE.jpeg?smart=true&auth=7db0e52137f9289a47098c7b6fcfecbea5ffa2f119584ecf8848296c34c33891&width=1200&height=630",
-            "publishedAt": "2026-08-17T20:19:01Z",
+            "id": "5c1c40c15554164f48040ef3e988a300",
+            "title": "$21 billion AI chip startup Etched takes on Nvidia, poaches its engineers and lands Jane Street",
+            "description": "Etched is starting to look like something Nvidia has rarely faced during the AI boom: a young chip startup with billions in backing, veteran Nvidia engineers on its payroll, more than $1 billion in orders, and a major Wall Street firm willing to become its first customer. The semiconductor startup, founded by Harvard dropouts, has",
+            "content": "Etched is starting to look like something Nvidia has rarely faced during the AI boom: a young chip startup with billions in backing, veteran Nvidia engineers on its payroll, more than $1 billion in orders, and a major Wall Street firm willing to beco... [5345 chars]",
+            "url": "https://techstartups.com/2026/08/18/21-billion-ai-chip-startup-etched-takes-on-nvidia-poaches-its-engineers-and-lands-jane-street/",
+            "image": "https://techstartups.com/wp-content/uploads/2026/07/AI-chip-startup-Etched-raises-300-million-at-10.3-billion-valuation.jpg",
+            "publishedAt": "2026-08-18T20:16:10Z",
             "lang": "en",
             "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "643151a56a70895f4c8eb219e61a4e6d",
-            "title": "This R-Rated Film Studio Wants to Be the HBO of AI",
-            "description": "Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content.",
-            "content": "Demand for artificially generated smut is surging. But the quality of the visual content being created and shared—like on companion apps, where adult performers are selling their likeness to give fans a 24/7 experience, WIRED reported in March—isn’t ... [5110 chars]",
-            "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
-            "image": "https://media.wired.com/photos/6a6a49d8f2f28be47a641341/191:100/w_1280,c_limit/culture_ai__video_hbo_porn.jpg",
-            "publishedAt": "2026-08-17T20:18:17Z",
-            "lang": "en",
-            "source": {
-                "id": "b683218c3952d77a76b7bda7512f2f6e",
-                "name": "WIRED",
-                "url": "https://www.wired.com",
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
                 "country": "us"
             }
         },
         {
-            "id": "159530542207a0391ffb740fce540b90",
-            "title": "US stocks: US market slips as oil prices rise, retail results awaited",
-            "description": "As investors braced for retail earnings reports, major stock indexes fell, signaling caution in the market. Oil prices surged, driven by concerns over Iran alongside global supply uncertainties. Recent economic data from July amplified the cautious atmosphere, as Home Depot and Walmart's earnings loom ahead, promising key insights into consumer spending trends. Technology stocks, however, exhibited a mixed performance in the face of AI investment risks.",
-            "content": "Synopsis\nAs investors braced for retail earnings reports, major stock indexes fell, signaling caution in the market. Oil prices surged, driven by concerns over Iran alongside global supply uncertainties. Recent economic data from July amplified the c... [4445 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-slips-as-oil-prices-rise-retail-results-awaited/articleshow/133306298.cms",
-            "image": "https://img.etimg.com/thumb/msid-133306300,width-1200,height-630,imgsize-106308,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-08-17T20:08:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "de6db6ccf0cd2b5296b9cd75ce05405e",
-            "title": "Nvidia's stock has started to come alive. Here's 3 reasons why it can continue",
-            "description": "The leading AI chipmaker has rebounded since late July.",
-            "content": "Nvidia's stock is showing signs of life ahead of earnings next week. The move is justified and should have more room to go. Shares of Nvidia on Monday closed around $225 a share for the second session in a row — a closing level that previously hadn't... [9624 chars]",
-            "url": "https://www.cnbc.com/2026/08/17/nvidias-stock-has-started-to-come-alive-heres-3-reasons-why-it-can-continue-.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108314500-1780318077234-gettyimages-2278512962-AFP_B4KP4F3.jpeg?v=1780318133&w=1920&h=1080",
-            "publishedAt": "2026-08-17T20:07:26Z",
+            "id": "8e6886ca0cda38a014064c451ee8e498",
+            "title": "If AI is a bubble, could rising yields pop it?",
+            "description": "Many stocks tied to the AI trade have soared on the promise of posting ultrahigh earnings years from now, but rising yields could throw water on that outlook.",
+            "content": "An eye-popping ascent in bond yields is raising alarm on Wall Street that the artificial intelligence trade could see some new financial pressure. The 30-year U.S. Treasury yield hit its highest level in 19 years on Tuesday, topping the 5.33% level. ... [4533 chars]",
+            "url": "https://www.cnbc.com/2026/08/18/if-ai-is-a-bubble-could-rising-yields-pop-it.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108329064-1782877791923-gettyimages-2271917626-SKOREA_IT_SHOW.jpeg?v=1782878119&w=1920&h=1080",
+            "publishedAt": "2026-08-18T20:03:14Z",
             "lang": "en",
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -71,98 +39,130 @@
             }
         },
         {
-            "id": "2c21652778fda264a0cb523c6261724d",
-            "title": "This Index Is Collapsing, The AI Bubble Is Popping - Wake Up",
-            "description": "Stock market highs hide risks: the LLM Token Expenditure Index signals an AI model price war that could pop the AI bubble.",
-            "content": "Analyst’s Disclosure: I/we have a beneficial short position in the shares of QQQ either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [773 chars]",
-            "url": "https://seekingalpha.com/article/4937432-this-index-is-collapsing-the-ai-bubble-is-popping-wake-up",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1453534485/image_1453534485.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-08-17T20:06:40Z",
+            "id": "41b79d84130294ea4a6cc1ca2eb20b87",
+            "title": "I'm not human: ChatGPT warns teens about AI attachment",
+            "description": "Underage artificial intelligence users will see a different side to OpenAI's chatbot in future, with changes reminding them it cannot be a friend.",
+            "content": "Teenagers will be warned that artificial intelligence chatbots are not human, cannot feel emotions and cannot fall in love under safeguards designed for underage users.\nThe reminders will be one of several changes launched by OpenAI as part of its Ch... [2784 chars]",
+            "url": "https://www.perthnow.com.au/news/technology/im-not-human-chatgpt-warns-teens-about-ai-attachment-c-22744196",
+            "image": "https://images.perthnow.com.au/publication/C-22744196/fad7f3d7966203a3033a355573a4b389475b87c5-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-08-18T20:02:10Z",
             "lang": "en",
             "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "b07329ca57fd7d771a0125ae282723c6",
+            "title": "I'm not human: ChatGPT warns teens about AI attachment",
+            "description": "Underage artificial intelligence users will see a different side to OpenAI's chatbot in future, with changes reminding them...",
+            "content": "Teenagers to be warned that Chatbots can't fall in love, don't have emotions under safeguards. Photo: PR IMAGE PHOTO\nTeenagers will be warned that artificial intelligence chatbots are not human, cannot feel emotions and cannot fall in love under safe... [4914 chars]",
+            "url": "https://www.canberratimes.com.au/story/9333038/im-not-human-chatgpt-warns-teens-about-ai-attachment/",
+            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/f885aede-f29e-4293-a848-22698b641b42.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-08-18T20:00:30Z",
+            "lang": "en",
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "1f4a110f85279fce892660ed75534dbb",
+            "title": "Pueblo Police Department requests $900,000 for new AI traffic cameras",
+            "description": "PUEBLO, Colo. (KRDO) -- The Pueblo Police Department (PPD) is requesting $900,000 to purchase new artificial intelligence traffic cameras designed to flag",
+            "content": "PUEBLO, Colo. (KRDO) -- The Pueblo Police Department (PPD) is requesting $900,000 to purchase new artificial intelligence traffic cameras designed to flag drivers for speeding.\nPolice officials plan to place the cameras at multiple locations based on... [2125 chars]",
+            "url": "https://krdo.com/news/2026/08/18/pueblo-police-department-requests-900000-for-new-ai-traffic-cameras/",
+            "image": "https://krdo.b-cdn.net/2026/08/STILL-AI-CAM.jpg",
+            "publishedAt": "2026-08-18T20:00:05Z",
+            "lang": "en",
+            "source": {
+                "id": "efaafb02d34a4a267f22c3b80bd225c1",
+                "name": "KRDO",
+                "url": "https://krdo.com",
                 "country": "us"
             }
         },
         {
-            "id": "1fa12dab2b8762c3224a36ad6cf4ca12",
-            "title": "Two more AI pilots fail prelim drug test",
-            "description": "Two more Air India pilots have tested “non-negative” in preliminary drug screening, widening scrutiny of the airline’s cockpit crew after the Phuket-Delhi flight incident in which its pilot-in-command tested positive for drugs.",
-            "content": "Two more Air India pilots have tested “non-negative” in preliminary drug screening, widening scrutiny of the airline’s cockpit crew after the Phuket-Delhi flight incident in which its pilot-in-command tested positive for drugs.\nThe two pilots have be... [2917 chars]",
-            "url": "https://www.tribuneindia.com/news/top-headlines/two-more-ai-pilots-fail-prelim-drug-test/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNmMmVkZjUwLTlhNzYtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-17T20:04:08Z",
+            "id": "a4cc590b862e769533d84937463fcf6a",
+            "title": "AI, sanctions and geopolitics: What they mean for businesses operating across borders",
+            "description": "As businesses diversify where they operate, commercial disputes getting more complex. Read more at straitstimes.com.",
+            "content": "An employee uses artificial intelligence to draft a report, write software code, or create a design for a client project.\nThe work may be done more quickly. But legally, tricky questions could arise: Did the AI model have permission to use the data f... [4544 chars]",
+            "url": "https://www.straitstimes.com/singapore/ai-sanctions-and-geopolitics-what-it-means-for-businesses-operating-across-borders",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/16d6354e585574bef2c3de7b5ae2095f723181fd15fb6f0b538858f6da09d070",
+            "publishedAt": "2026-08-18T20:00:00Z",
             "lang": "en",
             "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "c549b5961249afa1fa30971c96c4c5c6",
+            "title": "Indian Pilots' Union Calls For Overhaul Of DGCA Drug-Testing Rules Following Air India's Phuket Flight Incident; Suggests Increasing Random Testing To 25% Crew",
+            "description": "The Federation of Indian Pilots has urged DGCA to overhaul psychoactive-substance testing rules after an Air India pilot was found under the influence of marijuana following the AI-2379 incident. FIP proposed raising random testing coverage from 10% to 25%, adding oral-fluid screening and ensuring safeguards before regulatory action against crew members.",
+            "content": "The Federation of Indian Pilots (FIP) has urged the Directorate General of Civil Aviation (DGCA) for a comprehensive overhaul of the country’s psychoactive-substance testing regulations following the incident on an Air India flight earlier this month... [3734 chars]",
+            "url": "https://www.freepressjournal.in/business/indian-pilots-union-calls-for-overhaul-of-dgca-drug-testing-rules-following-air-indias-phuket-flight-incident-suggests-increasing-random-testing-to-25-crew",
+            "image": "https://media.assettype.com/freepressjournal/2026-08-18/6mszeo1x/ChatGPT-Image-Aug-19-2026-012842-AM.png",
+            "publishedAt": "2026-08-18T19:58:31Z",
+            "lang": "en",
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
                 "country": "in"
             }
         },
         {
-            "id": "56ce2a4341d3239653f5130f7d2840d6",
-            "title": "Monero Price Prediction: FCMP++ Could Give XMR a 100M-Output Privacy Set as AlphaPepe Turns AI Into Working Trading Utility",
-            "description": "Join the AlphaPepe crypto presale to explore its AI-powered DEX and secure your place before the public launch.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nMonero is preparing one of the biggest privacy upgrades in crypto. FCMP++ is designed to expand the anonymity set from 16 ring members to roughly 100 million historical outputs, while AlphaPepe is pursuing a different ki... [5512 chars]",
-            "url": "https://techbullion.com/monero-price-prediction-fcmp-could-give-xmr-a-100m-output-privacy-set-as-alphapepe-turns-ai-into-working-trading-utility/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/08/Monero.png",
-            "publishedAt": "2026-08-17T20:01:29Z",
+            "id": "aad9d34f0e836443146b314c757511d6",
+            "title": "Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support",
+            "description": "Apple is working on a home hub that incorporates Siri AI, and it's set to launch as soon as this year. The home hub will use a Widget Gallery that lets users select the content they want to appear on the device's home screen. Mentions of the Widget Gallery were found in macOS Tahoe 26.7, an update that leaked a long list of unreleased Apple products. The strings were found in a file named PosterKit-J490, and J490 is the codename for the home hub.",
+            "content": "Apple is working on a home hub that incorporates Siri AI, and it's set to launch as soon as this year. The home hub will use a Widget Gallery that lets users select the content they want to appear on the device's home screen.\nMentions of the Widget G... [1616 chars]",
+            "url": "https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/",
+            "image": "https://images.macrumors.com/t/BwKol9Vmvn85RMmRLhmulzsVP3k=/2500x/article-new/2024/11/Apple-AI-Command-Center-Concept-Mock-3.jpg",
+            "publishedAt": "2026-08-18T19:56:40Z",
             "lang": "en",
             "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "f9f2a5fee5761b538e3ade3703ec5be6",
-            "title": "Wall Street's Mixed Signals: Markets Droop Amid Retail Earnings and Oil Surge",
-            "description": "Wall Street's indices experienced a downturn as investors awaited retail sector earnings reports. Rising oil prices, spurred by geopolitical concerns, lent support to the energy index. Notably, tech stocks faced volatility amid renewed investor focus on artificial intelligence spending, while a notable investment in Vista by Peter Thiel bolstered its shares.",
-            "content": "On Monday, Wall Street's major indices fell as investors braced for key quarterly reports from leading retailers, which could provide crucial insights into U.S. consumer behavior. This anticipation coincided with a surge in oil prices, indicating con... [762 chars]",
-            "url": "https://www.devdiscourse.com/article/business/3964748-wall-streets-mixed-signals-markets-droop-amid-retail-earnings-and-oil-surge",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/16_07_2024_20_42_35_7996437.png&width=920&format=jpeg",
-            "publishedAt": "2026-08-17T20:01:04Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "66998cb04a805e59e5ea4c773f7b4f92",
-            "title": "China Aims to Spoil the AI Party",
-            "description": "They’re running their playbook on intelligence…",
-            "content": "China is running their favorite playbook on AI.\nThe same one they ran on metals, rare earths, cars, solar panels, and manufacturing in general.\nIt’s a simple model. Build stuff for cheaper than everyone else, and undercut the world on price.\nWe’ve be... [3997 chars]",
-            "url": "https://dailyreckoning.com/china-aims-to-spoil-the-ai-party/",
-            "image": "https://dailyreckoning.com/wp-content/uploads/2026/08/dr-hero-img-08-17-26.jpg",
-            "publishedAt": "2026-08-17T20:00:49Z",
-            "lang": "en",
-            "source": {
-                "id": "4df2dff079dc5c9e1bc2b2880281fc11",
-                "name": "The Daily Reckoning",
-                "url": "https://dailyreckoning.com",
+                "id": "10216cb8fabd0accd5eb967c97fc37ab",
+                "name": "MacRumors",
+                "url": "https://www.macrumors.com",
                 "country": "us"
             }
         },
         {
-            "id": "c757a5e8ea3ff5d8195079a32252ad1b",
-            "title": "The Google Pixel 10a Is $75 Off Right Now",
-            "description": "This Google Pixel has a long battery life and built-in AI assistance. You can get it on Amazon for 13% off right now.",
-            "content": "The Google Pixel 10a is $524 right now, down from $599, marking its lowest price ever, according to price trackers. If you’re looking to upgrade your current Pixel or finally switch to the Pixel lineup, this is a great option. Its 1080 x 2424 resolut... [714 chars]",
-            "url": "https://lifehacker.com/tech/google-pixel-10a-deal-august-2026",
-            "image": "https://lifehacker.com/imagery/articles/01M08M34V2A2AQ779MNCP1ZSBF/hero-image.fill.size_1200x675.jpg",
-            "publishedAt": "2026-08-17T20:00:47Z",
+            "id": "2d01bde827eefbea6584f80b9ff75c58",
+            "title": "Teens risk critical thinking, learning as they lean into AI for schoolwork",
+            "description": "Common Sense Media finds most teens use AI for schoolwork, including to get answers, while many schools lack clear AI rules and instruction on how to use the technology responsibly.",
+            "content": "Most teenagers are using artificial intelligence for schoolwork, both in ways that could be beneficial and in ways that could shortcut learning or offload critical thinking.\nA new survey of teens from Common Sense Media's Youth AI Safety Institute fo... [3789 chars]",
+            "url": "https://wjla.com/news/nation-world/teens-risk-critical-thinking-learning-as-they-lean-into-ai-for-schoolwork-common-sense-medias-youth-ai-safety-institute-artificial-intelligence-education",
+            "image": "https://wjla.com/resources/media2/16x9/4500/1320/936x507/90/698e881c-8190-421b-9d25-efbc674d6e28-GettyImages1218865458.jpg",
+            "publishedAt": "2026-08-18T19:54:55Z",
             "lang": "en",
             "source": {
-                "id": "5240ef9173881b8031afe68dcbb2f7a3",
-                "name": "Lifehacker",
-                "url": "https://lifehacker.com",
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "b52a3d6cc7882d3bf958b3fdd3f2d6db",
+            "title": "Teens risk critical thinking, learning as they lean into AI for schoolwork",
+            "description": "Common Sense Media finds most teens use AI for schoolwork, including to get answers, while many schools lack clear AI rules and instruction on how to use the technology responsibly.",
+            "content": "Most teenagers are using artificial intelligence for schoolwork, both in ways that could be beneficial and in ways that could shortcut learning or offload critical thinking.\nA new survey of teens from Common Sense Media's Youth AI Safety Institute fo... [3789 chars]",
+            "url": "https://foxbaltimore.com/news/nation-world/teens-risk-critical-thinking-learning-as-they-lean-into-ai-for-schoolwork-common-sense-medias-youth-ai-safety-institute-artificial-intelligence-education",
+            "image": "https://foxbaltimore.com/resources/media2/16x9/4500/1320/936x507/90/698e881c-8190-421b-9d25-efbc674d6e28-GettyImages1218865458.jpg",
+            "publishedAt": "2026-08-18T19:54:55Z",
+            "lang": "en",
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
                 "country": "us"
             }
         }
