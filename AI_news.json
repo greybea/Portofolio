@@ -4,32 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 419118,
+    "totalArticles": 420015,
     "articles": [
         {
-            "id": "5c1c40c15554164f48040ef3e988a300",
-            "title": "$21 billion AI chip startup Etched takes on Nvidia, poaches its engineers and lands Jane Street",
-            "description": "Etched is starting to look like something Nvidia has rarely faced during the AI boom: a young chip startup with billions in backing, veteran Nvidia engineers on its payroll, more than $1 billion in orders, and a major Wall Street firm willing to become its first customer. The semiconductor startup, founded by Harvard dropouts, has",
-            "content": "Etched is starting to look like something Nvidia has rarely faced during the AI boom: a young chip startup with billions in backing, veteran Nvidia engineers on its payroll, more than $1 billion in orders, and a major Wall Street firm willing to beco... [5345 chars]",
-            "url": "https://techstartups.com/2026/08/18/21-billion-ai-chip-startup-etched-takes-on-nvidia-poaches-its-engineers-and-lands-jane-street/",
-            "image": "https://techstartups.com/wp-content/uploads/2026/07/AI-chip-startup-Etched-raises-300-million-at-10.3-billion-valuation.jpg",
-            "publishedAt": "2026-08-18T20:16:10Z",
+            "id": "1e54a5932bf4a3423571ee70dff62ea7",
+            "title": "The AI Boom Is About to Make Cars Even More Expensive",
+            "description": "Prepare yourself for an average sticker price of $60,000.",
+            "content": "New drivers may never have to learn how to parallel park. At least not the old-fashioned way. Many new cars—a Ford Mustang Mach-E, a BMW sedan, a Tesla Cybertruck—will just maneuver into a spot for you with a click of a button. Even a decade-old Toyo... [6668 chars]",
+            "url": "https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/",
+            "image": "https://cdn.theatlantic.com/thumbor/H8T1oa2JbKn_bgneqYJUkSNHtKA=/0x61:2876x1559/1200x625/media/img/mt/2026/08/2026_07_15_CarAI_3/original.gif",
+            "publishedAt": "2026-08-19T20:22:00Z",
             "lang": "en",
             "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
+                "id": "a2e577ba2489a893201ce3c6c670f6de",
+                "name": "The Atlantic",
+                "url": "https://www.theatlantic.com",
                 "country": "us"
             }
         },
         {
-            "id": "8e6886ca0cda38a014064c451ee8e498",
-            "title": "If AI is a bubble, could rising yields pop it?",
-            "description": "Many stocks tied to the AI trade have soared on the promise of posting ultrahigh earnings years from now, but rising yields could throw water on that outlook.",
-            "content": "An eye-popping ascent in bond yields is raising alarm on Wall Street that the artificial intelligence trade could see some new financial pressure. The 30-year U.S. Treasury yield hit its highest level in 19 years on Tuesday, topping the 5.33% level. ... [4533 chars]",
-            "url": "https://www.cnbc.com/2026/08/18/if-ai-is-a-bubble-could-rising-yields-pop-it.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108329064-1782877791923-gettyimages-2271917626-SKOREA_IT_SHOW.jpeg?v=1782878119&w=1920&h=1080",
-            "publishedAt": "2026-08-18T20:03:14Z",
+            "id": "d12344487bebde11ba67a8e6f0e5df85",
+            "title": "The Market Is in a Bubble. Why I’m Focusing on Quantum Computing Stocks Now.",
+            "description": "With the market in a bubble, it is important for investors to study the segments of the AI trade.",
+            "content": "We are in a bubble.\nThat doesn’t mean it will pop tomorrow, next month, or even next year. But it does mean that it’s time to get prepared.\nThat’s why I created what I’m calling my “Bubble ETF Focus List.” It contains the popular stock averages like ... [3025 chars]",
+            "url": "https://www.barchart.com/story/news/3937170/the-market-is-in-a-bubble-why-im-focusing-on-quantum-computing-stocks-now",
+            "image": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Quantum%20Computing/A%20concept%20image%20of%20a%20neon%20pink%20circuit%20board_%20Image%20by%20Gorodenkoff%20via%20Shutterstock_.jpg",
+            "publishedAt": "2026-08-19T20:17:00Z",
+            "lang": "en",
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c614704bfcf8b55f59c2fe224eb23e56",
+            "title": "2 Under-the-Radar AI Data Center Stocks to Buy Now",
+            "description": "As AI data centers continue to expand, Trane Technologies and Eaton are teaming up to power and cool them, giving investors two dividend-paying stocks worth buying.",
+            "content": "Artificial intelligence (AI) may be the headline today, but behind every new AI model is a very physical problem.\nWhere do you put all that computing power, and how do you keep it powered and cool? As computing density rises, data centers need more s... [10039 chars]",
+            "url": "https://www.barchart.com/story/news/3937166/2-under-the-radar-ai-data-center-stocks-to-buy-now",
+            "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Buy%2C%20Sell/Buy%20enter%20button%20by%20Ardasavasciogullari%20via%20iStock.jpg",
+            "publishedAt": "2026-08-19T20:16:48Z",
+            "lang": "en",
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "7aa8fd0ea313b3b015b2f5ac3a74fae5",
+            "title": "Rillet raises $100M Series C at $1B valuation - 2 years after emerging from stealth",
+            "description": "AI-native account startup Rillet became a unicorn, led by ICONIQ after it doubled its ARR in the past three months, it said.",
+            "content": "AI accounting startup Rillet announced a $100 million Series C at a $1 billion valuation on Tuesday, led by Iconiq. Returning investors included Andreessen Horowitz and Sequoia. Rillet, which emerged from stealth in 2024, is quickly becoming one of t... [953 chars]",
+            "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/05/Nicolas-Kopp-Founder-and-CEO-3.jpg?resize=1200,800",
+            "publishedAt": "2026-08-19T20:12:33Z",
+            "lang": "en",
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0ca619a17c2b830754637fd58d4b3d7d",
+            "title": "FBI Warns That Hackers Are Targeting Siemens Equipment Amid Recent Water Plant Breaches",
+            "description": "The advisory says attackers are using AI to go after the company’s industrial computers used in water plants and other critical infrastructure facilities.",
+            "content": "Hackers are actively targeting Siemens equipment used in water plants and other critical infrastructure, several U.S. agencies are warning.\nThe National Security Agency (NSA) and Cybersecurity and Infrastructure Security Agency (CISA), along with oth... [2758 chars]",
+            "url": "https://gizmodo.com/fbi-warns-that-hackers-are-targeting-siemens-equipment-amid-recent-water-plant-breaches-2000800534",
+            "image": "https://gizmodo.com/app/uploads/2022/06/782954258bc3f210c71a2a32444493b1.jpg",
+            "publishedAt": "2026-08-19T20:10:36Z",
+            "lang": "en",
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "9b663c71d5f13b9175f8b61f4de660e4",
+            "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
+            "description": "Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.",
+            "content": "Stripe said Wednesday that it plans to acquire the startup OpenRouter, as the fintech company expands into the artificial intelligence model market.\nTerms of the deal weren't disclosed, but The New York Times, citing a person familiar with the matter... [1948 chars]",
+            "url": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108047047-1728892512191-gettyimages-1243617876-ITALY_ELKANN.jpeg?v=1738637840&w=1920&h=1080",
+            "publishedAt": "2026-08-19T20:10:01Z",
             "lang": "en",
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -39,130 +103,66 @@
             }
         },
         {
-            "id": "41b79d84130294ea4a6cc1ca2eb20b87",
-            "title": "I'm not human: ChatGPT warns teens about AI attachment",
-            "description": "Underage artificial intelligence users will see a different side to OpenAI's chatbot in future, with changes reminding them it cannot be a friend.",
-            "content": "Teenagers will be warned that artificial intelligence chatbots are not human, cannot feel emotions and cannot fall in love under safeguards designed for underage users.\nThe reminders will be one of several changes launched by OpenAI as part of its Ch... [2784 chars]",
-            "url": "https://www.perthnow.com.au/news/technology/im-not-human-chatgpt-warns-teens-about-ai-attachment-c-22744196",
-            "image": "https://images.perthnow.com.au/publication/C-22744196/fad7f3d7966203a3033a355573a4b389475b87c5-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-08-18T20:02:10Z",
+            "id": "a420c0f07dce64ce41716bf5842d0b4c",
+            "title": "The AI Boom Is Already Repricing Power Stocks: These 2 Still Look Early",
+            "description": "AI’s biggest bottleneck may be electricity, and two Canadian “picks-and-shovels” stocks are positioned to profit from it.",
+            "content": "By 2030, the world’s data centres could consume slightly more electricity than Japan does today. That is quite the utility bill for technology supposedly floating around in a “cloud.” Investors have already begun bidding up power producers and electr... [3920 chars]",
+            "url": "https://www.fool.ca/2026/08/19/the-ai-boom-is-already-repricing-power-stocks-these-2-still-look-early/",
+            "image": "https://www.fool.ca/wp-content/uploads/2024/08/the-letters-ai-glowing-on-a-circuit-board-processor-1200x675.jpg",
+            "publishedAt": "2026-08-19T20:10:00Z",
             "lang": "en",
             "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
+                "id": "19d1f502a5658ccbfaaa50f77b89993f",
+                "name": "The Motley Fool Canada",
+                "url": "https://www.fool.ca",
+                "country": "ca"
             }
         },
         {
-            "id": "b07329ca57fd7d771a0125ae282723c6",
-            "title": "I'm not human: ChatGPT warns teens about AI attachment",
-            "description": "Underage artificial intelligence users will see a different side to OpenAI's chatbot in future, with changes reminding them...",
-            "content": "Teenagers to be warned that Chatbots can't fall in love, don't have emotions under safeguards. Photo: PR IMAGE PHOTO\nTeenagers will be warned that artificial intelligence chatbots are not human, cannot feel emotions and cannot fall in love under safe... [4914 chars]",
-            "url": "https://www.canberratimes.com.au/story/9333038/im-not-human-chatgpt-warns-teens-about-ai-attachment/",
-            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/f885aede-f29e-4293-a848-22698b641b42.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-08-18T20:00:30Z",
+            "id": "5a20a09b35c12d2c12a9f9d8af762224",
+            "title": "Why the Closing of Harvard’s Writing Center Matters",
+            "description": "Students, faculty members, and alumni are asking how seriously the school is taking human learning in the age of AI.",
+            "content": "It is not every day that the laying off of a university bureaucrat generates a torrent of criticism from students, faculty, and alumni. But Jane Rosenzweig was not just any university bureaucrat, and she was not presiding over just any administrative... [7909 chars]",
+            "url": "https://www.theatlantic.com/culture/2026/08/harvard-writing-center-closure/688331/",
+            "image": "https://cdn.theatlantic.com/thumbor/SAVOiPl0QyBszAjrkle04PbQAwQ=/0x117:5511x2987/1200x625/media/img/mt/2026/08/2026_08_14_Harvard_Writing_Center/original.jpg",
+            "publishedAt": "2026-08-19T20:07:00Z",
             "lang": "en",
             "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "1f4a110f85279fce892660ed75534dbb",
-            "title": "Pueblo Police Department requests $900,000 for new AI traffic cameras",
-            "description": "PUEBLO, Colo. (KRDO) -- The Pueblo Police Department (PPD) is requesting $900,000 to purchase new artificial intelligence traffic cameras designed to flag",
-            "content": "PUEBLO, Colo. (KRDO) -- The Pueblo Police Department (PPD) is requesting $900,000 to purchase new artificial intelligence traffic cameras designed to flag drivers for speeding.\nPolice officials plan to place the cameras at multiple locations based on... [2125 chars]",
-            "url": "https://krdo.com/news/2026/08/18/pueblo-police-department-requests-900000-for-new-ai-traffic-cameras/",
-            "image": "https://krdo.b-cdn.net/2026/08/STILL-AI-CAM.jpg",
-            "publishedAt": "2026-08-18T20:00:05Z",
-            "lang": "en",
-            "source": {
-                "id": "efaafb02d34a4a267f22c3b80bd225c1",
-                "name": "KRDO",
-                "url": "https://krdo.com",
+                "id": "a2e577ba2489a893201ce3c6c670f6de",
+                "name": "The Atlantic",
+                "url": "https://www.theatlantic.com",
                 "country": "us"
             }
         },
         {
-            "id": "a4cc590b862e769533d84937463fcf6a",
-            "title": "AI, sanctions and geopolitics: What they mean for businesses operating across borders",
-            "description": "As businesses diversify where they operate, commercial disputes getting more complex. Read more at straitstimes.com.",
-            "content": "An employee uses artificial intelligence to draft a report, write software code, or create a design for a client project.\nThe work may be done more quickly. But legally, tricky questions could arise: Did the AI model have permission to use the data f... [4544 chars]",
-            "url": "https://www.straitstimes.com/singapore/ai-sanctions-and-geopolitics-what-it-means-for-businesses-operating-across-borders",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/16d6354e585574bef2c3de7b5ae2095f723181fd15fb6f0b538858f6da09d070",
-            "publishedAt": "2026-08-18T20:00:00Z",
+            "id": "8909697bfca8008a702a7e56876afedf",
+            "title": "Best Crypto To Buy Now: Portal’s 53% Surge Proves Small Caps Still Explode, AlphaPepe Gives Retail the AI Play Before Listing",
+            "description": "Explore the AlphaPepe Crypto presale and discover how this AI-powered DEX is making waves in the crypto market.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nPortal has surged roughly 53% in seven days, proving that small-cap crypto can still explode even while the wider market remains selective. The move is putting low-cap gaming tokens back on retail watchlists, while Alpha... [4889 chars]",
+            "url": "https://techbullion.com/best-crypto-to-buy-now-portals-53-surge-proves-small-caps-still-explode-alphapepe-gives-retail-the-ai-play-before-listing/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/08/Best-19.png",
+            "publishedAt": "2026-08-19T20:02:08Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
             }
         },
         {
-            "id": "c549b5961249afa1fa30971c96c4c5c6",
-            "title": "Indian Pilots' Union Calls For Overhaul Of DGCA Drug-Testing Rules Following Air India's Phuket Flight Incident; Suggests Increasing Random Testing To 25% Crew",
-            "description": "The Federation of Indian Pilots has urged DGCA to overhaul psychoactive-substance testing rules after an Air India pilot was found under the influence of marijuana following the AI-2379 incident. FIP proposed raising random testing coverage from 10% to 25%, adding oral-fluid screening and ensuring safeguards before regulatory action against crew members.",
-            "content": "The Federation of Indian Pilots (FIP) has urged the Directorate General of Civil Aviation (DGCA) for a comprehensive overhaul of the country’s psychoactive-substance testing regulations following the incident on an Air India flight earlier this month... [3734 chars]",
-            "url": "https://www.freepressjournal.in/business/indian-pilots-union-calls-for-overhaul-of-dgca-drug-testing-rules-following-air-indias-phuket-flight-incident-suggests-increasing-random-testing-to-25-crew",
-            "image": "https://media.assettype.com/freepressjournal/2026-08-18/6mszeo1x/ChatGPT-Image-Aug-19-2026-012842-AM.png",
-            "publishedAt": "2026-08-18T19:58:31Z",
+            "id": "1757277c1ab18405c63ed8c89ee7ee71",
+            "title": "Striveworks to build AI layer for NGC2 at corps level, Army says",
+            "description": "Striveworks's models will be able to compress \"hours of staff work into seconds,\" CEO Jim Rebesco told Breaking Defense.",
+            "content": "AUGUSTA, Ga. — The baseline AI layer for the Army’s Next Generation Command and Control (NGC2) architecture is being built by the software and technology firm Striveworks, Army officials told Breaking Defense on Tuesday.\nThe news comes as the service... [2714 chars]",
+            "url": "https://breakingdefense.com/2026/08/striveworks-to-build-ai-layer-for-ngc2-at-corps-level-army-says/",
+            "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/10/Collins-Chad-Ford-DVIDS-7467434-scaled-e1787166872334.jpg",
+            "publishedAt": "2026-08-19T20:00:00Z",
             "lang": "en",
             "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "aad9d34f0e836443146b314c757511d6",
-            "title": "Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support",
-            "description": "Apple is working on a home hub that incorporates Siri AI, and it's set to launch as soon as this year. The home hub will use a Widget Gallery that lets users select the content they want to appear on the device's home screen. Mentions of the Widget Gallery were found in macOS Tahoe 26.7, an update that leaked a long list of unreleased Apple products. The strings were found in a file named PosterKit-J490, and J490 is the codename for the home hub.",
-            "content": "Apple is working on a home hub that incorporates Siri AI, and it's set to launch as soon as this year. The home hub will use a Widget Gallery that lets users select the content they want to appear on the device's home screen.\nMentions of the Widget G... [1616 chars]",
-            "url": "https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/",
-            "image": "https://images.macrumors.com/t/BwKol9Vmvn85RMmRLhmulzsVP3k=/2500x/article-new/2024/11/Apple-AI-Command-Center-Concept-Mock-3.jpg",
-            "publishedAt": "2026-08-18T19:56:40Z",
-            "lang": "en",
-            "source": {
-                "id": "10216cb8fabd0accd5eb967c97fc37ab",
-                "name": "MacRumors",
-                "url": "https://www.macrumors.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "2d01bde827eefbea6584f80b9ff75c58",
-            "title": "Teens risk critical thinking, learning as they lean into AI for schoolwork",
-            "description": "Common Sense Media finds most teens use AI for schoolwork, including to get answers, while many schools lack clear AI rules and instruction on how to use the technology responsibly.",
-            "content": "Most teenagers are using artificial intelligence for schoolwork, both in ways that could be beneficial and in ways that could shortcut learning or offload critical thinking.\nA new survey of teens from Common Sense Media's Youth AI Safety Institute fo... [3789 chars]",
-            "url": "https://wjla.com/news/nation-world/teens-risk-critical-thinking-learning-as-they-lean-into-ai-for-schoolwork-common-sense-medias-youth-ai-safety-institute-artificial-intelligence-education",
-            "image": "https://wjla.com/resources/media2/16x9/4500/1320/936x507/90/698e881c-8190-421b-9d25-efbc674d6e28-GettyImages1218865458.jpg",
-            "publishedAt": "2026-08-18T19:54:55Z",
-            "lang": "en",
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b52a3d6cc7882d3bf958b3fdd3f2d6db",
-            "title": "Teens risk critical thinking, learning as they lean into AI for schoolwork",
-            "description": "Common Sense Media finds most teens use AI for schoolwork, including to get answers, while many schools lack clear AI rules and instruction on how to use the technology responsibly.",
-            "content": "Most teenagers are using artificial intelligence for schoolwork, both in ways that could be beneficial and in ways that could shortcut learning or offload critical thinking.\nA new survey of teens from Common Sense Media's Youth AI Safety Institute fo... [3789 chars]",
-            "url": "https://foxbaltimore.com/news/nation-world/teens-risk-critical-thinking-learning-as-they-lean-into-ai-for-schoolwork-common-sense-medias-youth-ai-safety-institute-artificial-intelligence-education",
-            "image": "https://foxbaltimore.com/resources/media2/16x9/4500/1320/936x507/90/698e881c-8190-421b-9d25-efbc674d6e28-GettyImages1218865458.jpg",
-            "publishedAt": "2026-08-18T19:54:55Z",
-            "lang": "en",
-            "source": {
-                "id": "9f53afb019d44feb16bcc7da150e679a",
-                "name": "Baltimore News",
-                "url": "https://foxbaltimore.com",
+                "id": "391302f06b19835f4e0d9f8b4aa57091",
+                "name": "Breaking Defense",
+                "url": "https://breakingdefense.com",
                 "country": "us"
             }
         }
