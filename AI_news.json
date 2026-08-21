@@ -4,144 +4,64 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 420015,
+    "totalArticles": 420877,
     "articles": [
         {
-            "id": "1e54a5932bf4a3423571ee70dff62ea7",
-            "title": "The AI Boom Is About to Make Cars Even More Expensive",
-            "description": "Prepare yourself for an average sticker price of $60,000.",
-            "content": "New drivers may never have to learn how to parallel park. At least not the old-fashioned way. Many new cars—a Ford Mustang Mach-E, a BMW sedan, a Tesla Cybertruck—will just maneuver into a spot for you with a click of a button. Even a decade-old Toyo... [6668 chars]",
-            "url": "https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/",
-            "image": "https://cdn.theatlantic.com/thumbor/H8T1oa2JbKn_bgneqYJUkSNHtKA=/0x61:2876x1559/1200x625/media/img/mt/2026/08/2026_07_15_CarAI_3/original.gif",
-            "publishedAt": "2026-08-19T20:22:00Z",
+            "id": "b54278a41bb3f667158cb3029ed921e4",
+            "title": "No gold standard needed: Method ranks the precision of medical imaging measurements",
+            "description": "Advances in medical imaging and artificial intelligence (AI) have revolutionized many aspects of medical practice in recent years. Quantitative measurements derived from medical images are increasingly being used to support diagnosis and clinical decision-making. Consequently, many new quantitative imaging tools, including those based on AI, are being developed.",
+            "content": "Advances in medical imaging and artificial intelligence (AI) have revolutionized many aspects of medical practice in recent years. Quantitative measurements derived from medical images are increasingly being used to support diagnosis and clinical dec... [4707 chars]",
+            "url": "https://medicalxpress.com/news/2026-08-gold-standard-method-precision-medical.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/2026/technique-evaluates-re.jpg",
+            "publishedAt": "2026-08-20T20:20:02Z",
             "lang": "en",
             "source": {
-                "id": "a2e577ba2489a893201ce3c6c670f6de",
-                "name": "The Atlantic",
-                "url": "https://www.theatlantic.com",
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "bb16e6df15468baf3300847c068964ae",
+            "title": "Burning Man tells AI glasses wearers: Don't be a creep, get permission to record",
+            "description": "Burning Man organizers have released their 2026 survival guide. In it, they allow recording-enabled smart glasses, but operators must get permission.",
+            "content": "Burning Man organizers have published the 2026 survival guide.\nIn it, they say attendees (nicknamed \"Burners\") are allowed to bring smart glasses, but to be mindful of how they use them.\nThe guide says they should ask before recording others. On soci... [2761 chars]",
+            "url": "https://www.newsbreak.com/business-insider-562169/4840407044348-burning-man-tells-ai-glasses-wearers-don-t-be-a-creep-get-permission-to-record",
+            "image": "https://img.particlenews.com/img/id/2zXjjL_1EQIft9o00",
+            "publishedAt": "2026-08-20T20:13:53Z",
+            "lang": "en",
+            "source": {
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
                 "country": "us"
             }
         },
         {
-            "id": "d12344487bebde11ba67a8e6f0e5df85",
-            "title": "The Market Is in a Bubble. Why I’m Focusing on Quantum Computing Stocks Now.",
-            "description": "With the market in a bubble, it is important for investors to study the segments of the AI trade.",
-            "content": "We are in a bubble.\nThat doesn’t mean it will pop tomorrow, next month, or even next year. But it does mean that it’s time to get prepared.\nThat’s why I created what I’m calling my “Bubble ETF Focus List.” It contains the popular stock averages like ... [3025 chars]",
-            "url": "https://www.barchart.com/story/news/3937170/the-market-is-in-a-bubble-why-im-focusing-on-quantum-computing-stocks-now",
-            "image": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Quantum%20Computing/A%20concept%20image%20of%20a%20neon%20pink%20circuit%20board_%20Image%20by%20Gorodenkoff%20via%20Shutterstock_.jpg",
-            "publishedAt": "2026-08-19T20:17:00Z",
+            "id": "5c7a0759ec7ed2bf165fe6c3e8de6395",
+            "title": "Apple Music will soon get visible labels for AI",
+            "description": "Apple has shared more details about the AI labeling requirements it announced for Apple Music back in March. Here are the details.",
+            "content": "Apple has shared more details about the AI labeling requirements it announced for Apple Music back in March. Here are the details.\nAI-generated material will be visibly labeled on Apple Music\nEarlier this year, Apple announced that Apple Music would ... [2197 chars]",
+            "url": "https://9to5mac.com/2026/08/20/apple-music-will-soon-get-visible-labels-for-ai-generated-content/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/Apple-Music-iOS-26-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-08-20T20:08:57Z",
             "lang": "en",
             "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
+                "id": "92f73865e835e33ed68c11447777c939",
+                "name": "9to5Mac",
+                "url": "https://9to5mac.com",
                 "country": "us"
             }
         },
         {
-            "id": "c614704bfcf8b55f59c2fe224eb23e56",
-            "title": "2 Under-the-Radar AI Data Center Stocks to Buy Now",
-            "description": "As AI data centers continue to expand, Trane Technologies and Eaton are teaming up to power and cool them, giving investors two dividend-paying stocks worth buying.",
-            "content": "Artificial intelligence (AI) may be the headline today, but behind every new AI model is a very physical problem.\nWhere do you put all that computing power, and how do you keep it powered and cool? As computing density rises, data centers need more s... [10039 chars]",
-            "url": "https://www.barchart.com/story/news/3937166/2-under-the-radar-ai-data-center-stocks-to-buy-now",
-            "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Buy%2C%20Sell/Buy%20enter%20button%20by%20Ardasavasciogullari%20via%20iStock.jpg",
-            "publishedAt": "2026-08-19T20:16:48Z",
-            "lang": "en",
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "7aa8fd0ea313b3b015b2f5ac3a74fae5",
-            "title": "Rillet raises $100M Series C at $1B valuation - 2 years after emerging from stealth",
-            "description": "AI-native account startup Rillet became a unicorn, led by ICONIQ after it doubled its ARR in the past three months, it said.",
-            "content": "AI accounting startup Rillet announced a $100 million Series C at a $1 billion valuation on Tuesday, led by Iconiq. Returning investors included Andreessen Horowitz and Sequoia. Rillet, which emerged from stealth in 2024, is quickly becoming one of t... [953 chars]",
-            "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/05/Nicolas-Kopp-Founder-and-CEO-3.jpg?resize=1200,800",
-            "publishedAt": "2026-08-19T20:12:33Z",
-            "lang": "en",
-            "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "0ca619a17c2b830754637fd58d4b3d7d",
-            "title": "FBI Warns That Hackers Are Targeting Siemens Equipment Amid Recent Water Plant Breaches",
-            "description": "The advisory says attackers are using AI to go after the company’s industrial computers used in water plants and other critical infrastructure facilities.",
-            "content": "Hackers are actively targeting Siemens equipment used in water plants and other critical infrastructure, several U.S. agencies are warning.\nThe National Security Agency (NSA) and Cybersecurity and Infrastructure Security Agency (CISA), along with oth... [2758 chars]",
-            "url": "https://gizmodo.com/fbi-warns-that-hackers-are-targeting-siemens-equipment-amid-recent-water-plant-breaches-2000800534",
-            "image": "https://gizmodo.com/app/uploads/2022/06/782954258bc3f210c71a2a32444493b1.jpg",
-            "publishedAt": "2026-08-19T20:10:36Z",
-            "lang": "en",
-            "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "9b663c71d5f13b9175f8b61f4de660e4",
-            "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
-            "description": "Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.",
-            "content": "Stripe said Wednesday that it plans to acquire the startup OpenRouter, as the fintech company expands into the artificial intelligence model market.\nTerms of the deal weren't disclosed, but The New York Times, citing a person familiar with the matter... [1948 chars]",
-            "url": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108047047-1728892512191-gettyimages-1243617876-ITALY_ELKANN.jpeg?v=1738637840&w=1920&h=1080",
-            "publishedAt": "2026-08-19T20:10:01Z",
-            "lang": "en",
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "a420c0f07dce64ce41716bf5842d0b4c",
-            "title": "The AI Boom Is Already Repricing Power Stocks: These 2 Still Look Early",
-            "description": "AI’s biggest bottleneck may be electricity, and two Canadian “picks-and-shovels” stocks are positioned to profit from it.",
-            "content": "By 2030, the world’s data centres could consume slightly more electricity than Japan does today. That is quite the utility bill for technology supposedly floating around in a “cloud.” Investors have already begun bidding up power producers and electr... [3920 chars]",
-            "url": "https://www.fool.ca/2026/08/19/the-ai-boom-is-already-repricing-power-stocks-these-2-still-look-early/",
-            "image": "https://www.fool.ca/wp-content/uploads/2024/08/the-letters-ai-glowing-on-a-circuit-board-processor-1200x675.jpg",
-            "publishedAt": "2026-08-19T20:10:00Z",
-            "lang": "en",
-            "source": {
-                "id": "19d1f502a5658ccbfaaa50f77b89993f",
-                "name": "The Motley Fool Canada",
-                "url": "https://www.fool.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "5a20a09b35c12d2c12a9f9d8af762224",
-            "title": "Why the Closing of Harvard’s Writing Center Matters",
-            "description": "Students, faculty members, and alumni are asking how seriously the school is taking human learning in the age of AI.",
-            "content": "It is not every day that the laying off of a university bureaucrat generates a torrent of criticism from students, faculty, and alumni. But Jane Rosenzweig was not just any university bureaucrat, and she was not presiding over just any administrative... [7909 chars]",
-            "url": "https://www.theatlantic.com/culture/2026/08/harvard-writing-center-closure/688331/",
-            "image": "https://cdn.theatlantic.com/thumbor/SAVOiPl0QyBszAjrkle04PbQAwQ=/0x117:5511x2987/1200x625/media/img/mt/2026/08/2026_08_14_Harvard_Writing_Center/original.jpg",
-            "publishedAt": "2026-08-19T20:07:00Z",
-            "lang": "en",
-            "source": {
-                "id": "a2e577ba2489a893201ce3c6c670f6de",
-                "name": "The Atlantic",
-                "url": "https://www.theatlantic.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "8909697bfca8008a702a7e56876afedf",
-            "title": "Best Crypto To Buy Now: Portal’s 53% Surge Proves Small Caps Still Explode, AlphaPepe Gives Retail the AI Play Before Listing",
-            "description": "Explore the AlphaPepe Crypto presale and discover how this AI-powered DEX is making waves in the crypto market.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nPortal has surged roughly 53% in seven days, proving that small-cap crypto can still explode even while the wider market remains selective. The move is putting low-cap gaming tokens back on retail watchlists, while Alpha... [4889 chars]",
-            "url": "https://techbullion.com/best-crypto-to-buy-now-portals-53-surge-proves-small-caps-still-explode-alphapepe-gives-retail-the-ai-play-before-listing/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/08/Best-19.png",
-            "publishedAt": "2026-08-19T20:02:08Z",
+            "id": "1586ae53475a686d55865414e70ae322",
+            "title": "Crypto Presale News: MemeToro Raises Over $96,000 While Building an Open-Source AI Launchpad",
+            "description": "MemeToro passes $96,000 raised while its open-source AI pipeline advances toward structured, evidence-backed memecoin launches on BNB Chain.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nMost crypto presale news focuses on money raised, token prices and how quickly a funding stage is filling. MemeToro has now raised more than $96,000, but its development activity provides another way to evaluate what par... [5042 chars]",
+            "url": "https://techbullion.com/crypto-presale-news-memetoro-raises-over-96000-while-building-an-open-source-ai-launchpad/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/08/Crypto-2.png",
+            "publishedAt": "2026-08-20T20:01:38Z",
             "lang": "en",
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -151,19 +71,99 @@
             }
         },
         {
-            "id": "1757277c1ab18405c63ed8c89ee7ee71",
-            "title": "Striveworks to build AI layer for NGC2 at corps level, Army says",
-            "description": "Striveworks's models will be able to compress \"hours of staff work into seconds,\" CEO Jim Rebesco told Breaking Defense.",
-            "content": "AUGUSTA, Ga. — The baseline AI layer for the Army’s Next Generation Command and Control (NGC2) architecture is being built by the software and technology firm Striveworks, Army officials told Breaking Defense on Tuesday.\nThe news comes as the service... [2714 chars]",
-            "url": "https://breakingdefense.com/2026/08/striveworks-to-build-ai-layer-for-ngc2-at-corps-level-army-says/",
-            "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/10/Collins-Chad-Ford-DVIDS-7467434-scaled-e1787166872334.jpg",
-            "publishedAt": "2026-08-19T20:00:00Z",
+            "id": "9919f98e2d43dc8855d17b5a7405c58b",
+            "title": "If AI steals jobs, who will be left to buy all the stuff?",
+            "description": "Personal consumption is a core driver of modern economies, and spending habits could face substantial disruption",
+            "content": "Chris Gay is a contributing columnist for The Globe and Mail. He is a former Wall Street Journal staffer and writes the newsletter Figure at Center.\nGoing by the direst predictions, artificial intelligence will make human workers irrelevant over the ... [4929 chars]",
+            "url": "https://www.theglobeandmail.com/business/commentary/article-ai-job-losses-economic-activity-personal-consumption/",
+            "image": "https://www.theglobeandmail.com/resizer/v2/C6LJ4SC4QBHMREGW5QMXVDH7OU.jpg?auth=2983acfbec9029addb545a7476a6331b4589361d78b5079f6018ec01d59135ea&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2026-08-20T20:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "3a9117635252cea7edb774322ff1bf4b",
+            "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
+            "description": "New VentureBeat Pulse Research finds enterprises run three AI orchestration platforms at once, yet 21% still can't stop runaway agent spending in real time.",
+            "content": "Enterprise AI teams have stopped betting on a single orchestration platform. The median enterprise now runs three at once — not by accident, but because none of them fully trusts a single vendor to run the show, according to VB Pulse data.\nThis is no... [7063 chars]",
+            "url": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
+            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3EG7jnrPd0w9anUPiP8ILp/644fe4c44bc89c18e80c1e16abd8b627/u7277289442_A_sophisticated_AI_robot_is_routing_data_through__4b48c76d-d078-4d75-b0c9-c6fcb001d634_0.png?w=800&q=75",
+            "publishedAt": "2026-08-20T19:57:01Z",
+            "lang": "en",
+            "source": {
+                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "42545e788802188f3c894a4e7a68a91f",
+            "title": "Army network needs digital twin for training, testing, cybersecurity: NETCOM chief",
+            "description": "“It’s a big ask,” acknowledged Maj. Gen. Denise McPhail, chief of Army Network Command, but it could allow NETCOM to “leverage AI in that model to understand our vulnerabilities, where our gaps are.”",
+            "content": "WASHINGTON — To take full advantage of AI, the Army needs a comprehensive simulation of its networks, what’s called a digital twin, where it can train and test both the algorithms and the humans working with them, the two-star chief of the service’s ... [3129 chars]",
+            "url": "https://breakingdefense.com/2026/08/army-network-needs-digital-twin-for-training-testing-cybersecurity-netcom-chief/",
+            "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/8944263-e1787254586489.jpg",
+            "publishedAt": "2026-08-20T19:55:53Z",
             "lang": "en",
             "source": {
                 "id": "391302f06b19835f4e0d9f8b4aa57091",
                 "name": "Breaking Defense",
                 "url": "https://breakingdefense.com",
                 "country": "us"
+            }
+        },
+        {
+            "id": "843170669525795ed4ce4a7018547708",
+            "title": "Former Spirit Employees Aren’t Happy About Its AI Deal With Google",
+            "description": "You probably wouldn’t be either, if your ex-employer was about to hand over 100 million company emails to one of the world’s most powerful tech companies.",
+            "content": "The late Spirit Airlines, which shut down all operations earlier this year after filing for bankruptcy for a second time, agreed on Friday to give Google a vast trove of its company records for (what else?) training new AI models. Its former flight a... [2901 chars]",
+            "url": "https://gizmodo.com/former-spirit-employees-arent-happy-about-its-ai-deal-with-google-2000801201",
+            "image": "https://gizmodo.com/app/uploads/2026/08/SpiritAirlines-1200x675.jpg",
+            "publishedAt": "2026-08-20T19:50:33Z",
+            "lang": "en",
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "74f0260a8bd76a01be819bb2cfef5180",
+            "title": "Apple Music to Label AI-Made Tracks Later This Year",
+            "description": "Apple Music will begin labeling songs on the platform derived from AI platforms, adding a “Made With AI” label to such songs later this year.",
+            "content": "Apple Music will begin labeling songs on the platform derived from AI platforms, adding a “Made With AI” label to such songs later this year.\nIn a note to its industry partners and one viewed by Variety, the service said that record labels and distri... [1849 chars]",
+            "url": "https://variety.com/2026/music/news/apple-music-to-label-ai-made-tracks-1236839371/",
+            "image": "https://variety.com/wp-content/uploads/2026/07/Apple-Music.png?w=1000&h=563&crop=1",
+            "publishedAt": "2026-08-20T19:39:34Z",
+            "lang": "en",
+            "source": {
+                "id": "e6688d6db992f469baa7352aac100378",
+                "name": "Variety",
+                "url": "https://variety.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "822d6017220008f01b1a286f427bd900",
+            "title": "Artificial intelligence powered traffic lights are being trialled, but will it ease traffic congestion?",
+            "description": "While it may be the latest \"buzzword\", researchers say AI could help improve our understanding of intersections and use that information to reduce delays.",
+            "content": "Artificial intelligence (AI) already has a foothold in many industries across Australia, but it could soon help speed up your commute.\nCurrently, when you pull up at an intersection, your car is detected by loops under the road surface, and the traff... [3783 chars]",
+            "url": "https://www.abc.net.au/news/2026-08-21/artificial-intelligence-powered-traffic-lights-trial/107053756",
+            "image": "https://live-production.wcms.abc-cdn.net.au/e5c10dc24f137a51ca1c34c10aa42398?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-08-20T19:35:22Z",
+            "lang": "en",
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
             }
         }
     ]
