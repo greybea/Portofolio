@@ -4,16 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 421587,
+    "totalArticles": 421958,
     "articles": [
         {
-            "id": "9451ad0ff9c72944341fcf164d113c92",
-            "title": "Women’s Commission Hears 33 Cases, Closes 17; Workplace, Cyber Atrocities Flagged",
-            "description": "The Madhya Pradesh State Commission for Women heard 33 cases involving harassment, dowry, cybercrime, domestic abuse and assault on Friday. Seventeen cases were closed. A workplace harassment complaint involving an alleged acid-attack threat and another involving alleged misuse of women’s photographs and AI-generated content on social media were also heard.",
-            "content": "Indore (Madhya Pradesh): The Madhya Pradesh State Commission for Women held a hearing of a total 33 cases here on Friday. The hearing covered cases related to harassment of women, dowry harassment, cybercrime, murder, domestic abuse, sexual exploitat... [5001 chars]",
-            "url": "https://www.freepressjournal.in/indore/womens-commission-hears-33-cases-closes-17-workplace-cyber-atrocities-flagged",
-            "image": "https://media.assettype.com/freepressjournal/2026-08-21/h3t2uzt1/Atrocities-Manish-2.jpg",
-            "publishedAt": "2026-08-21T20:09:00Z",
+            "id": "9fc5acaa6eba8df9eac8d0641b7cdee8",
+            "title": "TISS Awards Degrees To 1,377 Students At 86th Convocation, Highlights AI Ethics, Social Reform, & Vision 2047",
+            "description": "Tata Institute of Social Sciences held its 86th Convocation on August 22, awarding degrees to 1,377 students across four campuses. Chancellor Prof. D. P. Singh highlighted ethical concerns around artificial intelligence, while Vice-Chancellor Prof. Badri Narayan Tiwari announced new initiatives including an AI and Society centre with IIT Bombay and policy research projects under TISS Bharat.",
+            "content": "Mumbai: The Tata Institute of Social Sciences (TISS) celebrated its 86th Convocation on August 22, 2026, marking the conferral of degrees to 1,377 students across its four campuses, including the inaugural undergraduate batch of Analytics and Sustain... [2104 chars]",
+            "url": "https://www.freepressjournal.in/education/tiss-awards-degrees-to-1377-students-at-86th-convocation-highlights-ai-ethics-social-reform-vision-2047",
+            "image": "https://media.assettype.com/freepressjournal/2026-08-22/n7w640tw/HQUYXqnbwAAA0J3.jpg",
+            "publishedAt": "2026-08-22T20:14:57Z",
             "lang": "en",
             "source": {
                 "id": "7eeaf9a839918543cc708f2d331c3be4",
@@ -23,13 +23,109 @@
             }
         },
         {
-            "id": "ed8e6cdaba66a86a4121a9d36f5aade6",
-            "title": "No driver, no problem - devs use Claude AI to craft native macOS tool for an 'obscure' Windows-only printer",
-            "description": "Cannot access printer? It's here!",
-            "content": "India-based developer Kuber Mehta uses Claude Code to create a macOS driver for the HP Laser 1008a\nPreviously, only the official drivers for Windows and Linux were available for the relatively obscure 2023 laser printer\nThe AI-generated driver was cr... [2599 chars]",
-            "url": "https://www.techradar.com/pro/no-driver-no-problem-devs-use-claude-ai-to-craft-native-macos-tool-for-an-obscure-windows-only-printer",
-            "image": "https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc-2560-80.jpg",
-            "publishedAt": "2026-08-21T20:05:00Z",
+            "id": "b52aa50030d75a78276c26fb7ea06093",
+            "title": "Six govt schools in Ludhiana selected for AI",
+            "description": "About 4,000 students in six government schools in Ludhiana district will receive support to improve their English language skills under a corporate social responsibility (CSR) initiative launched by Vardhman Special Steels Limited (VSSL) in association with the district administration.",
+            "content": "About 4,000 students in six government schools in Ludhiana district will receive support to improve their English language skills under a corporate social responsibility (CSR) initiative launched by Vardhman Special Steels Limited (VSSL) in associati... [2119 chars]",
+            "url": "https://www.tribuneindia.com/news/punjab/six-govt-schools-in-ludhiana-selected-for-ai-based-english-programme/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc2ODQ0NmMwLTllNjItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+            "publishedAt": "2026-08-22T19:48:32Z",
+            "lang": "en",
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "8c0e5f5fdb8893d54284e911cef8a3e0",
+            "title": "OpenAI Calls For California To Strengthen Its AI Safety Laws",
+            "description": "The AI leader said that the state’s SB 53 framework should “be amended to expand safeguards.”",
+            "content": "In a surprising 180, OpenAI is calling for \"stronger safeguards\" when it comes to laws regulating frontier AI models. In a LinkedIn post from OpenAI Global Affairs, the company said it supports California's SB 53 law that went into effect last year a... [958 chars]",
+            "url": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
+            "image": "https://www.engadget.com/img/gallery/openai-calls-for-california-to-strengthen-its-ai-safety-laws/l-intro-1787426239.jpg",
+            "publishedAt": "2026-08-22T19:27:04Z",
+            "lang": "en",
+            "source": {
+                "id": "549a7a859b2345bbe231b00e7244ef99",
+                "name": "Engadget",
+                "url": "https://www.engadget.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "5a4b271860996c74b977e5729fa8bf48",
+            "title": "Forget AI, debt has become the main character on Wall Street as markets just now decided that it’s gotten out of control after years of warnings",
+            "description": "\"When does debt become unsustainable? When the global financial markets say it is. That appears to be happening.\"",
+            "content": "The enormous mountain of debt hanging over the economy has overshadowed the AI boom as the center of attention on Wall Street.\nFor years—decades even—the spiraling trajectory of U.S. debt fueled dire warnings, which investors consistently brushed off... [3867 chars]",
+            "url": "https://www.newsbreak.com/fortune-561435/4843960486277-forget-ai-debt-has-become-the-main-character-on-wall-street-as-markets-just-now-decided-that-it-s-gotten-out-of-control-after-years-of-warnings",
+            "image": "https://img.particlenews.com/img/id/3ECOtJ_1ETtEzCx00",
+            "publishedAt": "2026-08-22T19:25:31Z",
+            "lang": "en",
+            "source": {
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "3fa4672aae690e8e3db73c81fd77a949",
+            "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+            "description": "Some of Nvidia's largest ​customers have been told prices of servers ‌containing its AI chips will rise by more than 15% in many cases with memory chip costs ​soaring, Bloomberg News reported on Saturday.",
+            "content": "The price ​hikes will go into effect on systems ⁠shipped early next year and will impact ​systems including those with the flagship Vera Rubin ​and Grace Blackwell chips, the report added, citing people familiar with the process. The increases will d... [575 chars]",
+            "url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/",
+            "image": "https://www.reuters.com/resizer/v2/BVWMAM2DHJLSVD5CJ4GWV4RUGM.jpg?auth=5e1cd39d88d32afad5b13fb46463edde971587a81dd81a85bdaeb0a59bebbcaa&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-08-22T19:21:09Z",
+            "lang": "en",
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ed88a5364816176805f86784a086d300",
+            "title": "Nvidia customers notified about AI-related price hikes above 15%: Report",
+            "description": "Some of Nvidia's largest customers have been told prices of servers containing its artificial intelligence chips will rise by more than 15 per cent in many cases, with memory chip costs soaring, Bloomberg News reported on Saturday (Aug 22).The price hikes will go into effect on systems shipped early next year",
+            "content": "Some of Nvidia's largest customers have been told prices of servers containing its artificial intelligence chips will rise by more than 15 per cent in many cases, with memory chip costs soaring, Bloomberg News reported on Saturday (Aug 22).\nThe price... [927 chars]",
+            "url": "https://www.channelnewsasia.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-report-6335256",
+            "image": "https://dam.mediacorp.sg/image/upload/s--1gI_Ob68--/c_crop,h_449,w_799,x_1,y_84/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-22T192053Z_1_LYNXMPEM7L0F3_RTROPTP_3_NVIDIA-CHINA.JPG?itok=LxAN1lca",
+            "publishedAt": "2026-08-22T19:20:00Z",
+            "lang": "en",
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "ce338e11dddcf4b917f667f230e239b6",
+            "title": "Pardu Exclusive: HeyMann Dubois files DJ Mag-Traxsource False AI Detection Federal Lawsuit, ‘Quid Pro Quo’ Allege",
+            "description": "MIAMI, Aug. 22, 2026 (GLOBE NEWSWIRE) -- Pardu Productions is a leading source of Entertainment and celebrity news, and can exclusively announce the following based on public court records alone:",
+            "content": "MIAMI, Aug. 22, 2026 (GLOBE NEWSWIRE) -- Pardu Productions is a leading source of Entertainment and celebrity news, and can exclusively announce the following based on public court records alone:\nEmerging Irish producer Eamonn Dubois, professionally ... [2078 chars]",
+            "url": "https://www.manilatimes.net/2026/08/23/tmt-newswire/globenewswire/pardu-exclusive-heymann-dubois-files-dj-mag-traxsource-false-ai-detection-federal-lawsuit-quid-pro-quo-allege/2410430",
+            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-08-22T19:17:31Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "4bb1aff97b90354fc1b8ca5df9d11d9c",
+            "title": "South Korea just sank $37 million into an underwater data center off Ulsan's coast to beat the heat",
+            "description": "A small Korean coastal city could soon host up to 100,000 AI servers",
+            "content": "Ulsan is testing underwater data centers to support growing AI workloads\nThe project carries a KRW 51.1 billion (about $37 million) budget through 2030\nSeawater could provide cooling without conventional mechanical refrigeration systems\nSouth Korean ... [3123 chars]",
+            "url": "https://www.techradar.com/pro/south-korean-city-bets-on-the-ocean-to-solve-its-ai-data-center-crisis-but-this-is-only-the-beginning",
+            "image": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
+            "publishedAt": "2026-08-22T19:10:00Z",
             "lang": "en",
             "source": {
                 "id": "76684855c5d801b81fd06490668d04fe",
@@ -39,130 +135,34 @@
             }
         },
         {
-            "id": "3319e3f5c6b995a23c571fc89b8ba8d5",
-            "title": "Bitcoin Price Prediction: $100K Returns to the Table as AlphaPepe Offers the Earlier AI Crypto Bet",
-            "description": "Join the AlphaPepe Crypto presale and seize the chance for early investment before the public launch.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nBitcoin has reclaimed the $70,000 area and the $100,000 target is back in the conversation. Standard Chartered analyst Geoff Kendrick says investors should position for a year-end move toward six figures, while traders d... [5344 chars]",
-            "url": "https://techbullion.com/bitcoin-price-prediction-100k-returns-to-the-table-as-alphapepe-offers-the-earlier-ai-crypto-bet/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/08/Bitcoin-4.png",
-            "publishedAt": "2026-08-21T20:01:17Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "de4ee96aaa9861fc630191d535f7c2ea",
-            "title": "You’re Killing Me review - did an AI monkey write this terrible Brooke Shields crime caper?",
-            "description": "I desperately wanted this show to be Gilmore Girls meets Murder, She Wrote – but the story of a novelist turned amateur sleuth is just so lazy. And yet, I still have high hopes for the confirmed second season",
-            "content": "Look, we all want Brooke Shields to be in gainful employment. We all want her to have a fabulous third act to her career. God knows, the child model turned star of prurient fever dreams Pretty Baby and The Blue Lagoon (and the “Nothing comes between ... [4295 chars]",
-            "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/you-are-killing-me-review-brooke-shields",
-            "image": "https://i.guim.co.uk/img/media/82dbf28aacf6c337add70ac8edc85f138d7255e5/696_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=0a747e77411a992db43ffe85c8808ee2",
-            "publishedAt": "2026-08-21T20:00:43Z",
-            "lang": "en",
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "5a106afbf1caf28f81187792086da601",
-            "title": "Fi Thriller 'Hot Spot' Is Like 'Dune's Deranged Cousin",
-            "description": "The Lure director Agnieszka Smoczynska's new movie is all about retrofuture vibes and AI horror",
-            "content": "Agnieszka Smoczynska beamed her new movie Hot Spot in from a parallel universe. I have to believe this. She didn’t mention any multiversal excursions when we talked about the sci-fi film’s heady ideas and evocative psychedelic imagery, but surely it’... [3545 chars]",
-            "url": "https://www.polygon.com/hot-spot-noomi-rapace-director-interview/",
-            "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/4246_hs_tp_00001_r.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-08-21T20:00:14Z",
-            "lang": "en",
-            "source": {
-                "id": "812689d196c4f757f8cd7c93422c4f09",
-                "name": "Polygon",
-                "url": "https://www.polygon.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "9a6e751c80f07dab17cdb6d6d00d9696",
-            "title": "People With Eyes Accuse System 3 Devs Of Using Gen AI On Its James Pond Reboot",
-            "description": "System 3 denied the accusation in a blog post, but c'mon man look at that cow",
-            "content": "James Pond, a quirky platformer series from the early 1990s, is getting a big re-release for its 35th anniversary. The James Pond Legacy: The Pond Is Not Enough collects 12 games from across the Amiga, Genesis, Commodore 64, and SNES, and updates the... [1868 chars]",
-            "url": "https://kotaku.com/james-pond-gen-ai-slop-accusations-system-3-2000726706",
-            "image": "https://kotaku.com/app/uploads/2026/08/Screenshot-2026-08-21-at-3.29.07 PM.jpg",
-            "publishedAt": "2026-08-21T20:00:03Z",
-            "lang": "en",
-            "source": {
-                "id": "0aab1d72ae666208d1824f73c0ea4209",
-                "name": "Kotaku",
-                "url": "https://kotaku.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "e3761e7528accc792246b5a500cca961",
-            "title": "Hyundai's new Ioniq V undercuts the cheapest EV in US by over $10,000",
-            "description": "Hyundai officially unveiled the Ioniq V, its first China-exclusive EV, starting under $18,000 with a 27-inch display and dual AI chatbots.",
-            "content": "Beijing Hyundai just opened pre-sales for the Ioniq V, a sleek mid-size sedan and the very first production model under Hyundai‘s new China-only Ioniq sub-brand. Pricing starts at 119,900 yuan, or roughly $17,600, and tops out at 139,900 yuan ($20,60... [1622 chars]",
-            "url": "https://www.digitaltrends.com/cars/hyundais-new-ioniq-v-undercuts-the-cheapest-ev-in-america-by-over-10000/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/08/hyundai-ioniq-v-2026.jpg?resize=1200%2C630",
-            "publishedAt": "2026-08-21T20:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "eda1297e95e55a91b6b9b564ba935ef0",
-            "title": "Govt to Unveil AI-Powered Legal Portal, LL.M at Four Law Colleges",
-            "description": "The announcements were made by Energy and Law Minister Nirmal Kumar as part of the law department’s demands for grants for 2026-27.",
-            "content": "Chennai: The Tamil Nadu government has announced a series of measures to modernise legal education and administration in the State, including the creation of an artificial intelligence-powered legal database, introduction of postgraduate law courses ... [4333 chars]",
-            "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/govt-to-unveil-ai-powered-legal-portal-llm-at-four-law-colleges-1981223",
-            "image": "https://www.deccanchronicle.com/h-upload/2026/08/21/2079605-tn.jpg",
-            "publishedAt": "2026-08-21T19:57:00Z",
-            "lang": "en",
-            "source": {
-                "id": "214d496d625fc657723cf4da80cff8ce",
-                "name": "Deccan Chronicle",
-                "url": "https://www.deccanchronicle.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "59a144445176000dfcf6ce4ea0611d53",
-            "title": "Techlusion Named an OpenAI Select Partner",
-            "description": "/PRNewswire/ -- Techlusion, an AI-Native Product Engineering Studio, today announced it has been named an OpenAI Select Partner within the OpenAI Partner...",
-            "content": "Seattle studio joins the OpenAI Partner Network to help startups and B2B SaaS companies take frontier models from prototype to production\nSEATTLE, Aug. 21, 2026 /PRNewswire/ -- Techlusion, an AI-Native Product Engineering Studio, today announced it h... [2824 chars]",
-            "url": "https://www.prnewswire.co.uk/news-releases/techlusion-named-an-openai-select-partner-302857536.html",
-            "image": "https://mmx.prnewswire.com/media/MS1973851/image1.jpg?id=OA2903053&p=facebook",
-            "publishedAt": "2026-08-21T19:53:00Z",
-            "lang": "en",
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "3440bb0b33ccd0f2f96ad9b1d47b722f",
-            "title": "The Gwyneth Paltrow AI controversy only hurts women",
-            "description": "It's ridiculous that we celebrate women like Paltrow and Reese Witherspoon for building businesses and telling women’s stories but then are outraged that they’re trying to understand the changing economy and a new technology.",
-            "content": "On any given August night in the Hamptons, a wealthy Hollywood star is having dinner with a billionaire. It is one of the least surprising events of the summer social calendar.\nBut when reports surfaced earlier this week that Gwyneth Paltrow was doin... [3939 chars]",
-            "url": "https://nypost.com/2026/08/21/opinion/the-gwyneth-paltrow-ai-controversy-only-hurts-women/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-7oviirylv-1787341466486.jpg?quality=75&strip=all&1787327145&w=1200",
-            "publishedAt": "2026-08-21T19:51:21Z",
+            "id": "0adb49f7c0551da7621687af2f423e3d",
+            "title": "Women allies of Scott Wiener push back on Pelosi's 'sexist' chatbot claims",
+            "description": "Pelosi had accused Wiener for using AI to impersonate a female voice, which is a “gross misuse of technology and reflects a disturbing willingness to erase women’s agency.”",
+            "content": "Former House Speaker Nancy Pelosi ripped into a campaign chatbot earlier this month, accusing a rival’s AI creation of being “sexist” — but now female allies of the candidate behind it are firing back at Pelosi over what they call her “absurd” accusa... [3273 chars]",
+            "url": "https://nypost.com/2026/08/22/us-news/women-allies-of-scott-wiener-push-back-on-pelosis-sexist-chatbot-claims/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138204922.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-08-22T19:06:58Z",
             "lang": "en",
             "source": {
                 "id": "95a96a1867c4dac6f720e9d08d4c1b96",
                 "name": "New York Post",
                 "url": "https://nypost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "603286df3428a958c0f8b3e6037ee437",
+            "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS",
+            "description": "Panasonic Avionics Corporation provides in-flight entertainment and connectivity (IFEC) systems across a large global fleet serving hundreds of airlines and",
+            "content": "Panasonic Avionics Corporation provides in-flight entertainment and connectivity (IFEC) systems across a large global fleet serving hundreds of airlines and billions of passengers annually. When a system issue affects passenger experience at this sca... [13845 chars]",
+            "url": "https://www.europesays.com/3209530/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/08/ML-20350-featured-image.png",
+            "publishedAt": "2026-08-22T19:03:54Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         }
