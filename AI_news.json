@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 421958,
+    "totalArticles": 422284,
     "articles": [
         {
-            "id": "9fc5acaa6eba8df9eac8d0641b7cdee8",
-            "title": "TISS Awards Degrees To 1,377 Students At 86th Convocation, Highlights AI Ethics, Social Reform, & Vision 2047",
-            "description": "Tata Institute of Social Sciences held its 86th Convocation on August 22, awarding degrees to 1,377 students across four campuses. Chancellor Prof. D. P. Singh highlighted ethical concerns around artificial intelligence, while Vice-Chancellor Prof. Badri Narayan Tiwari announced new initiatives including an AI and Society centre with IIT Bombay and policy research projects under TISS Bharat.",
-            "content": "Mumbai: The Tata Institute of Social Sciences (TISS) celebrated its 86th Convocation on August 22, 2026, marking the conferral of degrees to 1,377 students across its four campuses, including the inaugural undergraduate batch of Analytics and Sustain... [2104 chars]",
-            "url": "https://www.freepressjournal.in/education/tiss-awards-degrees-to-1377-students-at-86th-convocation-highlights-ai-ethics-social-reform-vision-2047",
-            "image": "https://media.assettype.com/freepressjournal/2026-08-22/n7w640tw/HQUYXqnbwAAA0J3.jpg",
-            "publishedAt": "2026-08-22T20:14:57Z",
+            "id": "ca2aab3673cae0b55506fe31cd757c28",
+            "title": "From wells to AI and scholarships, Kirttan Behera is giving back to Odisha",
+            "description": "Odia philanthropist Kirttan Behera donates $100,000 in Odisha, funding AI app and tablets for visually-impaired students, wells in Keonjhar schools, and scholarships.",
+            "content": "Visually impaired students learn through specially-designed learning app on tablets provided by Kirttan Behera\nKirttan Behera\nVisually impaired students learn through specially-designed learning app on tablets provided by Kirttan Behera\nVisually impa... [3413 chars]",
+            "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/from-wells-to-ai-and-scholarships-kirttan-behera-is-giving-back-to-odisha/articleshow/133439391.cms",
+            "image": "https://static.toiimg.com/thumb/msid-133439336,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-23T20:27:00Z",
             "lang": "en",
             "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "b52aa50030d75a78276c26fb7ea06093",
-            "title": "Six govt schools in Ludhiana selected for AI",
-            "description": "About 4,000 students in six government schools in Ludhiana district will receive support to improve their English language skills under a corporate social responsibility (CSR) initiative launched by Vardhman Special Steels Limited (VSSL) in association with the district administration.",
-            "content": "About 4,000 students in six government schools in Ludhiana district will receive support to improve their English language skills under a corporate social responsibility (CSR) initiative launched by Vardhman Special Steels Limited (VSSL) in associati... [2119 chars]",
-            "url": "https://www.tribuneindia.com/news/punjab/six-govt-schools-in-ludhiana-selected-for-ai-based-english-programme/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc2ODQ0NmMwLTllNjItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-22T19:48:32Z",
+            "id": "726dfca0fca913eb2e17f805ac6beaab",
+            "title": "Artmarket.com: Additional Information on the Ehrmann Family Increasing Its Equity Stake in Artprice by Artmarket as Part of Artprice's AI-First Transformation",
+            "description": "As announced in Artmarket.com's Q2 2026 press release published on August 13, 2026, under the title \"Artmarket.com: Q2 2026 Growth - From Progressive Transition to Artprice's 'AI-FIRST' Mutation\"",
+            "content": "As announced in Artmarket.com's Q2 2026 press release published on August 13, 2026, under the title \"Artmarket.com: Q2 2026 Growth - From Progressive Transition to Artprice's 'AI-FIRST' Mutation\", Thierry Ehrmann, Founder and CEO of Artmarket.com, an... [11260 chars]",
+            "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69383239-artmarket-com-additional-information-on-the-ehrmann-family-increasing-its-equity-stake-in-artprice-by-artmarket-as-part-of-artprice-s-ai-first-tran-650.htm",
+            "image": "https://www.finanznachrichten.de/content/g/fb.png",
+            "publishedAt": "2026-08-23T20:23:00Z",
             "lang": "en",
             "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
+                "id": "757fbdd82c8f9334e4004c82ac6fb28a",
+                "name": "FinanzNachrichten",
+                "url": "https://www.finanznachrichten.de",
+                "country": "de"
             }
         },
         {
-            "id": "8c0e5f5fdb8893d54284e911cef8a3e0",
-            "title": "OpenAI Calls For California To Strengthen Its AI Safety Laws",
-            "description": "The AI leader said that the state’s SB 53 framework should “be amended to expand safeguards.”",
-            "content": "In a surprising 180, OpenAI is calling for \"stronger safeguards\" when it comes to laws regulating frontier AI models. In a LinkedIn post from OpenAI Global Affairs, the company said it supports California's SB 53 law that went into effect last year a... [958 chars]",
-            "url": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
-            "image": "https://www.engadget.com/img/gallery/openai-calls-for-california-to-strengthen-its-ai-safety-laws/l-intro-1787426239.jpg",
-            "publishedAt": "2026-08-22T19:27:04Z",
+            "id": "a0987df9f9faa7e2e80d782f0695c636",
+            "title": "Brand New Day' Is Caught In a Tangled AI Web",
+            "description": "Concerns of generative AI use hover over 'Spider-Man: Brand New Day,' while others think it's a case of Photoshop at work.",
+            "content": "While Spider-Man: Brand New Day stays in theaters, it’s now in the crossfire of allegations of generative AI use.\nThe film’s art book recently released, and fans online saw a page featuring New York concept art. Taxis and buildings colliding into eac... [2201 chars]",
+            "url": "https://gizmodo.com/spider-man-brand-new-day-is-caught-in-a-tangled-ai-web-2000801867",
+            "image": "https://gizmodo.com/app/uploads/2026/05/Spider-Man-Brand-New-Day-1-1200x675.jpg",
+            "publishedAt": "2026-08-23T20:18:02Z",
             "lang": "en",
             "source": {
-                "id": "549a7a859b2345bbe231b00e7244ef99",
-                "name": "Engadget",
-                "url": "https://www.engadget.com",
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
                 "country": "us"
             }
         },
         {
-            "id": "5a4b271860996c74b977e5729fa8bf48",
-            "title": "Forget AI, debt has become the main character on Wall Street as markets just now decided that it’s gotten out of control after years of warnings",
-            "description": "\"When does debt become unsustainable? When the global financial markets say it is. That appears to be happening.\"",
-            "content": "The enormous mountain of debt hanging over the economy has overshadowed the AI boom as the center of attention on Wall Street.\nFor years—decades even—the spiraling trajectory of U.S. debt fueled dire warnings, which investors consistently brushed off... [3867 chars]",
-            "url": "https://www.newsbreak.com/fortune-561435/4843960486277-forget-ai-debt-has-become-the-main-character-on-wall-street-as-markets-just-now-decided-that-it-s-gotten-out-of-control-after-years-of-warnings",
-            "image": "https://img.particlenews.com/img/id/3ECOtJ_1ETtEzCx00",
-            "publishedAt": "2026-08-22T19:25:31Z",
+            "id": "ac72138b7d50922744470d1cf01a24b2",
+            "title": "Review: ‘Sisters’ raises the question of what happens when we accept the notion that AI is alive and sentient",
+            "description": "Although the larger, existential questions remain present, playwright Matthew Libby has also crafted what amounts to a very human story about siblings who love each other but also harbor jealousies.",
+            "content": "“Daddy says … My daddy says that you’re my sister.”\nThis opening line from the intellectually and emotionally stirring play “Sisters,” now playing at Writers Theatre, is spoken by Matilda, just 6 years old as the work begins. Her sister — should that... [4451 chars]",
+            "url": "https://chicago.suntimes.com/theater/2026/08/23/review-sisters-writers-theatre-artificial-intelligence",
+            "image": "https://cst.brightspotcdn.com/dims4/default/6c73f4b/2147483647/strip/true/crop/4996x2852+0+240/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2Fc7%2F5e9db0814c519aca680d0c4f4947%2Fsisters-prod-photos-hugo-hentoff-38.jpg",
+            "publishedAt": "2026-08-23T20:09:44Z",
             "lang": "en",
             "source": {
-                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
-                "name": "NewsBreak",
-                "url": "https://www.newsbreak.com",
+                "id": "a9b75d29a22d0e3d5640bed825a22b93",
+                "name": "Chicago Sun-Times",
+                "url": "https://chicago.suntimes.com",
                 "country": "us"
             }
         },
         {
-            "id": "3fa4672aae690e8e3db73c81fd77a949",
-            "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
-            "description": "Some of Nvidia's largest ​customers have been told prices of servers ‌containing its AI chips will rise by more than 15% in many cases with memory chip costs ​soaring, Bloomberg News reported on Saturday.",
-            "content": "The price ​hikes will go into effect on systems ⁠shipped early next year and will impact ​systems including those with the flagship Vera Rubin ​and Grace Blackwell chips, the report added, citing people familiar with the process. The increases will d... [575 chars]",
-            "url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/",
-            "image": "https://www.reuters.com/resizer/v2/BVWMAM2DHJLSVD5CJ4GWV4RUGM.jpg?auth=5e1cd39d88d32afad5b13fb46463edde971587a81dd81a85bdaeb0a59bebbcaa&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-08-22T19:21:09Z",
+            "id": "867440fea29ba14ea7bc4b51b2b38281",
+            "title": "Dr. Dre and Jimmy Iovine on music and AI.",
+            "description": "The Beats by Dre pair spoke to the New York Times briefly, with former Interscope head Iovine saying AI companies have terrible communication skills but that “I’m very pro-A.I. in music creation. I don’t see the downside at all. There will be some crappy music. There’s crappy music now.”\nDre called anyone against it similar to those who pushed back against drum machines or synthesizers, and said, “I think the only people that see it as a threat are the people who have trouble creating.”\n[Link: Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music | https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html | New York Times]",
+            "content": "R\nExternal Link\nDr. Dre and Jimmy Iovine on music and AI.\nThe Beats by Dre pair spoke to the New York Times briefly, with former Interscope head Iovine saying AI companies have terrible communication skills but that “I’m very pro-A.I. in music creati... [808 chars]",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/983672/dr-dre-and-jimmy-iovine-on-music-and-ai",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-23T20:04:30Z",
             "lang": "en",
             "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
+                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+                "name": "The Verge",
+                "url": "https://www.theverge.com",
                 "country": "us"
             }
         },
         {
-            "id": "ed88a5364816176805f86784a086d300",
-            "title": "Nvidia customers notified about AI-related price hikes above 15%: Report",
-            "description": "Some of Nvidia's largest customers have been told prices of servers containing its artificial intelligence chips will rise by more than 15 per cent in many cases, with memory chip costs soaring, Bloomberg News reported on Saturday (Aug 22).The price hikes will go into effect on systems shipped early next year",
-            "content": "Some of Nvidia's largest customers have been told prices of servers containing its artificial intelligence chips will rise by more than 15 per cent in many cases, with memory chip costs soaring, Bloomberg News reported on Saturday (Aug 22).\nThe price... [927 chars]",
-            "url": "https://www.channelnewsasia.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-report-6335256",
-            "image": "https://dam.mediacorp.sg/image/upload/s--1gI_Ob68--/c_crop,h_449,w_799,x_1,y_84/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-22T192053Z_1_LYNXMPEM7L0F3_RTROPTP_3_NVIDIA-CHINA.JPG?itok=LxAN1lca",
-            "publishedAt": "2026-08-22T19:20:00Z",
+            "id": "be28f1428bf35df8501cff039929dda1",
+            "title": "Who's behind the new ‘stealth model’ Ox Alpha?",
+            "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+            "content": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation about who actually built it.\nThe free model was released on OpenRouter on Thursday, where it was described as “a reasoning model designe... [646 chars]",
+            "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
+            "publishedAt": "2026-08-23T20:01:36Z",
             "lang": "en",
             "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "ce338e11dddcf4b917f667f230e239b6",
-            "title": "Pardu Exclusive: HeyMann Dubois files DJ Mag-Traxsource False AI Detection Federal Lawsuit, ‘Quid Pro Quo’ Allege",
-            "description": "MIAMI, Aug. 22, 2026 (GLOBE NEWSWIRE) -- Pardu Productions is a leading source of Entertainment and celebrity news, and can exclusively announce the following based on public court records alone:",
-            "content": "MIAMI, Aug. 22, 2026 (GLOBE NEWSWIRE) -- Pardu Productions is a leading source of Entertainment and celebrity news, and can exclusively announce the following based on public court records alone:\nEmerging Irish producer Eamonn Dubois, professionally ... [2078 chars]",
-            "url": "https://www.manilatimes.net/2026/08/23/tmt-newswire/globenewswire/pardu-exclusive-heymann-dubois-files-dj-mag-traxsource-false-ai-detection-federal-lawsuit-quid-pro-quo-allege/2410430",
-            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-08-22T19:17:31Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "4bb1aff97b90354fc1b8ca5df9d11d9c",
-            "title": "South Korea just sank $37 million into an underwater data center off Ulsan's coast to beat the heat",
-            "description": "A small Korean coastal city could soon host up to 100,000 AI servers",
-            "content": "Ulsan is testing underwater data centers to support growing AI workloads\nThe project carries a KRW 51.1 billion (about $37 million) budget through 2030\nSeawater could provide cooling without conventional mechanical refrigeration systems\nSouth Korean ... [3123 chars]",
-            "url": "https://www.techradar.com/pro/south-korean-city-bets-on-the-ocean-to-solve-its-ai-data-center-crisis-but-this-is-only-the-beginning",
-            "image": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
-            "publishedAt": "2026-08-22T19:10:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "0adb49f7c0551da7621687af2f423e3d",
-            "title": "Women allies of Scott Wiener push back on Pelosi's 'sexist' chatbot claims",
-            "description": "Pelosi had accused Wiener for using AI to impersonate a female voice, which is a “gross misuse of technology and reflects a disturbing willingness to erase women’s agency.”",
-            "content": "Former House Speaker Nancy Pelosi ripped into a campaign chatbot earlier this month, accusing a rival’s AI creation of being “sexist” — but now female allies of the candidate behind it are firing back at Pelosi over what they call her “absurd” accusa... [3273 chars]",
-            "url": "https://nypost.com/2026/08/22/us-news/women-allies-of-scott-wiener-push-back-on-pelosis-sexist-chatbot-claims/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138204922.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-08-22T19:06:58Z",
-            "lang": "en",
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
                 "country": "us"
             }
         },
         {
-            "id": "603286df3428a958c0f8b3e6037ee437",
-            "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS",
-            "description": "Panasonic Avionics Corporation provides in-flight entertainment and connectivity (IFEC) systems across a large global fleet serving hundreds of airlines and",
-            "content": "Panasonic Avionics Corporation provides in-flight entertainment and connectivity (IFEC) systems across a large global fleet serving hundreds of airlines and billions of passengers annually. When a system issue affects passenger experience at this sca... [13845 chars]",
-            "url": "https://www.europesays.com/3209530/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/08/ML-20350-featured-image.png",
-            "publishedAt": "2026-08-22T19:03:54Z",
+            "id": "c224b81fff016f9f65e965090099440b",
+            "title": "Alphabet (GOOGL) Develops Custom AI Chip For Robotaxis",
+            "description": "Readers looking to find more potential ideas in AI hardware and data center build out can explore 55 AI infrastructure stocks.",
+            "content": "Alphabet (NasdaqGS:GOOGL) subsidiary Waymo has developed a custom AI chip for its robotaxis, aimed at improving on-vehicle processing of sensor data and neural network workloads. The application specific integrated circuit is designed for tighter int... [2679 chars]",
+            "url": "https://www.europesays.com/3211516/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/02/1756205897375.jpeg",
+            "publishedAt": "2026-08-23T19:52:28Z",
             "lang": "en",
             "source": {
                 "id": "ed23d65928efaec6669dd2212a773d9f",
                 "name": "EUROPE SAYS",
                 "url": "https://www.europesays.com",
                 "country": "us"
+            }
+        },
+        {
+            "id": "3d3f10a7bbe5a03e21bdd4bf61db8fd9",
+            "title": "ET WLF 2026: India has what the world longs for - stable leadership, says Satyan Gajwani, Chairman, Times Internet",
+            "description": "Welcoming Prime Minister Modi to the World Leaders Forum, Gajwani drew an analogy with Homer's Odyssey, saying the ancient tale of a protagonist navigating one crisis after another was \"something of a parable for our times today.\" \"When we look around the world, at least if we believe the headlines, we're lurching from one crisis to the next,\" Gajwani said, pointing to two ongoing wars, an energy crisis, disruption of shipping routes, trade battles, nuclear threats and an AI surge sucking in unprecedented amounts of capital.",
+            "content": "Synopsis\nWelcoming Prime Minister Modi to the World Leaders Forum, Gajwani drew an analogy with Homer's Odyssey, saying the ancient tale of a protagonist navigating one crisis after another was \"something of a parable for our times today.\" \"When we l... [3940 chars]",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/et-wlf-2026-india-has-what-the-world-longs-for-stable-leadership-says-satyan-gajwani-chairman-times-internet/articleshow/133446346.cms",
+            "image": "https://img.etimg.com/thumb/msid-133446345,width-1200,height-630,imgsize-138464,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-23T19:52:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "5cfefe9742d0f9e2116f413e03a9f6ad",
+            "title": "ET World Leaders Forum: India needs to make the shift from 'petro state' to 'electro state'",
+            "description": "India needs to shift from a “petro state” to an “electro state” as rising power demand from EVs, AI and data centres accelerates the push for renewable and nuclear energy, speakers at the ET World Leaders Forum said.",
+            "content": "Synopsis\nIndia needs to shift from a “petro state” to an “electro state” as rising power demand from EVs, AI and data centres accelerates the push for renewable and nuclear energy, speakers at the ET World Leaders Forum said.\nIndia has weathered rece... [5777 chars]",
+            "url": "https://economictimes.indiatimes.com/industry/renewables/et-world-leaders-forum-india-needs-to-make-the-shift-from-petro-state-to-electro-state/articleshow/133446332.cms",
+            "image": "https://img.etimg.com/thumb/msid-133446367,width-1200,height-630,imgsize-148304,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-23T19:50:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "0a6eb6bca2d9b03b250de016f9237b13",
+            "title": "How companies evaluate and judge AI will decide winners: BCG CEO Christoph Schweizer",
+            "description": "India is well-positioned to productively adopt artificial intelligence technology. CEOs must combine technical understanding with human leadership skills. Entry-level hiring in the tech sector remains steady despite automation concerns. Parts of the IT services value chain will be automated by AI. Indian companies can develop new capabilities and offerings in demand.",
+            "content": "Synopsis\nIndia is well-positioned to productively adopt artificial intelligence technology. CEOs must combine technical understanding with human leadership skills. Entry-level hiring in the tech sector remains steady despite automation concerns. Part... [3698 chars]",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/how-companies-evaluate-and-judge-ai-will-decide-winners-bcg-ceo-christoph-schweizer/articleshow/133446350.cms",
+            "image": "https://img.etimg.com/thumb/msid-133446349,width-1200,height-630,imgsize-89534,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-08-23T19:49:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
             }
         }
     ]
