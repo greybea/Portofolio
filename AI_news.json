@@ -4,112 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 422284,
+    "totalArticles": 422980,
     "articles": [
         {
-            "id": "ca2aab3673cae0b55506fe31cd757c28",
-            "title": "From wells to AI and scholarships, Kirttan Behera is giving back to Odisha",
-            "description": "Odia philanthropist Kirttan Behera donates $100,000 in Odisha, funding AI app and tablets for visually-impaired students, wells in Keonjhar schools, and scholarships.",
-            "content": "Visually impaired students learn through specially-designed learning app on tablets provided by Kirttan Behera\nKirttan Behera\nVisually impaired students learn through specially-designed learning app on tablets provided by Kirttan Behera\nVisually impa... [3413 chars]",
-            "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/from-wells-to-ai-and-scholarships-kirttan-behera-is-giving-back-to-odisha/articleshow/133439391.cms",
-            "image": "https://static.toiimg.com/thumb/msid-133439336,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-23T20:27:00Z",
+            "id": "b4fedb0d7fd769a4de7a06543fa1320b",
+            "title": "VisionQuest actor James Spader explains where the evil AI has been since Avengers: Age of Ultron",
+            "description": "The new Disney Plus show arrives in October",
+            "content": "VisionQuest star James Spader says Ultron's been up to some pretty normal, nonvillainous stuff since he was defeated in Avengers: Age of Ultron.\n\"He's had access to the internet, television, history, and he’s just been consuming... and he’s been pain... [1112 chars]",
+            "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-actor-james-spader-explains-where-the-evil-ai-has-been-since-avengers-age-of-ultron/",
+            "image": "https://cdn.mos.cms.futurecdn.net/TpGU2EtRsm7dZuabBwQhTG-1920-80.jpg",
+            "publishedAt": "2026-08-24T20:25:46Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
+                "name": "GamesRadar+",
+                "url": "https://www.gamesradar.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "8b737459d3730b578f2a591fa671c94f",
+            "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers",
+            "description": "Taiwanese prosecutors charged nine people Monday for illegally exporting “high-end AI servers” to mainland China, adding another wave of turbulence in the AI rivalry between China and the United States.",
+            "content": "TAIPEI, Taiwan (AP) — Taiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super Micro, for illegally exporting \"high-end AI servers\" to mainland China, adding another wave of turbulence in the AI rivalry between C... [2404 chars]",
+            "url": "https://www.pbs.org/newshour/world/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staffers",
+            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/AP26236701873969-1024x682.jpg",
+            "publishedAt": "2026-08-24T20:20:37Z",
+            "lang": "en",
+            "source": {
+                "id": "31177620c1e6e610b5d2b67916ed3615",
+                "name": "PBS News",
+                "url": "https://www.pbs.org",
+                "country": "us"
+            }
+        },
+        {
+            "id": "6095b485981cf17c79b90756ac858376",
+            "title": "Micropolis Robotics Becomes a Robotics and Physical AI Solutions Provider to ADNOC",
+            "description": "Milestone opens a new commercial pathway for Micropolis to deploy UAE-developed autonomous technologies across large-scale oil and gas operations",
+            "content": "Milestone opens a new commercial pathway for Micropolis to deploy UAE-developed autonomous technologies across large-scale oil and gas operations\nDUBAI, United Arab Emirates, Aug. 24, 2026 (GLOBE NEWSWIRE) -- Micropolis Robotics (NYSE: MCRP), a leadi... [4671 chars]",
+            "url": "https://www.manilatimes.net/2026/08/25/tmt-newswire/globenewswire/micropolis-robotics-becomes-a-robotics-and-physical-ai-solutions-provider-to-adnoc/2411296",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/25/1188696.jpg",
+            "publishedAt": "2026-08-24T20:18:20Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "f22c26539e9621c5b92c226f4acf2ce0",
+            "title": "US stocks today: S&P 500, Nasdaq decline as tech sector falls, US prepares to impose more Iran sanctions",
+            "description": "Wall Streets S&P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting political pushback on AI data centers, and looming market catalysts, including Nvidias earnings and upcoming Fed inflation reports.",
+            "content": "Synopsis\nWall Street’s S&P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting political pushback on AI data centers, and looming ... [5804 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms",
+            "image": "https://img.etimg.com/thumb/msid-133478615,width-1200,height-630,imgsize-107174,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-08-24T20:18:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "726dfca0fca913eb2e17f805ac6beaab",
-            "title": "Artmarket.com: Additional Information on the Ehrmann Family Increasing Its Equity Stake in Artprice by Artmarket as Part of Artprice's AI-First Transformation",
-            "description": "As announced in Artmarket.com's Q2 2026 press release published on August 13, 2026, under the title \"Artmarket.com: Q2 2026 Growth - From Progressive Transition to Artprice's 'AI-FIRST' Mutation\"",
-            "content": "As announced in Artmarket.com's Q2 2026 press release published on August 13, 2026, under the title \"Artmarket.com: Q2 2026 Growth - From Progressive Transition to Artprice's 'AI-FIRST' Mutation\", Thierry Ehrmann, Founder and CEO of Artmarket.com, an... [11260 chars]",
-            "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69383239-artmarket-com-additional-information-on-the-ehrmann-family-increasing-its-equity-stake-in-artprice-by-artmarket-as-part-of-artprice-s-ai-first-tran-650.htm",
-            "image": "https://www.finanznachrichten.de/content/g/fb.png",
-            "publishedAt": "2026-08-23T20:23:00Z",
+            "id": "eb719aa5a0858ede3ff40f79864893b0",
+            "title": "US stocks today: S&P 500, Nasdaq decline as tech sector falls, US prepares to impose more Iran sanctions",
+            "description": "Wall Streets S&P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting political pushback on AI data centers, and looming market catalysts, including Nvidias earnings and upcoming Fed inflation reports.",
+            "content": "Synopsis\nWall Street’s S&P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting political pushback on AI data centers, and looming ... [5583 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms",
+            "image": "https://img.etimg.com/thumb/msid-133478615,width-1200,height-630,imgsize-107174,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-08-24T20:18:00Z",
             "lang": "en",
             "source": {
-                "id": "757fbdd82c8f9334e4004c82ac6fb28a",
-                "name": "FinanzNachrichten",
-                "url": "https://www.finanznachrichten.de",
-                "country": "de"
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
             }
         },
         {
-            "id": "a0987df9f9faa7e2e80d782f0695c636",
-            "title": "Brand New Day' Is Caught In a Tangled AI Web",
-            "description": "Concerns of generative AI use hover over 'Spider-Man: Brand New Day,' while others think it's a case of Photoshop at work.",
-            "content": "While Spider-Man: Brand New Day stays in theaters, it’s now in the crossfire of allegations of generative AI use.\nThe film’s art book recently released, and fans online saw a page featuring New York concept art. Taxis and buildings colliding into eac... [2201 chars]",
-            "url": "https://gizmodo.com/spider-man-brand-new-day-is-caught-in-a-tangled-ai-web-2000801867",
-            "image": "https://gizmodo.com/app/uploads/2026/05/Spider-Man-Brand-New-Day-1-1200x675.jpg",
-            "publishedAt": "2026-08-23T20:18:02Z",
-            "lang": "en",
-            "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "ac72138b7d50922744470d1cf01a24b2",
-            "title": "Review: ‘Sisters’ raises the question of what happens when we accept the notion that AI is alive and sentient",
-            "description": "Although the larger, existential questions remain present, playwright Matthew Libby has also crafted what amounts to a very human story about siblings who love each other but also harbor jealousies.",
-            "content": "“Daddy says … My daddy says that you’re my sister.”\nThis opening line from the intellectually and emotionally stirring play “Sisters,” now playing at Writers Theatre, is spoken by Matilda, just 6 years old as the work begins. Her sister — should that... [4451 chars]",
-            "url": "https://chicago.suntimes.com/theater/2026/08/23/review-sisters-writers-theatre-artificial-intelligence",
-            "image": "https://cst.brightspotcdn.com/dims4/default/6c73f4b/2147483647/strip/true/crop/4996x2852+0+240/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2Fc7%2F5e9db0814c519aca680d0c4f4947%2Fsisters-prod-photos-hugo-hentoff-38.jpg",
-            "publishedAt": "2026-08-23T20:09:44Z",
-            "lang": "en",
-            "source": {
-                "id": "a9b75d29a22d0e3d5640bed825a22b93",
-                "name": "Chicago Sun-Times",
-                "url": "https://chicago.suntimes.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "867440fea29ba14ea7bc4b51b2b38281",
-            "title": "Dr. Dre and Jimmy Iovine on music and AI.",
-            "description": "The Beats by Dre pair spoke to the New York Times briefly, with former Interscope head Iovine saying AI companies have terrible communication skills but that “I’m very pro-A.I. in music creation. I don’t see the downside at all. There will be some crappy music. There’s crappy music now.”\nDre called anyone against it similar to those who pushed back against drum machines or synthesizers, and said, “I think the only people that see it as a threat are the people who have trouble creating.”\n[Link: Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music | https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html | New York Times]",
-            "content": "R\nExternal Link\nDr. Dre and Jimmy Iovine on music and AI.\nThe Beats by Dre pair spoke to the New York Times briefly, with former Interscope head Iovine saying AI companies have terrible communication skills but that “I’m very pro-A.I. in music creati... [808 chars]",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/983672/dr-dre-and-jimmy-iovine-on-music-and-ai",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-23T20:04:30Z",
-            "lang": "en",
-            "source": {
-                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-                "name": "The Verge",
-                "url": "https://www.theverge.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "be28f1428bf35df8501cff039929dda1",
-            "title": "Who's behind the new ‘stealth model’ Ox Alpha?",
-            "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-            "content": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation about who actually built it.\nThe free model was released on OpenRouter on Thursday, where it was described as “a reasoning model designe... [646 chars]",
-            "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
-            "publishedAt": "2026-08-23T20:01:36Z",
-            "lang": "en",
-            "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c224b81fff016f9f65e965090099440b",
-            "title": "Alphabet (GOOGL) Develops Custom AI Chip For Robotaxis",
-            "description": "Readers looking to find more potential ideas in AI hardware and data center build out can explore 55 AI infrastructure stocks.",
-            "content": "Alphabet (NasdaqGS:GOOGL) subsidiary Waymo has developed a custom AI chip for its robotaxis, aimed at improving on-vehicle processing of sensor data and neural network workloads. The application specific integrated circuit is designed for tighter int... [2679 chars]",
-            "url": "https://www.europesays.com/3211516/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/02/1756205897375.jpeg",
-            "publishedAt": "2026-08-23T19:52:28Z",
+            "id": "d1942bbb8e0b00895aa4d4344dcb41d9",
+            "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+            "description": "AI models trained on Ukrainian battlefield data will be used to stop protesters and foreign states targeting UK defence sites, railways and energy plants",
+            "content": "AI models trained on Ukrainian battlefield data will be used to stop protesters and foreign states targeting UK defence sites, railways and energy plants under a deal struck between London and Kyiv.\nPrivate companies will also be given access to the ... [4103 chars]",
+            "url": "https://www.europesays.com/3213358/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/08/5159.jpg",
+            "publishedAt": "2026-08-24T20:16:35Z",
             "lang": "en",
             "source": {
                 "id": "ed23d65928efaec6669dd2212a773d9f",
@@ -119,51 +103,67 @@
             }
         },
         {
-            "id": "3d3f10a7bbe5a03e21bdd4bf61db8fd9",
-            "title": "ET WLF 2026: India has what the world longs for - stable leadership, says Satyan Gajwani, Chairman, Times Internet",
-            "description": "Welcoming Prime Minister Modi to the World Leaders Forum, Gajwani drew an analogy with Homer's Odyssey, saying the ancient tale of a protagonist navigating one crisis after another was \"something of a parable for our times today.\" \"When we look around the world, at least if we believe the headlines, we're lurching from one crisis to the next,\" Gajwani said, pointing to two ongoing wars, an energy crisis, disruption of shipping routes, trade battles, nuclear threats and an AI surge sucking in unprecedented amounts of capital.",
-            "content": "Synopsis\nWelcoming Prime Minister Modi to the World Leaders Forum, Gajwani drew an analogy with Homer's Odyssey, saying the ancient tale of a protagonist navigating one crisis after another was \"something of a parable for our times today.\" \"When we l... [3940 chars]",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/et-wlf-2026-india-has-what-the-world-longs-for-stable-leadership-says-satyan-gajwani-chairman-times-internet/articleshow/133446346.cms",
-            "image": "https://img.etimg.com/thumb/msid-133446345,width-1200,height-630,imgsize-138464,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-08-23T19:52:00Z",
+            "id": "65a02b0a1d7c3b53d091cc35096cf3a7",
+            "title": "Christine Chasse Analyzes AI Governance in Health Care in Two Publications",
+            "description": "Spencer Fane attorney Christine Chasse authored the article AI in Health Care: The Governance Gap, recently published by Health IT Answers and Corporate",
+            "content": "Spencer Fane attorney Christine Chasse authored the article AI in Health Care: The Governance Gap, recently published by Health IT Answers and Corporate Compliance Insights.\nIn the article, originally a firm blog post, Christine examines the growing ... [1631 chars]",
+            "url": "https://www.europesays.com/3213352/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/08/08-24-26_Christine-Chasse-Analyzes-AI-Governance-in-Health-Care-in-Two-Publications.jpg",
+            "publishedAt": "2026-08-24T20:11:16Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
             }
         },
         {
-            "id": "5cfefe9742d0f9e2116f413e03a9f6ad",
-            "title": "ET World Leaders Forum: India needs to make the shift from 'petro state' to 'electro state'",
-            "description": "India needs to shift from a “petro state” to an “electro state” as rising power demand from EVs, AI and data centres accelerates the push for renewable and nuclear energy, speakers at the ET World Leaders Forum said.",
-            "content": "Synopsis\nIndia needs to shift from a “petro state” to an “electro state” as rising power demand from EVs, AI and data centres accelerates the push for renewable and nuclear energy, speakers at the ET World Leaders Forum said.\nIndia has weathered rece... [5777 chars]",
-            "url": "https://economictimes.indiatimes.com/industry/renewables/et-world-leaders-forum-india-needs-to-make-the-shift-from-petro-state-to-electro-state/articleshow/133446332.cms",
-            "image": "https://img.etimg.com/thumb/msid-133446367,width-1200,height-630,imgsize-148304,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-08-23T19:50:00Z",
+            "id": "9278d77acd2455344ad01625ffafef95",
+            "title": "City to tweak Missoula data center regulations",
+            "description": "The change comes as a local artificial intelligence development company is seeking to build a new 4,200-square-foot research facility near the Missoula Montana Airport.",
+            "content": "Griffen Smith is the local government reporter for the Missoulian. He is a 2023 graduate of the University of Montana School of Journalism and previously served as the editor of the Seeley Swan Pathfinder.\nYou must be logged in to react.\nClick any re... [712 chars]",
+            "url": "https://missoulian.com/news/local/government-politics/article_469cd3b5-7754-4e0a-b152-7aaf87fc1555.html",
+            "image": "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/4/69/469cd3b5-7754-4e0a-b152-7aaf87fc1555/6a8ca686c63ab.preview.jpg?crop=753%2C395%2C0%2C36",
+            "publishedAt": "2026-08-24T20:10:00Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
+                "id": "f68f975281ced878edef3dab628ecffd",
+                "name": "Missoula Missoulian",
+                "url": "https://missoulian.com",
+                "country": "us"
             }
         },
         {
-            "id": "0a6eb6bca2d9b03b250de016f9237b13",
-            "title": "How companies evaluate and judge AI will decide winners: BCG CEO Christoph Schweizer",
-            "description": "India is well-positioned to productively adopt artificial intelligence technology. CEOs must combine technical understanding with human leadership skills. Entry-level hiring in the tech sector remains steady despite automation concerns. Parts of the IT services value chain will be automated by AI. Indian companies can develop new capabilities and offerings in demand.",
-            "content": "Synopsis\nIndia is well-positioned to productively adopt artificial intelligence technology. CEOs must combine technical understanding with human leadership skills. Entry-level hiring in the tech sector remains steady despite automation concerns. Part... [3698 chars]",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/how-companies-evaluate-and-judge-ai-will-decide-winners-bcg-ceo-christoph-schweizer/articleshow/133446350.cms",
-            "image": "https://img.etimg.com/thumb/msid-133446349,width-1200,height-630,imgsize-89534,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-08-23T19:49:00Z",
+            "id": "abfb6935d675b7b68c304027b67fe0a9",
+            "title": "City to tweak Missoula data center regulations",
+            "description": "The change comes as a local artificial intelligence development company is seeking to build a new 4,200-square-foot research facility near the Missoula Montana Airport.",
+            "content": "Griffen Smith is the local government reporter for the Missoulian. He is a 2023 graduate of the University of Montana School of Journalism and previously served as the editor of the Seeley Swan Pathfinder.\nLove\n0\nFunny\n0\nWow\n0\nSad\n0\nAngry\n0\nGet Gover... [274 chars]",
+            "url": "https://billingsgazette.com/news/local/government-politics/article_7197190b-a28b-5304-a1a0-306c989eb20f.html",
+            "image": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/7/19/7197190b-a28b-5304-a1a0-306c989eb20f/6a8caa3accdf2.preview.jpg?crop=753%2C395%2C0%2C36",
+            "publishedAt": "2026-08-24T20:10:00Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
+                "id": "faae211f8347b5d3383266efe7f2f105",
+                "name": "Billings Gazette",
+                "url": "https://billingsgazette.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ab331bc54e7be1d177a86368511e043f",
+            "title": "The Vague Quest and the Vague Work Order Fail the Same Way",
+            "description": "A guy who spends his evenings playing an AI-driven fantasy game told his cousin, a construction project manager, about a frustrating session where the game’s quest description was so vague, […]",
+            "content": "A guy who spends his evenings playing an AI-driven fantasy game told his cousin, a construction project manager, about a frustrating session where the game’s quest description was so vague, “help the village,” no specific task, no clear success condi... [5224 chars]",
+            "url": "https://signalscv.com/2026/08/the-vague-quest-and-the-vague-work-order-fail-the-same-way/",
+            "image": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2020/06/08212541/cropped-SignalAppIcon-IG-32x32.jpg",
+            "publishedAt": "2026-08-24T20:02:15Z",
+            "lang": "en",
+            "source": {
+                "id": "ab6b7d957a91e0dbf63976cb1b9c26f5",
+                "name": "Santa Clarita Valley Signal",
+                "url": "https://signalscv.com",
+                "country": "us"
             }
         }
     ]
