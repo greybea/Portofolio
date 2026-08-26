@@ -4,96 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 422980,
+    "totalArticles": 423872,
     "articles": [
         {
-            "id": "b4fedb0d7fd769a4de7a06543fa1320b",
-            "title": "VisionQuest actor James Spader explains where the evil AI has been since Avengers: Age of Ultron",
-            "description": "The new Disney Plus show arrives in October",
-            "content": "VisionQuest star James Spader says Ultron's been up to some pretty normal, nonvillainous stuff since he was defeated in Avengers: Age of Ultron.\n\"He's had access to the internet, television, history, and he’s just been consuming... and he’s been pain... [1112 chars]",
-            "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-actor-james-spader-explains-where-the-evil-ai-has-been-since-avengers-age-of-ultron/",
-            "image": "https://cdn.mos.cms.futurecdn.net/TpGU2EtRsm7dZuabBwQhTG-1920-80.jpg",
-            "publishedAt": "2026-08-24T20:25:46Z",
-            "lang": "en",
-            "source": {
-                "id": "294addf97f5ee5fcc83a4cf0a07af54b",
-                "name": "GamesRadar+",
-                "url": "https://www.gamesradar.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "8b737459d3730b578f2a591fa671c94f",
-            "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers",
-            "description": "Taiwanese prosecutors charged nine people Monday for illegally exporting “high-end AI servers” to mainland China, adding another wave of turbulence in the AI rivalry between China and the United States.",
-            "content": "TAIPEI, Taiwan (AP) — Taiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super Micro, for illegally exporting \"high-end AI servers\" to mainland China, adding another wave of turbulence in the AI rivalry between C... [2404 chars]",
-            "url": "https://www.pbs.org/newshour/world/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staffers",
-            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/AP26236701873969-1024x682.jpg",
-            "publishedAt": "2026-08-24T20:20:37Z",
-            "lang": "en",
-            "source": {
-                "id": "31177620c1e6e610b5d2b67916ed3615",
-                "name": "PBS News",
-                "url": "https://www.pbs.org",
-                "country": "us"
-            }
-        },
-        {
-            "id": "6095b485981cf17c79b90756ac858376",
-            "title": "Micropolis Robotics Becomes a Robotics and Physical AI Solutions Provider to ADNOC",
-            "description": "Milestone opens a new commercial pathway for Micropolis to deploy UAE-developed autonomous technologies across large-scale oil and gas operations",
-            "content": "Milestone opens a new commercial pathway for Micropolis to deploy UAE-developed autonomous technologies across large-scale oil and gas operations\nDUBAI, United Arab Emirates, Aug. 24, 2026 (GLOBE NEWSWIRE) -- Micropolis Robotics (NYSE: MCRP), a leadi... [4671 chars]",
-            "url": "https://www.manilatimes.net/2026/08/25/tmt-newswire/globenewswire/micropolis-robotics-becomes-a-robotics-and-physical-ai-solutions-provider-to-adnoc/2411296",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/25/1188696.jpg",
-            "publishedAt": "2026-08-24T20:18:20Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "f22c26539e9621c5b92c226f4acf2ce0",
-            "title": "US stocks today: S&P 500, Nasdaq decline as tech sector falls, US prepares to impose more Iran sanctions",
-            "description": "Wall Streets S&P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting political pushback on AI data centers, and looming market catalysts, including Nvidias earnings and upcoming Fed inflation reports.",
-            "content": "Synopsis\nWall Street’s S&P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting political pushback on AI data centers, and looming ... [5804 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms",
-            "image": "https://img.etimg.com/thumb/msid-133478615,width-1200,height-630,imgsize-107174,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-08-24T20:18:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "eb719aa5a0858ede3ff40f79864893b0",
-            "title": "US stocks today: S&P 500, Nasdaq decline as tech sector falls, US prepares to impose more Iran sanctions",
-            "description": "Wall Streets S&P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting political pushback on AI data centers, and looming market catalysts, including Nvidias earnings and upcoming Fed inflation reports.",
-            "content": "Synopsis\nWall Street’s S&P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.Investors reacted to fresh U.S. sanctions against Iran, mounting political pushback on AI data centers, and looming ... [5583 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms",
-            "image": "https://img.etimg.com/thumb/msid-133478615,width-1200,height-630,imgsize-107174,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-08-24T20:18:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "d1942bbb8e0b00895aa4d4344dcb41d9",
-            "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
-            "description": "AI models trained on Ukrainian battlefield data will be used to stop protesters and foreign states targeting UK defence sites, railways and energy plants",
-            "content": "AI models trained on Ukrainian battlefield data will be used to stop protesters and foreign states targeting UK defence sites, railways and energy plants under a deal struck between London and Kyiv.\nPrivate companies will also be given access to the ... [4103 chars]",
-            "url": "https://www.europesays.com/3213358/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/08/5159.jpg",
-            "publishedAt": "2026-08-24T20:16:35Z",
+            "id": "3eb9eb2ba6fafb109c10ab2c8c53a737",
+            "title": "tossed' between crises and AI opportunity: IMF chief",
+            "description": "Global economy 'storm-tossed' between crises and AI opportunity: IMF chief",
+            "content": "WASHINGTON, United States, Aug 25, 2026 (BSS/AFP) – The International Monetary Fund chief on Tuesday compared the global economy to a “storm-tossed vessel,” caught between high inflation, debt and trade wars while driven by tailwinds from the AI revo... [2351 chars]",
+            "url": "https://www.europesays.com/3215239/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/08/image-418137-1787681737.jpg",
+            "publishedAt": "2026-08-25T20:25:20Z",
             "lang": "en",
             "source": {
                 "id": "ed23d65928efaec6669dd2212a773d9f",
@@ -103,67 +23,147 @@
             }
         },
         {
-            "id": "65a02b0a1d7c3b53d091cc35096cf3a7",
-            "title": "Christine Chasse Analyzes AI Governance in Health Care in Two Publications",
-            "description": "Spencer Fane attorney Christine Chasse authored the article AI in Health Care: The Governance Gap, recently published by Health IT Answers and Corporate",
-            "content": "Spencer Fane attorney Christine Chasse authored the article AI in Health Care: The Governance Gap, recently published by Health IT Answers and Corporate Compliance Insights.\nIn the article, originally a firm blog post, Christine examines the growing ... [1631 chars]",
-            "url": "https://www.europesays.com/3213352/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/08/08-24-26_Christine-Chasse-Analyzes-AI-Governance-in-Health-Care-in-Two-Publications.jpg",
-            "publishedAt": "2026-08-24T20:11:16Z",
+            "id": "d1752dfff8c2f8469998067064d09663",
+            "title": "Stanley Druckenmiller admits he used AI to write WSJ op-ed bashing Bessent",
+            "description": "Billionaire investor Stanley Druckenmiller on Tuesday admitted that he used AI to pen a scathing Wall Street Journal op-ed bashing Treasury Secretary Scott Bessent’s debt buybacks.",
+            "content": "Billionaire investor Stanley Druckenmiller admitted Tuesday that he used AI to pen a scathing Wall Street Journal op-ed bashing Treasury Secretary Scott Bessent’s debt buybacks.\nDruckenmiller – the founder of Duquesne Capital who has been described a... [3274 chars]",
+            "url": "https://nypost.com/2026/08/25/media/stanley-druckenmiller-admits-he-used-ai-to-write-wsj-op-ed-bashing-bessent/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138486179.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-08-25T20:20:34Z",
             "lang": "en",
             "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
                 "country": "us"
             }
         },
         {
-            "id": "9278d77acd2455344ad01625ffafef95",
-            "title": "City to tweak Missoula data center regulations",
-            "description": "The change comes as a local artificial intelligence development company is seeking to build a new 4,200-square-foot research facility near the Missoula Montana Airport.",
-            "content": "Griffen Smith is the local government reporter for the Missoulian. He is a 2023 graduate of the University of Montana School of Journalism and previously served as the editor of the Seeley Swan Pathfinder.\nYou must be logged in to react.\nClick any re... [712 chars]",
-            "url": "https://missoulian.com/news/local/government-politics/article_469cd3b5-7754-4e0a-b152-7aaf87fc1555.html",
-            "image": "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/4/69/469cd3b5-7754-4e0a-b152-7aaf87fc1555/6a8ca686c63ab.preview.jpg?crop=753%2C395%2C0%2C36",
-            "publishedAt": "2026-08-24T20:10:00Z",
+            "id": "9f50a72c6a40ae9b2fde406376dd431b",
+            "title": "Machine learning method uncovers hidden patterns in DNA methylation",
+            "description": "In a study recently published in Nature Communications, researchers from Berlin, Potsdam, and Jena present a new method for analyzing the epigenome. The machine-learning method identifies differentially methylated DNA regions without sample labels—a prerequisite for many existing algorithms. This makes it possible to identify previously hidden biological patterns as well as new subgroups of cells or diseases.",
+            "content": "In a study recently published in Nature Communications, researchers from Berlin, Potsdam, and Jena present a new method for analyzing the epigenome. The machine-learning method identifies differentially methylated DNA regions without sample labels—a ... [4817 chars]",
+            "url": "https://phys.org/news/2026-08-machine-method-uncovers-hidden-patterns.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/2026/machine-learning-metho.jpg",
+            "publishedAt": "2026-08-25T20:20:01Z",
             "lang": "en",
             "source": {
-                "id": "f68f975281ced878edef3dab628ecffd",
-                "name": "Missoula Missoulian",
-                "url": "https://missoulian.com",
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "2b8a0b5852ba4603ace4c3b0b351827d",
+            "title": "Wall Street Journal Defends Publishing Billionaire Druckenmiller’s AI",
+            "description": "Druckenmiller blasted Treasury Secretary Scott Bessent’s bond buyback expansion in an op-ed published in the Wall Street Journal.",
+            "content": "Key Facts\nThe Wall Street Journal’s AI Policy\nIt is unclear whether the Wall Street Journal has official policies on AI-assisted submissions from outside contributors, though Druckenmiller’s op-ed suggests the news outlet accepts AI generated content... [928 chars]",
+            "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/25/wall-street-journal-defends-publishing-billionaires-ai-generated-op-ed-criticizing-bessent/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a8ddd29a964795a0c01e9fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-08-25T20:19:10Z",
+            "lang": "en",
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
                 "country": "us"
             }
         },
         {
-            "id": "abfb6935d675b7b68c304027b67fe0a9",
-            "title": "City to tweak Missoula data center regulations",
-            "description": "The change comes as a local artificial intelligence development company is seeking to build a new 4,200-square-foot research facility near the Missoula Montana Airport.",
-            "content": "Griffen Smith is the local government reporter for the Missoulian. He is a 2023 graduate of the University of Montana School of Journalism and previously served as the editor of the Seeley Swan Pathfinder.\nLove\n0\nFunny\n0\nWow\n0\nSad\n0\nAngry\n0\nGet Gover... [274 chars]",
-            "url": "https://billingsgazette.com/news/local/government-politics/article_7197190b-a28b-5304-a1a0-306c989eb20f.html",
-            "image": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/7/19/7197190b-a28b-5304-a1a0-306c989eb20f/6a8caa3accdf2.preview.jpg?crop=753%2C395%2C0%2C36",
-            "publishedAt": "2026-08-24T20:10:00Z",
+            "id": "53fc350679e0b2748d9ceff8377d9583",
+            "title": "Ticker: SpaceX to build $100B spaceport in Louisiana; AI-generated tracks banned from charts in Australia",
+            "description": "Ticker: SpaceX to build $100B spaceport in Louisiana; AI-generated tracks banned from charts in Australia",
+            "content": "Elon Musk’s space company plans to spend $100 billion to build a massive new spaceport in Louisiana to launch rockets, state officials and the company announced Tuesday.\nLouisiana Gov. Jeff Landry said the deal was a big win for the state and country... [1210 chars]",
+            "url": "https://www.bostonherald.com/2026/08/25/ticker-spacex-to-build-100b-spaceport-in-louisiana-ai-generated-tracks-banned-from-charts-in-australia/",
+            "image": "https://www.bostonherald.com/wp-content/uploads/2026/08/Minnesota_Deepfakes_Lawsuit_12756.jpg?w=2000&h=1333",
+            "publishedAt": "2026-08-25T20:12:58Z",
             "lang": "en",
             "source": {
-                "id": "faae211f8347b5d3383266efe7f2f105",
-                "name": "Billings Gazette",
-                "url": "https://billingsgazette.com",
+                "id": "bc49d994b41ac710f5c89f6e6adeece4",
+                "name": "The Boston Herald",
+                "url": "https://www.bostonherald.com",
                 "country": "us"
             }
         },
         {
-            "id": "ab331bc54e7be1d177a86368511e043f",
-            "title": "The Vague Quest and the Vague Work Order Fail the Same Way",
-            "description": "A guy who spends his evenings playing an AI-driven fantasy game told his cousin, a construction project manager, about a frustrating session where the game’s quest description was so vague, […]",
-            "content": "A guy who spends his evenings playing an AI-driven fantasy game told his cousin, a construction project manager, about a frustrating session where the game’s quest description was so vague, “help the village,” no specific task, no clear success condi... [5224 chars]",
-            "url": "https://signalscv.com/2026/08/the-vague-quest-and-the-vague-work-order-fail-the-same-way/",
-            "image": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2020/06/08212541/cropped-SignalAppIcon-IG-32x32.jpg",
-            "publishedAt": "2026-08-24T20:02:15Z",
+            "id": "a1c4b96eddaeb7878315abcb41c1c542",
+            "title": "Pope Leo XIV on AI's new 'form of domination': it risks becoming a tool of 'economic colonialism'",
+            "description": "Addressing Catholic legislators, the pope said algorithms are creating a new form of domination and warned AI threatens the family.",
+            "content": "“We must remain vigilant in this regard,” Leo told the network of officeholders who make up the International Catholic Legislators Network (ICLN) on Friday. “Lest innovation become another vehicle for ideological or economic colonialism.” He warned t... [3891 chars]",
+            "url": "https://fortune.com/2026/08/25/pope-leo-xiv-ai-domination-risks-economic-colonialism/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2214560813-e1787685135478.jpg?resize=1200,600",
+            "publishedAt": "2026-08-25T20:08:38Z",
             "lang": "en",
             "source": {
-                "id": "ab6b7d957a91e0dbf63976cb1b9c26f5",
-                "name": "Santa Clarita Valley Signal",
-                "url": "https://signalscv.com",
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
                 "country": "us"
+            }
+        },
+        {
+            "id": "0a41494ee2da9202a306a12aaefcac79",
+            "title": "US stocks today: US stocks close higher on tech rebound as Nvidia earnings gain focus",
+            "description": "US stocks closed higher as technology and semiconductor shares recovered ahead of Nvidia's earnings. Lower oil prices and Treasury yields offered relief, while investors assessed AI spending and stretched valuations. Weak consumer confidence added to economic concerns, with upcoming PCE inflation data and Fed commentary keeping rate expectations in focus.",
+            "content": "Synopsis\nUS stocks closed higher as technology and semiconductor shares recovered ahead of Nvidia's earnings. Lower oil prices and Treasury yields offered relief, while investors assessed AI spending and stretched valuations. Weak consumer confidence... [5982 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-close-higher-as-tech-rebound-puts-nvidia-in-focus/articleshow/133524166.cms",
+            "image": "https://img.etimg.com/thumb/msid-133524166,width-1200,height-630,imgsize-197968,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-08-25T20:08:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "5cedbc2a950a9b7674658d9c5e8e99c1",
+            "title": "Robot 'parent' trained by AI preparing teachers for conflict amid exodus from profession",
+            "description": "La Trobe University is preparing student teachers with an AI-trained robot called Fletch that has learned common gripes from parents.",
+            "content": "With conflicts at school gates across Australia happening on \"a day-to-day basis\", digital education expert Therese Keane hopes a new robot powered by artificial intelligence will help prepare teachers and stop them from leaving the profession.\n\"We h... [3024 chars]",
+            "url": "https://www.abc.net.au/news/2026-08-26/robot-parent-trained-by-ai-preparing-teachers-conflict-at-school/107074928",
+            "image": "https://live-production.wcms.abc-cdn.net.au/4d6bc54032d05afb4755ec3410960613?impolicy=wcms_watermark_news&cropH=2666&cropW=4740&xPos=0&yPos=250&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-08-25T20:01:46Z",
+            "lang": "en",
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "198c2f5abcb21566b0465437de03b76f",
+            "title": "Best Crypto Presale: AlphaPepe With Two Audits and Live AlphaSwap AI DEX Builds Trust Before Launch",
+            "description": "Explore the best crypto presale opportunities as AlphaPepe strengthens its position with $2.5 million raised from over 11,100 holders.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nCrypto presales are entering a tougher phase where hype alone is no longer enough to win retail attention. Buyers increasingly want visible products, verifiable smart contracts, and clearer launch milestones before commi... [4744 chars]",
+            "url": "https://techbullion.com/best-crypto-presale-alphapepe-with-two-audits-and-live-alphaswap-ai-dex-builds-trust-before-launch/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/08/image2-25-1000x600.png",
+            "publishedAt": "2026-08-25T20:00:33Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "b6a2f2903943a24772a0c67876748e6e",
+            "title": "How to Show Up in AI Search Results",
+            "description": "Customers are increasingly searching for answers on AI platforms, but how do you get your brand to show up there?",
+            "content": "Share\nShare\nShare\nShare\nEmail\nTo show up in AI search results, a brand needs three things: content AI systems can retrieve and cite, mentions in the third-party sources those systems already cite, and a way to measure which prompts the brand appears ... [7496 chars]",
+            "url": "https://techbullion.com/how-to-show-up-in-ai-search-results/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/08/pexels-bertellifotografia-16094040-1000x600.jpg",
+            "publishedAt": "2026-08-25T20:00:26Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
             }
         }
     ]
