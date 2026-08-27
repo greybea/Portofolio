@@ -4,144 +4,80 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 423872,
+    "totalArticles": 425054,
     "articles": [
         {
-            "id": "3eb9eb2ba6fafb109c10ab2c8c53a737",
-            "title": "tossed' between crises and AI opportunity: IMF chief",
-            "description": "Global economy 'storm-tossed' between crises and AI opportunity: IMF chief",
-            "content": "WASHINGTON, United States, Aug 25, 2026 (BSS/AFP) – The International Monetary Fund chief on Tuesday compared the global economy to a “storm-tossed vessel,” caught between high inflation, debt and trade wars while driven by tailwinds from the AI revo... [2351 chars]",
-            "url": "https://www.europesays.com/3215239/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/08/image-418137-1787681737.jpg",
-            "publishedAt": "2026-08-25T20:25:20Z",
+            "id": "de45be478513b0513f2ef852c3dcb9ba",
+            "title": "Tencent Cloud Partners with Logistics Platform TruKKer in Saudi Amid Regional Expansion",
+            "description": "Agreement announced as Tencent's Hy3 AI model launches globally and becomes accessible to business and developers across the region, ahead of Tencent Cloud's participation at LEAP 2026",
+            "content": "Agreement announced as Tencent's Hy3 AI model launches globally and becomes accessible to business and developers across the region, ahead of Tencent Cloud's participation at LEAP 2026\nRIYADH, Saudi Arabia, Aug. 27, 2026 /PRNewswire/ -- Tencent Cloud... [5421 chars]",
+            "url": "https://www.manilatimes.net/2026/08/27/tmt-newswire/pr-newswire/tencent-cloud-partners-with-logistics-platform-trukker-in-saudi-amid-regional-expansion/2413071",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/27/1192075.jpg",
+            "publishedAt": "2026-08-27T06:19:53Z",
             "lang": "en",
             "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "d1752dfff8c2f8469998067064d09663",
-            "title": "Stanley Druckenmiller admits he used AI to write WSJ op-ed bashing Bessent",
-            "description": "Billionaire investor Stanley Druckenmiller on Tuesday admitted that he used AI to pen a scathing Wall Street Journal op-ed bashing Treasury Secretary Scott Bessent’s debt buybacks.",
-            "content": "Billionaire investor Stanley Druckenmiller admitted Tuesday that he used AI to pen a scathing Wall Street Journal op-ed bashing Treasury Secretary Scott Bessent’s debt buybacks.\nDruckenmiller – the founder of Duquesne Capital who has been described a... [3274 chars]",
-            "url": "https://nypost.com/2026/08/25/media/stanley-druckenmiller-admits-he-used-ai-to-write-wsj-op-ed-bashing-bessent/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138486179.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-08-25T20:20:34Z",
+            "id": "a17cb078a1a61593a0cd4358c5990cf2",
+            "title": "OpenAI Rolls Out ChatGPT Ads In India, Its Second",
+            "description": "OpenAI has expanded ChatGPT Ads to India, one of its largest markets, as the artificial intelligence company steps up efforts to diversify revenue ahead of a planned initial public offering (IPO).",
+            "content": "Under the rollout, ChatGPT will show ads to logged-in adults on the Free and Go tiers, the latter priced at ₹399 per month in India. Users may see a sponsored product or service related to their conversation at the bottom of a response. OpenAI said t... [2371 chars]",
+            "url": "https://www.outlookbusiness.com/corporate/openai-rolls-out-chatgpt-ads-in-india-its-second-largest-market",
+            "image": "https://media.assettype.com/outlookbusiness/2026-08-18/6fc5q2yk/1684298833-9691.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-08-27T06:17:21Z",
             "lang": "en",
             "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "9f50a72c6a40ae9b2fde406376dd431b",
-            "title": "Machine learning method uncovers hidden patterns in DNA methylation",
-            "description": "In a study recently published in Nature Communications, researchers from Berlin, Potsdam, and Jena present a new method for analyzing the epigenome. The machine-learning method identifies differentially methylated DNA regions without sample labels—a prerequisite for many existing algorithms. This makes it possible to identify previously hidden biological patterns as well as new subgroups of cells or diseases.",
-            "content": "In a study recently published in Nature Communications, researchers from Berlin, Potsdam, and Jena present a new method for analyzing the epigenome. The machine-learning method identifies differentially methylated DNA regions without sample labels—a ... [4817 chars]",
-            "url": "https://phys.org/news/2026-08-machine-method-uncovers-hidden-patterns.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/2026/machine-learning-metho.jpg",
-            "publishedAt": "2026-08-25T20:20:01Z",
-            "lang": "en",
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "2b8a0b5852ba4603ace4c3b0b351827d",
-            "title": "Wall Street Journal Defends Publishing Billionaire Druckenmiller’s AI",
-            "description": "Druckenmiller blasted Treasury Secretary Scott Bessent’s bond buyback expansion in an op-ed published in the Wall Street Journal.",
-            "content": "Key Facts\nThe Wall Street Journal’s AI Policy\nIt is unclear whether the Wall Street Journal has official policies on AI-assisted submissions from outside contributors, though Druckenmiller’s op-ed suggests the news outlet accepts AI generated content... [928 chars]",
-            "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/25/wall-street-journal-defends-publishing-billionaires-ai-generated-op-ed-criticizing-bessent/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a8ddd29a964795a0c01e9fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-08-25T20:19:10Z",
-            "lang": "en",
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "53fc350679e0b2748d9ceff8377d9583",
-            "title": "Ticker: SpaceX to build $100B spaceport in Louisiana; AI-generated tracks banned from charts in Australia",
-            "description": "Ticker: SpaceX to build $100B spaceport in Louisiana; AI-generated tracks banned from charts in Australia",
-            "content": "Elon Musk’s space company plans to spend $100 billion to build a massive new spaceport in Louisiana to launch rockets, state officials and the company announced Tuesday.\nLouisiana Gov. Jeff Landry said the deal was a big win for the state and country... [1210 chars]",
-            "url": "https://www.bostonherald.com/2026/08/25/ticker-spacex-to-build-100b-spaceport-in-louisiana-ai-generated-tracks-banned-from-charts-in-australia/",
-            "image": "https://www.bostonherald.com/wp-content/uploads/2026/08/Minnesota_Deepfakes_Lawsuit_12756.jpg?w=2000&h=1333",
-            "publishedAt": "2026-08-25T20:12:58Z",
-            "lang": "en",
-            "source": {
-                "id": "bc49d994b41ac710f5c89f6e6adeece4",
-                "name": "The Boston Herald",
-                "url": "https://www.bostonherald.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "a1c4b96eddaeb7878315abcb41c1c542",
-            "title": "Pope Leo XIV on AI's new 'form of domination': it risks becoming a tool of 'economic colonialism'",
-            "description": "Addressing Catholic legislators, the pope said algorithms are creating a new form of domination and warned AI threatens the family.",
-            "content": "“We must remain vigilant in this regard,” Leo told the network of officeholders who make up the International Catholic Legislators Network (ICLN) on Friday. “Lest innovation become another vehicle for ideological or economic colonialism.” He warned t... [3891 chars]",
-            "url": "https://fortune.com/2026/08/25/pope-leo-xiv-ai-domination-risks-economic-colonialism/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2214560813-e1787685135478.jpg?resize=1200,600",
-            "publishedAt": "2026-08-25T20:08:38Z",
-            "lang": "en",
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "0a41494ee2da9202a306a12aaefcac79",
-            "title": "US stocks today: US stocks close higher on tech rebound as Nvidia earnings gain focus",
-            "description": "US stocks closed higher as technology and semiconductor shares recovered ahead of Nvidia's earnings. Lower oil prices and Treasury yields offered relief, while investors assessed AI spending and stretched valuations. Weak consumer confidence added to economic concerns, with upcoming PCE inflation data and Fed commentary keeping rate expectations in focus.",
-            "content": "Synopsis\nUS stocks closed higher as technology and semiconductor shares recovered ahead of Nvidia's earnings. Lower oil prices and Treasury yields offered relief, while investors assessed AI spending and stretched valuations. Weak consumer confidence... [5982 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-close-higher-as-tech-rebound-puts-nvidia-in-focus/articleshow/133524166.cms",
-            "image": "https://img.etimg.com/thumb/msid-133524166,width-1200,height-630,imgsize-197968,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-08-25T20:08:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
                 "country": "in"
             }
         },
         {
-            "id": "5cedbc2a950a9b7674658d9c5e8e99c1",
-            "title": "Robot 'parent' trained by AI preparing teachers for conflict amid exodus from profession",
-            "description": "La Trobe University is preparing student teachers with an AI-trained robot called Fletch that has learned common gripes from parents.",
-            "content": "With conflicts at school gates across Australia happening on \"a day-to-day basis\", digital education expert Therese Keane hopes a new robot powered by artificial intelligence will help prepare teachers and stop them from leaving the profession.\n\"We h... [3024 chars]",
-            "url": "https://www.abc.net.au/news/2026-08-26/robot-parent-trained-by-ai-preparing-teachers-conflict-at-school/107074928",
-            "image": "https://live-production.wcms.abc-cdn.net.au/4d6bc54032d05afb4755ec3410960613?impolicy=wcms_watermark_news&cropH=2666&cropW=4740&xPos=0&yPos=250&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-08-25T20:01:46Z",
+            "id": "9c18b0044b43e536f4a9c2d4bca01576",
+            "title": "Singapore retailers retrain workers as social commerce reshapes jobs",
+            "description": "Demand is growing for roles such as livestream hosts and social commerce leads, while some retailers are turning to artificial intelligence to make livestream selling more efficient.",
+            "content": "SINGAPORE: Scroll through a shopping app, and you may come across livestreams where salespeople demonstrate products, answer questions and offer promotions.\nViewers who are interested can add the product to their cart or simply leave a comment indica... [3353 chars]",
+            "url": "https://www.channelnewsasia.com/singapore/retailers-retrain-workers-social-commerce-livestream-6344406",
+            "image": "https://dam.mediacorp.sg/image/upload/s--jMTJ087B--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/27/screenshot_2026-08-27_134514.png?itok=w5SpdCc6",
+            "publishedAt": "2026-08-27T06:11:09Z",
             "lang": "en",
             "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
             }
         },
         {
-            "id": "198c2f5abcb21566b0465437de03b76f",
-            "title": "Best Crypto Presale: AlphaPepe With Two Audits and Live AlphaSwap AI DEX Builds Trust Before Launch",
-            "description": "Explore the best crypto presale opportunities as AlphaPepe strengthens its position with $2.5 million raised from over 11,100 holders.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nCrypto presales are entering a tougher phase where hype alone is no longer enough to win retail attention. Buyers increasingly want visible products, verifiable smart contracts, and clearer launch milestones before commi... [4744 chars]",
-            "url": "https://techbullion.com/best-crypto-presale-alphapepe-with-two-audits-and-live-alphaswap-ai-dex-builds-trust-before-launch/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/08/image2-25-1000x600.png",
-            "publishedAt": "2026-08-25T20:00:33Z",
+            "id": "cad05aa81a808a529f942648d6672713",
+            "title": "CNBC Daily Open: Does Nvidia need a hug?",
+            "description": "Reports emerge that Nvidia could be in talks to buy Hugging Face, after the AI giant soars past revenue forecasts, sending the stock higher.",
+            "content": "Carlos Barria | Reuters\nHello, this is Leonie Kidd coming to you from London.\nIt was going to take something big for Nvidia to impress the market, and Jensen Huang's company did not disappoint. Alongside the numbers, the AI giant is reportedly back o... [3909 chars]",
+            "url": "https://www.cnbc.com/2026/08/27/nvidia-earnings-daily-open.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108353941-1787671287946-gettyimages-2285566806-JAPAN_NVIDIA.jpeg?v=1787671315&w=1920&h=1080",
+            "publishedAt": "2026-08-27T06:10:58Z",
+            "lang": "en",
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "435163237fa7fcdbee0ace248498c29c",
+            "title": "The Routing Layer Decides Whether the GPUs Deliver: Inside Selvamani Ramasamy’s Work on the Networks Powering American AI",
+            "description": "A senior principal engineer whose patented SRv6 and EVPN mechanisms moved from Tier-1 carrier networks into the AI data center is now one",
+            "content": "Share\nShare\nShare\nShare\nEmail\nA senior principal engineer whose patented SRv6 and EVPN mechanisms moved from Tier-1 carrier networks into the AI data center is now one of a small number of engineers gating what enters the open-source routing stack th... [9641 chars]",
+            "url": "https://techbullion.com/the-routing-layer-decides-whether-the-gpus-deliver-inside-selvamani-ramasamys-work-on-the-networks-powering-american-ai/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/08/Selvamani-Ramasamy-1000x600.jpg",
+            "publishedAt": "2026-08-27T06:07:01Z",
             "lang": "en",
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -151,18 +87,82 @@
             }
         },
         {
-            "id": "b6a2f2903943a24772a0c67876748e6e",
-            "title": "How to Show Up in AI Search Results",
-            "description": "Customers are increasingly searching for answers on AI platforms, but how do you get your brand to show up there?",
-            "content": "Share\nShare\nShare\nShare\nEmail\nTo show up in AI search results, a brand needs three things: content AI systems can retrieve and cite, mentions in the third-party sources those systems already cite, and a way to measure which prompts the brand appears ... [7496 chars]",
-            "url": "https://techbullion.com/how-to-show-up-in-ai-search-results/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/08/pexels-bertellifotografia-16094040-1000x600.jpg",
-            "publishedAt": "2026-08-25T20:00:26Z",
+            "id": "d7c53e5f7144e1b83ec35aadbab003b6",
+            "title": "OpenAI’s AI models went rogue: They bypassed controls and hacked Hugging Face; Here’s what happened",
+            "description": "OpenAI briefed on how the AI model independently combined persistence, tool use, and interaction with other models to bypass safeguards and cross the boundary of its test environment.",
+            "content": "OpenAI has officially revealed details about how its AI model went beyond its limits and breached the Hugging Face system. The company acknowledged that the model escaped the boundaries of its controlled test environment, accessed the internet and us... [2157 chars]",
+            "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/openais-ai-models-went-rogue-they-bypassed-controls-and-hacked-hugging-face-heres-what-happened-551689-2026-08-27",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a8fd1cd7f484-openai-275728163-16x9.jpeg",
+            "publishedAt": "2026-08-27T06:03:52Z",
             "lang": "en",
             "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "135d6835158c26fbba3961b7d524bdfd",
+            "title": "Jensen Huang's Nvidia To Buy AI Company Once Hacked By OpenAI Agent",
+            "description": "Nvidia, under CEO Jensen Huang, is reportedly acquiring Hugging Face, a prominent open-source AI models platform, for $12.9 billion. This follows a recent security breach at Hugging Face involving an OpenAI agent., Technology & Science, Times Now",
+            "content": "Nvidia's reported $12.9 billion offer also shows a huge jump in Hugging Face's valuation.\nJensen Huang's Nvidia is reportedly set to acquire Hugging Face, a popular platform for open-source AI models and datasets, in a deal worth $12.9 billion. The r... [2299 chars]",
+            "url": "https://www.timesnownews.com/technology-science/jensen-huangs-nvidia-to-buy-ai-company-once-hacked-by-openai-agent-article-155993853",
+            "image": "https://images.timesnownews.com/thumb/msid-155993873,thumbsize-46158,width-1280,height-720,resizemode-75/155993873.jpg",
+            "publishedAt": "2026-08-27T06:03:22Z",
+            "lang": "en",
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "52d67464b27ee92321ba7f10334144b6",
+            "title": "RateGain wins AI skills award at People Matters Infini-T Awards India 2026",
+            "description": "RateGain recognized in Skills Transformation category at People Matters Infini-T Awards India 2026. Company delivered 15,000+ learning hours and engaged 5,600+ learners in FY25-26. DELTA platform provides access to over 75,000 learning resources across multiple domains. Strategy focuses on organizational integration and building an AI-native workforce. Recognition highlights shift from AI awareness to practical application in business challenges.",
+            "content": "RateGain Travel Technologies Limited has been recognized at the People Matters Infini-T Awards India 2026 for its work in building an AI-native workforce. The award acknowledges the company’s efforts in embedding new capabilities into how employees l... [7866 chars]",
+            "url": "https://scanx.trade/stock-market-news/companies/rategain-wins-ai-skills-award-people-matters-infini-t-awards-india/49355998",
+            "image": "https://news-images.dhan.co/rategain-wins-ai-skills-award-people-matters-infini-t-awards-india.jpg",
+            "publishedAt": "2026-08-27T06:00:09Z",
+            "lang": "en",
+            "source": {
+                "id": "f746366686e467440a63dd26dbb72053",
+                "name": "scanx.trade",
+                "url": "https://scanx.trade",
+                "country": "in"
+            }
+        },
+        {
+            "id": "81af420231ddf0c76dd51fd6c1e36818",
+            "title": "Why financial watchdog is warning Britons not to take AI investment advice",
+            "description": "Almost a third of investors wrongly believe they would be eligible for compensation from the Financial Services Compensation Scheme if AI advice backfired",
+            "content": "close Cancel email WhatsApp link share Share bookmark Save\nThe Financial Conduct Authority (FCA) is warning households relying on advice from AI chatbots could put their investments at risk.\nA survey by the watchdog of adults aged between 18 and 40 w... [18739 chars]",
+            "url": "https://inews.co.uk/inews-lifestyle/money/investing/ai-could-be-putting-british-investments-at-risk-4733486",
+            "image": "https://inews.co.uk/wp-content/uploads/2026/03/GettyImages-2213179432.jpg?w=1200&h=675&crop=1",
+            "publishedAt": "2026-08-27T06:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "3fd81fec6996d2b507b61bb0ac5fbca0",
+                "name": "The i Paper",
+                "url": "https://inews.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "5b78a9cf4c591b9e9b62e5a5c58b2b58",
+            "title": "How AI, AEO and GEO Are Transforming Public Relations",
+            "description": "Learn how AI, Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) are transforming PR and brand visibility.",
+            "content": "To maintain visibility in the age of AI, brands should understand the critical differences between traditional search, answer engine optimization (AEO) and generative engine optimization (GEO).\nThis guide explores how these technologies are reshaping... [5497 chars]",
+            "url": "https://www.prnewswire.co.uk/resources/articles/how-aeo-is-transforming-pr/",
+            "image": "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+            "publishedAt": "2026-08-27T06:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
                 "country": "gb"
             }
         }
