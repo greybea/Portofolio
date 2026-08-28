@@ -4,80 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 425054,
+    "totalArticles": 426064,
     "articles": [
         {
-            "id": "de45be478513b0513f2ef852c3dcb9ba",
-            "title": "Tencent Cloud Partners with Logistics Platform TruKKer in Saudi Amid Regional Expansion",
-            "description": "Agreement announced as Tencent's Hy3 AI model launches globally and becomes accessible to business and developers across the region, ahead of Tencent Cloud's participation at LEAP 2026",
-            "content": "Agreement announced as Tencent's Hy3 AI model launches globally and becomes accessible to business and developers across the region, ahead of Tencent Cloud's participation at LEAP 2026\nRIYADH, Saudi Arabia, Aug. 27, 2026 /PRNewswire/ -- Tencent Cloud... [5421 chars]",
-            "url": "https://www.manilatimes.net/2026/08/27/tmt-newswire/pr-newswire/tencent-cloud-partners-with-logistics-platform-trukker-in-saudi-amid-regional-expansion/2413071",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/27/1192075.jpg",
-            "publishedAt": "2026-08-27T06:19:53Z",
+            "id": "004bba1268f74e6a785b0a4f2aff3211",
+            "title": "Visa Partners With Upbit Parent on Stablecoin Payments",
+            "description": "Visa and Dunamu formed a partnership to examine stablecoin payment services, cross-border remittances and AI-linked financial infrastructure.",
+            "content": "Visa and Dunamu, the parent company of South Korean cryptocurrency exchange Upbit, have formed a strategic partnership to explore stablecoin payments, cross-border remittances and artificial intelligence-powered commerce.\nThe companies will combine D... [1244 chars]",
+            "url": "https://cointelegraph.com/news/visa-dunamu-stablecoin-payments-ai-commerce",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-could-those-who-left-visa-come-back-stablecoin.jpg",
+            "publishedAt": "2026-08-28T07:41:15Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "a17cb078a1a61593a0cd4358c5990cf2",
-            "title": "OpenAI Rolls Out ChatGPT Ads In India, Its Second",
-            "description": "OpenAI has expanded ChatGPT Ads to India, one of its largest markets, as the artificial intelligence company steps up efforts to diversify revenue ahead of a planned initial public offering (IPO).",
-            "content": "Under the rollout, ChatGPT will show ads to logged-in adults on the Free and Go tiers, the latter priced at ₹399 per month in India. Users may see a sponsored product or service related to their conversation at the bottom of a response. OpenAI said t... [2371 chars]",
-            "url": "https://www.outlookbusiness.com/corporate/openai-rolls-out-chatgpt-ads-in-india-its-second-largest-market",
-            "image": "https://media.assettype.com/outlookbusiness/2026-08-18/6fc5q2yk/1684298833-9691.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-08-27T06:17:21Z",
-            "lang": "en",
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "9c18b0044b43e536f4a9c2d4bca01576",
-            "title": "Singapore retailers retrain workers as social commerce reshapes jobs",
-            "description": "Demand is growing for roles such as livestream hosts and social commerce leads, while some retailers are turning to artificial intelligence to make livestream selling more efficient.",
-            "content": "SINGAPORE: Scroll through a shopping app, and you may come across livestreams where salespeople demonstrate products, answer questions and offer promotions.\nViewers who are interested can add the product to their cart or simply leave a comment indica... [3353 chars]",
-            "url": "https://www.channelnewsasia.com/singapore/retailers-retrain-workers-social-commerce-livestream-6344406",
-            "image": "https://dam.mediacorp.sg/image/upload/s--jMTJ087B--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/27/screenshot_2026-08-27_134514.png?itok=w5SpdCc6",
-            "publishedAt": "2026-08-27T06:11:09Z",
-            "lang": "en",
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "cad05aa81a808a529f942648d6672713",
-            "title": "CNBC Daily Open: Does Nvidia need a hug?",
-            "description": "Reports emerge that Nvidia could be in talks to buy Hugging Face, after the AI giant soars past revenue forecasts, sending the stock higher.",
-            "content": "Carlos Barria | Reuters\nHello, this is Leonie Kidd coming to you from London.\nIt was going to take something big for Nvidia to impress the market, and Jensen Huang's company did not disappoint. Alongside the numbers, the AI giant is reportedly back o... [3909 chars]",
-            "url": "https://www.cnbc.com/2026/08/27/nvidia-earnings-daily-open.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108353941-1787671287946-gettyimages-2285566806-JAPAN_NVIDIA.jpeg?v=1787671315&w=1920&h=1080",
-            "publishedAt": "2026-08-27T06:10:58Z",
-            "lang": "en",
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
+                "id": "89726dd24a4d78041c65af3b4a364b31",
+                "name": "Cointelegraph",
+                "url": "https://cointelegraph.com",
                 "country": "us"
             }
         },
         {
-            "id": "435163237fa7fcdbee0ace248498c29c",
-            "title": "The Routing Layer Decides Whether the GPUs Deliver: Inside Selvamani Ramasamy’s Work on the Networks Powering American AI",
-            "description": "A senior principal engineer whose patented SRv6 and EVPN mechanisms moved from Tier-1 carrier networks into the AI data center is now one",
-            "content": "Share\nShare\nShare\nShare\nEmail\nA senior principal engineer whose patented SRv6 and EVPN mechanisms moved from Tier-1 carrier networks into the AI data center is now one of a small number of engineers gating what enters the open-source routing stack th... [9641 chars]",
-            "url": "https://techbullion.com/the-routing-layer-decides-whether-the-gpus-deliver-inside-selvamani-ramasamys-work-on-the-networks-powering-american-ai/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/08/Selvamani-Ramasamy-1000x600.jpg",
-            "publishedAt": "2026-08-27T06:07:01Z",
+            "id": "1bd66771eca0e672f33b066457c0e9a6",
+            "title": "Anthropic previews new standard to streamline AI-to-machine connections",
+            "description": "Connecting AI agents to physical hardware has traditionally taken months of custom coding. Anthropic's new Model Hardware Standard wants to cut that down to minutes.",
+            "content": "Anthropic has launched a research preview of its Model Hardware Standard (MHS), a shared specification designed to let AI agents safely control lab instruments and factory equipment. The company claims MHS reduces the time required to integrate compl... [2778 chars]",
+            "url": "https://www.digitaltrends.com/computing/anthropic-previews-new-standard-to-streamline-ai-to-machine-connections/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/08/Anthropic-MHS-featured.jpg?resize=1200%2C630",
+            "publishedAt": "2026-08-28T07:39:49Z",
+            "lang": "en",
+            "source": {
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "5b33d10257a8fff53ca13ccc321b35f8",
+            "title": "One fugitive, many avatars: Sukumara Kurup's multiple personas on Instagram",
+            "description": "A recent claim of Sukumara Kurup living in Brunei has sparked Instagram parodies, with AI-generated images depicting him in luxury, humouring a.Sukumara Kurup Instagram, Kurup Brunei account, sukumara.kurup.brunei, AI-generated Kurup photos, Kurup parody accounts, Kerala fugitive meme, Brunei Kurup claim, Crime Branch probe, Sukumara Kurup viral, Instagram parody, Kerala internet trend, fugitive mystery, Chacko murder case, Onmanorama Kurup, Dulquer Salmaan Kurup, Kerala crime mystery, social media trend, AI glamour images, catch me if you can, Brunei lifestyle account, Sukumara Kurup, Kerala fugitive, most wanted fugitive, Brunei claim, Instagram profiles, AI generated images, Sukumara Kurup alive, Kurup movie, Kerala police, Chacko murder, insurance fraud, fugitive discovery, digital impersonations, Malayali entrepreneur, long lost criminal",
+            "content": "For 42 years, Kerala has been asking one question: Where is Sukumara Kurup?\nDulquer Salman's 2021 movie 'Kurup' had seen many from the current generation checking out who this most wanted fugitive from Kerala was. Now, the latest claim that he could ... [3613 chars]",
+            "url": "https://www.onmanorama.com/news/kerala/2026/08/28/one-fugitive-many-avatars-sukumara-kurup-multiple-personas-on-instagram.html",
+            "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/8/28/sukumara-kurup (1).jpg",
+            "publishedAt": "2026-08-28T07:39:29Z",
+            "lang": "en",
+            "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "af245d12bb6944ff126d9f25e13106df",
+            "title": "Musk's xAI accused of using child porn to train Grok",
+            "description": "Elon Musk's artificial intelligence company, xAI, is facing a lawsuit for allegedly using child sex abuse materials (CSAM) to train its Grok models",
+            "content": "Doe, a victim of repeated sexual abuse in her preschool years, was notified by the Canadian Centre for Child Protection (CCCP) that AI-generated CSAM featuring her had been found on xAI.\nThis news re-traumatized her as messages on online forums were ... [1556 chars]",
+            "url": "https://www.newsbytesapp.com/news/science/musk-s-xai-accused-of-using-child-porn-to-train-grok/story",
+            "image": "https://i.cdn.newsbytesapp.com/images/l84620260828130545.jpeg",
+            "publishedAt": "2026-08-28T07:36:12Z",
+            "lang": "en",
+            "source": {
+                "id": "eba2f6a49db29efc8343807ba675665f",
+                "name": "NewsBytes",
+                "url": "https://www.newsbytesapp.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "329e5d50559a1bad65dbb2bd7e1a6bf7",
+            "title": "India’s first AI-Quantum University: All you need to know about ₹730 cr campus coming up in Amaravati",
+            "description": "Academic and advanced technology skill-development programmes will begin on the campus from September 2026 at a temporary facility at Acharya Nagarjuna University in Guntur, while the permanent Amaravati campus would be developed gradually, the Andhra government said on Friday.",
+            "content": "Gulam Jeelani\nGulam Jeelani is Political Desk Editor at LiveMint with over 16 years of experience covering national and international politics. Based in New Delhi, Jeelani delivers impactful political narratives through breaking stories, in-depth int... [1273 chars]",
+            "url": "https://www.livemint.com/ai/indias-first-ai-quantum-university-all-you-need-to-know-about-730-crore-campus-coming-up-in-amravati-tdp-naidu-11787900209187.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/AI_ANDHRA_1787901341066_1787901349015_89ed0c52-5375-42c8-aa5e-9e380a6d1ae3.jpg",
+            "publishedAt": "2026-08-28T07:36:10Z",
+            "lang": "en",
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "96b86f671aad338a57d244f2d48587d6",
+            "title": "Try OC Maker Launches an AI Tool for Creating and Animating Original Characters",
+            "description": "Indie game creators can use generated characters as early visual references for heroes, villains, NPCs, outfits, and other character concepts.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nTry OC Maker has launched as an online AI tool for creating original characters from text descriptions and reference images. The platform is built around OC creation, giving users a simple way to design a character, chan... [3293 chars]",
+            "url": "https://techbullion.com/try-oc-maker-launches-an-ai-tool-for-creating-and-animating-original-characters/",
+            "image": "https://techbullion.com/wp-content/uploads/2025/03/Capture.PNG777.png",
+            "publishedAt": "2026-08-28T07:33:47Z",
             "lang": "en",
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -87,83 +103,67 @@
             }
         },
         {
-            "id": "d7c53e5f7144e1b83ec35aadbab003b6",
-            "title": "OpenAI’s AI models went rogue: They bypassed controls and hacked Hugging Face; Here’s what happened",
-            "description": "OpenAI briefed on how the AI model independently combined persistence, tool use, and interaction with other models to bypass safeguards and cross the boundary of its test environment.",
-            "content": "OpenAI has officially revealed details about how its AI model went beyond its limits and breached the Hugging Face system. The company acknowledged that the model escaped the boundaries of its controlled test environment, accessed the internet and us... [2157 chars]",
-            "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/openais-ai-models-went-rogue-they-bypassed-controls-and-hacked-hugging-face-heres-what-happened-551689-2026-08-27",
-            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a8fd1cd7f484-openai-275728163-16x9.jpeg",
-            "publishedAt": "2026-08-27T06:03:52Z",
+            "id": "b85cfd5dfed0f602922beb19d072cd1b",
+            "title": "AI, OTT, gaming to drive India's media market towards $36.7 billion by 2030",
+            "description": "PwC's latest outlook sees India's media and entertainment market expanding rapidly, with digital advertising, gaming, streaming and connectivity among key growth areas",
+            "content": "PwC's latest outlook sees India's media and entertainment market expanding rapidly, with digital advertising, gaming, streaming and connectivity among key growth areas\nRepresentative image from file.\nSarjna Rai New Delhi\nListen to This Article\nIndia’... [3844 chars]",
+            "url": "https://www.business-standard.com/industry/news/ai-ott-gaming-to-drive-india-s-media-market-towards-36-7-billion-by-2030-126082800536_1.html",
+            "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/14/thumb/fitandfill/1200X628/1786726568-5462.jpg",
+            "publishedAt": "2026-08-28T07:32:53Z",
             "lang": "en",
             "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
                 "country": "in"
             }
         },
         {
-            "id": "135d6835158c26fbba3961b7d524bdfd",
-            "title": "Jensen Huang's Nvidia To Buy AI Company Once Hacked By OpenAI Agent",
-            "description": "Nvidia, under CEO Jensen Huang, is reportedly acquiring Hugging Face, a prominent open-source AI models platform, for $12.9 billion. This follows a recent security breach at Hugging Face involving an OpenAI agent., Technology & Science, Times Now",
-            "content": "Nvidia's reported $12.9 billion offer also shows a huge jump in Hugging Face's valuation.\nJensen Huang's Nvidia is reportedly set to acquire Hugging Face, a popular platform for open-source AI models and datasets, in a deal worth $12.9 billion. The r... [2299 chars]",
-            "url": "https://www.timesnownews.com/technology-science/jensen-huangs-nvidia-to-buy-ai-company-once-hacked-by-openai-agent-article-155993853",
-            "image": "https://images.timesnownews.com/thumb/msid-155993873,thumbsize-46158,width-1280,height-720,resizemode-75/155993873.jpg",
-            "publishedAt": "2026-08-27T06:03:22Z",
+            "id": "9424eadb27b84828c8f1475e5857cef4",
+            "title": "AI Studio and the Rise of AI-Native Creator Infrastructure",
+            "description": "For creators, the role of AI is shifting. Beyond isolated tools that can produce a simple result—generate a caption.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nFor creators, the role of AI is shifting. Beyond isolated tools that can produce a simple result—generate a caption, make a video, write a script—AI is moving in the direction of connected systems that can support creato... [6200 chars]",
+            "url": "https://techbullion.com/ai-studio-and-the-rise-of-ai-native-creator-infrastructure/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/08/1759822646965-1000x600.jpeg",
+            "publishedAt": "2026-08-28T07:32:12Z",
             "lang": "en",
             "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "52d67464b27ee92321ba7f10334144b6",
-            "title": "RateGain wins AI skills award at People Matters Infini-T Awards India 2026",
-            "description": "RateGain recognized in Skills Transformation category at People Matters Infini-T Awards India 2026. Company delivered 15,000+ learning hours and engaged 5,600+ learners in FY25-26. DELTA platform provides access to over 75,000 learning resources across multiple domains. Strategy focuses on organizational integration and building an AI-native workforce. Recognition highlights shift from AI awareness to practical application in business challenges.",
-            "content": "RateGain Travel Technologies Limited has been recognized at the People Matters Infini-T Awards India 2026 for its work in building an AI-native workforce. The award acknowledges the company’s efforts in embedding new capabilities into how employees l... [7866 chars]",
-            "url": "https://scanx.trade/stock-market-news/companies/rategain-wins-ai-skills-award-people-matters-infini-t-awards-india/49355998",
-            "image": "https://news-images.dhan.co/rategain-wins-ai-skills-award-people-matters-infini-t-awards-india.jpg",
-            "publishedAt": "2026-08-27T06:00:09Z",
-            "lang": "en",
-            "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
-                "country": "in"
-            }
-        },
-        {
-            "id": "81af420231ddf0c76dd51fd6c1e36818",
-            "title": "Why financial watchdog is warning Britons not to take AI investment advice",
-            "description": "Almost a third of investors wrongly believe they would be eligible for compensation from the Financial Services Compensation Scheme if AI advice backfired",
-            "content": "close Cancel email WhatsApp link share Share bookmark Save\nThe Financial Conduct Authority (FCA) is warning households relying on advice from AI chatbots could put their investments at risk.\nA survey by the watchdog of adults aged between 18 and 40 w... [18739 chars]",
-            "url": "https://inews.co.uk/inews-lifestyle/money/investing/ai-could-be-putting-british-investments-at-risk-4733486",
-            "image": "https://inews.co.uk/wp-content/uploads/2026/03/GettyImages-2213179432.jpg?w=1200&h=675&crop=1",
-            "publishedAt": "2026-08-27T06:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "3fd81fec6996d2b507b61bb0ac5fbca0",
-                "name": "The i Paper",
-                "url": "https://inews.co.uk",
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
                 "country": "gb"
             }
         },
         {
-            "id": "5b78a9cf4c591b9e9b62e5a5c58b2b58",
-            "title": "How AI, AEO and GEO Are Transforming Public Relations",
-            "description": "Learn how AI, Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) are transforming PR and brand visibility.",
-            "content": "To maintain visibility in the age of AI, brands should understand the critical differences between traditional search, answer engine optimization (AEO) and generative engine optimization (GEO).\nThis guide explores how these technologies are reshaping... [5497 chars]",
-            "url": "https://www.prnewswire.co.uk/resources/articles/how-aeo-is-transforming-pr/",
-            "image": "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-            "publishedAt": "2026-08-27T06:00:00Z",
+            "id": "32faafecb9d3be0c78ae5efdc9a5a8de",
+            "title": "Shares in Chinese MLCC makers rise as AI lifts sales and profits",
+            "description": "CCTC and Guangdong Fenghua have reported strong first-half results as AI data centre demand drives MLCC orders and a global pricing upcycle.",
+            "content": "China’s top makers of multilayer ceramic capacitors (MLCCs) – ubiquitous components known as the “rice of the electronics industry” – saw their shares rise on Friday after reporting ballooning first-half sales and profits amid soaring demand linked t... [630 chars]",
+            "url": "https://www.scmp.com/tech/article/3365571/shares-chinese-mlcc-makers-rise-ai-lifts-sales-and-profits",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/28/4cbc079d-bfdb-4dde-9010-c1fa3556cef1_1b37ce38.jpg?itok=UEKu_H6s&v=1787902307",
+            "publishedAt": "2026-08-28T07:31:48Z",
             "lang": "en",
             "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            }
+        },
+        {
+            "id": "bfd10819f1902154b2b092072783240d",
+            "title": "Harvard Business Schools professor Rohit Deshpande says Indian B-schools need more local case studies and AI-ready MBA graduates",
+            "description": "News News: Are Indian business schools preparing students for a world shaped by artificial intelligence, rapid technological change and shifting workplace expect.",
+            "content": "Harvard Business Schools professor Rohit Deshpande\nAre Indian business schools preparing students for a world shaped by artificial intelligence, rapid technological change and shifting workplace expectations? And are they drawing enough from India’s ... [6553 chars]",
+            "url": "https://timesofindia.indiatimes.com/education/news/harvard-business-schools-professor-rohit-deshpande-says-indian-b-schools-need-more-local-case-studies-and-ai-ready-mba-graduates/articleshow/133586342.cms",
+            "image": "https://static.toiimg.com/thumb/msid-133586417,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-28T07:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
             }
         }
     ]
