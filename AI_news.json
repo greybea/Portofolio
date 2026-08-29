@@ -4,80 +4,112 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 426064,
+    "totalArticles": 426556,
     "articles": [
         {
-            "id": "004bba1268f74e6a785b0a4f2aff3211",
-            "title": "Visa Partners With Upbit Parent on Stablecoin Payments",
-            "description": "Visa and Dunamu formed a partnership to examine stablecoin payment services, cross-border remittances and AI-linked financial infrastructure.",
-            "content": "Visa and Dunamu, the parent company of South Korean cryptocurrency exchange Upbit, have formed a strategic partnership to explore stablecoin payments, cross-border remittances and artificial intelligence-powered commerce.\nThe companies will combine D... [1244 chars]",
-            "url": "https://cointelegraph.com/news/visa-dunamu-stablecoin-payments-ai-commerce",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-could-those-who-left-visa-come-back-stablecoin.jpg",
-            "publishedAt": "2026-08-28T07:41:15Z",
+            "id": "604fbf48a055e26e05557c5298f9e9bc",
+            "title": "ChatGPT gets Apple Messages integration on Mac: Search chats, draft replies and more",
+            "description": "ChatGPT has added an Apple Messages integration to its desktop app for macOS, allowing users to search conversations, catch up on chats and prepare or send messages with AI assistance.",
+            "content": "New Delhi:\nChatGPT now connects right into Apple Messages on Mac. OpenAI just launched a plugin for its Mac desktop app that brings ChatGPT’s help straight into your regular messaging routine. With this integration, ChatGPT can search your Apple Mess... [2385 chars]",
+            "url": "https://www.indiatvnews.com/technology/news/chatgpt-gets-apple-messages-integration-on-mac-search-chats-draft-replies-and-more-2026-08-25-1052346",
+            "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/08/chatgpt-magnific-1787645378.jpg",
+            "publishedAt": "2026-08-29T01:15:02Z",
             "lang": "en",
             "source": {
-                "id": "89726dd24a4d78041c65af3b4a364b31",
-                "name": "Cointelegraph",
-                "url": "https://cointelegraph.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "1bd66771eca0e672f33b066457c0e9a6",
-            "title": "Anthropic previews new standard to streamline AI-to-machine connections",
-            "description": "Connecting AI agents to physical hardware has traditionally taken months of custom coding. Anthropic's new Model Hardware Standard wants to cut that down to minutes.",
-            "content": "Anthropic has launched a research preview of its Model Hardware Standard (MHS), a shared specification designed to let AI agents safely control lab instruments and factory equipment. The company claims MHS reduces the time required to integrate compl... [2778 chars]",
-            "url": "https://www.digitaltrends.com/computing/anthropic-previews-new-standard-to-streamline-ai-to-machine-connections/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/08/Anthropic-MHS-featured.jpg?resize=1200%2C630",
-            "publishedAt": "2026-08-28T07:39:49Z",
-            "lang": "en",
-            "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "5b33d10257a8fff53ca13ccc321b35f8",
-            "title": "One fugitive, many avatars: Sukumara Kurup's multiple personas on Instagram",
-            "description": "A recent claim of Sukumara Kurup living in Brunei has sparked Instagram parodies, with AI-generated images depicting him in luxury, humouring a.Sukumara Kurup Instagram, Kurup Brunei account, sukumara.kurup.brunei, AI-generated Kurup photos, Kurup parody accounts, Kerala fugitive meme, Brunei Kurup claim, Crime Branch probe, Sukumara Kurup viral, Instagram parody, Kerala internet trend, fugitive mystery, Chacko murder case, Onmanorama Kurup, Dulquer Salmaan Kurup, Kerala crime mystery, social media trend, AI glamour images, catch me if you can, Brunei lifestyle account, Sukumara Kurup, Kerala fugitive, most wanted fugitive, Brunei claim, Instagram profiles, AI generated images, Sukumara Kurup alive, Kurup movie, Kerala police, Chacko murder, insurance fraud, fugitive discovery, digital impersonations, Malayali entrepreneur, long lost criminal",
-            "content": "For 42 years, Kerala has been asking one question: Where is Sukumara Kurup?\nDulquer Salman's 2021 movie 'Kurup' had seen many from the current generation checking out who this most wanted fugitive from Kerala was. Now, the latest claim that he could ... [3613 chars]",
-            "url": "https://www.onmanorama.com/news/kerala/2026/08/28/one-fugitive-many-avatars-sukumara-kurup-multiple-personas-on-instagram.html",
-            "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/8/28/sukumara-kurup (1).jpg",
-            "publishedAt": "2026-08-28T07:39:29Z",
-            "lang": "en",
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
+                "id": "143b993b193f72147f3de29ebcfbf505",
+                "name": "India TV News",
+                "url": "https://www.indiatvnews.com",
                 "country": "in"
             }
         },
         {
-            "id": "af245d12bb6944ff126d9f25e13106df",
-            "title": "Musk's xAI accused of using child porn to train Grok",
-            "description": "Elon Musk's artificial intelligence company, xAI, is facing a lawsuit for allegedly using child sex abuse materials (CSAM) to train its Grok models",
-            "content": "Doe, a victim of repeated sexual abuse in her preschool years, was notified by the Canadian Centre for Child Protection (CCCP) that AI-generated CSAM featuring her had been found on xAI.\nThis news re-traumatized her as messages on online forums were ... [1556 chars]",
-            "url": "https://www.newsbytesapp.com/news/science/musk-s-xai-accused-of-using-child-porn-to-train-grok/story",
-            "image": "https://i.cdn.newsbytesapp.com/images/l84620260828130545.jpeg",
-            "publishedAt": "2026-08-28T07:36:12Z",
+            "id": "b3cc7a9327472a5622132babade17192",
+            "title": "How AI‑powered policing is endangering the public's trust in police",
+            "description": "Since the release of ChatGPT in 2022, artificial intelligence (AI) has dominated the cultural landscape. Uptake across various sectors, including law enforcement, quickly followed, usually with minimal foresight and little to no guardrails, like effective policies or laws, to govern AI use.",
+            "content": "Since the release of ChatGPT in 2022, artificial intelligence (AI) has dominated the cultural landscape. Uptake across various sectors, including law enforcement, quickly followed, usually with minimal foresight and little to no guardrails, like effe... [5420 chars]",
+            "url": "https://phys.org/news/2026-08-aipowered-policing-endangering-police.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/canada-police.jpg",
+            "publishedAt": "2026-08-29T00:40:02Z",
             "lang": "en",
             "source": {
-                "id": "eba2f6a49db29efc8343807ba675665f",
-                "name": "NewsBytes",
-                "url": "https://www.newsbytesapp.com",
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "b52aeaff5b7ff65856354505da79faa2",
+            "title": "Diamonds, Crescents and Wildcats: Intel shows off its hardware for the next generation of agentic AI workloads",
+            "description": "Intel wants to power the next iteration of AI",
+            "content": "Intel shows three agentic AI architectures at Hot Chips 2026: the 256-core Diamond Rapids Xeon, the Crescent Island inference GPU, and the already-shipping Wildcat Lake client SoC\nDiamond Rapids matches AMD's EPYC Venice on cores and bandwidth but ar... [3335 chars]",
+            "url": "https://www.techradar.com/pro/diamonds-crescents-and-wildcats-intel-shows-off-its-hardware-for-the-next-generation-of-agentic-ai-workloads",
+            "image": "https://cdn.mos.cms.futurecdn.net/ec3PDmnghmiiwaebiAjh83-970-80.jpg",
+            "publishedAt": "2026-08-29T00:40:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "4066162edc159efdfc495bbc18a1cc76",
+            "title": "‘There is no joy’: Workers open up about how AI is changing careers, confidence and everyday job satisfaction",
+            "description": "Explore how AI is transforming the workplace, leading to increased productivity yet diminished job satisfaction and skill development among workers. Understand the impact of automation on employee confidence and fulfillment.",
+            "content": "AI is helping employees finish tasks faster than ever, but many now fear they are losing skills, motivation and the satisfaction that comes from solving problems on their own.\nImage credit : Magnific | AI is making work easier but many say the joy is... [6358 chars]",
+            "url": "https://www.indiatimes.com/trending/there-is-no-joy-workers-open-up-about-how-ai-is-changing-careers-confidence-and-everyday-job-satisfaction/articleshow/133584468.html",
+            "image": "https://staticimg.publishstory.co/thumb/133584524.cms?imgsize=77031&width=1280&height=720&resizemode=8",
+            "publishedAt": "2026-08-29T00:38:28Z",
+            "lang": "en",
+            "source": {
+                "id": "da182982e3ceb53c6eb8df72aa2030c3",
+                "name": "Indiatimes",
+                "url": "https://www.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "329e5d50559a1bad65dbb2bd7e1a6bf7",
-            "title": "India’s first AI-Quantum University: All you need to know about ₹730 cr campus coming up in Amaravati",
-            "description": "Academic and advanced technology skill-development programmes will begin on the campus from September 2026 at a temporary facility at Acharya Nagarjuna University in Guntur, while the permanent Amaravati campus would be developed gradually, the Andhra government said on Friday.",
-            "content": "Gulam Jeelani\nGulam Jeelani is Political Desk Editor at LiveMint with over 16 years of experience covering national and international politics. Based in New Delhi, Jeelani delivers impactful political narratives through breaking stories, in-depth int... [1273 chars]",
-            "url": "https://www.livemint.com/ai/indias-first-ai-quantum-university-all-you-need-to-know-about-730-crore-campus-coming-up-in-amravati-tdp-naidu-11787900209187.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/AI_ANDHRA_1787901341066_1787901349015_89ed0c52-5375-42c8-aa5e-9e380a6d1ae3.jpg",
-            "publishedAt": "2026-08-28T07:36:10Z",
+            "id": "847dccdc0b173e4b9d3599ba262ae9ef",
+            "title": "‘If you don’t use it, you lose it’: Workers reveal how they’re coping with constant AI pressure at their office",
+            "description": "As AI rapidly integrates into daily office activities, employees share their experiences of coping with the pressure and the potential creativity crises it brings.",
+            "content": "As AI becomes part of everyday office life, some workers are embracing it while others feel pressured to join in. A growing debate is emerging around creativity, skills and workplace survival.\nImage credit : Magnific | What happens when AI becomes th... [6839 chars]",
+            "url": "https://www.indiatimes.com/trending/if-you-dont-use-it-you-lose-it-workers-reveal-how-theyre-coping-with-constant-ai-pressure-at-the-office/articleshow/133583831.html",
+            "image": "https://staticimg.publishstory.co/thumb/133583873.cms?imgsize=88588&width=1280&height=720&resizemode=8",
+            "publishedAt": "2026-08-29T00:36:05Z",
+            "lang": "en",
+            "source": {
+                "id": "da182982e3ceb53c6eb8df72aa2030c3",
+                "name": "Indiatimes",
+                "url": "https://www.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "78aa284c64d754e8066018b1d7bb1460",
+            "title": "What’s wrong in taking AI’s help in writing articles?",
+            "description": "What matters is whether the article is true, useful and interesting. That, ultimately, is the test newspapers should apply",
+            "content": "The Wall Street Journal recently published an oped article written by a regular contributor using AI. That set off a global debate on whether opinion-makers should use Artificial Intelligence (AI) to write articles. Our columnist TCA Srinivasa Raghav... [4099 chars]",
+            "url": "https://www.thehindubusinessline.com/opinion/whats-wrong-in-using-ai-to-write-articles-asks-chatgpt/article71401578.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/ndnrpt/article71401581.ece/alternates/LANDSCAPE_1200/IMG_iStock-937061160_2_1_FHEBS1V9.jpg",
+            "publishedAt": "2026-08-29T00:35:00Z",
+            "lang": "en",
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "451031e3f823fa4c690bc8a7f0e8101e",
+            "title": "Of advisor bots and fee cuts in the times of exec coaching wars",
+            "description": "India's booming executive coaching industry is turning into a price war. New entrants are undercutting veterans to build hours and credentials, corporate clients are pushing for discounts, and AI looms as a cheaper alternative.",
+            "content": "India’s executive coaching industry, to which top professionals turn for advice on navigating career challenges and the leadership path, is getting crowded. A wave of new entrants and platforms that make coaches easier to find is forcing them to comp... [5769 chars]",
+            "url": "https://www.livemint.com/news/executive-leadership-coaching-fee-ai-11787730431691.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/2-0-1031705144-lead-0_1679986686184_1787931232502_345da691-6b11-419e-8bca-36e5f2ef0c4d.jpg",
+            "publishedAt": "2026-08-29T00:30:50Z",
             "lang": "en",
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -87,83 +119,51 @@
             }
         },
         {
-            "id": "96b86f671aad338a57d244f2d48587d6",
-            "title": "Try OC Maker Launches an AI Tool for Creating and Animating Original Characters",
-            "description": "Indie game creators can use generated characters as early visual references for heroes, villains, NPCs, outfits, and other character concepts.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nTry OC Maker has launched as an online AI tool for creating original characters from text descriptions and reference images. The platform is built around OC creation, giving users a simple way to design a character, chan... [3293 chars]",
-            "url": "https://techbullion.com/try-oc-maker-launches-an-ai-tool-for-creating-and-animating-original-characters/",
-            "image": "https://techbullion.com/wp-content/uploads/2025/03/Capture.PNG777.png",
-            "publishedAt": "2026-08-28T07:33:47Z",
+            "id": "c6e47ea38dacee814922c445240839ec",
+            "title": "Calgary uses AI to determine the 50 highest-risk intersections for pedestrians",
+            "description": "The list of the highest-risk intersections comes after the City of Calgary used AI to assess and assign a risk score to more than 17,000 intersections across the city.",
+            "content": "The City of Calgary has used artificial intelligence to determine the 50 riskiest intersections for pedestrians across the city, but it’s unclear what will be done to address the issue as just half are recommended for upgrades.\nAccording to a report ... [3308 chars]",
+            "url": "https://globalnews.ca/news/12039926/city-of-calgary-ai-high-risk-intersections-for-pedestrians/",
+            "image": "https://globalnews.ca/wp-content/uploads/2026/08/AI-PED-2.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2026-08-29T00:23:47Z",
             "lang": "en",
             "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
+                "id": "49853ffafc28f405ff8ed06043290ae8",
+                "name": "Global News",
+                "url": "https://globalnews.ca",
+                "country": "ca"
             }
         },
         {
-            "id": "b85cfd5dfed0f602922beb19d072cd1b",
-            "title": "AI, OTT, gaming to drive India's media market towards $36.7 billion by 2030",
-            "description": "PwC's latest outlook sees India's media and entertainment market expanding rapidly, with digital advertising, gaming, streaming and connectivity among key growth areas",
-            "content": "PwC's latest outlook sees India's media and entertainment market expanding rapidly, with digital advertising, gaming, streaming and connectivity among key growth areas\nRepresentative image from file.\nSarjna Rai New Delhi\nListen to This Article\nIndia’... [3844 chars]",
-            "url": "https://www.business-standard.com/industry/news/ai-ott-gaming-to-drive-india-s-media-market-towards-36-7-billion-by-2030-126082800536_1.html",
-            "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/14/thumb/fitandfill/1200X628/1786726568-5462.jpg",
-            "publishedAt": "2026-08-28T07:32:53Z",
+            "id": "2af6cf3fa1e0108bc11ffcf019c02e61",
+            "title": "Texas to cut off state funding for Flock cameras, Abbott office says",
+            "description": "The move could affect Dallas and other cities using the AI-powered cameras as scrutiny grows over misuse and privacy.",
+            "content": "Chase Rogers covers the Dallas Police Department, Dallas Fire-Rescue, and broader public safety issues in Dallas. He grew up in Granbury and studied journalism at Texas State University in San Marcos. Before joining The News, he reported for the Aust... [269 chars]",
+            "url": "https://www.dallasnews.com/news/politics/article/texas-cut-state-funding-flock-cameras-abbott-22408466.php",
+            "image": "https://s.hdnux.com/photos/01/66/44/33/31082222/3/rawImage.jpg",
+            "publishedAt": "2026-08-29T00:17:02Z",
             "lang": "en",
             "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
+                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+                "name": "The Dallas Morning News",
+                "url": "https://www.dallasnews.com",
+                "country": "us"
             }
         },
         {
-            "id": "9424eadb27b84828c8f1475e5857cef4",
-            "title": "AI Studio and the Rise of AI-Native Creator Infrastructure",
-            "description": "For creators, the role of AI is shifting. Beyond isolated tools that can produce a simple result—generate a caption.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nFor creators, the role of AI is shifting. Beyond isolated tools that can produce a simple result—generate a caption, make a video, write a script—AI is moving in the direction of connected systems that can support creato... [6200 chars]",
-            "url": "https://techbullion.com/ai-studio-and-the-rise-of-ai-native-creator-infrastructure/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/08/1759822646965-1000x600.jpeg",
-            "publishedAt": "2026-08-28T07:32:12Z",
+            "id": "1a03f6716d84a3697d988f8ead0bd387",
+            "title": "Microsoft Is Significantly Behind Its Own Targets For AI Chip Deployment: Report",
+            "description": "Despite committing billions annually to expand data center capacity, Microsoft sources say the company's total chip count has barely moved over the past year.",
+            "content": "A Guardian investigation published this week has cast fresh doubt on the pact of enterprise AI adoption, finding that Microsoft is significantly behind its own targets for AI chip deployment across its global data centers.\nDespite committing billions... [5791 chars]",
+            "url": "https://www.ibtimes.com/microsoft-significantly-behind-its-own-targets-ai-chip-deployment-report-3806930",
+            "image": "https://d.ibtimes.com/en/full/4629954/microsoft.jpg",
+            "publishedAt": "2026-08-29T00:03:05Z",
             "lang": "en",
             "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "32faafecb9d3be0c78ae5efdc9a5a8de",
-            "title": "Shares in Chinese MLCC makers rise as AI lifts sales and profits",
-            "description": "CCTC and Guangdong Fenghua have reported strong first-half results as AI data centre demand drives MLCC orders and a global pricing upcycle.",
-            "content": "China’s top makers of multilayer ceramic capacitors (MLCCs) – ubiquitous components known as the “rice of the electronics industry” – saw their shares rise on Friday after reporting ballooning first-half sales and profits amid soaring demand linked t... [630 chars]",
-            "url": "https://www.scmp.com/tech/article/3365571/shares-chinese-mlcc-makers-rise-ai-lifts-sales-and-profits",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/28/4cbc079d-bfdb-4dde-9010-c1fa3556cef1_1b37ce38.jpg?itok=UEKu_H6s&v=1787902307",
-            "publishedAt": "2026-08-28T07:31:48Z",
-            "lang": "en",
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            }
-        },
-        {
-            "id": "bfd10819f1902154b2b092072783240d",
-            "title": "Harvard Business Schools professor Rohit Deshpande says Indian B-schools need more local case studies and AI-ready MBA graduates",
-            "description": "News News: Are Indian business schools preparing students for a world shaped by artificial intelligence, rapid technological change and shifting workplace expect.",
-            "content": "Harvard Business Schools professor Rohit Deshpande\nAre Indian business schools preparing students for a world shaped by artificial intelligence, rapid technological change and shifting workplace expectations? And are they drawing enough from India’s ... [6553 chars]",
-            "url": "https://timesofindia.indiatimes.com/education/news/harvard-business-schools-professor-rohit-deshpande-says-indian-b-schools-need-more-local-case-studies-and-ai-ready-mba-graduates/articleshow/133586342.cms",
-            "image": "https://static.toiimg.com/thumb/msid-133586417,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-08-28T07:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
             }
         }
     ]
