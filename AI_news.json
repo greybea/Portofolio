@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 426556,
+    "totalArticles": 426842,
     "articles": [
         {
-            "id": "604fbf48a055e26e05557c5298f9e9bc",
-            "title": "ChatGPT gets Apple Messages integration on Mac: Search chats, draft replies and more",
-            "description": "ChatGPT has added an Apple Messages integration to its desktop app for macOS, allowing users to search conversations, catch up on chats and prepare or send messages with AI assistance.",
-            "content": "New Delhi:\nChatGPT now connects right into Apple Messages on Mac. OpenAI just launched a plugin for its Mac desktop app that brings ChatGPT’s help straight into your regular messaging routine. With this integration, ChatGPT can search your Apple Mess... [2385 chars]",
-            "url": "https://www.indiatvnews.com/technology/news/chatgpt-gets-apple-messages-integration-on-mac-search-chats-draft-replies-and-more-2026-08-25-1052346",
-            "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/08/chatgpt-magnific-1787645378.jpg",
-            "publishedAt": "2026-08-29T01:15:02Z",
+            "id": "bdb6d813f0913ef9702f31f431adbffa",
+            "title": "Where AI is creating jobs for humans - for a while",
+            "description": "In the fast-growing field of data annotation, workers in a small city in south India train AI to improve how it performs tasks traditionally done by people.",
+            "content": "KARUR: Evidence of the artificial intelligence (AI) boom often looks like the squat, windowless data centres that house acre after acre of hardware. But near the southern tip of India, the city of Karur is teeming with signs of AI’s ascendancy in hum... [6760 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/30/where-ai-is-creating-jobs-for-humans---for-a-while",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/08/29/4082589.jpg",
+            "publishedAt": "2026-08-30T01:00:00Z",
             "lang": "en",
             "source": {
-                "id": "143b993b193f72147f3de29ebcfbf505",
-                "name": "India TV News",
-                "url": "https://www.indiatvnews.com",
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "ee844a4f1eb3d94144b71f537ac83b8b",
+            "title": "Who Will Teach AI to Understand India?",
+            "description": "Sanskrit and computers are not a new romance. For more than three decades, scholars in India and elsewhere have been working on Sanskrit computational linguistics",
+            "content": "There is a delicious irony in the story of Sanskrit. In the land of its origin, it is summoned either for ceremonial obeisance or political combat around caste and religion. But thousands of kilometres away, in European universities, it has for two c... [5976 chars]",
+            "url": "https://www.newindianexpress.com/magazine/2026/Aug/30/who-will-teach-ai-to-understand-india",
+            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-27%2Fv941ueqo%2F30-LEAD-ILLUSTRATION-2026034734.JPG?rect=0%2C52%2C1890%2C992&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-08-30T00:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "b3cc7a9327472a5622132babade17192",
-            "title": "How AI‑powered policing is endangering the public's trust in police",
-            "description": "Since the release of ChatGPT in 2022, artificial intelligence (AI) has dominated the cultural landscape. Uptake across various sectors, including law enforcement, quickly followed, usually with minimal foresight and little to no guardrails, like effective policies or laws, to govern AI use.",
-            "content": "Since the release of ChatGPT in 2022, artificial intelligence (AI) has dominated the cultural landscape. Uptake across various sectors, including law enforcement, quickly followed, usually with minimal foresight and little to no guardrails, like effe... [5420 chars]",
-            "url": "https://phys.org/news/2026-08-aipowered-policing-endangering-police.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/canada-police.jpg",
-            "publishedAt": "2026-08-29T00:40:02Z",
+            "id": "cb00d254e14e55b6aa8fa7d974607eaa",
+            "title": "Andhra CM N Chandrababu Naidu launches AI-powered platform for CAs and MSMEs",
+            "description": "Andhra Pradesh Chief Minister N Chandrababu Naidu launched Pramaan OS, an AI-powered operating system for CA firms and MSMEs. The platform, developed by Pramanique Fintech Pvt Ltd, offers AI-driven accounting automation, compliance management, and information security. Naidu praised its capabilities and potential for national expansion.",
+            "content": "Cities 46 min ago\nThis is an AI assisted summary.\nAndhra Pradesh Chief Minister N Chandrababu Naidu launched Pramaan OS, an AI-powered operating system for CA firms and MSMEs. The platform, developed by Pramanique Fintech Pvt Ltd, offers AI-driven ac... [21516 chars]",
+            "url": "https://indianexpress.com/shorts/cities/hyderabad/andhra-cm-n-chandrababu-naidu-launches-ai-powered-platform-for-cas-and-msmes-10855179/",
+            "image": "https://images.indianexpress.com/2026/08/Chandrababu-Naidu-express-archives_20260830001719.jpg",
+            "publishedAt": "2026-08-30T00:18:21Z",
             "lang": "en",
             "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "b52aeaff5b7ff65856354505da79faa2",
-            "title": "Diamonds, Crescents and Wildcats: Intel shows off its hardware for the next generation of agentic AI workloads",
-            "description": "Intel wants to power the next iteration of AI",
-            "content": "Intel shows three agentic AI architectures at Hot Chips 2026: the 256-core Diamond Rapids Xeon, the Crescent Island inference GPU, and the already-shipping Wildcat Lake client SoC\nDiamond Rapids matches AMD's EPYC Venice on cores and bandwidth but ar... [3335 chars]",
-            "url": "https://www.techradar.com/pro/diamonds-crescents-and-wildcats-intel-shows-off-its-hardware-for-the-next-generation-of-agentic-ai-workloads",
-            "image": "https://cdn.mos.cms.futurecdn.net/ec3PDmnghmiiwaebiAjh83-970-80.jpg",
-            "publishedAt": "2026-08-29T00:40:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "4066162edc159efdfc495bbc18a1cc76",
-            "title": "‘There is no joy’: Workers open up about how AI is changing careers, confidence and everyday job satisfaction",
-            "description": "Explore how AI is transforming the workplace, leading to increased productivity yet diminished job satisfaction and skill development among workers. Understand the impact of automation on employee confidence and fulfillment.",
-            "content": "AI is helping employees finish tasks faster than ever, but many now fear they are losing skills, motivation and the satisfaction that comes from solving problems on their own.\nImage credit : Magnific | AI is making work easier but many say the joy is... [6358 chars]",
-            "url": "https://www.indiatimes.com/trending/there-is-no-joy-workers-open-up-about-how-ai-is-changing-careers-confidence-and-everyday-job-satisfaction/articleshow/133584468.html",
-            "image": "https://staticimg.publishstory.co/thumb/133584524.cms?imgsize=77031&width=1280&height=720&resizemode=8",
-            "publishedAt": "2026-08-29T00:38:28Z",
-            "lang": "en",
-            "source": {
-                "id": "da182982e3ceb53c6eb8df72aa2030c3",
-                "name": "Indiatimes",
-                "url": "https://www.indiatimes.com",
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "847dccdc0b173e4b9d3599ba262ae9ef",
-            "title": "‘If you don’t use it, you lose it’: Workers reveal how they’re coping with constant AI pressure at their office",
-            "description": "As AI rapidly integrates into daily office activities, employees share their experiences of coping with the pressure and the potential creativity crises it brings.",
-            "content": "As AI becomes part of everyday office life, some workers are embracing it while others feel pressured to join in. A growing debate is emerging around creativity, skills and workplace survival.\nImage credit : Magnific | What happens when AI becomes th... [6839 chars]",
-            "url": "https://www.indiatimes.com/trending/if-you-dont-use-it-you-lose-it-workers-reveal-how-theyre-coping-with-constant-ai-pressure-at-the-office/articleshow/133583831.html",
-            "image": "https://staticimg.publishstory.co/thumb/133583873.cms?imgsize=88588&width=1280&height=720&resizemode=8",
-            "publishedAt": "2026-08-29T00:36:05Z",
+            "id": "db4b2ee8640a79d935e807359da5ce25",
+            "title": "Andhra CM N Chandrababu Naidu launches AI-powered platform for CAs and MSMEs",
+            "description": "The company described its journey as “Amaravati to America”. It said the journey began with interactions with hundreds of CAs at DAKSHA, a CA conference organised by the Southern India Regional Council of ICAI in Guntur on July 7 and 8, before extending across India.",
+            "content": "Andhra Pradesh Chief Minister N Chandrababu Naidu on August 27 launched Pramaan OS, an AI-powered practice operating system for Chartered Accountant firms and the MSMEs they serve.\nAccording to Pramanique Fintech Pvt Ltd, the Andhra Pradesh-incorpora... [536 chars]",
+            "url": "https://indianexpress.com/article/cities/hyderabad/andhra-cm-n-chandrababu-naidu-launches-ai-powered-platform-for-cas-and-msmes-10855179/",
+            "image": "https://images.indianexpress.com/2026/08/naidu-ai.jpg",
+            "publishedAt": "2026-08-30T00:17:35Z",
             "lang": "en",
             "source": {
-                "id": "da182982e3ceb53c6eb8df72aa2030c3",
-                "name": "Indiatimes",
-                "url": "https://www.indiatimes.com",
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "78aa284c64d754e8066018b1d7bb1460",
-            "title": "What’s wrong in taking AI’s help in writing articles?",
-            "description": "What matters is whether the article is true, useful and interesting. That, ultimately, is the test newspapers should apply",
-            "content": "The Wall Street Journal recently published an oped article written by a regular contributor using AI. That set off a global debate on whether opinion-makers should use Artificial Intelligence (AI) to write articles. Our columnist TCA Srinivasa Raghav... [4099 chars]",
-            "url": "https://www.thehindubusinessline.com/opinion/whats-wrong-in-using-ai-to-write-articles-asks-chatgpt/article71401578.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/ndnrpt/article71401581.ece/alternates/LANDSCAPE_1200/IMG_iStock-937061160_2_1_FHEBS1V9.jpg",
-            "publishedAt": "2026-08-29T00:35:00Z",
+            "id": "6413b682fc8370818f83cf4978b69c46",
+            "title": "University of Montana to host AI summit",
+            "description": "The Montana AI Summit is a free event bringing together University leaders, government officials, technology innovators and other individuals interested in how artificial intelligence is shaping Montana.",
+            "content": "The University of Montana will host the Montana AI Summit, a first-of-its-kind statewide conference on artificial intelligence and its future in Montana, from Tuesday through Wednesday, Sept. 1-2, in the University Center Ballroom. There also will be... [3621 chars]",
+            "url": "https://dailyinterlake.com/news/2026/aug/30/university-of-montana-to-host-ai-summit/",
+            "image": "https://hagadone.media.clients.ellingtoncms.com/static-4/dailyinterlake/images/default-social.jpg?v=2",
+            "publishedAt": "2026-08-30T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "451031e3f823fa4c690bc8a7f0e8101e",
-            "title": "Of advisor bots and fee cuts in the times of exec coaching wars",
-            "description": "India's booming executive coaching industry is turning into a price war. New entrants are undercutting veterans to build hours and credentials, corporate clients are pushing for discounts, and AI looms as a cheaper alternative.",
-            "content": "India’s executive coaching industry, to which top professionals turn for advice on navigating career challenges and the leadership path, is getting crowded. A wave of new entrants and platforms that make coaches easier to find is forcing them to comp... [5769 chars]",
-            "url": "https://www.livemint.com/news/executive-leadership-coaching-fee-ai-11787730431691.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/2-0-1031705144-lead-0_1679986686184_1787931232502_345da691-6b11-419e-8bca-36e5f2ef0c4d.jpg",
-            "publishedAt": "2026-08-29T00:30:50Z",
-            "lang": "en",
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "c6e47ea38dacee814922c445240839ec",
-            "title": "Calgary uses AI to determine the 50 highest-risk intersections for pedestrians",
-            "description": "The list of the highest-risk intersections comes after the City of Calgary used AI to assess and assign a risk score to more than 17,000 intersections across the city.",
-            "content": "The City of Calgary has used artificial intelligence to determine the 50 riskiest intersections for pedestrians across the city, but it’s unclear what will be done to address the issue as just half are recommended for upgrades.\nAccording to a report ... [3308 chars]",
-            "url": "https://globalnews.ca/news/12039926/city-of-calgary-ai-high-risk-intersections-for-pedestrians/",
-            "image": "https://globalnews.ca/wp-content/uploads/2026/08/AI-PED-2.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-            "publishedAt": "2026-08-29T00:23:47Z",
-            "lang": "en",
-            "source": {
-                "id": "49853ffafc28f405ff8ed06043290ae8",
-                "name": "Global News",
-                "url": "https://globalnews.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "2af6cf3fa1e0108bc11ffcf019c02e61",
-            "title": "Texas to cut off state funding for Flock cameras, Abbott office says",
-            "description": "The move could affect Dallas and other cities using the AI-powered cameras as scrutiny grows over misuse and privacy.",
-            "content": "Chase Rogers covers the Dallas Police Department, Dallas Fire-Rescue, and broader public safety issues in Dallas. He grew up in Granbury and studied journalism at Texas State University in San Marcos. Before joining The News, he reported for the Aust... [269 chars]",
-            "url": "https://www.dallasnews.com/news/politics/article/texas-cut-state-funding-flock-cameras-abbott-22408466.php",
-            "image": "https://s.hdnux.com/photos/01/66/44/33/31082222/3/rawImage.jpg",
-            "publishedAt": "2026-08-29T00:17:02Z",
-            "lang": "en",
-            "source": {
-                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
-                "name": "The Dallas Morning News",
-                "url": "https://www.dallasnews.com",
+                "id": "8de9e028dd6b2658274a9cdbe23fd378",
+                "name": "Kalispell Inter Lake",
+                "url": "https://dailyinterlake.com",
                 "country": "us"
             }
         },
         {
-            "id": "1a03f6716d84a3697d988f8ead0bd387",
-            "title": "Microsoft Is Significantly Behind Its Own Targets For AI Chip Deployment: Report",
-            "description": "Despite committing billions annually to expand data center capacity, Microsoft sources say the company's total chip count has barely moved over the past year.",
-            "content": "A Guardian investigation published this week has cast fresh doubt on the pact of enterprise AI adoption, finding that Microsoft is significantly behind its own targets for AI chip deployment across its global data centers.\nDespite committing billions... [5791 chars]",
-            "url": "https://www.ibtimes.com/microsoft-significantly-behind-its-own-targets-ai-chip-deployment-report-3806930",
-            "image": "https://d.ibtimes.com/en/full/4629954/microsoft.jpg",
-            "publishedAt": "2026-08-29T00:03:05Z",
+            "id": "afc2991417a90ab5b49502b5d53e5dd3",
+            "title": "AI in schools: Whangārei teacher warns of harm to students’ critical thinking",
+            "description": "A Northland high school teacher has written to the Government with concerns artificial intelligence in schools is “robbing” students of critical thinking...",
+            "content": "“It’s taking all the cognitive load and kids just copy the answers straight in.”\nA recent Education Review Office [ERO] report found that while AI has become a fixture in New Zealand classrooms, more than half of teachers believe it is harming studen... [3789 chars]",
+            "url": "https://www.nzherald.co.nz/nz/education/ai-in-schools-whangarei-teacher-warns-of-harm-to-students-critical-thinking/premium/JSMZCNHEJVFU5NJRQOY5WHHHGQ/",
+            "image": "https://www.nzherald.co.nz/resizer/v2/LF4ARLYZDVB4RAXAZCE5HPYHPE.JPG?auth=1162041c24a4472c819133c571d2882d1198c4c9f7aa19cbdb5c57bd59190899&width=1200&height=675&quality=70&focal=5255%2C2137&smart=false",
+            "publishedAt": "2026-08-30T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
+                "id": "321f3fa90dde0946a7b4a17731c0314d",
+                "name": "The New Zealand Herald",
+                "url": "https://www.nzherald.co.nz",
+                "country": "nz"
+            }
+        },
+        {
+            "id": "34ceae10d83415b6a95967959b097bfe",
+            "title": "What Happened To The So-Called AI Job Apocalypse?",
+            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+            "content": "Authored by Joe Bertolami via RealClearMarkets,\nA recent report from Stanford reviewed the latest employment data and found that, so far, AI has not resulted in large scale job destruction. Meanwhile, new hiring data from the Economic Times reveals t... [6174 chars]",
+            "url": "https://www.zerohedge.com/markets/what-happened-so-called-ai-job-apocalypse",
+            "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-08/709320.jpeg_80.jpg?h=45416f4b&itok=hJM09HD7",
+            "publishedAt": "2026-08-29T23:50:00Z",
+            "lang": "en",
+            "source": {
+                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+                "name": "ZeroHedge",
+                "url": "https://www.zerohedge.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0e2a30842f94a8a1d37c0a1cafe5011c",
+            "title": "Dr Ranjit performs 3D RoboLens knee surgery on 130",
+            "description": "Excelsior Correspondent JAMMU, Aug 29: A 55-year-old man weighing around 130 kg, who had been advised to reduce his weight before undergoing knee replacement surgery, has successfully undergone the procedure using an AI-powered 3D RoboLens technique at IVY Hospital in...",
+            "content": "Excelsior Correspondent\nJAMMU, Aug 29: A 55-year-old man weighing around 130 kg, who had been advised to reduce his weight before undergoing knee replacement surgery, has successfully undergone the procedure using an AI-powered 3D RoboLens technique ... [1411 chars]",
+            "url": "https://www.dailyexcelsior.com/dr-ranjit-performs-3d-robolens-knee-surgery-on-130-kg-patient/",
+            "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWMxM2NkY2YwLWE0MDEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+            "publishedAt": "2026-08-29T23:31:18Z",
+            "lang": "en",
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "6ef95e4af363981d0fef31b320a9b083",
+            "title": "Why we can’t stop solving puzzles - and why AI still can’t set them",
+            "description": "From John Spilsbury’s 1770s dissected maps to the multi-billion-dollar modern gaming industry, puzzles have evolved into a beloved global entertainment phenomenon. Crosswords, logic games, and riddles test human dexterity while providing a satisfying brain workout. Industry experts like Will Shortz and David Astle describe setting a good puzzle as crafting fine art—balancing clever wordplay, humor, and subtle misdirection to deliver that coveted aha moment",
+            "content": "In the 1940s, the New York Times (NYT) had introduced its crossword — after dismising it as a “primitive sort of mental development” two decades earlier — as a distraction in the bleak aftermath of the Pearl Harbor bombing, marking the beginning of p... [11556 chars]",
+            "url": "https://indianexpress.com/article/express-sunday-eye/crossword-puzzles-where-every-square-has-two-answers-10852326/",
+            "image": "https://images.indianexpress.com/2026/08/gett-1.jpg",
+            "publishedAt": "2026-08-29T23:30:40Z",
+            "lang": "en",
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "0d92163e990c0175ea1a5fb0a1a75b9c",
+            "title": "GTA 6 Will Have No Microtransactions or Generative AI at Launch Rockstar Says",
+            "description": "Rockstar Games has said Grand Theft Auto 6 will have no microtransactions or generative AI when it launches in November.",
+            "content": "Rockstar Games has said Grand Theft Auto 6 will have no microtransactions or generative AI when it launches in November.\nThe studio behind GTA 6 confirmed this year’s monumental sandbox release will dodge two potentially controversial practices durin... [2930 chars]",
+            "url": "https://www.europesays.com/3222393/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/08/gta-6-microtransactions-ai-1788041234368.png",
+            "publishedAt": "2026-08-29T23:13:19Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         }
