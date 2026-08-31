@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 426842,
+    "totalArticles": 427186,
     "articles": [
         {
-            "id": "bdb6d813f0913ef9702f31f431adbffa",
-            "title": "Where AI is creating jobs for humans - for a while",
-            "description": "In the fast-growing field of data annotation, workers in a small city in south India train AI to improve how it performs tasks traditionally done by people.",
-            "content": "KARUR: Evidence of the artificial intelligence (AI) boom often looks like the squat, windowless data centres that house acre after acre of hardware. But near the southern tip of India, the city of Karur is teeming with signs of AI’s ascendancy in hum... [6760 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/08/30/where-ai-is-creating-jobs-for-humans---for-a-while",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/08/29/4082589.jpg",
-            "publishedAt": "2026-08-30T01:00:00Z",
+            "id": "09f7cd84cb9b3fbfad5c092d30c3f188",
+            "title": "Blue Cloud Softech partners with Mahesh Babu Foundation for GMB Life app launch",
+            "description": "Blue Cloud Softech partners with Mahesh Babu Foundation to deploy AI-based BluHealth platform. GMB Life wellness app launched on August 31, 2026, offering contactless screening via smartphone. Future phase includes healthcare kiosks with local doctor consultations at selected locations. Company reported FY26 revenue of ₹1,002 crore, up 26% year-on-year. Association is not expected to have a material financial impact in the current fiscal year.",
+            "content": "Blue Cloud Softech Solutions has entered a technology association with the Mahesh Babu Foundation to deploy its AI-integrated BluHealth platform for community healthcare initiatives. The partnership marks the company’s expansion into preventive scree... [6133 chars]",
+            "url": "https://scanx.trade/stock-market-news/companies/blue-cloud-softech-partners-mahesh-babu-foundation-gmb-life-app-launch/49692745",
+            "image": "https://news-images.dhan.co/blue-cloud-softech-partners-mahesh-babu-foundation-gmb-life-app-launch.jpg",
+            "publishedAt": "2026-08-31T03:32:33Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "ee844a4f1eb3d94144b71f537ac83b8b",
-            "title": "Who Will Teach AI to Understand India?",
-            "description": "Sanskrit and computers are not a new romance. For more than three decades, scholars in India and elsewhere have been working on Sanskrit computational linguistics",
-            "content": "There is a delicious irony in the story of Sanskrit. In the land of its origin, it is summoned either for ceremonial obeisance or political combat around caste and religion. But thousands of kilometres away, in European universities, it has for two c... [5976 chars]",
-            "url": "https://www.newindianexpress.com/magazine/2026/Aug/30/who-will-teach-ai-to-understand-india",
-            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-27%2Fv941ueqo%2F30-LEAD-ILLUSTRATION-2026034734.JPG?rect=0%2C52%2C1890%2C992&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-08-30T00:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
+                "id": "f746366686e467440a63dd26dbb72053",
+                "name": "scanx.trade",
+                "url": "https://scanx.trade",
                 "country": "in"
             }
         },
         {
-            "id": "cb00d254e14e55b6aa8fa7d974607eaa",
-            "title": "Andhra CM N Chandrababu Naidu launches AI-powered platform for CAs and MSMEs",
-            "description": "Andhra Pradesh Chief Minister N Chandrababu Naidu launched Pramaan OS, an AI-powered operating system for CA firms and MSMEs. The platform, developed by Pramanique Fintech Pvt Ltd, offers AI-driven accounting automation, compliance management, and information security. Naidu praised its capabilities and potential for national expansion.",
-            "content": "Cities 46 min ago\nThis is an AI assisted summary.\nAndhra Pradesh Chief Minister N Chandrababu Naidu launched Pramaan OS, an AI-powered operating system for CA firms and MSMEs. The platform, developed by Pramanique Fintech Pvt Ltd, offers AI-driven ac... [21516 chars]",
-            "url": "https://indianexpress.com/shorts/cities/hyderabad/andhra-cm-n-chandrababu-naidu-launches-ai-powered-platform-for-cas-and-msmes-10855179/",
-            "image": "https://images.indianexpress.com/2026/08/Chandrababu-Naidu-express-archives_20260830001719.jpg",
-            "publishedAt": "2026-08-30T00:18:21Z",
+            "id": "f34a0edbd58af3ab4ba681e8d34f0f3e",
+            "title": "OpenAI Ends Cursor Partnership Over SpaceX Buyout; Elon Musk Says 'I Couldn't Care Less'",
+            "description": "OpenAI has told Cursor it will wind down direct access to its AI models, with November 12 proposed as the cut-off date. The decision follows SpaceX’s acquisition of Cursor parent Anysphere and reflects OpenAI’s concerns over contract compliance. Musk hit back on X, calling Sam Altman and Greg Brockman untrustworthy.",
+            "content": "OpenAI has told SpaceX it will wind down direct access to its AI models inside the coding tool Cursor, setting a proposed cut-off date of November 12. The move follows SpaceX's acquisition of Cursor's parent company, Anysphere, and has reignited the ... [2785 chars]",
+            "url": "https://www.freepressjournal.in/tech/openai-ends-cursor-partnership-over-spacex-buyout-elon-musk-says-i-couldnt-care-less",
+            "image": "https://media.assettype.com/freepressjournal/2026-08-31/7kuk3dcm/openaicursor.png",
+            "publishedAt": "2026-08-31T03:28:15Z",
             "lang": "en",
             "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
                 "country": "in"
             }
         },
         {
-            "id": "db4b2ee8640a79d935e807359da5ce25",
-            "title": "Andhra CM N Chandrababu Naidu launches AI-powered platform for CAs and MSMEs",
-            "description": "The company described its journey as “Amaravati to America”. It said the journey began with interactions with hundreds of CAs at DAKSHA, a CA conference organised by the Southern India Regional Council of ICAI in Guntur on July 7 and 8, before extending across India.",
-            "content": "Andhra Pradesh Chief Minister N Chandrababu Naidu on August 27 launched Pramaan OS, an AI-powered practice operating system for Chartered Accountant firms and the MSMEs they serve.\nAccording to Pramanique Fintech Pvt Ltd, the Andhra Pradesh-incorpora... [536 chars]",
-            "url": "https://indianexpress.com/article/cities/hyderabad/andhra-cm-n-chandrababu-naidu-launches-ai-powered-platform-for-cas-and-msmes-10855179/",
-            "image": "https://images.indianexpress.com/2026/08/naidu-ai.jpg",
-            "publishedAt": "2026-08-30T00:17:35Z",
+            "id": "f0cac803f1f8495c90e21e318ead577d",
+            "title": "Google unveils Gemini 3.7 Flash with enhanced coding power",
+            "description": "Google has launched Gemini 3.7 Flash, shortly after releasing Gemini 3.6 Flash, with the company saying the new model offers faster coding and AI agent capabilities. Google is also offering an introductory token promotion with more than half off the regular price.",
+            "content": "Google has launched Gemini 3.7 Flash, shortly after releasing Gemini 3.6 Flash, with the company saying the new model offers faster coding and AI agent capabilities. Google is also offering an introductory token promotion with more than half off the ... [1076 chars]",
+            "url": "https://www.bangkokpost.com/life/tech/3311130/google-unveils-gemini-37-flash-with-enhanced-coding-power",
+            "image": "https://static.bangkokpost.com/media/content/20260831/c2_3311130.jpg",
+            "publishedAt": "2026-08-31T03:27:00Z",
             "lang": "en",
             "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            }
+        },
+        {
+            "id": "b29661dc145ba615ec805cc006f71da2",
+            "title": "Trump says Iran’s Kharg Island is ‘being blown to smithereens’, shares AI video",
+            "description": "Trump posted an AI-generated video depicting explosions on Iran’s oil hub Kharg Island but gave no details on any actual US attack.",
+            "content": "US President Donald Trump on Sunday shared a video on his Truth Social platform depicting Iran’s Kharg Island being destroyed in a series of explosions, while claiming the strategic energy hub was “being blown to smithereens”.\n“Kharg Island being blo... [2434 chars]",
+            "url": "https://www.moneycontrol.com/world/trump-says-iran-s-kharg-island-is-being-blown-to-smithereens-shares-ai-video-article-14018614.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260407105543_khargisland.png",
+            "publishedAt": "2026-08-31T03:26:05Z",
+            "lang": "en",
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
                 "country": "in"
             }
         },
         {
-            "id": "6413b682fc8370818f83cf4978b69c46",
-            "title": "University of Montana to host AI summit",
-            "description": "The Montana AI Summit is a free event bringing together University leaders, government officials, technology innovators and other individuals interested in how artificial intelligence is shaping Montana.",
-            "content": "The University of Montana will host the Montana AI Summit, a first-of-its-kind statewide conference on artificial intelligence and its future in Montana, from Tuesday through Wednesday, Sept. 1-2, in the University Center Ballroom. There also will be... [3621 chars]",
-            "url": "https://dailyinterlake.com/news/2026/aug/30/university-of-montana-to-host-ai-summit/",
-            "image": "https://hagadone.media.clients.ellingtoncms.com/static-4/dailyinterlake/images/default-social.jpg?v=2",
-            "publishedAt": "2026-08-30T00:00:00Z",
+            "id": "7e2ee83df8e6ac8f865769930a88a5a2",
+            "title": "MBA vs engineers: The 52% pay gap that could change your career choice",
+            "description": "The future of work is moving beyond the old engineering-versus-MBA divide. As AI takes over more technical tasks, the premium is shifting towards people who can connect technology with business, make sound decisions and lead through change. The real advantage may belong to those who can bridge both worlds.",
+            "content": "For decades, engineering was India’s closest thing to a guaranteed ticket to the middle class. But today, MBA graduates are commanding higher campus placement salaries than engineering graduates, reflecting a broader shift in what companies seek.\nAs ... [10092 chars]",
+            "url": "https://www.indiatoday.in/jobs/story/mba-vs-engineers-the-52-pay-gap-that-could-change-your-career-choice-educ-2982355-2026-08-31",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/mba-vs-engineers-the-52-pay-gap-that-could-change-your-career-choice-ai-generated-image-303758654-16x9_0.jpg?VersionId=UrRErF9gtYiozO9ePJZ_OVhSQXsrOmgv",
+            "publishedAt": "2026-08-31T03:25:33Z",
             "lang": "en",
             "source": {
-                "id": "8de9e028dd6b2658274a9cdbe23fd378",
-                "name": "Kalispell Inter Lake",
-                "url": "https://dailyinterlake.com",
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "e7ab86f8b5deee17a1a6b2d80430a963",
+            "title": "Minnesota man invents AI-powered machine to kill weeds",
+            "description": "A Minnesota inventor has built a weed-killing machine that uses artificial intelligence, robotics, and steam — no chemicals required.",
+            "content": "A Minnesota inventor has built a weed-killing machine that uses artificial intelligence, robotics, and steam — no chemicals required.\nAI-powered weed killer uses steam, not chemicals\nWhat we know:\nMark Boysen modified a lawn mower into the device, wh... [2478 chars]",
+            "url": "https://www.fox9.com/news/minnesota-man-invents-ai-powered-machine-kill-weeds",
+            "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/08/1200/630/image2026-08-30-21h00m50s546.jpg?ve=1&tl=1",
+            "publishedAt": "2026-08-31T03:21:50Z",
+            "lang": "en",
+            "source": {
+                "id": "911cd82c5544b3cdb8eaa024eb17b8b5",
+                "name": "FOX 9",
+                "url": "https://www.fox9.com",
                 "country": "us"
             }
         },
         {
-            "id": "afc2991417a90ab5b49502b5d53e5dd3",
-            "title": "AI in schools: Whangārei teacher warns of harm to students’ critical thinking",
-            "description": "A Northland high school teacher has written to the Government with concerns artificial intelligence in schools is “robbing” students of critical thinking...",
-            "content": "“It’s taking all the cognitive load and kids just copy the answers straight in.”\nA recent Education Review Office [ERO] report found that while AI has become a fixture in New Zealand classrooms, more than half of teachers believe it is harming studen... [3789 chars]",
-            "url": "https://www.nzherald.co.nz/nz/education/ai-in-schools-whangarei-teacher-warns-of-harm-to-students-critical-thinking/premium/JSMZCNHEJVFU5NJRQOY5WHHHGQ/",
-            "image": "https://www.nzherald.co.nz/resizer/v2/LF4ARLYZDVB4RAXAZCE5HPYHPE.JPG?auth=1162041c24a4472c819133c571d2882d1198c4c9f7aa19cbdb5c57bd59190899&width=1200&height=675&quality=70&focal=5255%2C2137&smart=false",
-            "publishedAt": "2026-08-30T00:00:00Z",
+            "id": "085efd3b623977b6e067dddd99628d9e",
+            "title": "Why London’s AI engineers are worth £360,000+",
+            "description": "Jack & Jill co-founder Saaras Mehan just hiked the minimum salary for engineers from £240,000 to £360,000. He says that's what London’s AI talent is worth.",
+            "content": "Jack & Jill co-founder Saaras Mehan just hiked the minimum salary for engineers from £240,000 to £360,000. He says that’s what London’s AI talent is worth\nWe recently raised our minimum salary for engineers to £360,000. Nine months earlier, we had ra... [3371 chars]",
+            "url": "https://www.cityam.com/why-londons-ai-engineers-are-worth-360000/",
+            "image": "https://www.cityam.com/wp-content/uploads/2026/08/Laptop-workers-e1787855907917.jpg",
+            "publishedAt": "2026-08-31T03:21:00Z",
             "lang": "en",
             "source": {
-                "id": "321f3fa90dde0946a7b4a17731c0314d",
-                "name": "The New Zealand Herald",
-                "url": "https://www.nzherald.co.nz",
-                "country": "nz"
+                "id": "996b4ad0804caad8f61702c5d7917ec0",
+                "name": "City A.M.",
+                "url": "https://www.cityam.com",
+                "country": "gb"
             }
         },
         {
-            "id": "34ceae10d83415b6a95967959b097bfe",
-            "title": "What Happened To The So-Called AI Job Apocalypse?",
-            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-            "content": "Authored by Joe Bertolami via RealClearMarkets,\nA recent report from Stanford reviewed the latest employment data and found that, so far, AI has not resulted in large scale job destruction. Meanwhile, new hiring data from the Economic Times reveals t... [6174 chars]",
-            "url": "https://www.zerohedge.com/markets/what-happened-so-called-ai-job-apocalypse",
-            "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-08/709320.jpeg_80.jpg?h=45416f4b&itok=hJM09HD7",
-            "publishedAt": "2026-08-29T23:50:00Z",
+            "id": "02a78c934592aa1d43b3f7d56a3c3f3b",
+            "title": "CBTW Brings Governed AI Engineering to Australian Businesses Through APAC Delivery Teams",
+            "description": "SYDNEY, Aug. 28, 2026 /PRNewswire/ -- CBTW, a global technology solutions company operating across 21 countries, has standardised its governed AI engineering model across its Asia-Pacific delivery teams, embedding common AI-assisted workflows, reusable engineering accelerators, human review and client-approved processing environments into regional engineering engagements.",
+            "content": "SYDNEY, Aug. 28, 2026 /PRNewswire/ -- CBTW, a global technology solutions company operating across 21 countries, has standardised its governed AI engineering model across its Asia-Pacific delivery teams, embedding common AI-assisted workflows, reusab... [4298 chars]",
+            "url": "https://www.manilatimes.net/2026/08/31/tmt-newswire/pr-newswire/cbtw-brings-governed-ai-engineering-to-australian-businesses-through-apac-delivery-teams/2414821",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/31/1195708.jpg",
+            "publishedAt": "2026-08-31T03:19:36Z",
             "lang": "en",
             "source": {
-                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
-                "name": "ZeroHedge",
-                "url": "https://www.zerohedge.com",
-                "country": "us"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "0e2a30842f94a8a1d37c0a1cafe5011c",
-            "title": "Dr Ranjit performs 3D RoboLens knee surgery on 130",
-            "description": "Excelsior Correspondent JAMMU, Aug 29: A 55-year-old man weighing around 130 kg, who had been advised to reduce his weight before undergoing knee replacement surgery, has successfully undergone the procedure using an AI-powered 3D RoboLens technique at IVY Hospital in...",
-            "content": "Excelsior Correspondent\nJAMMU, Aug 29: A 55-year-old man weighing around 130 kg, who had been advised to reduce his weight before undergoing knee replacement surgery, has successfully undergone the procedure using an AI-powered 3D RoboLens technique ... [1411 chars]",
-            "url": "https://www.dailyexcelsior.com/dr-ranjit-performs-3d-robolens-knee-surgery-on-130-kg-patient/",
-            "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWMxM2NkY2YwLWE0MDEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-            "publishedAt": "2026-08-29T23:31:18Z",
+            "id": "22da8473d65cdebe2beb377696bfbf20",
+            "title": "MOEA's DoIT Showcases 31 Innovative Technologies at Meet Greater South",
+            "description": "AI Expands Across Industries as Technology Drives Industrial Upgrading in Central and Southern Taiwan",
+            "content": "AI Expands Across Industries as Technology Drives Industrial Upgrading in Central and Southern Taiwan\nTAIPEI, Aug. 31, 2026 /PRNewswire/ -- On August 28, the Department of Industrial Technology (DoIT), Ministry of Economic Affairs (MOEA), unveiled 31... [3825 chars]",
+            "url": "https://www.manilatimes.net/2026/08/31/tmt-newswire/pr-newswire/moeas-doit-showcases-31-innovative-technologies-at-meet-greater-south/2414820",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/31/1195706.jpg",
+            "publishedAt": "2026-08-31T03:19:35Z",
             "lang": "en",
             "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "6ef95e4af363981d0fef31b320a9b083",
-            "title": "Why we can’t stop solving puzzles - and why AI still can’t set them",
-            "description": "From John Spilsbury’s 1770s dissected maps to the multi-billion-dollar modern gaming industry, puzzles have evolved into a beloved global entertainment phenomenon. Crosswords, logic games, and riddles test human dexterity while providing a satisfying brain workout. Industry experts like Will Shortz and David Astle describe setting a good puzzle as crafting fine art—balancing clever wordplay, humor, and subtle misdirection to deliver that coveted aha moment",
-            "content": "In the 1940s, the New York Times (NYT) had introduced its crossword — after dismising it as a “primitive sort of mental development” two decades earlier — as a distraction in the bleak aftermath of the Pearl Harbor bombing, marking the beginning of p... [11556 chars]",
-            "url": "https://indianexpress.com/article/express-sunday-eye/crossword-puzzles-where-every-square-has-two-answers-10852326/",
-            "image": "https://images.indianexpress.com/2026/08/gett-1.jpg",
-            "publishedAt": "2026-08-29T23:30:40Z",
+            "id": "3b7895ad72d1157840a770f59eac2ce8",
+            "title": "Taiwan outpaces asia average in workplace AI adoption: 96% of professionals use AI at work, skills confidence ranks highest across 10 markets",
+            "description": "Nearly 8 in 10 professionals see AI as a career opportunity, not a threat",
+            "content": "Nearly 8 in 10 professionals see AI as a career opportunity, not a threat\n96% of professionals in Taiwan are already using AI at work, above the Asia average of 93%; 79% believe AI will have a positive impact on their future career opportunities, com... [9293 chars]",
+            "url": "https://www.manilatimes.net/2026/08/31/tmt-newswire/media-outreach-newswire/taiwan-outpaces-asia-average-in-workplace-ai-adoption-96-of-professionals-use-ai-at-work-skills-confidence-ranks-highest-across-10-markets/2414819",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/31/1195704.png",
+            "publishedAt": "2026-08-31T03:14:13Z",
             "lang": "en",
             "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "0d92163e990c0175ea1a5fb0a1a75b9c",
-            "title": "GTA 6 Will Have No Microtransactions or Generative AI at Launch Rockstar Says",
-            "description": "Rockstar Games has said Grand Theft Auto 6 will have no microtransactions or generative AI when it launches in November.",
-            "content": "Rockstar Games has said Grand Theft Auto 6 will have no microtransactions or generative AI when it launches in November.\nThe studio behind GTA 6 confirmed this year’s monumental sandbox release will dodge two potentially controversial practices durin... [2930 chars]",
-            "url": "https://www.europesays.com/3222393/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/08/gta-6-microtransactions-ai-1788041234368.png",
-            "publishedAt": "2026-08-29T23:13:19Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         }
     ]
