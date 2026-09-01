@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 427186,
+    "totalArticles": 427984,
     "articles": [
         {
-            "id": "09f7cd84cb9b3fbfad5c092d30c3f188",
-            "title": "Blue Cloud Softech partners with Mahesh Babu Foundation for GMB Life app launch",
-            "description": "Blue Cloud Softech partners with Mahesh Babu Foundation to deploy AI-based BluHealth platform. GMB Life wellness app launched on August 31, 2026, offering contactless screening via smartphone. Future phase includes healthcare kiosks with local doctor consultations at selected locations. Company reported FY26 revenue of ₹1,002 crore, up 26% year-on-year. Association is not expected to have a material financial impact in the current fiscal year.",
-            "content": "Blue Cloud Softech Solutions has entered a technology association with the Mahesh Babu Foundation to deploy its AI-integrated BluHealth platform for community healthcare initiatives. The partnership marks the company’s expansion into preventive scree... [6133 chars]",
-            "url": "https://scanx.trade/stock-market-news/companies/blue-cloud-softech-partners-mahesh-babu-foundation-gmb-life-app-launch/49692745",
-            "image": "https://news-images.dhan.co/blue-cloud-softech-partners-mahesh-babu-foundation-gmb-life-app-launch.jpg",
-            "publishedAt": "2026-08-31T03:32:33Z",
+            "id": "4a7aed82136fc490308c78f6395a9e23",
+            "title": "New Apple CEO John Ternus inherits its hardware empire - and its AI problem",
+            "description": "SAN FRANCISCO, Sept 1 — John Ternus takes over as Apple’s chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in...",
+            "content": "SAN FRANCISCO, Sept 1 — John Ternus takes over as Apple’s chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence.\nOne of his biggest challenges will be balancing the co... [4106 chars]",
+            "url": "https://www.malaymail.com/news/tech-gadgets/2026/09/01/new-apple-ceo-john-ternus-inherits-its-hardware-empire-and-its-ai-problem/233445",
+            "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/01/360009.jpg",
+            "publishedAt": "2026-09-01T00:46:55Z",
             "lang": "en",
             "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
+                "id": "cc589abcee543815a82a8b2856ebe9ed",
+                "name": "Malay Mail",
+                "url": "https://www.malaymail.com",
+                "country": "my"
+            }
+        },
+        {
+            "id": "c72d89aad65c3e22f030a0b7dcfe1993",
+            "title": "KuCoin Australia MD James Pinch at Crypto Winter 2026: Trust and Familiarity Will Shape the Future of Agentic Commerce",
+            "description": "**media[1197135]**QUEENSTOWN, New Zealand, Sept. 1, 2026 /PRNewswire/ -- James Pinch, Managing Director of KuCoin in Australia, spoke at Crypto Winter 2026 in Queenstown, on a panel titled 'Stablecoins and Agentic AI: powering the future of online commerce.' Moderated by Jasmine Wilson, the session examined what agentic finance looks like in practice and what must be true for it to scale safely. Pinch said the strongest live use of agent-initiated stablecoin payments is still narrow and mostly invisible: machines buying inputs from other machines, in small amounts and at high frequency, with no person involved. What is new, he argued, is not speed but the transaction models these payments enable.",
+            "content": "QUEENSTOWN, New Zealand, Sept. 1, 2026 /PRNewswire/ -- James Pinch, Managing Director of KuCoin in Australia, spoke at Crypto Winter 2026 in Queenstown, on a panel titled \"Stablecoins and Agentic AI: powering the future of online commerce.\" Moderated... [2762 chars]",
+            "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/pr-newswire/kucoin-australia-md-james-pinch-at-crypto-winter-2026-trust-and-familiarity-will-shape-the-future-of-agentic-commerce/2415542",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/01/1197134.jpg",
+            "publishedAt": "2026-09-01T00:25:00Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "ecd0198f75f7760a6cb74c6d4a06a305",
+            "title": "Baidu Announces Dual-Primary Listing on the Main Board of The Stock Exchange of Hong Kong Limited",
+            "description": "BEIJING, Sept. 1, 2026 /PRNewswire/ -- Baidu, Inc. ('Baidu' or the 'Company') (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)), a leading AI company with strong Internet foundation, today announced that the Company's voluntary conversion of its secondary listing status to dual-primary listing on the Main Board of The Stock Exchange of Hong Kong Limited (the 'Hong Kong Stock Exchange') became effective today. Baidu is now a dual-primary listed company on the Hong Kong Stock Exchange in Hong Kong SAR and the Nasdaq Global Select Market in the United States.",
+            "content": "BEIJING, Sept. 1, 2026 /PRNewswire/ -- Baidu, Inc. (\"Baidu\" or the \"Company\") (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)), a leading AI company with strong Internet foundation, today announced that the Company's voluntary convers... [3426 chars]",
+            "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/pr-newswire/baidu-announces-dual-primary-listing-on-the-main-board-of-the-stock-exchange-of-hong-kong-limited/2415541",
+            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-09-01T00:24:59Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "90df6a91079db3a48aee2eb5a067563b",
+            "title": "The battle for AI hegemony",
+            "description": "The rivalry is creating a new geopolitical layer, but nobody wants a hegemon to decide their future",
+            "content": "The Chinese pitch was well thought through. Their articulation of this battle-of-giants hinges around expensive, less accessible, closed-source models (grappling with breach issues) versus the general public availability of their own open-source mode... [5429 chars]",
+            "url": "https://www.financialexpress.com/opinion/the-battle-for-ai-hegemony/4329377/",
+            "image": "https://images.financialexpressdigital.com/2026/09/us-china-ai-race-global-artificial-intelligence-technology-order.jpg.jpg",
+            "publishedAt": "2026-09-01T00:21:25Z",
+            "lang": "en",
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "f34a0edbd58af3ab4ba681e8d34f0f3e",
-            "title": "OpenAI Ends Cursor Partnership Over SpaceX Buyout; Elon Musk Says 'I Couldn't Care Less'",
-            "description": "OpenAI has told Cursor it will wind down direct access to its AI models, with November 12 proposed as the cut-off date. The decision follows SpaceX’s acquisition of Cursor parent Anysphere and reflects OpenAI’s concerns over contract compliance. Musk hit back on X, calling Sam Altman and Greg Brockman untrustworthy.",
-            "content": "OpenAI has told SpaceX it will wind down direct access to its AI models inside the coding tool Cursor, setting a proposed cut-off date of November 12. The move follows SpaceX's acquisition of Cursor's parent company, Anysphere, and has reignited the ... [2785 chars]",
-            "url": "https://www.freepressjournal.in/tech/openai-ends-cursor-partnership-over-spacex-buyout-elon-musk-says-i-couldnt-care-less",
-            "image": "https://media.assettype.com/freepressjournal/2026-08-31/7kuk3dcm/openaicursor.png",
-            "publishedAt": "2026-08-31T03:28:15Z",
+            "id": "f208cf0583e225035865a6c73e01b07e",
+            "title": "ITC Infotech to buy 22% stake in Happiest Minds",
+            "description": "Happiest Minds Technologies founder Ashok Soota sells 22.1% stake to ITC Infotech for Rs 1,329.72 crore, with a proposed merger aiming to create a $1 billion AI-driven global tech enterprise by FY28.",
+            "content": "According to an exchange filing, ITC Infotech will acquire a total of 3,36,61,700 equity shares of Happiest Minds in two tranches.\nIn the first tranche, ITC Infotech will acquire 16.75 million shares, representing an 11% stake, at Rs 390 a share for ... [2408 chars]",
+            "url": "https://www.financialexpress.com/business/industry-itc-infotech-to-buy-22-stake-in-happiest-minds-4329373/",
+            "image": "https://images.financialexpressdigital.com/2026/09/ITCHappiestMinds_20260901001623.jpg",
+            "publishedAt": "2026-09-01T00:17:53Z",
             "lang": "en",
             "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "f0cac803f1f8495c90e21e318ead577d",
-            "title": "Google unveils Gemini 3.7 Flash with enhanced coding power",
-            "description": "Google has launched Gemini 3.7 Flash, shortly after releasing Gemini 3.6 Flash, with the company saying the new model offers faster coding and AI agent capabilities. Google is also offering an introductory token promotion with more than half off the regular price.",
-            "content": "Google has launched Gemini 3.7 Flash, shortly after releasing Gemini 3.6 Flash, with the company saying the new model offers faster coding and AI agent capabilities. Google is also offering an introductory token promotion with more than half off the ... [1076 chars]",
-            "url": "https://www.bangkokpost.com/life/tech/3311130/google-unveils-gemini-37-flash-with-enhanced-coding-power",
-            "image": "https://static.bangkokpost.com/media/content/20260831/c2_3311130.jpg",
-            "publishedAt": "2026-08-31T03:27:00Z",
+            "id": "655ed362bac66e1a2d39c0e8d960d33e",
+            "title": "Executive Q&A Interview Series: 29% of cloud spend is wasted, and AI is the reason the number went up - Tim Jenkinson, Founder and CEO, Fitzroy IT",
+            "description": "Cloud waste has been sliding gently downwards for 5 years. This year it turned around. Fitzroy IT's Tim Jenkinson and Daniel Robinson have the details, and the answers to your...",
+            "content": "Cloud waste has been sliding gently downwards for 5 years. This year it turned around. Fitzroy IT's Tim Jenkinson and Daniel Robinson have the details, and the answers to your questions!\nFlexera's 2026 State of the Cloud Report, built on responses fr... [22452 chars]",
+            "url": "https://itwire.com/business-it-news/data/executive-q-and-a-interview-series-29-of-cloud-spend-is-wasted-and-ai-is-the-reason-the-number-went-up-tim-jenkinson-founder-and-ceo-fitzroy-it",
+            "image": "https://media.itwire.com/2026/09/01/executive-q-and-a-interview-series-29-of-cloud-spend-is-wasted-and-ai-is-the-reason-the-number-went-up-tim-jenkinson-founder-and-ceo-fitzroy-it-a8288c4773ad.webp",
+            "publishedAt": "2026-09-01T00:16:32Z",
             "lang": "en",
             "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
             }
         },
         {
-            "id": "b29661dc145ba615ec805cc006f71da2",
-            "title": "Trump says Iran’s Kharg Island is ‘being blown to smithereens’, shares AI video",
-            "description": "Trump posted an AI-generated video depicting explosions on Iran’s oil hub Kharg Island but gave no details on any actual US attack.",
-            "content": "US President Donald Trump on Sunday shared a video on his Truth Social platform depicting Iran’s Kharg Island being destroyed in a series of explosions, while claiming the strategic energy hub was “being blown to smithereens”.\n“Kharg Island being blo... [2434 chars]",
-            "url": "https://www.moneycontrol.com/world/trump-says-iran-s-kharg-island-is-being-blown-to-smithereens-shares-ai-video-article-14018614.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260407105543_khargisland.png",
-            "publishedAt": "2026-08-31T03:26:05Z",
+            "id": "d0835bc57a2bc08a66ffd09207bc8cf9",
+            "title": "Meek Mill Praises AI As A Learning Tool And Sparks Backlash",
+            "description": "Meek Mill said AI explains things better than people, prompting backlash amid ongoing concerns about copyright and environmental impact.",
+            "content": "A glowing endorsement of artificial intelligence has put Meek Mill in the middle of a debate that reaches well beyond whatever he has been asking a chatbot.\n“Nothing teaches me better than ai..... I learnt things that I've been asking people for year... [2306 chars]",
+            "url": "https://www.hotnewhiphop.com/1007986-meek-mill-learning-ai",
+            "image": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/08/meek-scaled-e1788217415985.jpg",
+            "publishedAt": "2026-09-01T00:15:00Z",
             "lang": "en",
             "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "7e2ee83df8e6ac8f865769930a88a5a2",
-            "title": "MBA vs engineers: The 52% pay gap that could change your career choice",
-            "description": "The future of work is moving beyond the old engineering-versus-MBA divide. As AI takes over more technical tasks, the premium is shifting towards people who can connect technology with business, make sound decisions and lead through change. The real advantage may belong to those who can bridge both worlds.",
-            "content": "For decades, engineering was India’s closest thing to a guaranteed ticket to the middle class. But today, MBA graduates are commanding higher campus placement salaries than engineering graduates, reflecting a broader shift in what companies seek.\nAs ... [10092 chars]",
-            "url": "https://www.indiatoday.in/jobs/story/mba-vs-engineers-the-52-pay-gap-that-could-change-your-career-choice-educ-2982355-2026-08-31",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/mba-vs-engineers-the-52-pay-gap-that-could-change-your-career-choice-ai-generated-image-303758654-16x9_0.jpg?VersionId=UrRErF9gtYiozO9ePJZ_OVhSQXsrOmgv",
-            "publishedAt": "2026-08-31T03:25:33Z",
-            "lang": "en",
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "e7ab86f8b5deee17a1a6b2d80430a963",
-            "title": "Minnesota man invents AI-powered machine to kill weeds",
-            "description": "A Minnesota inventor has built a weed-killing machine that uses artificial intelligence, robotics, and steam — no chemicals required.",
-            "content": "A Minnesota inventor has built a weed-killing machine that uses artificial intelligence, robotics, and steam — no chemicals required.\nAI-powered weed killer uses steam, not chemicals\nWhat we know:\nMark Boysen modified a lawn mower into the device, wh... [2478 chars]",
-            "url": "https://www.fox9.com/news/minnesota-man-invents-ai-powered-machine-kill-weeds",
-            "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/08/1200/630/image2026-08-30-21h00m50s546.jpg?ve=1&tl=1",
-            "publishedAt": "2026-08-31T03:21:50Z",
-            "lang": "en",
-            "source": {
-                "id": "911cd82c5544b3cdb8eaa024eb17b8b5",
-                "name": "FOX 9",
-                "url": "https://www.fox9.com",
+                "id": "abab8062417cb9b02ead633cc01bfb99",
+                "name": "HotNewHipHop",
+                "url": "https://www.hotnewhiphop.com",
                 "country": "us"
             }
         },
         {
-            "id": "085efd3b623977b6e067dddd99628d9e",
-            "title": "Why London’s AI engineers are worth £360,000+",
-            "description": "Jack & Jill co-founder Saaras Mehan just hiked the minimum salary for engineers from £240,000 to £360,000. He says that's what London’s AI talent is worth.",
-            "content": "Jack & Jill co-founder Saaras Mehan just hiked the minimum salary for engineers from £240,000 to £360,000. He says that’s what London’s AI talent is worth\nWe recently raised our minimum salary for engineers to £360,000. Nine months earlier, we had ra... [3371 chars]",
-            "url": "https://www.cityam.com/why-londons-ai-engineers-are-worth-360000/",
-            "image": "https://www.cityam.com/wp-content/uploads/2026/08/Laptop-workers-e1787855907917.jpg",
-            "publishedAt": "2026-08-31T03:21:00Z",
+            "id": "7e4389a5c69a810de305cf9504968edb",
+            "title": "The next leap: The biggest gains will come from execution from AI",
+            "description": "India is shaping the AI race by focusing on scalable deployment in industries, leveraging its vast developer base, digital infrastructure, and ecosystem to create significant global economic value.",
+            "content": "Someone asked me at a conference recently whether India is winning or losing the AI race. I think that is the wrong question. If the race is defined by who builds the biggest or most powerful frontier model, it will inevitably be a contest among a ha... [3536 chars]",
+            "url": "https://www.financialexpress.com/opinion/the-next-leap-the-biggest-gains-will-come-from-execution-from-ai/4329362/",
+            "image": "https://images.financialexpressdigital.com/2026/09/JAGAHAGhjaaa3ccAcxBccc932xnnb556mmnoaa.jpg",
+            "publishedAt": "2026-09-01T00:13:49Z",
             "lang": "en",
             "source": {
-                "id": "996b4ad0804caad8f61702c5d7917ec0",
-                "name": "City A.M.",
-                "url": "https://www.cityam.com",
-                "country": "gb"
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
             }
         },
         {
-            "id": "02a78c934592aa1d43b3f7d56a3c3f3b",
-            "title": "CBTW Brings Governed AI Engineering to Australian Businesses Through APAC Delivery Teams",
-            "description": "SYDNEY, Aug. 28, 2026 /PRNewswire/ -- CBTW, a global technology solutions company operating across 21 countries, has standardised its governed AI engineering model across its Asia-Pacific delivery teams, embedding common AI-assisted workflows, reusable engineering accelerators, human review and client-approved processing environments into regional engineering engagements.",
-            "content": "SYDNEY, Aug. 28, 2026 /PRNewswire/ -- CBTW, a global technology solutions company operating across 21 countries, has standardised its governed AI engineering model across its Asia-Pacific delivery teams, embedding common AI-assisted workflows, reusab... [4298 chars]",
-            "url": "https://www.manilatimes.net/2026/08/31/tmt-newswire/pr-newswire/cbtw-brings-governed-ai-engineering-to-australian-businesses-through-apac-delivery-teams/2414821",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/31/1195708.jpg",
-            "publishedAt": "2026-08-31T03:19:36Z",
+            "id": "4439c6d6a33771b2e06c645515dc1713",
+            "title": "Anthropic resumes AI cyber evaluations after Claude hacking incidents",
+            "description": "Aug 31 (Reuters) - Anthropic said ⁠on Monday it had resumed external cybersecurity testing of ⁠AI models after deploying new safeguards, following incidents ‌last month in which Claude models accessed the internet and other systems during security evaluations.",
+            "content": "Aug 31 (Reuters) - Anthropic said ⁠on Monday it had resumed external cybersecurity testing of ⁠AI models after deploying new safeguards, following incidents ‌last month in which Claude models accessed the internet and other systems during security ev... [1400 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/01/anthropic-resumes-ai-cyber-evaluations-after-claude-hacking-incidents",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/01/4087290.jpg",
+            "publishedAt": "2026-09-01T00:01:00Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
             }
         },
         {
-            "id": "22da8473d65cdebe2beb377696bfbf20",
-            "title": "MOEA's DoIT Showcases 31 Innovative Technologies at Meet Greater South",
-            "description": "AI Expands Across Industries as Technology Drives Industrial Upgrading in Central and Southern Taiwan",
-            "content": "AI Expands Across Industries as Technology Drives Industrial Upgrading in Central and Southern Taiwan\nTAIPEI, Aug. 31, 2026 /PRNewswire/ -- On August 28, the Department of Industrial Technology (DoIT), Ministry of Economic Affairs (MOEA), unveiled 31... [3825 chars]",
-            "url": "https://www.manilatimes.net/2026/08/31/tmt-newswire/pr-newswire/moeas-doit-showcases-31-innovative-technologies-at-meet-greater-south/2414820",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/31/1195706.jpg",
-            "publishedAt": "2026-08-31T03:19:35Z",
+            "id": "209e813705ee3131e3698a0cfe219cbc",
+            "title": "RSM Malta appoints Ludwig Micallef as Director for Digital Transformation & AI",
+            "description": "RSM Malta has appointed Ludwig Micallef as Director for Digital Transformation and AI, further strengthening the firm's advisory capabilities in",
+            "content": "RSM Malta has appointed Ludwig Micallef as Director for Digital Transformation and AI, further strengthening the firm’s advisory capabilities in technology-enabled business transformation, automation, and artificial intelligence.\nThe appointment refl... [3425 chars]",
+            "url": "https://www.europesays.com/3226122/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/09/file.aspx.jpeg",
+            "publishedAt": "2026-09-01T00:00:37Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "3b7895ad72d1157840a770f59eac2ce8",
-            "title": "Taiwan outpaces asia average in workplace AI adoption: 96% of professionals use AI at work, skills confidence ranks highest across 10 markets",
-            "description": "Nearly 8 in 10 professionals see AI as a career opportunity, not a threat",
-            "content": "Nearly 8 in 10 professionals see AI as a career opportunity, not a threat\n96% of professionals in Taiwan are already using AI at work, above the Asia average of 93%; 79% believe AI will have a positive impact on their future career opportunities, com... [9293 chars]",
-            "url": "https://www.manilatimes.net/2026/08/31/tmt-newswire/media-outreach-newswire/taiwan-outpaces-asia-average-in-workplace-ai-adoption-96-of-professionals-use-ai-at-work-skills-confidence-ranks-highest-across-10-markets/2414819",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/31/1195704.png",
-            "publishedAt": "2026-08-31T03:14:13Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
             }
         }
     ]
