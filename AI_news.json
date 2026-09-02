@@ -4,144 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 427984,
+    "totalArticles": 428866,
     "articles": [
         {
-            "id": "4a7aed82136fc490308c78f6395a9e23",
-            "title": "New Apple CEO John Ternus inherits its hardware empire - and its AI problem",
-            "description": "SAN FRANCISCO, Sept 1 — John Ternus takes over as Apple’s chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in...",
-            "content": "SAN FRANCISCO, Sept 1 — John Ternus takes over as Apple’s chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence.\nOne of his biggest challenges will be balancing the co... [4106 chars]",
-            "url": "https://www.malaymail.com/news/tech-gadgets/2026/09/01/new-apple-ceo-john-ternus-inherits-its-hardware-empire-and-its-ai-problem/233445",
-            "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/01/360009.jpg",
-            "publishedAt": "2026-09-01T00:46:55Z",
+            "id": "e053098688b81fd63832e702403932fe",
+            "title": "A Technological Reckoning With No Great Answers",
+            "description": "Whatever the AI future is, we’re in it right now.",
+            "content": "One evening in early August, Sam Stowers and several neighbors packed into an apartment near San Francisco’s Alamo Square and pondered the beginning of the end.\nStowers and his guests, many of whom work in the AI industry, were gathered to watch a ne... [15671 chars]",
+            "url": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/",
+            "image": "https://cdn.theatlantic.com/thumbor/xqtuH5gcPd0n3apGAeR0r-JUHpA=/0x24:1200x649/1200x625/media/img/mt/2026/09/2026_08_28_AI_mpg/original.gif",
+            "publishedAt": "2026-09-02T00:16:00Z",
             "lang": "en",
             "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            }
-        },
-        {
-            "id": "c72d89aad65c3e22f030a0b7dcfe1993",
-            "title": "KuCoin Australia MD James Pinch at Crypto Winter 2026: Trust and Familiarity Will Shape the Future of Agentic Commerce",
-            "description": "**media[1197135]**QUEENSTOWN, New Zealand, Sept. 1, 2026 /PRNewswire/ -- James Pinch, Managing Director of KuCoin in Australia, spoke at Crypto Winter 2026 in Queenstown, on a panel titled 'Stablecoins and Agentic AI: powering the future of online commerce.' Moderated by Jasmine Wilson, the session examined what agentic finance looks like in practice and what must be true for it to scale safely. Pinch said the strongest live use of agent-initiated stablecoin payments is still narrow and mostly invisible: machines buying inputs from other machines, in small amounts and at high frequency, with no person involved. What is new, he argued, is not speed but the transaction models these payments enable.",
-            "content": "QUEENSTOWN, New Zealand, Sept. 1, 2026 /PRNewswire/ -- James Pinch, Managing Director of KuCoin in Australia, spoke at Crypto Winter 2026 in Queenstown, on a panel titled \"Stablecoins and Agentic AI: powering the future of online commerce.\" Moderated... [2762 chars]",
-            "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/pr-newswire/kucoin-australia-md-james-pinch-at-crypto-winter-2026-trust-and-familiarity-will-shape-the-future-of-agentic-commerce/2415542",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/01/1197134.jpg",
-            "publishedAt": "2026-09-01T00:25:00Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "ecd0198f75f7760a6cb74c6d4a06a305",
-            "title": "Baidu Announces Dual-Primary Listing on the Main Board of The Stock Exchange of Hong Kong Limited",
-            "description": "BEIJING, Sept. 1, 2026 /PRNewswire/ -- Baidu, Inc. ('Baidu' or the 'Company') (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)), a leading AI company with strong Internet foundation, today announced that the Company's voluntary conversion of its secondary listing status to dual-primary listing on the Main Board of The Stock Exchange of Hong Kong Limited (the 'Hong Kong Stock Exchange') became effective today. Baidu is now a dual-primary listed company on the Hong Kong Stock Exchange in Hong Kong SAR and the Nasdaq Global Select Market in the United States.",
-            "content": "BEIJING, Sept. 1, 2026 /PRNewswire/ -- Baidu, Inc. (\"Baidu\" or the \"Company\") (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)), a leading AI company with strong Internet foundation, today announced that the Company's voluntary convers... [3426 chars]",
-            "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/pr-newswire/baidu-announces-dual-primary-listing-on-the-main-board-of-the-stock-exchange-of-hong-kong-limited/2415541",
-            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-09-01T00:24:59Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "90df6a91079db3a48aee2eb5a067563b",
-            "title": "The battle for AI hegemony",
-            "description": "The rivalry is creating a new geopolitical layer, but nobody wants a hegemon to decide their future",
-            "content": "The Chinese pitch was well thought through. Their articulation of this battle-of-giants hinges around expensive, less accessible, closed-source models (grappling with breach issues) versus the general public availability of their own open-source mode... [5429 chars]",
-            "url": "https://www.financialexpress.com/opinion/the-battle-for-ai-hegemony/4329377/",
-            "image": "https://images.financialexpressdigital.com/2026/09/us-china-ai-race-global-artificial-intelligence-technology-order.jpg.jpg",
-            "publishedAt": "2026-09-01T00:21:25Z",
-            "lang": "en",
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "f208cf0583e225035865a6c73e01b07e",
-            "title": "ITC Infotech to buy 22% stake in Happiest Minds",
-            "description": "Happiest Minds Technologies founder Ashok Soota sells 22.1% stake to ITC Infotech for Rs 1,329.72 crore, with a proposed merger aiming to create a $1 billion AI-driven global tech enterprise by FY28.",
-            "content": "According to an exchange filing, ITC Infotech will acquire a total of 3,36,61,700 equity shares of Happiest Minds in two tranches.\nIn the first tranche, ITC Infotech will acquire 16.75 million shares, representing an 11% stake, at Rs 390 a share for ... [2408 chars]",
-            "url": "https://www.financialexpress.com/business/industry-itc-infotech-to-buy-22-stake-in-happiest-minds-4329373/",
-            "image": "https://images.financialexpressdigital.com/2026/09/ITCHappiestMinds_20260901001623.jpg",
-            "publishedAt": "2026-09-01T00:17:53Z",
-            "lang": "en",
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "655ed362bac66e1a2d39c0e8d960d33e",
-            "title": "Executive Q&A Interview Series: 29% of cloud spend is wasted, and AI is the reason the number went up - Tim Jenkinson, Founder and CEO, Fitzroy IT",
-            "description": "Cloud waste has been sliding gently downwards for 5 years. This year it turned around. Fitzroy IT's Tim Jenkinson and Daniel Robinson have the details, and the answers to your...",
-            "content": "Cloud waste has been sliding gently downwards for 5 years. This year it turned around. Fitzroy IT's Tim Jenkinson and Daniel Robinson have the details, and the answers to your questions!\nFlexera's 2026 State of the Cloud Report, built on responses fr... [22452 chars]",
-            "url": "https://itwire.com/business-it-news/data/executive-q-and-a-interview-series-29-of-cloud-spend-is-wasted-and-ai-is-the-reason-the-number-went-up-tim-jenkinson-founder-and-ceo-fitzroy-it",
-            "image": "https://media.itwire.com/2026/09/01/executive-q-and-a-interview-series-29-of-cloud-spend-is-wasted-and-ai-is-the-reason-the-number-went-up-tim-jenkinson-founder-and-ceo-fitzroy-it-a8288c4773ad.webp",
-            "publishedAt": "2026-09-01T00:16:32Z",
-            "lang": "en",
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "d0835bc57a2bc08a66ffd09207bc8cf9",
-            "title": "Meek Mill Praises AI As A Learning Tool And Sparks Backlash",
-            "description": "Meek Mill said AI explains things better than people, prompting backlash amid ongoing concerns about copyright and environmental impact.",
-            "content": "A glowing endorsement of artificial intelligence has put Meek Mill in the middle of a debate that reaches well beyond whatever he has been asking a chatbot.\n“Nothing teaches me better than ai..... I learnt things that I've been asking people for year... [2306 chars]",
-            "url": "https://www.hotnewhiphop.com/1007986-meek-mill-learning-ai",
-            "image": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/08/meek-scaled-e1788217415985.jpg",
-            "publishedAt": "2026-09-01T00:15:00Z",
-            "lang": "en",
-            "source": {
-                "id": "abab8062417cb9b02ead633cc01bfb99",
-                "name": "HotNewHipHop",
-                "url": "https://www.hotnewhiphop.com",
+                "id": "a2e577ba2489a893201ce3c6c670f6de",
+                "name": "The Atlantic",
+                "url": "https://www.theatlantic.com",
                 "country": "us"
             }
         },
         {
-            "id": "7e4389a5c69a810de305cf9504968edb",
-            "title": "The next leap: The biggest gains will come from execution from AI",
-            "description": "India is shaping the AI race by focusing on scalable deployment in industries, leveraging its vast developer base, digital infrastructure, and ecosystem to create significant global economic value.",
-            "content": "Someone asked me at a conference recently whether India is winning or losing the AI race. I think that is the wrong question. If the race is defined by who builds the biggest or most powerful frontier model, it will inevitably be a contest among a ha... [3536 chars]",
-            "url": "https://www.financialexpress.com/opinion/the-next-leap-the-biggest-gains-will-come-from-execution-from-ai/4329362/",
-            "image": "https://images.financialexpressdigital.com/2026/09/JAGAHAGhjaaa3ccAcxBccc932xnnb556mmnoaa.jpg",
-            "publishedAt": "2026-09-01T00:13:49Z",
-            "lang": "en",
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "4439c6d6a33771b2e06c645515dc1713",
-            "title": "Anthropic resumes AI cyber evaluations after Claude hacking incidents",
-            "description": "Aug 31 (Reuters) - Anthropic said ⁠on Monday it had resumed external cybersecurity testing of ⁠AI models after deploying new safeguards, following incidents ‌last month in which Claude models accessed the internet and other systems during security evaluations.",
-            "content": "Aug 31 (Reuters) - Anthropic said ⁠on Monday it had resumed external cybersecurity testing of ⁠AI models after deploying new safeguards, following incidents ‌last month in which Claude models accessed the internet and other systems during security ev... [1400 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/01/anthropic-resumes-ai-cyber-evaluations-after-claude-hacking-incidents",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/01/4087290.jpg",
-            "publishedAt": "2026-09-01T00:01:00Z",
+            "id": "8ad3cbd970a16599a425cc260e670121",
+            "title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism",
+            "description": "BOONE, Iowa, Sept 1 (Reuters) - The ⁠U.S. Department of Agriculture is launching a pilot project that relies more heavily on technology as part of an effort to improve its closely ⁠watched U.S. crop acreage and yield estimates, Secretary Brooke Rollins said on Tuesday, in the face of mounting criticism over the reliability of ‌government data.",
+            "content": "BOONE, Iowa, Sept 1 (Reuters) - The ⁠U.S. Department of Agriculture is launching a pilot project that relies more heavily on technology as part of an effort to improve its closely ⁠watched U.S. crop acreage and yield estimates, Secretary Brooke Rolli... [3934 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/02/usda-to-test-satellites-ai-to-try-to-improve-crop-estimates-amid-farmer-criticism",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/02/4088755.jpg",
+            "publishedAt": "2026-09-02T00:13:00Z",
             "lang": "en",
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -151,19 +39,131 @@
             }
         },
         {
-            "id": "209e813705ee3131e3698a0cfe219cbc",
-            "title": "RSM Malta appoints Ludwig Micallef as Director for Digital Transformation & AI",
-            "description": "RSM Malta has appointed Ludwig Micallef as Director for Digital Transformation and AI, further strengthening the firm's advisory capabilities in",
-            "content": "RSM Malta has appointed Ludwig Micallef as Director for Digital Transformation and AI, further strengthening the firm’s advisory capabilities in technology-enabled business transformation, automation, and artificial intelligence.\nThe appointment refl... [3425 chars]",
-            "url": "https://www.europesays.com/3226122/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/09/file.aspx.jpeg",
-            "publishedAt": "2026-09-01T00:00:37Z",
+            "id": "78249e970e5a699e5719d83fbd6ce947",
+            "title": "We're lifting our price target on Palo Alto Networks as AI-driven cyber demand intensifies",
+            "description": "The stock's muted reaction in extended trading Tuesday is not a reflection of the company's results.",
+            "content": "Palo Alto Networks on Tuesday night ended its fiscal 2026 on a high note and signaled that the good times will continue in the new year. The numbers and conference call commentary reinforce the essential role of cybersecurity in the artificial intell... [10612 chars]",
+            "url": "https://www.cnbc.com/2026/09/01/were-lifting-our-price-target-on-palo-alto-networks-as-ai-driven-cyber-demand-intensifies.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108313286-1779984887610-gettyimages-2276728593-jung-awssummi260520_npoGy.jpeg?v=1779984913&w=1920&h=1080",
+            "publishedAt": "2026-09-02T00:10:24Z",
             "lang": "en",
             "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
                 "country": "us"
+            }
+        },
+        {
+            "id": "91785e62224564f2e536d199498e42d4",
+            "title": "John Ternus takes over as Apple enters era of AI, foldable phones",
+            "description": "One of his biggest challenges will be balancing the company’s dependence on China while parrying political pressure from the White House. Read more at straitstimes.com.",
+            "content": "SAN FRANCISCO - John Ternus took over as Apple’s chief executive on Sept 1, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence.\nOne of his biggest challenges will be balancing the company’s de... [4516 chars]",
+            "url": "https://www.straitstimes.com/world/united-states/john-ternus-takes-over-as-apple-enters-era-of-ai-foldable-phones",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d3e944e3b33ced4e6d59bed14d27dc7cbf82a405ef25e12266b98959083b7149",
+            "publishedAt": "2026-09-02T00:04:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "4c72b601931eb32f4a798ce18fd613a5",
+            "title": "US urges hands-off approach to AI regulation at G20 tech meeting",
+            "description": "Read more about US urges hands-off approach to AI regulation at G20 tech meeting on Devdiscourse",
+            "content": "The U.S. pressed G20 ‌members ​on Tuesday to take a hands-off approach to AI regulation and avoid creating rules for the technology at a gathering of industry titans and commerce ministers in North Carolina. The U.S. goals largely align with the thin... [4373 chars]",
+            "url": "https://www.devdiscourse.com/article/international/3971056-us-urges-hands-off-approach-to-ai-regulation-at-g20-tech-meeting",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_06_3802569.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-09-02T00:03:58Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "e58191178d919e034ad3eec944982cb3",
+            "title": "China’s tech push fuels fastest profit growth in 4 years amid signs of economic divide",
+            "description": "AI demand and local chip substitution spark boom for tech firms, leaving traditional industries far behind.",
+            "content": "Profit for firms on the chip-heavy Star Market under the Shanghai Stock Exchange surged more than fourfold from a year earlier in the six months to June, while those on the similarly structured ChiNext board in Shenzhen rose 33 per cent, according to... [384 chars]",
+            "url": "https://www.scmp.com/business/china-business/article/3365975/chinas-tech-push-fuels-fastest-profit-growth-4-years-amid-signs-economic-divide",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/01/3c053626-e094-48cb-9f28-fa861fb6a648_e71e8ede.jpg?itok=PdjsczGM&v=1788254068",
+            "publishedAt": "2026-09-02T00:00:18Z",
+            "lang": "en",
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            }
+        },
+        {
+            "id": "31fd49a5ed28a283b35416ce3bd9a4b9",
+            "title": "MongoDB Needs to Meet High Investor Expectations For Its AI Offerings",
+            "description": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
+            "content": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions. Our investment management business generates asset-b... [1549 chars]",
+            "url": "https://www.morningstar.com/company-reports/1498212-mongodb-needs-to-meet-high-investor-expectations-for-its-ai-offerings",
+            "image": "https://www.morningstar.com/company-reports/:/[object Object]",
+            "publishedAt": "2026-09-02T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "d889fcdc98f3dab0a934bbe252002562",
+                "name": "Morningstar",
+                "url": "https://www.morningstar.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "8aaa302bc08da3a2b48b0e5fc68eb1cf",
+            "title": "OpenAI to launch new model with 'stronger safeguards' after hack",
+            "description": "ChatGPT maker OpenAI said on Sept 1 it was preparing to release its newest powerful model, known as Astra, after implementing \"stronger safeguards\" following a rogue cyberattack involving a different AI model.",
+            "content": "SAN FRANCISCO: ChatGPT maker OpenAI said on Sept 1 it was preparing to release its newest powerful model, known as Astra, after implementing \"stronger safeguards\" following a rogue cyberattack involving a different AI model.\nThe San Francisco-based a... [2484 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/02/openai-to-launch-new-model-with-039stronger-safeguards039-after-hack",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/02/4088845.jpg",
+            "publishedAt": "2026-09-02T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "59245a0a62623ff0948aadc77dbaaa3f",
+            "title": "Chennai advocate falls prey to ‘Quantum AI’ investment scam",
+            "description": "Chennai advocate loses ₹12 lakh to AI-driven 'Quantum AI' investment scam featuring deepfake endorsement from a finance minister.",
+            "content": "Recently, Sasikumar, an advocate from Anna Nagar, came across a video circulating on social media claiming that Union Finance Minister Nirmala Sitharaman had endorsed an investment platform promising unusually high returns.\nThe viral claim, which is ... [2383 chars]",
+            "url": "https://www.thehindu.com/news/cities/chennai/chennai-advocate-falls-prey-to-quantum-ai-investment-scam/article71415079.ece",
+            "image": "https://www.thehindu.com/theme/images/og-image.png",
+            "publishedAt": "2026-09-02T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "40406b6ef0fbd2460a1ae469690f9e20",
+            "title": "Tencent-Backed AI Chipmaker Enflame Eyes $9 Billion Valuation in IPO",
+            "description": "Tencent-Backed AI Chipmaker Enflame Eyes $9 Billion Valuation in IPO - Chipmaker plans to raise about $911 million as demand for domestic AI processors surges",
+            "content": "1. Shanghai Enflame Technology Co. Ltd., the last of China's five closely watched AI-chip startups to reach the public market, plans to raise 6.12 billion yuan ($911 million) through a Shanghai listing at a valuation of about 61.2 billion yuan. [para... [2787 chars]",
+            "url": "https://www.caixinglobal.com/2026-09-02/tencent-backed-ai-chipmaker-enflame-eyes-9-billion-valuation-in-ipo-102481053.html",
+            "image": "https://img.caixin.com/2026-09-02/178833272243691_560_373.jpg",
+            "publishedAt": "2026-09-02T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "f6aff458be2c33b80c8600fb696f68fb",
+                "name": "Caixin",
+                "url": "https://www.caixinglobal.com",
+                "country": "cn"
             }
         }
     ]
