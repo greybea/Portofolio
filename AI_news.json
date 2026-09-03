@@ -4,64 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 428866,
+    "totalArticles": 429911,
     "articles": [
         {
-            "id": "e053098688b81fd63832e702403932fe",
-            "title": "A Technological Reckoning With No Great Answers",
-            "description": "Whatever the AI future is, we’re in it right now.",
-            "content": "One evening in early August, Sam Stowers and several neighbors packed into an apartment near San Francisco’s Alamo Square and pondered the beginning of the end.\nStowers and his guests, many of whom work in the AI industry, were gathered to watch a ne... [15671 chars]",
-            "url": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/",
-            "image": "https://cdn.theatlantic.com/thumbor/xqtuH5gcPd0n3apGAeR0r-JUHpA=/0x24:1200x649/1200x625/media/img/mt/2026/09/2026_08_28_AI_mpg/original.gif",
-            "publishedAt": "2026-09-02T00:16:00Z",
-            "lang": "en",
-            "source": {
-                "id": "a2e577ba2489a893201ce3c6c670f6de",
-                "name": "The Atlantic",
-                "url": "https://www.theatlantic.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "8ad3cbd970a16599a425cc260e670121",
-            "title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism",
-            "description": "BOONE, Iowa, Sept 1 (Reuters) - The ⁠U.S. Department of Agriculture is launching a pilot project that relies more heavily on technology as part of an effort to improve its closely ⁠watched U.S. crop acreage and yield estimates, Secretary Brooke Rollins said on Tuesday, in the face of mounting criticism over the reliability of ‌government data.",
-            "content": "BOONE, Iowa, Sept 1 (Reuters) - The ⁠U.S. Department of Agriculture is launching a pilot project that relies more heavily on technology as part of an effort to improve its closely ⁠watched U.S. crop acreage and yield estimates, Secretary Brooke Rolli... [3934 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/02/usda-to-test-satellites-ai-to-try-to-improve-crop-estimates-amid-farmer-criticism",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/02/4088755.jpg",
-            "publishedAt": "2026-09-02T00:13:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "78249e970e5a699e5719d83fbd6ce947",
-            "title": "We're lifting our price target on Palo Alto Networks as AI-driven cyber demand intensifies",
-            "description": "The stock's muted reaction in extended trading Tuesday is not a reflection of the company's results.",
-            "content": "Palo Alto Networks on Tuesday night ended its fiscal 2026 on a high note and signaled that the good times will continue in the new year. The numbers and conference call commentary reinforce the essential role of cybersecurity in the artificial intell... [10612 chars]",
-            "url": "https://www.cnbc.com/2026/09/01/were-lifting-our-price-target-on-palo-alto-networks-as-ai-driven-cyber-demand-intensifies.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108313286-1779984887610-gettyimages-2276728593-jung-awssummi260520_npoGy.jpeg?v=1779984913&w=1920&h=1080",
-            "publishedAt": "2026-09-02T00:10:24Z",
-            "lang": "en",
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "91785e62224564f2e536d199498e42d4",
-            "title": "John Ternus takes over as Apple enters era of AI, foldable phones",
-            "description": "One of his biggest challenges will be balancing the company’s dependence on China while parrying political pressure from the White House. Read more at straitstimes.com.",
-            "content": "SAN FRANCISCO - John Ternus took over as Apple’s chief executive on Sept 1, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence.\nOne of his biggest challenges will be balancing the company’s de... [4516 chars]",
-            "url": "https://www.straitstimes.com/world/united-states/john-ternus-takes-over-as-apple-enters-era-of-ai-foldable-phones",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d3e944e3b33ced4e6d59bed14d27dc7cbf82a405ef25e12266b98959083b7149",
-            "publishedAt": "2026-09-02T00:04:00Z",
+            "id": "2d099326df6157925734790ac561a873",
+            "title": "OpenAI is building ‘automated shutdown’ capabilities for AI tools, letter to lawmakers says",
+            "description": "OpenAI said it would more closely monitor the actions its AI systems take to complete tasks. Read more at straitstimes.com.",
+            "content": "WASHINGTON - OpenAI told two House Democrats that its engineers are developing “automated shutdown capabilities” for AI systems, according to a company letter reviewed by Reuters, weeks after the company disclosed one of its AI tools escaped its digi... [1560 chars]",
+            "url": "https://www.straitstimes.com/world/openai-is-building-automated-shutdown-capabilities-for-ai-tools-letter-to-lawmakers-says",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/0abad4ca0f5e276b2ada72336be6239ac91b577226c58fd96a11175b7a02f304",
+            "publishedAt": "2026-09-03T00:08:00Z",
             "lang": "en",
             "source": {
                 "id": "72bbcd9c095a3d51c97cdda7a97dba31",
@@ -71,45 +23,61 @@
             }
         },
         {
-            "id": "4c72b601931eb32f4a798ce18fd613a5",
-            "title": "US urges hands-off approach to AI regulation at G20 tech meeting",
-            "description": "Read more about US urges hands-off approach to AI regulation at G20 tech meeting on Devdiscourse",
-            "content": "The U.S. pressed G20 ‌members ​on Tuesday to take a hands-off approach to AI regulation and avoid creating rules for the technology at a gathering of industry titans and commerce ministers in North Carolina. The U.S. goals largely align with the thin... [4373 chars]",
-            "url": "https://www.devdiscourse.com/article/international/3971056-us-urges-hands-off-approach-to-ai-regulation-at-g20-tech-meeting",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_06_3802569.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-09-02T00:03:58Z",
+            "id": "6446a6120dfa169b2fb06cedcaa10d92",
+            "title": "JMGO Iris Ultra Max Is World’s First 4K/120Hz ‘Smart’ DLP Projector",
+            "description": "4K at 120Hz and a boatload of ‘AI’ tech means the new Iris Ultra smart lifestyle projector really catches the eye.",
+            "content": "“The lifestyle ‘smart’ projector is an ingenious thing. Instead of large, boxy objects tied to one location, we get funky, flexible units that, thanks to built-in Wi-Fi and streaming services, can be placed anywhere within reach of a power socket to ... [3233 chars]",
+            "url": "https://www.forbes.com/sites/bennyhareven/2026/09/02/jmgo-iris-ultra-max-is-worlds-first-4k120hz-smart-dlp-projector/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a98b51763c720684e48e02d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-09-03T00:00:23Z",
             "lang": "en",
             "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
             }
         },
         {
-            "id": "e58191178d919e034ad3eec944982cb3",
-            "title": "China’s tech push fuels fastest profit growth in 4 years amid signs of economic divide",
-            "description": "AI demand and local chip substitution spark boom for tech firms, leaving traditional industries far behind.",
-            "content": "Profit for firms on the chip-heavy Star Market under the Shanghai Stock Exchange surged more than fourfold from a year earlier in the six months to June, while those on the similarly structured ChiNext board in Shenzhen rose 33 per cent, according to... [384 chars]",
-            "url": "https://www.scmp.com/business/china-business/article/3365975/chinas-tech-push-fuels-fastest-profit-growth-4-years-amid-signs-economic-divide",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/01/3c053626-e094-48cb-9f28-fa861fb6a648_e71e8ede.jpg?itok=PdjsczGM&v=1788254068",
-            "publishedAt": "2026-09-02T00:00:18Z",
+            "id": "2ebf4190d050ffa89d38058fbe200b3c",
+            "title": "Google's background AI is quietly draining your Pixel's battery, and the fix takes five minutes",
+            "description": "Adjust these settings for a quick and easy fix",
+            "content": "Google pixels have often seen a long-standing critique as they offer incredible computational photography and clean software but are paired with a mediocre screen on time and heavy idle drain. Users routinely blame the Tensor SoC or the cellular mode... [5519 chars]",
+            "url": "https://www.xda-developers.com/turning-off-this-google-app-added-hours-to-my-pixels-battery-life/",
+            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/google-pixel-9-main.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-09-03T00:00:15Z",
             "lang": "en",
             "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
+                "id": "891063cd06eaab8a5cf530418fb4c0be",
+                "name": "XDA Developers",
+                "url": "https://www.xda-developers.com",
+                "country": "us"
             }
         },
         {
-            "id": "31fd49a5ed28a283b35416ce3bd9a4b9",
-            "title": "MongoDB Needs to Meet High Investor Expectations For Its AI Offerings",
+            "id": "56b4e33d74bb797ca588f327198d9623",
+            "title": "AI Wealth Fuels Surge in Christie’s Asia-Pacific Sales",
+            "description": "AI Wealth Fuels Surge in Christie’s Asia-Pacific Sales - Eightfold growth in $10 million-plus lots in the first half comes as rich family heirs and AI-fueled money reshapes the luxury collecting scene, regional chief Rahul Kadakia says",
+            "content": "Asia-Pacific collectors are pouring money into Christie’s Inc.’s high-end auctions, with spending on $10 million-plus lots surging eightfold year-on-year in the first half of 2026, as AI-fueled wealth and rich young family heirs reshape the luxury co... [545 chars]",
+            "url": "https://www.caixinglobal.com/2026-09-03/ai-wealth-fuels-surge-in-christies-asia-pacific-sales-102481478.html",
+            "image": "https://img.caixin.com/2026-09-03/178841965752420_560_373.jpg",
+            "publishedAt": "2026-09-03T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "f6aff458be2c33b80c8600fb696f68fb",
+                "name": "Caixin",
+                "url": "https://www.caixinglobal.com",
+                "country": "cn"
+            }
+        },
+        {
+            "id": "df48d460fe1a1560de87fc21e17527cc",
+            "title": "Snowflake's AI Products Help Drive Growth of Account Size",
             "description": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
             "content": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions. Our investment management business generates asset-b... [1549 chars]",
-            "url": "https://www.morningstar.com/company-reports/1498212-mongodb-needs-to-meet-high-investor-expectations-for-its-ai-offerings",
+            "url": "https://www.morningstar.com/company-reports/1498319-snowflakes-ai-products-help-drive-growth-of-account-size",
             "image": "https://www.morningstar.com/company-reports/:/[object Object]",
-            "publishedAt": "2026-09-02T00:00:00Z",
+            "publishedAt": "2026-09-03T00:00:00Z",
             "lang": "en",
             "source": {
                 "id": "d889fcdc98f3dab0a934bbe252002562",
@@ -119,51 +87,83 @@
             }
         },
         {
-            "id": "8aaa302bc08da3a2b48b0e5fc68eb1cf",
-            "title": "OpenAI to launch new model with 'stronger safeguards' after hack",
-            "description": "ChatGPT maker OpenAI said on Sept 1 it was preparing to release its newest powerful model, known as Astra, after implementing \"stronger safeguards\" following a rogue cyberattack involving a different AI model.",
-            "content": "SAN FRANCISCO: ChatGPT maker OpenAI said on Sept 1 it was preparing to release its newest powerful model, known as Astra, after implementing \"stronger safeguards\" following a rogue cyberattack involving a different AI model.\nThe San Francisco-based a... [2484 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/02/openai-to-launch-new-model-with-039stronger-safeguards039-after-hack",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/02/4088845.jpg",
-            "publishedAt": "2026-09-02T00:00:00Z",
+            "id": "e46c98fc442bc5343227503e9f33858f",
+            "title": "Wide-Moat Broadcom Is an AI Chip Titan Across Networking and Custom Compute",
+            "description": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
+            "content": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions. Our investment management business generates asset-b... [1549 chars]",
+            "url": "https://www.morningstar.com/company-reports/1498325-wide-moat-broadcom-is-an-ai-chip-titan-across-networking-and-custom-compute",
+            "image": "https://www.morningstar.com/company-reports/:/[object Object]",
+            "publishedAt": "2026-09-03T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
+                "id": "d889fcdc98f3dab0a934bbe252002562",
+                "name": "Morningstar",
+                "url": "https://www.morningstar.com",
+                "country": "us"
             }
         },
         {
-            "id": "59245a0a62623ff0948aadc77dbaaa3f",
-            "title": "Chennai advocate falls prey to ‘Quantum AI’ investment scam",
-            "description": "Chennai advocate loses ₹12 lakh to AI-driven 'Quantum AI' investment scam featuring deepfake endorsement from a finance minister.",
-            "content": "Recently, Sasikumar, an advocate from Anna Nagar, came across a video circulating on social media claiming that Union Finance Minister Nirmala Sitharaman had endorsed an investment platform promising unusually high returns.\nThe viral claim, which is ... [2383 chars]",
-            "url": "https://www.thehindu.com/news/cities/chennai/chennai-advocate-falls-prey-to-quantum-ai-investment-scam/article71415079.ece",
-            "image": "https://www.thehindu.com/theme/images/og-image.png",
-            "publishedAt": "2026-09-02T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "40406b6ef0fbd2460a1ae469690f9e20",
-            "title": "Tencent-Backed AI Chipmaker Enflame Eyes $9 Billion Valuation in IPO",
-            "description": "Tencent-Backed AI Chipmaker Enflame Eyes $9 Billion Valuation in IPO - Chipmaker plans to raise about $911 million as demand for domestic AI processors surges",
-            "content": "1. Shanghai Enflame Technology Co. Ltd., the last of China's five closely watched AI-chip startups to reach the public market, plans to raise 6.12 billion yuan ($911 million) through a Shanghai listing at a valuation of about 61.2 billion yuan. [para... [2787 chars]",
-            "url": "https://www.caixinglobal.com/2026-09-02/tencent-backed-ai-chipmaker-enflame-eyes-9-billion-valuation-in-ipo-102481053.html",
-            "image": "https://img.caixin.com/2026-09-02/178833272243691_560_373.jpg",
-            "publishedAt": "2026-09-02T00:00:00Z",
+            "id": "9d751829993440adb494a1fb91f97ebf",
+            "title": "Chart of the Day: Rising Revenues Mask Profit Hurdles for China’s GPU Quartet",
+            "description": "Chart of the Day: Rising Revenues Mask Profit Hurdles for China’s GPU Quartet - The leading chipmakers are cashing in on an AI-driven supply shortage, but the race to build the next generation of hardware is eating into their gains",
+            "content": "A growing domestic appetite for AI computing power is delivering a revenue windfall for China’s four leading graphics processing unit (GPU) developers, even as obstacles litter their path to sustained profitability.\nIn the first half of 2026, MetaX I... [316 chars]",
+            "url": "https://www.caixinglobal.com/2026-09-03/chart-of-the-day-rising-revenues-mask-profit-hurdles-for-chinas-gpu-quartet-102481459.html",
+            "image": "https://img.caixin.com/2026-09-03/178843522437823_560_373.jpg",
+            "publishedAt": "2026-09-03T00:00:00Z",
             "lang": "en",
             "source": {
                 "id": "f6aff458be2c33b80c8600fb696f68fb",
                 "name": "Caixin",
                 "url": "https://www.caixinglobal.com",
                 "country": "cn"
+            }
+        },
+        {
+            "id": "bbf1e02068b70dbae709d8d5ed026229",
+            "title": "AI and Quick Commerce Present Long-Term Growth but Near-Term Margin Pressure for Alibaba",
+            "description": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
+            "content": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions. Our investment management business generates asset-b... [1549 chars]",
+            "url": "https://www.morningstar.com/company-reports/1498330-ai-and-quick-commerce-present-long-term-growth-but-near-term-margin-pressure-for-alibaba",
+            "image": "https://www.morningstar.com/company-reports/:/[object Object]",
+            "publishedAt": "2026-09-03T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "d889fcdc98f3dab0a934bbe252002562",
+                "name": "Morningstar",
+                "url": "https://www.morningstar.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "2aad44bc62cce173093186664bb9c9bf",
+            "title": "OpenAI tells House Democrats it is building automated shutdown capability",
+            "description": "OpenAI told Congress it is building automated shutdown for AI systems. Brussels has been able to order a model withdrawn from the EU market since August.",
+            "content": "OpenAI has told two House Democrats it is building automated shutdown capabilities, without providing the logs from the July incident in which an agent breached another company. The Commission has been able to require the withdrawal or recall of a ge... [2201 chars]",
+            "url": "https://thenextweb.com/news/openai-automated-shutdown-house-democrats-logs-withheld-eu-ai-act-article-93-withdraw-recall",
+            "image": "https://media.thenextweb.com/2026/08/openai-astra-model-ten-math-proofs-non-sofic-groups.jpg",
+            "publishedAt": "2026-09-02T23:59:43Z",
+            "lang": "en",
+            "source": {
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "2435f0bfcab495bcd44177f8f697d315",
+            "title": "Man sentenced after using AI to make sexual images of minors, officials say",
+            "description": "A Georgia man was convicted on 118 counts of sexual exploitation of children after officials said he made AI-generated child sexual abuse material of over 150 victims.",
+            "content": "A former vendor who stocked drink machines in Gilmer County Schools was sentenced to 40 years in prison Wednesday after authorities said they discovered a trove of child sex abuse material that he generated by running normal photographs of the victim... [564 chars]",
+            "url": "https://www.ajc.com/news/2026/09/georgia-man-sentenced-to-decades-in-prison-in-ai-child-sex-abuse-materials-case/",
+            "image": "https://images.ajc.com/resizer/v2/QEC75PG73VD5FBPTUB3L5SAQAQ.JPG?auth=613c6810052759b09f6f46c8ae4e3f015f09781210a454991487367d502872f4&width=1200&height=630&smart=true",
+            "publishedAt": "2026-09-02T23:58:20Z",
+            "lang": "en",
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
             }
         }
     ]
