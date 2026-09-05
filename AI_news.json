@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 430993,
+    "totalArticles": 431746,
     "articles": [
         {
-            "id": "4d7d3255d94414935c651ba83243d413",
-            "title": "NHRC questions Meta’s AI role in ‘child abuse ads’",
-            "description": "The National Human Rights Commission questioned Meta regarding its role as an intermediary in a case involving paid advertisements on Instagram that allegedly facilitated access to child sexual abuse material. The Commission asked whether the social media giant’s expanding artificial intelligence and algorithmic functions push it beyond the status of a passive intermediary.",
-            "content": "The National Human Rights Commission questioned Meta regarding its role as an intermediary in a case involving paid advertisements on Instagram that allegedly facilitated access to child sexual abuse material. The Commission asked whether the social ... [3412 chars]",
-            "url": "https://www.tribuneindia.com/news/delhi/nhrc-questions-metas-ai-role-in-child-abuse-ads/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA5Y2IyNGYwLWE4MzQtMTFmMS05YjIwLTgzZThkYzhhYjE2YS5qcGc=",
-            "publishedAt": "2026-09-04T00:15:12Z",
+            "id": "2180a1fa6f136ca7b13a3cb4551e928e",
+            "title": "OpenAI's rogue agents keep escaping, with no formal process to investigate them",
+            "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+            "content": "OpenAI is at the center of another agent swarm incident. Researchers say the company’s internally deployed agents took over an obscure German-language wiki in May and June, using it to coordinate on evaluations and swap methods to evade OpenAI’s own ... [4451 chars]",
+            "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+            "publishedAt": "2026-09-04T23:15:11Z",
             "lang": "en",
             "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "83132521ef4320516d87b6e5b7118531",
-            "title": "FBI using AI to zero in on threats faster, deputy director says",
-            "description": "FBI Deputy Director Christopher Raia says the bureau is turning to artificial intelligence as a tool to identify threats and act on them faster.",
-            "content": "The FBI is turning to artificial intelligence as a tool to identify threats and fight crime, targeting transnational criminal organizations and drug cartels, Deputy Director Christopher Raia told CBS News on Thursday, three weeks after the bureau rel... [3411 chars]",
-            "url": "https://www.cbsnews.com/news/fbi-ai-identify-threats-faster-christopher-raia/",
-            "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/03/3ea80b42-4138-47f0-82e5-47d1f7249884/thumbnail/1200x630g2/6f16c92d25a9e43dff69df1b7fd555e0/gettyimages-2242446046.jpg",
-            "publishedAt": "2026-09-04T00:02:00Z",
-            "lang": "en",
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
                 "country": "us"
             }
         },
         {
-            "id": "36d6cb4216c1802815c62dabbd8f19f3",
-            "title": "Electronics makers turn to cheaper materials and localisation as commodity costs bite",
-            "description": "Electronics producers are adapting to rising costs by innovating their material choices and enhancing local manufacturing efforts. In place of copper, aluminum is now favored in products like refrigerators and air conditioners. As input costs climb due to soaring commodity prices and AI infrastructure needs, businesses have raised prices but are also strategically absorbing certain cost increases. Simultaneously, they are fine-tuning product designs to minimize expenditures.",
-            "content": "Synopsis\nElectronics producers are adapting to rising costs by innovating their material choices and enhancing local manufacturing efforts. In place of copper, aluminum is now favored in products like refrigerators and air conditioners. As input cost... [4638 chars]",
-            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/electronics-makers-turn-to-cheaper-materials-and-localisation-as-commodity-costs-bite/articleshow/133745544.cms",
-            "image": "https://img.etimg.com/thumb/msid-133745596,width-1200,height-630,imgsize-157076,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-09-04T00:00:00Z",
+            "id": "617431c3c0fa2d2629fa871e788059df",
+            "title": "EXCLUSIVE-US, China gear up for mid-September AI safety talks",
+            "description": "Read more about EXCLUSIVE-US, China gear up for mid-September AI safety talks on Devdiscourse",
+            "content": "The U.S. ​and China are gearing up to discuss AI safety risks during a dialogue planned for mid-September, two sources ‌briefed on ​the discussions told Reuters, as rapidly advancing frontier AI capabilities reach a global tipping point. The talks, t... [6529 chars]",
+            "url": "https://www.devdiscourse.com/article/international/3972904-exclusive-us-china-gear-up-for-mid-september-ai-safety-talks",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_10_0069135.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-09-04T22:57:09Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
                 "country": "in"
             }
         },
         {
-            "id": "ed81dffa0f4874ad93f47212ed82e2d4",
-            "title": "China’s Biopharma Job Market Rebounds on AI and Smart-Device Boom",
-            "description": "China’s Biopharma Job Market Rebounds on AI and Smart-Device Boom - Job postings for smart medical devices and AI-driven drug discovery doubled in the first half of 2026 as the industry emerges from a capital winter",
-            "content": "1. China's biopharmaceutical job market is recovering from a funding-led downturn, with hiring for AI drug discovery, smart medical devices, and overseas expansion rising sharply in the first half of 2026. Openings related to AI-driven drug discovery... [4741 chars]",
-            "url": "https://www.caixinglobal.com/2026-09-04/chinas-biopharma-job-market-rebounds-on-ai-and-smart-device-boom-102481639.html",
-            "image": "https://img.caixin.com/2026-09-04/178847779281875_560_373.jpg",
-            "publishedAt": "2026-09-04T00:00:00Z",
+            "id": "698dcbfe5b8891d7992786546dee8acd",
+            "title": "Anthropic IPO launch shifts toward mid-October, sources say",
+            "description": "The artificial intelligence company had been expected to make its IPO prospectus public as early as next week.",
+            "content": "Anthropic is expected to begin marketing its initial public offering in mid-October at the earliest and complete the listing days before the US midterm elections in November, people familiar with the matter said on Friday (Saturday AEST).\nThe artific... [348 chars]",
+            "url": "https://www.afr.com/markets/equity-markets/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-20260905-p60unw",
+            "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/efeee73ccb053dbb7f73acf95b5d292623759225",
+            "publishedAt": "2026-09-04T22:55:56Z",
             "lang": "en",
             "source": {
-                "id": "f6aff458be2c33b80c8600fb696f68fb",
-                "name": "Caixin",
-                "url": "https://www.caixinglobal.com",
-                "country": "cn"
-            }
-        },
-        {
-            "id": "6b294b23893024a67e89d64899a0ee98",
-            "title": "Janmashtami 2026: 10 AI Prompts To Write Personalised Wishes For All The Devotees",
-            "description": "Still sending the same ‘May Lord Krishna bless you with happiness and prosperity’ message every Janmashtami? This year, use AI to make your wishes a little more personal. , Lifestyle, Times Now",
-            "content": "Every festive season, our phones fill up with the same forwarded messages. They are sweet, but after seeing the exact same ‘Happy Janmashtami, may Krishna bless you and your family’ text for the tenth time, it starts feeling a little too familiar. If... [3434 chars]",
-            "url": "https://www.timesnownews.com/lifestyle/janmashtami-2026-10-ai-prompts-to-write-personalised-wishes-for-all-the-devotees-article-156038220",
-            "image": "https://images.timesnownews.com/thumb/msid-156038296,thumbsize-2534547,width-1280,height-720,resizemode-75/156038296.jpg",
-            "publishedAt": "2026-09-04T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "7e6192257bf49b7ca4a44a1ff6b6c7d0",
-            "title": "Tucker Carlson Says Greg Abbott About to Lose in Texas: What Polls Show",
-            "description": "The tightening contest comes as Abbott faces criticism over his shifting position on artificial intelligence data centers.",
-            "content": "Tucker Carlson is warning that Texas Governor Greg Abbott could be in serious political trouble heading into the 2026 midterm elections, as Democrat Gina Hinojosa has narrowed the gap in the traditionally Republican state. The latest polling shows a ... [5634 chars]",
-            "url": "https://www.newsweek.com/tucker-carlson-says-greg-abbott-about-to-lose-in-texas-what-polls-show-12402482",
-            "image": "https://assets.newsweek.com/wp-content/uploads/2026/09/GettyImages-2252102331.jpg?w=1200&crop=1",
-            "publishedAt": "2026-09-03T23:58:29Z",
-            "lang": "en",
-            "source": {
-                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
-                "name": "Newsweek",
-                "url": "https://www.newsweek.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b4a92b48e1321b7609ab3692ce07a901",
-            "title": "You could be visiting a poor doctor because AI is filling the web with fake online reviews",
-            "description": "Fake doctor reviews are longer, more detailed, and more trusted than real ones, a gap generative AI is now making easier to exploit.",
-            "content": "If you’ve ever picked a doctor based on online reviews, a new study from Simon Fraser University has some bad news for you.\nApparently, fake clinician reviews generated without using AI read more believable than genuine ones.\nSo what exactly did this... [1821 chars]",
-            "url": "https://www.digitaltrends.com/cool-tech/you-could-be-visiting-a-poor-doctor-because-ai-is-filling-the-web-with-fake-online-reviews/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/07/AI-chatbots.jpg?resize=1200%2C630",
-            "publishedAt": "2026-09-03T23:58:06Z",
-            "lang": "en",
-            "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "f64b70cfb0b9d4c381cdafc6e380e3a5",
-            "title": "Teradata Brings Enterprise AI Directly to Microsoft OneLake",
-            "description": "Customers can now run Teradata enterprise AI on OneLake data where it lives, without replicating or moving it",
-            "content": "Customers can now run Teradata enterprise AI on OneLake data where it lives, without replicating or moving it\nTeradata (NYSE: TDC) today announced the integration between the Teradata Autonomous Knowledge Platform and Microsoft OneLake, enabling ente... [3902 chars]",
-            "url": "https://itwire.com/business-it-news/business-intelligence/teradata-brings-enterprise-ai-directly-to-microsoft-onelake",
-            "image": "https://media.itwire.com/2026/09/03/teradata-brings-enterprise-ai-directly-to-microsoft-onelake-158432a68dee.jpg",
-            "publishedAt": "2026-09-03T23:46:06Z",
-            "lang": "en",
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
                 "country": "au"
             }
         },
         {
-            "id": "dcaba602d66420e923070e483479bdb5",
-            "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety",
-            "description": "SAN FRANCISCO, Sept 3 (Reuters) - OpenAI on Thursday ⁠unveiled a new artificial intelligence model it calls its best yet but cautioned that it also sometimes attempts to evade human monitoring, even ⁠as the company faces growing scrutiny after its agents breached other companies' systems.",
-            "content": "SAN FRANCISCO, Sept 3 (Reuters) - OpenAI on Thursday ⁠unveiled a new artificial intelligence model it calls its best yet but cautioned that it also sometimes attempts to evade human monitoring, even ⁠as the company faces growing scrutiny after its ag... [3771 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/04/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents039-safety",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/04/4092470.jpg",
-            "publishedAt": "2026-09-03T23:43:00Z",
+            "id": "439068a79c5d32bff51b2f7c98e1f770",
+            "title": "Retailer, AI Giant Among 19 Joining Best Stock Lists",
+            "description": "Five Below on Wednesday reported a 108% surge in Q2 earnings to $1.68 per share. Revenue spiked nearly 23% to $1.26 billion.",
+            "content": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we ... [1013 chars]",
+            "url": "https://www.investors.com/research/microsoft-five-below-among-19-names-just-added-to-ibd-best-growth-stock-watchlists/",
+            "image": "https://www.investors.com/wp-content/uploads/2018/03/ibdstocksupdate4.jpg",
+            "publishedAt": "2026-09-04T22:52:14Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
             }
         },
         {
-            "id": "93a172149879df452411173a7dca1c49",
-            "title": "Acemagic’s new Zen 5 AI workstation squeezes 192GB of memory into a tiny 2-liter chassis",
-            "description": "Acemagic unveiled the F9A AI Mini Workstation at IFA 2026 in Berlin with up to 192GB of unified memory, a 16-core Zen 5 processor, and Radeon 8065S graphics.",
-            "content": "Acemagic has announced the F9A AI Mini Workstation at IFA 2026 in Berlin. It is a compact desktop PC that takes design cues from the Mac Studio and is powered by AMD’s Ryzen AI Max platform for local AI, content creation, and other demanding workload... [1601 chars]",
-            "url": "https://www.digitaltrends.com/computing/acemagics-new-zen-5-ai-workstation-squeezes-192gb-of-memory-into-a-tiny-2-liter-chassis/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/09/Acemagic-F9A-image-2.jpg?resize=1200%2C630",
-            "publishedAt": "2026-09-03T23:42:46Z",
+            "id": "7bd170339bf84d3c14da75e3f2ddc67c",
+            "title": "Open AI Microsoft copyright infringement newspaper lawsuit",
+            "description": "The newspapers' Friday motion says OpenAI and Microsoft's products have led to a tsunami of \"pink slime\" news sites that plagiarize or remix content from legitimate news sources.",
+            "content": "A Manhattan judge overseeing a major copyright infringement lawsuit against Microsoft and OpenAI received dueling summary judgment motions Friday, with news organizations including The Mercury News and The New York Times calling on the court to rejec... [5115 chars]",
+            "url": "https://www.mercurynews.com/2026/09/04/mercury-news-ny-times-want-fair-use-claim-tossed-in-copyright-case-against-openai-microsoft-2/",
+            "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/GettyImages-2264640556-e1788557149192_b10cfc.jpg?w=2000&h=1140",
+            "publishedAt": "2026-09-04T22:46:01Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
                 "country": "us"
+            }
+        },
+        {
+            "id": "9d0e85693d9fd6ad977d4f4ab22414ba",
+            "title": "Jaishankar meets Polish counterpart, discusses trade & investment, defence",
+            "description": "WARSAW, Sep 4 : External Affairs Minister S Jaishankar and Poland's Deputy Prime Minister Radosław Sikorski held wide-ranging talks on Friday, focusing on trade and investment, space, AI, semiconductors, defence and energy, as well as the complex global challenges and...",
+            "content": "WARSAW, Sep 4 : External Affairs Minister S Jaishankar and Poland's Deputy Prime Minister Radosław Sikorski held wide-ranging talks on Friday, focusing on trade and investment, space, AI, semiconductors, defence and energy, as well as the complex glo... [2423 chars]",
+            "url": "https://www.dailyexcelsior.com/jaishankar-meets-polish-counterpart-discusses-trade-investment-defence/",
+            "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWExOGZiYzQwLWE4YjMtMTFmMS05YjIwLTgzZThkYzhhYjE2YS5qcGc=",
+            "publishedAt": "2026-09-04T22:40:44Z",
+            "lang": "en",
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "fd83508f734134a2c4cd5c5104772481",
+            "title": "Bloom Energy, Illumina, Everpure Rise On S&P 500 Index Inclusion",
+            "description": "AI energy play Bloom Energy will be added to the S&P 500 index on Sept. 21. Illumina and Everpure also will join. The three stocks rose.",
+            "content": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we ... [1013 chars]",
+            "url": "https://www.investors.com/news/bloom-energy-illumina-everpure-rise-sp-500-index-inclusion/",
+            "image": "https://www.investors.com/wp-content/uploads/2018/07/Stock-BloomEnergy-01-company.jpg",
+            "publishedAt": "2026-09-04T22:39:06Z",
+            "lang": "en",
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "82deb123780623288a5abe835595b9b9",
+            "title": "My first VentureBeat story was the 'Woodstock of AI.' My last is Nvidia buying Hugging Face for $12.9 billion.",
+            "description": "Michael Nuñez reflects on three years leading VentureBeat’s AI coverage, from Hugging Face’s “Woodstock of AI” to Nvidia’s $12.9 billion deal.",
+            "content": "Today is my last day as Editorial Director at VentureBeat.\nWhen I try to make sense of the last three years, my mind keeps returning to my first weeks on the job. It's a writer's instinct to look for narrative symmetry, but sometimes the universe jus... [10518 chars]",
+            "url": "https://venturebeat.com/technology/my-first-venturebeat-story-was-the-woodstock-of-ai-my-last-is-nvidia-buying-hugging-face-for-12-9-billion",
+            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6tBJBbIFNOxMtDAut2haFH/ec23b1ae4875cee3bc042b54bc1d7c21/Nuneybits_Vector_art_of_San_Francisco_skyline_rising_along_an_e_b9ef7629-1845-4dca-80d7-43235915206c.webp?w=800&q=75",
+            "publishedAt": "2026-09-04T22:15:00Z",
+            "lang": "en",
+            "source": {
+                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "9897ea9d67e87cc8425b9ee44a2de908",
+            "title": "Dolly Parton's Sister Stella Urges Compassion After Her Death",
+            "description": "Dolly Parton's sister Stella urges people to show 'more compassion' after Dolly's death, calling out insensitive comments and AI content.",
+            "content": "Stella Parton is asking people to show “more compassion” following the death of her sister Dolly Parton, while also acknowledging the painful insensitivity she and her family have faced since the country music icon's death.\nThe 77-year-old singer-son... [2850 chars]",
+            "url": "https://kdhlradio.com/ixp/204/p/dolly-parton-sister-stella-compassion/",
+            "image": "https://townsquare.media/site/204/files/2026/09/attachment-gettyimages-485564653.jpg?w=1200&format=natural",
+            "publishedAt": "2026-09-04T22:14:50Z",
+            "lang": "en",
+            "source": {
+                "id": "5aae5fe6e1dd05e3e536f88a30126534",
+                "name": "kdhlradio.com",
+                "url": "https://kdhlradio.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "58cbcc50bdcf33c4b34abbd3e2f81c09",
+            "title": "[INTERVIEW] Korea can lead in AI for older people, UN expert says",
+            "description": "Korea is uniquely positioned to lead global efforts to design and test more inclusive artificial intelligence (AI) systems for older people, combin...",
+            "content": "Korea is uniquely positioned to lead global efforts to design and test more inclusive artificial intelligence (AI) systems for older people, combining its advanced technological capabilities with the world’s fastest-aging population, according to a U... [4157 chars]",
+            "url": "https://www.koreatimes.co.kr/foreignaffairs/20260905/korea-can-lead-in-ai-for-older-people-un-expert-says",
+            "image": "https://newsimg.koreatimes.co.kr/2026/09/03/e04ee8b8-17d2-4951-a5f7-78d89b3ff948.jpg",
+            "publishedAt": "2026-09-04T22:00:13Z",
+            "lang": "en",
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
             }
         }
     ]
