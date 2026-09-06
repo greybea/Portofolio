@@ -4,16 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 431746,
+    "totalArticles": 432172,
     "articles": [
         {
-            "id": "2180a1fa6f136ca7b13a3cb4551e928e",
-            "title": "OpenAI's rogue agents keep escaping, with no formal process to investigate them",
-            "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-            "content": "OpenAI is at the center of another agent swarm incident. Researchers say the company’s internally deployed agents took over an obscure German-language wiki in May and June, using it to coordinate on evaluations and swap methods to evade OpenAI’s own ... [4451 chars]",
-            "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-            "publishedAt": "2026-09-04T23:15:11Z",
+            "id": "c135edf50133af2f27e4f336d57999be",
+            "title": "YouTube Music Needs This One Key Tidal Feature",
+            "description": "Tidal has rolled out an AI-tagging feature that can also filter out AI-generated music. YouTube Music has been comparatively slow to adapt.",
+            "content": "We all have our own set of standards that influence our music streaming service of choice, whether it's sound quality, algorithmic recommendations, or ability to share between users and third-party platforms. For instance, Apple Music is known for it... [3193 chars]",
+            "url": "https://www.bgr.com/2247533/why-youtube-music-needs-ai-tag/",
+            "image": "https://www.bgr.com/img/gallery/youtube-music-needs-this-one-key-tidal-feature/l-intro-1788188159.jpg",
+            "publishedAt": "2026-09-05T23:47:00Z",
+            "lang": "en",
+            "source": {
+                "id": "b98becfda029f124cf65538c8af36d20",
+                "name": "BGR",
+                "url": "https://www.bgr.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "478afa64f97cb9f43b85e4ca7f1a72c7",
+            "title": "Are Job Titles Becoming Meaningless In The AI Era?",
+            "description": "As AI changes work faster than companies change titles, job titles may be losing clarity, creating confusion about authority, experience, career value, and status.",
+            "content": "When I think about how much information we expect job titles to carry, it is hard not to think about the film American Psycho. Christian Bale’s character and his peers gather around a conference table comparing business cards. Each is a Vice Presiden... [5749 chars]",
+            "url": "https://www.forbes.com/sites/dianehamilton/2026/09/05/are-job-titles-becoming-meaningless-in-the-ai-era/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a8e1f93dfb50ae1e239d1cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-09-05T23:33:48Z",
+            "lang": "en",
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0461c4fa2c80200101625f27d29fe9ae",
+            "title": "Seeing is believing in photography. In AI age, if you believe it, you’re seeing it",
+            "description": "Sunday Times News: For more than three decades, Seamus Murphy has told the stories of conflict through people — a coal miner laughing on his break, or a girl riding her.",
+            "content": "Seamus Murphy, a seasoned conflict photographer, reflects on his enduring passion for Kolkata and its people.\nFor more than three decades, Seamus Murphy has told the stories of conflict through people — a coal miner laughing on his break, or a girl r... [5600 chars]",
+            "url": "https://timesofindia.indiatimes.com/home/sunday-times/all-that-matters/seeing-is-believing-in-photography-in-ai-age-if-you-believe-it-youre-seeing-it/articleshow/133809189.cms",
+            "image": "https://static.toiimg.com/thumb/msid-133809615,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-05T23:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "5f15ebc7dc779047342e95fc5cfb738b",
+            "title": "I met a humanoid robot in Cramlington and witnessed the incredible technology in person",
+            "description": "Zomet was bought by Transmission Dynamics to help engineers test the its artificial intelligence, and he has already had a lot of attention when a video went viral on social media",
+            "content": "Zomet was bought by Transmission Dynamics to help engineers test the its artificial intelligence, and he has already had a lot of attention when a video went viral on social media\nA couple of weeks ago, multiple videos on Facebook showing a humanoid ... [4405 chars]",
+            "url": "https://www.chroniclelive.co.uk/news/news-opinion/met-humanoid-robot-cramlington-witnessed-34556672",
+            "image": "https://i2-prod.chroniclelive.co.uk/article34557772.ece/ALTERNATES/s1200d/1_We-meet-the-humanoid-robot-Zomet.jpg",
+            "publishedAt": "2026-09-05T23:22:00Z",
+            "lang": "en",
+            "source": {
+                "id": "3396ad417e0d2903accd5a027a93503e",
+                "name": "Evening Chronicle",
+                "url": "https://www.chroniclelive.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "cd96c0b85e3dd65936d3accb7229e366",
+            "title": "Position AI as an enabler, tailor it to local contexts",
+            "description": "India News: In a session on tech and AI in scaling change, panelists highlighted ways in which they’d each worked with the technology, and underscored how it coul.",
+            "content": "In a session on tech and AI in scaling change, panelists highlighted ways in which they’d each worked with the technology, and underscored how it could be customised to local contexts. Aniket Doegar, co-founder and CEO, Haqdarshak, spoke about his or... [1249 chars]",
+            "url": "https://timesofindia.indiatimes.com/india/position-ai-as-an-enabler-tailor-it-to-local-contexts/articleshow/133819276.cms",
+            "image": "https://static.toiimg.com/thumb/msid-133819276,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-05T23:05:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "8a7e0f31a98365d15c2c95c407b6f365",
+            "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+            "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+            "content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.\nA lawsuit filed by The Seattle Times and Newsday argued that with the advent of AI, the journalism industry could become “broken beyond ... [815 chars]",
+            "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
+            "publishedAt": "2026-09-05T22:49:55Z",
             "lang": "en",
             "source": {
                 "id": "732b46cdef66b68ee2fbc940e79f81de",
@@ -23,147 +103,67 @@
             }
         },
         {
-            "id": "617431c3c0fa2d2629fa871e788059df",
-            "title": "EXCLUSIVE-US, China gear up for mid-September AI safety talks",
-            "description": "Read more about EXCLUSIVE-US, China gear up for mid-September AI safety talks on Devdiscourse",
-            "content": "The U.S. ​and China are gearing up to discuss AI safety risks during a dialogue planned for mid-September, two sources ‌briefed on ​the discussions told Reuters, as rapidly advancing frontier AI capabilities reach a global tipping point. The talks, t... [6529 chars]",
-            "url": "https://www.devdiscourse.com/article/international/3972904-exclusive-us-china-gear-up-for-mid-september-ai-safety-talks",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_10_0069135.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-09-04T22:57:09Z",
+            "id": "f4042fbe6d1cedc897cc96b3573cd17f",
+            "title": "Lithuania to Launch Integrated AI Drone Defense System",
+            "description": "The Lithuanian Ministry of National Defense announced a state contract for an integrated airspace surveillance and control system designed to unify data from",
+            "content": "The Lithuanian Ministry of National Defense announced a state contract for an integrated airspace surveillance and control system designed to unify data from various institutions into a single ecosystem, LRT reported.\nDefense Minister Robertas Kaunas... [2462 chars]",
+            "url": "https://www.europesays.com/3235198/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/09/a78bfdc79ee2a5e57d4303871c429b7b.jpg",
+            "publishedAt": "2026-09-05T22:35:32Z",
             "lang": "en",
             "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "698dcbfe5b8891d7992786546dee8acd",
-            "title": "Anthropic IPO launch shifts toward mid-October, sources say",
-            "description": "The artificial intelligence company had been expected to make its IPO prospectus public as early as next week.",
-            "content": "Anthropic is expected to begin marketing its initial public offering in mid-October at the earliest and complete the listing days before the US midterm elections in November, people familiar with the matter said on Friday (Saturday AEST).\nThe artific... [348 chars]",
-            "url": "https://www.afr.com/markets/equity-markets/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-20260905-p60unw",
-            "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/efeee73ccb053dbb7f73acf95b5d292623759225",
-            "publishedAt": "2026-09-04T22:55:56Z",
-            "lang": "en",
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "439068a79c5d32bff51b2f7c98e1f770",
-            "title": "Retailer, AI Giant Among 19 Joining Best Stock Lists",
-            "description": "Five Below on Wednesday reported a 108% surge in Q2 earnings to $1.68 per share. Revenue spiked nearly 23% to $1.26 billion.",
-            "content": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we ... [1013 chars]",
-            "url": "https://www.investors.com/research/microsoft-five-below-among-19-names-just-added-to-ibd-best-growth-stock-watchlists/",
-            "image": "https://www.investors.com/wp-content/uploads/2018/03/ibdstocksupdate4.jpg",
-            "publishedAt": "2026-09-04T22:52:14Z",
-            "lang": "en",
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "7bd170339bf84d3c14da75e3f2ddc67c",
-            "title": "Open AI Microsoft copyright infringement newspaper lawsuit",
-            "description": "The newspapers' Friday motion says OpenAI and Microsoft's products have led to a tsunami of \"pink slime\" news sites that plagiarize or remix content from legitimate news sources.",
-            "content": "A Manhattan judge overseeing a major copyright infringement lawsuit against Microsoft and OpenAI received dueling summary judgment motions Friday, with news organizations including The Mercury News and The New York Times calling on the court to rejec... [5115 chars]",
-            "url": "https://www.mercurynews.com/2026/09/04/mercury-news-ny-times-want-fair-use-claim-tossed-in-copyright-case-against-openai-microsoft-2/",
-            "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/GettyImages-2264640556-e1788557149192_b10cfc.jpg?w=2000&h=1140",
-            "publishedAt": "2026-09-04T22:46:01Z",
+            "id": "55082115ac4529d77a3dc82484e0720a",
+            "title": "We found an AI-powered way to make 2D design less tedious - and now it’s just $199 (MSRP $540)",
+            "description": "Get a one-year subscription to Autodesk AutoCAD LT for just $199 (originally $540) and streamline your 2D design workflow with AI tools.",
+            "content": "TL;DR: Lock in a 1-year subscription to Autodesk AutoCAD LT and make your 2D rendering process a whole lot easier for only $199 (MSRP $540).\nIt’s 2026 — if you’re working on every tiny detail of your 2D drawing, you’re doing it wrong. Autodesk AutoCA... [1250 chars]",
+            "url": "https://nypost.com/2026/09/05/shopping/we-found-an-ai-powered-way-to-make-2d-design-less-tedious-and-now-its-just-199-msrp-540/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/autoc001.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-09-05T22:23:00Z",
             "lang": "en",
             "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
                 "country": "us"
             }
         },
         {
-            "id": "9d0e85693d9fd6ad977d4f4ab22414ba",
-            "title": "Jaishankar meets Polish counterpart, discusses trade & investment, defence",
-            "description": "WARSAW, Sep 4 : External Affairs Minister S Jaishankar and Poland's Deputy Prime Minister Radosław Sikorski held wide-ranging talks on Friday, focusing on trade and investment, space, AI, semiconductors, defence and energy, as well as the complex global challenges and...",
-            "content": "WARSAW, Sep 4 : External Affairs Minister S Jaishankar and Poland's Deputy Prime Minister Radosław Sikorski held wide-ranging talks on Friday, focusing on trade and investment, space, AI, semiconductors, defence and energy, as well as the complex glo... [2423 chars]",
-            "url": "https://www.dailyexcelsior.com/jaishankar-meets-polish-counterpart-discusses-trade-investment-defence/",
-            "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWExOGZiYzQwLWE4YjMtMTFmMS05YjIwLTgzZThkYzhhYjE2YS5qcGc=",
-            "publishedAt": "2026-09-04T22:40:44Z",
+            "id": "dfd46ad51360a341041bfa14f5f447c6",
+            "title": "Danny Boyle Confirms Use Of AI In New Movie 'Ink'",
+            "description": "Danny Boyle has confirmed the use of AI in new movie Ink about the launch of The Sun newspaper. Speaking to Vanity Fair, Boyle said he had used around 30",
+            "content": "Danny Boyle has confirmed the use of AI in new movie Ink about the launch of The Sun newspaper.\nSpeaking to Vanity Fair, Boyle said he had used around 30 seconds of generative AI in the making of his new movie, which opened the Venice Film Festival t... [1888 chars]",
+            "url": "https://www.europesays.com/3235162/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/09/Ink.png",
+            "publishedAt": "2026-09-05T22:08:16Z",
             "lang": "en",
             "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "fd83508f734134a2c4cd5c5104772481",
-            "title": "Bloom Energy, Illumina, Everpure Rise On S&P 500 Index Inclusion",
-            "description": "AI energy play Bloom Energy will be added to the S&P 500 index on Sept. 21. Illumina and Everpure also will join. The three stocks rose.",
-            "content": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we ... [1013 chars]",
-            "url": "https://www.investors.com/news/bloom-energy-illumina-everpure-rise-sp-500-index-inclusion/",
-            "image": "https://www.investors.com/wp-content/uploads/2018/07/Stock-BloomEnergy-01-company.jpg",
-            "publishedAt": "2026-09-04T22:39:06Z",
-            "lang": "en",
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "82deb123780623288a5abe835595b9b9",
-            "title": "My first VentureBeat story was the 'Woodstock of AI.' My last is Nvidia buying Hugging Face for $12.9 billion.",
-            "description": "Michael Nuñez reflects on three years leading VentureBeat’s AI coverage, from Hugging Face’s “Woodstock of AI” to Nvidia’s $12.9 billion deal.",
-            "content": "Today is my last day as Editorial Director at VentureBeat.\nWhen I try to make sense of the last three years, my mind keeps returning to my first weeks on the job. It's a writer's instinct to look for narrative symmetry, but sometimes the universe jus... [10518 chars]",
-            "url": "https://venturebeat.com/technology/my-first-venturebeat-story-was-the-woodstock-of-ai-my-last-is-nvidia-buying-hugging-face-for-12-9-billion",
-            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6tBJBbIFNOxMtDAut2haFH/ec23b1ae4875cee3bc042b54bc1d7c21/Nuneybits_Vector_art_of_San_Francisco_skyline_rising_along_an_e_b9ef7629-1845-4dca-80d7-43235915206c.webp?w=800&q=75",
-            "publishedAt": "2026-09-04T22:15:00Z",
+            "id": "0676644e0554c80efa457b4d30eb0e06",
+            "title": "Commentary: The pushback against AI songs is music to my ears",
+            "description": "For Bloomberg Opinion's Dave Lee, music generated entirely by AI is an abomination and finding it placed by algorithms into a playlist is a “deeply violating experience”.",
+            "content": "NEW YORK: Good news for fans of music produced by actual musicians: Some important victories are being won in the war against AI slop and trickery.\nIn November, I wrote a column imploring Spotify - the leading music streaming platform - to make it po... [5772 chars]",
+            "url": "https://www.channelnewsasia.com/commentary/ai-generated-songs-pushback-spotify-tidal-suno-6362676",
+            "image": "https://dam.mediacorp.sg/image/upload/s--tEmW9KSm--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/04/ai_music.jpg?itok=DordCNCh",
+            "publishedAt": "2026-09-05T22:00:00Z",
             "lang": "en",
             "source": {
-                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
-                "name": "VentureBeat",
-                "url": "https://venturebeat.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "9897ea9d67e87cc8425b9ee44a2de908",
-            "title": "Dolly Parton's Sister Stella Urges Compassion After Her Death",
-            "description": "Dolly Parton's sister Stella urges people to show 'more compassion' after Dolly's death, calling out insensitive comments and AI content.",
-            "content": "Stella Parton is asking people to show “more compassion” following the death of her sister Dolly Parton, while also acknowledging the painful insensitivity she and her family have faced since the country music icon's death.\nThe 77-year-old singer-son... [2850 chars]",
-            "url": "https://kdhlradio.com/ixp/204/p/dolly-parton-sister-stella-compassion/",
-            "image": "https://townsquare.media/site/204/files/2026/09/attachment-gettyimages-485564653.jpg?w=1200&format=natural",
-            "publishedAt": "2026-09-04T22:14:50Z",
-            "lang": "en",
-            "source": {
-                "id": "5aae5fe6e1dd05e3e536f88a30126534",
-                "name": "kdhlradio.com",
-                "url": "https://kdhlradio.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "58cbcc50bdcf33c4b34abbd3e2f81c09",
-            "title": "[INTERVIEW] Korea can lead in AI for older people, UN expert says",
-            "description": "Korea is uniquely positioned to lead global efforts to design and test more inclusive artificial intelligence (AI) systems for older people, combin...",
-            "content": "Korea is uniquely positioned to lead global efforts to design and test more inclusive artificial intelligence (AI) systems for older people, combining its advanced technological capabilities with the world’s fastest-aging population, according to a U... [4157 chars]",
-            "url": "https://www.koreatimes.co.kr/foreignaffairs/20260905/korea-can-lead-in-ai-for-older-people-un-expert-says",
-            "image": "https://newsimg.koreatimes.co.kr/2026/09/03/e04ee8b8-17d2-4951-a5f7-78d89b3ff948.jpg",
-            "publishedAt": "2026-09-04T22:00:13Z",
-            "lang": "en",
-            "source": {
-                "id": "9f2e79f0f9194d0d88f0074def064e60",
-                "name": "The Korea Times",
-                "url": "https://www.koreatimes.co.kr",
-                "country": "kr"
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
             }
         }
     ]
