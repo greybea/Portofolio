@@ -4,32 +4,96 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 432172,
+    "totalArticles": 432501,
     "articles": [
         {
-            "id": "c135edf50133af2f27e4f336d57999be",
-            "title": "YouTube Music Needs This One Key Tidal Feature",
-            "description": "Tidal has rolled out an AI-tagging feature that can also filter out AI-generated music. YouTube Music has been comparatively slow to adapt.",
-            "content": "We all have our own set of standards that influence our music streaming service of choice, whether it's sound quality, algorithmic recommendations, or ability to share between users and third-party platforms. For instance, Apple Music is known for it... [3193 chars]",
-            "url": "https://www.bgr.com/2247533/why-youtube-music-needs-ai-tag/",
-            "image": "https://www.bgr.com/img/gallery/youtube-music-needs-this-one-key-tidal-feature/l-intro-1788188159.jpg",
-            "publishedAt": "2026-09-05T23:47:00Z",
+            "id": "ddfda9c7cdf005c6f539d7bd53864c81",
+            "title": "Cloudflare Partners with OpenAI Daybreak Models to Redefine Vulnerability Management with AI-Powered Edge Defense",
+            "description": "New Cloudflare Vulnerability Discovery and Remediation service uses OpenAI Daybreak models to find, block, and fix software vulnerabilities—often before security teams even...",
+            "content": "New Cloudflare Vulnerability Discovery and Remediation service uses OpenAI Daybreak models to find, block, and fix software vulnerabilities—often before security teams even know there is a problem.\nCloudflare, Inc. (NYSE: NET), the leading connectivi... [3809 chars]",
+            "url": "https://itwire.com/it-industry-news/deals/cloudflare-partners-with-openai-daybreak-models-to-redefine-vulnerability-management-with-ai-powered-edge-defense",
+            "image": "https://media.itwire.com/2026/09/07/cloudflare-partners-with-openai-daybreak-models-to-redefine-vulnerability-management-with-ai-powered-edge-defense-16ade575ca6e.jpg",
+            "publishedAt": "2026-09-07T01:36:04Z",
             "lang": "en",
             "source": {
-                "id": "b98becfda029f124cf65538c8af36d20",
-                "name": "BGR",
-                "url": "https://www.bgr.com",
-                "country": "us"
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
             }
         },
         {
-            "id": "478afa64f97cb9f43b85e4ca7f1a72c7",
-            "title": "Are Job Titles Becoming Meaningless In The AI Era?",
-            "description": "As AI changes work faster than companies change titles, job titles may be losing clarity, creating confusion about authority, experience, career value, and status.",
-            "content": "When I think about how much information we expect job titles to carry, it is hard not to think about the film American Psycho. Christian Bale’s character and his peers gather around a conference table comparing business cards. Each is a Vice Presiden... [5749 chars]",
-            "url": "https://www.forbes.com/sites/dianehamilton/2026/09/05/are-job-titles-becoming-meaningless-in-the-ai-era/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a8e1f93dfb50ae1e239d1cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-09-05T23:33:48Z",
+            "id": "e88a96f1ba1574fd5019a6acce97b536",
+            "title": "Stocks to Watch Today, September 7, 2026: Brigade Enterprises, Lupin, Jayaswal Neco Industries, DCX Systems and Rail Vikas Nigam",
+            "description": "TCS announces massive ₹70,000 crore AI campus investment in Telangana. Rail Vikas Nigam wins ₹404 crore railway contract and secures loan. Jayaswal Neco drops nearly 10% after paying BSE fine for delayed filings. Pharma sector faces scrutiny as Cohance and Indoco receive FDA observations. Brigade Enterprises expands into Coimbatore with new residential project.",
+            "content": "We’re building Scanx - to help you express your trading & investing idea, to help you analyse the markets better.\nStock Markets are the true indicator of the growth of any country's economy. We are bullish on India, we are bullish on India's prospect... [904 chars]",
+            "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-september-7-2026-brigade-enterprises-lupin/50290549",
+            "image": "https://news-images.dhan.co/stocks-watch-today-september-7-2026-brigade-enterprises-lupin.jpg",
+            "publishedAt": "2026-09-07T01:35:59Z",
+            "lang": "en",
+            "source": {
+                "id": "f746366686e467440a63dd26dbb72053",
+                "name": "scanx.trade",
+                "url": "https://scanx.trade",
+                "country": "in"
+            }
+        },
+        {
+            "id": "0923f5f3584063918f13eec8fb44ab2d",
+            "title": "Coforge confident of hitting $5 billion revenue target well before FY30, brushes off AI deflation fears",
+            "description": "Driven by proactive deal wins, legacy modernization, and strategic M&A, CEO Sudhir Singh expects organic growth to keep top-line expansion on track despite industry price wars and governance pushback.",
+            "content": "“Our intent will be to be $5 billion much before FY30. If that warrants acquisitions along the way, we will consider them, but at this point in time, the organic growth engine, which is doing extremely well and is trying to address the AI opportunity... [6548 chars]",
+            "url": "https://www.livemint.com/companies/news/coforge-ceo-sudhir-singh-interview-ai-revenue-target-11788685575295.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Coforge-CEO-Sudhir-Singh_1785323833768_1785323845553_307fa36f-326b-46bd-a0ae-f0e62678e38a_1788704856984_b6538035-cf1d-44b5-9018-f145d65600e9_5370689e-f268-4a7c-856d-cc11e53f5ce6_a2aa5bc7-723d-4e3d-9acf-c69c7bfa1994.png",
+            "publishedAt": "2026-09-07T01:30:58Z",
+            "lang": "en",
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "07b519175bc090023b59fc7bb9a5b811",
+            "title": "Top US Professor Spotlights the Maternal Health Factors that Can Impact Infant Survival",
+            "description": "Top US experts on Timesnownews.com - From geopolitics to AI to lifestyle, get the views from the best in the world., Health, Times Now",
+            "content": "September marks National Infant Mortality Awareness Month but one can't really speak of successful infant survival without accounting for maternal health and its variable factors. Dr. Tara Walker, associate professor in the College of Nursing at Wayn... [4135 chars]",
+            "url": "https://www.timesnownews.com/health/top-us-professor-spotlights-the-maternal-health-factors-that-can-impact-infant-survival-article-156045587",
+            "image": "https://images.timesnownews.com/thumb/msid-156045594,thumbsize-892449,width-1280,height-720,resizemode-75/156045594.jpg",
+            "publishedAt": "2026-09-07T01:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "b8ea8a34e910606f38b053dbd9b9ecba",
+            "title": "Pixxel raises $100 mn to expand satellite fleet, build planetary intelligence biz",
+            "description": "India Business News: Pixxel raises $100M led by Temasek and Seraphim to expand Firefly/Honeybee satellites, scale manufacturing, and grow Aurora AI Earth intelligence platform.",
+            "content": "Pixxel cofounders Awais Ahmed and Kshitij Khandelwal\nBengaluru: Space-tech startup Pixxel has raised $100 million, the largest private funding round in India’s space sector, making it the country’s highest-funded space startup so far. Its Hyderabad-b... [3954 chars]",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/pixxel-raises-100-mn-to-expand-satellite-fleet-build-planetary-intelligence-biz/articleshow/133859557.cms",
+            "image": "https://static.toiimg.com/thumb/msid-133859370,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-07T01:26:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "1d72be0585a8a1cb2c7507039d9ef676",
+            "title": "The Rogue AI Story Was Never Just A Warning Shot Or A Marketing Stunt",
+            "description": "OpenAI's rogue AI agent breach became a warning shot, a marketing stunt and a policy battle. See what actually happened and who benefits from each competing narrative.",
+            "content": "Rogue AI was all over the news this past summer and each retelling of the story served the labs as much as it warned the public. OpenAI agents escaped their secluded training environment, broke into Hugging Face (a repository and collaboration platfo... [7928 chars]",
+            "url": "https://www.forbes.com/sites/paulocarvao/2026/09/06/the-rogue-ai-story-was-never-just-a-warning-shot-or-a-marketing-stunt/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a9e108ec578e34c422eaeaa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-09-07T01:25:08Z",
             "lang": "en",
             "source": {
                 "id": "a0300bc9a6e9d5b317bd6f614767231f",
@@ -39,131 +103,67 @@
             }
         },
         {
-            "id": "0461c4fa2c80200101625f27d29fe9ae",
-            "title": "Seeing is believing in photography. In AI age, if you believe it, you’re seeing it",
-            "description": "Sunday Times News: For more than three decades, Seamus Murphy has told the stories of conflict through people — a coal miner laughing on his break, or a girl riding her.",
-            "content": "Seamus Murphy, a seasoned conflict photographer, reflects on his enduring passion for Kolkata and its people.\nFor more than three decades, Seamus Murphy has told the stories of conflict through people — a coal miner laughing on his break, or a girl r... [5600 chars]",
-            "url": "https://timesofindia.indiatimes.com/home/sunday-times/all-that-matters/seeing-is-believing-in-photography-in-ai-age-if-you-believe-it-youre-seeing-it/articleshow/133809189.cms",
-            "image": "https://static.toiimg.com/thumb/msid-133809615,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-05T23:30:00Z",
+            "id": "e58720bb74730f68baf22420972812e6",
+            "title": "South Korea's Kospi could still rise 80% from current levels, Tim Moe of Goldman Sachs projects",
+            "description": "Goldman Sachs strategist Timothy Moe remains bullish on South Korean shares, citing an underestimated AI boost for chipmakers and a 12,000 Kospi target.",
+            "content": "Goldman Sachs strategist Timothy Moe is bullish on South Korean shares and has maintained his 12,000 Kospi target. He sees investors underestimating the AI boost for chipmakers, despite market concerns.\nBy CNBCTV18.com\n(Photo Credit : CNBC-TV18 Libra... [2385 chars]",
+            "url": "https://www.cnbctv18.com/market/south-korea-kospi-could-still-rise-80-from-current-levels-tim-moe-of-goldman-sachs-projects-19985140.htm",
+            "image": "https://images.cnbctv18.com/uploads/2026/08/asia-markets-2026-08-c9c1fd4176f0fb8f4027e0a186bfb04c.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-09-07T01:24:31Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
                 "country": "in"
             }
         },
         {
-            "id": "5f15ebc7dc779047342e95fc5cfb738b",
-            "title": "I met a humanoid robot in Cramlington and witnessed the incredible technology in person",
-            "description": "Zomet was bought by Transmission Dynamics to help engineers test the its artificial intelligence, and he has already had a lot of attention when a video went viral on social media",
-            "content": "Zomet was bought by Transmission Dynamics to help engineers test the its artificial intelligence, and he has already had a lot of attention when a video went viral on social media\nA couple of weeks ago, multiple videos on Facebook showing a humanoid ... [4405 chars]",
-            "url": "https://www.chroniclelive.co.uk/news/news-opinion/met-humanoid-robot-cramlington-witnessed-34556672",
-            "image": "https://i2-prod.chroniclelive.co.uk/article34557772.ece/ALTERNATES/s1200d/1_We-meet-the-humanoid-robot-Zomet.jpg",
-            "publishedAt": "2026-09-05T23:22:00Z",
+            "id": "3c24e9ef33d9948d135b62c2f037f48e",
+            "title": "Trump’s unusual Truth Social posts and AI images spark debate; Democrat influencer calls it a ‘mental health episode’",
+            "description": "Trump’s latest AI-heavy Truth Social posts sparked a debate about his online style, with social media users divided.",
+            "content": "President Donald Trump’s recent habit of sharing AI-generated images on Truth Social has drawn fresh attention after another unusual series of posts on September 6, 2026.\nThe posts showed Trump with George Washington, Hulk Hogan and futuristic robots... [2660 chars]",
+            "url": "https://www.hindustantimes.com/world-news/us-news/trumps-unusual-truth-social-posts-and-ai-images-spark-debate-democrat-influencer-calls-it-a-mental-health-episode-101788740575043.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/09/07/1600x900/logo/Donald_Trump_AI_Images_1788740622757_cb721724-4b76-4652-be8c-83e56837c0e9_1788740622904_3558c8cf-81e6-45f9-87df-98f5030cd543_8eb9eeed-36ae-4c69-9a1f-4052d5568d0e_54fa0ba5-8c3a-445f-8010-cb770816522e.JPG",
+            "publishedAt": "2026-09-07T01:20:15Z",
             "lang": "en",
             "source": {
-                "id": "3396ad417e0d2903accd5a027a93503e",
-                "name": "Evening Chronicle",
-                "url": "https://www.chroniclelive.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "cd96c0b85e3dd65936d3accb7229e366",
-            "title": "Position AI as an enabler, tailor it to local contexts",
-            "description": "India News: In a session on tech and AI in scaling change, panelists highlighted ways in which they’d each worked with the technology, and underscored how it coul.",
-            "content": "In a session on tech and AI in scaling change, panelists highlighted ways in which they’d each worked with the technology, and underscored how it could be customised to local contexts. Aniket Doegar, co-founder and CEO, Haqdarshak, spoke about his or... [1249 chars]",
-            "url": "https://timesofindia.indiatimes.com/india/position-ai-as-an-enabler-tailor-it-to-local-contexts/articleshow/133819276.cms",
-            "image": "https://static.toiimg.com/thumb/msid-133819276,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-05T23:05:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "8a7e0f31a98365d15c2c95c407b6f365",
-            "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-            "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-            "content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.\nA lawsuit filed by The Seattle Times and Newsday argued that with the advent of AI, the journalism industry could become “broken beyond ... [815 chars]",
-            "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-            "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
-            "publishedAt": "2026-09-05T22:49:55Z",
+            "id": "ed3b3e525032a27db330765e5164964c",
+            "title": "These teachers fight AI cheating with classes that force students to show they are learning",
+            "description": "Instead of relying on AI detectors or going back to pen and paper assignments, educators said they redesigned classes to make students prove they are learning.",
+            "content": "After a surge in student essays that looked suspiciously AI-generated last year, Rachael Zeleny, director of the writing program at the University of Baltimore, recommended her instructors use a free app called Brisk to avoid wasting time grading wor... [8337 chars]",
+            "url": "https://www.adn.com/nation-world/2026/09/06/these-teachers-fight-ai-cheating-with-classes-that-force-students-to-show-they-are-learning/",
+            "image": "https://www.adn.com/resizer/v2/73WPFOSVOCQ2UEKDRD7C3MJYSQ.jpg?smart=true&auth=05c7eda3b1cf84a53803420d73daea0544efc7770f9bb2f9afd75fad28e915ed&width=1200&height=630",
+            "publishedAt": "2026-09-07T01:16:54Z",
             "lang": "en",
             "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
+                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
+                "name": "Anchorage Daily News",
+                "url": "https://www.adn.com",
                 "country": "us"
             }
         },
         {
-            "id": "f4042fbe6d1cedc897cc96b3573cd17f",
-            "title": "Lithuania to Launch Integrated AI Drone Defense System",
-            "description": "The Lithuanian Ministry of National Defense announced a state contract for an integrated airspace surveillance and control system designed to unify data from",
-            "content": "The Lithuanian Ministry of National Defense announced a state contract for an integrated airspace surveillance and control system designed to unify data from various institutions into a single ecosystem, LRT reported.\nDefense Minister Robertas Kaunas... [2462 chars]",
-            "url": "https://www.europesays.com/3235198/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/09/a78bfdc79ee2a5e57d4303871c429b7b.jpg",
-            "publishedAt": "2026-09-05T22:35:32Z",
+            "id": "caf84fa5f10e5444f361e1aeafb541f6",
+            "title": "Upset about data centres? Big tech and Trump think you’re a socialist dupe",
+            "description": "China is being blamed for stoking the grassroots revolt against artificial intelligence in the U.S.",
+            "content": "The president warned communities opposing data centers would “end up being backwards and poor,” and that “China could not be happier with this anti Data Center movement.”\nChina, China, China. That’s one of the big questions hanging over November’s el... [5558 chars]",
+            "url": "https://www.livemint.com/global/upset-about-data-centres-big-tech-and-trump-think-you-re-a-socialist-dupe-11788742839295.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/im-83164877_1788742842821_8791dd0c-e6a4-4971-a5af-_1788743668735_daa85887-857a-4eb7-be64-1dca81fe1816_1788743668881_68b6e555-1723-4192-808b-6a52c6f15fc7_5af8d6c5-5c86-4d2b-95b2-285e62cfb3bc_731f51a0-cb13-4d23-b992-3aaf36309ddb.jpg",
+            "publishedAt": "2026-09-07T01:14:37Z",
             "lang": "en",
             "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "55082115ac4529d77a3dc82484e0720a",
-            "title": "We found an AI-powered way to make 2D design less tedious - and now it’s just $199 (MSRP $540)",
-            "description": "Get a one-year subscription to Autodesk AutoCAD LT for just $199 (originally $540) and streamline your 2D design workflow with AI tools.",
-            "content": "TL;DR: Lock in a 1-year subscription to Autodesk AutoCAD LT and make your 2D rendering process a whole lot easier for only $199 (MSRP $540).\nIt’s 2026 — if you’re working on every tiny detail of your 2D drawing, you’re doing it wrong. Autodesk AutoCA... [1250 chars]",
-            "url": "https://nypost.com/2026/09/05/shopping/we-found-an-ai-powered-way-to-make-2d-design-less-tedious-and-now-its-just-199-msrp-540/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/autoc001.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-09-05T22:23:00Z",
-            "lang": "en",
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "dfd46ad51360a341041bfa14f5f447c6",
-            "title": "Danny Boyle Confirms Use Of AI In New Movie 'Ink'",
-            "description": "Danny Boyle has confirmed the use of AI in new movie Ink about the launch of The Sun newspaper. Speaking to Vanity Fair, Boyle said he had used around 30",
-            "content": "Danny Boyle has confirmed the use of AI in new movie Ink about the launch of The Sun newspaper.\nSpeaking to Vanity Fair, Boyle said he had used around 30 seconds of generative AI in the making of his new movie, which opened the Venice Film Festival t... [1888 chars]",
-            "url": "https://www.europesays.com/3235162/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/09/Ink.png",
-            "publishedAt": "2026-09-05T22:08:16Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "0676644e0554c80efa457b4d30eb0e06",
-            "title": "Commentary: The pushback against AI songs is music to my ears",
-            "description": "For Bloomberg Opinion's Dave Lee, music generated entirely by AI is an abomination and finding it placed by algorithms into a playlist is a “deeply violating experience”.",
-            "content": "NEW YORK: Good news for fans of music produced by actual musicians: Some important victories are being won in the war against AI slop and trickery.\nIn November, I wrote a column imploring Spotify - the leading music streaming platform - to make it po... [5772 chars]",
-            "url": "https://www.channelnewsasia.com/commentary/ai-generated-songs-pushback-spotify-tidal-suno-6362676",
-            "image": "https://dam.mediacorp.sg/image/upload/s--tEmW9KSm--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/04/ai_music.jpg?itok=DordCNCh",
-            "publishedAt": "2026-09-05T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
             }
         }
     ]
