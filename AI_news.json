@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 432501,
+    "totalArticles": 433159,
     "articles": [
         {
-            "id": "ddfda9c7cdf005c6f539d7bd53864c81",
-            "title": "Cloudflare Partners with OpenAI Daybreak Models to Redefine Vulnerability Management with AI-Powered Edge Defense",
-            "description": "New Cloudflare Vulnerability Discovery and Remediation service uses OpenAI Daybreak models to find, block, and fix software vulnerabilities—often before security teams even...",
-            "content": "New Cloudflare Vulnerability Discovery and Remediation service uses OpenAI Daybreak models to find, block, and fix software vulnerabilities—often before security teams even know there is a problem.\nCloudflare, Inc. (NYSE: NET), the leading connectivi... [3809 chars]",
-            "url": "https://itwire.com/it-industry-news/deals/cloudflare-partners-with-openai-daybreak-models-to-redefine-vulnerability-management-with-ai-powered-edge-defense",
-            "image": "https://media.itwire.com/2026/09/07/cloudflare-partners-with-openai-daybreak-models-to-redefine-vulnerability-management-with-ai-powered-edge-defense-16ade575ca6e.jpg",
-            "publishedAt": "2026-09-07T01:36:04Z",
+            "id": "9ecacdc8ce603f3622be2829a92f9a78",
+            "title": "Malaysia weighs Huawei chips for sovereign AI, Bloomberg reports",
+            "description": "Malaysia is weighing Huawei chips for its $494mn sovereign AI project, Bloomberg reports, defying a US warning about those exact accelerators.",
+            "content": "Malaysia is leaning towards Huawei silicon to run its national AI project, according to Bloomberg. No foreign government has openly chosen Chinese AI accelerators over American ones before. Washington told the world last year that buying these partic... [5844 chars]",
+            "url": "https://thenextweb.com/news/malaysia-huawei-ai-chips-sovereign-ai-us-export-warning",
+            "image": "https://media.thenextweb.com/2026/09/huawei-beijing-research-institute-building-q10.jpg",
+            "publishedAt": "2026-09-08T00:12:28Z",
             "lang": "en",
             "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
+                "id": "11c2fbf226e7334e9f93bb78243a79cc",
+                "name": "TNW",
+                "url": "https://thenextweb.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "e79a45f42444dc174e4fe38b6231ce1c",
+            "title": "In pictures: from factory floors to AI - the evolution of innovation in Hong Kong",
+            "description": "A visual journey through the city’s industrial evolution, from 1960s textile factories to AI pioneers such as SenseTime and DJI.",
+            "content": "From bustling 1960s workshops to next-generation AI labs, Hong Kong’s industrial landscape has undergone a remarkable evolution.\nIn the mid-20th century, the city established itself as a global light-manufacturing hub, driven by crowded factory floor... [986 chars]",
+            "url": "https://www.scmp.com/postmag/article/3365879/pictures-factory-floors-ai-evolution-innovation-hong-kong",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_postmag/public/d8/images/canvas/2026/08/31/b126dc3b-8758-4fe3-af58-449f8c00edb5_9e024763.jpg?itok=uF5gRqSc&v=1788182653",
+            "publishedAt": "2026-09-08T00:00:10Z",
+            "lang": "en",
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            }
+        },
+        {
+            "id": "9f4abb854b80b53169efb5861b9206d4",
+            "title": "IBM plans AI-driven smart governance platform for mining sector: Kulshrestha",
+            "description": "business reporter : the indian bureau of mines (ibm) is set to advance its mining tenement system (mts) into an ai-enabled smart governance and monitoring system aimed at transforming the regulation of the mining and mineral sector throug",
+            "content": "Business Reporter :\nTHE Indian Bureau of Mines (IBM) is set to advance its Mining Tenement System (MTS) into an AI-enabled smart governance and monitoring system aimed at transforming the regulation of the mining and mineral sector through artificial... [1698 chars]",
+            "url": "https://www.thehitavada.com//Encyc/2026/9/8/ibm-plans-ai-driven-smart-governance-platform-for-mining-sector-kulshrestha.html",
+            "image": "https://www.thehitavada.com/Encyc/2026/9/8/IBM-plans-AI-driven-smart-governance-platform-for-mining-sector-Kulshrestha_202609081419126894_H@@IGHT_1005_W@@IDTH_1509.jpg",
+            "publishedAt": "2026-09-08T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "3e8b17f13ae85202667e0a5a2efc5957",
+            "title": "‘If we don’t like it, we’ll kill it. If we love it, we’ll marry it’: We were dreaming about ChatGPT thousands of years before it existed — here's how ancient myths shaped the AI we’re building today",
+            "description": "I interviewed the authors of Myth-Made Machines about why science fiction hasn’t merely predicted AI; it has influenced the engineers creating it",
+            "content": "Whenever a new AI model is released in a cut-down form because it is too powerful, or one transgresses its sandbox and performs an unexpected cyber hack on a company’s website, we tend to see jokes made about Skynet or HAL 9000 becoming a reality.\nBu... [10480 chars]",
+            "url": "https://www.techradar.com/ai-platforms-assistants/if-we-dont-like-it-well-kill-it-if-we-love-it-well-marry-it-we-were-dreaming-about-chatgpt-thousands-of-years-before-it-existed-heres-how-ancient-myths-shaped-the-ai-were-building-today",
+            "image": "https://cdn.mos.cms.futurecdn.net/crwCbqY6PhFTZf8MAZtG4M-1920-80.jpg",
+            "publishedAt": "2026-09-08T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
                 "country": "au"
             }
         },
         {
-            "id": "e88a96f1ba1574fd5019a6acce97b536",
-            "title": "Stocks to Watch Today, September 7, 2026: Brigade Enterprises, Lupin, Jayaswal Neco Industries, DCX Systems and Rail Vikas Nigam",
-            "description": "TCS announces massive ₹70,000 crore AI campus investment in Telangana. Rail Vikas Nigam wins ₹404 crore railway contract and secures loan. Jayaswal Neco drops nearly 10% after paying BSE fine for delayed filings. Pharma sector faces scrutiny as Cohance and Indoco receive FDA observations. Brigade Enterprises expands into Coimbatore with new residential project.",
-            "content": "We’re building Scanx - to help you express your trading & investing idea, to help you analyse the markets better.\nStock Markets are the true indicator of the growth of any country's economy. We are bullish on India, we are bullish on India's prospect... [904 chars]",
-            "url": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-september-7-2026-brigade-enterprises-lupin/50290549",
-            "image": "https://news-images.dhan.co/stocks-watch-today-september-7-2026-brigade-enterprises-lupin.jpg",
-            "publishedAt": "2026-09-07T01:35:59Z",
+            "id": "983f0e2fa50451d0c6bec02673ed8a53",
+            "title": "IBM plans AI-driven smart governance platform for mining sector: Kulshrestha",
+            "description": "business reporter : the indian bureau of mines (ibm) is set to advance its mining tenement system (mts) into an ai-enabled smart governance and monitoring system aimed at transforming the regulation of the mining and mineral sector throug",
+            "content": "Business Reporter :\nTHE Indian Bureau of Mines (IBM) is set to advance its Mining Tenement System (MTS) into an AI-enabled smart governance and monitoring system aimed at transforming the regulation of the mining and mineral sector through artificial... [1698 chars]",
+            "url": "https://www.thehitavada.com/Encyc/2026/9/8/ibm-plans-ai-driven-smart-governance-platform-for-mining-sector-kulshrestha.html",
+            "image": "https://www.thehitavada.com/Encyc/2026/9/8/IBM-plans-AI-driven-smart-governance-platform-for-mining-sector-Kulshrestha_202609081419126894_H@@IGHT_1005_W@@IDTH_1509.jpg",
+            "publishedAt": "2026-09-08T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
                 "country": "in"
             }
         },
         {
-            "id": "0923f5f3584063918f13eec8fb44ab2d",
-            "title": "Coforge confident of hitting $5 billion revenue target well before FY30, brushes off AI deflation fears",
-            "description": "Driven by proactive deal wins, legacy modernization, and strategic M&A, CEO Sudhir Singh expects organic growth to keep top-line expansion on track despite industry price wars and governance pushback.",
-            "content": "“Our intent will be to be $5 billion much before FY30. If that warrants acquisitions along the way, we will consider them, but at this point in time, the organic growth engine, which is doing extremely well and is trying to address the AI opportunity... [6548 chars]",
-            "url": "https://www.livemint.com/companies/news/coforge-ceo-sudhir-singh-interview-ai-revenue-target-11788685575295.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Coforge-CEO-Sudhir-Singh_1785323833768_1785323845553_307fa36f-326b-46bd-a0ae-f0e62678e38a_1788704856984_b6538035-cf1d-44b5-9018-f145d65600e9_5370689e-f268-4a7c-856d-cc11e53f5ce6_a2aa5bc7-723d-4e3d-9acf-c69c7bfa1994.png",
-            "publishedAt": "2026-09-07T01:30:58Z",
+            "id": "37101b38523895ddecafcf474bccf367",
+            "title": "Cathay Pacific tests Google AI that dramatically cuts airplane contrails - tiny altitude shifts slash environmental impact by 40% in early trials",
+            "description": "Small changes, big impacts",
+            "content": "Google's contrail mitigation tech is expanding to a new region\nIt uses AI to get planes to avoid cold, humid air\nContrails account for a third of aviation's impact on the climate\nFollowing similar projects across US airspace and the North Atlantic oc... [2220 chars]",
+            "url": "https://www.techradar.com/ai-platforms-assistants/cathay-pacific-tests-google-ai-that-dramatically-cuts-airplane-contrails-tiny-altitude-shifts-slash-environmental-impact-by-40-percent-in-early-trials",
+            "image": "https://cdn.mos.cms.futurecdn.net/uVTCmyofGQbaQupjQWUttN-2000-80.jpg",
+            "publishedAt": "2026-09-08T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
             }
         },
         {
-            "id": "07b519175bc090023b59fc7bb9a5b811",
-            "title": "Top US Professor Spotlights the Maternal Health Factors that Can Impact Infant Survival",
-            "description": "Top US experts on Timesnownews.com - From geopolitics to AI to lifestyle, get the views from the best in the world., Health, Times Now",
-            "content": "September marks National Infant Mortality Awareness Month but one can't really speak of successful infant survival without accounting for maternal health and its variable factors. Dr. Tara Walker, associate professor in the College of Nursing at Wayn... [4135 chars]",
-            "url": "https://www.timesnownews.com/health/top-us-professor-spotlights-the-maternal-health-factors-that-can-impact-infant-survival-article-156045587",
-            "image": "https://images.timesnownews.com/thumb/msid-156045594,thumbsize-892449,width-1280,height-720,resizemode-75/156045594.jpg",
-            "publishedAt": "2026-09-07T01:30:00Z",
+            "id": "c0a16781861568100f95ffcbe4ca3b0f",
+            "title": "OpenAI top scientist urges ‘extreme caution’ with pace of AI",
+            "description": "Jakub Pachocki expects AI labs to voluntarily slow development for safety reasons. Read more at straitstimes.com.",
+            "content": "SAN FRANCISCO – OpenAI’s top scientist has warned that artificial intelligence is evolving so rapidly that it is becoming increasingly difficult for humans to understand and control, and said he expects AI labs to voluntarily slow development for saf... [2655 chars]",
+            "url": "https://www.straitstimes.com/world/united-states/openai-top-scientist-urges-extreme-caution-with-pace-of-ai",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/e4efe1e3cffc972275577b5a0daea693b84a303aeaa426147620233dfafc18ca",
+            "publishedAt": "2026-09-07T23:44:00Z",
             "lang": "en",
             "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
             }
         },
         {
-            "id": "b8ea8a34e910606f38b053dbd9b9ecba",
-            "title": "Pixxel raises $100 mn to expand satellite fleet, build planetary intelligence biz",
-            "description": "India Business News: Pixxel raises $100M led by Temasek and Seraphim to expand Firefly/Honeybee satellites, scale manufacturing, and grow Aurora AI Earth intelligence platform.",
-            "content": "Pixxel cofounders Awais Ahmed and Kshitij Khandelwal\nBengaluru: Space-tech startup Pixxel has raised $100 million, the largest private funding round in India’s space sector, making it the country’s highest-funded space startup so far. Its Hyderabad-b... [3954 chars]",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/pixxel-raises-100-mn-to-expand-satellite-fleet-build-planetary-intelligence-biz/articleshow/133859557.cms",
-            "image": "https://static.toiimg.com/thumb/msid-133859370,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-07T01:26:00Z",
+            "id": "88c84d63fdab3880e61adf6075b3b619",
+            "title": "USI Launches AI Smart Camera Solution to Accelerate Smart Manufacturing",
+            "description": "NANTOU, Sept. 8, 2026 /PRNewswire/ -- USI today announced its next-generation AI Smart Camera solution, a comprehensive edge AI and vision platform that empowers manufacturers to accelerate digital transformation through AI-driven quality inspection, process automation, logistics optimization, and smart factory initiatives.",
+            "content": "NANTOU, Sept. 8, 2026 /PRNewswire/ -- USI today announced its next-generation AI Smart Camera solution, a comprehensive edge AI and vision platform that empowers manufacturers to accelerate digital transformation through AI-driven quality inspection,... [4507 chars]",
+            "url": "https://www.manilatimes.net/2026/09/08/tmt-newswire/pr-newswire/usi-launches-ai-smart-camera-solution-to-accelerate-smart-manufacturing/2420077",
+            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2026-09-07T23:25:30Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "1d72be0585a8a1cb2c7507039d9ef676",
-            "title": "The Rogue AI Story Was Never Just A Warning Shot Or A Marketing Stunt",
-            "description": "OpenAI's rogue AI agent breach became a warning shot, a marketing stunt and a policy battle. See what actually happened and who benefits from each competing narrative.",
-            "content": "Rogue AI was all over the news this past summer and each retelling of the story served the labs as much as it warned the public. OpenAI agents escaped their secluded training environment, broke into Hugging Face (a repository and collaboration platfo... [7928 chars]",
-            "url": "https://www.forbes.com/sites/paulocarvao/2026/09/06/the-rogue-ai-story-was-never-just-a-warning-shot-or-a-marketing-stunt/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a9e108ec578e34c422eaeaa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-09-07T01:25:08Z",
+            "id": "0ff178b16e633890fe4a9d5b0c8e24ce",
+            "title": "Korea's nominal GDP grows at fastest pace in 47 years in Q2; $40,000 per capita GNI on track",
+            "description": "Korea's nominal gross domestic product (GDP) grew at the fastest pace in 47 years in the second quarter, driven by strong artificial intelligence (...",
+            "content": "Korea's nominal gross domestic product (GDP) grew at the fastest pace in 47 years in the second quarter, driven by strong artificial intelligence (AI)-related exports, with the country on track to reach $40,000 in per capita gross national income (GN... [2902 chars]",
+            "url": "https://www.koreatimes.co.kr/economy/20260908/koreas-nominal-gdp-grows-at-fastest-pace-in-47-years-in-q2-40000-per-capita-gni-on-track",
+            "image": "https://newsimg.koreatimes.co.kr/2026/09/08/b69a568b-0e71-4e41-a432-2e61ac09aac1.jpg",
+            "publishedAt": "2026-09-07T23:23:03Z",
             "lang": "en",
             "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
             }
         },
         {
-            "id": "e58720bb74730f68baf22420972812e6",
-            "title": "South Korea's Kospi could still rise 80% from current levels, Tim Moe of Goldman Sachs projects",
-            "description": "Goldman Sachs strategist Timothy Moe remains bullish on South Korean shares, citing an underestimated AI boost for chipmakers and a 12,000 Kospi target.",
-            "content": "Goldman Sachs strategist Timothy Moe is bullish on South Korean shares and has maintained his 12,000 Kospi target. He sees investors underestimating the AI boost for chipmakers, despite market concerns.\nBy CNBCTV18.com\n(Photo Credit : CNBC-TV18 Libra... [2385 chars]",
-            "url": "https://www.cnbctv18.com/market/south-korea-kospi-could-still-rise-80-from-current-levels-tim-moe-of-goldman-sachs-projects-19985140.htm",
-            "image": "https://images.cnbctv18.com/uploads/2026/08/asia-markets-2026-08-c9c1fd4176f0fb8f4027e0a186bfb04c.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-09-07T01:24:31Z",
+            "id": "c68e44c8ad7bb75d0ef4537d065730cc",
+            "title": "Gateshead pervert snared by American TikToker who uses AI to make women look and sound like children",
+            "description": "Jamie Teasdale thought he was talking to a 15-year-old girl and has a previous conviction for a similar offence",
+            "content": "Jamie Teasdale thought he was talking to a 15-year-old girl and has a previous conviction for a similar offence\nA pervert was snared by a TikToker who uses AI to make adult women look and sound like children. Jamie Teasdale had already racked up conv... [2869 chars]",
+            "url": "https://www.chroniclelive.co.uk/news/north-east-news/gateshead-pervert-snared-american-tiktoker-34580808",
+            "image": "https://i2-prod.chroniclelive.co.uk/article34580987.ece/ALTERNATES/s1200d/0_RKR-070926jamieteasdale.jpg",
+            "publishedAt": "2026-09-07T23:17:00Z",
             "lang": "en",
             "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "3c24e9ef33d9948d135b62c2f037f48e",
-            "title": "Trump’s unusual Truth Social posts and AI images spark debate; Democrat influencer calls it a ‘mental health episode’",
-            "description": "Trump’s latest AI-heavy Truth Social posts sparked a debate about his online style, with social media users divided.",
-            "content": "President Donald Trump’s recent habit of sharing AI-generated images on Truth Social has drawn fresh attention after another unusual series of posts on September 6, 2026.\nThe posts showed Trump with George Washington, Hulk Hogan and futuristic robots... [2660 chars]",
-            "url": "https://www.hindustantimes.com/world-news/us-news/trumps-unusual-truth-social-posts-and-ai-images-spark-debate-democrat-influencer-calls-it-a-mental-health-episode-101788740575043.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/09/07/1600x900/logo/Donald_Trump_AI_Images_1788740622757_cb721724-4b76-4652-be8c-83e56837c0e9_1788740622904_3558c8cf-81e6-45f9-87df-98f5030cd543_8eb9eeed-36ae-4c69-9a1f-4052d5568d0e_54fa0ba5-8c3a-445f-8010-cb770816522e.JPG",
-            "publishedAt": "2026-09-07T01:20:15Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "ed3b3e525032a27db330765e5164964c",
-            "title": "These teachers fight AI cheating with classes that force students to show they are learning",
-            "description": "Instead of relying on AI detectors or going back to pen and paper assignments, educators said they redesigned classes to make students prove they are learning.",
-            "content": "After a surge in student essays that looked suspiciously AI-generated last year, Rachael Zeleny, director of the writing program at the University of Baltimore, recommended her instructors use a free app called Brisk to avoid wasting time grading wor... [8337 chars]",
-            "url": "https://www.adn.com/nation-world/2026/09/06/these-teachers-fight-ai-cheating-with-classes-that-force-students-to-show-they-are-learning/",
-            "image": "https://www.adn.com/resizer/v2/73WPFOSVOCQ2UEKDRD7C3MJYSQ.jpg?smart=true&auth=05c7eda3b1cf84a53803420d73daea0544efc7770f9bb2f9afd75fad28e915ed&width=1200&height=630",
-            "publishedAt": "2026-09-07T01:16:54Z",
-            "lang": "en",
-            "source": {
-                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-                "name": "Anchorage Daily News",
-                "url": "https://www.adn.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "caf84fa5f10e5444f361e1aeafb541f6",
-            "title": "Upset about data centres? Big tech and Trump think you’re a socialist dupe",
-            "description": "China is being blamed for stoking the grassroots revolt against artificial intelligence in the U.S.",
-            "content": "The president warned communities opposing data centers would “end up being backwards and poor,” and that “China could not be happier with this anti Data Center movement.”\nChina, China, China. That’s one of the big questions hanging over November’s el... [5558 chars]",
-            "url": "https://www.livemint.com/global/upset-about-data-centres-big-tech-and-trump-think-you-re-a-socialist-dupe-11788742839295.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/im-83164877_1788742842821_8791dd0c-e6a4-4971-a5af-_1788743668735_daa85887-857a-4eb7-be64-1dca81fe1816_1788743668881_68b6e555-1723-4192-808b-6a52c6f15fc7_5af8d6c5-5c86-4d2b-95b2-285e62cfb3bc_731f51a0-cb13-4d23-b992-3aaf36309ddb.jpg",
-            "publishedAt": "2026-09-07T01:14:37Z",
-            "lang": "en",
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
+                "id": "3396ad417e0d2903accd5a027a93503e",
+                "name": "Evening Chronicle",
+                "url": "https://www.chroniclelive.co.uk",
+                "country": "gb"
             }
         }
     ]
