@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 433159,
+    "totalArticles": 434064,
     "articles": [
         {
-            "id": "9ecacdc8ce603f3622be2829a92f9a78",
-            "title": "Malaysia weighs Huawei chips for sovereign AI, Bloomberg reports",
-            "description": "Malaysia is weighing Huawei chips for its $494mn sovereign AI project, Bloomberg reports, defying a US warning about those exact accelerators.",
-            "content": "Malaysia is leaning towards Huawei silicon to run its national AI project, according to Bloomberg. No foreign government has openly chosen Chinese AI accelerators over American ones before. Washington told the world last year that buying these partic... [5844 chars]",
-            "url": "https://thenextweb.com/news/malaysia-huawei-ai-chips-sovereign-ai-us-export-warning",
-            "image": "https://media.thenextweb.com/2026/09/huawei-beijing-research-institute-building-q10.jpg",
-            "publishedAt": "2026-09-08T00:12:28Z",
+            "id": "f606c88344ef7a7a2a4eb3fa281edf1c",
+            "title": "IIT Indore Scientists Crack Open AI’s ‘Black Box’, Find Machines Can Learn Laws Of Chaos",
+            "description": "IIT Indore researchers have found evidence that AI can learn underlying physical laws governing chaotic systems rather than merely memorising past patterns. Led by Prof Sarika Jalan, the study examined how machine learning predicts critical “tipping points” and could eventually aid early warnings for climate shifts, financial crashes and epileptic seizures.",
+            "content": "Indore (Madhya Pradesh): IIT Indore scientists have found evidence that artificial intelligence (AI) can learn physical laws governing sudden changes in complex systems rather than merely memorising past patterns, potentially making AI more transpare... [1740 chars]",
+            "url": "https://www.freepressjournal.in/indore/iit-indore-scientists-crack-open-ais-black-box-find-machines-can-learn-laws-of-chaos",
+            "image": "https://media.assettype.com/freepressjournal/2026-08-21/6sfdjpss/qGqMqN7DYbt8sq6WCO6wl4OdNYSVS0nrhKaqT9OLqpy080TGmJjWhhZXV3f48LfheWV-dPZsaNFhbguGMbZP3ovWs1Q-JlLEgJAg598ALy1vfH8PIeBbbc9s9a1FYVo1YjbHCek2tjHw2yC5oN5c436O3kkEAUg-8kroqcNvjH-iH6ZaL5aoxRfP2oOKbbH.jpg",
+            "publishedAt": "2026-09-09T00:30:00Z",
             "lang": "en",
             "source": {
-                "id": "11c2fbf226e7334e9f93bb78243a79cc",
-                "name": "TNW",
-                "url": "https://thenextweb.com",
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "1c56831d4ec874b8491ca0cd9377e169",
+            "title": "Trading ideas: TRC, Favelle, QES, Genting, Theta Edge, DNeX, Maybank, Public Bank, Ni Hsin, NCT, IJM, Hektar REIT, Zetrix AI, Pioneer, EGH",
+            "description": "KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia.",
+            "content": "KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia.\nTRC Synergy Bhd secured a RM150mn subcontract from Gamuda Bhd ’s engineering arm for underground services works at a hyperscale data centre, with completion... [3276 chars]",
+            "url": "https://www.thestar.com.my/business/business-news/2026/09/09/trading-ideas-trc-favelle-qes-genting-theta-edge-dnex-maybank-public-bank-ni-hsin-nct-ijm-hektar-reit-zetrix-ai-pioneer-egh",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/09/4100720.jpg",
+            "publishedAt": "2026-09-09T00:29:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "e91f4fbeca439fc2c0bc999ce293235b",
+            "title": "FPIs sell $1.6 billion of Indian stocks in five trading sessions",
+            "description": "After a brief period of optimism, foreign investors are retreating from Indian stocks as rising crude oil prices and escalating global bond yields shift market dynamics. This change reflects a waning interest in emerging market growth assets, compounded by profit-taking strategies and a pivot towards AI investments. While domestic buying could offer some support, ongoing external pressures may dampen overall returns.",
+            "content": "Synopsis\nAfter a brief period of optimism, foreign investors are retreating from Indian stocks as rising crude oil prices and escalating global bond yields shift market dynamics. This change reflects a waning interest in emerging market growth assets... [5391 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-sell-1-6-billion-of-indian-stocks-in-five-trading-sessions/articleshow/133947090.cms",
+            "image": "https://img.etimg.com/thumb/msid-133947107,width-1200,height-630,imgsize-33730,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-09-09T00:27:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "2196b2c29339106f3bbec94f947a1600",
+            "title": "Alphabet (GOOGL) and Blackstone’s (BX) Project Braid Data Center Plan Faces Early Delays",
+            "description": "Alphabet (GOOGL) and Blackstone’s (BX) new AI cloud venture, known as Project Braid, is running into early delays, Bloomberg reported. The joint...",
+            "content": "Alphabet (GOOGL) and Blackstone’s (BX) new AI cloud venture, known as Project Braid, is running into early delays, Bloomberg reported. The joint effort, backed by $5 billion from Blackstone, aims to rent Google’s processors to customers. The venture ... [1790 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/alphabet-googl-and-blackstone-s-bx-project-braid-data-center-plan-faces-early-delays-1036530723",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/09/image-898.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-09-09T00:21:51Z",
+            "lang": "en",
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
                 "country": "us"
             }
         },
         {
-            "id": "e79a45f42444dc174e4fe38b6231ce1c",
-            "title": "In pictures: from factory floors to AI - the evolution of innovation in Hong Kong",
-            "description": "A visual journey through the city’s industrial evolution, from 1960s textile factories to AI pioneers such as SenseTime and DJI.",
-            "content": "From bustling 1960s workshops to next-generation AI labs, Hong Kong’s industrial landscape has undergone a remarkable evolution.\nIn the mid-20th century, the city established itself as a global light-manufacturing hub, driven by crowded factory floor... [986 chars]",
-            "url": "https://www.scmp.com/postmag/article/3365879/pictures-factory-floors-ai-evolution-innovation-hong-kong",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_postmag/public/d8/images/canvas/2026/08/31/b126dc3b-8758-4fe3-af58-449f8c00edb5_9e024763.jpg?itok=uF5gRqSc&v=1788182653",
-            "publishedAt": "2026-09-08T00:00:10Z",
+            "id": "79c73c5c081ec1e49a79c809d369d87d",
+            "title": "Meta launches Muse personal AI agent in the US",
+            "description": "Meta has launched Muse, a personal AI agent that can handle everyday tasks and longer-term goals, with safety and privacy features.",
+            "content": "Meta launched on Tuesday a personal artificial intelligence agent, Muse, for people 18 and over who are looking for help with day-to-day tasks like schedules, shopping and, in the company’s words, turning “long-term goals into action plans.” The pare... [2423 chars]",
+            "url": "https://www.thehindubusinessline.com/info-tech/meta-launches-muse-a-personal-ai-agent-for-day-to-day-tasks/article71445365.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/24r65f/article71445378.ece/alternates/LANDSCAPE_1200/2026-07-30T102037Z_788531491_RC2JHMA1Y0NJ_RTRMADP_3_USA-TECH-AI.JPG",
+            "publishedAt": "2026-09-09T00:21:26Z",
             "lang": "en",
             "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            }
-        },
-        {
-            "id": "9f4abb854b80b53169efb5861b9206d4",
-            "title": "IBM plans AI-driven smart governance platform for mining sector: Kulshrestha",
-            "description": "business reporter : the indian bureau of mines (ibm) is set to advance its mining tenement system (mts) into an ai-enabled smart governance and monitoring system aimed at transforming the regulation of the mining and mineral sector throug",
-            "content": "Business Reporter :\nTHE Indian Bureau of Mines (IBM) is set to advance its Mining Tenement System (MTS) into an AI-enabled smart governance and monitoring system aimed at transforming the regulation of the mining and mineral sector through artificial... [1698 chars]",
-            "url": "https://www.thehitavada.com//Encyc/2026/9/8/ibm-plans-ai-driven-smart-governance-platform-for-mining-sector-kulshrestha.html",
-            "image": "https://www.thehitavada.com/Encyc/2026/9/8/IBM-plans-AI-driven-smart-governance-platform-for-mining-sector-Kulshrestha_202609081419126894_H@@IGHT_1005_W@@IDTH_1509.jpg",
-            "publishedAt": "2026-09-08T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
                 "country": "in"
             }
         },
         {
-            "id": "3e8b17f13ae85202667e0a5a2efc5957",
-            "title": "‘If we don’t like it, we’ll kill it. If we love it, we’ll marry it’: We were dreaming about ChatGPT thousands of years before it existed — here's how ancient myths shaped the AI we’re building today",
-            "description": "I interviewed the authors of Myth-Made Machines about why science fiction hasn’t merely predicted AI; it has influenced the engineers creating it",
-            "content": "Whenever a new AI model is released in a cut-down form because it is too powerful, or one transgresses its sandbox and performs an unexpected cyber hack on a company’s website, we tend to see jokes made about Skynet or HAL 9000 becoming a reality.\nBu... [10480 chars]",
-            "url": "https://www.techradar.com/ai-platforms-assistants/if-we-dont-like-it-well-kill-it-if-we-love-it-well-marry-it-we-were-dreaming-about-chatgpt-thousands-of-years-before-it-existed-heres-how-ancient-myths-shaped-the-ai-were-building-today",
-            "image": "https://cdn.mos.cms.futurecdn.net/crwCbqY6PhFTZf8MAZtG4M-1920-80.jpg",
-            "publishedAt": "2026-09-08T00:00:00Z",
+            "id": "904b3c4756b9202a34e41f7f65e232b7",
+            "title": "Qualcomm and Amazon to develop customised AI chips for AWS",
+            "description": "Qualcomm and Amazon will develop customised chips and optical connectivity solutions for AWS’ growing AI data centre infrastructure and inference workloads.",
+            "content": "Chipmaker Qualcomm and Amazon will jointly develop multiple generations of customised chips for Amazon Web Services’ (AWS) growing artificial intelligence data centre infrastructure, with the companies focusing on chips used for AI inference.\nAccordi... [2270 chars]",
+            "url": "https://www.thehindubusinessline.com/info-tech/qualcomm-amazon-to-develop-customised-chips-for-ai-data-centres/article71444399.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/7zzirt/article71445377.ece/alternates/LANDSCAPE_1200/IMG_Quantum_computing_2_1_KNFE8LAD.jpg",
+            "publishedAt": "2026-09-09T00:17:35Z",
             "lang": "en",
             "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "983f0e2fa50451d0c6bec02673ed8a53",
-            "title": "IBM plans AI-driven smart governance platform for mining sector: Kulshrestha",
-            "description": "business reporter : the indian bureau of mines (ibm) is set to advance its mining tenement system (mts) into an ai-enabled smart governance and monitoring system aimed at transforming the regulation of the mining and mineral sector throug",
-            "content": "Business Reporter :\nTHE Indian Bureau of Mines (IBM) is set to advance its Mining Tenement System (MTS) into an AI-enabled smart governance and monitoring system aimed at transforming the regulation of the mining and mineral sector through artificial... [1698 chars]",
-            "url": "https://www.thehitavada.com/Encyc/2026/9/8/ibm-plans-ai-driven-smart-governance-platform-for-mining-sector-kulshrestha.html",
-            "image": "https://www.thehitavada.com/Encyc/2026/9/8/IBM-plans-AI-driven-smart-governance-platform-for-mining-sector-Kulshrestha_202609081419126894_H@@IGHT_1005_W@@IDTH_1509.jpg",
-            "publishedAt": "2026-09-08T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
                 "country": "in"
             }
         },
         {
-            "id": "37101b38523895ddecafcf474bccf367",
-            "title": "Cathay Pacific tests Google AI that dramatically cuts airplane contrails - tiny altitude shifts slash environmental impact by 40% in early trials",
-            "description": "Small changes, big impacts",
-            "content": "Google's contrail mitigation tech is expanding to a new region\nIt uses AI to get planes to avoid cold, humid air\nContrails account for a third of aviation's impact on the climate\nFollowing similar projects across US airspace and the North Atlantic oc... [2220 chars]",
-            "url": "https://www.techradar.com/ai-platforms-assistants/cathay-pacific-tests-google-ai-that-dramatically-cuts-airplane-contrails-tiny-altitude-shifts-slash-environmental-impact-by-40-percent-in-early-trials",
-            "image": "https://cdn.mos.cms.futurecdn.net/uVTCmyofGQbaQupjQWUttN-2000-80.jpg",
-            "publishedAt": "2026-09-08T00:00:00Z",
+            "id": "a6b746323a6bfefdd3ed401be4f7e282",
+            "title": "Nvidia’s $12.93bn Hugging Face bet: Dan Niles on what it means for the future of AI",
+            "description": "Nvidia’s $12.93 billion acquisition of Hugging Face boosts its position in the enterprise AI market by offering a complete AI stack with open-weight models, enhancing data control and growth opportunities.",
+            "content": "In a post on his official X account on September 8, 2026, Niles said he expects the large language model market to increasingly split in favour of open-source and open-weight models as companies select AI systems based on the specific tasks they need... [11508 chars]",
+            "url": "https://www.financialexpress.com/market/global-markets/nvidias-12-93bn-hugging-face-bet-dan-niles-on-what-it-means-for-the-future-of-ai/4334504/",
+            "image": "https://images.financialexpressdigital.com/2026/09/pictures-2026-09-08T190533.123.jpg",
+            "publishedAt": "2026-09-09T00:15:32Z",
             "lang": "en",
             "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
             }
         },
         {
-            "id": "c0a16781861568100f95ffcbe4ca3b0f",
-            "title": "OpenAI top scientist urges ‘extreme caution’ with pace of AI",
-            "description": "Jakub Pachocki expects AI labs to voluntarily slow development for safety reasons. Read more at straitstimes.com.",
-            "content": "SAN FRANCISCO – OpenAI’s top scientist has warned that artificial intelligence is evolving so rapidly that it is becoming increasingly difficult for humans to understand and control, and said he expects AI labs to voluntarily slow development for saf... [2655 chars]",
-            "url": "https://www.straitstimes.com/world/united-states/openai-top-scientist-urges-extreme-caution-with-pace-of-ai",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/e4efe1e3cffc972275577b5a0daea693b84a303aeaa426147620233dfafc18ca",
-            "publishedAt": "2026-09-07T23:44:00Z",
+            "id": "733981056bfd7c21f362ed6e2dae23ec",
+            "title": "OpenAI claims to have solved Navier-Stokes problem: One of math's hardest unsolved mysteries",
+            "description": "OpenAI says an unreleased AI model solved the Navier-Stokes problem in 88 hours, but rival researchers dispute credit and the claim awaits rigorous review. | World News",
+            "content": "Researchers at OpenAI said it took just days -- and millions of dollars in computing power -- to crack what is known as the Navier-Stokes problem.\nNavier-Stokes is one of the seven Millennium Prize Problems, a list of the hardest open questions in ma... [3495 chars]",
+            "url": "https://www.hindustantimes.com/world-news/openai-claims-to-have-solved-navier-stokes-problem-one-of-maths-hardest-unsolved-mysteries-101788912125091.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/09/09/1600x900/logo/OpenAI_1788912179246_a4fd0b88-f0f8-401f-8272-ce3d92024161_1788912179416_4f75a466-4ef7-4842-b111-be4882512bfd_6f63f423-f985-472e-9191-8c971466072a_d79b0093-f002-4cfb-b3cf-ab9038976aed.jpg",
+            "publishedAt": "2026-09-09T00:11:05Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
             }
         },
         {
-            "id": "88c84d63fdab3880e61adf6075b3b619",
-            "title": "USI Launches AI Smart Camera Solution to Accelerate Smart Manufacturing",
-            "description": "NANTOU, Sept. 8, 2026 /PRNewswire/ -- USI today announced its next-generation AI Smart Camera solution, a comprehensive edge AI and vision platform that empowers manufacturers to accelerate digital transformation through AI-driven quality inspection, process automation, logistics optimization, and smart factory initiatives.",
-            "content": "NANTOU, Sept. 8, 2026 /PRNewswire/ -- USI today announced its next-generation AI Smart Camera solution, a comprehensive edge AI and vision platform that empowers manufacturers to accelerate digital transformation through AI-driven quality inspection,... [4507 chars]",
-            "url": "https://www.manilatimes.net/2026/09/08/tmt-newswire/pr-newswire/usi-launches-ai-smart-camera-solution-to-accelerate-smart-manufacturing/2420077",
-            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2026-09-07T23:25:30Z",
+            "id": "f49d5c90d9a70b5c43e02b0c8b1bd552",
+            "title": "With AI memes, Trump promotes mythical version of himself as challenges stack up ahead of midterms",
+            "description": "President Donald Trump is using memes to portray himself as powerful amid struggles with inflation and international issues. WASHINGTON (AP) — In",
+            "content": "President Donald Trump is using memes to portray himself as powerful amid struggles with inflation and international issues.\nWASHINGTON (AP) — In the real world, President Donald Trump is struggling to stop inflation, rout the Iranian government and ... [4927 chars]",
+            "url": "https://www.breitbart.com/news/with-ai-memes-trump-promotes-mythical-version-of-himself-as-challenges-stack-up-ahead-of-midterms/",
+            "image": "https://media.breitbart.com/media/2026/09/wi/ap/aptopix-trump-376-aptopix-trump-president-donald-trump-gestures-boarding-air-force-at-morristown-640x335.jpg",
+            "publishedAt": "2026-09-09T00:04:32Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
             }
         },
         {
-            "id": "0ff178b16e633890fe4a9d5b0c8e24ce",
-            "title": "Korea's nominal GDP grows at fastest pace in 47 years in Q2; $40,000 per capita GNI on track",
-            "description": "Korea's nominal gross domestic product (GDP) grew at the fastest pace in 47 years in the second quarter, driven by strong artificial intelligence (...",
-            "content": "Korea's nominal gross domestic product (GDP) grew at the fastest pace in 47 years in the second quarter, driven by strong artificial intelligence (AI)-related exports, with the country on track to reach $40,000 in per capita gross national income (GN... [2902 chars]",
-            "url": "https://www.koreatimes.co.kr/economy/20260908/koreas-nominal-gdp-grows-at-fastest-pace-in-47-years-in-q2-40000-per-capita-gni-on-track",
-            "image": "https://newsimg.koreatimes.co.kr/2026/09/08/b69a568b-0e71-4e41-a432-2e61ac09aac1.jpg",
-            "publishedAt": "2026-09-07T23:23:03Z",
+            "id": "46f4c2f628cac901558f15acd8d79681",
+            "title": "N3on vs. Sneako explained as AI streamer controversy leads to accusations of betrayal, clout chasing and fake friendship",
+            "description": "US Streamers News: The friendship between Kick streamers N3on and Sneako has taken an unexpected turn after a disagreement over artificial intelligence spilled into a ve.",
+            "content": "The friendship between Kick streamers N3on and Sneako has taken an unexpected turn after a disagreement over artificial intelligence spilled into a very public clash. What began with N3on unveiling an AI version of himself quickly became a debate abo... [3402 chars]",
+            "url": "https://timesofindia.indiatimes.com/world/us-streamers/n3on-vs-sneako-explained-as-ai-streamer-controversy-leads-to-accusations-of-betrayal-clout-chasing-and-fake-friendship/articleshow/133945340.cms",
+            "image": "https://static.toiimg.com/thumb/msid-133945363,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-09T00:01:00Z",
             "lang": "en",
             "source": {
-                "id": "9f2e79f0f9194d0d88f0074def064e60",
-                "name": "The Korea Times",
-                "url": "https://www.koreatimes.co.kr",
-                "country": "kr"
-            }
-        },
-        {
-            "id": "c68e44c8ad7bb75d0ef4537d065730cc",
-            "title": "Gateshead pervert snared by American TikToker who uses AI to make women look and sound like children",
-            "description": "Jamie Teasdale thought he was talking to a 15-year-old girl and has a previous conviction for a similar offence",
-            "content": "Jamie Teasdale thought he was talking to a 15-year-old girl and has a previous conviction for a similar offence\nA pervert was snared by a TikToker who uses AI to make adult women look and sound like children. Jamie Teasdale had already racked up conv... [2869 chars]",
-            "url": "https://www.chroniclelive.co.uk/news/north-east-news/gateshead-pervert-snared-american-tiktoker-34580808",
-            "image": "https://i2-prod.chroniclelive.co.uk/article34580987.ece/ALTERNATES/s1200d/0_RKR-070926jamieteasdale.jpg",
-            "publishedAt": "2026-09-07T23:17:00Z",
-            "lang": "en",
-            "source": {
-                "id": "3396ad417e0d2903accd5a027a93503e",
-                "name": "Evening Chronicle",
-                "url": "https://www.chroniclelive.co.uk",
-                "country": "gb"
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
             }
         }
     ]
