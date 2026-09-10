@@ -4,48 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 434064,
+    "totalArticles": 435299,
     "articles": [
         {
-            "id": "f606c88344ef7a7a2a4eb3fa281edf1c",
-            "title": "IIT Indore Scientists Crack Open AI’s ‘Black Box’, Find Machines Can Learn Laws Of Chaos",
-            "description": "IIT Indore researchers have found evidence that AI can learn underlying physical laws governing chaotic systems rather than merely memorising past patterns. Led by Prof Sarika Jalan, the study examined how machine learning predicts critical “tipping points” and could eventually aid early warnings for climate shifts, financial crashes and epileptic seizures.",
-            "content": "Indore (Madhya Pradesh): IIT Indore scientists have found evidence that artificial intelligence (AI) can learn physical laws governing sudden changes in complex systems rather than merely memorising past patterns, potentially making AI more transpare... [1740 chars]",
-            "url": "https://www.freepressjournal.in/indore/iit-indore-scientists-crack-open-ais-black-box-find-machines-can-learn-laws-of-chaos",
-            "image": "https://media.assettype.com/freepressjournal/2026-08-21/6sfdjpss/qGqMqN7DYbt8sq6WCO6wl4OdNYSVS0nrhKaqT9OLqpy080TGmJjWhhZXV3f48LfheWV-dPZsaNFhbguGMbZP3ovWs1Q-JlLEgJAg598ALy1vfH8PIeBbbc9s9a1FYVo1YjbHCek2tjHw2yC5oN5c436O3kkEAUg-8kroqcNvjH-iH6ZaL5aoxRfP2oOKbbH.jpg",
-            "publishedAt": "2026-09-09T00:30:00Z",
+            "id": "7619e0241511499dc15955cf629f5e48",
+            "title": "Lawmakers blast AI companies after researcher warns of human extinction by 2030",
+            "description": "Just a day after three Anthropic researchers warned that artificial intelligence could kill off humanity within the decade, lawmakers have begun lashing out",
+            "content": "Just a day after three Anthropic researchers warned that artificial intelligence could kill off humanity within the decade, lawmakers have begun lashing out about the risks of the burgeoning technology.\nTed Cruz, a republican senator from Texas, said... [3387 chars]",
+            "url": "https://www.europesays.com/3242653/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/09/1788999811_4583.jpg",
+            "publishedAt": "2026-09-10T00:23:19Z",
             "lang": "en",
             "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
             }
         },
         {
-            "id": "1c56831d4ec874b8491ca0cd9377e169",
-            "title": "Trading ideas: TRC, Favelle, QES, Genting, Theta Edge, DNeX, Maybank, Public Bank, Ni Hsin, NCT, IJM, Hektar REIT, Zetrix AI, Pioneer, EGH",
-            "description": "KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia.",
-            "content": "KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia.\nTRC Synergy Bhd secured a RM150mn subcontract from Gamuda Bhd ’s engineering arm for underground services works at a hyperscale data centre, with completion... [3276 chars]",
-            "url": "https://www.thestar.com.my/business/business-news/2026/09/09/trading-ideas-trc-favelle-qes-genting-theta-edge-dnex-maybank-public-bank-ni-hsin-nct-ijm-hektar-reit-zetrix-ai-pioneer-egh",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/09/4100720.jpg",
-            "publishedAt": "2026-09-09T00:29:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "e91f4fbeca439fc2c0bc999ce293235b",
-            "title": "FPIs sell $1.6 billion of Indian stocks in five trading sessions",
-            "description": "After a brief period of optimism, foreign investors are retreating from Indian stocks as rising crude oil prices and escalating global bond yields shift market dynamics. This change reflects a waning interest in emerging market growth assets, compounded by profit-taking strategies and a pivot towards AI investments. While domestic buying could offer some support, ongoing external pressures may dampen overall returns.",
-            "content": "Synopsis\nAfter a brief period of optimism, foreign investors are retreating from Indian stocks as rising crude oil prices and escalating global bond yields shift market dynamics. This change reflects a waning interest in emerging market growth assets... [5391 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-sell-1-6-billion-of-indian-stocks-in-five-trading-sessions/articleshow/133947090.cms",
-            "image": "https://img.etimg.com/thumb/msid-133947107,width-1200,height-630,imgsize-33730,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-09-09T00:27:00Z",
+            "id": "5e53e772e37e7eb02c48eb7427ec32d6",
+            "title": "Nifty IT index plunges 3.2%, posts biggest single-day fall in 3 months",
+            "description": "The Nifty IT index experienced its largest single-day drop in three months on Wednesday. Several IT stocks saw significant declines, reversing recent gains in the market. Renewed risk-off sentiment and US interest rate hike worries triggered the broad sell-off. Geopolitical tensions and rising oil prices also contributed to the pressure on IT firms. Concerns over H-1B visa costs and generative AI disruption added to the challenges.",
+            "content": "Synopsis\nThe Nifty IT index experienced its largest single-day drop in three months on Wednesday. Several IT stocks saw significant declines, reversing recent gains in the market. Renewed risk-off sentiment and US interest rate hike worries triggered... [7292 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-it-index-plunges-nearly-5-on-us-rate-hike-worries/articleshow/133988374.cms",
+            "image": "https://img.etimg.com/thumb/msid-133988846,width-1200,height-630,imgsize-109054,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-09-10T00:23:00Z",
             "lang": "en",
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -55,115 +39,131 @@
             }
         },
         {
-            "id": "2196b2c29339106f3bbec94f947a1600",
-            "title": "Alphabet (GOOGL) and Blackstone’s (BX) Project Braid Data Center Plan Faces Early Delays",
-            "description": "Alphabet (GOOGL) and Blackstone’s (BX) new AI cloud venture, known as Project Braid, is running into early delays, Bloomberg reported. The joint...",
-            "content": "Alphabet (GOOGL) and Blackstone’s (BX) new AI cloud venture, known as Project Braid, is running into early delays, Bloomberg reported. The joint effort, backed by $5 billion from Blackstone, aims to rent Google’s processors to customers. The venture ... [1790 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/alphabet-googl-and-blackstone-s-bx-project-braid-data-center-plan-faces-early-delays-1036530723",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/09/image-898.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-09-09T00:21:51Z",
+            "id": "3469737104a0752d658f13d9faa02e8e",
+            "title": "Wave of AI-driven IPOs expected to accompany Anthropic’s listing",
+            "description": "With the Labor Day holiday — and summer in the US — now officially over, the traditional push to the end of the year in the market for initial public offerings is on. While Anthropic PBC looms largest in most eyes, a clutch of other companies in artificial intelligence and other sectors are also soon headed for the public markets. “Most of them are heads down focused on getting the numbers in ...",
+            "content": "With the Labor Day holiday — and summer in the US — now officially over, the traditional push to the end of the year in the market for initial public offerings is on.\nWhile Anthropic PBC looms largest in most eyes, a clutch of other companies in arti... [1650 chars]",
+            "url": "https://www.spokesman.com/stories/2026/sep/09/wave-of-ai-driven-ipos-expected-to-accompany-anthr/",
+            "image": "https://thumb.spokesman.com/8z-7sdrUqEzxYXSYY9j-5YyWs2w=/2400x1260/smart/media.spokesman.com/photos/2026/09/09/6aa1ff224691b.hires.jpg",
+            "publishedAt": "2026-09-10T00:21:00Z",
             "lang": "en",
             "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
                 "country": "us"
             }
         },
         {
-            "id": "79c73c5c081ec1e49a79c809d369d87d",
-            "title": "Meta launches Muse personal AI agent in the US",
-            "description": "Meta has launched Muse, a personal AI agent that can handle everyday tasks and longer-term goals, with safety and privacy features.",
-            "content": "Meta launched on Tuesday a personal artificial intelligence agent, Muse, for people 18 and over who are looking for help with day-to-day tasks like schedules, shopping and, in the company’s words, turning “long-term goals into action plans.” The pare... [2423 chars]",
-            "url": "https://www.thehindubusinessline.com/info-tech/meta-launches-muse-a-personal-ai-agent-for-day-to-day-tasks/article71445365.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/24r65f/article71445378.ece/alternates/LANDSCAPE_1200/2026-07-30T102037Z_788531491_RC2JHMA1Y0NJ_RTRMADP_3_USA-TECH-AI.JPG",
-            "publishedAt": "2026-09-09T00:21:26Z",
+            "id": "18d78b4f176da10cedbb7581522df1b4",
+            "title": "Apple takes on AI wearables with always-listening watch features",
+            "description": "Apple Inc. is adding artificial intelligence-powered audio features and other new capabilities to its devices, including its premium smartwatch, to take on a growing category of AI wearables. The Apple Watch Series 12 and Ultra 4 models will have new Audio Intelligence tools, including Siri Recap, which uses ambient listening to take high-level notes of a wearer’s conversations throughout the ...",
+            "content": "Apple Inc. is adding artificial intelligence-powered audio features and other new capabilities to its devices, including its premium smartwatch, to take on a growing category of AI wearables.\nThe Apple Watch Series 12 and Ultra 4 models will have new... [3365 chars]",
+            "url": "https://www.spokesman.com/stories/2026/sep/09/apple-takes-on-ai-wearables-with-always-listening-/",
+            "image": "https://thumb.spokesman.com/l5YQHgUbT275FZPZSLPrsdsIiuQ=/2400x1260/smart/media.spokesman.com/photos/2026/09/09/6aa1ff74642ee.hires.jpg",
+            "publishedAt": "2026-09-10T00:20:00Z",
             "lang": "en",
             "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "904b3c4756b9202a34e41f7f65e232b7",
-            "title": "Qualcomm and Amazon to develop customised AI chips for AWS",
-            "description": "Qualcomm and Amazon will develop customised chips and optical connectivity solutions for AWS’ growing AI data centre infrastructure and inference workloads.",
-            "content": "Chipmaker Qualcomm and Amazon will jointly develop multiple generations of customised chips for Amazon Web Services’ (AWS) growing artificial intelligence data centre infrastructure, with the companies focusing on chips used for AI inference.\nAccordi... [2270 chars]",
-            "url": "https://www.thehindubusinessline.com/info-tech/qualcomm-amazon-to-develop-customised-chips-for-ai-data-centres/article71444399.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/7zzirt/article71445377.ece/alternates/LANDSCAPE_1200/IMG_Quantum_computing_2_1_KNFE8LAD.jpg",
-            "publishedAt": "2026-09-09T00:17:35Z",
-            "lang": "en",
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "a6b746323a6bfefdd3ed401be4f7e282",
-            "title": "Nvidia’s $12.93bn Hugging Face bet: Dan Niles on what it means for the future of AI",
-            "description": "Nvidia’s $12.93 billion acquisition of Hugging Face boosts its position in the enterprise AI market by offering a complete AI stack with open-weight models, enhancing data control and growth opportunities.",
-            "content": "In a post on his official X account on September 8, 2026, Niles said he expects the large language model market to increasingly split in favour of open-source and open-weight models as companies select AI systems based on the specific tasks they need... [11508 chars]",
-            "url": "https://www.financialexpress.com/market/global-markets/nvidias-12-93bn-hugging-face-bet-dan-niles-on-what-it-means-for-the-future-of-ai/4334504/",
-            "image": "https://images.financialexpressdigital.com/2026/09/pictures-2026-09-08T190533.123.jpg",
-            "publishedAt": "2026-09-09T00:15:32Z",
-            "lang": "en",
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "733981056bfd7c21f362ed6e2dae23ec",
-            "title": "OpenAI claims to have solved Navier-Stokes problem: One of math's hardest unsolved mysteries",
-            "description": "OpenAI says an unreleased AI model solved the Navier-Stokes problem in 88 hours, but rival researchers dispute credit and the claim awaits rigorous review. | World News",
-            "content": "Researchers at OpenAI said it took just days -- and millions of dollars in computing power -- to crack what is known as the Navier-Stokes problem.\nNavier-Stokes is one of the seven Millennium Prize Problems, a list of the hardest open questions in ma... [3495 chars]",
-            "url": "https://www.hindustantimes.com/world-news/openai-claims-to-have-solved-navier-stokes-problem-one-of-maths-hardest-unsolved-mysteries-101788912125091.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/09/09/1600x900/logo/OpenAI_1788912179246_a4fd0b88-f0f8-401f-8272-ce3d92024161_1788912179416_4f75a466-4ef7-4842-b111-be4882512bfd_6f63f423-f985-472e-9191-8c971466072a_d79b0093-f002-4cfb-b3cf-ab9038976aed.jpg",
-            "publishedAt": "2026-09-09T00:11:05Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "f49d5c90d9a70b5c43e02b0c8b1bd552",
-            "title": "With AI memes, Trump promotes mythical version of himself as challenges stack up ahead of midterms",
-            "description": "President Donald Trump is using memes to portray himself as powerful amid struggles with inflation and international issues. WASHINGTON (AP) — In",
-            "content": "President Donald Trump is using memes to portray himself as powerful amid struggles with inflation and international issues.\nWASHINGTON (AP) — In the real world, President Donald Trump is struggling to stop inflation, rout the Iranian government and ... [4927 chars]",
-            "url": "https://www.breitbart.com/news/with-ai-memes-trump-promotes-mythical-version-of-himself-as-challenges-stack-up-ahead-of-midterms/",
-            "image": "https://media.breitbart.com/media/2026/09/wi/ap/aptopix-trump-376-aptopix-trump-president-donald-trump-gestures-boarding-air-force-at-morristown-640x335.jpg",
-            "publishedAt": "2026-09-09T00:04:32Z",
-            "lang": "en",
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
                 "country": "us"
             }
         },
         {
-            "id": "46f4c2f628cac901558f15acd8d79681",
-            "title": "N3on vs. Sneako explained as AI streamer controversy leads to accusations of betrayal, clout chasing and fake friendship",
-            "description": "US Streamers News: The friendship between Kick streamers N3on and Sneako has taken an unexpected turn after a disagreement over artificial intelligence spilled into a ve.",
-            "content": "The friendship between Kick streamers N3on and Sneako has taken an unexpected turn after a disagreement over artificial intelligence spilled into a very public clash. What began with N3on unveiling an AI version of himself quickly became a debate abo... [3402 chars]",
-            "url": "https://timesofindia.indiatimes.com/world/us-streamers/n3on-vs-sneako-explained-as-ai-streamer-controversy-leads-to-accusations-of-betrayal-clout-chasing-and-fake-friendship/articleshow/133945340.cms",
-            "image": "https://static.toiimg.com/thumb/msid-133945363,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-09T00:01:00Z",
+            "id": "08f287c6118c9ad5abe915d4b96a4d3a",
+            "title": "Despite spending billions on data centers and AI, US government report finds Amazon workers are using food stamps more than ever",
+            "description": "Multi-billion-dollar buildouts for AI partners, but an increasing number of food-stamp recipients among one's employees?",
+            "content": "A GAO report requested by Bernie Sanders lists Amazon among the top employers of Medicaid and SNAP recipients in every state that supplied employer data\nAmazon's capital expenditure guidance for 2026 has risen from $200 billion to $220 billion citing... [4234 chars]",
+            "url": "https://www.techradar.com/pro/despite-spending-billions-on-data-centers-and-ai-us-government-report-finds-amazon-workers-are-using-food-stamps-more-than-ever",
+            "image": "https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn-2560-80.jpg",
+            "publishedAt": "2026-09-10T00:20:00Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "ee057021afee060ed07256eb8c28ea18",
+            "title": "Lawmakers blast AI companies after researcher warns of human extinction by 2030",
+            "description": "Former Anthropic employee Jacob Coxon said AI will become ‘superhuman systems’ that can cause human extinction by the end of the decade",
+            "content": "Just a day after three Anthropic researchers warned that artificial intelligence could kill off humanity within the decade, lawmakers have begun lashing out about the risks of the burgeoning technology.\nTed Cruz, a republican senator from Texas, said... [3387 chars]",
+            "url": "https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030",
+            "image": "https://i.guim.co.uk/img/media/2b7a40c6cbcd6d16367850c23bef249a753aee37/458_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b95014e7363150aa31214b9558fd9127",
+            "publishedAt": "2026-09-10T00:19:36Z",
+            "lang": "en",
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "c89fc2a3b424a7572c35f8e289bca198",
+            "title": "AI insiders say their technology could doom humanity. Will Congress act?",
+            "description": "Members of both parties have little hope that Congress will pass AI safety legislation this year — or confidence they’ll be able to build consensus in 2027.",
+            "content": "Members of Congress are confronting a grim reality: They are ill-equipped to rein in advanced artificial intelligence that one expert warns could “kill us all” by the end of the decade.\nA viral social media post this week from ex-Anthropic researcher... [6830 chars]",
+            "url": "https://www.politico.com/news/2026/09/09/ai-safety-guardrails-congress-01069791",
+            "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F8a%2F2e%2Fe82c30694b6288c0ca8d2bc09c2c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2285098382",
+            "publishedAt": "2026-09-10T00:17:00Z",
+            "lang": "en",
+            "source": {
+                "id": "c477009a98f37b19212d8ae20ce8c018",
+                "name": "POLITICO",
+                "url": "https://www.politico.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ca25a4a38fe705171973bb09c13fb421",
+            "title": "Ex AI Researcher Warns Joe Rogan Artificial Intelligence Could Turn On Humans And 'Kill Everyone'",
+            "description": "Daniel Kokotajlo gravely estimated what the future of humanity could be in a mere zero to five years from now.",
+            "content": "LOADINGERROR LOADING\nFormer OpenAI researcher Daniel Kokotajlo gave Joe Rogan a grave warning about what could become of humanity as the artificial intelligence arms race between countries like the U.S. and China rages on.\n“Everyone’s going to be so ... [2702 chars]",
+            "url": "https://www.huffpost.com/entry/ai-researcher-warns-joe-rogan-artificial-intelligence-could-kill-everyone_n_6aa1c807e4b086ecc55fc23a",
+            "image": "https://img.huffingtonpost.com/asset/6aa1dbf5170000d5a2200f58.jpeg?cache=PiTQhTptuu&ops=1200_630",
+            "publishedAt": "2026-09-10T00:15:52Z",
+            "lang": "en",
+            "source": {
+                "id": "e382ce4dfbd3358e338d63782000b7df",
+                "name": "HuffPost",
+                "url": "https://www.huffpost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "47263ba1777dcd26c77060f1ae41956a",
+            "title": "Reading scores slide amid worries that AI is shortcutting learning",
+            "description": "A new report shows declining student performance in reading and math, highlighting digital distractions and the rise of artificial intelligence as areas of concern.",
+            "content": "A new report shows declining student performance in reading and math, highlighting digital distractions and the rise of artificial intelligence as areas of concern.\nThe report from the Organisation for Economic Co-operation and Development showed tha... [4017 chars]",
+            "url": "https://wjla.com/news/nation-world/reading-scores-slide-amid-worries-that-ai-is-shortcutting-learning-oecd-student-performance",
+            "image": "https://wjla.com/resources/media2/16x9/5305/1320/166x284/90/698e881c-8190-421b-9d25-efbc674d6e28-GettyImages1218865458.jpg",
+            "publishedAt": "2026-09-10T00:11:21Z",
+            "lang": "en",
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0999a0d3cd3ed1fef5625688666a0aaf",
+            "title": "Reading scores slide amid worries that AI is shortcutting learning",
+            "description": "A new report shows declining student performance in reading and math, highlighting digital distractions and the rise of artificial intelligence as areas of concern.",
+            "content": "A new report shows declining student performance in reading and math, highlighting digital distractions and the rise of artificial intelligence as areas of concern.\nThe report from the Organisation for Economic Co-operation and Development showed tha... [4017 chars]",
+            "url": "https://foxbaltimore.com/news/nation-world/reading-scores-slide-amid-worries-that-ai-is-shortcutting-learning-oecd-student-performance",
+            "image": "https://foxbaltimore.com/resources/media2/16x9/5305/1320/166x284/90/698e881c-8190-421b-9d25-efbc674d6e28-GettyImages1218865458.jpg",
+            "publishedAt": "2026-09-10T00:11:21Z",
+            "lang": "en",
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
             }
         }
     ]
