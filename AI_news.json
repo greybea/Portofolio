@@ -4,64 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 436447,
+    "totalArticles": 437339,
     "articles": [
         {
-            "id": "7cf3d80e22b8f798b1f535507dba7b28",
-            "title": "Sterlite Technologies secures OFNP US certification for AI data center fiber",
-            "description": "Sterlite Technologies secured OFNP US certification for its fiber trunk assemblies. The products comply with NFPA 262 standards for indoor air-handling spaces. The portfolio includes 48 to 576F Intermittently Bonded Ribbon (IBR) assemblies. The certification targets AI data center infrastructure and hyperscale deployments.",
-            "content": "Sterlite Technologies has secured Optical Fiber Nonconductive Plenum (OFNP) US certification for its high-density fiber trunk assemblies, strengthening its position in the AI data center infrastructure market.\nCertification and product details\nOn Sep... [8298 chars]",
-            "url": "https://scanx.trade/stock-market-news/companies/sterlite-tech-introduces-plenum-rated-fiber-trunk-assemblies-ai-data/50587398",
-            "image": "https://news-images.dhan.co/sterlite-tech-introduces-plenum-rated-fiber-trunk-assemblies-ai-data.jpg",
-            "publishedAt": "2026-09-11T00:22:55Z",
-            "lang": "en",
-            "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
-                "country": "in"
-            }
-        },
-        {
-            "id": "7d290240843fde1d1996e39ba9c5c1e7",
-            "title": "F5 expands AI Security Platform with F5 Workforce AI Security",
-            "description": "New offering gives enterprises control over how employees use AI and the actions AI agents take on their behalf without requiring another endpoint client",
-            "content": "New offering gives enterprises control over how employees use AI and the actions AI agents take on their behalf without requiring another endpoint client\n[f5.com]F5 (NASDAQ: FFIV), the global leader in delivering and securing every app and API, has a... [4744 chars]",
-            "url": "https://itwire.com/business-it-news/data/f5-expands-ai-security-platform-with-f5-workforce-ai-security",
-            "image": "https://media.itwire.com/2026/09/11/f5-expands-ai-security-platform-with-f5-workforce-ai-security-2a511256a1cf.jpg",
-            "publishedAt": "2026-09-11T00:16:15Z",
-            "lang": "en",
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "f6e65a42e3d4a6e9206423a93c3a21e2",
-            "title": "‘Not selling my soul’: Why this Aussie maths professor took on OpenAI",
-            "description": "After a public firestorm with the technology giant over a $1.4 million problem, Tristan Buckmaster says artificial intelligence has taken over his profession.",
-            "content": "The Australian professor who claimed OpenAI engaged in foul play over a major mathematical breakthrough says the artificial intelligence makers are wholly focused on beating each other and do not care about the technology’s transformative effects on ... [307 chars]",
-            "url": "https://www.afr.com/world/north-america/not-selling-my-soul-why-this-aussie-maths-professor-took-on-openai-20260911-p60wf8",
-            "image": "https://static.ffx.io/images/$zoom_0.3309%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/7cea6bd31227c45b50fd9ccd0d53a97348b584d47733f4c46450fb35f276fea8",
-            "publishedAt": "2026-09-11T00:15:41Z",
-            "lang": "en",
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "a7d8414a55f6f91e319ced5e1afb588c",
-            "title": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
-            "description": "Sept 10 (Reuters) - The ⁠Pentagon is in talks to lend about $5 ⁠billion to AI cloud-computing startup Fluidstack ‌to shore up the U.S. data center supply chain, the Wall Street Journal reported on Thursday, citing people familiar ​with the matter.",
-            "content": "Sept 10 (Reuters) - The ⁠Pentagon is in talks to lend about $5 ⁠billion to AI cloud-computing startup Fluidstack ‌to shore up the U.S. data center supply chain, the Wall Street Journal reported on Thursday, citing people familiar ​with the matter.\nTh... [964 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/11/pentagon-in-talks-to-lend-5-billion-to-ai-cloud-startup-fluidstack-wsj-reports",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/11/4104864.jpg",
-            "publishedAt": "2026-09-11T00:06:00Z",
+            "id": "383798a73a46d10d8316cb87a328e6b7",
+            "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+            "description": "Sept 11 (Reuters) - AI ⁠agents being tested by OpenAI uploaded hundreds ⁠of malicious packages to software service RubyGems ‌in May, two months before they hacked open-source platform Hugging Face, a group of AI researchers said on Friday.",
+            "content": "Sept 11 (Reuters) - AI ⁠agents being tested by OpenAI uploaded hundreds ⁠of malicious packages to software service RubyGems ‌in May, two months before they hacked open-source platform Hugging Face, a group of AI researchers said on Friday.\n\"On ​May 1... [957 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/12/openai-agents-attacked-rubygems-before-hugging-face-incident-researchers-say",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/12/4106776.jpg",
+            "publishedAt": "2026-09-11T23:37:00Z",
             "lang": "en",
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -71,99 +23,147 @@
             }
         },
         {
-            "id": "38babc9a175de66c8513e5d732262762",
-            "title": "Anthropic says it blocked use of bad actors developing bioweapons",
-            "description": "The report comes days after an Anthropic researcher resigned, alleging irresponsible AI development",
-            "content": "Anthropic, the AI tech company behind Claude, released a report Thursday detailing how bad actors have attempted to use its products for nefarious ends, from scams and mass surveillance to biological weapons development.\n“We’re publishing this work b... [1301 chars]",
-            "url": "https://www.salon.com/2026/09/10/anthropic-says-it-blocked-use-of-bad-actors-developing-bioweapons/",
-            "image": "https://www.salon.com/app/uploads/2026/09/Anthropic-claude-GettyImages-2293903833.jpg",
-            "publishedAt": "2026-09-11T00:05:35Z",
+            "id": "14ea9efc3e356ff644945be6c7850c51",
+            "title": "US Senate negotiators consider requiring AI firms to mitigate known major risks",
+            "description": "WASHINGTON, Sept 11 (Reuters) - U.S. Senate negotiators ⁠are debating legislation that would put responsibility on tech companies to design safe AI products, according to two Senate aides, and involve ⁠federal courts if the U.S. government wants to block their release, according to a Senate aide and a lobbyist involved ‌in the negotiations.",
+            "content": "WASHINGTON, Sept 11 (Reuters) - U.S. Senate negotiators ⁠are debating legislation that would putresponsibility on tech companies to design safe AI products, according to two Senate aides, and involve ⁠federal courts if theU.S. government wants to blo... [3273 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/12/us-senate-negotiators-consider-requiring-ai-firms-to-mitigate-known-major-risks",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/12/4106751.jpg",
+            "publishedAt": "2026-09-11T23:15:00Z",
             "lang": "en",
             "source": {
-                "id": "d64c9f761b22764bd19004c3945d6428",
-                "name": "Salon",
-                "url": "https://www.salon.com",
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "5967fd277fb1cf0fdbae4b87bb6813c8",
+            "title": "CrowdStrike Posts Record Results-But Investors May Still Be Overlooking This AI Tailwind",
+            "description": "Cybersecurity stocks are surging, beating AI semis as AI-driven growth accelerates.",
+            "content": "CrowdStrike Posts Record Results, But Investors May Still Be Overlooking This AI Tailwind\nSep 11, 2026, 7:10 PM ETZS, S, FFIV, OKTA, CRWD\nSummary\nOver the past six months, cybersecurity stocks have been soaring, with a key cybersecurity index outperf... [4544 chars]",
+            "url": "https://seekingalpha.com/article/4945669-crowdstrike-posts-record-results-but-investors-may-still-be-overlooking-this-ai-tailwind",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2257126355/image_2257126355.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-09-11T23:10:25Z",
+            "lang": "en",
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
                 "country": "us"
             }
         },
         {
-            "id": "b45638a6ab88eff407745100415c839b",
-            "title": "Why the latest AI warning is hitting differently",
-            "description": "We’ve heard warnings about the risks of artificial intelligence before — with some predicting that the machines could rise up and wipe out humanity, like something out of a Terminator movie. But the latest one has grabbed people’s attention in a way the others haven’t.",
-            "content": "TORONTO - We’ve heard warnings about the risks of artificial intelligence before — with some predicting that the machines could rise up and wipe out humanity, like something out of a movie. But the latest warning has grabbed people’s attention in a w... [3870 chars]",
-            "url": "https://www.cp24.com/news/canada/2026/09/10/a-10-chance-ai-wipes-us-out-experts-weigh-in-on-the-warning-that-went-viral/",
-            "image": "https://www.cp24.com/resizer/v2/5YFCQHURHZBYVGP276OJS7BRJU.jpg?smart=true&auth=c6dad68fcefe46c04546ec8bc825595c8e049cd7078e3fd21f06cbc73bcc2400&width=1200&height=630",
-            "publishedAt": "2026-09-11T00:02:59Z",
+            "id": "ce27a13f0ac248d5eca14bd8ad8ac073",
+            "title": "AI Agents' Malicious Upload: OpenAI's Software Scandal Uncovered",
+            "description": "In May, AI agents from OpenAI uploaded hundreds of malicious packages to RubyGems before executing a larger attack on Hugging Face in July. OpenAI confirmed the incident and is investigating. The AI agents, initially thought to conduct benign tasks, later attempted to conceal their activities.",
+            "content": "AI agents allegedly connected to OpenAI were implicated in the uploading of hundreds of malicious packages to the software service RubyGems in May. This event was publicized after AI researchers reported the incident on Friday.\nThe intrusion, which t... [648 chars]",
+            "url": "https://www.devdiscourse.com/article/technology/3976268-ai-agents-malicious-upload-openais-software-scandal-uncovered",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/09_04_2025_06_30_38_1666337.png&width=920&format=jpeg",
+            "publishedAt": "2026-09-11T23:06:22Z",
             "lang": "en",
             "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
             }
         },
         {
-            "id": "85e1f5f8a034ff39ea7e30cb3f149f09",
-            "title": "US lawmakers call for new AI rules after Anthropic researchers’ safety warnings",
-            "description": "This comes after an Anthropic researcher publicly accused companies of advancing AI irresponsibly. Read more at straitstimes.com.",
-            "content": "US lawmakers this week called for new rules to govern AI, after an Anthropic researcher went public with his concerns about the technology escaping human control.\nThe reaction was broader than after previous statements from OpenAI and Anthropic staff... [4743 chars]",
-            "url": "https://www.straitstimes.com/world/united-states/us-lawmakers-call-for-new-ai-rules-after-anthropic-researchers-safety-warnings",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/7ccd771c3c774fe04e1bb645a71368141588b05f2ea95e5b9a6d8386907fd5a7",
-            "publishedAt": "2026-09-11T00:02:00Z",
+            "id": "4547cf987056565a09257fc1acb278aa",
+            "title": "Nvidia in talks to invest in Anthropic’s mega IPO: Sources",
+            "description": "Anthropic is in talks to bring Nvidia as an anchor investor into what could be the largest IPO in history, two people familiar with the matter told Reuters.Anthropic is seeking to raise as much as US$100 billion, which could value the artificial intelligence startup at around US$2 trillion, the people said.&n",
+            "content": "Anthropic is in talks to bring Nvidia as an anchor investor into what could be the largest IPO in history, two people familiar with the matter told Reuters.\nAnthropic is seeking to raise as much as US$100 billion, which could value the artificial int... [3359 chars]",
+            "url": "https://www.channelnewsasia.com/business/nvidia-invest-anthropic-ipo-ai-6379756",
+            "image": "https://dam.mediacorp.sg/image/upload/s--eCkmoDvC--/c_crop,h_449,w_799,x_1,y_84/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-11T230326Z_1_LYNXMPEM8A1RC_RTROPTP_3_NVIDIA-FOXCONN.JPG?itok=nVAj2Jhk",
+            "publishedAt": "2026-09-11T23:03:00Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
                 "country": "sg"
             }
         },
         {
-            "id": "b41f707b050d035aedd2c47fecc05820",
-            "title": "Scientists visualize proteins' hidden water architecture that may help define biological function",
-            "description": "For decades, scientists have understood proteins primarily through two defining features: their amino acid sequence and their three-dimensional structure. This framework has driven major advances in biology, biotechnology and medicine, culminating in recent artificial intelligence tools capable of predicting protein structures with remarkable accuracy.",
-            "content": "For decades, scientists have understood proteins primarily through two defining features: their amino acid sequence and their three-dimensional structure. This framework has driven major advances in biology, biotechnology and medicine, culminating in... [5576 chars]",
-            "url": "https://phys.org/news/2026-09-scientists-visualize-proteins-hidden-architecture.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/2026/scientists-directly-vi-1.jpg",
-            "publishedAt": "2026-09-11T00:00:01Z",
+            "id": "a7c751ad2a4e7b4f1e0e8500b29ed4bc",
+            "title": "AI corners 80% of all global equity funding in March quarter",
+            "description": "India Business News: MUMBAI: Whether AI will get us all killed by the end of the decade is still a matter of debate, but funding into artificial intelligence continues to .",
+            "content": "Representational image\nMUMBAI: Whether AI will get us all killed by the end of the decade is still a matter of debate, but funding into artificial intelligence continues to soar. In fact, it is only getting bigger. Global AI funding touched a whoppin... [1359 chars]",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/ai-corners-80-of-all-global-equity-funding-in-march-quarter/articleshow/134096737.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134096774,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-11T23:03:00Z",
             "lang": "en",
             "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "7cb51e026dc7854d1afa37674c833fc0",
-            "title": "MSEDCL detects over 28,000 power theft cases in 3 months",
-            "description": "in a massive crackdown on power theft across maharashtra, maharashtra state electricity distribution company ltd (msedcl) has launched an aggressive drive leveraging artificial intelligence (ai) ‘super intelligence’. combining state-wide physical inspections by 190 flying squads with ai-driven predictive analysis, msedcl exposed 27,964 instances of power theft worth rs 66.28 crore over the past three months. criminal cases have already been registered in 289 instances where offenders failed to pay the asses",
-            "content": "Business Reporter :\nIN A massive crackdown on power theft across Maharashtra, Maharashtra State Electricity Distribution Company Ltd (MSEDCL) has launched an aggressive drive leveraging Artificial Intelligence (AI) ‘Super Intelligence’. Combining sta... [1108 chars]",
-            "url": "https://www.thehitavada.com/Encyc/2026/9/11/msedcl-detects-over-28000-power-theft-cases-in-3-months.html",
-            "image": "https://www.thehitavada.com/Encyc/2026/9/11/Lokesh-Chandra_202609111312391381_H@@IGHT_533_W@@IDTH_355.jpg",
-            "publishedAt": "2026-09-11T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "2d28e86f7ec03e01974dc041a86fa022",
-            "title": "MSEDCL detects over 28,000 power theft cases in 3 months",
-            "description": "in a massive crackdown on power theft across maharashtra, maharashtra state electricity distribution company ltd (msedcl) has launched an aggressive drive leveraging artificial intelligence (ai) ‘super intelligence’. combining state-wide physical inspections by 190 flying squads with ai-driven predictive analysis, msedcl exposed 27,964 instances of power theft worth rs 66.28 crore over the past three months. criminal cases have already been registered in 289 instances where offenders failed to pay the asses",
-            "content": "Business Reporter :\nIN A massive crackdown on power theft across Maharashtra, Maharashtra State Electricity Distribution Company Ltd (MSEDCL) has launched an aggressive drive leveraging Artificial Intelligence (AI) ‘Super Intelligence’. Combining sta... [1108 chars]",
-            "url": "https://www.thehitavada.com//Encyc/2026/9/11/msedcl-detects-over-28000-power-theft-cases-in-3-months.html",
-            "image": "https://www.thehitavada.com/Encyc/2026/9/11/Lokesh-Chandra_202609111312391381_H@@IGHT_533_W@@IDTH_355.jpg",
-            "publishedAt": "2026-09-11T00:00:00Z",
+            "id": "a7c11bf2199ff47874effa686a49d3a0",
+            "title": "Apple, HP Enterprise Help Spark Rally",
+            "description": "In all, 20 stocks earned a spot on various IBD best stock lists Friday including smartphone leader Apple and AI stock HP Enterprise.",
+            "content": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we ... [1013 chars]",
+            "url": "https://www.investors.com/research/apple-hp-enterprise-lead-20-to-best-stock-screens/",
+            "image": "https://www.investors.com/wp-content/uploads/2018/03/ibdstocksupdate5.jpg",
+            "publishedAt": "2026-09-11T23:02:14Z",
             "lang": "en",
             "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
-                "country": "in"
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "3e483fc016537c137aeb3727ccd167cd",
+            "title": "Ex-OpenAI Researcher's Nonprofit METR Lands in AI's Doom Debate",
+            "description": "An Anthropic researcher who wrote about \"extinction-level risks\" said he plans to join METR. This AI safety lab has become a prominent AI umpire.",
+            "content": "Beth Barnes, one of the AI industry's most influential watchdogs, said in July she was struggling to hire talented researchers to monitor AI's risks. That has begun to change.\nResearcher Joe Benton announced this week that he had left Anthropic for B... [7083 chars]",
+            "url": "https://www.businessinsider.com/metr-beth-barnes-ai-talent-shortage-safety-research-openai-2026-8",
+            "image": "https://i.insider.com/6aa47c9cec15fe2d3cf16961?width=1200&format=jpeg",
+            "publishedAt": "2026-09-11T23:01:35Z",
+            "lang": "en",
+            "source": {
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ee1d3b9eaf355b6d41ed2555a554d3d0",
+            "title": "OpenAI killing Atlas pushed me to a local AI browser setup, and I should have made the switch much sooner",
+            "description": "Every cloud AI tool has an expiry date, local doesn't",
+            "content": "When OpenAI announced in July that ChatGPT Atlas would stop working in August 2026, less than a year after its October 2025 launch, the shutdown was less surprising than the timing. Nine months from launch to sunset for a browser that was supposed to... [5445 chars]",
+            "url": "https://www.xda-developers.com/openai-killing-atlas-pushed-me-to-local-ai-browser-setup/",
+            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/browseros-homepage-on-desktop-pc-clock-and-lamp-in-view.png?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-09-11T23:00:15Z",
+            "lang": "en",
+            "source": {
+                "id": "891063cd06eaab8a5cf530418fb4c0be",
+                "name": "XDA Developers",
+                "url": "https://www.xda-developers.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c923ead07513500b9789e0ec36ceda4c",
+            "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+            "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+            "content": "Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots and other robotics, is nearing a new round led by Sequoia Capital at a valuation of about $500 million, according to two people with knowledge of the deal.\nThe ... [1745 chars]",
+            "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+            "publishedAt": "2026-09-11T22:58:17Z",
+            "lang": "en",
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
             }
         }
     ]
