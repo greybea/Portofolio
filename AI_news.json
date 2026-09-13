@@ -4,96 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 437339,
+    "totalArticles": 437858,
     "articles": [
         {
-            "id": "383798a73a46d10d8316cb87a328e6b7",
-            "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
-            "description": "Sept 11 (Reuters) - AI ⁠agents being tested by OpenAI uploaded hundreds ⁠of malicious packages to software service RubyGems ‌in May, two months before they hacked open-source platform Hugging Face, a group of AI researchers said on Friday.",
-            "content": "Sept 11 (Reuters) - AI ⁠agents being tested by OpenAI uploaded hundreds ⁠of malicious packages to software service RubyGems ‌in May, two months before they hacked open-source platform Hugging Face, a group of AI researchers said on Friday.\n\"On ​May 1... [957 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/12/openai-agents-attacked-rubygems-before-hugging-face-incident-researchers-say",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/12/4106776.jpg",
-            "publishedAt": "2026-09-11T23:37:00Z",
+            "id": "db87247d3cc5fd37c67be896b9f949cb",
+            "title": "AI could make holiday planning easier for overwhelmed travelers",
+            "description": "Generative AI could help overwhelmed travelers organize their thoughts, compare options and complete vacation plans they might otherwise abandon, according to new research from the University of Surrey.",
+            "content": "Generative AI could help overwhelmed travelers organize their thoughts, compare options and complete vacation plans they might otherwise abandon, according to new research from the University of Surrey.\nThe study, published in Journal of Travel Resea... [2998 chars]",
+            "url": "https://phys.org/news/2026-09-ai-holiday-easier-overwhelmed.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2020/travel.jpg",
+            "publishedAt": "2026-09-13T00:30:01Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
             }
         },
         {
-            "id": "14ea9efc3e356ff644945be6c7850c51",
-            "title": "US Senate negotiators consider requiring AI firms to mitigate known major risks",
-            "description": "WASHINGTON, Sept 11 (Reuters) - U.S. Senate negotiators ⁠are debating legislation that would put responsibility on tech companies to design safe AI products, according to two Senate aides, and involve ⁠federal courts if the U.S. government wants to block their release, according to a Senate aide and a lobbyist involved ‌in the negotiations.",
-            "content": "WASHINGTON, Sept 11 (Reuters) - U.S. Senate negotiators ⁠are debating legislation that would putresponsibility on tech companies to design safe AI products, according to two Senate aides, and involve ⁠federal courts if theU.S. government wants to blo... [3273 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/12/us-senate-negotiators-consider-requiring-ai-firms-to-mitigate-known-major-risks",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/12/4106751.jpg",
-            "publishedAt": "2026-09-11T23:15:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "5967fd277fb1cf0fdbae4b87bb6813c8",
-            "title": "CrowdStrike Posts Record Results-But Investors May Still Be Overlooking This AI Tailwind",
-            "description": "Cybersecurity stocks are surging, beating AI semis as AI-driven growth accelerates.",
-            "content": "CrowdStrike Posts Record Results, But Investors May Still Be Overlooking This AI Tailwind\nSep 11, 2026, 7:10 PM ETZS, S, FFIV, OKTA, CRWD\nSummary\nOver the past six months, cybersecurity stocks have been soaring, with a key cybersecurity index outperf... [4544 chars]",
-            "url": "https://seekingalpha.com/article/4945669-crowdstrike-posts-record-results-but-investors-may-still-be-overlooking-this-ai-tailwind",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2257126355/image_2257126355.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-09-11T23:10:25Z",
-            "lang": "en",
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "ce27a13f0ac248d5eca14bd8ad8ac073",
-            "title": "AI Agents' Malicious Upload: OpenAI's Software Scandal Uncovered",
-            "description": "In May, AI agents from OpenAI uploaded hundreds of malicious packages to RubyGems before executing a larger attack on Hugging Face in July. OpenAI confirmed the incident and is investigating. The AI agents, initially thought to conduct benign tasks, later attempted to conceal their activities.",
-            "content": "AI agents allegedly connected to OpenAI were implicated in the uploading of hundreds of malicious packages to the software service RubyGems in May. This event was publicized after AI researchers reported the incident on Friday.\nThe intrusion, which t... [648 chars]",
-            "url": "https://www.devdiscourse.com/article/technology/3976268-ai-agents-malicious-upload-openais-software-scandal-uncovered",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/09_04_2025_06_30_38_1666337.png&width=920&format=jpeg",
-            "publishedAt": "2026-09-11T23:06:22Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "4547cf987056565a09257fc1acb278aa",
-            "title": "Nvidia in talks to invest in Anthropic’s mega IPO: Sources",
-            "description": "Anthropic is in talks to bring Nvidia as an anchor investor into what could be the largest IPO in history, two people familiar with the matter told Reuters.Anthropic is seeking to raise as much as US$100 billion, which could value the artificial intelligence startup at around US$2 trillion, the people said.&n",
-            "content": "Anthropic is in talks to bring Nvidia as an anchor investor into what could be the largest IPO in history, two people familiar with the matter told Reuters.\nAnthropic is seeking to raise as much as US$100 billion, which could value the artificial int... [3359 chars]",
-            "url": "https://www.channelnewsasia.com/business/nvidia-invest-anthropic-ipo-ai-6379756",
-            "image": "https://dam.mediacorp.sg/image/upload/s--eCkmoDvC--/c_crop,h_449,w_799,x_1,y_84/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-11T230326Z_1_LYNXMPEM8A1RC_RTROPTP_3_NVIDIA-FOXCONN.JPG?itok=nVAj2Jhk",
-            "publishedAt": "2026-09-11T23:03:00Z",
-            "lang": "en",
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "a7c751ad2a4e7b4f1e0e8500b29ed4bc",
-            "title": "AI corners 80% of all global equity funding in March quarter",
-            "description": "India Business News: MUMBAI: Whether AI will get us all killed by the end of the decade is still a matter of debate, but funding into artificial intelligence continues to .",
-            "content": "Representational image\nMUMBAI: Whether AI will get us all killed by the end of the decade is still a matter of debate, but funding into artificial intelligence continues to soar. In fact, it is only getting bigger. Global AI funding touched a whoppin... [1359 chars]",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/ai-corners-80-of-all-global-equity-funding-in-march-quarter/articleshow/134096737.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134096774,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-11T23:03:00Z",
+            "id": "fc8f01c13e497894a913eac28f17d0e3",
+            "title": "Anthropic says UAE-linked AI op targeted UN staff over Sudan",
+            "description": "Rest of World News: AI firm Anthropic has said it detected a UAE-linked influence operation that targeted the Muslim Brotherhood and United Nations experts critical of Ab.",
+            "content": "Representational image\nAI firm Anthropic has said it detected a UAE-linked influence operation that targeted the Muslim Brotherhood and United Nations experts critical of Abu Dhabi's alleged role in Sudan's war. In a report on misuse of its AI models... [1109 chars]",
+            "url": "https://timesofindia.indiatimes.com/world/rest-of-world/anthropic-says-uae-linked-ai-op-targeted-un-staff-over-sudan/articleshow/134167044.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134167089,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-13T00:13:00Z",
             "lang": "en",
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -103,67 +39,131 @@
             }
         },
         {
-            "id": "a7c11bf2199ff47874effa686a49d3a0",
-            "title": "Apple, HP Enterprise Help Spark Rally",
-            "description": "In all, 20 stocks earned a spot on various IBD best stock lists Friday including smartphone leader Apple and AI stock HP Enterprise.",
-            "content": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we ... [1013 chars]",
-            "url": "https://www.investors.com/research/apple-hp-enterprise-lead-20-to-best-stock-screens/",
-            "image": "https://www.investors.com/wp-content/uploads/2018/03/ibdstocksupdate5.jpg",
-            "publishedAt": "2026-09-11T23:02:14Z",
+            "id": "0b3842c9cc70f9453862152867ffc6de",
+            "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
+            "description": "LOS ANGELES, Sept 12 (Reuters) - ⁠OpenAI will not go public in 2026, CEO Sam Altman said in a Fortune interview ⁠published Saturday, citing safety concerns over artificial intelligence.",
+            "content": "LOS ANGELES, Sept 12 (Reuters) - ⁠OpenAI will not go public in 2026, CEO Sam Altman said in a Fortune interview ⁠published Saturday, citing safety concerns over artificial intelligence.\n\"I actually think that, given everything happening ‌with safety,... [2283 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/13/openai-ipo-will-not-happen-in-2026-amid-ai-safety-fears-altman-says",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/13/4107866.jpg",
+            "publishedAt": "2026-09-13T00:09:00Z",
             "lang": "en",
             "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "6d63e88811955bdce8d0c763e9476d76",
+            "title": "Lisa Henson on why her dad’s puppets are AI-proof",
+            "description": "The chief executive of The Jim Henson Company says storytelling will always be served best by “a real thing in the real world”.",
+            "content": "Jim Henson “embraced technology” but would have had little time for artificial intelligence, his daughter says ahead of a major exhibition of the late puppeteer’s legacy in Brisbane.\nFrom Kermit the Frog to Sesame Street stalwarts Big Bird and Mr Snu... [287 chars]",
+            "url": "https://www.afr.com/life-and-luxury/arts-and-culture/lisa-henson-on-why-her-dad-s-puppets-are-ai-proof-20260911-p60wj7",
+            "image": "https://static.ffx.io/images/$zoom_0.4041%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_754%2C$y_444/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/51f8cac1bb7cfcb6cdc095fe3ac5b5182b79f980",
+            "publishedAt": "2026-09-13T00:06:59Z",
+            "lang": "en",
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "d76617d5f9446797b4204421aa6adea8",
+            "title": "UiPath, Inc. (PATH) Stock Has AI Potential, But Slowing Growth Keeps Investors Cautious",
+            "description": "UiPath, Inc. (NYSE:PATH) has underperformed the broader market year to date, with shares materially down for the year. Nevertheless, Wall Street sentiment has",
+            "content": "UiPath, Inc. (NYSE:PATH) has underperformed the broader market year to date, with shares materially down for the year. Nevertheless, Wall Street sentiment has shown signs of improvement as investors assess the company’s artificial intelligence opport... [4320 chars]",
+            "url": "https://www.europesays.com/3247919/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/09/https3A2F2Fmedia.zenfs_.com2Fen2Finsidermonkey.com2Fc2be8a1c39ba39c289a78a06a3a0d65e.jpg",
+            "publishedAt": "2026-09-13T00:04:19Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "3e483fc016537c137aeb3727ccd167cd",
-            "title": "Ex-OpenAI Researcher's Nonprofit METR Lands in AI's Doom Debate",
-            "description": "An Anthropic researcher who wrote about \"extinction-level risks\" said he plans to join METR. This AI safety lab has become a prominent AI umpire.",
-            "content": "Beth Barnes, one of the AI industry's most influential watchdogs, said in July she was struggling to hire talented researchers to monitor AI's risks. That has begun to change.\nResearcher Joe Benton announced this week that he had left Anthropic for B... [7083 chars]",
-            "url": "https://www.businessinsider.com/metr-beth-barnes-ai-talent-shortage-safety-research-openai-2026-8",
-            "image": "https://i.insider.com/6aa47c9cec15fe2d3cf16961?width=1200&format=jpeg",
-            "publishedAt": "2026-09-11T23:01:35Z",
+            "id": "8043c6191121b0e07d9ceb7fed1516c3",
+            "title": "The US and China are racing to build ‘self-improving AI’. Here’s what’s at stake",
+            "description": "Both sides view ‘recursive self-improvement’ as a game-changer in the AI race. But who will get there first – and will it endanger us all?",
+            "content": "The US-China race for artificial intelligence dominance has entered a new phase: using AI to build better AI.\nLeading AI companies in the United States and China are increasingly focused on deploying advanced models to write code, design experiments,... [546 chars]",
+            "url": "https://www.scmp.com/tech/big-tech/article/3367237/us-and-china-are-racing-build-self-improving-ai-heres-whats-stake",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/11/287a04f6-9123-4ace-812a-2269646b01c2_1bcbf269.jpg?itok=7Sq9mVSn&v=1789125973",
+            "publishedAt": "2026-09-13T00:00:10Z",
             "lang": "en",
             "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
             }
         },
         {
-            "id": "ee1d3b9eaf355b6d41ed2555a554d3d0",
-            "title": "OpenAI killing Atlas pushed me to a local AI browser setup, and I should have made the switch much sooner",
-            "description": "Every cloud AI tool has an expiry date, local doesn't",
-            "content": "When OpenAI announced in July that ChatGPT Atlas would stop working in August 2026, less than a year after its October 2025 launch, the shutdown was less surprising than the timing. Nine months from launch to sunset for a browser that was supposed to... [5445 chars]",
-            "url": "https://www.xda-developers.com/openai-killing-atlas-pushed-me-to-local-ai-browser-setup/",
-            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/browseros-homepage-on-desktop-pc-clock-and-lamp-in-view.png?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-09-11T23:00:15Z",
+            "id": "e5ad42e5507f03fdb76d6eedba18e491",
+            "title": "China's Xi proposes BRICS 'open-source AI zone'",
+            "description": "NEW DELHI: China will lead the creation of an \"open-source zone for artificial intelligence\" for BRICS countries, President Xi Jinping said Sunday (Sept 13) at a summit of the 11-nation group in New Delhi.",
+            "content": "NEW DELHI: China will lead the creation of an \"open-source zone for artificial intelligence\" for BRICS countries, President Xi Jinping said Sunday (Sept 13) at a summit of the 11-nation group in New Delhi.\nChinese AI companies produce world-leading o... [1098 chars]",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/13/china039s-xi-proposes-brics-039open-source-ai-zone039",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/13/4108195.jpg",
+            "publishedAt": "2026-09-13T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "891063cd06eaab8a5cf530418fb4c0be",
-                "name": "XDA Developers",
-                "url": "https://www.xda-developers.com",
-                "country": "us"
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
             }
         },
         {
-            "id": "c923ead07513500b9789e0ec36ceda4c",
-            "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-            "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-            "content": "Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots and other robotics, is nearing a new round led by Sequoia Capital at a valuation of about $500 million, according to two people with knowledge of the deal.\nThe ... [1745 chars]",
-            "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-            "publishedAt": "2026-09-11T22:58:17Z",
+            "id": "6cb3272b0010f06b85b7bd057c3cd76f",
+            "title": "Hyundai Motor Group Accelerates Autonomous Driving Innovation with AI-Powered Data Flywheel",
+            "description": "Hyundai Motor Group hosts \"HMG Autonomous Driving Media Day\", outlining its roadmap for the next era of autonomous driving; first showcase of Level 2++...",
+            "content": "Accessibility Statement Skip Navigation\nDuring the Group's \"HMG Autonomous Driving Media Day\" at 42dot headquarters in Gyeonggi Province, Korea, the Group presented its autonomous driving development strategy, technology roadmap, key achievements and... [2132 chars]",
+            "url": "https://www.prnewswire.co.uk/news-releases/hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-302876372.html",
+            "image": "https://mmx.prnewswire.com/media/MS1986377/20260911044835EDT_image_2.jpg?id=OA2943152&p=facebook",
+            "publishedAt": "2026-09-13T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "ac6baeab7c5ceaed362a32eac5f3a817",
+            "title": "Trump brushes off AI doomsaying to guard US lead over China",
+            "description": "Trump prioritises keeping the US ahead of China in AI, favouring a light-touch approach. Read more at straitstimes.com.",
+            "content": "WASHINGTON – In June 2024, during a campaign stop in Las Vegas, then-candidate Donald Trump got a glimpse of the technology that would come to define his second presidential term.\nOpenAI co-founder Greg Brockman and then-Chief Operating Officer Brad ... [13664 chars]",
+            "url": "https://www.straitstimes.com/world/united-states/trump-brushes-off-ai-doomsaying-to-guard-us-lead-over-china",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b31edb52a60dd5bcf9846ad5e1c6d08f04eb7b9b76a4d596d08dc0eef0124177",
+            "publishedAt": "2026-09-12T23:55:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "1ae2c9f24a7507900a3b36b611fd4d1f",
+            "title": "Collective learning in decline: Korea's hidden risk",
+            "description": "Korea has almost everything a country could want for the age of artificial intelligence (AI). We have world-class semiconductor manufacturers, some...",
+            "content": "Korea has almost everything a country could want for the age of artificial intelligence (AI).\nWe have world-class semiconductor manufacturers, some of the fastest digital infrastructure anywhere, an intensely educated workforce and a government willi... [5872 chars]",
+            "url": "https://www.koreatimes.co.kr/opinion/columns/columnists/charles-chang/20260913/collective-learning-in-decline-koreas-hidden-risk",
+            "image": "https://newsimg.koreatimes.co.kr/2026/09/06/7adc1cb0-21bd-47ab-a1ba-4e8ae69ec7d7.jpg",
+            "publishedAt": "2026-09-12T23:50:03Z",
+            "lang": "en",
+            "source": {
+                "id": "9f2e79f0f9194d0d88f0074def064e60",
+                "name": "The Korea Times",
+                "url": "https://www.koreatimes.co.kr",
+                "country": "kr"
             }
         }
     ]
