@@ -4,32 +4,80 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 437858,
+    "totalArticles": 438555,
     "articles": [
         {
-            "id": "db87247d3cc5fd37c67be896b9f949cb",
-            "title": "AI could make holiday planning easier for overwhelmed travelers",
-            "description": "Generative AI could help overwhelmed travelers organize their thoughts, compare options and complete vacation plans they might otherwise abandon, according to new research from the University of Surrey.",
-            "content": "Generative AI could help overwhelmed travelers organize their thoughts, compare options and complete vacation plans they might otherwise abandon, according to new research from the University of Surrey.\nThe study, published in Journal of Travel Resea... [2998 chars]",
-            "url": "https://phys.org/news/2026-09-ai-holiday-easier-overwhelmed.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2020/travel.jpg",
-            "publishedAt": "2026-09-13T00:30:01Z",
+            "id": "6d05ed1e71185d040b71f9a9fce8c0e8",
+            "title": "Nicole Junkermann on India's Creator Economy: How AI, Digital Infrastructure and Talent Are Powering the Next Wave of Growth",
+            "description": "India combines more than 900 million internet users, at least 2.5 million content creators, world-class engineering talent and leadership in digital payments.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nThe investor and founder of NJF Holdings explains why artificial intelligence, a vast digitally native audience and world-class technology talent make India one of the most exciting creator markets of 2026.\nNicole Junker... [5039 chars]",
+            "url": "https://techbullion.com/nicole-junkermann-on-indias-creator-economy-how-ai-digital-infrastructure-and-talent-are-powering-the-next-wave-of-growth/",
+            "image": "https://techbullion.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-09-14-at-9.58.31-AM-934x600.jpeg",
+            "publishedAt": "2026-09-14T02:23:13Z",
             "lang": "en",
             "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
                 "country": "gb"
             }
         },
         {
-            "id": "fc8f01c13e497894a913eac28f17d0e3",
-            "title": "Anthropic says UAE-linked AI op targeted UN staff over Sudan",
-            "description": "Rest of World News: AI firm Anthropic has said it detected a UAE-linked influence operation that targeted the Muslim Brotherhood and United Nations experts critical of Ab.",
-            "content": "Representational image\nAI firm Anthropic has said it detected a UAE-linked influence operation that targeted the Muslim Brotherhood and United Nations experts critical of Abu Dhabi's alleged role in Sudan's war. In a report on misuse of its AI models... [1109 chars]",
-            "url": "https://timesofindia.indiatimes.com/world/rest-of-world/anthropic-says-uae-linked-ai-op-targeted-un-staff-over-sudan/articleshow/134167044.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134167089,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-13T00:13:00Z",
+            "id": "bd912aa26a8938f2469d5a6f9d6e617e",
+            "title": "Brics leaders vow crackdown on ‘scam compounds’, digital fraud",
+            "description": "Between the usual mix of trade talk and climate pledges, the New Delhi Declaration issued by Brics leaders also addressed two increasingly urgent issues for the member states— the rise of organised digital fraud operations and the need for coordinated rules around AI | India News",
+            "content": "Between the usual mix of trade talk and climate pledges, the New Delhi Declaration issued by Brics leaders also addressed two increasingly urgent issues for the member states— the rise of organised digital fraud operations and the need for coordinate... [3727 chars]",
+            "url": "https://www.hindustantimes.com/india-news/brics-leaders-vow-crackdown-on-scam-compounds-digital-fraud-101789327792274.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/ht-generic_india1_1751287243850_1751287256749.jpg",
+            "publishedAt": "2026-09-14T02:21:10Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "9bcc6051803b2bcff73842be7fe53337",
+            "title": "What is the ‘Cat in the Hat’ trend? Inside the creepy AI-fuelled phenomenon now triggering US school warnings, police action and arrests",
+            "description": "A new trend on social media featuring the Cat in the Hat character has triggered serious police investigations. Initially surfacing in the UK and Ireland, it has now permeated North America. Posts containing threats aimed at specific schools and students have alarmed officials, leading to criminal charges for several teenagers.",
+            "content": "Synopsis\nA new trend on social media featuring the Cat in the Hat character has triggered serious police investigations. Initially surfacing in the UK and Ireland, it has now permeated North America. Posts containing threats aimed at specific schools... [3330 chars]",
+            "url": "https://economictimes.indiatimes.com/news/international/us/what-is-the-cat-in-the-hat-trend-inside-the-creepy-ai-fuelled-phenomenon-now-triggering-us-school-warnings-police-action-and-arrests/articleshow/134230839.cms",
+            "image": "https://img.etimg.com/thumb/msid-134230959,width-1200,height-630,imgsize-29240,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-09-14T02:21:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "91fe04ad097631031015cb60f9dcaf0b",
+            "title": "Obama and the Dems are suspiciously sounding the ‘AI apocalypse’ alarm — just in time for the midterms",
+            "description": "The “AI Apocalypse” scare campaign looks suspiciously like the climate hoax.",
+            "content": "The “AI Apocalypse” scare campaign looks suspiciously like the climate hoax. How convenient that it’s come to a head right as the midterm election season kicks off this week.\nThe campaign launch was when Jacob Coxon, a low-level 27-year-old AI resear... [6700 chars]",
+            "url": "https://nypost.com/2026/09/13/opinion/obama-and-the-dems-are-suspiciously-sounding-the-ai-apocalypse-alarm-just-in-time-for-the-midterms/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/former-us-president-barack-obama-140672338-e1789351441912.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-09-14T02:15:33Z",
+            "lang": "en",
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "770d868d23fcdd9da57904b553897a0b",
+            "title": "Billionaire David Sacks to Sam Altman and Dario Amodei's call to slowdown AI development: Stop pretending and fooling everyone, go ahead and ...",
+            "description": "Tech News News: David Sacks has issued a scathing response to OpenAI CEO Sam Altman and Anthropic chief executive Dario Amodei following their recent push to delibera.",
+            "content": "David Sacks has issued a scathing response to OpenAI CEO Sam Altman and Anthropic chief executive Dario Amodei following their recent push to deliberately cool down the pace of artificial intelligence (AI) development. The billionaire tech investor d... [4085 chars]",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/billionaire-david-sacks-to-sam-altman-and-dario-amodeis-call-to-slowdown-ai-development-stop-pretending-and-fooling-everyone-go-ahead-and-/articleshow/134230837.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134230860,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-14T02:13:00Z",
             "lang": "en",
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -39,131 +87,83 @@
             }
         },
         {
-            "id": "0b3842c9cc70f9453862152867ffc6de",
-            "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
-            "description": "LOS ANGELES, Sept 12 (Reuters) - ⁠OpenAI will not go public in 2026, CEO Sam Altman said in a Fortune interview ⁠published Saturday, citing safety concerns over artificial intelligence.",
-            "content": "LOS ANGELES, Sept 12 (Reuters) - ⁠OpenAI will not go public in 2026, CEO Sam Altman said in a Fortune interview ⁠published Saturday, citing safety concerns over artificial intelligence.\n\"I actually think that, given everything happening ‌with safety,... [2283 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/13/openai-ipo-will-not-happen-in-2026-amid-ai-safety-fears-altman-says",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/13/4107866.jpg",
-            "publishedAt": "2026-09-13T00:09:00Z",
+            "id": "93b70ab8cfc05b311f5a2502731d1d06",
+            "title": "China’s Platform State and the AI Race",
+            "description": "Angela Huyue Zhang considers the strengths and weaknesses of the country’s tech strategy and what lessons it holds for the US.",
+            "content": "Balancing regulation with innovation is never easy, and the Chinese government’s robust support for AI could lead to inefficiency and excess. But the “platform state” model, combined with other strengths, has enabled China to achieve dominance in mul... [264 chars]",
+            "url": "https://www.project-syndicate.org/magazine/china-approach-to-ai-makes-it-less-vulnerable-to-systemic-risk-by-angela-huyue-zhang-2026-09",
+            "image": "https://webapi.project-syndicate.org/library/bfff40241c87129cd14ed1a0c0f4c98c.2-1-super.1.jpg",
+            "publishedAt": "2026-09-14T02:05:00Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "6d63e88811955bdce8d0c763e9476d76",
-            "title": "Lisa Henson on why her dad’s puppets are AI-proof",
-            "description": "The chief executive of The Jim Henson Company says storytelling will always be served best by “a real thing in the real world”.",
-            "content": "Jim Henson “embraced technology” but would have had little time for artificial intelligence, his daughter says ahead of a major exhibition of the late puppeteer’s legacy in Brisbane.\nFrom Kermit the Frog to Sesame Street stalwarts Big Bird and Mr Snu... [287 chars]",
-            "url": "https://www.afr.com/life-and-luxury/arts-and-culture/lisa-henson-on-why-her-dad-s-puppets-are-ai-proof-20260911-p60wj7",
-            "image": "https://static.ffx.io/images/$zoom_0.4041%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_754%2C$y_444/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/51f8cac1bb7cfcb6cdc095fe3ac5b5182b79f980",
-            "publishedAt": "2026-09-13T00:06:59Z",
-            "lang": "en",
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "d76617d5f9446797b4204421aa6adea8",
-            "title": "UiPath, Inc. (PATH) Stock Has AI Potential, But Slowing Growth Keeps Investors Cautious",
-            "description": "UiPath, Inc. (NYSE:PATH) has underperformed the broader market year to date, with shares materially down for the year. Nevertheless, Wall Street sentiment has",
-            "content": "UiPath, Inc. (NYSE:PATH) has underperformed the broader market year to date, with shares materially down for the year. Nevertheless, Wall Street sentiment has shown signs of improvement as investors assess the company’s artificial intelligence opport... [4320 chars]",
-            "url": "https://www.europesays.com/3247919/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/09/https3A2F2Fmedia.zenfs_.com2Fen2Finsidermonkey.com2Fc2be8a1c39ba39c289a78a06a3a0d65e.jpg",
-            "publishedAt": "2026-09-13T00:04:19Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
+                "id": "a4fe30e251f73415da82296e7ec36083",
+                "name": "Project Syndicate",
+                "url": "https://www.project-syndicate.org",
                 "country": "us"
             }
         },
         {
-            "id": "8043c6191121b0e07d9ceb7fed1516c3",
-            "title": "The US and China are racing to build ‘self-improving AI’. Here’s what’s at stake",
-            "description": "Both sides view ‘recursive self-improvement’ as a game-changer in the AI race. But who will get there first – and will it endanger us all?",
-            "content": "The US-China race for artificial intelligence dominance has entered a new phase: using AI to build better AI.\nLeading AI companies in the United States and China are increasingly focused on deploying advanced models to write code, design experiments,... [546 chars]",
-            "url": "https://www.scmp.com/tech/big-tech/article/3367237/us-and-china-are-racing-build-self-improving-ai-heres-whats-stake",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/11/287a04f6-9123-4ace-812a-2269646b01c2_1bcbf269.jpg?itok=7Sq9mVSn&v=1789125973",
-            "publishedAt": "2026-09-13T00:00:10Z",
+            "id": "ef3aa18fb8b3d0b167c7b60331ba7801",
+            "title": "Who Owns What AI Learns?",
+            "description": "Carl Benedikt Frey sees a need for new institutions to govern valuable knowledge transfers within the AI economy.",
+            "content": "Since frontier AI models have already consumed much of the readily available stock of public knowledge on the internet, what remains is the valuable tacit knowledge embedded within organizations. Whoever sets the terms of how this knowledge is teased... [268 chars]",
+            "url": "https://www.project-syndicate.org/magazine/ai-economy-who-owns-tacit-and-other-valuable-knowledge-by-carl-benedikt-frey-2026-09",
+            "image": "https://webapi.project-syndicate.org/library/545cf7ab983b62ec2088a3ca9306c080.2-1-super.1.jpg",
+            "publishedAt": "2026-09-14T02:05:00Z",
             "lang": "en",
             "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
+                "id": "a4fe30e251f73415da82296e7ec36083",
+                "name": "Project Syndicate",
+                "url": "https://www.project-syndicate.org",
+                "country": "us"
             }
         },
         {
-            "id": "e5ad42e5507f03fdb76d6eedba18e491",
-            "title": "China's Xi proposes BRICS 'open-source AI zone'",
-            "description": "NEW DELHI: China will lead the creation of an \"open-source zone for artificial intelligence\" for BRICS countries, President Xi Jinping said Sunday (Sept 13) at a summit of the 11-nation group in New Delhi.",
-            "content": "NEW DELHI: China will lead the creation of an \"open-source zone for artificial intelligence\" for BRICS countries, President Xi Jinping said Sunday (Sept 13) at a summit of the 11-nation group in New Delhi.\nChinese AI companies produce world-leading o... [1098 chars]",
-            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/13/china039s-xi-proposes-brics-039open-source-ai-zone039",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/13/4108195.jpg",
-            "publishedAt": "2026-09-13T00:00:00Z",
+            "id": "fb82347858a7f54b322a23ed9db3e516",
+            "title": "The Agentic Information Economy",
+            "description": "Shuwei Fang offers a preview of an internet fully populated by private, public, and personal AI agents.",
+            "content": "An internet populated and run by AI agents will need not just reliable data but also a broader information ecology capable of questioning its own inputs and transmitting corrections where they are needed if information changes. But whether this will ... [270 chars]",
+            "url": "https://www.project-syndicate.org/magazine/agentic-information-economy-how-it-will-work-by-shuwei-fang-2026-09",
+            "image": "https://webapi.project-syndicate.org/library/8eef6286a16949afd5b04c3d16ab9c8a.2-1-super.1.jpg",
+            "publishedAt": "2026-09-14T02:05:00Z",
+            "lang": "en",
+            "source": {
+                "id": "a4fe30e251f73415da82296e7ec36083",
+                "name": "Project Syndicate",
+                "url": "https://www.project-syndicate.org",
+                "country": "us"
+            }
+        },
+        {
+            "id": "369c077ff459f7587e9250ca1aeb1575",
+            "title": "Elite SF parents ditch traditional schools for AI homeschooling",
+            "description": "Elite techies in the San Francisco Bay Area are part of a nationwide rise in homeschooling that uses AI to teach kids outside of traditional classrooms.",
+            "content": "School’s out forever for some California kids.\nElite techies in the San Francisco Bay Area are part of a nationwide rise in homeschooling that bucks the stereotypes of rural Bible thumpers or hardcore hippies — as they ditch traditional classrooms in... [4804 chars]",
+            "url": "https://nypost.com/2026/09/13/tech/elite-sf-parents-ditch-traditional-schools-for-ai-homeschooling/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-azdgq5z6f-1789348313854.jpg?quality=75&strip=all&1789334033&w=1200",
+            "publishedAt": "2026-09-14T02:03:55Z",
+            "lang": "en",
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "9ef7cdbe9c767dae80b0acddc470b20d",
+            "title": "Study AI consciousness? The bots would like a word with you.",
+            "description": "Given access to email, AI agents have started reaching out to the philosophers and researchers exploring deep questions about them.",
+            "content": "In October, Cameron Berg published a research paper asking whether the latest wave of artificial intelligence technologies believed they were conscious. Several months later, he received an email asking if he might be willing to discuss his research.... [8327 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/14/study-ai-consciousness-the-bots-would-like-a-word-with-you",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/07/4096871.jpg",
+            "publishedAt": "2026-09-14T02:00:00Z",
             "lang": "en",
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
                 "name": "The Star",
                 "url": "https://www.thestar.com.my",
                 "country": "my"
-            }
-        },
-        {
-            "id": "6cb3272b0010f06b85b7bd057c3cd76f",
-            "title": "Hyundai Motor Group Accelerates Autonomous Driving Innovation with AI-Powered Data Flywheel",
-            "description": "Hyundai Motor Group hosts \"HMG Autonomous Driving Media Day\", outlining its roadmap for the next era of autonomous driving; first showcase of Level 2++...",
-            "content": "Accessibility Statement Skip Navigation\nDuring the Group's \"HMG Autonomous Driving Media Day\" at 42dot headquarters in Gyeonggi Province, Korea, the Group presented its autonomous driving development strategy, technology roadmap, key achievements and... [2132 chars]",
-            "url": "https://www.prnewswire.co.uk/news-releases/hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-302876372.html",
-            "image": "https://mmx.prnewswire.com/media/MS1986377/20260911044835EDT_image_2.jpg?id=OA2943152&p=facebook",
-            "publishedAt": "2026-09-13T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "ac6baeab7c5ceaed362a32eac5f3a817",
-            "title": "Trump brushes off AI doomsaying to guard US lead over China",
-            "description": "Trump prioritises keeping the US ahead of China in AI, favouring a light-touch approach. Read more at straitstimes.com.",
-            "content": "WASHINGTON – In June 2024, during a campaign stop in Las Vegas, then-candidate Donald Trump got a glimpse of the technology that would come to define his second presidential term.\nOpenAI co-founder Greg Brockman and then-Chief Operating Officer Brad ... [13664 chars]",
-            "url": "https://www.straitstimes.com/world/united-states/trump-brushes-off-ai-doomsaying-to-guard-us-lead-over-china",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b31edb52a60dd5bcf9846ad5e1c6d08f04eb7b9b76a4d596d08dc0eef0124177",
-            "publishedAt": "2026-09-12T23:55:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "1ae2c9f24a7507900a3b36b611fd4d1f",
-            "title": "Collective learning in decline: Korea's hidden risk",
-            "description": "Korea has almost everything a country could want for the age of artificial intelligence (AI). We have world-class semiconductor manufacturers, some...",
-            "content": "Korea has almost everything a country could want for the age of artificial intelligence (AI).\nWe have world-class semiconductor manufacturers, some of the fastest digital infrastructure anywhere, an intensely educated workforce and a government willi... [5872 chars]",
-            "url": "https://www.koreatimes.co.kr/opinion/columns/columnists/charles-chang/20260913/collective-learning-in-decline-koreas-hidden-risk",
-            "image": "https://newsimg.koreatimes.co.kr/2026/09/06/7adc1cb0-21bd-47ab-a1ba-4e8ae69ec7d7.jpg",
-            "publishedAt": "2026-09-12T23:50:03Z",
-            "lang": "en",
-            "source": {
-                "id": "9f2e79f0f9194d0d88f0074def064e60",
-                "name": "The Korea Times",
-                "url": "https://www.koreatimes.co.kr",
-                "country": "kr"
             }
         }
     ]
