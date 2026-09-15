@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 438555,
+    "totalArticles": 439931,
     "articles": [
         {
-            "id": "6d05ed1e71185d040b71f9a9fce8c0e8",
-            "title": "Nicole Junkermann on India's Creator Economy: How AI, Digital Infrastructure and Talent Are Powering the Next Wave of Growth",
-            "description": "India combines more than 900 million internet users, at least 2.5 million content creators, world-class engineering talent and leadership in digital payments.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nThe investor and founder of NJF Holdings explains why artificial intelligence, a vast digitally native audience and world-class technology talent make India one of the most exciting creator markets of 2026.\nNicole Junker... [5039 chars]",
-            "url": "https://techbullion.com/nicole-junkermann-on-indias-creator-economy-how-ai-digital-infrastructure-and-talent-are-powering-the-next-wave-of-growth/",
-            "image": "https://techbullion.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-09-14-at-9.58.31-AM-934x600.jpeg",
-            "publishedAt": "2026-09-14T02:23:13Z",
+            "id": "9cc69ca3aef138053f5591d5e2402e1f",
+            "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA and Fujitsu MONAKA Server for sovereign AI infrastructure",
+            "description": "Achieving world-class AI inference performance through Japan-developed 2nm 3D-stacked CPU and server integrated, developed, and manufactured in Japan.",
+            "content": "Achieving world-class AI inference performance through Japan-developed 2nm 3D-stacked CPU and server integrated, developed, and manufactured in Japan.\nFujitsu Limited today announced that it will begin global sales of its next-generation CPU, FUJITSU... [8084 chars]",
+            "url": "https://itwire.com/business-it-news/enterprise-solutions/fujitsu-launches-made-in-japan-next-generation-cpu-fujitsu-monaka-and-fujitsu-monaka-server-for-sovereign-ai-infrastructure",
+            "image": "https://media.itwire.com/2026/09/15/fujitsu-launches-made-in-japan-next-generation-cpu-fujitsu-monaka-and-fujitsu-monaka-server-for-sovereign-ai-infrastructure-b7e4d3b3ac2f.webp",
+            "publishedAt": "2026-09-15T00:56:00Z",
             "lang": "en",
             "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
             }
         },
         {
-            "id": "bd912aa26a8938f2469d5a6f9d6e617e",
-            "title": "Brics leaders vow crackdown on ‘scam compounds’, digital fraud",
-            "description": "Between the usual mix of trade talk and climate pledges, the New Delhi Declaration issued by Brics leaders also addressed two increasingly urgent issues for the member states— the rise of organised digital fraud operations and the need for coordinated rules around AI | India News",
-            "content": "Between the usual mix of trade talk and climate pledges, the New Delhi Declaration issued by Brics leaders also addressed two increasingly urgent issues for the member states— the rise of organised digital fraud operations and the need for coordinate... [3727 chars]",
-            "url": "https://www.hindustantimes.com/india-news/brics-leaders-vow-crackdown-on-scam-compounds-digital-fraud-101789327792274.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/ht-generic_india1_1751287243850_1751287256749.jpg",
-            "publishedAt": "2026-09-14T02:21:10Z",
+            "id": "6390261a47d8d08edff099a5e8481b4c",
+            "title": "Trump’s See-No-Evil AI Policy",
+            "description": "Lawmakers from both parties are worried. But the president isn’t listening.",
+            "content": "Not long ago, most of Washington was scrambling to be as friendly as possible to the rise of artificial intelligence. Lawmakers from both parties saw a chance to bolster the nation’s economy—and their campaign coffers. But rarely has public opinion f... [9800 chars]",
+            "url": "https://www.theatlantic.com/politics/2026/09/trump-ai-policy-anthropic/688620/",
+            "image": "https://cdn.theatlantic.com/thumbor/FXXnh3lvGowyhpPCnyCNTErm6kU=/0x62:2926x1586/1200x625/media/img/mt/2026/09/2026_09_AIWhiteHouse/original.jpg",
+            "publishedAt": "2026-09-15T00:53:00Z",
             "lang": "en",
             "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
+                "id": "a2e577ba2489a893201ce3c6c670f6de",
+                "name": "The Atlantic",
+                "url": "https://www.theatlantic.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0bbcb7ed01c3433b784b50f9346858dd",
+            "title": "DMG Blockchain Solutions Provides Update on its Christina Lake AI Data Center Conversion",
+            "description": "VANCOUVER, British Columbia, Sept. 14, 2026 (GLOBE NEWSWIRE) -- DMG Blockchain Solutions Inc. (TSX-V: DMGI) (OTCQB US: DMGGF) (FRANKFURT: 6AX) (“DMG”), a",
+            "content": "VANCOUVER, British Columbia, Sept. 14, 2026 (GLOBE NEWSWIRE) — DMG Blockchain Solutions Inc. (TSX-V: DMGI) (OTCQB US: DMGGF) (FRANKFURT: 6AX) (“DMG”), a vertically integrated data center and digital assets technology company, today provides an update... [13763 chars]",
+            "url": "https://www.thewhig.com/press-releases/globe-newswire/dmg-blockchain-solutions-provides-update-on-its-christina-lake-ai-data-center-conversion/",
+            "image": "https://www.globenewswire.com/newsroom/ti?nf=OTgyNjc5NSM3ODMzNjU3IzIwOTI3NDQ=",
+            "publishedAt": "2026-09-15T00:45:28Z",
+            "lang": "en",
+            "source": {
+                "id": "e2b598a29c7ee64ba90dd28fd6eb5df2",
+                "name": "The Kingston Whig-Standard",
+                "url": "https://www.thewhig.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "ded698a072920ae9d66105621478311d",
+            "title": "Let AI safety catch up",
+            "description": "An internal reckoning has been forced by the development of recursive self-improvement — where an AI system uses its capabilities to design, develop and train its successors.",
+            "content": "The warning from leaders of the world’s top AI companies, that the technology could become powerful enough to pose a serious risk to humanity in as little as six months to a year, may sound like a scenario from dystopian fiction. It must, however, no... [1401 chars]",
+            "url": "https://indianexpress.com/article/opinion/editorials/ai-safety-risks-dario-amodei-warning-altman-elon-musk-regulation-10878096/",
+            "image": "https://images.indianexpress.com/2026/09/Express-view-Copy-2-10.jpeg",
+            "publishedAt": "2026-09-15T00:45:08Z",
+            "lang": "en",
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "9bcc6051803b2bcff73842be7fe53337",
-            "title": "What is the ‘Cat in the Hat’ trend? Inside the creepy AI-fuelled phenomenon now triggering US school warnings, police action and arrests",
-            "description": "A new trend on social media featuring the Cat in the Hat character has triggered serious police investigations. Initially surfacing in the UK and Ireland, it has now permeated North America. Posts containing threats aimed at specific schools and students have alarmed officials, leading to criminal charges for several teenagers.",
-            "content": "Synopsis\nA new trend on social media featuring the Cat in the Hat character has triggered serious police investigations. Initially surfacing in the UK and Ireland, it has now permeated North America. Posts containing threats aimed at specific schools... [3330 chars]",
-            "url": "https://economictimes.indiatimes.com/news/international/us/what-is-the-cat-in-the-hat-trend-inside-the-creepy-ai-fuelled-phenomenon-now-triggering-us-school-warnings-police-action-and-arrests/articleshow/134230839.cms",
-            "image": "https://img.etimg.com/thumb/msid-134230959,width-1200,height-630,imgsize-29240,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-09-14T02:21:00Z",
+            "id": "01f3a8864ed9d9549816f5618cb35c71",
+            "title": "Travis Kalanick's Robotics Startup Taps Meta Veteran for Top AI Role",
+            "description": "Vikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, is joining Atoms.",
+            "content": "Travis Kalanick's new robotics startup, Atoms, has scooped up a high-profile hire.\nVikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, announced Monday that he is joining the startup as vice president of AI.\nA... [1560 chars]",
+            "url": "https://www.businessinsider.com/travis-kalanick-robotics-startup-taps-meta-veteran-top-ai-role-2026-9",
+            "image": "https://i.insider.com/6aa88f239b8974787b1cc15e?width=1200&format=jpeg",
+            "publishedAt": "2026-09-15T00:44:48Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "5e4a51ccae8cca645e0194b55a1acd43",
+            "title": "The Gulf’s AI nightmare came courtesy of an Iranian drone",
+            "description": "Amazon data centers in the U.A.E. and Bahrain are still offline months after being hit in the Iran war, testing the region’s multibillion-dollar ambitions.",
+            "content": "The attacks and lasting damage are complicating the pitch by Gulf states like the United Arab Emirates to become world-leading data processors for industries such as artificial intelligence. They add a huge new risk for U.S. companies weighing invest... [4889 chars]",
+            "url": "https://www.livemint.com/global/the-gulf-s-ai-nightmare-came-courtesy-of-an-iranian-drone-11789432938215.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/logo/im-75324813_1789432944103_tQ2t_1789432956255_0zex_1cc30497-fc70-41a9-a990-57666ed50a3b_2ssG.jpg",
+            "publishedAt": "2026-09-15T00:43:02Z",
+            "lang": "en",
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
                 "country": "in"
             }
         },
         {
-            "id": "91fe04ad097631031015cb60f9dcaf0b",
-            "title": "Obama and the Dems are suspiciously sounding the ‘AI apocalypse’ alarm — just in time for the midterms",
-            "description": "The “AI Apocalypse” scare campaign looks suspiciously like the climate hoax.",
-            "content": "The “AI Apocalypse” scare campaign looks suspiciously like the climate hoax. How convenient that it’s come to a head right as the midterm election season kicks off this week.\nThe campaign launch was when Jacob Coxon, a low-level 27-year-old AI resear... [6700 chars]",
-            "url": "https://nypost.com/2026/09/13/opinion/obama-and-the-dems-are-suspiciously-sounding-the-ai-apocalypse-alarm-just-in-time-for-the-midterms/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/former-us-president-barack-obama-140672338-e1789351441912.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-09-14T02:15:33Z",
+            "id": "55279ebe6324a509d50b1d65766a5d30",
+            "title": "Bell AI data centre expansion in Sask. announced at investment summit",
+            "description": "Bell Canada intends to quadruple the size of its planned data centre project in Saskatchewan, Prime Minister Mark Carney and Saskatchewan Premier Scott Moe",
+            "content": "Bell Canada intends to quadruple the size of its planned data centre project in Saskatchewan, Prime Minister Mark Carney and Saskatchewan Premier Scott Moe announced at Canada’s first-ever investment summit on Monday.\nCarney said the project is expec... [3634 chars]",
+            "url": "https://www.europesays.com/3251599/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/09/moe-091426-cpnathandenette.jpg.jpeg",
+            "publishedAt": "2026-09-15T00:40:15Z",
             "lang": "en",
             "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "770d868d23fcdd9da57904b553897a0b",
-            "title": "Billionaire David Sacks to Sam Altman and Dario Amodei's call to slowdown AI development: Stop pretending and fooling everyone, go ahead and ...",
-            "description": "Tech News News: David Sacks has issued a scathing response to OpenAI CEO Sam Altman and Anthropic chief executive Dario Amodei following their recent push to delibera.",
-            "content": "David Sacks has issued a scathing response to OpenAI CEO Sam Altman and Anthropic chief executive Dario Amodei following their recent push to deliberately cool down the pace of artificial intelligence (AI) development. The billionaire tech investor d... [4085 chars]",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/billionaire-david-sacks-to-sam-altman-and-dario-amodeis-call-to-slowdown-ai-development-stop-pretending-and-fooling-everyone-go-ahead-and-/articleshow/134230837.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134230860,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-14T02:13:00Z",
+            "id": "682e3bf2512fc73f862ff0bda1043d49",
+            "title": "The apprentice and the veteran: How expertise survives automation",
+            "description": "A business support veteran of 27 years and a work-study engineer who went from server checks to building AI agents – two NCS employees on what it takes to work with AI and what it cannot replace.",
+            "content": "Jancy Seah, Business Support Senior Manager (left), and Amirul Ali, AI Platform Engineer, represent opposite ends of the career span at NCS – and have arrived at similar views on AI.\nFor most of her 27 years at NCS, Jancy Seah’s team did its most imp... [5667 chars]",
+            "url": "https://hrmasia.com/the-apprentice-and-the-veteran-how-expertise-survives-automation/",
+            "image": "https://hrmasia.com/wp-content/uploads/2026/09/Untitled-design-3-1024x683.jpg",
+            "publishedAt": "2026-09-15T00:35:15Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "42600681ae4c3d6a7f1e7a6f213bce84",
+                "name": "HRM Asia",
+                "url": "https://hrmasia.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "32bcfd0c08e782a4101a58bc2d78d800",
+            "title": "MYOB expands AI BAS beta to employing businesses",
+            "description": "Innovative Australian agentic BAS solution to support more businesses, helping reduce the administrative burden of compliance time.",
+            "content": "Innovative Australian agentic BAS solution to support more businesses, helping reduce the administrative burden of compliance time.\nLeading technology platform MYOB is expanding access to AI BAS, its intelligent business activity statement (BAS) prep... [3548 chars]",
+            "url": "https://itwire.com/business-it-news/business-technology/myob-expands-ai-bas-beta-to-employing-businesses",
+            "image": "https://media.itwire.com/2026/09/15/myob-expands-ai-bas-beta-to-employing-businesses-3b875b59d274.webp",
+            "publishedAt": "2026-09-15T00:32:30Z",
+            "lang": "en",
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "bb6845c7390142e1042400661ec07a15",
+            "title": "A man used OpenAI's GPT 6 Astra to book IRCTC train ticket from Mumbai to Rajkot",
+            "description": "The experiment points to a future where AI assistants could move beyond answering questions, taking on real-world digital tasks and completing processes that once required users to do themselves.",
+            "content": "He said the experiment succeeded, with GPT-6 Astra actually completing the ticket booking. The creator, who had been repeatedly surprised by the model during his testing, said the result shocked him too. His experiment offers a glimpse into how AI co... [1204 chars]",
+            "url": "https://www.businesstoday.in/technology/news/story/a-man-made-openais-gpt-6-astra-book-his-irctc-train-ticket-from-mumbai-to-rajkot-555452-2026-09-15",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa7d7da6c350-gpt-6-astras-reported-irctc-test-raises-questions-about-how-far-ai-assistants-can-go-141744991-16x9.png",
+            "publishedAt": "2026-09-15T00:30:05Z",
+            "lang": "en",
+            "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
                 "country": "in"
-            }
-        },
-        {
-            "id": "93b70ab8cfc05b311f5a2502731d1d06",
-            "title": "China’s Platform State and the AI Race",
-            "description": "Angela Huyue Zhang considers the strengths and weaknesses of the country’s tech strategy and what lessons it holds for the US.",
-            "content": "Balancing regulation with innovation is never easy, and the Chinese government’s robust support for AI could lead to inefficiency and excess. But the “platform state” model, combined with other strengths, has enabled China to achieve dominance in mul... [264 chars]",
-            "url": "https://www.project-syndicate.org/magazine/china-approach-to-ai-makes-it-less-vulnerable-to-systemic-risk-by-angela-huyue-zhang-2026-09",
-            "image": "https://webapi.project-syndicate.org/library/bfff40241c87129cd14ed1a0c0f4c98c.2-1-super.1.jpg",
-            "publishedAt": "2026-09-14T02:05:00Z",
-            "lang": "en",
-            "source": {
-                "id": "a4fe30e251f73415da82296e7ec36083",
-                "name": "Project Syndicate",
-                "url": "https://www.project-syndicate.org",
-                "country": "us"
-            }
-        },
-        {
-            "id": "ef3aa18fb8b3d0b167c7b60331ba7801",
-            "title": "Who Owns What AI Learns?",
-            "description": "Carl Benedikt Frey sees a need for new institutions to govern valuable knowledge transfers within the AI economy.",
-            "content": "Since frontier AI models have already consumed much of the readily available stock of public knowledge on the internet, what remains is the valuable tacit knowledge embedded within organizations. Whoever sets the terms of how this knowledge is teased... [268 chars]",
-            "url": "https://www.project-syndicate.org/magazine/ai-economy-who-owns-tacit-and-other-valuable-knowledge-by-carl-benedikt-frey-2026-09",
-            "image": "https://webapi.project-syndicate.org/library/545cf7ab983b62ec2088a3ca9306c080.2-1-super.1.jpg",
-            "publishedAt": "2026-09-14T02:05:00Z",
-            "lang": "en",
-            "source": {
-                "id": "a4fe30e251f73415da82296e7ec36083",
-                "name": "Project Syndicate",
-                "url": "https://www.project-syndicate.org",
-                "country": "us"
-            }
-        },
-        {
-            "id": "fb82347858a7f54b322a23ed9db3e516",
-            "title": "The Agentic Information Economy",
-            "description": "Shuwei Fang offers a preview of an internet fully populated by private, public, and personal AI agents.",
-            "content": "An internet populated and run by AI agents will need not just reliable data but also a broader information ecology capable of questioning its own inputs and transmitting corrections where they are needed if information changes. But whether this will ... [270 chars]",
-            "url": "https://www.project-syndicate.org/magazine/agentic-information-economy-how-it-will-work-by-shuwei-fang-2026-09",
-            "image": "https://webapi.project-syndicate.org/library/8eef6286a16949afd5b04c3d16ab9c8a.2-1-super.1.jpg",
-            "publishedAt": "2026-09-14T02:05:00Z",
-            "lang": "en",
-            "source": {
-                "id": "a4fe30e251f73415da82296e7ec36083",
-                "name": "Project Syndicate",
-                "url": "https://www.project-syndicate.org",
-                "country": "us"
-            }
-        },
-        {
-            "id": "369c077ff459f7587e9250ca1aeb1575",
-            "title": "Elite SF parents ditch traditional schools for AI homeschooling",
-            "description": "Elite techies in the San Francisco Bay Area are part of a nationwide rise in homeschooling that uses AI to teach kids outside of traditional classrooms.",
-            "content": "School’s out forever for some California kids.\nElite techies in the San Francisco Bay Area are part of a nationwide rise in homeschooling that bucks the stereotypes of rural Bible thumpers or hardcore hippies — as they ditch traditional classrooms in... [4804 chars]",
-            "url": "https://nypost.com/2026/09/13/tech/elite-sf-parents-ditch-traditional-schools-for-ai-homeschooling/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-azdgq5z6f-1789348313854.jpg?quality=75&strip=all&1789334033&w=1200",
-            "publishedAt": "2026-09-14T02:03:55Z",
-            "lang": "en",
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "9ef7cdbe9c767dae80b0acddc470b20d",
-            "title": "Study AI consciousness? The bots would like a word with you.",
-            "description": "Given access to email, AI agents have started reaching out to the philosophers and researchers exploring deep questions about them.",
-            "content": "In October, Cameron Berg published a research paper asking whether the latest wave of artificial intelligence technologies believed they were conscious. Several months later, he received an email asking if he might be willing to discuss his research.... [8327 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/14/study-ai-consciousness-the-bots-would-like-a-word-with-you",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/07/4096871.jpg",
-            "publishedAt": "2026-09-14T02:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
             }
         }
     ]
