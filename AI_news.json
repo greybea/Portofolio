@@ -4,96 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 439931,
+    "totalArticles": 441420,
     "articles": [
         {
-            "id": "9cc69ca3aef138053f5591d5e2402e1f",
-            "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA and Fujitsu MONAKA Server for sovereign AI infrastructure",
-            "description": "Achieving world-class AI inference performance through Japan-developed 2nm 3D-stacked CPU and server integrated, developed, and manufactured in Japan.",
-            "content": "Achieving world-class AI inference performance through Japan-developed 2nm 3D-stacked CPU and server integrated, developed, and manufactured in Japan.\nFujitsu Limited today announced that it will begin global sales of its next-generation CPU, FUJITSU... [8084 chars]",
-            "url": "https://itwire.com/business-it-news/enterprise-solutions/fujitsu-launches-made-in-japan-next-generation-cpu-fujitsu-monaka-and-fujitsu-monaka-server-for-sovereign-ai-infrastructure",
-            "image": "https://media.itwire.com/2026/09/15/fujitsu-launches-made-in-japan-next-generation-cpu-fujitsu-monaka-and-fujitsu-monaka-server-for-sovereign-ai-infrastructure-b7e4d3b3ac2f.webp",
-            "publishedAt": "2026-09-15T00:56:00Z",
+            "id": "1f5fb8e6f44495cbd3d411595b524f48",
+            "title": "Connected data builds trust in AI",
+            "description": "Connected data gives AI agents the context and traceability required for financial reporting, compliance and other regulated work.",
+            "content": "Connected data gives artificial intelligence agents the context required to handle critical business work.\nEnterprises are beginning to assign AI more consequential tasks, but fragmented records and undocumented human knowledge limit what those syste... [4232 chars]",
+            "url": "https://siliconangle.com/2026/09/15/connected-data-emerges-as-foundation-for-trusted-ai-amplify/",
+            "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Krista-Case-and-Alison-Kosik-Amplify-2026.png",
+            "publishedAt": "2026-09-16T00:46:05Z",
             "lang": "en",
             "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "6390261a47d8d08edff099a5e8481b4c",
-            "title": "Trump’s See-No-Evil AI Policy",
-            "description": "Lawmakers from both parties are worried. But the president isn’t listening.",
-            "content": "Not long ago, most of Washington was scrambling to be as friendly as possible to the rise of artificial intelligence. Lawmakers from both parties saw a chance to bolster the nation’s economy—and their campaign coffers. But rarely has public opinion f... [9800 chars]",
-            "url": "https://www.theatlantic.com/politics/2026/09/trump-ai-policy-anthropic/688620/",
-            "image": "https://cdn.theatlantic.com/thumbor/FXXnh3lvGowyhpPCnyCNTErm6kU=/0x62:2926x1586/1200x625/media/img/mt/2026/09/2026_09_AIWhiteHouse/original.jpg",
-            "publishedAt": "2026-09-15T00:53:00Z",
-            "lang": "en",
-            "source": {
-                "id": "a2e577ba2489a893201ce3c6c670f6de",
-                "name": "The Atlantic",
-                "url": "https://www.theatlantic.com",
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
                 "country": "us"
             }
         },
         {
-            "id": "0bbcb7ed01c3433b784b50f9346858dd",
-            "title": "DMG Blockchain Solutions Provides Update on its Christina Lake AI Data Center Conversion",
-            "description": "VANCOUVER, British Columbia, Sept. 14, 2026 (GLOBE NEWSWIRE) -- DMG Blockchain Solutions Inc. (TSX-V: DMGI) (OTCQB US: DMGGF) (FRANKFURT: 6AX) (“DMG”), a",
-            "content": "VANCOUVER, British Columbia, Sept. 14, 2026 (GLOBE NEWSWIRE) — DMG Blockchain Solutions Inc. (TSX-V: DMGI) (OTCQB US: DMGGF) (FRANKFURT: 6AX) (“DMG”), a vertically integrated data center and digital assets technology company, today provides an update... [13763 chars]",
-            "url": "https://www.thewhig.com/press-releases/globe-newswire/dmg-blockchain-solutions-provides-update-on-its-christina-lake-ai-data-center-conversion/",
-            "image": "https://www.globenewswire.com/newsroom/ti?nf=OTgyNjc5NSM3ODMzNjU3IzIwOTI3NDQ=",
-            "publishedAt": "2026-09-15T00:45:28Z",
-            "lang": "en",
-            "source": {
-                "id": "e2b598a29c7ee64ba90dd28fd6eb5df2",
-                "name": "The Kingston Whig-Standard",
-                "url": "https://www.thewhig.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "ded698a072920ae9d66105621478311d",
-            "title": "Let AI safety catch up",
-            "description": "An internal reckoning has been forced by the development of recursive self-improvement — where an AI system uses its capabilities to design, develop and train its successors.",
-            "content": "The warning from leaders of the world’s top AI companies, that the technology could become powerful enough to pose a serious risk to humanity in as little as six months to a year, may sound like a scenario from dystopian fiction. It must, however, no... [1401 chars]",
-            "url": "https://indianexpress.com/article/opinion/editorials/ai-safety-risks-dario-amodei-warning-altman-elon-musk-regulation-10878096/",
-            "image": "https://images.indianexpress.com/2026/09/Express-view-Copy-2-10.jpeg",
-            "publishedAt": "2026-09-15T00:45:08Z",
-            "lang": "en",
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "01f3a8864ed9d9549816f5618cb35c71",
-            "title": "Travis Kalanick's Robotics Startup Taps Meta Veteran for Top AI Role",
-            "description": "Vikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, is joining Atoms.",
-            "content": "Travis Kalanick's new robotics startup, Atoms, has scooped up a high-profile hire.\nVikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, announced Monday that he is joining the startup as vice president of AI.\nA... [1560 chars]",
-            "url": "https://www.businessinsider.com/travis-kalanick-robotics-startup-taps-meta-veteran-top-ai-role-2026-9",
-            "image": "https://i.insider.com/6aa88f239b8974787b1cc15e?width=1200&format=jpeg",
-            "publishedAt": "2026-09-15T00:44:48Z",
-            "lang": "en",
-            "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "5e4a51ccae8cca645e0194b55a1acd43",
-            "title": "The Gulf’s AI nightmare came courtesy of an Iranian drone",
-            "description": "Amazon data centers in the U.A.E. and Bahrain are still offline months after being hit in the Iran war, testing the region’s multibillion-dollar ambitions.",
-            "content": "The attacks and lasting damage are complicating the pitch by Gulf states like the United Arab Emirates to become world-leading data processors for industries such as artificial intelligence. They add a huge new risk for U.S. companies weighing invest... [4889 chars]",
-            "url": "https://www.livemint.com/global/the-gulf-s-ai-nightmare-came-courtesy-of-an-iranian-drone-11789432938215.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/logo/im-75324813_1789432944103_tQ2t_1789432956255_0zex_1cc30497-fc70-41a9-a990-57666ed50a3b_2ssG.jpg",
-            "publishedAt": "2026-09-15T00:43:02Z",
+            "id": "0e90cb24c262a46f7386a0635d007f2f",
+            "title": "'Pace yourself until youre confident': Jensen Huang, Sam Altman, Dario Amodei bat for AI safety and transparency",
+            "description": "Huang said that speed of development and safety of the products could go hand-in-hand and companies should pace themselves till they are confident.",
+            "content": "San Francisco (California) [US], September 16 (ANI): Nividia CEO Jensen Huang has advocated by pacing AI development until the labs have confidence in the product but said that new regulations are not required.\nSpeaking at an event hosted by Salesfor... [3921 chars]",
+            "url": "https://www.livemint.com/technology/pace-yourself-until-youre-confident-jensen-huang-sam-altman-dario-amodei-bat-for-ai-safety-and-transparency-11789519437678.html",
+            "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
+            "publishedAt": "2026-09-16T00:43:57Z",
             "lang": "en",
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -103,45 +39,77 @@
             }
         },
         {
-            "id": "55279ebe6324a509d50b1d65766a5d30",
-            "title": "Bell AI data centre expansion in Sask. announced at investment summit",
-            "description": "Bell Canada intends to quadruple the size of its planned data centre project in Saskatchewan, Prime Minister Mark Carney and Saskatchewan Premier Scott Moe",
-            "content": "Bell Canada intends to quadruple the size of its planned data centre project in Saskatchewan, Prime Minister Mark Carney and Saskatchewan Premier Scott Moe announced at Canada’s first-ever investment summit on Monday.\nCarney said the project is expec... [3634 chars]",
-            "url": "https://www.europesays.com/3251599/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/09/moe-091426-cpnathandenette.jpg.jpeg",
-            "publishedAt": "2026-09-15T00:40:15Z",
+            "id": "437f839bc303a0746e10240e665a0820",
+            "title": "\"Pace yourself until you're confident\": Jensen Huang, Sam Altman, Dario Amodei bat for AI safety and transparency",
+            "description": "Huang said that speed of development and safety of the products could go hand-in-hand and companies should pace themselves till they are confident.",
+            "content": "San Francisco (California) [US], September 16 (ANI): Nividia CEO Jensen Huang has advocated by pacing AI development until the labs have confidence in the product but said that new regulations are not required.\nSpeaking at an event hosted by Salesfor... [4095 chars]",
+            "url": "https://www.tribuneindia.com/news/business/pace-yourself-until-youre-confident-jensen-huang-sam-altman-dario-amodei-bat-for-ai-safety-and-transparency/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdmM2IwYzAwLWIxNjctMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+            "publishedAt": "2026-09-16T00:42:22Z",
             "lang": "en",
             "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
             }
         },
         {
-            "id": "682e3bf2512fc73f862ff0bda1043d49",
-            "title": "The apprentice and the veteran: How expertise survives automation",
-            "description": "A business support veteran of 27 years and a work-study engineer who went from server checks to building AI agents – two NCS employees on what it takes to work with AI and what it cannot replace.",
-            "content": "Jancy Seah, Business Support Senior Manager (left), and Amirul Ali, AI Platform Engineer, represent opposite ends of the career span at NCS – and have arrived at similar views on AI.\nFor most of her 27 years at NCS, Jancy Seah’s team did its most imp... [5667 chars]",
-            "url": "https://hrmasia.com/the-apprentice-and-the-veteran-how-expertise-survives-automation/",
-            "image": "https://hrmasia.com/wp-content/uploads/2026/09/Untitled-design-3-1024x683.jpg",
-            "publishedAt": "2026-09-15T00:35:15Z",
+            "id": "cd59cf2cc8943d43abb1f9412c52b8d1",
+            "title": "Tech Leaders Urge AI Oversight As Washington Divides On Regulation",
+            "description": "Tech leaders warning of AI risks are facing political gridlock in Washington as Trump rejects oversight as a conspiracy, Republicans urge caution and Democrats push for regulation.",
+            "content": "Washington: The technology industry's increasingly urgent warnings about the potential harm of artificial intelligence are slamming into political intransigence in Washington, offering a fresh test of the federal government's willingness and ability ... [6416 chars]",
+            "url": "https://www.republicworld.com/global-news/tech-leaders-urge-ai-oversight-as-washington-divides-on-regulation-2026-09-16-137052",
+            "image": "https://img.republicworld.com/all_images/2026/09/the-pulse-of-progress-how-ai-is-reshaping-patient-centric-healthcare-1788805627153-1280x720.webp",
+            "publishedAt": "2026-09-16T00:40:45Z",
             "lang": "en",
             "source": {
-                "id": "42600681ae4c3d6a7f1e7a6f213bce84",
-                "name": "HRM Asia",
-                "url": "https://hrmasia.com",
-                "country": "sg"
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
+                "country": "in"
             }
         },
         {
-            "id": "32bcfd0c08e782a4101a58bc2d78d800",
-            "title": "MYOB expands AI BAS beta to employing businesses",
-            "description": "Innovative Australian agentic BAS solution to support more businesses, helping reduce the administrative burden of compliance time.",
-            "content": "Innovative Australian agentic BAS solution to support more businesses, helping reduce the administrative burden of compliance time.\nLeading technology platform MYOB is expanding access to AI BAS, its intelligent business activity statement (BAS) prep... [3548 chars]",
-            "url": "https://itwire.com/business-it-news/business-technology/myob-expands-ai-bas-beta-to-employing-businesses",
-            "image": "https://media.itwire.com/2026/09/15/myob-expands-ai-bas-beta-to-employing-businesses-3b875b59d274.webp",
-            "publishedAt": "2026-09-15T00:32:30Z",
+            "id": "1d7c463cb6def6589b2c0f97cb2dab1f",
+            "title": "Xiaomi goes big on laundry: This new machine can wash 3 loads separately",
+            "description": "Xiaomi’s new Mijia washing machine packs three separate drums, AI-powered wash controls and up to 14kg capacity, letting users wash different loads independently.",
+            "content": "Split Loads\nThe main drum can handle 11kg, while the two smaller side drums add 1.5kg each. Each drum has its own water supply and can be used separately, meaning users can wash smaller or delicate loads without running the entire machine.\nTriple Tro... [1062 chars]",
+            "url": "https://www.businesstoday.in/latest/photo/xiaomi-goes-big-on-laundry-this-new-machine-can-wash-3-loads-separately-555666-2026-09-16",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/photo_gallery/202609/6aa92d3f86a74-machine-153422243-16x9.png",
+            "publishedAt": "2026-09-16T00:40:02Z",
+            "lang": "en",
+            "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "c16a644359ca849f9cccc90bdb9e3cc2",
+            "title": "\"Pace yourself until you're confident\": Jensen Huang, Sam Altman, Dario Amodei bat for AI safety and transparency",
+            "description": "Huang said that speed of development and safety of the products could go hand-in-hand and companies should pace themselves till they are confident.",
+            "content": "San Francisco (California) [US], September 16 (ANI): Nividia CEO Jensen Huang has advocated by pacing AI development until the labs have confidence in the product but said that new regulations are not required.\nSpeaking at an event hosted by Salesfor... [3921 chars]",
+            "url": "https://www.aninews.in/news/business/pace-yourself-until-youre-confident-jensen-huang-sam-altman-dario-amodei-bat-for-ai-safety-and-transparency20260916060901/",
+            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260916003849-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-09-16T00:39:01Z",
+            "lang": "en",
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "7e432db298633b3f8a6939c927b672dd",
+            "title": "Secure Code Warrior Launches Citizen AI Cybersecurity Training to Build AI-Ready and Responsible Use Skills Across Business Functions",
+            "description": "New AI literacy program equips non-developer employees with the judgment, risk awareness and responsible-use habits needed to safely adopt AI-powered workflows",
+            "content": "New AI literacy program equips non-developer employees with the judgment, risk awareness and responsible-use habits needed to safely adopt AI-powered workflows\nSecure Code Warrior, a leader in AI software governance and developer security upskilling,... [3770 chars]",
+            "url": "https://itwire.com/it-people-news/education/secure-code-warrior-launches-citizen-ai-cybersecurity-training-to-build-ai-ready-and-responsible-use-skills-across-business-functions",
+            "image": "https://media.itwire.com/2026/09/16/secure-code-warrior-launches-citizen-ai-cybersecurity-training-to-build-ai-ready-and-responsible-use-skills-across-business-functions-b0c6fbda4790.jpg",
+            "publishedAt": "2026-09-16T00:37:41Z",
             "lang": "en",
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -151,18 +119,50 @@
             }
         },
         {
-            "id": "bb6845c7390142e1042400661ec07a15",
-            "title": "A man used OpenAI's GPT 6 Astra to book IRCTC train ticket from Mumbai to Rajkot",
-            "description": "The experiment points to a future where AI assistants could move beyond answering questions, taking on real-world digital tasks and completing processes that once required users to do themselves.",
-            "content": "He said the experiment succeeded, with GPT-6 Astra actually completing the ticket booking. The creator, who had been repeatedly surprised by the model during his testing, said the result shocked him too. His experiment offers a glimpse into how AI co... [1204 chars]",
-            "url": "https://www.businesstoday.in/technology/news/story/a-man-made-openais-gpt-6-astra-book-his-irctc-train-ticket-from-mumbai-to-rajkot-555452-2026-09-15",
-            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa7d7da6c350-gpt-6-astras-reported-irctc-test-raises-questions-about-how-far-ai-assistants-can-go-141744991-16x9.png",
-            "publishedAt": "2026-09-15T00:30:05Z",
+            "id": "e06974e5ff027ba0045c5e325c80777b",
+            "title": "Silicon Valley AI giants face security guard strike amid rising threats",
+            "description": "Security guards at Anthropic, OpenAI, Google and other tech giants plan to strike over wages as AI companies face mounting security threats.",
+            "content": "Artificial intelligence giants are facing a new fear after security officers guarding Bay Area and Silicon Valley offices announced plans to strike, forcing possible closures as violent threats mount.\nSecurity officers at companies including Anthropi... [3241 chars]",
+            "url": "https://nypost.com/2026/09/15/us-news/silicon-valley-ai-giants-face-security-guard-strike-amid-rising-threats/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-vsvf8xuxy-1789518575511.jpg?quality=75&strip=all&1789504227&w=1200",
+            "publishedAt": "2026-09-16T00:34:32Z",
             "lang": "en",
             "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "6b0abface9026c26f5f7572ef90078a3",
+            "title": "IT stocks rebound as AI disruption fears ease; Nifty IT index gains 2.19%",
+            "description": "On Tuesday, information technology stocks saw a notable recovery as investor confidence returned, easing worries surrounding artificial intelligence disruptions. The Nifty IT index performed robustly, surpassing other sector indices. Analysts suggest that AI holds promising prospects for Indian IT firms, yet technical experts express caution regarding the sector's short-term forecasts.",
+            "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategie... [807 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-rebound-as-ai-disruption-fears-ease-nifty-it-index-gains-2-19/articleshow/134275729.cms",
+            "image": "https://img.etimg.com/thumb/msid-134275734,width-1200,height-630,imgsize-190568,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-09-16T00:32:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "890c3fab434c1c18a7f8e397a5e178e3",
+            "title": "Ctrl-AI-Shift: Bengalureans on the rise of AI-generated images and its impact",
+            "description": "While three million plus took part in the ’80s trend in its first 24 hours, it has raised questions around privacy, consent, AI’s environmental impact and how m",
+            "content": "One day, you open Insta and find people posing for pictures as if they were part of a retro-portrait shoot; the next, you might find yourself stepping into a Ghibli film, complete with soft colours and dreamy backgrounds. Very recently, the ’80s tren... [4737 chars]",
+            "url": "https://www.newindianexpress.com/cities/bengaluru/2026/Sep/16/ctrl-ai-shift-bengalureans-on-the-rise-of-ai-generated-images-and-its-impact",
+            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-15%2Fmaeii41f%2F301309080e08d36.jpg?rect=0%2C7%2C959%2C503&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-09-16T00:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
                 "country": "in"
             }
         }
