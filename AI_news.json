@@ -4,16 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 442638,
+    "totalArticles": 443843,
     "articles": [
         {
-            "id": "d3113c227b218b840c928ad58491d1f6",
-            "title": "Rubrik Adds New MCP Support to Expand Access to Agentic Cyber Resilience",
-            "description": "Powered by Claude, Rubrik AI Now Used by One Third of Global Customers",
-            "content": "Powered by Claude, Rubrik AI Now Used by One Third of Global Customers\nRubrik (NYSE: RBRK), the Security and AI Operations Company, today announced Rubrik MCP (Model Context Protocol), giving an organisation’s AI agents a secure, programmable path to... [2488 chars]",
-            "url": "https://itwire.com/business-it-news/business-software/rubrik-adds-new-mcp-support-to-expand-access-to-agentic-cyber-resilience",
-            "image": "https://media.itwire.com/2026/09/17/rubrik-adds-new-mcp-support-to-expand-access-to-agentic-cyber-resilience-66b2f659ab87.webp",
-            "publishedAt": "2026-09-17T00:49:22Z",
+            "id": "3dd538b2d2bfda04bdd6a699eb89b9f9",
+            "title": "Delinea Joins Anthropic's Project Glasswing",
+            "description": "Delinea will apply Anthropic's frontier AI model to its own vaulting, secrets, and session-brokering code",
+            "content": "Delinea will apply Anthropic's frontier AI model to its own vaulting, secrets, and session-brokering code\nDelinea, the identity security platform that controls what AI agents, humans and machines can do once they have access, has joined Project Glass... [3196 chars]",
+            "url": "https://itwire.com/business-it-news/data/delinea-joins-anthropics-project-glasswing",
+            "image": "https://media.itwire.com/2026/09/18/delinea-joins-anthropics-project-glasswing-fb75aa1e5109.jpg",
+            "publishedAt": "2026-09-18T00:18:22Z",
             "lang": "en",
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -23,13 +23,109 @@
             }
         },
         {
-            "id": "8955737dbdd6caaa99dc2ecb83b4a5b1",
-            "title": "Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses",
-            "description": "Sept 16 (Reuters) - Snap on Wednesday ⁠announced partnerships with companies including Salesforce, Nvidia and Amazon Web Services ⁠to integrate workplace tools into its Specs augmented-reality glasses, courting enterprise ‌demand to carve a foothold in the heavily contested market.",
-            "content": "Sept 16 (Reuters) - Snap on Wednesday ⁠announced partnerships with companies including Salesforce, Nvidia and Amazon Web Services ⁠to integrate workplace tools into its Specs augmented-reality glasses, courting enterprise ‌demand to carve a foothold ... [1853 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/17/snap-targets-enterprises-with-salesforce-nvidia-ai-tools-for-augmented-reality-glasses",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/17/4114498.jpg",
-            "publishedAt": "2026-09-17T00:49:00Z",
+            "id": "2d70c6208692030f0b86bbec8ce14ef4",
+            "title": "based tool for breast cancer screening",
+            "description": "A breast cancer screening technology developed at the AIIMS, New Delhi, has taken a significant step towards moving from the research laboratory to routine healthcare, with the institute transferring its AI-based mammography interpretation model to BPL Technologies for further development, validation and potential clinical use.",
+            "content": "A breast cancer screening technology developed at the AIIMS, New Delhi, has taken a significant step towards moving from the research laboratory to routine healthcare, with the institute transferring its AI-based mammography interpretation model to B... [2533 chars]",
+            "url": "https://www.tribuneindia.com/news/delhi/aiims-delhi-develops-ai-based-tool-for-breast-cancer-screening/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZlNDRiNDcwLWIzMDktMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+            "publishedAt": "2026-09-18T00:09:08Z",
+            "lang": "en",
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "98ef7735c44d5ac1db8d88334e8b7524",
+            "title": "OpenAI reveals six new cases of AI misbehaviour, vows to track it closely",
+            "description": "Tech News News: OpenAI has disclosed six reports of \\\"unexpected or concerning\\\" behaviour in AI models as the debate on AI safety becomes increasingly heated. The AI c.",
+            "content": "OpenAI’s latest announcement came as AI bosses in US, including OpenAI and Anthropic, are calling for a slowdown in the tech’s development\nOpenAI has disclosed six reports of \"unexpected or concerning\" behaviour in AI models as the debate on AI safet... [3193 chars]",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-reveals-six-new-cases-of-ai-misbehaviour-vows-to-track-it-closely/articleshow/134323336.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134323350,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-18T00:05:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "507a600c97446ad38170048c4af523c9",
+            "title": "Artificial or real, intelligence belongs to humans",
+            "description": "Explore the complex role of AI as a powerful tool that enhances human capabilities while requiring responsible management and vigilance to navigate its risks and benefits in business and society.",
+            "content": "I say this as a technology entrepreneur who has spent decades watching technology change how we work, and I am amazed by what artificial intelligence can already do. But I am equally amazed by how quickly we have moved from being excited about this e... [15252 chars]",
+            "url": "https://www.financialexpress.com/world-news/global-views/artificial-or-real-intelligence-belongs-to-humans/4341752/",
+            "image": "https://images.financialexpressdigital.com/2026/09/gfxgfxgh.jpg",
+            "publishedAt": "2026-09-18T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "40135b0af269a68eb0b89f2ec7ca2c5d",
+            "title": "Could AI really ‘kill us all’? - Warnings explained",
+            "description": "Keeping AI safe comes at a cost - and America doesn’t want to fall behind in the tech race. President Donald said fears about the technology were “a hoax”.",
+            "content": "What is going on with AI? Some of the most influential people in the world have warned its development must slow down – and that humanity risks extinction.\nEven King Charles warned an AI summit about “adequately considering the existential dangers of... [1121 chars]",
+            "url": "https://www.channel4.com/news/could-ai-really-kill-us-all-warnings-explained",
+            "image": "https://fournews-assets-prod-s3-ew1-nmprod.s3.amazonaws.com/media/2026/09/ai-thumb-1-1-1920x1080.jpg",
+            "publishedAt": "2026-09-18T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "ad5dd96810e3196a400f3f456d756e28",
+                "name": "Channel 4 News",
+                "url": "https://www.channel4.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "cb331457f1c525ce2c241f251c992137",
+            "title": "Urge China to keep humans over AI in nukes, say US lawmakers",
+            "description": "two us lawmakers have urged president donald trump to secure a commitment from chinese leader xi jinping that humans must remain in control of nuclear launch decisions, warning against allowing artificial intelligence to launch a nuclear weapon on its own. representative ted lieu, a california democrat, and senator ed markey, a massachusetts democrat, asked trump to raise the issue during his meeting with xi next week, according to a september 16 release from lieu’s office. their letter, dated september 15,",
+            "content": "WASHINGTON :\nTWO US lawmakers have urged President Donald Trump to secure a commitment from Chinese leader Xi Jinping that humans must remain in control of nuclear launch decisions, warning against allowing artificial intelligence to launch a nuclear... [1563 chars]",
+            "url": "https://www.thehitavada.com/Encyc/2026/9/18/urge-china-to-keep-humans-over-ai-in-nukes-say-us-lawmakers.html",
+            "image": "https://www.thehitavada.com/Encyc/2026/9/18/Urge-China-to-keep-humans-over-AI-in-nukes-say-US-lawmakers_202609181149587805_H@@IGHT_357_W@@IDTH_394.jpg",
+            "publishedAt": "2026-09-18T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "b12e415a67a7bdb150cabaf694dd98c4",
+            "title": "Tech Brief (Sept. 18): Huawei Speeds Up AI Chip Roadmap",
+            "description": "Tech Brief (Sept. 18): Huawei Speeds Up AI Chip Roadmap - China’s AI hiring surges as industry pivots to practical applications, MiniMax joins Singapore’s AI skills popularization program",
+            "content": "Huawei speeds up AI chip roadmap\nHuawei Technologies Co. Ltd. has accelerated the rollout of its next-generation AI chips and introduced what it calls the industry’s first “super node” utilizing near-packaged optics (NPO) technology, stepping up effo... [536 chars]",
+            "url": "https://www.caixinglobal.com/2026-09-18/tech-brief-sept-18-huawei-speeds-up-ai-chip-roadmap-102486248.html",
+            "image": "https://img.caixin.com/2025-08-26/175617644777312_560_373.jpg",
+            "publishedAt": "2026-09-18T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "f6aff458be2c33b80c8600fb696f68fb",
+                "name": "Caixin",
+                "url": "https://www.caixinglobal.com",
+                "country": "cn"
+            }
+        },
+        {
+            "id": "97693324ec21a9061b84516d3c3599d3",
+            "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
+            "description": "Sept 17 (Reuters) - Anthropic said Claude \"leads\" ⁠26% of the artificial intelligence research and development work inside the company, part ⁠of new measures that it will publish regularly to show outsiders how ‌quickly AI is building the next generation of the technology.",
+            "content": "Sept 17 (Reuters) - Anthropic said Claude \"leads\" ⁠26% of the artificial intelligence research and development work inside the company, part ⁠of new measures that it will publish regularly to show outsiders how ‌quickly AI is building the next genera... [1849 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/18/anthropic-says-claude-now-leads-a-quarter-of-work-building-its-next-ai-models",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/18/4116555.jpg",
+            "publishedAt": "2026-09-18T00:00:00Z",
             "lang": "en",
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -39,131 +135,35 @@
             }
         },
         {
-            "id": "d83e62e24278b7915344e949da4c0118",
-            "title": "OpenAI wants ChatGPT ads to start conversations, not just clicks",
-            "description": "OpenAI is expanding its advertising push with a slate of AI-powered tools designed to change how users interact with ads in ChatGPT and how advertisers create and manage campaigns on the platform.",
-            "content": "OpenAI is expanding its advertising push with a slate of AI-powered tools designed to change how users interact with ads in ChatGPT and how advertisers create and manage campaigns on the platform.\nAmong the new features is \"Sponsored agents\", which a... [3853 chars]",
-            "url": "https://www.marketing-interactive.com/openai-wants-chatgpt-ads-to-start-conversations-not-just-clicks",
-            "image": "https://marketing-interactive-assets.b-cdn.net/article_images/openai-wants-chatgpt-ads-to-start-conversations-not-just-clicks/1789629485_openai.jpg",
-            "publishedAt": "2026-09-17T00:47:51Z",
+            "id": "bf8446036c7d4d8a6dec7329ffb37cc7",
+            "title": "Trip.Biz Launches Agent ONE, an AI Suite Transforming Business Travel -- Cutting Booking Time by 90% for Travellers and Simplifying Oversight for Travel Managers",
+            "description": "/PRNewswire/ -- Trip.Biz, the business travel brand of Trip.com Group, welcomed 200 senior leaders from travel, procurement, finance, and HR to Transform 2026,...",
+            "content": "Accessibility Statement Skip Navigation\nTransform 2026 opened with an address from Trip.Biz CEO Tao Song, titled \"A New Day One for Business Travel\". Song set the tone for the afternoon by framing Trip.Biz's next chapter around simplicity and trust, ... [6492 chars]",
+            "url": "https://www.prnewswire.co.uk/news-releases/tripbiz-launches-agent-one-an-ai-suite-transforming-business-travel--cutting-booking-time-by-90-for-travellers-and-simplifying-oversight-for-travel-managers-302882323.html",
+            "image": "https://mmx.prnewswire.com/media/MS1990887/Picture1.jpg?id=OA2956013&p=facebook",
+            "publishedAt": "2026-09-18T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "d894d2a2b7c9ae7ff7505a197738f18c",
-                "name": "Marketing Interactive",
-                "url": "https://www.marketing-interactive.com",
-                "country": "sg"
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
             }
         },
         {
-            "id": "d7dd513f25277a8c650ec68d110a2b97",
-            "title": "Big Tech Won't Care That The Fed Hiked",
-            "description": "Fed rate hike to 3.75%-4.00%: see market impact, December hike outlook, and why AI-driven mega-cap tech may outperform. Click for more.",
-            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of SP500 either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (ot... [680 chars]",
-            "url": "https://seekingalpha.com/article/4947271-big-tech-wont-care-that-the-fed-hiked",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2164185446/image_2164185446.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-09-17T00:47:46Z",
+            "id": "bb12b5afa94ea7721e7659455f9bafe7",
+            "title": "Orlando Health doctor warns breastfeeding mothers about online and AI advice",
+            "description": "ORLANDO — Breastfeeding comes with plenty of benefits for children, but it does not always come without challenges.",
+            "content": "ORLANDO — Breastfeeding comes with plenty of benefits for children, but it does not always come without challenges.\nEmily Hunziker had no problems breastfeeding her first child, but five years later, her second child has been a different experience.\n... [1447 chars]",
+            "url": "https://www.wbrz.com/news/orlando-health-doctor-warns-breastfeeding-mothers-about-online-and-ai-advice",
+            "image": "https://dcer237tfveol.cloudfront.net/v2/onshwS0Pm-skj73GnLh7twdeifBoilwfzPTmFG2IkXblRyg3fFxgam4sGO0jR9O4q6D22ud32jEbkgSSN2w6WS9sFqxWPQnh6rPO07zZ1FtA",
+            "publishedAt": "2026-09-18T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
+                "id": "73eac0d677e8ec9d0b836e30a86950f8",
+                "name": "WBRZ",
+                "url": "https://www.wbrz.com",
                 "country": "us"
-            }
-        },
-        {
-            "id": "7a8eaf2cccda0a38fb560fd1927cab7b",
-            "title": "Citadel Edge backing sovereign AI for growth",
-            "description": "Todd Trevillion is accustomed to changing tack. He is quite an accomplished sailor for one. And back in 2020 he had not been at the Citadel Group long when the ASX-listed...",
-            "content": "Todd Trevillion is accustomed to changing tack. He is quite an accomplished sailor for one. And back in 2020 he had not been at the Citadel Group long when the ASX-listed company was bought by private equity firm Pacific Equity Partners.\nThis change ... [4637 chars]",
-            "url": "https://itwire.com/business-it-news/data/citadel-edge-backing-sovereign-ai-for-growth",
-            "image": "https://media.itwire.com/2026/09/17/citadel-edge-backing-sovereign-ai-for-growth-7d533298652b.webp",
-            "publishedAt": "2026-09-17T00:45:28Z",
-            "lang": "en",
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "c12331bed9700619ee48693d0b3f5327",
-            "title": "OpenAI to regularly disclose AI misbehavior, warns safety challenges remain",
-            "description": "AI-SAFETY-OPENAI:OpenAI to regularly disclose AI misbehavior, warns safety challenges remain",
-            "content": "Sept 16 (Reuters) - OpenAI said on Wednesday it would begin regularly publishing reports on unexpected or unauthorized AI behavior, while warning that the industry has yet to solve key alignment challenges as systems grow more powerful.\nThe company r... [4433 chars]",
-            "url": "https://www.livemint.com/technology/openai-to-regularly-disclose-ai-misbehavior-warns-safety-challenges-remain-11789605837392.html",
-            "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
-            "publishedAt": "2026-09-17T00:43:56Z",
-            "lang": "en",
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "44d0a4356ca9f0329778f1e1c0e89356",
-            "title": "Expanded NVIDIA partnership enables Splunk to bring agentic AI to sensitive machine data",
-            "description": "Splunk Enterprise customers will be able to run accelerated, agentic AI directly on sensitive machine data in their own environments rather than being constrained by the need...",
-            "content": "Splunk Enterprise customers will be able to run accelerated, agentic AI directly on sensitive machine data in their own environments rather than being constrained by the need to move that data to an external AI or cloud environment.\nThe move follows ... [3386 chars]",
-            "url": "https://itwire.com/it-industry-news/strategy/expanded-nvidia-partnership-enables-splunk-to-bring-agentic-ai-to-sensitive-machine-data",
-            "image": "https://media.itwire.com/2026/09/17/expanded-nvidia-partnership-enables-splunk-to-bring-agentic-ai-to-sensitive-machine-data-3f662a8ae693.webp",
-            "publishedAt": "2026-09-17T00:41:52Z",
-            "lang": "en",
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "d0f1a24d72e44ff87197292215e0a99b",
-            "title": "AI may need aviation-style safety regulations: Josephine Teo",
-            "description": "Artificial intelligence may eventually need a safety regime akin to civil aviation, where layers of safeguards and standards give people the confidence to use the technology, said Minister of Digital Development and Information Josephine Teo. Read more at straitstimes.com.",
-            "content": "SINGAPORE - Artificial intelligence may eventually need a safety regime akin to civil aviation, where layers of safeguards and standards give people the confidence to use the technology, said Minister of Digital Development and Information Josephine ... [4887 chars]",
-            "url": "https://www.straitstimes.com/tech/ai-may-need-aviation-style-safety-regulations-to-gain-trust-josephine-teo",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5b2f3f66a92d20a0685af04107b5bbc301f405b5e2c0bcb8c3d8c8fa64e4157b",
-            "publishedAt": "2026-09-17T00:41:49Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "095429a1e0e79d870718e0863d34de09",
-            "title": "Google Home Stuns by Announcing AI Support for Claude and OpenClaw",
-            "description": "Google is expanding its tools so you can invoke a variety of AI agents in your smart home.",
-            "content": "Google told Google Home customers and developers on Wednesday that it would add smart home support for other AI agents beyond its own Gemini AI. The company’s announcement says that “any agent that supports calling [Model Context Protocol technology]... [4609 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/google-home-stuns-by-announcing-ai-support-for-claude-and-openclaw/",
-            "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2294192811.jpg",
-            "publishedAt": "2026-09-17T00:33:34Z",
-            "lang": "en",
-            "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "9cf4a1b4bdfdc349967262f2a0a6cd1e",
-            "title": "Indonesia sets out four principles for human",
-            "description": "Workflow redesign and upskilling, not AI tools alone, drive the biggest productivity gains, according to Indonesia’s Manpower Minister, as the ministry prepares a workplace guide and pilot projects.",
-            "content": "Indonesia’s Manpower Minister Yassierli has called for human-centred AI in the workplace to boost national workforce productivity, saying the biggest gains come when organisations redesign how work is done.\nHe said sectors with high AI use have recor... [2186 chars]",
-            "url": "https://hrmasia.com/indonesia-sets-out-four-principles-for-human-centred-ai-adoption-at-work/",
-            "image": "https://hrmasia.com/wp-content/uploads/2026/09/Untitled-design-1-1024x669.jpg",
-            "publishedAt": "2026-09-17T00:30:49Z",
-            "lang": "en",
-            "source": {
-                "id": "42600681ae4c3d6a7f1e7a6f213bce84",
-                "name": "HRM Asia",
-                "url": "https://hrmasia.com",
-                "country": "sg"
             }
         }
     ]
