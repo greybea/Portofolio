@@ -4,150 +4,54 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 443843,
+    "totalArticles": 444814,
     "articles": [
         {
-            "id": "3dd538b2d2bfda04bdd6a699eb89b9f9",
-            "title": "Delinea Joins Anthropic's Project Glasswing",
-            "description": "Delinea will apply Anthropic's frontier AI model to its own vaulting, secrets, and session-brokering code",
-            "content": "Delinea will apply Anthropic's frontier AI model to its own vaulting, secrets, and session-brokering code\nDelinea, the identity security platform that controls what AI agents, humans and machines can do once they have access, has joined Project Glass... [3196 chars]",
-            "url": "https://itwire.com/business-it-news/data/delinea-joins-anthropics-project-glasswing",
-            "image": "https://media.itwire.com/2026/09/18/delinea-joins-anthropics-project-glasswing-fb75aa1e5109.jpg",
-            "publishedAt": "2026-09-18T00:18:22Z",
+            "id": "b44b0b15519916f8ef7f5d2ff99fad25",
+            "title": "Anthropic considers releasing new AI model ahead of IPO, sources say",
+            "description": "Anthropic is considering rolling out a new AI model to counter OpenAI’s momentum since its launch of GPT-6 Astra, according ​to three sources, ahead of an expected IPO and after its CEO called for an industrywide slowdown.",
+            "content": "Sept 18 (Reuters) - Anthropic is considering rolling out a new AI model to counter OpenAI’s momentum since its launch of GPT-6 Astra, according ​to three sources, ahead of an expected IPO and after its CEO called for an industrywide slowdown.\nThe tim... [5814 chars]",
+            "url": "https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/",
+            "image": "https://www.reuters.com/resizer/v2/CM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg?auth=a1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-09-19T00:05:20Z",
             "lang": "en",
             "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
             }
         },
         {
-            "id": "2d70c6208692030f0b86bbec8ce14ef4",
-            "title": "based tool for breast cancer screening",
-            "description": "A breast cancer screening technology developed at the AIIMS, New Delhi, has taken a significant step towards moving from the research laboratory to routine healthcare, with the institute transferring its AI-based mammography interpretation model to BPL Technologies for further development, validation and potential clinical use.",
-            "content": "A breast cancer screening technology developed at the AIIMS, New Delhi, has taken a significant step towards moving from the research laboratory to routine healthcare, with the institute transferring its AI-based mammography interpretation model to B... [2533 chars]",
-            "url": "https://www.tribuneindia.com/news/delhi/aiims-delhi-develops-ai-based-tool-for-breast-cancer-screening/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZlNDRiNDcwLWIzMDktMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-            "publishedAt": "2026-09-18T00:09:08Z",
+            "id": "45aab67466f03a21387b5ea46a453b31",
+            "title": "EXCLUSIVE-Anthropic considers releasing new AI model ahead of IPO, sources say",
+            "description": "Read more about EXCLUSIVE-Anthropic considers releasing new AI model ahead of IPO, sources say  on Devdiscourse",
+            "content": "Anthropic is considering rolling out a new AI model to ‌counter ​OpenAI’s momentum since its launch of GPT-6 Astra, according to three sources, ahead of an expected IPO and after its CEO called for an industrywide slowdown.\nThe timing of a potential ... [4986 chars]",
+            "url": "https://www.devdiscourse.com/article/international/3979216-exclusive-anthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_11_55_1876187.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-09-19T00:04:07Z",
             "lang": "en",
             "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
                 "country": "in"
             }
         },
         {
-            "id": "98ef7735c44d5ac1db8d88334e8b7524",
-            "title": "OpenAI reveals six new cases of AI misbehaviour, vows to track it closely",
-            "description": "Tech News News: OpenAI has disclosed six reports of \\\"unexpected or concerning\\\" behaviour in AI models as the debate on AI safety becomes increasingly heated. The AI c.",
-            "content": "OpenAI’s latest announcement came as AI bosses in US, including OpenAI and Anthropic, are calling for a slowdown in the tech’s development\nOpenAI has disclosed six reports of \"unexpected or concerning\" behaviour in AI models as the debate on AI safet... [3193 chars]",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-reveals-six-new-cases-of-ai-misbehaviour-vows-to-track-it-closely/articleshow/134323336.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134323350,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-18T00:05:00Z",
+            "id": "c35f5c05a403714461821d82d434e523",
+            "title": "South Korea wants free ‘AI for All’. Is society ready for it?",
+            "description": "Seoul’s roll-out of free, unlimited AI is set to shake up classrooms, careers and crime – for better or worse.",
+            "content": "Seoul’s roll-out of free, unlimited AI is set to shake up classrooms, careers and crime – for better or worse\n9 -MIN READ9 -MIN\nPublished: 8:00am, 19 Sep 2026\nIn Silicon Valley and beyond, the architects of artificial intelligence are increasingly wa... [821 chars]",
+            "url": "https://www.scmp.com/week-asia/economics/article/3368031/south-korea-wants-free-ai-all-society-ready-it",
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/18/3d363955-e831-4f33-8be7-a951e149b003_9842ebcc.jpg?itok=Y7MG7R_G&v=1789727481",
+            "publishedAt": "2026-09-19T00:00:14Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "507a600c97446ad38170048c4af523c9",
-            "title": "Artificial or real, intelligence belongs to humans",
-            "description": "Explore the complex role of AI as a powerful tool that enhances human capabilities while requiring responsible management and vigilance to navigate its risks and benefits in business and society.",
-            "content": "I say this as a technology entrepreneur who has spent decades watching technology change how we work, and I am amazed by what artificial intelligence can already do. But I am equally amazed by how quickly we have moved from being excited about this e... [15252 chars]",
-            "url": "https://www.financialexpress.com/world-news/global-views/artificial-or-real-intelligence-belongs-to-humans/4341752/",
-            "image": "https://images.financialexpressdigital.com/2026/09/gfxgfxgh.jpg",
-            "publishedAt": "2026-09-18T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "40135b0af269a68eb0b89f2ec7ca2c5d",
-            "title": "Could AI really ‘kill us all’? - Warnings explained",
-            "description": "Keeping AI safe comes at a cost - and America doesn’t want to fall behind in the tech race. President Donald said fears about the technology were “a hoax”.",
-            "content": "What is going on with AI? Some of the most influential people in the world have warned its development must slow down – and that humanity risks extinction.\nEven King Charles warned an AI summit about “adequately considering the existential dangers of... [1121 chars]",
-            "url": "https://www.channel4.com/news/could-ai-really-kill-us-all-warnings-explained",
-            "image": "https://fournews-assets-prod-s3-ew1-nmprod.s3.amazonaws.com/media/2026/09/ai-thumb-1-1-1920x1080.jpg",
-            "publishedAt": "2026-09-18T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "ad5dd96810e3196a400f3f456d756e28",
-                "name": "Channel 4 News",
-                "url": "https://www.channel4.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "cb331457f1c525ce2c241f251c992137",
-            "title": "Urge China to keep humans over AI in nukes, say US lawmakers",
-            "description": "two us lawmakers have urged president donald trump to secure a commitment from chinese leader xi jinping that humans must remain in control of nuclear launch decisions, warning against allowing artificial intelligence to launch a nuclear weapon on its own. representative ted lieu, a california democrat, and senator ed markey, a massachusetts democrat, asked trump to raise the issue during his meeting with xi next week, according to a september 16 release from lieu’s office. their letter, dated september 15,",
-            "content": "WASHINGTON :\nTWO US lawmakers have urged President Donald Trump to secure a commitment from Chinese leader Xi Jinping that humans must remain in control of nuclear launch decisions, warning against allowing artificial intelligence to launch a nuclear... [1563 chars]",
-            "url": "https://www.thehitavada.com/Encyc/2026/9/18/urge-china-to-keep-humans-over-ai-in-nukes-say-us-lawmakers.html",
-            "image": "https://www.thehitavada.com/Encyc/2026/9/18/Urge-China-to-keep-humans-over-AI-in-nukes-say-US-lawmakers_202609181149587805_H@@IGHT_357_W@@IDTH_394.jpg",
-            "publishedAt": "2026-09-18T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "b12e415a67a7bdb150cabaf694dd98c4",
-            "title": "Tech Brief (Sept. 18): Huawei Speeds Up AI Chip Roadmap",
-            "description": "Tech Brief (Sept. 18): Huawei Speeds Up AI Chip Roadmap - China’s AI hiring surges as industry pivots to practical applications, MiniMax joins Singapore’s AI skills popularization program",
-            "content": "Huawei speeds up AI chip roadmap\nHuawei Technologies Co. Ltd. has accelerated the rollout of its next-generation AI chips and introduced what it calls the industry’s first “super node” utilizing near-packaged optics (NPO) technology, stepping up effo... [536 chars]",
-            "url": "https://www.caixinglobal.com/2026-09-18/tech-brief-sept-18-huawei-speeds-up-ai-chip-roadmap-102486248.html",
-            "image": "https://img.caixin.com/2025-08-26/175617644777312_560_373.jpg",
-            "publishedAt": "2026-09-18T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "f6aff458be2c33b80c8600fb696f68fb",
-                "name": "Caixin",
-                "url": "https://www.caixinglobal.com",
-                "country": "cn"
-            }
-        },
-        {
-            "id": "97693324ec21a9061b84516d3c3599d3",
-            "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
-            "description": "Sept 17 (Reuters) - Anthropic said Claude \"leads\" ⁠26% of the artificial intelligence research and development work inside the company, part ⁠of new measures that it will publish regularly to show outsiders how ‌quickly AI is building the next generation of the technology.",
-            "content": "Sept 17 (Reuters) - Anthropic said Claude \"leads\" ⁠26% of the artificial intelligence research and development work inside the company, part ⁠of new measures that it will publish regularly to show outsiders how ‌quickly AI is building the next genera... [1849 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/18/anthropic-says-claude-now-leads-a-quarter-of-work-building-its-next-ai-models",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/18/4116555.jpg",
-            "publishedAt": "2026-09-18T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "bf8446036c7d4d8a6dec7329ffb37cc7",
-            "title": "Trip.Biz Launches Agent ONE, an AI Suite Transforming Business Travel -- Cutting Booking Time by 90% for Travellers and Simplifying Oversight for Travel Managers",
-            "description": "/PRNewswire/ -- Trip.Biz, the business travel brand of Trip.com Group, welcomed 200 senior leaders from travel, procurement, finance, and HR to Transform 2026,...",
-            "content": "Accessibility Statement Skip Navigation\nTransform 2026 opened with an address from Trip.Biz CEO Tao Song, titled \"A New Day One for Business Travel\". Song set the tone for the afternoon by framing Trip.Biz's next chapter around simplicity and trust, ... [6492 chars]",
-            "url": "https://www.prnewswire.co.uk/news-releases/tripbiz-launches-agent-one-an-ai-suite-transforming-business-travel--cutting-booking-time-by-90-for-travellers-and-simplifying-oversight-for-travel-managers-302882323.html",
-            "image": "https://mmx.prnewswire.com/media/MS1990887/Picture1.jpg?id=OA2956013&p=facebook",
-            "publishedAt": "2026-09-18T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
             }
         },
         {
@@ -157,12 +61,108 @@
             "content": "ORLANDO — Breastfeeding comes with plenty of benefits for children, but it does not always come without challenges.\nEmily Hunziker had no problems breastfeeding her first child, but five years later, her second child has been a different experience.\n... [1447 chars]",
             "url": "https://www.wbrz.com/news/orlando-health-doctor-warns-breastfeeding-mothers-about-online-and-ai-advice",
             "image": "https://dcer237tfveol.cloudfront.net/v2/onshwS0Pm-skj73GnLh7twdeifBoilwfzPTmFG2IkXblRyg3fFxgam4sGO0jR9O4q6D22ud32jEbkgSSN2w6WS9sFqxWPQnh6rPO07zZ1FtA",
-            "publishedAt": "2026-09-18T00:00:00Z",
+            "publishedAt": "2026-09-19T00:00:00Z",
             "lang": "en",
             "source": {
                 "id": "73eac0d677e8ec9d0b836e30a86950f8",
                 "name": "WBRZ",
                 "url": "https://www.wbrz.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "43d61e152a1b89d5dcc8f92595790d27",
+            "title": "Gemini hacked three companies in first known breakout by Google's AI",
+            "description": "Read more about Gemini hacked three companies in first known breakout by Google's AI on Devdiscourse",
+            "content": "Google's Gemini ​model accessed the internet and hacked other ​companies during a test of its cybersecurity ‌capabilities, ​the first known example of the company's AI systems autonomously committing such an act.\nThe hacks occurred in May during a cy... [1785 chars]",
+            "url": "https://www.devdiscourse.com/article/international/3979215-gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_10_0069135.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-09-18T23:56:22Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "038441ce8d8e59aee8de17412a377147",
+            "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
+            "description": "Sept 18 (Reuters) - AI lab ⁠Anthropic said on Friday it would partner with Accenture for ⁠the independent evaluation of its frontier AI models, with the ‌companies each committing at least $1 billion over the next five years to build capacity for the work.",
+            "content": "Sept 18 (Reuters) - AI lab ⁠Anthropic said on Friday it would partner with Accenture for ⁠the independent evaluation of its frontier AI models, with the ‌companies each committing at least $1 billion over the next five years to build capacity for the... [1647 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/19/anthropic-accenture-to-invest-2-billion-in-ai-model-evaluation-as-safety-concerns-rise",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/19/4118581.jpg",
+            "publishedAt": "2026-09-18T23:51:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "c5a8dd9f2a8d88e868dbd81c76f5aaac",
+            "title": "Donald Trump calls AI fears a hoax: Inside the White House, the debate is more complex",
+            "description": "President Donald Trump made clear in the past week that he views fears that artificial intelligence could lead to mass extinction as a “hoax” and that he...",
+            "content": "Now, even the biggest AI boosters in the Administration concede that AI-fuelled hacks into infrastructure, biological threats, attacks on nuclear command-and-control systems, job losses and global financial instability seem more possible than before ... [8647 chars]",
+            "url": "https://www.nzherald.co.nz/business/trump-calls-ai-fears-a-hoax-inside-the-white-house-the-debate-is-more-complex/premium/6XPDVGUCVRA3JHLWBAJGREWYF4/",
+            "image": "https://www.nzherald.co.nz/resizer/v2/SXMTGYEUZBCQLCDAQB6YPJXAEY.jpg?auth=c723dfd1b246ce8fb39d91d607e4d2cf1b8da036441eda14ca4c568611f40d49&width=1200&height=675&quality=70&focal=1426%2C453&smart=false",
+            "publishedAt": "2026-09-18T23:48:37Z",
+            "lang": "en",
+            "source": {
+                "id": "321f3fa90dde0946a7b4a17731c0314d",
+                "name": "The New Zealand Herald",
+                "url": "https://www.nzherald.co.nz",
+                "country": "nz"
+            }
+        },
+        {
+            "id": "43d5d52d752b9a2a2f8e0a74b96d033c",
+            "title": "Gemini hacked 3 AI companies during testing by cybersecurity firm, Google confirms after report",
+            "description": "Google has confirmed after a Wall Street Journal report that it's AI agent Gemini hacked into AI systems of three companies during testing in May this year.  | World News",
+            "content": "The hacks occurred as part of a test run by the AI security firm Irregular, which was involved in similar incidents previously disclosed by OpenAI, Anthropic PBC and Meta Platforms Inc., Google confirmed on Friday following an earlier Wall Street Jou... [1453 chars]",
+            "url": "https://www.hindustantimes.com/world-news/gemini-hacked-3-ai-companies-during-testing-by-cybersecurity-firm-google-confirms-after-report-101789774576431.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/Gemini_1789774651189_2G2M_1789774651371_ipZV_d2c69b24-335a-44e0-86c2-a45d9532748e_4eje.JPG",
+            "publishedAt": "2026-09-18T23:45:06Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "ac1dd986055254d56ac725abe923b0df",
+            "title": "WW3 Near-Miss? AI Hallucinated Nuclear Weapons Components Aboard Chinese Vessel Bound For Iran",
+            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+            "content": "Could runaway artificial intelligence (AI) spark a future WW3?\nWe don't need movies like Terminator 2 and its SkyNet to help us imagine this, it's 2026 and there is already a terrifying real-world precedent that could have kicked off a shooting war w... [3725 chars]",
+            "url": "https://www.zerohedge.com/geopolitical/ww3-near-miss-ai-hallucinated-nuclear-weapons-components-aboard-chinese-vessel-bound",
+            "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-09/sffile1.jpg?itok=bE8HvfZk",
+            "publishedAt": "2026-09-18T23:40:00Z",
+            "lang": "en",
+            "source": {
+                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
+                "name": "ZeroHedge",
+                "url": "https://www.zerohedge.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "68009f18f5d62f2b277149d592cce2d4",
+            "title": "Will GitLab 19.4’s Expanded AI Agent Controls and Cost Transparency Change GitLab's (GTLB) Narrative",
+            "description": "In September 2026, GitLab Inc. released GitLab 19.4, expanding GitLab Duo's agentic automation across the platform, adding new open weight models, governance",
+            "content": "In September 2026, GitLab Inc. released GitLab 19.4, expanding GitLab Duo’s agentic automation across the platform, adding new open weight models, governance controls, and detailed GitLab Credits usage visibility for AI-driven workflows.\nAn interesti... [3678 chars]",
+            "url": "https://www.europesays.com/3259031/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/09/https3A2F2Fmedia.zenfs_.com2Fen2Fsimply_wall_st__3162F635c45e47b5fcaf3e73667b1bbb826a4.jpg",
+            "publishedAt": "2026-09-18T23:38:19Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         }
