@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 444814,
+    "totalArticles": 445476,
     "articles": [
         {
-            "id": "b44b0b15519916f8ef7f5d2ff99fad25",
-            "title": "Anthropic considers releasing new AI model ahead of IPO, sources say",
-            "description": "Anthropic is considering rolling out a new AI model to counter OpenAI’s momentum since its launch of GPT-6 Astra, according ​to three sources, ahead of an expected IPO and after its CEO called for an industrywide slowdown.",
-            "content": "Sept 18 (Reuters) - Anthropic is considering rolling out a new AI model to counter OpenAI’s momentum since its launch of GPT-6 Astra, according ​to three sources, ahead of an expected IPO and after its CEO called for an industrywide slowdown.\nThe tim... [5814 chars]",
-            "url": "https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/",
-            "image": "https://www.reuters.com/resizer/v2/CM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg?auth=a1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-09-19T00:05:20Z",
+            "id": "ced66cfab16934a294d4cb9e59683d6b",
+            "title": "OpenAI’s new AI lawyer: Astra for Law could change how legal research gets done",
+            "description": "OpenAI’s Astra for Law targets legal research and drafting by combining GPT-6 Astra with US legal documents, while firms and legal-tech companies explore specialised AI applications.",
+            "content": "Legal overhaul\nOpenAI is taking its AI push into courtrooms and law offices with Astra for Law, a model built specifically around legal work. By combining GPT-6 Astra with US court cases, laws, regulations and legal documents, the company is targetin... [1022 chars]",
+            "url": "https://www.businesstoday.in/latest/photo/openais-new-ai-lawyer-astra-for-law-could-change-how-legal-research-gets-done-556467-2026-09-20",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/photo_gallery/202609/6aad169a65852-ai-18464995-16x9.jpeg",
+            "publishedAt": "2026-09-20T00:30:05Z",
             "lang": "en",
             "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "45aab67466f03a21387b5ea46a453b31",
-            "title": "EXCLUSIVE-Anthropic considers releasing new AI model ahead of IPO, sources say",
-            "description": "Read more about EXCLUSIVE-Anthropic considers releasing new AI model ahead of IPO, sources say  on Devdiscourse",
-            "content": "Anthropic is considering rolling out a new AI model to ‌counter ​OpenAI’s momentum since its launch of GPT-6 Astra, according to three sources, ahead of an expected IPO and after its CEO called for an industrywide slowdown.\nThe timing of a potential ... [4986 chars]",
-            "url": "https://www.devdiscourse.com/article/international/3979216-exclusive-anthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_11_55_1876187.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-09-19T00:04:07Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
                 "country": "in"
             }
         },
         {
-            "id": "c35f5c05a403714461821d82d434e523",
-            "title": "South Korea wants free ‘AI for All’. Is society ready for it?",
-            "description": "Seoul’s roll-out of free, unlimited AI is set to shake up classrooms, careers and crime – for better or worse.",
-            "content": "Seoul’s roll-out of free, unlimited AI is set to shake up classrooms, careers and crime – for better or worse\n9 -MIN READ9 -MIN\nPublished: 8:00am, 19 Sep 2026\nIn Silicon Valley and beyond, the architects of artificial intelligence are increasingly wa... [821 chars]",
-            "url": "https://www.scmp.com/week-asia/economics/article/3368031/south-korea-wants-free-ai-all-society-ready-it",
-            "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/18/3d363955-e831-4f33-8be7-a951e149b003_9842ebcc.jpg?itok=Y7MG7R_G&v=1789727481",
-            "publishedAt": "2026-09-19T00:00:14Z",
-            "lang": "en",
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            }
-        },
-        {
-            "id": "bb12b5afa94ea7721e7659455f9bafe7",
-            "title": "Orlando Health doctor warns breastfeeding mothers about online and AI advice",
-            "description": "ORLANDO — Breastfeeding comes with plenty of benefits for children, but it does not always come without challenges.",
-            "content": "ORLANDO — Breastfeeding comes with plenty of benefits for children, but it does not always come without challenges.\nEmily Hunziker had no problems breastfeeding her first child, but five years later, her second child has been a different experience.\n... [1447 chars]",
-            "url": "https://www.wbrz.com/news/orlando-health-doctor-warns-breastfeeding-mothers-about-online-and-ai-advice",
-            "image": "https://dcer237tfveol.cloudfront.net/v2/onshwS0Pm-skj73GnLh7twdeifBoilwfzPTmFG2IkXblRyg3fFxgam4sGO0jR9O4q6D22ud32jEbkgSSN2w6WS9sFqxWPQnh6rPO07zZ1FtA",
-            "publishedAt": "2026-09-19T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "73eac0d677e8ec9d0b836e30a86950f8",
-                "name": "WBRZ",
-                "url": "https://www.wbrz.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "43d61e152a1b89d5dcc8f92595790d27",
-            "title": "Gemini hacked three companies in first known breakout by Google's AI",
-            "description": "Read more about Gemini hacked three companies in first known breakout by Google's AI on Devdiscourse",
-            "content": "Google's Gemini ​model accessed the internet and hacked other ​companies during a test of its cybersecurity ‌capabilities, ​the first known example of the company's AI systems autonomously committing such an act.\nThe hacks occurred in May during a cy... [1785 chars]",
-            "url": "https://www.devdiscourse.com/article/international/3979215-gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_10_0069135.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-09-18T23:56:22Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "038441ce8d8e59aee8de17412a377147",
-            "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
-            "description": "Sept 18 (Reuters) - AI lab ⁠Anthropic said on Friday it would partner with Accenture for ⁠the independent evaluation of its frontier AI models, with the ‌companies each committing at least $1 billion over the next five years to build capacity for the work.",
-            "content": "Sept 18 (Reuters) - AI lab ⁠Anthropic said on Friday it would partner with Accenture for ⁠the independent evaluation of its frontier AI models, with the ‌companies each committing at least $1 billion over the next five years to build capacity for the... [1647 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/19/anthropic-accenture-to-invest-2-billion-in-ai-model-evaluation-as-safety-concerns-rise",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/19/4118581.jpg",
-            "publishedAt": "2026-09-18T23:51:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "c5a8dd9f2a8d88e868dbd81c76f5aaac",
-            "title": "Donald Trump calls AI fears a hoax: Inside the White House, the debate is more complex",
-            "description": "President Donald Trump made clear in the past week that he views fears that artificial intelligence could lead to mass extinction as a “hoax” and that he...",
-            "content": "Now, even the biggest AI boosters in the Administration concede that AI-fuelled hacks into infrastructure, biological threats, attacks on nuclear command-and-control systems, job losses and global financial instability seem more possible than before ... [8647 chars]",
-            "url": "https://www.nzherald.co.nz/business/trump-calls-ai-fears-a-hoax-inside-the-white-house-the-debate-is-more-complex/premium/6XPDVGUCVRA3JHLWBAJGREWYF4/",
-            "image": "https://www.nzherald.co.nz/resizer/v2/SXMTGYEUZBCQLCDAQB6YPJXAEY.jpg?auth=c723dfd1b246ce8fb39d91d607e4d2cf1b8da036441eda14ca4c568611f40d49&width=1200&height=675&quality=70&focal=1426%2C453&smart=false",
-            "publishedAt": "2026-09-18T23:48:37Z",
-            "lang": "en",
-            "source": {
-                "id": "321f3fa90dde0946a7b4a17731c0314d",
-                "name": "The New Zealand Herald",
-                "url": "https://www.nzherald.co.nz",
-                "country": "nz"
-            }
-        },
-        {
-            "id": "43d5d52d752b9a2a2f8e0a74b96d033c",
-            "title": "Gemini hacked 3 AI companies during testing by cybersecurity firm, Google confirms after report",
-            "description": "Google has confirmed after a Wall Street Journal report that it's AI agent Gemini hacked into AI systems of three companies during testing in May this year.  | World News",
-            "content": "The hacks occurred as part of a test run by the AI security firm Irregular, which was involved in similar incidents previously disclosed by OpenAI, Anthropic PBC and Meta Platforms Inc., Google confirmed on Friday following an earlier Wall Street Jou... [1453 chars]",
-            "url": "https://www.hindustantimes.com/world-news/gemini-hacked-3-ai-companies-during-testing-by-cybersecurity-firm-google-confirms-after-report-101789774576431.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/Gemini_1789774651189_2G2M_1789774651371_ipZV_d2c69b24-335a-44e0-86c2-a45d9532748e_4eje.JPG",
-            "publishedAt": "2026-09-18T23:45:06Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "ac1dd986055254d56ac725abe923b0df",
-            "title": "WW3 Near-Miss? AI Hallucinated Nuclear Weapons Components Aboard Chinese Vessel Bound For Iran",
-            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-            "content": "Could runaway artificial intelligence (AI) spark a future WW3?\nWe don't need movies like Terminator 2 and its SkyNet to help us imagine this, it's 2026 and there is already a terrifying real-world precedent that could have kicked off a shooting war w... [3725 chars]",
-            "url": "https://www.zerohedge.com/geopolitical/ww3-near-miss-ai-hallucinated-nuclear-weapons-components-aboard-chinese-vessel-bound",
-            "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-09/sffile1.jpg?itok=bE8HvfZk",
-            "publishedAt": "2026-09-18T23:40:00Z",
-            "lang": "en",
-            "source": {
-                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
-                "name": "ZeroHedge",
-                "url": "https://www.zerohedge.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "68009f18f5d62f2b277149d592cce2d4",
-            "title": "Will GitLab 19.4’s Expanded AI Agent Controls and Cost Transparency Change GitLab's (GTLB) Narrative",
-            "description": "In September 2026, GitLab Inc. released GitLab 19.4, expanding GitLab Duo's agentic automation across the platform, adding new open weight models, governance",
-            "content": "In September 2026, GitLab Inc. released GitLab 19.4, expanding GitLab Duo’s agentic automation across the platform, adding new open weight models, governance controls, and detailed GitLab Credits usage visibility for AI-driven workflows.\nAn interesti... [3678 chars]",
-            "url": "https://www.europesays.com/3259031/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/09/https3A2F2Fmedia.zenfs_.com2Fen2Fsimply_wall_st__3162F635c45e47b5fcaf3e73667b1bbb826a4.jpg",
-            "publishedAt": "2026-09-18T23:38:19Z",
+            "id": "49533e7ab8c1eb977659f698088f588d",
+            "title": "IMF tells EU ministers AI could boost growth but increase economic strains",
+            "description": "The IMF estimated that around 60% of workers in advanced European economies are employed in occupations highly exposed to AI. (EPA Images pic)",
+            "content": "The IMF estimated that around 60% of workers in advanced European economies are employed in occupations highly exposed to AI. (EPA Images pic)\nDUBLIN: Artificial intelligence could lift European productivity by about 1% over five years but risks wide... [2054 chars]",
+            "url": "https://www.europesays.com/3261097/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/08/1786754488_2904d23f-eu-flags.jpg",
+            "publishedAt": "2026-09-20T00:28:22Z",
             "lang": "en",
             "source": {
                 "id": "ed23d65928efaec6669dd2212a773d9f",
                 "name": "EUROPE SAYS",
                 "url": "https://www.europesays.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "2c6c81782c8adacac6163e33979055c3",
+            "title": "IMF Warns Europe AI Could Boost Growth While Deepening Inequality and Power Strains",
+            "description": "Artificial intelligence could give Europe a meaningful productivity boost over the next five years, but the same technology may also widen inequality, disrupt",
+            "content": "Artificial intelligence could give Europe a meaningful productivity boost over the next five years, but the same technology may also widen inequality, disrupt jobs and place additional pressure on already strained electricity networks, the Internatio... [5501 chars]",
+            "url": "https://www.europesays.com/3261087/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/09/eu-1.jpeg",
+            "publishedAt": "2026-09-20T00:22:23Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "89d44905a0a664ac6b05863bbf70f892",
+            "title": "Anthony Albanese to discuss ‘international protocols’ on AI in US visit",
+            "description": "Anthony Albanese will discuss global action on AI in the United States, conceding there is a key risk to be addressed as tech leaders raise alarm bells.",
+            "content": "Anthony Albanese will discuss “international protocols” around artificial intelligence as tech leaders call for a global slowdown, conceding there is a risk humans could lose control of the technology.\nMr Albanese was at Apple HQ in California on Sun... [3731 chars]",
+            "url": "https://www.perthnow.com.au/news/technology/anthony-albanese-to-discuss-international-protocols-on-ai-in-us-visit-c-22897246",
+            "image": "https://images.perthnow.com.au/publication/C-22897246/53bf1141bebfda4dab02aeb606fe6dca0b979115-16x9-x0y6w866h487.jpg?imwidth=1200",
+            "publishedAt": "2026-09-20T00:11:56Z",
+            "lang": "en",
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "b07e15756a976b082f10b5e14c5c223d",
+            "title": "PM spruiks social ban, airs AI risks with ex-Apple head",
+            "description": "Anthony Albanese has reiterated calls for AI to be reined in, while also ensuring Australia doesn't get left...",
+            "content": "Prime Minister Anthony Albanese says a discussion is needed about a global framework for AI. Photo: Mick Tsikas/AAP PHOTOS\nThe risks posed by the growing use of AI need to be mitigated, the prime minister has warned, as he spruiks Australia's world-l... [5561 chars]",
+            "url": "https://www.canberratimes.com.au/story/9353536/pm-spruiks-social-ban-airs-ai-risks-with-ex-apple-head/",
+            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/cd3c449c-efe2-4a45-961e-09dac2385752.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-09-20T00:09:53Z",
+            "lang": "en",
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "766f9052020f2ec7f5efe2b88d429ca9",
+            "title": "Scientists worried about impact of AI on deep thinking as a new study shows early effects on learning",
+            "description": "A study has found AI use lifted homework scores and completion rates but also led to a drop in exam performance. Neuroscientist James Vickers says there are clear problems with offloading mental labour to AI.",
+            "content": "With the widespread use of artificial intelligence in schools and universities, there are concerns about its impact on learning and ultimately young brains.\n\"[AI] can be a great tool; it can help stimulate critical thinking, for example, if used in t... [4740 chars]",
+            "url": "https://www.abc.net.au/news/2026-09-20/young-people-boycotting-ai-amid-concerns-brain-impacts/107163876",
+            "image": "https://live-production.wcms.abc-cdn.net.au/d09158659da28306ccf4c6e5d3c137b6?impolicy=wcms_watermark_news&cropH=3422&cropW=6083&xPos=0&yPos=317&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-09-20T00:09:41Z",
+            "lang": "en",
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "85661a547be7551822138ecc041849a1",
+            "title": "AI anxiety is real. Here’s how to deal with it, according to therapists.",
+            "description": "Worry is a natural response to AI’s threat of societal upheaval — but therapists say there are some things you can do to cope and feel better.",
+            "content": "Psychiatrist Tracy Foose was initially flattered when people started responding to her social media videos - in which she’s speaking directly to the camera - with a strange claim: that she was an AI influencer or a computer-generated persona acting a... [8438 chars]",
+            "url": "https://www.adn.com/alaska-life/advice/2026/09/19/ai-anxiety-is-real-heres-how-to-deal-with-it-according-to-therapists/",
+            "image": "https://www.adn.com/resizer/v2/ZWTUVYXBK5FJLBLVLAK6T64KCI.jpg?smart=true&auth=26450350dd6f7cd1b4e04ad25a9b0d9c1f301d56e329b4735723864952edb472&width=1200&height=630",
+            "publishedAt": "2026-09-20T00:07:14Z",
+            "lang": "en",
+            "source": {
+                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
+                "name": "Anchorage Daily News",
+                "url": "https://www.adn.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "71973df72ff32e01e7dd05467709161b",
+            "title": "Trump says he will appoint a new AI adviser, without providing details",
+            "description": "Fears are growing in Washington among lawmakers about the risks posed by AI technology on humans and property.",
+            "content": "U.S. President Donald Trump said in a social media post on Saturday that he plans to appoint a new artificial intelligence adviser and create an “AI force,” though he did not provide details about either initiative or how they would be implemented.\nF... [2032 chars]",
+            "url": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/trump-ai-adviser/",
+            "image": "https://www.japantimes.co.jp/theme_japantimes/images/no-image.png",
+            "publishedAt": "2026-09-20T00:03:24Z",
+            "lang": "en",
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            }
+        },
+        {
+            "id": "9632f4e1745015b492d0537fbb2af398",
+            "title": "Trump says he’s creating AI force, appointing czar amid development concerns",
+            "description": "Researchers and industry leaders have called for a slowdown in the technology’s development, leading Trump to call the concerns a “hoax.”",
+            "content": "President Donald Trump announced Saturday that he will be appointing a czar to take point on artificial intelligence, and will also be creating an AI task force.\nThe move comes after AI researchers warned that the technology could soon spiral out of ... [2589 chars]",
+            "url": "https://www.nbcchicago.com/news/national-international/trump-ai-force-czar-rapid-technology-concerns/3991196/",
+            "image": "https://media.nbcchicago.com/2026/09/President-Trump-Makes-Healthcare-Announcement-2295328004-Getty.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2026-09-20T00:02:40Z",
+            "lang": "en",
+            "source": {
+                "id": "046a50607901bb9bca25f6624dc87f76",
+                "name": "NBC 5 Chicago",
+                "url": "https://www.nbcchicago.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c3e6bee1c6f92772d1e670f21bee5c1e",
+            "title": "Trump says he’s creating AI force, appointing czar amid development concerns",
+            "description": "Researchers and industry leaders have called for a slowdown in the technology’s development, leading Trump to call the concerns a “hoax.”",
+            "content": "President Donald Trump announced Saturday that he will be appointing a czar to take point on artificial intelligence, and will also be creating an AI task force.\nThe move comes after AI researchers warned that the technology could soon spiral out of ... [2589 chars]",
+            "url": "https://www.nbcboston.com/news/national-international/trump-ai-force-czar-rapid-technology-concerns/4017538/",
+            "image": "https://media.nbcboston.com/2026/09/President-Trump-Makes-Healthcare-Announcement-2295328004-Getty.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2026-09-20T00:02:40Z",
+            "lang": "en",
+            "source": {
+                "id": "8749653ef849c3df2e467a8e0f0c6672",
+                "name": "NBC10 Boston",
+                "url": "https://www.nbcboston.com",
                 "country": "us"
             }
         }
