@@ -4,64 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 445476,
+    "totalArticles": 445992,
     "articles": [
         {
-            "id": "ced66cfab16934a294d4cb9e59683d6b",
-            "title": "OpenAI’s new AI lawyer: Astra for Law could change how legal research gets done",
-            "description": "OpenAI’s Astra for Law targets legal research and drafting by combining GPT-6 Astra with US legal documents, while firms and legal-tech companies explore specialised AI applications.",
-            "content": "Legal overhaul\nOpenAI is taking its AI push into courtrooms and law offices with Astra for Law, a model built specifically around legal work. By combining GPT-6 Astra with US court cases, laws, regulations and legal documents, the company is targetin... [1022 chars]",
-            "url": "https://www.businesstoday.in/latest/photo/openais-new-ai-lawyer-astra-for-law-could-change-how-legal-research-gets-done-556467-2026-09-20",
-            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/photo_gallery/202609/6aad169a65852-ai-18464995-16x9.jpeg",
-            "publishedAt": "2026-09-20T00:30:05Z",
-            "lang": "en",
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "49533e7ab8c1eb977659f698088f588d",
-            "title": "IMF tells EU ministers AI could boost growth but increase economic strains",
-            "description": "The IMF estimated that around 60% of workers in advanced European economies are employed in occupations highly exposed to AI. (EPA Images pic)",
-            "content": "The IMF estimated that around 60% of workers in advanced European economies are employed in occupations highly exposed to AI. (EPA Images pic)\nDUBLIN: Artificial intelligence could lift European productivity by about 1% over five years but risks wide... [2054 chars]",
-            "url": "https://www.europesays.com/3261097/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/08/1786754488_2904d23f-eu-flags.jpg",
-            "publishedAt": "2026-09-20T00:28:22Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "2c6c81782c8adacac6163e33979055c3",
-            "title": "IMF Warns Europe AI Could Boost Growth While Deepening Inequality and Power Strains",
-            "description": "Artificial intelligence could give Europe a meaningful productivity boost over the next five years, but the same technology may also widen inequality, disrupt",
-            "content": "Artificial intelligence could give Europe a meaningful productivity boost over the next five years, but the same technology may also widen inequality, disrupt jobs and place additional pressure on already strained electricity networks, the Internatio... [5501 chars]",
-            "url": "https://www.europesays.com/3261087/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/09/eu-1.jpeg",
-            "publishedAt": "2026-09-20T00:22:23Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "89d44905a0a664ac6b05863bbf70f892",
-            "title": "Anthony Albanese to discuss ‘international protocols’ on AI in US visit",
-            "description": "Anthony Albanese will discuss global action on AI in the United States, conceding there is a key risk to be addressed as tech leaders raise alarm bells.",
-            "content": "Anthony Albanese will discuss “international protocols” around artificial intelligence as tech leaders call for a global slowdown, conceding there is a risk humans could lose control of the technology.\nMr Albanese was at Apple HQ in California on Sun... [3731 chars]",
-            "url": "https://www.perthnow.com.au/news/technology/anthony-albanese-to-discuss-international-protocols-on-ai-in-us-visit-c-22897246",
-            "image": "https://images.perthnow.com.au/publication/C-22897246/53bf1141bebfda4dab02aeb606fe6dca0b979115-16x9-x0y6w866h487.jpg?imwidth=1200",
-            "publishedAt": "2026-09-20T00:11:56Z",
+            "id": "89b59e35cbbe96709c1bf406059b050d",
+            "title": "A glimpse of what Australia will look like in 2066",
+            "description": "Global conflict, a rapidly ageing population, the energy transition and AI will likely define Australia's next 40 years, Treasury says.",
+            "content": "AUSTRALIA IN 2066\n* Population to reach 39.3 million people, growing by about 0.9 per cent a year, according to the Intergenerational Report.\n* The report gives a snapshot of how Australia might look decades from now, and is published by the Treasury... [1599 chars]",
+            "url": "https://www.perthnow.com.au/news/politics/a-glimpse-of-what-australia-will-look-like-in-2066-c-22901095",
+            "image": "https://images.perthnow.com.au/publication/C-22901095/89e2af8af7f2aed4c8cfe342b8cf17e5470d594f-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-09-21T02:32:31Z",
             "lang": "en",
             "source": {
                 "id": "7f6e8514e9d8f8376aaa9a7229861518",
@@ -71,13 +23,13 @@
             }
         },
         {
-            "id": "b07e15756a976b082f10b5e14c5c223d",
-            "title": "PM spruiks social ban, airs AI risks with ex-Apple head",
-            "description": "Anthony Albanese has reiterated calls for AI to be reined in, while also ensuring Australia doesn't get left...",
-            "content": "Prime Minister Anthony Albanese says a discussion is needed about a global framework for AI. Photo: Mick Tsikas/AAP PHOTOS\nThe risks posed by the growing use of AI need to be mitigated, the prime minister has warned, as he spruiks Australia's world-l... [5561 chars]",
-            "url": "https://www.canberratimes.com.au/story/9353536/pm-spruiks-social-ban-airs-ai-risks-with-ex-apple-head/",
-            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/cd3c449c-efe2-4a45-961e-09dac2385752.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-09-20T00:09:53Z",
+            "id": "cd9d1fd3f4405627104350989332a5ac",
+            "title": "A glimpse of what Australia will look like in 2066",
+            "description": "Global conflict, a rapidly ageing population, the energy transition and AI will likely define Australia's next 40 years,...",
+            "content": "The nation's population is forecast in a new report to reach 39.3 million people in four decades. Photo: Brendan Esposito/AAP PHOTOS\nAUSTRALIA IN 2066\nSubscribe now for unlimited access.\nor signup to continue reading\nSave $100 + Bonus Tote\nAll articl... [3858 chars]",
+            "url": "https://www.canberratimes.com.au/story/9354232/a-glimpse-of-what-australia-will-look-like-in-2066/",
+            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/a460768f-eac3-442e-a719-6612d1c161c3.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-09-21T02:30:55Z",
             "lang": "en",
             "source": {
                 "id": "92021aca7322dc2b29226023c35d9a4a",
@@ -87,82 +39,130 @@
             }
         },
         {
-            "id": "766f9052020f2ec7f5efe2b88d429ca9",
-            "title": "Scientists worried about impact of AI on deep thinking as a new study shows early effects on learning",
-            "description": "A study has found AI use lifted homework scores and completion rates but also led to a drop in exam performance. Neuroscientist James Vickers says there are clear problems with offloading mental labour to AI.",
-            "content": "With the widespread use of artificial intelligence in schools and universities, there are concerns about its impact on learning and ultimately young brains.\n\"[AI] can be a great tool; it can help stimulate critical thinking, for example, if used in t... [4740 chars]",
-            "url": "https://www.abc.net.au/news/2026-09-20/young-people-boycotting-ai-amid-concerns-brain-impacts/107163876",
-            "image": "https://live-production.wcms.abc-cdn.net.au/d09158659da28306ccf4c6e5d3c137b6?impolicy=wcms_watermark_news&cropH=3422&cropW=6083&xPos=0&yPos=317&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-09-20T00:09:41Z",
+            "id": "5f10349d7b21616b14d672fa1fafe931",
+            "title": "More Australians will be dying than being born in 40 years as major report predicts future of lower growth",
+            "description": "Seventh intergenerational report also outlines how Australia is at cusp of an uncertain age of artificial intelligence",
+            "content": "There will be more Australians dying than being born in 40 years’ time, according to the government’s latest intergenerational report, which lays bare the fundamental challenges of managing an ageing population at a time of rapid change and lower eco... [4532 chars]",
+            "url": "https://www.theguardian.com/australia-news/2026/sep/21/jim-chalmers-intergenerational-report-2026-deaths-outnumber-births-australia2060s",
+            "image": "https://i.guim.co.uk/img/media/4dc50acfd16a464f51d7f93d5d512187dee8568d/574_0_5743_4594/master/5743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05d7931998b4235a04a9652211e8b41d",
+            "publishedAt": "2026-09-21T02:30:32Z",
             "lang": "en",
             "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "e4f7a2cf099f33f41e990893ff8746d8",
+            "title": "Anthropic, CEO of which called for slowing AI development, may release new model ahead of IPO",
+            "description": "Tech News News: Anthropic is reportedly weighing the release of a new artificial intelligence (AI) model to counter the rising momentum of rival OpenAI’s newly deploy.",
+            "content": "Anthropic is reportedly weighing the release of a new artificial intelligence (AI) model to counter the rising momentum of rival OpenAI’s newly deployed GPT-6 Astra, a report has said, citing three people familiar with internal discussions. The poten... [2983 chars]",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-of-which-called-for-slowing-ai-development-may-release-new-model-ahead-of-ipo/articleshow/134378249.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134378270,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-21T02:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "51d2a2abe028d4de07f0912ce51bf75d",
+            "title": "Moonlighting and multiple income streams: Why one job may no longer be enough",
+            "description": "For decades, a good career meant finding one stable job, growing within it and tying much of your identity to it. AI, changing skills, younger workers, and shaky job security are challenging that model. Could portfolio careers, skill stacking, moonlighting and multiple income streams redefine professional security and success in the years ahead?",
+            "content": "Imagine a software engineer who spends weekdays building products, teaches coding on weekends and advises a startup occasionally. Or a designer who works full-time but also sells digital templates and takes on selected freelance projects.\nYet if you ... [12131 chars]",
+            "url": "https://www.indiatoday.in/jobs/deep-dive/story/moonlighting-and-multiple-income-streams-why-one-job-may-no-longer-be-enough-educ-2997850-2026-09-21",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/moonlighting-and-multiple-income-streams-why-one-job-may-no-longer-be-enough-194153982-16x9_0.png?VersionId=RS8nba8a2fBZ2TXDPaZ7RbwGKyuTjV6u",
+            "publishedAt": "2026-09-21T02:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "21467c933ab8e5225584f79bec2ebd90",
+            "title": "Treasurer Jim Chalmers unveils 2026 Intergenerational Report",
+            "description": "Treasurer Jim Chalmers will unveil the 2026 Intergenerational Report, with a focus on how AI could drive Australia's economy",
+            "content": "Australians' data held by government agencies could be made available to private businesses to help develop the nation's role in the global tech economy.\nSubscribe now for unlimited access.\nor signup to continue reading\nSave $100 + Bonus Tote\nAll art... [6968 chars]",
+            "url": "https://www.canberratimes.com.au/story/9353968/treasurer-jim-chalmers-unveils-2026-intergenerational-report/",
+            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/262473761/53864251-53ad-4bd4-90ef-094e3b003ed0.jpg/r0_16_1920_1024_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-09-21T02:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
                 "country": "au"
             }
         },
         {
-            "id": "85661a547be7551822138ecc041849a1",
-            "title": "AI anxiety is real. Here’s how to deal with it, according to therapists.",
-            "description": "Worry is a natural response to AI’s threat of societal upheaval — but therapists say there are some things you can do to cope and feel better.",
-            "content": "Psychiatrist Tracy Foose was initially flattered when people started responding to her social media videos - in which she’s speaking directly to the camera - with a strange claim: that she was an AI influencer or a computer-generated persona acting a... [8438 chars]",
-            "url": "https://www.adn.com/alaska-life/advice/2026/09/19/ai-anxiety-is-real-heres-how-to-deal-with-it-according-to-therapists/",
-            "image": "https://www.adn.com/resizer/v2/ZWTUVYXBK5FJLBLVLAK6T64KCI.jpg?smart=true&auth=26450350dd6f7cd1b4e04ad25a9b0d9c1f301d56e329b4735723864952edb472&width=1200&height=630",
-            "publishedAt": "2026-09-20T00:07:14Z",
+            "id": "30f11574a32759c1772ddab43dc14a48",
+            "title": "Chalmers bets on AI boom to head off bleak economic future",
+            "description": "The 2026 Intergenerational Report says debt could surge beyond 55 per cent of GDP as the deficit quadruples and public spending accounts for almost a third of the economy if the malaise persists.",
+            "content": "Treasurer Jim Chalmers is pinning the government’s hopes on an AI-driven productivity surge to avert a bleak economic future in which federal debt could exceed 55 per cent of GDP while the deficit quadruples, despite Treasury admitting the technology... [369 chars]",
+            "url": "https://www.afr.com/policy/economy/chalmers-bets-on-ai-to-save-the-economy-20260921-p60z10",
+            "image": "https://static.ffx.io/images/$zoom_0.3309%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8c7492ce1594c585767b1a6c92343fd517a2959d36a315fab66f8c13c9a4bae9",
+            "publishedAt": "2026-09-21T02:30:00Z",
             "lang": "en",
             "source": {
-                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-                "name": "Anchorage Daily News",
-                "url": "https://www.adn.com",
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "1b2f01e7bb69e7f763bb28b2c7b697ca",
+            "title": "Siri AI Settlement Website Now Live: Apple to Pay Some iPhone Owners",
+            "description": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and the settlement website is now live.",
+            "content": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and the settlement website is now live.\nApple will pay an estimated $25 per eligible iPhone to eligible customers, who can submit a claim vi... [3139 chars]",
+            "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
+            "image": "https://images.macrumors.com/t/O2PQxJzVD0_2JrNy6sds2OIjixE=/1600x/article-new/2025/03/iOS-18-Siri-Personal-Context.jpg",
+            "publishedAt": "2026-09-21T02:24:23Z",
+            "lang": "en",
+            "source": {
+                "id": "10216cb8fabd0accd5eb967c97fc37ab",
+                "name": "MacRumors",
+                "url": "https://www.macrumors.com",
                 "country": "us"
             }
         },
         {
-            "id": "71973df72ff32e01e7dd05467709161b",
-            "title": "Trump says he will appoint a new AI adviser, without providing details",
-            "description": "Fears are growing in Washington among lawmakers about the risks posed by AI technology on humans and property.",
-            "content": "U.S. President Donald Trump said in a social media post on Saturday that he plans to appoint a new artificial intelligence adviser and create an “AI force,” though he did not provide details about either initiative or how they would be implemented.\nF... [2032 chars]",
-            "url": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/trump-ai-adviser/",
-            "image": "https://www.japantimes.co.jp/theme_japantimes/images/no-image.png",
-            "publishedAt": "2026-09-20T00:03:24Z",
+            "id": "a1c7d8a1a9f5cf9d314cfe47ab8319d3",
+            "title": "Centre testing AI system to identify rural road defects",
+            "description": "The government is testing an artificial intelligence system that can identify potholes, cracks and other defects on rural roads from videos recorded on mobile phones, with a nationwide field-validation exercise underway since earlier this month, a senior official said on Sunday | India News",
+            "content": "The government is testing an artificial intelligence system that can identify potholes, cracks and other defects on rural roads from videos recorded on mobile phones, with a nationwide field-validation exercise underway since earlier this month, a se... [4206 chars]",
+            "url": "https://www.hindustantimes.com/india-news/centre-testing-ai-system-to-identify-rural-road-defects-101789931789298.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/ht-generic_india3_1751287297962_1751287304722.jpg",
+            "publishedAt": "2026-09-21T02:24:20Z",
             "lang": "en",
             "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
             }
         },
         {
-            "id": "9632f4e1745015b492d0537fbb2af398",
-            "title": "Trump says he’s creating AI force, appointing czar amid development concerns",
-            "description": "Researchers and industry leaders have called for a slowdown in the technology’s development, leading Trump to call the concerns a “hoax.”",
-            "content": "President Donald Trump announced Saturday that he will be appointing a czar to take point on artificial intelligence, and will also be creating an AI task force.\nThe move comes after AI researchers warned that the technology could soon spiral out of ... [2589 chars]",
-            "url": "https://www.nbcchicago.com/news/national-international/trump-ai-force-czar-rapid-technology-concerns/3991196/",
-            "image": "https://media.nbcchicago.com/2026/09/President-Trump-Makes-Healthcare-Announcement-2295328004-Getty.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2026-09-20T00:02:40Z",
+            "id": "14230d4208e0e520746bbd8c4775b4d7",
+            "title": "Bessent proposes AI safety notifications in talks with China ahead of Xi-Trump meeting",
+            "description": "US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng concluded talks in New York on Sunday with the US side proposing a new AI safety notification mechanism for US President Donald Trump and Chinese President Xi ⁠Jinping to consider at their summit this week.",
+            "content": "US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng concluded talks in New York on Sunday with the US side proposing a new AI safety notification mechanism for US President Donald Trump and Chinese President Xi ⁠Jinping to consider... [4136 chars]",
+            "url": "https://edition.cnn.com/2026/09/20/business/us-china-trade-talks-ai-intl-hnk",
+            "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295680803.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-09-21T02:15:38Z",
             "lang": "en",
             "source": {
-                "id": "046a50607901bb9bca25f6624dc87f76",
-                "name": "NBC 5 Chicago",
-                "url": "https://www.nbcchicago.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c3e6bee1c6f92772d1e670f21bee5c1e",
-            "title": "Trump says he’s creating AI force, appointing czar amid development concerns",
-            "description": "Researchers and industry leaders have called for a slowdown in the technology’s development, leading Trump to call the concerns a “hoax.”",
-            "content": "President Donald Trump announced Saturday that he will be appointing a czar to take point on artificial intelligence, and will also be creating an AI task force.\nThe move comes after AI researchers warned that the technology could soon spiral out of ... [2589 chars]",
-            "url": "https://www.nbcboston.com/news/national-international/trump-ai-force-czar-rapid-technology-concerns/4017538/",
-            "image": "https://media.nbcboston.com/2026/09/President-Trump-Makes-Healthcare-Announcement-2295328004-Getty.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2026-09-20T00:02:40Z",
-            "lang": "en",
-            "source": {
-                "id": "8749653ef849c3df2e467a8e0f0c6672",
-                "name": "NBC10 Boston",
-                "url": "https://www.nbcboston.com",
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
                 "country": "us"
             }
         }
