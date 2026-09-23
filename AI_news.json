@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 447056,
+    "totalArticles": 448297,
     "articles": [
         {
-            "id": "08152b89322c57d83dfe38fe6cf5f3f0",
-            "title": "'We set the rules': fresh clamp down on data centres",
-            "description": "Another state has revealed plans to crack down on data centre energy and water usage amid concerns over what the AI boom could mean for resources.",
-            "content": "New data centres built in Victoria would need to source their own renewable energy, under proposed laws in line with planned national standards.\nPremier Ben Carroll announced on Tuesday if re-elected his government would introduce regulations for the... [2780 chars]",
-            "url": "https://www.perthnow.com.au/news/environment/we-set-the-rules-fresh-clamp-down-on-data-centres-c-22906473",
-            "image": "https://images.perthnow.com.au/publication/C-22906473/1f85f5b8aefa05530718d4b8664369246036b9e8-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-09-22T00:49:15Z",
-            "lang": "en",
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "2f3d38f1475ecd8c2f03de8a8c46b36b",
-            "title": "AI bots are playing language games. Are humans even referees?",
-            "description": "The new “languages” ranged from terse, functional codes to wordy, jargon-heavy and even metaphor-heavy ones that were increasingly impenetrable to humans: “My turn, real numbers, no coat: I was 35%/0cr, grant 2h out. I ran the tin cold and it said WAIT.”",
-            "content": "What came first, the chicken or the squawk? That’s not much of a conundrum when talking about biological beings, but perhaps AI can muddy the waters. The 20th century saw debates about linguistic relativity or Whorfianism that were concerned with how... [1048 chars]",
-            "url": "https://indianexpress.com/article/opinion/editorials/ai-agents-language-evolution-consciousness-10888158/",
-            "image": "https://images.indianexpress.com/2026/09/Express-view-Copy-3-15.jpeg",
-            "publishedAt": "2026-09-22T00:45:52Z",
-            "lang": "en",
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "79e14adb53edf80b112b706165508a40",
-            "title": "Sensex Today | Stock Market LIVE Updates: Nifty futures hint at a positive start as index aims 5th day of gains",
-            "description": "Sensex Today | Stock Market LIVE Updates: Its been a while since we wrote this at the start of the day, but going into today's Nifty weekly expiry, global cues, barring the AI rally overnight, seem favourable for the bulls. Crude prices are cooling, Brent is on the verge of slipping below $100, bond yields have cooled off as well and there has been no news of any new attacks in West Asia at least as of now. The Nifty goes into today's session on the back of four straight days of gains, and also after managing to close above the 23,400 mark, a level it found regular resistance through last week.",
-            "content": "Following an initially subdued opening, the benchmark indices demonstrated resilience throughout the trading session, with purchasing interest maintaining a slight edge for the majority of the period.\nConsistent buying pressure at reduced price level... [561 chars]",
-            "url": "https://www.cnbctv18.com/market/stock-market-live-updates-sensex-nifty-50-expiry-today-it-pine-labs-defence-grse-waaree-nse-allotment-oil-ril-share-price-liveblog-19995286.htm",
-            "image": "https://images.cnbctv18.com/uploads/2026/09/market-blog-2-2026-09-88e4a3b8dfef8131fccd7df5170fc054.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-09-22T00:42:24Z",
-            "lang": "en",
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "7e6062c68a1b534022d99703990565a0",
-            "title": "Trump and sons invest heavily in AI economy as he resists slowdown",
-            "description": "The president’s decisions on one of the most consequential policy debates of his administration could affect the value of his personal investments.",
-            "content": "Donald Trump’s sprawling family business empire has become increasingly intertwined with the boom in artificial intelligence, at the same time that he has resisted calls to slow the development of the technology, a Washington Post analysis of his fin... [605 chars]",
-            "url": "https://www.afr.com/world/north-america/trump-and-sons-invest-heavily-in-ai-economy-as-he-resists-slowdown-20260922-p60ze5",
-            "image": "https://static.ffx.io/images/$zoom_0.3146%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_155/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/36accab3ed6960a847f9cfe66f796e2da7d9b16e",
-            "publishedAt": "2026-09-22T00:42:03Z",
-            "lang": "en",
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "e57dc93ec3f50b5d182dacaddd8cff0c",
-            "title": "KU Academic Council grants in-principle approval for AI programme",
-            "description": "KARACHI   -  The Vice Chancellor of the University of Karachi Prof Dr Muhammad Tufail chaired the Academic Council meeting, held at the KU’s Chinese",
-            "content": "KARACHI - The Vice Chancellor of the University of Karachi Prof Dr Muhammad Tufail chaired the Academic Council meeting, held at the KU’s Chinese Teachers Memorial Auditorium, on Monday. During the meeting, various important academic and administrati... [990 chars]",
-            "url": "https://www.nation.com.pk/22-Sep-2026/ku-academic-council-grants-in-principle-approval-ai-programme",
-            "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-            "publishedAt": "2026-09-22T00:39:00Z",
-            "lang": "en",
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            }
-        },
-        {
-            "id": "4ccfcb9f2531a85770ebdaef0f2a7dab",
+            "id": "129e7453e40cda58780ed5df8834df79",
             "title": "China's Alibaba unveils new powerful chip and ambitious AI model plans",
-            "description": "China's Alibaba has unveiled new plans for its AI model and new chip technologies, including what it claims is China's most powerful AI chip. HONG KONG",
-            "content": "China’s Alibaba has unveiled new plans for its AI model and new chip technologies, including what it claims is China’s most powerful AI chip.\nHONG KONG (AP) — China’s Alibaba unveiled new artificial intelligence chip technologies and plans for more p... [3267 chars]",
-            "url": "https://www.breitbart.com/news/chinas-alibaba-unveils-new-powerful-chip-and-ambitious-ai-model-plans/",
-            "image": "https://media.breitbart.com/media/2026/09/wi/ap/china-alibaba-ai-64858-china-alibaba-ai-logo-of-chinese-technology-firm-alibaba-is-at-office-beijing-640x335.jpg",
-            "publishedAt": "2026-09-22T00:35:06Z",
+            "description": "China's Alibaba unveiled new artificial intelligence chip technologies and plans for more powerful models on Sept 22.",
+            "content": "HONG KONG: China’s Alibaba unveiled new artificial intelligence (AI) chip technologies and plans for more powerful models on Sept 22, including what it said was China's most powerful AI chip, days ahead of a meeting between Chinese and US leaders at ... [3128 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/23/china039s-alibaba-unveils-new-powerful-chip-and-ambitious-ai-model-plans",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/23/4123243.jpg",
+            "publishedAt": "2026-09-23T01:00:00Z",
             "lang": "en",
             "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "de2b3e5651df475740f70afb13b0f249",
+            "title": "Accels has been serving customers in recent years. The company's plans extend far beyond routing",
+            "description": "/PRNewswire/ -- Enterprise spending on AI tokens is growing faster than the systems designed to track it. A McKinsey study found that enterprise LLM spending...",
+            "content": "Token Is Becoming a Managed Asset.\nThe Economics of AI Are Entering a New Phase.\nSINGAPORE, Sept. 23, 2026 /PRNewswire/ -- Enterprise spending on AI tokens is growing faster than the systems designed to track it. A McKinsey study found that enterpris... [2533 chars]",
+            "url": "https://www.prnewswire.co.uk/news-releases/accels-has-been-serving-customers-in-recent-years-the-companys-plans-extend-far-beyond-routing-302886013.html",
+            "image": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
+            "publishedAt": "2026-09-23T01:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "b88ac29c9414c0d60fc5205323f84cb5",
+            "title": "The Trillion-Dollar Stocks Get A New Member",
+            "description": "Advanced Micro Devices joined the $1 trillion market cap club yesterday, a bright spot for an AI trade that has had a rough few months.",
+            "content": "Sep 22, 2026, 9:00 PM ETAMD, NVDA, SOX\nSummary\nAdvanced Micro Devices joined the $1 trillion market cap club yesterday, a bright spot for an AI trade that has had a rough few months.\nAMD is not only a winner this week, but year-to-date the stock has ... [1191 chars]",
+            "url": "https://seekingalpha.com/article/4948833-trillion-dollar-stocks-get-new-member",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279241831/image_2279241831.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-09-23T01:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
                 "country": "us"
             }
         },
         {
-            "id": "dafca53522e99130f1f16badb354d97f",
-            "title": "A generation is arriving fluent in AI. Nobody has worked out how to train them",
-            "description": "Students in Singapore are entering work more fluent in AI than the organisations hiring them. OpenAI’s Raghav Gupta on productive struggle, the apprenticeship, and what comfort with these tools does not tell you about a person.",
-            "content": "“Knowing when to question an answer, how to verify it, and when a decision needs to remain human comes with experience.” – Raghav Gupta, Head of Education, Asia-Pacific, OpenAI\nRaghav Gupta has a phrase he uses with students, and with his own childre... [7755 chars]",
-            "url": "https://hrmasia.com/a-generation-is-arriving-fluent-in-ai-nobody-has-worked-out-how-to-train-them/",
-            "image": "https://hrmasia.com/wp-content/uploads/2026/09/Untitled-design-2-1024x669.jpg",
-            "publishedAt": "2026-09-22T00:32:00Z",
+            "id": "53e69651d1eb466a88a82c36888394f6",
+            "title": "Turkey’s environment minister lays out agenda for COP31 summit",
+            "description": "Amid artificial intelligence and war concerns, the head of 2026’s U.N. climate summit appealed to global business leaders to keep emissions in focus.",
+            "content": "With artificial intelligence and the Iran war topping the agenda at this week’s United Nations General Assembly, the president of the upcoming U.N. climate summit appealed to global business leaders to keep rising emissions in focus.\n“We believe we w... [2473 chars]",
+            "url": "https://www.japantimes.co.jp/news/2026/09/23/world/politics/turkey-cop31-summit/",
+            "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/23/564513.jpg?v=3.1",
+            "publishedAt": "2026-09-23T00:56:13Z",
             "lang": "en",
             "source": {
-                "id": "42600681ae4c3d6a7f1e7a6f213bce84",
-                "name": "HRM Asia",
-                "url": "https://hrmasia.com",
-                "country": "sg"
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
             }
         },
         {
-            "id": "89cd9d1bd39b2ad975e540f10ba43641",
-            "title": "Every AI agent needs a kill switch: DigiCert launches AI Trust Manager",
-            "description": "DigiCert AI Trust Manager gives AI agents digital passports that prove who they are, who owns them, and what they can do across organisations.",
-            "content": "COMPANY NEWS: DigiCert AI Trust Manager gives AI agents digital passports that prove who they are, who owns them, and what they can do across organisations.\nDigiCert, a global leader in intelligent trust, today announced the general availability of D... [5001 chars]",
-            "url": "https://itwire.com/guest-articles/company-news/every-ai-agent-needs-a-kill-switch-digicert-launches-ai-trust-manager",
-            "image": "https://media.itwire.com/2026/09/22/every-ai-agent-needs-a-kill-switch-digicert-launches-ai-trust-manager-3ac4c6df9a72.png",
-            "publishedAt": "2026-09-22T00:26:17Z",
+            "id": "5baa6d6717f147764a2a00ca7beb91bf",
+            "title": "How would AI actually ‘kill all humans’? Here are the top five most likely scenarios",
+            "description": "From a dangerous new bioweapon to total societal breakdown, is a ‘superintelligent’ AI capable of wiping out humanity?",
+            "content": "Earlier this month, artificial intelligence researcher Jacob Coxon resigned from Anthropic after just four months. In an announcement on X, he stated: “The people building AI earnestly believe that it could kill us all by the end of the decade.”\nA se... [5561 chars]",
+            "url": "https://www.theguardian.com/australia-news/commentisfree/2026/sep/23/how-would-ai-actually-kill-all-humans-here-are-the-top-five-most-likely-scenarios",
+            "image": "https://i.guim.co.uk/img/media/7724a0b5c89fd347051930c9ce23222373dee3e4/80_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2f514384413a29f264bfbb07a5be9191",
+            "publishedAt": "2026-09-23T00:51:57Z",
             "lang": "en",
             "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "e1b59d2b1f0f89c8156043efd8a89e44",
+            "title": "How to use AI to plan your next holiday: Tell ChatGPT your budget, travel dates, interests and preferred weather, and discover destinations, hotels, hidden gems and personalised itineraries you may ha",
+            "description": "Quick answer: Imagine opening your laptop and typing just one sentence: “I have ₹1.5 lakh, seven days, want somewhere cool in October, love food and n.",
+            "content": "Image: AI\nQuick answer: Imagine opening your laptop and typing just one sentence: “I have ₹1.5 lakh, seven days, want somewhere cool in October, love food and nature, and don't want crowded tourist spots. ” Instead of scrolling through hundreds of tr... [5091 chars]",
+            "url": "https://timesofindia.indiatimes.com/life-style/travel/destinations/how-to-use-ai-to-plan-your-next-holiday-tell-chatgpt-your-budget-travel-dates-interests-and-preferred-weather-and-discover-destinations-hotels-hidden-gems-and-personalised-itineraries-you-may-have-missed/articleshow/134423502.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134423555,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-23T00:50:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "047447fccd50d8941e9582b483a067c9",
+            "title": "'Wait and see': PM unfazed by Trump call to let AI rip",
+            "description": "Anthony Albanese will continue to press the need for countries to put up guardrails on AI, despite Donald...",
+            "content": "Anthony Albanese is not backing down from his position on AI, despite the US president's opposition. Photo: Mick Tsikas/AAP PHOTOS\nDonald Trump has rejected calls for countries to work together to rein in the use of artificial intelligence, in a crit... [5879 chars]",
+            "url": "https://www.canberratimes.com.au/story/9355608/wait-and-see-pm-unfazed-by-trump-call-to-let-ai-rip/",
+            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/1c78abd7-109c-4bd5-96d4-09c5541880c2.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-09-23T00:47:34Z",
+            "lang": "en",
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
                 "country": "au"
             }
         },
         {
-            "id": "7690e5e688a7cc142a7959be9ebcbd03",
-            "title": "AI 'Actress' Tilly Norwood Glitches on Live TV in Surreal Nightmare",
-            "description": "The AI-generated star spoke Cantonese, plotted \"treasons\" and baffled news anchors.",
-            "content": "The uncanny valley is the feeling you get when a human-made object, like a robot, makes you uneasy or creeped out because it looks or acts almost human. That is arguably the best way to describe a series of recent live interviews with the infamous AI... [4082 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/tilly-norwood-ai-actress-speaks-cantonese-live-interview-glitch/",
-            "image": "https://www.cnet.com/wp-content/uploads/sites/2/Piers-Morgan-Tilly-Norwood-Tim-Conti.jpg",
-            "publishedAt": "2026-09-22T00:22:11Z",
+            "id": "e4518e9f52942d50574d74e35b31b054",
+            "title": "Malta Gaming Authority launches AI Gaming Charter",
+            "description": "The MGA said the AI Gaming Charter would promote the ethical and responsible use of artificial intelligence amid uneven industry adoption of the technology.",
+            "content": "The MGA said the AI Gaming Charter would promote the ethical and responsible use of artificial intelligence amid uneven industry adoption of the technology.\nKey takeaways:\nMalta’s gaming regulator has launched a voluntary AI Gaming Charter, providing... [4583 chars]",
+            "url": "https://www.europesays.com/3267221/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/09/34b0d95f-84c8-4869-bd27-037eb258003c-1200x630.jpg",
+            "publishedAt": "2026-09-23T00:45:21Z",
             "lang": "en",
             "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "ef332f7d78cdbc64d17478bc1298a403",
-            "title": "Seoul stocks open sharply higher on chip gains amid revived AI hopes",
-            "description": "Korean stocks opened sharply higher Tuesday, led by gains in tech heavyweights, following a record close for the tech-heavy Nasdaq Composite amid r...",
-            "content": "Korean stocks opened sharply higher Tuesday, led by gains in tech heavyweights, following a record close for the tech-heavy Nasdaq Composite amid revived hopes for artificial intelligence (AI) and a fall in global oil prices and bond yields.\nThe benc... [445 chars]",
-            "url": "https://www.koreatimes.co.kr/economy/20260922/seoul-stocks-open-sharply-higher-on-chip-gains-amid-revived-ai-hopes",
-            "image": "https://newsimg.koreatimes.co.kr/2026/09/22/98ccb4a7-bda5-45c3-9122-9d4a9fdb93f0.jpg",
-            "publishedAt": "2026-09-22T00:22:03Z",
+            "id": "2699c5a4839ebc23d16f1b50aede5684",
+            "title": "Nvidia or Micron: One AI Stock Looks Undervalued, the Other Is Heading South, Says Top Investor",
+            "description": "Nvidia (NASDAQ:NVDA) and Micron (NASDAQ:MU) have followed different paths through 2026, yet both stocks are approaching important points for inv...",
+            "content": "Nvidia (NASDAQ:NVDA) and Micron (NASDAQ:MU) have followed different paths through 2026, yet both stocks are approaching important points for investors. Nvidia shares have gained 23% this year and remain just below their all-time high, while Micron ha... [4437 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/nvidia-or-micron-one-ai-stock-looks-undervalued-the-other-is-heading-south-says-top-investor-1036566257",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/09/74514A3E-AC73-4C65-80DB-5E066F0C4DE7-1024x375.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-09-23T00:45:16Z",
             "lang": "en",
             "source": {
-                "id": "9f2e79f0f9194d0d88f0074def064e60",
-                "name": "The Korea Times",
-                "url": "https://www.koreatimes.co.kr",
-                "country": "kr"
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "94c216e0f59468048424158fa9591465",
+            "title": "OpenAI Recruits External Watchdogs to Police AI Risk",
+            "description": "OpenAI is talking with multiple independent assessors to help grow the number of such companies that have expertise in frontier artificial intelligence safety",
+            "content": "OpenAI said this while outlining its proposed priorities and principles for effective third-party assessments to help all frontier AI labs train, evaluate and deploy models safely.\n“We are committed to supporting independent assessors and establishin... [1898 chars]",
+            "url": "https://www.europesays.com/3267210/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/09/OpenAI-assessments-1.jpg",
+            "publishedAt": "2026-09-23T00:39:20Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
             }
         }
     ]
