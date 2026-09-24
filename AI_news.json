@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 448297,
+    "totalArticles": 449686,
     "articles": [
         {
-            "id": "129e7453e40cda58780ed5df8834df79",
-            "title": "China's Alibaba unveils new powerful chip and ambitious AI model plans",
-            "description": "China's Alibaba unveiled new artificial intelligence chip technologies and plans for more powerful models on Sept 22.",
-            "content": "HONG KONG: China’s Alibaba unveiled new artificial intelligence (AI) chip technologies and plans for more powerful models on Sept 22, including what it said was China's most powerful AI chip, days ahead of a meeting between Chinese and US leaders at ... [3128 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/09/23/china039s-alibaba-unveils-new-powerful-chip-and-ambitious-ai-model-plans",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/23/4123243.jpg",
-            "publishedAt": "2026-09-23T01:00:00Z",
+            "id": "48f0ca2cc35f10292796a4fe92996c34",
+            "title": "\"Anything this powerful is also intimidating\": Sam Altman, Dario Amodei call for regulation of AI development at UN",
+            "description": "Addressing the Security Council, Altman said that while AI models can help discover new frontiers, there is a potential risk that the systems become more capable and more autonomous as they could make decisions that people no longer control.",
+            "content": "New York [US], September 24 (ANI): OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei on Wednesday (local time) briefed the UN Security Council on the potential dangers of AI. Both tech czars have advocated for more control of AI systems and backed... [4320 chars]",
+            "url": "https://www.tribuneindia.com/news/business/anything-this-powerful-is-also-intimidating-sam-altman-dario-amodei-call-for-regulation-of-ai-development-at-un/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWViMzA3ODQwLWI3YjItMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+            "publishedAt": "2026-09-24T00:57:23Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "de2b3e5651df475740f70afb13b0f249",
-            "title": "Accels has been serving customers in recent years. The company's plans extend far beyond routing",
-            "description": "/PRNewswire/ -- Enterprise spending on AI tokens is growing faster than the systems designed to track it. A McKinsey study found that enterprise LLM spending...",
-            "content": "Token Is Becoming a Managed Asset.\nThe Economics of AI Are Entering a New Phase.\nSINGAPORE, Sept. 23, 2026 /PRNewswire/ -- Enterprise spending on AI tokens is growing faster than the systems designed to track it. A McKinsey study found that enterpris... [2533 chars]",
-            "url": "https://www.prnewswire.co.uk/news-releases/accels-has-been-serving-customers-in-recent-years-the-companys-plans-extend-far-beyond-routing-302886013.html",
-            "image": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-            "publishedAt": "2026-09-23T01:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "b88ac29c9414c0d60fc5205323f84cb5",
-            "title": "The Trillion-Dollar Stocks Get A New Member",
-            "description": "Advanced Micro Devices joined the $1 trillion market cap club yesterday, a bright spot for an AI trade that has had a rough few months.",
-            "content": "Sep 22, 2026, 9:00 PM ETAMD, NVDA, SOX\nSummary\nAdvanced Micro Devices joined the $1 trillion market cap club yesterday, a bright spot for an AI trade that has had a rough few months.\nAMD is not only a winner this week, but year-to-date the stock has ... [1191 chars]",
-            "url": "https://seekingalpha.com/article/4948833-trillion-dollar-stocks-get-new-member",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279241831/image_2279241831.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-09-23T01:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "53e69651d1eb466a88a82c36888394f6",
-            "title": "Turkey’s environment minister lays out agenda for COP31 summit",
-            "description": "Amid artificial intelligence and war concerns, the head of 2026’s U.N. climate summit appealed to global business leaders to keep emissions in focus.",
-            "content": "With artificial intelligence and the Iran war topping the agenda at this week’s United Nations General Assembly, the president of the upcoming U.N. climate summit appealed to global business leaders to keep rising emissions in focus.\n“We believe we w... [2473 chars]",
-            "url": "https://www.japantimes.co.jp/news/2026/09/23/world/politics/turkey-cop31-summit/",
-            "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/23/564513.jpg?v=3.1",
-            "publishedAt": "2026-09-23T00:56:13Z",
-            "lang": "en",
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "5baa6d6717f147764a2a00ca7beb91bf",
-            "title": "How would AI actually ‘kill all humans’? Here are the top five most likely scenarios",
-            "description": "From a dangerous new bioweapon to total societal breakdown, is a ‘superintelligent’ AI capable of wiping out humanity?",
-            "content": "Earlier this month, artificial intelligence researcher Jacob Coxon resigned from Anthropic after just four months. In an announcement on X, he stated: “The people building AI earnestly believe that it could kill us all by the end of the decade.”\nA se... [5561 chars]",
-            "url": "https://www.theguardian.com/australia-news/commentisfree/2026/sep/23/how-would-ai-actually-kill-all-humans-here-are-the-top-five-most-likely-scenarios",
-            "image": "https://i.guim.co.uk/img/media/7724a0b5c89fd347051930c9ce23222373dee3e4/80_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2f514384413a29f264bfbb07a5be9191",
-            "publishedAt": "2026-09-23T00:51:57Z",
-            "lang": "en",
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "e1b59d2b1f0f89c8156043efd8a89e44",
-            "title": "How to use AI to plan your next holiday: Tell ChatGPT your budget, travel dates, interests and preferred weather, and discover destinations, hotels, hidden gems and personalised itineraries you may ha",
-            "description": "Quick answer: Imagine opening your laptop and typing just one sentence: “I have ₹1.5 lakh, seven days, want somewhere cool in October, love food and n.",
-            "content": "Image: AI\nQuick answer: Imagine opening your laptop and typing just one sentence: “I have ₹1.5 lakh, seven days, want somewhere cool in October, love food and nature, and don't want crowded tourist spots. ” Instead of scrolling through hundreds of tr... [5091 chars]",
-            "url": "https://timesofindia.indiatimes.com/life-style/travel/destinations/how-to-use-ai-to-plan-your-next-holiday-tell-chatgpt-your-budget-travel-dates-interests-and-preferred-weather-and-discover-destinations-hotels-hidden-gems-and-personalised-itineraries-you-may-have-missed/articleshow/134423502.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134423555,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-23T00:50:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
                 "country": "in"
             }
         },
         {
-            "id": "047447fccd50d8941e9582b483a067c9",
-            "title": "'Wait and see': PM unfazed by Trump call to let AI rip",
-            "description": "Anthony Albanese will continue to press the need for countries to put up guardrails on AI, despite Donald...",
-            "content": "Anthony Albanese is not backing down from his position on AI, despite the US president's opposition. Photo: Mick Tsikas/AAP PHOTOS\nDonald Trump has rejected calls for countries to work together to rein in the use of artificial intelligence, in a crit... [5879 chars]",
-            "url": "https://www.canberratimes.com.au/story/9355608/wait-and-see-pm-unfazed-by-trump-call-to-let-ai-rip/",
-            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/1c78abd7-109c-4bd5-96d4-09c5541880c2.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-09-23T00:47:34Z",
+            "id": "d85d4c756ee8287de218da57ff3cc4b0",
+            "title": "\"Anything this powerful is also intimidating\": Sam Altman, Dario Amodei call for regulation of AI development at UN",
+            "description": "Addressing the Security Council, Altman said that while AI models can help discover new frontiers, there is a potential risk that the systems become more capable and more autonomous as they could make decisions that people no longer control.",
+            "content": "New York [US], September 24 (ANI): OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei on Wednesday (local time) briefed the UN Security Council on the potential dangers of AI. Both tech czars have advocated for more control of AI systems and backed... [4146 chars]",
+            "url": "https://www.aninews.in/news/business/anything-this-powerful-is-also-intimidating-sam-altman-dario-amodei-call-for-regulation-of-ai-development-at-un20260924062522/",
+            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260924005510-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-09-24T00:55:22Z",
             "lang": "en",
             "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "77e41879e2352a7b5fa424de407d02ec",
+            "title": "Meta surprises with new handheld AI device called Meta Charm",
+            "description": "Read more about Meta surprises with new handheld AI device called Meta Charm  on Devdiscourse",
+            "content": "Meta CEO Mark Zuckerberg unveiled a small handheld gadget called Meta Charm for using ​its new Muse AI assistant in a surprise announcement at its annual device event on Wednesday. Meta ​said Charm would be ready to ship for holidays in December, but... [4044 chars]",
+            "url": "https://www.devdiscourse.com/article/international/3981586-meta-surprises-with-new-handheld-ai-device-called-meta-charm",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_11_6036339.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-09-24T00:55:18Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "41e98bd6d3a3a4b699540e731c642573",
+            "title": "Meta bets big on wearable AI, new AI agent as Zuckerberg pushes back against AI doom",
+            "description": "Meta is diving into AI with new wearable devices and an AI agent called Muse.",
+            "content": "Meta is going all in on a consumer-friendly AI agent and pushing forward with AI-powered wearable devices during a moment in the industry when its CEO Mark Zuckerberg acknowledged it is a “wild time to be building.”\nAt the company's annual Connect co... [6187 chars]",
+            "url": "https://www.clickondetroit.com/business/2026/09/24/meta-bets-big-on-wearable-ai-new-ai-agent-as-zuckerberg-pushes-back-against-ai-doom/",
+            "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/XKHST2OORJE6NKYPEUWSI56D5A.jpg?api_key=clickondetroit_06f87fefb2123598",
+            "publishedAt": "2026-09-24T00:54:02Z",
+            "lang": "en",
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "e270baa754e5565e2a0eac1a5222ee1f",
+            "title": "NT police officers allegedly circulated sexually explicit AI",
+            "description": "Former Northern Territory Police assistant commissioner Janelle Tonkin takes her old colleagues to court for sharing an AI- generated sexually explicit video that used her professional photograph.",
+            "content": "In short:\nMembers of the NT Police Force allegedly shared a deep fake pornographic video of a female colleague.\nFormer NT Police assistant commissioner Janelle Tonkin says last year an AI-generated, sexually explicit video was created using her offic... [2527 chars]",
+            "url": "https://www.abc.net.au/news/2026-09-24/police-officers-share-ai-video-of-former-assistant-commissioner/107189604",
+            "image": "https://live-production.wcms.abc-cdn.net.au/018e524d7947ae18146f4ba60cee77d0?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-09-24T00:53:53Z",
+            "lang": "en",
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
                 "country": "au"
             }
         },
         {
-            "id": "e4518e9f52942d50574d74e35b31b054",
-            "title": "Malta Gaming Authority launches AI Gaming Charter",
-            "description": "The MGA said the AI Gaming Charter would promote the ethical and responsible use of artificial intelligence amid uneven industry adoption of the technology.",
-            "content": "The MGA said the AI Gaming Charter would promote the ethical and responsible use of artificial intelligence amid uneven industry adoption of the technology.\nKey takeaways:\nMalta’s gaming regulator has launched a voluntary AI Gaming Charter, providing... [4583 chars]",
-            "url": "https://www.europesays.com/3267221/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/09/34b0d95f-84c8-4869-bd27-037eb258003c-1200x630.jpg",
-            "publishedAt": "2026-09-23T00:45:21Z",
+            "id": "7db5abe8f0e33fed35be750616457c68",
+            "title": "If I'd invested $5,000 in this ASX AI stock 6 months ago, I'd have $113,750 today!",
+            "description": "This little-known ASX AI stock has surged 2,175% in just six months. Here’s why this top fund manager is still buying more shares.",
+            "content": "To get some idea of the massive potential unleashed by the artificial intelligence revolution, you need look no further than ASX AI stock DXN Ltd (ASX: DXN).\nIf you're not familiar with DXN, the company manufactures and operates modular data centres.... [2368 chars]",
+            "url": "https://www.fool.com.au/2026/09/24/if-id-invested-5000-in-this-asx-ai-stock-6-months-ago-id-have-113750-today/",
+            "image": "https://www.fool.com.au/wp-content/uploads/2026/09/ai-purple-16.9-1200x675.jpg",
+            "publishedAt": "2026-09-24T00:53:31Z",
             "lang": "en",
             "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
+                "id": "c6075ba0dc9d123bb327faaa419d3d07",
+                "name": "The Motley Fool Australia",
+                "url": "https://www.fool.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "fb621ad2d6bb94b46b537f80d143aee5",
+            "title": "ATLB Explores AI Financial Ecosystem Integration and Development",
+            "description": "With the continuous advancement of artificial intelligence, big data, and automation technologies, the global financial technology industry is entering a new stage of transformation.",
+            "content": "Share\nShare\nShare\nShare\nEmail\nWith the continuous advancement of artificial intelligence, big data, and automation technologies, the global financial technology industry is entering a new stage of transformation.\nIn this evolving environment, ATLB is... [4761 chars]",
+            "url": "https://techbullion.com/atlb-explores-ai-financial-ecosystem-integration-and-development/",
+            "image": "https://techbullion.com/wp-content/uploads/2025/07/6f479ae8474c4df9f2ffb14c305b5b6b73ce016c-1000x600.jpg",
+            "publishedAt": "2026-09-24T00:52:16Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "180ccaf6dcdadba29aefabd87c51700d",
+            "title": "Australia's prime minister criticizes OpenAI over government website security breach",
+            "description": "Australian Prime Minister Anthony Albanese says he is extremely concerned and disappointed at an OpenAI security breach of a government website, which the artificial intelligence company took too long to reveal.",
+            "content": "MELBOURNE – Australia was extremely concerned and disappointed at an OpenAI security breach of a government website which the artificial intelligence company took too long to reveal, Prime Minister Anthony Albanese said on Thursday.\nAlbanese made the... [2140 chars]",
+            "url": "https://www.clickondetroit.com/tech/2026/09/24/australias-prime-minister-criticizes-openai-over-government-website-security-breach/",
+            "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/6BJGOR3DQ5FJ3GP5IYRH3OMAR4.jpg?api_key=clickondetroit_06f87fefb2123598",
+            "publishedAt": "2026-09-24T00:51:58Z",
+            "lang": "en",
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
                 "country": "us"
             }
         },
         {
-            "id": "2699c5a4839ebc23d16f1b50aede5684",
-            "title": "Nvidia or Micron: One AI Stock Looks Undervalued, the Other Is Heading South, Says Top Investor",
-            "description": "Nvidia (NASDAQ:NVDA) and Micron (NASDAQ:MU) have followed different paths through 2026, yet both stocks are approaching important points for inv...",
-            "content": "Nvidia (NASDAQ:NVDA) and Micron (NASDAQ:MU) have followed different paths through 2026, yet both stocks are approaching important points for investors. Nvidia shares have gained 23% this year and remain just below their all-time high, while Micron ha... [4437 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/nvidia-or-micron-one-ai-stock-looks-undervalued-the-other-is-heading-south-says-top-investor-1036566257",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/09/74514A3E-AC73-4C65-80DB-5E066F0C4DE7-1024x375.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-09-23T00:45:16Z",
+            "id": "17954fe6a35f98dabb063d8982611139",
+            "title": "Tecno Shows How EllaClaw Can Be Customized for Different AI Workflows",
+            "description": "TECNO showcases four EllaClaw AI workflows for research, script creation, writing styles, and social media content checks.",
+            "content": "TECNO is highlighting the customization potential of its experimental mobile AI agent, EllaClaw, through a new collaboration with technology media outlet Digital Trends. The showcase focuses on how agentic AI could fit into the everyday workflows of ... [2835 chars]",
+            "url": "https://www.gizchina.com/tecno/tecno-shows-how-ellaclaw-can-be-customized-for-different-ai-workflows",
+            "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-23-214108173-6ab471ea68fe0.png",
+            "publishedAt": "2026-09-24T00:47:00Z",
             "lang": "en",
             "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
+                "id": "d088100e5ce28ba4858f168de9f3d38c",
+                "name": "Gizchina.com",
+                "url": "https://www.gizchina.com",
                 "country": "us"
             }
         },
         {
-            "id": "94c216e0f59468048424158fa9591465",
-            "title": "OpenAI Recruits External Watchdogs to Police AI Risk",
-            "description": "OpenAI is talking with multiple independent assessors to help grow the number of such companies that have expertise in frontier artificial intelligence safety",
-            "content": "OpenAI said this while outlining its proposed priorities and principles for effective third-party assessments to help all frontier AI labs train, evaluate and deploy models safely.\n“We are committed to supporting independent assessors and establishin... [1898 chars]",
-            "url": "https://www.europesays.com/3267210/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/09/OpenAI-assessments-1.jpg",
-            "publishedAt": "2026-09-23T00:39:20Z",
+            "id": "b3b054f1bbc73550f66e3e456a129bc7",
+            "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+            "description": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+            "content": "The AI amulet has become a bit of a cliché in the tech industry — devices like Friend have turned the idea of physical AI into little more than an exercise in eye-rolling for many consumers.\nBut that hasn’t stopped Meta from jumping into the arena wi... [1738 chars]",
+            "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
+            "publishedAt": "2026-09-24T00:46:17Z",
             "lang": "en",
             "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
                 "country": "us"
             }
         }
