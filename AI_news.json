@@ -4,48 +4,128 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 449686,
+    "totalArticles": 451210,
     "articles": [
         {
-            "id": "48f0ca2cc35f10292796a4fe92996c34",
-            "title": "\"Anything this powerful is also intimidating\": Sam Altman, Dario Amodei call for regulation of AI development at UN",
-            "description": "Addressing the Security Council, Altman said that while AI models can help discover new frontiers, there is a potential risk that the systems become more capable and more autonomous as they could make decisions that people no longer control.",
-            "content": "New York [US], September 24 (ANI): OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei on Wednesday (local time) briefed the UN Security Council on the potential dangers of AI. Both tech czars have advocated for more control of AI systems and backed... [4320 chars]",
-            "url": "https://www.tribuneindia.com/news/business/anything-this-powerful-is-also-intimidating-sam-altman-dario-amodei-call-for-regulation-of-ai-development-at-un/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWViMzA3ODQwLWI3YjItMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-            "publishedAt": "2026-09-24T00:57:23Z",
+            "id": "f664c38951ed55d874ca71e3dbae7148",
+            "title": "Ai Weiwei says his piece on war and peace",
+            "description": "Overlooking Sydney' Harbour, a bold work of 500 combat helmets by acclaimed artist Ai Weiwei sprawled across a lawn is exposing the human costs of war.",
+            "content": "Spanning 40-metres in length, exiled Chinese artist Ai Weiwei has sculpted 500 cast iron combat helmets that shimmer in the sun overlooking Sydney Harbour.\nThe expansive public installation, Mushrooms, at the Museum of Contemporary Art is a meditatio... [1872 chars]",
+            "url": "https://www.perthnow.com.au/entertainment/ai-weiwei-says-his-piece-on-war-and-peace-c-22924622",
+            "image": "https://images.perthnow.com.au/publication/C-22924622/a0258428714298a793ac7cc65fd3b061aa3ba140-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-09-25T01:03:13Z",
             "lang": "en",
             "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "4bd13fdf19a41f6e40c4d1c8a170dfd4",
+            "title": "Trump-Xi LIVE: Chinese President attends White House state dinner with US tech CEOs; Trump gifts him bald eagle statue",
+            "description": "Trump-Xi meeting LIVE: Xi Jinping met Donald Trump at the White House. AI, trade, Iran, Taiwan and Ukraine were the subjects in focus. Xi asked for US cooperation and said AI must remain under human control. He later joined a state dinner attended by top US tech leaders. | World News",
+            "content": "The meeting was Xi’s first visit to Washington in more than a decade and his second summit with Trump this year. China said the leaders also discussed the Korean Peninsula, while giving no details of their conversation. AI emerged as a key focus, Reu... [1750 chars]",
+            "url": "https://www.hindustantimes.com/world-news/trump-xi-meeting-live-updates-white-house-state-dinner-china-us-iran-war-saudi-houthi-latest-101790296981710.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/USA-CHINA--185_1790297872671_qXAH_1790297892597_VvJL_7c0b7ad3-de36-4a04-9ff9-4d8e639e720c_DRzC.JPG",
+            "publishedAt": "2026-09-25T01:01:47Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "d85d4c756ee8287de218da57ff3cc4b0",
-            "title": "\"Anything this powerful is also intimidating\": Sam Altman, Dario Amodei call for regulation of AI development at UN",
-            "description": "Addressing the Security Council, Altman said that while AI models can help discover new frontiers, there is a potential risk that the systems become more capable and more autonomous as they could make decisions that people no longer control.",
-            "content": "New York [US], September 24 (ANI): OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei on Wednesday (local time) briefed the UN Security Council on the potential dangers of AI. Both tech czars have advocated for more control of AI systems and backed... [4146 chars]",
-            "url": "https://www.aninews.in/news/business/anything-this-powerful-is-also-intimidating-sam-altman-dario-amodei-call-for-regulation-of-ai-development-at-un20260924062522/",
-            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260924005510-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-09-24T00:55:22Z",
+            "id": "bbf2d0a3c519c797b537900447cbfeef",
+            "title": "Trump-Xi Summit in Washington Features Great Fanfare but Low Expectations on Trade, Taiwan, AI and Iran",
+            "description": "During discussions, Xi urged the US to resist Taiwan's independence and anticipated an appeal to halt arms sales to Taiwan. Tensions regarding Taiwan remain high as China's influence grew following the trade war.",
+            "content": "US President Donald Trump welcomed Chinese President Xi Jinping to the White House on Thursday for a lavish summit that was heavy on symbolism but light on substance, with no sign that a closed-door meeting yielded breakthroughs on thorny issues such... [6500 chars]",
+            "url": "https://www.republicworld.com/world-news/trump-xi-summit-in-washington-features-great-fanfare-but-low-expectations-on-trade-taiwan-ai-and-iran-2026-09-25-137664",
+            "image": "https://img.republicworld.com/all_images/2026/09/trump-xi-summit-in-washington-features-great-fanfare-but-low-expectation-1790298083625-1280x720.webp",
+            "publishedAt": "2026-09-25T01:01:28Z",
             "lang": "en",
             "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
                 "country": "in"
             }
         },
         {
-            "id": "77e41879e2352a7b5fa424de407d02ec",
-            "title": "Meta surprises with new handheld AI device called Meta Charm",
-            "description": "Read more about Meta surprises with new handheld AI device called Meta Charm  on Devdiscourse",
-            "content": "Meta CEO Mark Zuckerberg unveiled a small handheld gadget called Meta Charm for using ​its new Muse AI assistant in a surprise announcement at its annual device event on Wednesday. Meta ​said Charm would be ready to ship for holidays in December, but... [4044 chars]",
-            "url": "https://www.devdiscourse.com/article/international/3981586-meta-surprises-with-new-handheld-ai-device-called-meta-charm",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_11_6036339.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-09-24T00:55:18Z",
+            "id": "f8720707e228f5fa381557699aae97a0",
+            "title": "China fuels rush to turn AI video into an industry",
+            "description": "When Zhu Zhili was looking for a base to set up an artificial intelligence film studio in China two years ago, there was just one clear choice: the southern city of Shenzhen with its vast tech...",
+            "content": "BEIJING/SHENZHEN, Sept 23 (Reuters) - When Zhu Zhili was looking for a base to set up an artificial intelligence film studio in China two years ago, there was just one clear choice: the southern city of Shenzhen with its vast tech ecosystem.\nThis yea... [5237 chars]",
+            "url": "https://www.marketscreener.com/news/china-fuels-rush-to-turn-ai-video-into-an-industry-ce785adfdb8cf620",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-09/2026-09-25T010049Z_1_LYNXMPEM8O023_RTROPTP_4_AI-CHINA-FILM.JPG",
+            "publishedAt": "2026-09-25T01:01:23Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "222f5d9baf57da189efbbed228c4eee1",
+            "title": "China fuels rush to turn AI video into an industry",
+            "description": "When Zhu Zhili was looking for a base to set up an artificial intelligence film studio in China two years ago, there was just one clear choice: the southern city of Shenzhen with its vast ​tech ecosystem.",
+            "content": "BEIJING/SHENZHEN, Sept 23 (Reuters) - When Zhu Zhili was looking for a base to set up an artificial intelligence film studio in China two years ago, there was just one clear choice: the southern city of Shenzhen with its vast ​tech ecosystem.\nThis ye... [5229 chars]",
+            "url": "https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/",
+            "image": "https://www.reuters.com/resizer/v2/7KAZHH4QKJLFRLKXBATEGZQUBY.jpg?auth=b8b24705f61654d20748efaed8de6ba9ed9f457aa0f11e1bd4afef2b35fd7d3b&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-09-25T01:01:06Z",
+            "lang": "en",
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "f8693e87d6c93570657bcd85a7c69450",
+            "title": "Ai Weiwei says his piece on war and peace",
+            "description": "Overlooking Sydney' Harbour, a bold work of 500 combat helmets by acclaimed artist Ai Weiwei sprawled across a...",
+            "content": "The public installation, Mushrooms, at the Museum of Contemporary Art is a meditation on war. Photo: Bianca De Marchi/AAP PHOTOS\nSpanning 40-metres in length, exiled Chinese artist Ai Weiwei has sculpted 500 cast iron combat helmets that shimmer in t... [4173 chars]",
+            "url": "https://www.canberratimes.com.au/story/9357291/ai-weiwei-says-his-piece-on-war-and-peace/",
+            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/e6afb9c9-df0f-4b53-b0c0-be892dad0bc7.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-09-25T01:01:02Z",
+            "lang": "en",
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "83d52a5e012b41bb1597313c8ce19294",
+            "title": "Fintechs bet on AI agents to retain merchants as acquisition costs rise and margins thin",
+            "description": "Merchants using AI agents have seen a jump in their topline.",
+            "content": "While many of these firms are initially providing their agentic suites for free, like Cashfree, to create stickiness, they're fundamentally a play to ensure that people stay in the ecosystem, not necessarily a full-blown product line. Even the comput... [3524 chars]",
+            "url": "https://www.livemint.com/companies/news/fintechs-ai-agents-merchants-acquisition-costs-margins-thin-11790214588042.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/fintech_1790244515644_9bc4_1790244515842_s7AH_69218aa7-7f95-4dc4-8390-bca3a7f9a7ec_6KgO.jpg",
+            "publishedAt": "2026-09-25T01:00:20Z",
+            "lang": "en",
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "76224302b787bf863a45216c75813aa0",
+            "title": "China fuels rush to turn AI video into an industry",
+            "description": "Read more about China fuels rush to turn AI video into an industry on Devdiscourse",
+            "content": "When Zhu Zhili was looking for a base to set up an artificial ​intelligence film studio in China two years ago, there was just one clear choice: the ‌southern ​city of Shenzhen with its vast tech ecosystem.\nThis year, AI filmmaker Zhu said he has fie... [5279 chars]",
+            "url": "https://www.devdiscourse.com/article/international/3982166-china-fuels-rush-to-turn-ai-video-into-an-industry",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_19_6120453.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-09-25T01:00:19Z",
             "lang": "en",
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -55,114 +135,34 @@
             }
         },
         {
-            "id": "41e98bd6d3a3a4b699540e731c642573",
-            "title": "Meta bets big on wearable AI, new AI agent as Zuckerberg pushes back against AI doom",
-            "description": "Meta is diving into AI with new wearable devices and an AI agent called Muse.",
-            "content": "Meta is going all in on a consumer-friendly AI agent and pushing forward with AI-powered wearable devices during a moment in the industry when its CEO Mark Zuckerberg acknowledged it is a “wild time to be building.”\nAt the company's annual Connect co... [6187 chars]",
-            "url": "https://www.clickondetroit.com/business/2026/09/24/meta-bets-big-on-wearable-ai-new-ai-agent-as-zuckerberg-pushes-back-against-ai-doom/",
-            "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/XKHST2OORJE6NKYPEUWSI56D5A.jpg?api_key=clickondetroit_06f87fefb2123598",
-            "publishedAt": "2026-09-24T00:54:02Z",
+            "id": "cd00982e86fa9aa4810e19caa6f966fc",
+            "title": "Google's AI Wants to Call Stores for You",
+            "description": "Hate talking on the phone? Gemini's got an answer, but you'll still need to be in charge.",
+            "content": "Google on Thursday announced an expansion of its mobile Gemini AI capabilities, a new agentic feature built to handle everyday phone calls for you. Introverts of the world, rejoice — but also pay attention to the fine print, because there are limits ... [4046 chars]",
+            "url": "https://www.cnet.com/tech/services-and-software/googles-ai-wants-to-call-stores-for-you-here-are-the-problems-with-that/",
+            "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2295205813.jpg",
+            "publishedAt": "2026-09-25T00:58:35Z",
             "lang": "en",
             "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
                 "country": "us"
             }
         },
         {
-            "id": "e270baa754e5565e2a0eac1a5222ee1f",
-            "title": "NT police officers allegedly circulated sexually explicit AI",
-            "description": "Former Northern Territory Police assistant commissioner Janelle Tonkin takes her old colleagues to court for sharing an AI- generated sexually explicit video that used her professional photograph.",
-            "content": "In short:\nMembers of the NT Police Force allegedly shared a deep fake pornographic video of a female colleague.\nFormer NT Police assistant commissioner Janelle Tonkin says last year an AI-generated, sexually explicit video was created using her offic... [2527 chars]",
-            "url": "https://www.abc.net.au/news/2026-09-24/police-officers-share-ai-video-of-former-assistant-commissioner/107189604",
-            "image": "https://live-production.wcms.abc-cdn.net.au/018e524d7947ae18146f4ba60cee77d0?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-09-24T00:53:53Z",
+            "id": "fc4128ec70324b4e09f1bd1f7a667eee",
+            "title": "Energy Department will spend $2 billion to squeeze more electricity from the aging power grid",
+            "description": "The Energy Department says it will spend almost $2 billion to try to squeeze more electricity out of the nation’s aging and stressed power grid. President Donald Trump's administration is stepping up efforts to avoid blackouts amid skyrocketing energy demand spurred by artificial intelligence. The money will go toward 31 projects across 26 states that are expected to produce more than 23 gigawatts of additional electricity capacity — enough to power 16 million homes. Energy Secretary Chris Wright spoke about the grant program Thursday in Allentown, Pennsylvania. Recipients include utilities, cooperatives and four state agencies. The state agencies — in Colorado, Indiana, Ohio and Oklahoma — were the biggest recipients, drawing at a total of $810 million.",
+            "content": "ALLENTOWN, Pa. (AP) — The Energy Department said Thursday that it will spend almost $2 billion to try to squeeze more electricity out of the nation's aging and stressed power grid, as President Donald Trump's administration steps up efforts to avoid ... [441 chars]",
+            "url": "https://www.ajc.com/news/2026/09/energy-department-will-spend-2-billion-to-squeeze-more-electricity-from-the-aging-power-grid/",
+            "image": "https://images.ajc.com/resizer/v2/Z7C5OXJXVZAI3EHDFA7N7VRDKA.jpg?auth=32bf45d8d7ecdbd5ee7ae7062e86f4735dddf667519c6362e876626993673b92&width=1200&height=630&smart=true",
+            "publishedAt": "2026-09-25T00:52:23Z",
             "lang": "en",
             "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "7db5abe8f0e33fed35be750616457c68",
-            "title": "If I'd invested $5,000 in this ASX AI stock 6 months ago, I'd have $113,750 today!",
-            "description": "This little-known ASX AI stock has surged 2,175% in just six months. Here’s why this top fund manager is still buying more shares.",
-            "content": "To get some idea of the massive potential unleashed by the artificial intelligence revolution, you need look no further than ASX AI stock DXN Ltd (ASX: DXN).\nIf you're not familiar with DXN, the company manufactures and operates modular data centres.... [2368 chars]",
-            "url": "https://www.fool.com.au/2026/09/24/if-id-invested-5000-in-this-asx-ai-stock-6-months-ago-id-have-113750-today/",
-            "image": "https://www.fool.com.au/wp-content/uploads/2026/09/ai-purple-16.9-1200x675.jpg",
-            "publishedAt": "2026-09-24T00:53:31Z",
-            "lang": "en",
-            "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "The Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "fb621ad2d6bb94b46b537f80d143aee5",
-            "title": "ATLB Explores AI Financial Ecosystem Integration and Development",
-            "description": "With the continuous advancement of artificial intelligence, big data, and automation technologies, the global financial technology industry is entering a new stage of transformation.",
-            "content": "Share\nShare\nShare\nShare\nEmail\nWith the continuous advancement of artificial intelligence, big data, and automation technologies, the global financial technology industry is entering a new stage of transformation.\nIn this evolving environment, ATLB is... [4761 chars]",
-            "url": "https://techbullion.com/atlb-explores-ai-financial-ecosystem-integration-and-development/",
-            "image": "https://techbullion.com/wp-content/uploads/2025/07/6f479ae8474c4df9f2ffb14c305b5b6b73ce016c-1000x600.jpg",
-            "publishedAt": "2026-09-24T00:52:16Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "180ccaf6dcdadba29aefabd87c51700d",
-            "title": "Australia's prime minister criticizes OpenAI over government website security breach",
-            "description": "Australian Prime Minister Anthony Albanese says he is extremely concerned and disappointed at an OpenAI security breach of a government website, which the artificial intelligence company took too long to reveal.",
-            "content": "MELBOURNE – Australia was extremely concerned and disappointed at an OpenAI security breach of a government website which the artificial intelligence company took too long to reveal, Prime Minister Anthony Albanese said on Thursday.\nAlbanese made the... [2140 chars]",
-            "url": "https://www.clickondetroit.com/tech/2026/09/24/australias-prime-minister-criticizes-openai-over-government-website-security-breach/",
-            "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/6BJGOR3DQ5FJ3GP5IYRH3OMAR4.jpg?api_key=clickondetroit_06f87fefb2123598",
-            "publishedAt": "2026-09-24T00:51:58Z",
-            "lang": "en",
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "17954fe6a35f98dabb063d8982611139",
-            "title": "Tecno Shows How EllaClaw Can Be Customized for Different AI Workflows",
-            "description": "TECNO showcases four EllaClaw AI workflows for research, script creation, writing styles, and social media content checks.",
-            "content": "TECNO is highlighting the customization potential of its experimental mobile AI agent, EllaClaw, through a new collaboration with technology media outlet Digital Trends. The showcase focuses on how agentic AI could fit into the everyday workflows of ... [2835 chars]",
-            "url": "https://www.gizchina.com/tecno/tecno-shows-how-ellaclaw-can-be-customized-for-different-ai-workflows",
-            "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-09%2Fimage-2026-09-23-214108173-6ab471ea68fe0.png",
-            "publishedAt": "2026-09-24T00:47:00Z",
-            "lang": "en",
-            "source": {
-                "id": "d088100e5ce28ba4858f168de9f3d38c",
-                "name": "Gizchina.com",
-                "url": "https://www.gizchina.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b3b054f1bbc73550f66e3e456a129bc7",
-            "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-            "description": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-            "content": "The AI amulet has become a bit of a cliché in the tech industry — devices like Friend have turned the idea of physical AI into little more than an exercise in eye-rolling for many consumers.\nBut that hasn’t stopped Meta from jumping into the arena wi... [1738 chars]",
-            "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
-            "publishedAt": "2026-09-24T00:46:17Z",
-            "lang": "en",
-            "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
                 "country": "us"
             }
         }
