@@ -4,144 +4,80 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 451210,
+    "totalArticles": 452398,
     "articles": [
         {
-            "id": "f664c38951ed55d874ca71e3dbae7148",
-            "title": "Ai Weiwei says his piece on war and peace",
-            "description": "Overlooking Sydney' Harbour, a bold work of 500 combat helmets by acclaimed artist Ai Weiwei sprawled across a lawn is exposing the human costs of war.",
-            "content": "Spanning 40-metres in length, exiled Chinese artist Ai Weiwei has sculpted 500 cast iron combat helmets that shimmer in the sun overlooking Sydney Harbour.\nThe expansive public installation, Mushrooms, at the Museum of Contemporary Art is a meditatio... [1872 chars]",
-            "url": "https://www.perthnow.com.au/entertainment/ai-weiwei-says-his-piece-on-war-and-peace-c-22924622",
-            "image": "https://images.perthnow.com.au/publication/C-22924622/a0258428714298a793ac7cc65fd3b061aa3ba140-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-09-25T01:03:13Z",
+            "id": "6abebf47a18d2251b8a408cef1187901",
+            "title": "Should Canadian Investors Buy QQQ Stock?",
+            "description": "Invesco QQQ ETF (NASDAQ:QQQ) is a popular growthy, tech-savvy option for Canadians looking to boost their exposure to U.S. technology and AI names.",
+            "content": "With the ongoing AI boom continuing to dominate the headlines on both sides of the border, many Canadian investors might be wondering if it’s still worthwhile to top up their exposure to the U.S. tech sector. Of course, the tech-heavy Nasdaq 100 migh... [2964 chars]",
+            "url": "https://www.fool.ca/2026/09/25/should-canadian-investors-buy-qqq-stock/",
+            "image": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-2151613981-1200x675.jpg",
+            "publishedAt": "2026-09-26T00:30:00Z",
             "lang": "en",
             "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
+                "id": "19d1f502a5658ccbfaaa50f77b89993f",
+                "name": "The Motley Fool Canada",
+                "url": "https://www.fool.ca",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "c5545f373189182c1ec917f206a762a8",
+            "title": "Hotel Des Arts Saigon Increases RevPAR by 20% with IDeaS G3 RMS",
+            "description": "IDeaS, the world’s leading provider of AI-powered hospitality revenue management software, today announced that Hotel Des Arts Saigon has achieved a 21.6% increase in revenue...",
+            "content": "COMPANY NEWS: IDeaS, the world’s leading provider of AI-powered hospitality revenue management software, today announced that Hotel Des Arts Saigon has achieved a 21.6% increase in revenue per available room (RevPAR) and a 13.5% improvement in Revenu... [2917 chars]",
+            "url": "https://itwire.com/guest-articles/company-news/hotel-des-arts-saigon-increases-revpar-by-20-with-ideas-g3-rms",
+            "image": "https://media.itwire.com/2026/09/26/hotel-des-arts-saigon-increases-revpar-by-20-with-ideas-g3-rms-da21cd35ab7c.webp",
+            "publishedAt": "2026-09-26T00:29:51Z",
+            "lang": "en",
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
                 "country": "au"
             }
         },
         {
-            "id": "4bd13fdf19a41f6e40c4d1c8a170dfd4",
-            "title": "Trump-Xi LIVE: Chinese President attends White House state dinner with US tech CEOs; Trump gifts him bald eagle statue",
-            "description": "Trump-Xi meeting LIVE: Xi Jinping met Donald Trump at the White House. AI, trade, Iran, Taiwan and Ukraine were the subjects in focus. Xi asked for US cooperation and said AI must remain under human control. He later joined a state dinner attended by top US tech leaders. | World News",
-            "content": "The meeting was Xi’s first visit to Washington in more than a decade and his second summit with Trump this year. China said the leaders also discussed the Korean Peninsula, while giving no details of their conversation. AI emerged as a key focus, Reu... [1750 chars]",
-            "url": "https://www.hindustantimes.com/world-news/trump-xi-meeting-live-updates-white-house-state-dinner-china-us-iran-war-saudi-houthi-latest-101790296981710.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/USA-CHINA--185_1790297872671_qXAH_1790297892597_VvJL_7c0b7ad3-de36-4a04-9ff9-4d8e639e720c_DRzC.JPG",
-            "publishedAt": "2026-09-25T01:01:47Z",
+            "id": "6594865f7d48b132eba11dcb8cf1e787",
+            "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+            "description": "Crusoe, a Denver-based AI data center startup that recently raised $3.9 billion, has ended plans to use a new line of stationary power plants developed by",
+            "content": "Crusoe, a Denver-based AI data center startup that recently raised $3.9 billion, has ended plans to use a new line of stationary power plants developed by fellow Denver company Boom Supersonic.\nFounded in 2018 as a bitcoin miner that ran on excess na... [2911 chars]",
+            "url": "https://www.europesays.com/3272896/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/09/Boom_Superpower_Hero_Dec2025.jpg",
+            "publishedAt": "2026-09-26T00:27:17Z",
             "lang": "en",
             "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "bbf2d0a3c519c797b537900447cbfeef",
-            "title": "Trump-Xi Summit in Washington Features Great Fanfare but Low Expectations on Trade, Taiwan, AI and Iran",
-            "description": "During discussions, Xi urged the US to resist Taiwan's independence and anticipated an appeal to halt arms sales to Taiwan. Tensions regarding Taiwan remain high as China's influence grew following the trade war.",
-            "content": "US President Donald Trump welcomed Chinese President Xi Jinping to the White House on Thursday for a lavish summit that was heavy on symbolism but light on substance, with no sign that a closed-door meeting yielded breakthroughs on thorny issues such... [6500 chars]",
-            "url": "https://www.republicworld.com/world-news/trump-xi-summit-in-washington-features-great-fanfare-but-low-expectations-on-trade-taiwan-ai-and-iran-2026-09-25-137664",
-            "image": "https://img.republicworld.com/all_images/2026/09/trump-xi-summit-in-washington-features-great-fanfare-but-low-expectation-1790298083625-1280x720.webp",
-            "publishedAt": "2026-09-25T01:01:28Z",
-            "lang": "en",
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "f8720707e228f5fa381557699aae97a0",
-            "title": "China fuels rush to turn AI video into an industry",
-            "description": "When Zhu Zhili was looking for a base to set up an artificial intelligence film studio in China two years ago, there was just one clear choice: the southern city of Shenzhen with its vast tech...",
-            "content": "BEIJING/SHENZHEN, Sept 23 (Reuters) - When Zhu Zhili was looking for a base to set up an artificial intelligence film studio in China two years ago, there was just one clear choice: the southern city of Shenzhen with its vast tech ecosystem.\nThis yea... [5237 chars]",
-            "url": "https://www.marketscreener.com/news/china-fuels-rush-to-turn-ai-video-into-an-industry-ce785adfdb8cf620",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-09/2026-09-25T010049Z_1_LYNXMPEM8O023_RTROPTP_4_AI-CHINA-FILM.JPG",
-            "publishedAt": "2026-09-25T01:01:23Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "222f5d9baf57da189efbbed228c4eee1",
-            "title": "China fuels rush to turn AI video into an industry",
-            "description": "When Zhu Zhili was looking for a base to set up an artificial intelligence film studio in China two years ago, there was just one clear choice: the southern city of Shenzhen with its vast ​tech ecosystem.",
-            "content": "BEIJING/SHENZHEN, Sept 23 (Reuters) - When Zhu Zhili was looking for a base to set up an artificial intelligence film studio in China two years ago, there was just one clear choice: the southern city of Shenzhen with its vast ​tech ecosystem.\nThis ye... [5229 chars]",
-            "url": "https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/",
-            "image": "https://www.reuters.com/resizer/v2/7KAZHH4QKJLFRLKXBATEGZQUBY.jpg?auth=b8b24705f61654d20748efaed8de6ba9ed9f457aa0f11e1bd4afef2b35fd7d3b&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-09-25T01:01:06Z",
-            "lang": "en",
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "f8693e87d6c93570657bcd85a7c69450",
-            "title": "Ai Weiwei says his piece on war and peace",
-            "description": "Overlooking Sydney' Harbour, a bold work of 500 combat helmets by acclaimed artist Ai Weiwei sprawled across a...",
-            "content": "The public installation, Mushrooms, at the Museum of Contemporary Art is a meditation on war. Photo: Bianca De Marchi/AAP PHOTOS\nSpanning 40-metres in length, exiled Chinese artist Ai Weiwei has sculpted 500 cast iron combat helmets that shimmer in t... [4173 chars]",
-            "url": "https://www.canberratimes.com.au/story/9357291/ai-weiwei-says-his-piece-on-war-and-peace/",
-            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/e6afb9c9-df0f-4b53-b0c0-be892dad0bc7.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-09-25T01:01:02Z",
+            "id": "102e7ae492467d6f603e2721b8d64ff8",
+            "title": "This Was Trump’s Big Week to Take Action on AI and All He Did Was Rename It",
+            "description": "\"The only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT,\" wrote Trump.",
+            "content": "After weeks of national discourse about the threat of AI, President Donald Trump had a unique opportunity to influence AI safety globally in recent days. Trump hosted Chinese leader Xi Jinping and tech oligarchs who are building AI, like Elon Musk an... [4179 chars]",
+            "url": "https://gizmodo.com/this-was-trumps-big-week-to-take-action-on-ai-and-all-he-did-was-rename-it-2000817626",
+            "image": "https://gizmodo.com/app/uploads/2026/09/trump-and-xi-2026-1200x675.jpg",
+            "publishedAt": "2026-09-26T00:19:51Z",
             "lang": "en",
             "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
             }
         },
         {
-            "id": "83d52a5e012b41bb1597313c8ce19294",
-            "title": "Fintechs bet on AI agents to retain merchants as acquisition costs rise and margins thin",
-            "description": "Merchants using AI agents have seen a jump in their topline.",
-            "content": "While many of these firms are initially providing their agentic suites for free, like Cashfree, to create stickiness, they're fundamentally a play to ensure that people stay in the ecosystem, not necessarily a full-blown product line. Even the comput... [3524 chars]",
-            "url": "https://www.livemint.com/companies/news/fintechs-ai-agents-merchants-acquisition-costs-margins-thin-11790214588042.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/fintech_1790244515644_9bc4_1790244515842_s7AH_69218aa7-7f95-4dc4-8390-bca3a7f9a7ec_6KgO.jpg",
-            "publishedAt": "2026-09-25T01:00:20Z",
-            "lang": "en",
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "76224302b787bf863a45216c75813aa0",
-            "title": "China fuels rush to turn AI video into an industry",
-            "description": "Read more about China fuels rush to turn AI video into an industry on Devdiscourse",
-            "content": "When Zhu Zhili was looking for a base to set up an artificial ​intelligence film studio in China two years ago, there was just one clear choice: the ‌southern ​city of Shenzhen with its vast tech ecosystem.\nThis year, AI filmmaker Zhu said he has fie... [5279 chars]",
-            "url": "https://www.devdiscourse.com/article/international/3982166-china-fuels-rush-to-turn-ai-video-into-an-industry",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_19_6120453.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-09-25T01:00:19Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "cd00982e86fa9aa4810e19caa6f966fc",
-            "title": "Google's AI Wants to Call Stores for You",
-            "description": "Hate talking on the phone? Gemini's got an answer, but you'll still need to be in charge.",
-            "content": "Google on Thursday announced an expansion of its mobile Gemini AI capabilities, a new agentic feature built to handle everyday phone calls for you. Introverts of the world, rejoice — but also pay attention to the fine print, because there are limits ... [4046 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/googles-ai-wants-to-call-stores-for-you-here-are-the-problems-with-that/",
-            "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2295205813.jpg",
-            "publishedAt": "2026-09-25T00:58:35Z",
+            "id": "6acc529dfee57dfdee554e9b3908d50a",
+            "title": "Leaks Show That Meta's New AI Agent Relied on Real People to Make Calls",
+            "description": "Reports indicate Muse was routing calls the AI was supposedly making to humans in call centers.",
+            "content": "To quote George Santayana, “Those who cannot remember the past are condemned to repeat it.” So why does it so often feel like Big Tech has such a short memory?\nThe latest hiccup comes from Meta. In mid-September, it rolled out a beta test of a featur... [4136 chars]",
+            "url": "https://www.cnet.com/tech/services-and-software/leaks-metas-new-ai-agent-muse-real-people-call-centers/",
+            "image": "https://www.cnet.com/wp-content/uploads/sites/2/Meta-Muse-AI.png",
+            "publishedAt": "2026-09-26T00:13:27Z",
             "lang": "en",
             "source": {
                 "id": "6f4f13c21bb217801ab4b37c367f97aa",
@@ -151,19 +87,83 @@
             }
         },
         {
-            "id": "fc4128ec70324b4e09f1bd1f7a667eee",
-            "title": "Energy Department will spend $2 billion to squeeze more electricity from the aging power grid",
-            "description": "The Energy Department says it will spend almost $2 billion to try to squeeze more electricity out of the nation’s aging and stressed power grid. President Donald Trump's administration is stepping up efforts to avoid blackouts amid skyrocketing energy demand spurred by artificial intelligence. The money will go toward 31 projects across 26 states that are expected to produce more than 23 gigawatts of additional electricity capacity — enough to power 16 million homes. Energy Secretary Chris Wright spoke about the grant program Thursday in Allentown, Pennsylvania. Recipients include utilities, cooperatives and four state agencies. The state agencies — in Colorado, Indiana, Ohio and Oklahoma — were the biggest recipients, drawing at a total of $810 million.",
-            "content": "ALLENTOWN, Pa. (AP) — The Energy Department said Thursday that it will spend almost $2 billion to try to squeeze more electricity out of the nation's aging and stressed power grid, as President Donald Trump's administration steps up efforts to avoid ... [441 chars]",
-            "url": "https://www.ajc.com/news/2026/09/energy-department-will-spend-2-billion-to-squeeze-more-electricity-from-the-aging-power-grid/",
-            "image": "https://images.ajc.com/resizer/v2/Z7C5OXJXVZAI3EHDFA7N7VRDKA.jpg?auth=32bf45d8d7ecdbd5ee7ae7062e86f4735dddf667519c6362e876626993673b92&width=1200&height=630&smart=true",
-            "publishedAt": "2026-09-25T00:52:23Z",
+            "id": "7e8ed782dc06b1f28be5f3faac501e12",
+            "title": "OpenAI AI Agents Went Rogue, Tried To Hack US Government Education, Commerce, SEC Websites",
+            "description": "OpenAI confirmed that its AI agents interacted with US government websites in unusual ways, including a failed attempt to access the Education Department’s civil rights website. , US News, Times Now",
+            "content": "OpenAI’s artificial intelligence systems interacted with the websites of the US Education Department, Commerce Department and Securities and Exchange Commission (SEC) in unusual ways this summer, including an attempted hack of one government site.\nOp... [2531 chars]",
+            "url": "https://www.timesnownews.com/world/us/us-news/openai-ai-agents-went-rogue-tried-to-hack-us-governemnt-education-commerce-sec-websites-article-156227114",
+            "image": "https://images.timesnownews.com/thumb/msid-156227114,thumbsize-2003435,width-1280,height-720,resizemode-75/156227114.jpg",
+            "publishedAt": "2026-09-26T00:13:11Z",
             "lang": "en",
             "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "6bd4850c5f3ee1f9f47d03ecdb2a6d4c",
+            "title": "TRUST AS THE NEW COMPETITIVE ADVANTAGE IN MALAYSIA'S AI ECONOMY",
+            "description": "MALAYSIAN organisations are moving quickly to put artificial intelligence (AI) to work.",
+            "content": "MALAYSIAN organisations are moving quickly to put artificial intelligence (AI) to work.\nBoards are tracking use cases, productivity gains and time saved. One question receives far less attention: who is accountable when an AI system exposes sensitive... [7191 chars]",
+            "url": "https://www.thestar.com.my/starpicks/2026/09/26/trust-as-the-new-competitive-advantage-in-malaysia039s-ai-economy",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/26/4130581.jpg",
+            "publishedAt": "2026-09-26T00:13:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "319ed815ac1475a4dba12dca37416373",
+            "title": "Walmart CEO has a message for shoppers who are worried AI will make prices personal",
+            "description": "Walmart CEO John Furner promises income, shopping history, and urgency won't affect prices, and Sparky and digital shelf labels won't be used against shoppers amid regulatory scrutiny.",
+            "content": "If you worry AI could eventually make your Walmart bill depend on who you are, or charge you more than the shopper next to you, Walmart wants to clear that up. CEO John Furner says Walmart will not use personal information to set different prices for... [2042 chars]",
+            "url": "https://www.digitaltrends.com/computing/walmart-ceo-has-a-message-for-shoppers-who-are-worried-ai-will-make-prices-personal/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/09/walmart-store.jpg?resize=1200%2C630",
+            "publishedAt": "2026-09-26T00:02:53Z",
+            "lang": "en",
+            "source": {
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
                 "country": "us"
+            }
+        },
+        {
+            "id": "fbd84234bea5a7860a4b14e6c6c49593",
+            "title": "Maple Leafs Face 'Cringe' Backlash After Latest Social Media Post",
+            "description": "Maple Leafs fans called the team's latest AI-generated social media video \"cringe.\" Some asked if the AI directive came from higher-ups.",
+            "content": "The Toronto Maple Leafs’ social media team surely didn’t expect the reaction they got after posting their latest video on X, with the caption “That’s just who we are.”\nThe Leafs used AI to produce a brief video of fans at Scotiabank Arena, with a tra... [2018 chars]",
+            "url": "https://heavy.com/sports/nhl/toronto-maple-leafs/maple-leafs-face-cringe-backlash-after-latest-social-media-post/",
+            "image": "https://heavy.com/wp-content/uploads/2026/09/ottawa-senators-v-toronto-maple-leafs-toronto-on-october-02-toronto.jpg?quality=65&strip=all",
+            "publishedAt": "2026-09-26T00:01:59Z",
+            "lang": "en",
+            "source": {
+                "id": "cfda09234da4b4ff42f8876ac13e4be2",
+                "name": "Heavy.",
+                "url": "https://heavy.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "4c55cd46a60c18efb54f361e436b0e30",
+            "title": "Azul Launches AI Assistant That Tells IT and Security Teams Where Java Licensing and Security Risk Is Hiding",
+            "description": "As AI shrinks exploit timelines from weeks to hours, Azul Intelligence Cloud lets teams query runtime data in plain language to identify unpatched Java — before it becomes an...",
+            "content": "As AI shrinks exploit timelines from weeks to hours, Azul Intelligence Cloud lets teams query runtime data in plain language to identify unpatched Java — before it becomes an incident\nAzul, the trusted leader in enterprise Java for today’s AI-first w... [6993 chars]",
+            "url": "https://itwire.com/business-it-news/data/azul-launches-ai-assistant-that-tells-it-and-security-teams-where-java-licensing-and-security-risk-is-hiding",
+            "image": "https://media.itwire.com/2026/09/25/azul-launches-ai-assistant-that-tells-it-and-security-teams-where-java-licensing-and-security-risk-is-hiding-0068bf4b3861.jpg",
+            "publishedAt": "2026-09-25T23:55:34Z",
+            "lang": "en",
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
             }
         }
     ]
