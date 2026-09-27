@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 452398,
+    "totalArticles": 453068,
     "articles": [
         {
-            "id": "6abebf47a18d2251b8a408cef1187901",
-            "title": "Should Canadian Investors Buy QQQ Stock?",
-            "description": "Invesco QQQ ETF (NASDAQ:QQQ) is a popular growthy, tech-savvy option for Canadians looking to boost their exposure to U.S. technology and AI names.",
-            "content": "With the ongoing AI boom continuing to dominate the headlines on both sides of the border, many Canadian investors might be wondering if it’s still worthwhile to top up their exposure to the U.S. tech sector. Of course, the tech-heavy Nasdaq 100 migh... [2964 chars]",
-            "url": "https://www.fool.ca/2026/09/25/should-canadian-investors-buy-qqq-stock/",
-            "image": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-2151613981-1200x675.jpg",
-            "publishedAt": "2026-09-26T00:30:00Z",
+            "id": "1ab8b70ddce02e86e7c8f157b9d0be36",
+            "title": "Man Shares Mother Asking AI For Help, Calls Gemini \"The Son She Wanted\"",
+            "description": "In the clip, Mohit's mother asks Gemini how to open WhatsApp. The AI tells her to use the search option at the bottom of the screen and type WhatsApp.",
+            "content": "A video showing a woman asking Gemini for help with posting a WhatsApp status has gone viral online. The AI guides her through each step, from opening WhatsApp to selecting a photo and uploading it.\nThe video was shared by Instagram user Mohit Sharma... [1235 chars]",
+            "url": "https://www.ndtv.com/offbeat/man-shares-mother-asking-ai-for-help-calls-gemini-the-son-she-wanted-12103579",
+            "image": "https://c.ndtvimg.com/2026-09/p5mnih4k_viral-video_625x300_27_September_26.jpeg",
+            "publishedAt": "2026-09-27T01:21:36Z",
             "lang": "en",
             "source": {
-                "id": "19d1f502a5658ccbfaaa50f77b89993f",
-                "name": "The Motley Fool Canada",
-                "url": "https://www.fool.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "c5545f373189182c1ec917f206a762a8",
-            "title": "Hotel Des Arts Saigon Increases RevPAR by 20% with IDeaS G3 RMS",
-            "description": "IDeaS, the world’s leading provider of AI-powered hospitality revenue management software, today announced that Hotel Des Arts Saigon has achieved a 21.6% increase in revenue...",
-            "content": "COMPANY NEWS: IDeaS, the world’s leading provider of AI-powered hospitality revenue management software, today announced that Hotel Des Arts Saigon has achieved a 21.6% increase in revenue per available room (RevPAR) and a 13.5% improvement in Revenu... [2917 chars]",
-            "url": "https://itwire.com/guest-articles/company-news/hotel-des-arts-saigon-increases-revpar-by-20-with-ideas-g3-rms",
-            "image": "https://media.itwire.com/2026/09/26/hotel-des-arts-saigon-increases-revpar-by-20-with-ideas-g3-rms-da21cd35ab7c.webp",
-            "publishedAt": "2026-09-26T00:29:51Z",
-            "lang": "en",
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "6594865f7d48b132eba11dcb8cf1e787",
-            "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-            "description": "Crusoe, a Denver-based AI data center startup that recently raised $3.9 billion, has ended plans to use a new line of stationary power plants developed by",
-            "content": "Crusoe, a Denver-based AI data center startup that recently raised $3.9 billion, has ended plans to use a new line of stationary power plants developed by fellow Denver company Boom Supersonic.\nFounded in 2018 as a bitcoin miner that ran on excess na... [2911 chars]",
-            "url": "https://www.europesays.com/3272896/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/09/Boom_Superpower_Hero_Dec2025.jpg",
-            "publishedAt": "2026-09-26T00:27:17Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "102e7ae492467d6f603e2721b8d64ff8",
-            "title": "This Was Trump’s Big Week to Take Action on AI and All He Did Was Rename It",
-            "description": "\"The only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT,\" wrote Trump.",
-            "content": "After weeks of national discourse about the threat of AI, President Donald Trump had a unique opportunity to influence AI safety globally in recent days. Trump hosted Chinese leader Xi Jinping and tech oligarchs who are building AI, like Elon Musk an... [4179 chars]",
-            "url": "https://gizmodo.com/this-was-trumps-big-week-to-take-action-on-ai-and-all-he-did-was-rename-it-2000817626",
-            "image": "https://gizmodo.com/app/uploads/2026/09/trump-and-xi-2026-1200x675.jpg",
-            "publishedAt": "2026-09-26T00:19:51Z",
-            "lang": "en",
-            "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "6acc529dfee57dfdee554e9b3908d50a",
-            "title": "Leaks Show That Meta's New AI Agent Relied on Real People to Make Calls",
-            "description": "Reports indicate Muse was routing calls the AI was supposedly making to humans in call centers.",
-            "content": "To quote George Santayana, “Those who cannot remember the past are condemned to repeat it.” So why does it so often feel like Big Tech has such a short memory?\nThe latest hiccup comes from Meta. In mid-September, it rolled out a beta test of a featur... [4136 chars]",
-            "url": "https://www.cnet.com/tech/services-and-software/leaks-metas-new-ai-agent-muse-real-people-call-centers/",
-            "image": "https://www.cnet.com/wp-content/uploads/sites/2/Meta-Muse-AI.png",
-            "publishedAt": "2026-09-26T00:13:27Z",
-            "lang": "en",
-            "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "7e8ed782dc06b1f28be5f3faac501e12",
-            "title": "OpenAI AI Agents Went Rogue, Tried To Hack US Government Education, Commerce, SEC Websites",
-            "description": "OpenAI confirmed that its AI agents interacted with US government websites in unusual ways, including a failed attempt to access the Education Department’s civil rights website. , US News, Times Now",
-            "content": "OpenAI’s artificial intelligence systems interacted with the websites of the US Education Department, Commerce Department and Securities and Exchange Commission (SEC) in unusual ways this summer, including an attempted hack of one government site.\nOp... [2531 chars]",
-            "url": "https://www.timesnownews.com/world/us/us-news/openai-ai-agents-went-rogue-tried-to-hack-us-governemnt-education-commerce-sec-websites-article-156227114",
-            "image": "https://images.timesnownews.com/thumb/msid-156227114,thumbsize-2003435,width-1280,height-720,resizemode-75/156227114.jpg",
-            "publishedAt": "2026-09-26T00:13:11Z",
-            "lang": "en",
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
                 "country": "in"
             }
         },
         {
-            "id": "6bd4850c5f3ee1f9f47d03ecdb2a6d4c",
-            "title": "TRUST AS THE NEW COMPETITIVE ADVANTAGE IN MALAYSIA'S AI ECONOMY",
-            "description": "MALAYSIAN organisations are moving quickly to put artificial intelligence (AI) to work.",
-            "content": "MALAYSIAN organisations are moving quickly to put artificial intelligence (AI) to work.\nBoards are tracking use cases, productivity gains and time saved. One question receives far less attention: who is accountable when an AI system exposes sensitive... [7191 chars]",
-            "url": "https://www.thestar.com.my/starpicks/2026/09/26/trust-as-the-new-competitive-advantage-in-malaysia039s-ai-economy",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/09/26/4130581.jpg",
-            "publishedAt": "2026-09-26T00:13:00Z",
+            "id": "0f9cc02c1990df719883891b839a0ffd",
+            "title": "Singapore urges UN convention on AI risks",
+            "description": "Singapore urges UN convention on AI risks - United Nations, Sep 27 Singapore’s Foreign Minister Vivian Balakrishnan has called for talks on a United Nations convention ... Get Latest News on International only on lokmattimes.com",
+            "content": "United Nations, Sep 27 Singapore’s Foreign Minister Vivian Balakrishnan has called for talks on a United Nations convention on artificial intelligence, warning that governments face serious risks from autonomous systems even as they seek the technolo... [2944 chars]",
+            "url": "https://www.lokmattimes.com/international/singapore-urges-un-convention-on-ai-risks/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609273956395_202609.jpg",
+            "publishedAt": "2026-09-27T01:20:11Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
             }
         },
         {
-            "id": "319ed815ac1475a4dba12dca37416373",
-            "title": "Walmart CEO has a message for shoppers who are worried AI will make prices personal",
-            "description": "Walmart CEO John Furner promises income, shopping history, and urgency won't affect prices, and Sparky and digital shelf labels won't be used against shoppers amid regulatory scrutiny.",
-            "content": "If you worry AI could eventually make your Walmart bill depend on who you are, or charge you more than the shopper next to you, Walmart wants to clear that up. CEO John Furner says Walmart will not use personal information to set different prices for... [2042 chars]",
-            "url": "https://www.digitaltrends.com/computing/walmart-ceo-has-a-message-for-shoppers-who-are-worried-ai-will-make-prices-personal/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/09/walmart-store.jpg?resize=1200%2C630",
-            "publishedAt": "2026-09-26T00:02:53Z",
+            "id": "f26d64fab2244fdf724d2f27ee116bb7",
+            "title": "Anthony Albanese and Donald Trump divided over AI safeguards at UN General Assembly",
+            "description": "Anthony Albanese’s encounter with Donald Trump may have been brief, but a major divide emerged between the leaders over the future of AI.",
+            "content": "Anthony Albanese’s face-to-face meeting with Donald Trump in New York during the UN General Assembly was fleeting.\nThe prime minister was at the UN headquarters when the US president gave an almost 40-minute speech in which he threatened to annihilat... [4932 chars]",
+            "url": "https://www.perthnow.com.au/news/politics/federal-politics/anthony-albanese-and-donald-trump-divided-over-ai-safeguards-at-un-general-assembly-c-22931992",
+            "image": "https://images.perthnow.com.au/publication/C-22931992/8dcb7c413ce55631097a8a5404ca2c34cbd7b60e-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-09-27T01:16:54Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
-                "country": "us"
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
             }
         },
         {
-            "id": "fbd84234bea5a7860a4b14e6c6c49593",
-            "title": "Maple Leafs Face 'Cringe' Backlash After Latest Social Media Post",
-            "description": "Maple Leafs fans called the team's latest AI-generated social media video \"cringe.\" Some asked if the AI directive came from higher-ups.",
-            "content": "The Toronto Maple Leafs’ social media team surely didn’t expect the reaction they got after posting their latest video on X, with the caption “That’s just who we are.”\nThe Leafs used AI to produce a brief video of fans at Scotiabank Arena, with a tra... [2018 chars]",
-            "url": "https://heavy.com/sports/nhl/toronto-maple-leafs/maple-leafs-face-cringe-backlash-after-latest-social-media-post/",
-            "image": "https://heavy.com/wp-content/uploads/2026/09/ottawa-senators-v-toronto-maple-leafs-toronto-on-october-02-toronto.jpg?quality=65&strip=all",
-            "publishedAt": "2026-09-26T00:01:59Z",
+            "id": "5002d3e95a6e6733bc9abc8be8dbfa77",
+            "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+            "description": "Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected ways",
+            "content": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\nThe decision to halt development came just hours after the company disclosed Friday that it was reviewing several incidents fro... [2832 chars]",
+            "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+            "image": "https://i.guim.co.uk/img/media/8509a811ce07903e33ca86e3a3e0f15660d50e89/960_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ed38a62087a7a05447efc52f9d82803",
+            "publishedAt": "2026-09-27T01:10:21Z",
             "lang": "en",
             "source": {
-                "id": "cfda09234da4b4ff42f8876ac13e4be2",
-                "name": "Heavy.",
-                "url": "https://heavy.com",
-                "country": "us"
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
             }
         },
         {
-            "id": "4c55cd46a60c18efb54f361e436b0e30",
-            "title": "Azul Launches AI Assistant That Tells IT and Security Teams Where Java Licensing and Security Risk Is Hiding",
-            "description": "As AI shrinks exploit timelines from weeks to hours, Azul Intelligence Cloud lets teams query runtime data in plain language to identify unpatched Java — before it becomes an...",
-            "content": "As AI shrinks exploit timelines from weeks to hours, Azul Intelligence Cloud lets teams query runtime data in plain language to identify unpatched Java — before it becomes an incident\nAzul, the trusted leader in enterprise Java for today’s AI-first w... [6993 chars]",
-            "url": "https://itwire.com/business-it-news/data/azul-launches-ai-assistant-that-tells-it-and-security-teams-where-java-licensing-and-security-risk-is-hiding",
-            "image": "https://media.itwire.com/2026/09/25/azul-launches-ai-assistant-that-tells-it-and-security-teams-where-java-licensing-and-security-risk-is-hiding-0068bf4b3861.jpg",
-            "publishedAt": "2026-09-25T23:55:34Z",
+            "id": "762331f705df7e0c68fab4a3b57453c4",
+            "title": "OpenAI pauses training of latest AI models",
+            "description": "OpenAI has halted development of its latest AI models after it disclosed its agents scouring US government website acted in unexpected ways.",
+            "content": "OpenAI has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\nThe decision to halt development came just hours after the US company disclosed on Friday that it was reviewing several incidents in wh... [2276 chars]",
+            "url": "https://www.perthnow.com.au/news/technology/openai-pauses-training-of-latest-ai-models-c-22932617",
+            "image": "https://images.perthnow.com.au/publication/C-22932617/088f96b653ca8981989cd1f3b9af035afaaa5419-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-09-27T01:09:07Z",
             "lang": "en",
             "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "139e0759228446a57043da3720f8deff",
+            "title": "OpenAI pauses training of latest AI models",
+            "description": "OpenAI has halted development of its latest AI models after it disclosed its agents scouring US government website...",
+            "content": "OpenAI has paused work involving its top artificial intelligence models. Photo: AP PHOTO\nOpenAI has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\nSubscribe now for unlimited access.\nor signup ... [4205 chars]",
+            "url": "https://www.canberratimes.com.au/story/9358058/openai-pauses-training-of-latest-ai-models/",
+            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/a384dfa6-e21f-4559-a714-a9cba1b01be8.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-09-27T01:07:57Z",
+            "lang": "en",
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "85927d812ed414ef6a2378710519673b",
+            "title": "Guitar gets challan for helmet violation, thanks to AI camera",
+            "description": "The system subsequently detected a helmet violation and generated an online challan against the scooter.",
+            "content": "BENGALURU: An AI-powered traffic camera in the city has reportedly mistaken a guitar strapped to a scooter rider’s back for a pillion rider and issued a challan of Rs 500 for a helmet violation, highlighting concerns over errors in automated traffic ... [1210 chars]",
+            "url": "https://www.newindianexpress.com/cities/bengaluru/2026/Sep/27/guitar-gets-challan-for-helmet-violation-thanks-to-ai-camera",
+            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-27%2Fo0k5hnct%2FNew-Proje-ct.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-09-27T01:06:54Z",
+            "lang": "en",
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "f740d11d3a66b29d8d6258ab48a1fb5e",
+            "title": "Guitar gets challan for helmet violation, thanks to AI camera",
+            "description": "The Bengaluru Traffic Police, which took note of the incident, have reportedly directed officials to contact Dutta and examine the matter.",
+            "content": "BENGALURU: An AI-powered traffic camera in the city has reportedly mistaken a guitar strapped to a scooter rider’s back for a pillion rider and issued a challan of Rs 500 for a helmet violation, highlighting concerns over errors in automated traffic ... [1685 chars]",
+            "url": "https://www.newindianexpress.com/thesundaystandard/2026/Sep/27/guitar-gets-challan-for-helmet-violation-thanks-to-ai-camera",
+            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-26%2Fr5zl3nzm%2FGuitar-gets-challan.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-09-27T01:06:54Z",
+            "lang": "en",
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "51682bfe0c973d7b75e650067cded745",
+            "title": "From Gandhi's relevance to India's AI race",
+            "description": "Historian Ramachandra Guha draws parallels between Gandhian principles and contemporary activism, highlighting the role of humor in protests.",
+            "content": "“GANDHI WOULD HAVE been proud of the Cockroach Janta Party,” said Ramachandra Guha to Special Correspondent Anjuly Mathai. Guha sees the protest as a sign that the Gandhian spirit is still alive and kicking. On October 2, HarperCollins India will rel... [3284 chars]",
+            "url": "https://www.theweek.in/columns/philip-mathew/2026/09/26/from-gandhis-relevance-to-indias-ai-race.html",
+            "image": "https://img.theweek.in/content/dam/week/en/archive/opinion/columns/philip-mathew/images/2026/9/26/3-Gandhi.jpg",
+            "publishedAt": "2026-09-27T01:04:04Z",
+            "lang": "en",
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "8406d9f1a4b60672a2a54c83738998ce",
+            "title": "OpenAI called to inquiry as breach concerns rack up",
+            "description": "Two of the world's biggest AI names have been called to appear at an Australian data centres inquiry...",
+            "content": "Anthony Albanese wants an international response to ensure humans are in charge of AI technology. Photo: Susie Dodds/AAP PHOTOS\nAustralian MPs could haul two of the world's biggest artificial intelligence figures in for questioning after news of a bo... [5503 chars]",
+            "url": "https://www.canberratimes.com.au/story/9357965/openai-called-to-inquiry-as-breach-concerns-rack-up/",
+            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/64a1389a-37bf-4614-b130-bfe0b314a927.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-09-27T01:03:51Z",
+            "lang": "en",
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
                 "country": "au"
             }
         }
