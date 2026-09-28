@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 453068,
+    "totalArticles": 453677,
     "articles": [
         {
-            "id": "1ab8b70ddce02e86e7c8f157b9d0be36",
-            "title": "Man Shares Mother Asking AI For Help, Calls Gemini \"The Son She Wanted\"",
-            "description": "In the clip, Mohit's mother asks Gemini how to open WhatsApp. The AI tells her to use the search option at the bottom of the screen and type WhatsApp.",
-            "content": "A video showing a woman asking Gemini for help with posting a WhatsApp status has gone viral online. The AI guides her through each step, from opening WhatsApp to selecting a photo and uploading it.\nThe video was shared by Instagram user Mohit Sharma... [1235 chars]",
-            "url": "https://www.ndtv.com/offbeat/man-shares-mother-asking-ai-for-help-calls-gemini-the-son-she-wanted-12103579",
-            "image": "https://c.ndtvimg.com/2026-09/p5mnih4k_viral-video_625x300_27_September_26.jpeg",
-            "publishedAt": "2026-09-27T01:21:36Z",
+            "id": "b84f92b02f0953e075ea22371ab035ea",
+            "title": "SAP CEO Sees Historic Growth Opportunity Through AI Products",
+            "description": "SAP CEO Christian Klein sees a historic opportunity for significant growth at his company through new AI products. SAP is currently facing its biggest opportunity for another genuine growth boost,...",
+            "content": "BERLIN/WALLDORF (dpa-AFX) - SAP CEO Christian Klein sees a historic opportunity for significant growth at his company through new AI products. \"SAP is currently facing its biggest opportunity for another genuine growth boost,\" Klein told Deutsche Pre... [2151 chars]",
+            "url": "https://www.marketscreener.com/news/sap-ceo-sees-historic-growth-opportunity-through-ai-products-ce785adcdb8af420",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-09-28T04:08:16Z",
             "lang": "en",
             "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "67d58254e931f416416b6a98f1f0d57d",
+            "title": "Anthropic, OpenAI sound the alarm on AI safety and seek to shape how it's controlled",
+            "description": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
+            "content": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?\nThe answer may lie in the companies' efforts to score political goals ahead of the US midterm elections ... [7530 chars]",
+            "url": "https://www.tribuneindia.com/news/science-technology/anthropic-openai-sound-the-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg0NTkwZmYwLWJhZjEtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+            "publishedAt": "2026-09-28T04:02:48Z",
+            "lang": "en",
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
                 "country": "in"
             }
         },
         {
-            "id": "0f9cc02c1990df719883891b839a0ffd",
-            "title": "Singapore urges UN convention on AI risks",
-            "description": "Singapore urges UN convention on AI risks - United Nations, Sep 27 Singapore’s Foreign Minister Vivian Balakrishnan has called for talks on a United Nations convention ... Get Latest News on International only on lokmattimes.com",
-            "content": "United Nations, Sep 27 Singapore’s Foreign Minister Vivian Balakrishnan has called for talks on a United Nations convention on artificial intelligence, warning that governments face serious risks from autonomous systems even as they seek the technolo... [2944 chars]",
-            "url": "https://www.lokmattimes.com/international/singapore-urges-un-convention-on-ai-risks/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609273956395_202609.jpg",
-            "publishedAt": "2026-09-27T01:20:11Z",
+            "id": "f6c0ae5eac2da4a24a864f80e47e6bb8",
+            "title": "AI is stealing from human artistes and replacing them: Vidya Vox",
+            "description": "Singer Vidya Vox was a showstopper recently at the inaugural Chennai Times Fashion Week.",
+            "content": "Vidya describes her new album, Tamil Disco, as \"a departure from what I've done before\".\nSinger Vidya Vox was a showstopper recently at the inaugural Chennai Times Fashion Week. Calling it a \"lovely\" experience, she shares, \"I absolutely loved it. Th... [5620 chars]",
+            "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ai-is-stealing-from-human-artistes-and-replacing-them-vidya-vox/articleshow/134531331.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134531331,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-28T04:02:00Z",
             "lang": "en",
             "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "f26d64fab2244fdf724d2f27ee116bb7",
-            "title": "Anthony Albanese and Donald Trump divided over AI safeguards at UN General Assembly",
-            "description": "Anthony Albanese’s encounter with Donald Trump may have been brief, but a major divide emerged between the leaders over the future of AI.",
-            "content": "Anthony Albanese’s face-to-face meeting with Donald Trump in New York during the UN General Assembly was fleeting.\nThe prime minister was at the UN headquarters when the US president gave an almost 40-minute speech in which he threatened to annihilat... [4932 chars]",
-            "url": "https://www.perthnow.com.au/news/politics/federal-politics/anthony-albanese-and-donald-trump-divided-over-ai-safeguards-at-un-general-assembly-c-22931992",
-            "image": "https://images.perthnow.com.au/publication/C-22931992/8dcb7c413ce55631097a8a5404ca2c34cbd7b60e-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-09-27T01:16:54Z",
+            "id": "ea77be05919fb4bd73856844a07f6ce4",
+            "title": "AI detects signs of aging in blood stem cells from nuclear images",
+            "description": "Aging progressively affects how our bodies function. Among other effects, it reduces the ability of the hematopoietic system—the organs and tissues responsible for producing blood cells—to maintain adequate blood cell production. Understanding and measuring this process is especially important for studying how blood stem cells age and identifying ways to preserve or restore their function.",
+            "content": "Aging progressively affects how our bodies function. Among other effects, it reduces the ability of the hematopoietic system—the organs and tissues responsible for producing blood cells—to maintain adequate blood cell production. Understanding and me... [4714 chars]",
+            "url": "https://medicalxpress.com/news/2026-09-ai-aging-blood-stem-cells.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/2026/ai-detects-signs-of-ag-1.jpg",
+            "publishedAt": "2026-09-28T04:00:01Z",
             "lang": "en",
             "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "5002d3e95a6e6733bc9abc8be8dbfa77",
-            "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-            "description": "Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected ways",
-            "content": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\nThe decision to halt development came just hours after the company disclosed Friday that it was reviewing several incidents fro... [2832 chars]",
-            "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-            "image": "https://i.guim.co.uk/img/media/8509a811ce07903e33ca86e3a3e0f15660d50e89/960_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ed38a62087a7a05447efc52f9d82803",
-            "publishedAt": "2026-09-27T01:10:21Z",
-            "lang": "en",
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
                 "country": "gb"
             }
         },
         {
-            "id": "762331f705df7e0c68fab4a3b57453c4",
-            "title": "OpenAI pauses training of latest AI models",
-            "description": "OpenAI has halted development of its latest AI models after it disclosed its agents scouring US government website acted in unexpected ways.",
-            "content": "OpenAI has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\nThe decision to halt development came just hours after the US company disclosed on Friday that it was reviewing several incidents in wh... [2276 chars]",
-            "url": "https://www.perthnow.com.au/news/technology/openai-pauses-training-of-latest-ai-models-c-22932617",
-            "image": "https://images.perthnow.com.au/publication/C-22932617/088f96b653ca8981989cd1f3b9af035afaaa5419-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-09-27T01:09:07Z",
+            "id": "fffafbef1b4a7b1180c88e4346c9491c",
+            "title": "AI made me a better doctor. It’s made medicine students worse",
+            "description": "Current doctors-to-be may be the most adversely affected generation when it comes to AI. Read more at straitstimes.com.",
+            "content": "I have a confession: AI is making me a better doctor. And I worry that it’s making doctors-in-training worse.\nAmid our recent doom cycle about whether AI will lead to extreme societal harms, a parallel anxiety has taken hold in medicine about whether... [331 chars]",
+            "url": "https://www.straitstimes.com/opinion/ai-made-me-a-better-doctor-its-made-medicine-student-worse",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/527fc160a1fdf2330a303b9033c5136b4209d951ecda004cdd4a30d23b8ed6ce",
+            "publishedAt": "2026-09-28T04:00:00Z",
             "lang": "en",
             "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
             }
         },
         {
-            "id": "139e0759228446a57043da3720f8deff",
-            "title": "OpenAI pauses training of latest AI models",
-            "description": "OpenAI has halted development of its latest AI models after it disclosed its agents scouring US government website...",
-            "content": "OpenAI has paused work involving its top artificial intelligence models. Photo: AP PHOTO\nOpenAI has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\nSubscribe now for unlimited access.\nor signup ... [4205 chars]",
-            "url": "https://www.canberratimes.com.au/story/9358058/openai-pauses-training-of-latest-ai-models/",
-            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/a384dfa6-e21f-4559-a714-a9cba1b01be8.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-09-27T01:07:57Z",
+            "id": "2a75e7c7ad844ce16e9330a8b0d8f7ea",
+            "title": "PR Newswire Launches AEO & GEO Report for AI Brand Visibility in APAC Region",
+            "description": "Brand-level AI visibility intelligence empowers PR, marketing and investor relations teams to actively command their brand presence across the generative search landscape with a single end-to-end amplification platform.",
+            "content": "Brand-level AI visibility intelligence empowers PR, marketing and investor relations teams to actively command their brand presence across the generative search landscape with a single end-to-end amplification platform.\nHONG KONG, Sept. 28, 2026 /PRN... [5099 chars]",
+            "url": "https://www.manilatimes.net/2026/09/28/tmt-newswire/pr-newswire/pr-newswire-launches-aeo-geo-report-for-ai-brand-visibility-in-apac-region/2433774",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/28/1235471.jpg",
+            "publishedAt": "2026-09-28T03:56:02Z",
             "lang": "en",
             "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "85927d812ed414ef6a2378710519673b",
-            "title": "Guitar gets challan for helmet violation, thanks to AI camera",
-            "description": "The system subsequently detected a helmet violation and generated an online challan against the scooter.",
-            "content": "BENGALURU: An AI-powered traffic camera in the city has reportedly mistaken a guitar strapped to a scooter rider’s back for a pillion rider and issued a challan of Rs 500 for a helmet violation, highlighting concerns over errors in automated traffic ... [1210 chars]",
-            "url": "https://www.newindianexpress.com/cities/bengaluru/2026/Sep/27/guitar-gets-challan-for-helmet-violation-thanks-to-ai-camera",
-            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-27%2Fo0k5hnct%2FNew-Proje-ct.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-09-27T01:06:54Z",
+            "id": "ddcb7e0da2ccdd655c5e27477cd19901",
+            "title": "Priority Pass to accelerate travel innovation, backed by the Collinson Group's £500 million growth programme",
+            "description": "The Collinson Group recently announced £350m in new financing, which will accelerate the £500 million growth strategy; reflective of both strong confidence in the Group's performance and its commitment to driving innovation and leadership in airport experiences. A core focus will be acceleration of the digital roadmap, leveraging new data and AI capabilities, and significantly expanding the group's lounge network. TOKYO, Sept. 28, 2026 /PRNewswire/ -- Priority Pass, the world's original and market-leading airport experiences programme, today set out how it will benefit from the Collinson Group's £500 million, five-year investment programme, accelerated by a new £350 million financing facility. A significant proportion of the programme will be directed towards expansion of the group's proprietary lounge network and investment in Priority Pass - continuing to strengthen the latter's core proposition, accelerating the development of digital, AI and data capabilities, and broadening the range of travel services available to clients and travellers.",
+            "content": "The Collinson Group recently announced £350m in new financing, which will accelerate the £500 million growth strategy; reflective of both strong confidence in the Group's performance and its commitment to driving innovation and leadership in airport ... [9080 chars]",
+            "url": "https://www.manilatimes.net/2026/09/28/tmt-newswire/pr-newswire/priority-pass-to-accelerate-travel-innovation-backed-by-the-collinson-groups-500-million-growth-programme/2433772",
+            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=75&f=webp&v=1",
+            "publishedAt": "2026-09-28T03:56:01Z",
             "lang": "en",
             "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "dd00f7b272d87d499d538cfc1ca5eaa1",
+            "title": "FPI outflows from India: Experts say AI gap is not driving foreign investors away - Telegraph India",
+            "description": "Samir Arora and Shankar Sharma point to US market strength, interest rates, geopolitical risks and changing stock preferences as key influences on overseas fund flows",
+            "content": "India’s lack of a major artificial intelligence (AI) play is not the reason foreign portfolio investors (FPIs) have been pulling money out of the country, capital market veterans said at the ICBI Wealth Summit on Saturday.\nSamir Arora, founder and gr... [2676 chars]",
+            "url": "https://www.telegraphindia.com/business/fpi-outflows-from-india-experts-say-ai-gap-is-not-driving-foreign-investors-away-prnt/cid/2182013",
+            "image": "https://assets.telegraphindia.com/telegraph/2024/Feb/1707045014_1685326602_fpi.jpg",
+            "publishedAt": "2026-09-28T03:52:35Z",
+            "lang": "en",
+            "source": {
+                "id": "93a4f054e09bde095cda5265e575a952",
+                "name": "Telegraph India",
+                "url": "https://www.telegraphindia.com",
                 "country": "in"
             }
         },
         {
-            "id": "f740d11d3a66b29d8d6258ab48a1fb5e",
-            "title": "Guitar gets challan for helmet violation, thanks to AI camera",
-            "description": "The Bengaluru Traffic Police, which took note of the incident, have reportedly directed officials to contact Dutta and examine the matter.",
-            "content": "BENGALURU: An AI-powered traffic camera in the city has reportedly mistaken a guitar strapped to a scooter rider’s back for a pillion rider and issued a challan of Rs 500 for a helmet violation, highlighting concerns over errors in automated traffic ... [1685 chars]",
-            "url": "https://www.newindianexpress.com/thesundaystandard/2026/Sep/27/guitar-gets-challan-for-helmet-violation-thanks-to-ai-camera",
-            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-26%2Fr5zl3nzm%2FGuitar-gets-challan.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-09-27T01:06:54Z",
+            "id": "e33845e53754f1ad417c9fa71734f0f3",
+            "title": "Global funds end underweight position on China after four years",
+            "description": "Global fund managers are returning to Chinese stocks, drawn by AI prospects and favorable valuations. Funds are ending a four-year underweight run, with $562 bi",
+            "content": "Global fund managers are ending a four-year retreat from Chinese stocks, moving to a \"benchmark-neutral\" weighting. This shift, driven by AI prospects and favorable valuations, indicates selling press\nBy Bloomberg\nGlobal fund managers are dialling ba... [2632 chars]",
+            "url": "https://www.cnbctv18.com/market/global-funds-end-underweight-position-on-china-after-four-years-19999648.htm",
+            "image": "https://images.cnbctv18.com/uploads/2026/08/china-flag-2026-08-b98caf2b33db640cdedaa1050a9060f9.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-09-28T03:51:35Z",
             "lang": "en",
             "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
                 "country": "in"
             }
         },
         {
-            "id": "51682bfe0c973d7b75e650067cded745",
-            "title": "From Gandhi's relevance to India's AI race",
-            "description": "Historian Ramachandra Guha draws parallels between Gandhian principles and contemporary activism, highlighting the role of humor in protests.",
-            "content": "“GANDHI WOULD HAVE been proud of the Cockroach Janta Party,” said Ramachandra Guha to Special Correspondent Anjuly Mathai. Guha sees the protest as a sign that the Gandhian spirit is still alive and kicking. On October 2, HarperCollins India will rel... [3284 chars]",
-            "url": "https://www.theweek.in/columns/philip-mathew/2026/09/26/from-gandhis-relevance-to-indias-ai-race.html",
-            "image": "https://img.theweek.in/content/dam/week/en/archive/opinion/columns/philip-mathew/images/2026/9/26/3-Gandhi.jpg",
-            "publishedAt": "2026-09-27T01:04:04Z",
+            "id": "f848295bbe16a7f4dc6c15a93546056e",
+            "title": "OpenAI AI agents bombarded the United Nations with aggressive tactics to extract data",
+            "description": "OpenAI's AI agents hit a UN website more than 16,000 times and used aggressive tricks to grab data. Here's what happened and why it's part of a worrying pattern.",
+            "content": "OpenAI’s AI agents have been making headlines for all the wrong reasons lately. Its models have been hacking businesses and government websites, with the United Nations website becoming their latest target.\nAccording to a report by The Wall Street Jo... [2219 chars]",
+            "url": "https://www.digitaltrends.com/computing/openai-ai-agents-bombarded-the-united-nations-with-aggressive-tactics-to-extract-data/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/09/OpenAI.jpg?resize=1200%2C630",
+            "publishedAt": "2026-09-28T03:49:20Z",
             "lang": "en",
             "source": {
-                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
-                "name": "THE WEEK",
-                "url": "https://www.theweek.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "8406d9f1a4b60672a2a54c83738998ce",
-            "title": "OpenAI called to inquiry as breach concerns rack up",
-            "description": "Two of the world's biggest AI names have been called to appear at an Australian data centres inquiry...",
-            "content": "Anthony Albanese wants an international response to ensure humans are in charge of AI technology. Photo: Susie Dodds/AAP PHOTOS\nAustralian MPs could haul two of the world's biggest artificial intelligence figures in for questioning after news of a bo... [5503 chars]",
-            "url": "https://www.canberratimes.com.au/story/9357965/openai-called-to-inquiry-as-breach-concerns-rack-up/",
-            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/64a1389a-37bf-4614-b130-bfe0b314a927.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-09-27T01:03:51Z",
-            "lang": "en",
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
+                "country": "us"
             }
         }
     ]
