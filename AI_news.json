@@ -4,48 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 453677,
+    "totalArticles": 454995,
     "articles": [
         {
-            "id": "b84f92b02f0953e075ea22371ab035ea",
-            "title": "SAP CEO Sees Historic Growth Opportunity Through AI Products",
-            "description": "SAP CEO Christian Klein sees a historic opportunity for significant growth at his company through new AI products. SAP is currently facing its biggest opportunity for another genuine growth boost,...",
-            "content": "BERLIN/WALLDORF (dpa-AFX) - SAP CEO Christian Klein sees a historic opportunity for significant growth at his company through new AI products. \"SAP is currently facing its biggest opportunity for another genuine growth boost,\" Klein told Deutsche Pre... [2151 chars]",
-            "url": "https://www.marketscreener.com/news/sap-ceo-sees-historic-growth-opportunity-through-ai-products-ce785adcdb8af420",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-09-28T04:08:16Z",
+            "id": "7a6658e9da54f8f30c407cb7dd8bd659",
+            "title": "AI May Pose \"Existential Risks To Humanity\": Anthropic In IPO Filing",
+            "description": "The company, which has positioned itself as a safety-first AI lab, devoted 80 pages of the 261-page main body of its prospectus to laying out risk factors.",
+            "content": "Washington:\nAnthropic plans to caution potential investors in its IPO that advanced AI could pose \"catastrophic or existential risks to humanity,\" an extraordinary warning by a company seeking to profit from the same technology.\nThe company's IPO pro... [3822 chars]",
+            "url": "https://www.ndtv.com/artificial-intelligence/ai-may-pose-existential-risks-to-humanity-anthropic-in-ipo-filing-12112220",
+            "image": "https://c.ndtvimg.com/2026-09/aov1ct3c_anthropic-ipo-reuters_625x300_29_September_26.jpeg",
+            "publishedAt": "2026-09-29T02:21:26Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "67d58254e931f416416b6a98f1f0d57d",
-            "title": "Anthropic, OpenAI sound the alarm on AI safety and seek to shape how it's controlled",
-            "description": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
-            "content": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?\nThe answer may lie in the companies' efforts to score political goals ahead of the US midterm elections ... [7530 chars]",
-            "url": "https://www.tribuneindia.com/news/science-technology/anthropic-openai-sound-the-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg0NTkwZmYwLWJhZjEtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-            "publishedAt": "2026-09-28T04:02:48Z",
-            "lang": "en",
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
                 "country": "in"
             }
         },
         {
-            "id": "f6c0ae5eac2da4a24a864f80e47e6bb8",
-            "title": "AI is stealing from human artistes and replacing them: Vidya Vox",
-            "description": "Singer Vidya Vox was a showstopper recently at the inaugural Chennai Times Fashion Week.",
-            "content": "Vidya describes her new album, Tamil Disco, as \"a departure from what I've done before\".\nSinger Vidya Vox was a showstopper recently at the inaugural Chennai Times Fashion Week. Calling it a \"lovely\" experience, she shares, \"I absolutely loved it. Th... [5620 chars]",
-            "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ai-is-stealing-from-human-artistes-and-replacing-them-vidya-vox/articleshow/134531331.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134531331,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-28T04:02:00Z",
+            "id": "b984e290144fd129fdf2099f83745cb0",
+            "title": "He built an AI startup after leaving college; how 19-year-old Dhravya Shah raised $3 million for Supermemory",
+            "description": "At a time when many engineering students focus on placements and completing their degrees, Dhravya Shah, a young Indian entrepreneur, has taken a",
+            "content": "19-year-old Dhravya Shah builds Supermemory after unconventional path into AI. (Photo: LinkedIn)\nAt a time when many engineering students focus on placements and completing their degrees, Dhravya Shah, a young Indian entrepreneur, has taken a differe... [3302 chars]",
+            "url": "https://timesofindia.indiatimes.com/education/news/he-built-an-ai-startup-after-leaving-college-how-19-year-old-dhravya-shah-raised-3-million-for-supermemory/articleshow/134554100.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134554159,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-29T02:21:00Z",
             "lang": "en",
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -55,93 +39,93 @@
             }
         },
         {
-            "id": "ea77be05919fb4bd73856844a07f6ce4",
-            "title": "AI detects signs of aging in blood stem cells from nuclear images",
-            "description": "Aging progressively affects how our bodies function. Among other effects, it reduces the ability of the hematopoietic system—the organs and tissues responsible for producing blood cells—to maintain adequate blood cell production. Understanding and measuring this process is especially important for studying how blood stem cells age and identifying ways to preserve or restore their function.",
-            "content": "Aging progressively affects how our bodies function. Among other effects, it reduces the ability of the hematopoietic system—the organs and tissues responsible for producing blood cells—to maintain adequate blood cell production. Understanding and me... [4714 chars]",
-            "url": "https://medicalxpress.com/news/2026-09-ai-aging-blood-stem-cells.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/2026/ai-detects-signs-of-ag-1.jpg",
-            "publishedAt": "2026-09-28T04:00:01Z",
+            "id": "be68701a2818be1c6e62caedf8074351",
+            "title": "OpenAI scraps new AI model release over safety concerns",
+            "description": "OpenAI says it is delaying the release of a new artificial intelligence model out of security concerns voiced by its researchers.",
+            "content": "OpenAI has scrapped the release of GPT-6.1 Astra, a next-generation AI model planned for an October debut, after internal testing found the system did not meet the company's safety and alignment standards.\nOpenAI chief executive Sam Altman and rival ... [1681 chars]",
+            "url": "https://www.perthnow.com.au/news/technology/openai-scraps-new-ai-model-release-over-safety-concerns-c-22940930",
+            "image": "https://images.perthnow.com.au/publication/C-22940930/19db82aecda18b01d4aac23a93a9f6611a1c5e5b-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-09-29T02:20:47Z",
             "lang": "en",
             "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
             }
         },
         {
-            "id": "fffafbef1b4a7b1180c88e4346c9491c",
-            "title": "AI made me a better doctor. It’s made medicine students worse",
-            "description": "Current doctors-to-be may be the most adversely affected generation when it comes to AI. Read more at straitstimes.com.",
-            "content": "I have a confession: AI is making me a better doctor. And I worry that it’s making doctors-in-training worse.\nAmid our recent doom cycle about whether AI will lead to extreme societal harms, a parallel anxiety has taken hold in medicine about whether... [331 chars]",
-            "url": "https://www.straitstimes.com/opinion/ai-made-me-a-better-doctor-its-made-medicine-student-worse",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/527fc160a1fdf2330a303b9033c5136b4209d951ecda004cdd4a30d23b8ed6ce",
-            "publishedAt": "2026-09-28T04:00:00Z",
+            "id": "24b67a2ce96742e3ae0d8c2a80616e74",
+            "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
+            "description": "But the cost to get there will be staggering. Anthropic reported a net loss of $42 billion in 2025, and plans to spend $518 billion on cloud, computing and infrastructure obligations in coming years, according to the prospectus.",
+            "content": "Synopsis\nBut the cost to get there will be staggering. Anthropic reported a net loss of $42 billion in 2025, and plans to spend $518 billion on cloud, computing and infrastructure obligations in coming years, according to the prospectus.\nListen to th... [5294 chars]",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs/articleshow/134554130.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-414301,resizemode-75,msid-134554130/tech/artificial-intelligence/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs.jpg",
+            "publishedAt": "2026-09-29T02:19:53Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "2a75e7c7ad844ce16e9330a8b0d8f7ea",
-            "title": "PR Newswire Launches AEO & GEO Report for AI Brand Visibility in APAC Region",
-            "description": "Brand-level AI visibility intelligence empowers PR, marketing and investor relations teams to actively command their brand presence across the generative search landscape with a single end-to-end amplification platform.",
-            "content": "Brand-level AI visibility intelligence empowers PR, marketing and investor relations teams to actively command their brand presence across the generative search landscape with a single end-to-end amplification platform.\nHONG KONG, Sept. 28, 2026 /PRN... [5099 chars]",
-            "url": "https://www.manilatimes.net/2026/09/28/tmt-newswire/pr-newswire/pr-newswire-launches-aeo-geo-report-for-ai-brand-visibility-in-apac-region/2433774",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/28/1235471.jpg",
-            "publishedAt": "2026-09-28T03:56:02Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "ddcb7e0da2ccdd655c5e27477cd19901",
-            "title": "Priority Pass to accelerate travel innovation, backed by the Collinson Group's £500 million growth programme",
-            "description": "The Collinson Group recently announced £350m in new financing, which will accelerate the £500 million growth strategy; reflective of both strong confidence in the Group's performance and its commitment to driving innovation and leadership in airport experiences. A core focus will be acceleration of the digital roadmap, leveraging new data and AI capabilities, and significantly expanding the group's lounge network. TOKYO, Sept. 28, 2026 /PRNewswire/ -- Priority Pass, the world's original and market-leading airport experiences programme, today set out how it will benefit from the Collinson Group's £500 million, five-year investment programme, accelerated by a new £350 million financing facility. A significant proportion of the programme will be directed towards expansion of the group's proprietary lounge network and investment in Priority Pass - continuing to strengthen the latter's core proposition, accelerating the development of digital, AI and data capabilities, and broadening the range of travel services available to clients and travellers.",
-            "content": "The Collinson Group recently announced £350m in new financing, which will accelerate the £500 million growth strategy; reflective of both strong confidence in the Group's performance and its commitment to driving innovation and leadership in airport ... [9080 chars]",
-            "url": "https://www.manilatimes.net/2026/09/28/tmt-newswire/pr-newswire/priority-pass-to-accelerate-travel-innovation-backed-by-the-collinson-groups-500-million-growth-programme/2433772",
-            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=75&f=webp&v=1",
-            "publishedAt": "2026-09-28T03:56:01Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "dd00f7b272d87d499d538cfc1ca5eaa1",
-            "title": "FPI outflows from India: Experts say AI gap is not driving foreign investors away - Telegraph India",
-            "description": "Samir Arora and Shankar Sharma point to US market strength, interest rates, geopolitical risks and changing stock preferences as key influences on overseas fund flows",
-            "content": "India’s lack of a major artificial intelligence (AI) play is not the reason foreign portfolio investors (FPIs) have been pulling money out of the country, capital market veterans said at the ICBI Wealth Summit on Saturday.\nSamir Arora, founder and gr... [2676 chars]",
-            "url": "https://www.telegraphindia.com/business/fpi-outflows-from-india-experts-say-ai-gap-is-not-driving-foreign-investors-away-prnt/cid/2182013",
-            "image": "https://assets.telegraphindia.com/telegraph/2024/Feb/1707045014_1685326602_fpi.jpg",
-            "publishedAt": "2026-09-28T03:52:35Z",
-            "lang": "en",
-            "source": {
-                "id": "93a4f054e09bde095cda5265e575a952",
-                "name": "Telegraph India",
-                "url": "https://www.telegraphindia.com",
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "e33845e53754f1ad417c9fa71734f0f3",
-            "title": "Global funds end underweight position on China after four years",
-            "description": "Global fund managers are returning to Chinese stocks, drawn by AI prospects and favorable valuations. Funds are ending a four-year underweight run, with $562 bi",
-            "content": "Global fund managers are ending a four-year retreat from Chinese stocks, moving to a \"benchmark-neutral\" weighting. This shift, driven by AI prospects and favorable valuations, indicates selling press\nBy Bloomberg\nGlobal fund managers are dialling ba... [2632 chars]",
-            "url": "https://www.cnbctv18.com/market/global-funds-end-underweight-position-on-china-after-four-years-19999648.htm",
-            "image": "https://images.cnbctv18.com/uploads/2026/08/china-flag-2026-08-b98caf2b33db640cdedaa1050a9060f9.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-09-28T03:51:35Z",
+            "id": "720f35fd4dcac4bddd44b173d41ed6dc",
+            "title": "OpenAI scraps new AI model release over safety concerns",
+            "description": "OpenAI says it is delaying the release of a new artificial intelligence model out of security concerns voiced...",
+            "content": "OpenAI has warned Astra, its flagship GPT-6 model, can at times evade human oversight. Photo: AP PHOTO\nOpenAI has scrapped the release of GPT-6.1 Astra, a next-generation AI model planned for an October debut, ‌after internal testing found the system... [3917 chars]",
+            "url": "https://www.canberratimes.com.au/story/9359369/openai-scraps-new-ai-model-release-over-safety-concerns/",
+            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/17ee583a-4665-4f68-be00-279b83f1fac0.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-09-29T02:18:43Z",
+            "lang": "en",
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "aadc4cd640b9af4afef5daed661a8f88",
+            "title": "AI Bosses Head to White House as Safety Pressure Builds",
+            "description": "The lunch meeting, not yet confirmed by the White House, will feature Meta CEO Mark Zuckerberg, Google CEO Sundar Pichai, and OpenAI President Greg Brockman, according to CNN.",
+            "content": "Washington:President Donald Trump and House Speaker Mike Johnson will convene leading artificial intelligence executives at the White House on Tuesday amid calls from Congress for stronger industry oversight.\nThe lunch meeting, not yet confirmed by t... [3516 chars]",
+            "url": "https://www.deccanchronicle.com/world/ai-bosses-head-to-white-house-as-safety-pressure-builds-1991450",
+            "image": "http://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-80j2cil8mrn578m62me3hd6q47-20160213154816.Medi.jpeg",
+            "publishedAt": "2026-09-29T02:17:14Z",
+            "lang": "en",
+            "source": {
+                "id": "214d496d625fc657723cf4da80cff8ce",
+                "name": "Deccan Chronicle",
+                "url": "https://www.deccanchronicle.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "b0b48f4b62aae88035a19eaeb0086f55",
+            "title": "CSL Partners With Amazon Web Services",
+            "description": "CSL partnered with Amazon Web Services to apply artificial intelligence and cloud technologies in advancing its biopharmaceutical research and clinical development, the biotechnology company said...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/csl-partners-with-amazon-web-services-ce785addd889f42d",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-09-29T02:16:24Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "ce1a0053bbf8a6ab544e5a067f255ca1",
+            "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
+            "description": "Anthropic's IPO prospectus reveals a $42 billion net loss in 2025, massive spending plans, and a potential $2 trillion valuation, highlighting the high stakes i",
+            "content": "Anthropic's IPO prospectus reveals a $42B net loss in 2025 and plans to spend $518B on infrastructure, despite 12-fold revenue growth. The company, valued at over $2T, faces competition from OpenAI an\nBy Reuters\nAnthropic is making a massive bet that... [5104 chars]",
+            "url": "https://www.cnbctv18.com/market/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-20000494.htm",
+            "image": "https://images.cnbctv18.com/uploads/2026/09/bilder-24-2026-09-ad6632573a95f345c3a2b1069e150a98.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-09-29T02:14:43Z",
             "lang": "en",
             "source": {
                 "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
@@ -151,18 +135,34 @@
             }
         },
         {
-            "id": "f848295bbe16a7f4dc6c15a93546056e",
-            "title": "OpenAI AI agents bombarded the United Nations with aggressive tactics to extract data",
-            "description": "OpenAI's AI agents hit a UN website more than 16,000 times and used aggressive tricks to grab data. Here's what happened and why it's part of a worrying pattern.",
-            "content": "OpenAI’s AI agents have been making headlines for all the wrong reasons lately. Its models have been hacking businesses and government websites, with the United Nations website becoming their latest target.\nAccording to a report by The Wall Street Jo... [2219 chars]",
-            "url": "https://www.digitaltrends.com/computing/openai-ai-agents-bombarded-the-united-nations-with-aggressive-tactics-to-extract-data/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/09/OpenAI.jpg?resize=1200%2C630",
-            "publishedAt": "2026-09-28T03:49:20Z",
+            "id": "b53bc8f8d09da0302ee63068713de46d",
+            "title": "Inside Berkeley Liberals' Plot to Take Over the World Through A.I.",
+            "description": "On \"The Alex Marlow Show,\" Theo Wold talked about AI. Wold said, \"A lot of these folks found sort of their philosophical sort of formation at the | Clips",
+            "content": "On “The Alex Marlow Show,” Theo Wold talked about AI.\nWold said, “A lot of these folks found sort of their philosophical sort of formation at the University of California at Berkeley, and that’s where a lot of these, you know, the leading lights in t... [551 chars]",
+            "url": "https://www.breitbart.com/clips/2026/09/29/the-effective-altruism-cult-exposed-inside-berkeley-liberals-plot-to-take-over-the-world-through-a-i/",
+            "image": "https://media.breitbart.com/media/2026/09/Dario-Amodeis-ANthropic-steals-science-640x335.jpg",
+            "publishedAt": "2026-09-29T02:13:31Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "3faa0e1c2337a717e44271b70532140e",
+            "title": "Micron or Nvidia: One AI Stock Is Poised to Outperform, the Other Is Harder to Call, Says Goldman Sachs",
+            "description": "The AI boom has treated Micron (NASDAQ:MU) and Nvidia (NASDAQ:NVDA) quite well, although their gains this year have been anything but comparable...",
+            "content": "The AI boom has treated Micron (NASDAQ:MU) and Nvidia (NASDAQ:NVDA) quite well, although their gains this year have been anything but comparable. Micron is up 269% this year, making its spectacular run difficult to overlook. Meanwhile, Nvidia’s 23% y... [4540 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/micron-or-nvidia-one-ai-stock-is-poised-to-outperform-the-other-is-harder-to-call-says-goldman-sachs-1036580273",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/09/image-2671.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-09-29T02:13:11Z",
+            "lang": "en",
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
                 "country": "us"
             }
         }
