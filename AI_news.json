@@ -4,32 +4,64 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 454995,
+    "totalArticles": 456596,
     "articles": [
         {
-            "id": "7a6658e9da54f8f30c407cb7dd8bd659",
-            "title": "AI May Pose \"Existential Risks To Humanity\": Anthropic In IPO Filing",
-            "description": "The company, which has positioned itself as a safety-first AI lab, devoted 80 pages of the 261-page main body of its prospectus to laying out risk factors.",
-            "content": "Washington:\nAnthropic plans to caution potential investors in its IPO that advanced AI could pose \"catastrophic or existential risks to humanity,\" an extraordinary warning by a company seeking to profit from the same technology.\nThe company's IPO pro... [3822 chars]",
-            "url": "https://www.ndtv.com/artificial-intelligence/ai-may-pose-existential-risks-to-humanity-anthropic-in-ipo-filing-12112220",
-            "image": "https://c.ndtvimg.com/2026-09/aov1ct3c_anthropic-ipo-reuters_625x300_29_September_26.jpeg",
-            "publishedAt": "2026-09-29T02:21:26Z",
+            "id": "7b597f81c1c3fa29c0830cc6579688b9",
+            "title": "The moment Elon Musk lands gaff over Trump renaming AI 'super-intelligence'",
+            "description": "Donald Trump has ordered US government agencies to use the term ‘Super Intelligence’ instead of artificial intelligence",
+            "content": "US President Donald Trump has attempted to rebrand AI as Super Intelligence but if Elon Musk’s recent slip-up is anything to go by then it might not catch on.\nOn Tuesday (29 September), the POTUS signed an executive order declaring that all US execut... [3271 chars]",
+            "url": "https://www.ladbible.com/news/us-news/elon-musk-gaff-donald-trump-renaming-ai-super-intelligence-868447-20260930",
+            "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltf62834001712ba63/6abc6ff8ede04982d759d2a0/musk-trump-ai.jpg",
+            "publishedAt": "2026-09-30T02:18:24Z",
             "lang": "en",
             "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
+                "id": "99e7373ae0bd64167072ee76b85a79f3",
+                "name": "LADbible",
+                "url": "https://www.ladbible.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "e4a6c2c193c39a39e36e030bb566da27",
+            "title": "'If We Do This Right, We Can Win Safely': Tech Czars Commit To Safety Standards For Super-Intelligence In Meet With Trump",
+            "description": "Trump and top tech CEOs sign voluntary safety standards for frontier AI, backing four layers of controls and audits as the US embraces ‘Super Intelligence’.",
+            "content": "Washington: The whose-who of the Tech world were in attendance on Tuesday at the White House as US President convened a meeting to set in place responsibilities for tech companies to follow when it came to development of frontier AI. The first of whi... [4318 chars]",
+            "url": "https://www.republicworld.com/world-news/if-we-do-this-right-we-can-win-safely-tech-czars-commit-to-safety-standards-for-super-intelligence-in-meet-with-trump-2026-09-30-137957",
+            "image": "https://img.republicworld.com/all_images/2026/09/if-we-do-this-right-we-can-win-safely-tech-czars-commit-to-safety-standards-for-super-intelligence-in-meet-with-trump-1790734604972-1280x720.webp",
+            "publishedAt": "2026-09-30T02:16:51Z",
+            "lang": "en",
+            "source": {
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
                 "country": "in"
             }
         },
         {
-            "id": "b984e290144fd129fdf2099f83745cb0",
-            "title": "He built an AI startup after leaving college; how 19-year-old Dhravya Shah raised $3 million for Supermemory",
-            "description": "At a time when many engineering students focus on placements and completing their degrees, Dhravya Shah, a young Indian entrepreneur, has taken a",
-            "content": "19-year-old Dhravya Shah builds Supermemory after unconventional path into AI. (Photo: LinkedIn)\nAt a time when many engineering students focus on placements and completing their degrees, Dhravya Shah, a young Indian entrepreneur, has taken a differe... [3302 chars]",
-            "url": "https://timesofindia.indiatimes.com/education/news/he-built-an-ai-startup-after-leaving-college-how-19-year-old-dhravya-shah-raised-3-million-for-supermemory/articleshow/134554100.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134554159,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-29T02:21:00Z",
+            "id": "6d41aa3f58c944a75841083973bd7ecc",
+            "title": "Chinese factory activity expands in September amid AI boom",
+            "description": "China's factory activity expanded in September, official and private surveys showed on Wednesday, as easing weather disruptions allowed ‌factories to resume operations and a global AI boom supported the industrial sector.",
+            "content": "BEIJING, Sept 30 (Reuters) - China's factory activity expanded in September, official and private surveys showed on Wednesday, as easing weather disruptions allowed ‌factories to resume operations and a global AI boom supported the industrial sector.... [3474 chars]",
+            "url": "https://www.reuters.com/world/china/chinese-factory-activity-returns-growth-september-amid-ai-boom-2026-09-30/",
+            "image": "https://www.reuters.com/resizer/v2/EVIMTCCG6JPBVN7IZZXHZWRJNE.jpg?auth=0dc5b8eb3b195e242115339f75a762a28632c04b315348ae545db31a62157876&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-09-30T02:16:01Z",
+            "lang": "en",
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "2da775211079d648dae72ffcc39f5b5e",
+            "title": "Less than a week after Chinese President Xi Jinping's visit, the US government rules out working with China on AI; the American President says: Do not want ...",
+            "description": "The US government has ruled out working with China on artificial intelligence.",
+            "content": "The US government has ruled out working with China on artificial intelligence. The US President Donald Trump made it clear that he does not want to cooperate with China on AI governance. Trump's reasoning is that it would help Beijing catch up with A... [2825 chars]",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/less-than-a-week-after-chinese-president-xi-jinpings-visit-the-us-government-rules-out-working-with-china-on-ai-the-american-president-says-do-not-want-/articleshow/134577499.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134577515,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-09-30T02:12:00Z",
             "lang": "en",
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -39,131 +71,99 @@
             }
         },
         {
-            "id": "be68701a2818be1c6e62caedf8074351",
-            "title": "OpenAI scraps new AI model release over safety concerns",
-            "description": "OpenAI says it is delaying the release of a new artificial intelligence model out of security concerns voiced by its researchers.",
-            "content": "OpenAI has scrapped the release of GPT-6.1 Astra, a next-generation AI model planned for an October debut, after internal testing found the system did not meet the company's safety and alignment standards.\nOpenAI chief executive Sam Altman and rival ... [1681 chars]",
-            "url": "https://www.perthnow.com.au/news/technology/openai-scraps-new-ai-model-release-over-safety-concerns-c-22940930",
-            "image": "https://images.perthnow.com.au/publication/C-22940930/19db82aecda18b01d4aac23a93a9f6611a1c5e5b-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-09-29T02:20:47Z",
+            "id": "3662d76bf6b12883f7c4c0105591a363",
+            "title": "Tech Giants Sign Trump's 'Morally Binding' AI Safety Pact: What They Need To Do",
+            "description": "Trump announced the pact, called the “Joint Commitment on Frontier Responsibilities\". The development followed a White House luncheon with top tech executives",
+            "content": "Published By :\n,\nLast Updated:September 30, 2026, 07:41 IST\nTrump announced the pact, called the “Joint Commitment on Frontier Responsibilities\". The development followed a White House luncheon with top tech executives\nUS President Donald Trump annou... [3740 chars]",
+            "url": "https://www.news18.com/india/tech-giants-sign-trumps-morally-binding-ai-safety-pact-what-they-need-to-do-ws-lrt-10360092.html",
+            "image": "https://images.news18.com/ibnlive/uploads/2026/09/trump-Sundar-Pichai-2026-09-4dc8847e44ce860493bed40926766139-1200x675.jpg",
+            "publishedAt": "2026-09-30T02:11:49Z",
             "lang": "en",
             "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
             }
         },
         {
-            "id": "24b67a2ce96742e3ae0d8c2a80616e74",
-            "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
-            "description": "But the cost to get there will be staggering. Anthropic reported a net loss of $42 billion in 2025, and plans to spend $518 billion on cloud, computing and infrastructure obligations in coming years, according to the prospectus.",
-            "content": "Synopsis\nBut the cost to get there will be staggering. Anthropic reported a net loss of $42 billion in 2025, and plans to spend $518 billion on cloud, computing and infrastructure obligations in coming years, according to the prospectus.\nListen to th... [5294 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs/articleshow/134554130.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-414301,resizemode-75,msid-134554130/tech/artificial-intelligence/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs.jpg",
-            "publishedAt": "2026-09-29T02:19:53Z",
+            "id": "341874017dfd0325f0e84a0ab250f3f1",
+            "title": "President Trump orders federal agencies to replace AI with 'Super Intelligence'",
+            "description": "Rep. Kat Cammack, R-Fla., discusses President Donald Trump’s meeting with artificial intelligence leaders at the White House and the signing of the White",
+            "content": "President Donald Trump on Tuesday signed an executive order directing the federal government to replace the term “artificial intelligence” with “Super Intelligence” across the executive branch, cementing a rebranding effort he has championed in recen... [3347 chars]",
+            "url": "https://www.europesays.com/3280154/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/09/1790734292_donald-trump-at-unga.jpg",
+            "publishedAt": "2026-09-30T02:11:26Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "bdb6157abf9c7615269a067748c4fab6",
+            "title": "Datawords group becomes 87seconds: a new name to connect brands to the world",
+            "description": "HONG KONG SAR - Media OutReach Newswire - 29 September 2026 - The Datawords Group announces its name change and becomes 87seconds. For 27 years, the group has supported the world's leading brands in creating, deploying, and managing their content on an international scale, combining human expertise, proprietary technology, and artificial intelligence. Today, it adopts a name equal to that ambition.",
+            "content": "HONG KONG SAR - Media OutReach Newswire - 29 September 2026 - The Datawords Group announces its name change and becomes 87seconds. For 27 years, the group has supported the world's leading brands in creating, deploying, and managing their content on ... [4188 chars]",
+            "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/media-outreach-newswire/datawords-group-becomes-87seconds-a-new-name-to-connect-brands-to-the-world/2435683",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/30/1239338.png",
+            "publishedAt": "2026-09-30T02:11:13Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "881f6c1a9a890747bcdd5f34c2410ace",
+            "title": "'Jobs Are Going To Change': What Elon Musk Said On Future Of Work Amid AI Impact Concerns",
+            "description": "The remarks came after Trump and six technology leaders, including Musk, signed a voluntary pact on AI safety.",
+            "content": "Elon Musk said on Wednesday that jobs will change as artificial intelligence and robots reshape workplaces, but that the most likely outcome of the technology is an \"incredibly beneficial\" one.\nHe was responding to a question on concerns over AI's im... [2169 chars]",
+            "url": "https://www.ndtvprofit.com/world/jobs-are-going-to-change-what-elon-musk-said-on-future-of-work-amid-ai-impact-concerns-12117473",
+            "image": "https://c.ndtvimg.com/2026-09/nq9m711s_elon-musk_625x300_12_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-09-30T02:11:06Z",
+            "lang": "en",
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "6aed74069e45fe9864e96371f348c676",
+            "title": "‘Hypocrisy’: US students are calling out college leaders for using AI",
+            "description": "Professors and administrators are getting in trouble for using AI in a way that crosses ethical lines. Read more at straitstimes.com.",
+            "content": "NEW YORK - College professors and administrators have been busting students for cheating with artificial intelligence for several years. Now, the professors and administrators are getting in trouble, too.\nDartmouth College in New Hampshire last week ... [7028 chars]",
+            "url": "https://www.straitstimes.com/world/united-states/hypocrisy-us-students-are-calling-out-college-leaders-for-using-ai",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c7065a201d4e5e50eaddb8ccdaf7557e6bc2fd74e9c175d10a0a849d3703c6b1",
+            "publishedAt": "2026-09-30T02:10:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "0543bc98aa7d20dfe6090f1f91096ecd",
+            "title": "OpenAI Dots: Sam Altman’s unveiled ChatGPT AI personal agent, how does it work and what can it do for users?",
+            "description": "OpenAI has launched Dots, an innovative personal AI agent designed to perform tasks autonomously with minimal user input. Equipped to manage projects, schedule meetings, and oversee budgets, Dots operate seamlessly in the background using the advanced GPT-6 Astra model for accurate task execution. Furthermore, users can establish custom safety measures, ensuring specific actions require necessary approvals. This initiative reflects OpenAI's commitment to advancing AI technologies for businesses and consumers alike.",
+            "content": "Synopsis\nOpenAI has launched Dots, an innovative personal AI agent designed to perform tasks autonomously with minimal user input. Equipped to manage projects, schedule meetings, and oversee budgets, Dots operate seamlessly in the background using th... [3929 chars]",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/openai-dots-what-is-sam-altmans-unveiled-chatgpt-ai-personal-agent-how-does-it-work-and-what-can-it-do-for-users/articleshow/134577293.cms",
+            "image": "https://img.etimg.com/thumb/msid-134577437,width-1200,height-630,imgsize-81594,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-09-30T02:08:00Z",
             "lang": "en",
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
                 "name": "The Economic Times",
                 "url": "https://economictimes.indiatimes.com",
                 "country": "in"
-            }
-        },
-        {
-            "id": "720f35fd4dcac4bddd44b173d41ed6dc",
-            "title": "OpenAI scraps new AI model release over safety concerns",
-            "description": "OpenAI says it is delaying the release of a new artificial intelligence model out of security concerns voiced...",
-            "content": "OpenAI has warned Astra, its flagship GPT-6 model, can at times evade human oversight. Photo: AP PHOTO\nOpenAI has scrapped the release of GPT-6.1 Astra, a next-generation AI model planned for an October debut, ‌after internal testing found the system... [3917 chars]",
-            "url": "https://www.canberratimes.com.au/story/9359369/openai-scraps-new-ai-model-release-over-safety-concerns/",
-            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/17ee583a-4665-4f68-be00-279b83f1fac0.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-09-29T02:18:43Z",
-            "lang": "en",
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "aadc4cd640b9af4afef5daed661a8f88",
-            "title": "AI Bosses Head to White House as Safety Pressure Builds",
-            "description": "The lunch meeting, not yet confirmed by the White House, will feature Meta CEO Mark Zuckerberg, Google CEO Sundar Pichai, and OpenAI President Greg Brockman, according to CNN.",
-            "content": "Washington:President Donald Trump and House Speaker Mike Johnson will convene leading artificial intelligence executives at the White House on Tuesday amid calls from Congress for stronger industry oversight.\nThe lunch meeting, not yet confirmed by t... [3516 chars]",
-            "url": "https://www.deccanchronicle.com/world/ai-bosses-head-to-white-house-as-safety-pressure-builds-1991450",
-            "image": "http://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-80j2cil8mrn578m62me3hd6q47-20160213154816.Medi.jpeg",
-            "publishedAt": "2026-09-29T02:17:14Z",
-            "lang": "en",
-            "source": {
-                "id": "214d496d625fc657723cf4da80cff8ce",
-                "name": "Deccan Chronicle",
-                "url": "https://www.deccanchronicle.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "b0b48f4b62aae88035a19eaeb0086f55",
-            "title": "CSL Partners With Amazon Web Services",
-            "description": "CSL partnered with Amazon Web Services to apply artificial intelligence and cloud technologies in advancing its biopharmaceutical research and clinical development, the biotechnology company said...",
-            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/csl-partners-with-amazon-web-services-ce785addd889f42d",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-09-29T02:16:24Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "ce1a0053bbf8a6ab544e5a067f255ca1",
-            "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
-            "description": "Anthropic's IPO prospectus reveals a $42 billion net loss in 2025, massive spending plans, and a potential $2 trillion valuation, highlighting the high stakes i",
-            "content": "Anthropic's IPO prospectus reveals a $42B net loss in 2025 and plans to spend $518B on infrastructure, despite 12-fold revenue growth. The company, valued at over $2T, faces competition from OpenAI an\nBy Reuters\nAnthropic is making a massive bet that... [5104 chars]",
-            "url": "https://www.cnbctv18.com/market/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-20000494.htm",
-            "image": "https://images.cnbctv18.com/uploads/2026/09/bilder-24-2026-09-ad6632573a95f345c3a2b1069e150a98.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-09-29T02:14:43Z",
-            "lang": "en",
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "b53bc8f8d09da0302ee63068713de46d",
-            "title": "Inside Berkeley Liberals' Plot to Take Over the World Through A.I.",
-            "description": "On \"The Alex Marlow Show,\" Theo Wold talked about AI. Wold said, \"A lot of these folks found sort of their philosophical sort of formation at the | Clips",
-            "content": "On “The Alex Marlow Show,” Theo Wold talked about AI.\nWold said, “A lot of these folks found sort of their philosophical sort of formation at the University of California at Berkeley, and that’s where a lot of these, you know, the leading lights in t... [551 chars]",
-            "url": "https://www.breitbart.com/clips/2026/09/29/the-effective-altruism-cult-exposed-inside-berkeley-liberals-plot-to-take-over-the-world-through-a-i/",
-            "image": "https://media.breitbart.com/media/2026/09/Dario-Amodeis-ANthropic-steals-science-640x335.jpg",
-            "publishedAt": "2026-09-29T02:13:31Z",
-            "lang": "en",
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "3faa0e1c2337a717e44271b70532140e",
-            "title": "Micron or Nvidia: One AI Stock Is Poised to Outperform, the Other Is Harder to Call, Says Goldman Sachs",
-            "description": "The AI boom has treated Micron (NASDAQ:MU) and Nvidia (NASDAQ:NVDA) quite well, although their gains this year have been anything but comparable...",
-            "content": "The AI boom has treated Micron (NASDAQ:MU) and Nvidia (NASDAQ:NVDA) quite well, although their gains this year have been anything but comparable. Micron is up 269% this year, making its spectacular run difficult to overlook. Meanwhile, Nvidia’s 23% y... [4540 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/micron-or-nvidia-one-ai-stock-is-poised-to-outperform-the-other-is-harder-to-call-says-goldman-sachs-1036580273",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/09/image-2671.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-09-29T02:13:11Z",
-            "lang": "en",
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
             }
         }
     ]
