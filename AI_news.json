@@ -4,144 +4,80 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 456596,
+    "totalArticles": 457968,
     "articles": [
         {
-            "id": "7b597f81c1c3fa29c0830cc6579688b9",
-            "title": "The moment Elon Musk lands gaff over Trump renaming AI 'super-intelligence'",
-            "description": "Donald Trump has ordered US government agencies to use the term ‘Super Intelligence’ instead of artificial intelligence",
-            "content": "US President Donald Trump has attempted to rebrand AI as Super Intelligence but if Elon Musk’s recent slip-up is anything to go by then it might not catch on.\nOn Tuesday (29 September), the POTUS signed an executive order declaring that all US execut... [3271 chars]",
-            "url": "https://www.ladbible.com/news/us-news/elon-musk-gaff-donald-trump-renaming-ai-super-intelligence-868447-20260930",
-            "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltf62834001712ba63/6abc6ff8ede04982d759d2a0/musk-trump-ai.jpg",
-            "publishedAt": "2026-09-30T02:18:24Z",
+            "id": "656e0f41cd6a5bcc66384a8487f293c7",
+            "title": "Google launches Gemini 4 Argon, its most powerful AI model yet",
+            "description": "Google has finally launched its next frontier AI model, Gemini 4 Argon. The company calls it its most powerful AI model yet, and it is available in a limited release for now.",
+            "content": "Google has finally released its next-generation frontier AI model, called Gemini 4 Argon. According to the company, Argon brings in major improvements in various tasks such as coding, professional work, and cybersecurity compared to its previous AI m... [3659 chars]",
+            "url": "https://www.indiatoday.in/technology/news/story/google-launches-gemini-4-argon-its-most-powerful-ai-model-yet-3007056-2026-10-01",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/google-0432492-16x9.jpg?VersionId=iBjI493uLCv4QGfNUlo0OfJFbhRU012f",
+            "publishedAt": "2026-10-01T02:52:04Z",
             "lang": "en",
             "source": {
-                "id": "99e7373ae0bd64167072ee76b85a79f3",
-                "name": "LADbible",
-                "url": "https://www.ladbible.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "e4a6c2c193c39a39e36e030bb566da27",
-            "title": "'If We Do This Right, We Can Win Safely': Tech Czars Commit To Safety Standards For Super-Intelligence In Meet With Trump",
-            "description": "Trump and top tech CEOs sign voluntary safety standards for frontier AI, backing four layers of controls and audits as the US embraces ‘Super Intelligence’.",
-            "content": "Washington: The whose-who of the Tech world were in attendance on Tuesday at the White House as US President convened a meeting to set in place responsibilities for tech companies to follow when it came to development of frontier AI. The first of whi... [4318 chars]",
-            "url": "https://www.republicworld.com/world-news/if-we-do-this-right-we-can-win-safely-tech-czars-commit-to-safety-standards-for-super-intelligence-in-meet-with-trump-2026-09-30-137957",
-            "image": "https://img.republicworld.com/all_images/2026/09/if-we-do-this-right-we-can-win-safely-tech-czars-commit-to-safety-standards-for-super-intelligence-in-meet-with-trump-1790734604972-1280x720.webp",
-            "publishedAt": "2026-09-30T02:16:51Z",
-            "lang": "en",
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
                 "country": "in"
             }
         },
         {
-            "id": "6d41aa3f58c944a75841083973bd7ecc",
-            "title": "Chinese factory activity expands in September amid AI boom",
-            "description": "China's factory activity expanded in September, official and private surveys showed on Wednesday, as easing weather disruptions allowed ‌factories to resume operations and a global AI boom supported the industrial sector.",
-            "content": "BEIJING, Sept 30 (Reuters) - China's factory activity expanded in September, official and private surveys showed on Wednesday, as easing weather disruptions allowed ‌factories to resume operations and a global AI boom supported the industrial sector.... [3474 chars]",
-            "url": "https://www.reuters.com/world/china/chinese-factory-activity-returns-growth-september-amid-ai-boom-2026-09-30/",
-            "image": "https://www.reuters.com/resizer/v2/EVIMTCCG6JPBVN7IZZXHZWRJNE.jpg?auth=0dc5b8eb3b195e242115339f75a762a28632c04b315348ae545db31a62157876&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-09-30T02:16:01Z",
+            "id": "f0db6ca1f15eb5eed2bb20bd190e15e3",
+            "title": "Alibaba Stock: The Ant Group Stake Needs To Be Repriced (NYSE:BABA)",
+            "description": "Alibaba stock outlook: Ant Group’s shift beyond fintech into AI healthcare and new growth drivers. Read here for a detailed analysis of BABA stock.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of BABA either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
+            "url": "https://seekingalpha.com/article/4951223-alibaba-the-ant-group-stake-needs-to-be-repriced",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2243588682/image_2243588682.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-10-01T02:51:10Z",
             "lang": "en",
             "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
                 "country": "us"
             }
         },
         {
-            "id": "2da775211079d648dae72ffcc39f5b5e",
-            "title": "Less than a week after Chinese President Xi Jinping's visit, the US government rules out working with China on AI; the American President says: Do not want ...",
-            "description": "The US government has ruled out working with China on artificial intelligence.",
-            "content": "The US government has ruled out working with China on artificial intelligence. The US President Donald Trump made it clear that he does not want to cooperate with China on AI governance. Trump's reasoning is that it would help Beijing catch up with A... [2825 chars]",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/less-than-a-week-after-chinese-president-xi-jinpings-visit-the-us-government-rules-out-working-with-china-on-ai-the-american-president-says-do-not-want-/articleshow/134577499.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134577515,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-09-30T02:12:00Z",
+            "id": "9fcecf4a323ab3242ec6db567970ad89",
+            "title": "Tokyo court grants legal protection to human voices in AI clone case",
+            "description": "A Tokyo court has awarded legal protection for the human voice in a landmark case involving a popular Japanese anime voice actor. TOKYO (AP) — A",
+            "content": "A Tokyo court has awarded legal protection for the human voice in a landmark case involving a popular Japanese anime voice actor.\nTOKYO (AP) — A Tokyo court has awarded legal protection to the human voice in a landmark case in which a popular Japanes... [2002 chars]",
+            "url": "https://www.breitbart.com/news/tokyo-court-grants-legal-protection-to-human-voices-in-ai-clone-case/",
+            "image": "https://media.breitbart.com/media/2026/10/wi/ap/japan-ai-voice-97862-japan-ai-voice-kenjiro-tsuda-japanese-actor-is-stage-november-2024-tokyo-japan-640x335.jpg",
+            "publishedAt": "2026-10-01T02:49:43Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "3662d76bf6b12883f7c4c0105591a363",
-            "title": "Tech Giants Sign Trump's 'Morally Binding' AI Safety Pact: What They Need To Do",
-            "description": "Trump announced the pact, called the “Joint Commitment on Frontier Responsibilities\". The development followed a White House luncheon with top tech executives",
-            "content": "Published By :\n,\nLast Updated:September 30, 2026, 07:41 IST\nTrump announced the pact, called the “Joint Commitment on Frontier Responsibilities\". The development followed a White House luncheon with top tech executives\nUS President Donald Trump annou... [3740 chars]",
-            "url": "https://www.news18.com/india/tech-giants-sign-trumps-morally-binding-ai-safety-pact-what-they-need-to-do-ws-lrt-10360092.html",
-            "image": "https://images.news18.com/ibnlive/uploads/2026/09/trump-Sundar-Pichai-2026-09-4dc8847e44ce860493bed40926766139-1200x675.jpg",
-            "publishedAt": "2026-09-30T02:11:49Z",
-            "lang": "en",
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "341874017dfd0325f0e84a0ab250f3f1",
-            "title": "President Trump orders federal agencies to replace AI with 'Super Intelligence'",
-            "description": "Rep. Kat Cammack, R-Fla., discusses President Donald Trump’s meeting with artificial intelligence leaders at the White House and the signing of the White",
-            "content": "President Donald Trump on Tuesday signed an executive order directing the federal government to replace the term “artificial intelligence” with “Super Intelligence” across the executive branch, cementing a rebranding effort he has championed in recen... [3347 chars]",
-            "url": "https://www.europesays.com/3280154/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/09/1790734292_donald-trump-at-unga.jpg",
-            "publishedAt": "2026-09-30T02:11:26Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
                 "country": "us"
             }
         },
         {
-            "id": "bdb6157abf9c7615269a067748c4fab6",
-            "title": "Datawords group becomes 87seconds: a new name to connect brands to the world",
-            "description": "HONG KONG SAR - Media OutReach Newswire - 29 September 2026 - The Datawords Group announces its name change and becomes 87seconds. For 27 years, the group has supported the world's leading brands in creating, deploying, and managing their content on an international scale, combining human expertise, proprietary technology, and artificial intelligence. Today, it adopts a name equal to that ambition.",
-            "content": "HONG KONG SAR - Media OutReach Newswire - 29 September 2026 - The Datawords Group announces its name change and becomes 87seconds. For 27 years, the group has supported the world's leading brands in creating, deploying, and managing their content on ... [4188 chars]",
-            "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/media-outreach-newswire/datawords-group-becomes-87seconds-a-new-name-to-connect-brands-to-the-world/2435683",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/30/1239338.png",
-            "publishedAt": "2026-09-30T02:11:13Z",
+            "id": "c3f5160707e95507653d5655a570c58f",
+            "title": "Anthropic's IPO pitch embraces AI's promise and peril",
+            "description": "To pull off a successful offering that values it at $2 trillion, Anthropic, whose name means \"human-centered,\" will need plenty of mortal investors to help build a world where mankind will soon take a back seat to far more capable artificial intelligence systems.",
+            "content": "Synopsis\nTo pull off a successful offering that values it at $2 trillion, Anthropic, whose name means \"human-centered,\" will need plenty of mortal investors to help build a world where mankind will soon take a back seat to far more capable artificial... [7101 chars]",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-ipo-pitch-embraces-ais-promise-and-peril/articleshow/134606713.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-144840,resizemode-75,msid-134606713/tech/artificial-intelligence/anthropics-ipo-pitch-embraces-ais-promise-and-peril.jpg",
+            "publishedAt": "2026-10-01T02:48:27Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "881f6c1a9a890747bcdd5f34c2410ace",
-            "title": "'Jobs Are Going To Change': What Elon Musk Said On Future Of Work Amid AI Impact Concerns",
-            "description": "The remarks came after Trump and six technology leaders, including Musk, signed a voluntary pact on AI safety.",
-            "content": "Elon Musk said on Wednesday that jobs will change as artificial intelligence and robots reshape workplaces, but that the most likely outcome of the technology is an \"incredibly beneficial\" one.\nHe was responding to a question on concerns over AI's im... [2169 chars]",
-            "url": "https://www.ndtvprofit.com/world/jobs-are-going-to-change-what-elon-musk-said-on-future-of-work-amid-ai-impact-concerns-12117473",
-            "image": "https://c.ndtvimg.com/2026-09/nq9m711s_elon-musk_625x300_12_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-09-30T02:11:06Z",
-            "lang": "en",
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "6aed74069e45fe9864e96371f348c676",
-            "title": "‘Hypocrisy’: US students are calling out college leaders for using AI",
-            "description": "Professors and administrators are getting in trouble for using AI in a way that crosses ethical lines. Read more at straitstimes.com.",
-            "content": "NEW YORK - College professors and administrators have been busting students for cheating with artificial intelligence for several years. Now, the professors and administrators are getting in trouble, too.\nDartmouth College in New Hampshire last week ... [7028 chars]",
-            "url": "https://www.straitstimes.com/world/united-states/hypocrisy-us-students-are-calling-out-college-leaders-for-using-ai",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c7065a201d4e5e50eaddb8ccdaf7557e6bc2fd74e9c175d10a0a849d3703c6b1",
-            "publishedAt": "2026-09-30T02:10:00Z",
+            "id": "c4dd7525d7b1a8ddf2f603c476b355ff",
+            "title": "Demand for AI chips fuels 83.5% surge in South Korean exports",
+            "description": "South Korea is home to key players in the booming global AI industry, including memory-chip giant Samsung Electronics. Read more at straitstimes.com.",
+            "content": "SEOUL – South Korea’s exports soared 83.5% in September to a record monthly high, official data showed on Oct 1, propelled by surging global demand for chips fuelled by a boom in artificial intelligence.\nThe country is home to tech giant Samsung Elec... [1171 chars]",
+            "url": "https://www.straitstimes.com/business/demand-for-ai-chips-fuels-83-5-surge-in-south-korean-exports",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/02bde14693dc5d6bedc557d316a3687ccc1c726a5248f8600efa9778e4962aab",
+            "publishedAt": "2026-10-01T02:45:00Z",
             "lang": "en",
             "source": {
                 "id": "72bbcd9c095a3d51c97cdda7a97dba31",
@@ -151,19 +87,83 @@
             }
         },
         {
-            "id": "0543bc98aa7d20dfe6090f1f91096ecd",
-            "title": "OpenAI Dots: Sam Altman’s unveiled ChatGPT AI personal agent, how does it work and what can it do for users?",
-            "description": "OpenAI has launched Dots, an innovative personal AI agent designed to perform tasks autonomously with minimal user input. Equipped to manage projects, schedule meetings, and oversee budgets, Dots operate seamlessly in the background using the advanced GPT-6 Astra model for accurate task execution. Furthermore, users can establish custom safety measures, ensuring specific actions require necessary approvals. This initiative reflects OpenAI's commitment to advancing AI technologies for businesses and consumers alike.",
-            "content": "Synopsis\nOpenAI has launched Dots, an innovative personal AI agent designed to perform tasks autonomously with minimal user input. Equipped to manage projects, schedule meetings, and oversee budgets, Dots operate seamlessly in the background using th... [3929 chars]",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/openai-dots-what-is-sam-altmans-unveiled-chatgpt-ai-personal-agent-how-does-it-work-and-what-can-it-do-for-users/articleshow/134577293.cms",
-            "image": "https://img.etimg.com/thumb/msid-134577437,width-1200,height-630,imgsize-81594,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-09-30T02:08:00Z",
+            "id": "69efa505534afa293821d9ba974affdf",
+            "title": "'South Park' Brings Back Deepfake Trump \"Billionaire Of Weenietown\"",
+            "description": "As the human race braces for possible extinction amid the AI age, 'South Park' resurrected its deepfake Trump to roast the \"billionaire of Weenietown.\"",
+            "content": "As the human race braces for possible extinction amid the AI age, South Park resurrected its deepfake Trump to roast the “billionaire of Weenietown.”\nOn Wednesday’s episode, Butters discovers Billionaire Weenietown in his literal backyard, a tiny kin... [1330 chars]",
+            "url": "https://deadline.com/2026/09/south-park-deepfake-trump-billionaire-weenietown-1237144055/",
+            "image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-7.29.40-PM.png?w=828",
+            "publishedAt": "2026-10-01T02:44:42Z",
+            "lang": "en",
+            "source": {
+                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
+                "name": "Deadline",
+                "url": "https://deadline.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "722c8bd52d33f89597be222af4ee131c",
+            "title": "AI agents tried to hack Canadian government website, research firm says",
+            "description": "AI agents tried to hack into a Canadian government website, an AI research firm said on Wednesday. The agents attempted to access Library and Archives Canada on May 8 and on June 9, AI research firm Transluce said in a blog post.",
+            "content": "Synopsis\nAI agents tried to hack into a Canadian government website, an AI research firm said on Wednesday. The agents attempted to access Library and Archives Canada on May 8 and on June 9, AI research firm Transluce said in a blog post.\nListen to t... [673 chars]",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agents-tried-to-hack-canadian-government-website-research-firm-says/articleshow/134606685.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2503705,resizemode-75,msid-134606685/tech/artificial-intelligence/ai-agents-tried-to-hack-canadian-government-website-research-firm-says.jpg",
+            "publishedAt": "2026-10-01T02:44:32Z",
             "lang": "en",
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
                 "name": "The Economic Times",
                 "url": "https://economictimes.indiatimes.com",
                 "country": "in"
+            }
+        },
+        {
+            "id": "94c70632cd6fb127afd5502a2ec2e810",
+            "title": "Google announces Gemini 4 flagship AI model after months of delays",
+            "description": "The new AI model, 'Argon,'' is larger in size than Google's previous line of advanced \"Pro\" models, a company spokesperson says",
+            "content": "SAN FRANCISCO, USA – Alphabet’s Google on Wednesday, September 30, announced a new top-tier artificial intelligence model to anchor its Gemini 4 generation of models in a fresh bid to catch up to rivals Anthropic and OpenAI in the AI race.\nThe new mo... [1367 chars]",
+            "url": "https://www.rappler.com/technology/google-gemini-4-flagship-ai-model-argon/",
+            "image": "https://www.rappler.com/tachyon/2026/02/google-logo-reuters-feb-2026-scaled.jpg",
+            "publishedAt": "2026-10-01T02:40:38Z",
+            "lang": "en",
+            "source": {
+                "id": "1290fbc1799ff6b270a6f8b7e9761c18",
+                "name": "Rappler",
+                "url": "https://www.rappler.com",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "0605aeb7c9fa9192ee635da1e7edabaf",
+            "title": "Samsung Unveils 'Galaxy Tab S12'... Expanding AI Productivity",
+            "description": "Samsung Electronics unveiled its new premium tablets, the Galaxy Tab S12 Ultra and Galaxy Tab S12+, on October 1.",
+            "content": "Samsung Electronics unveiled its new premium tablets, the Galaxy Tab S12 Ultra and Galaxy Tab S12+, on October 1. The new products feature enhanced hardware performance, Galaxy AI optimized for large displays, and Adobe Photoshop pre-installed for th... [3088 chars]",
+            "url": "https://www.invenglobal.com/articles/26691/samsung-unveils-galaxy-tab-s12-expanding-ai-productivity",
+            "image": "https://static.invenglobal.com/upload/image/2026/10/01/r1790822468719367.jpeg",
+            "publishedAt": "2026-10-01T02:39:26Z",
+            "lang": "en",
+            "source": {
+                "id": "e8d7ea30b7c7cf50d2b88be83a09a0fa",
+                "name": "InvenGlobal",
+                "url": "https://www.invenglobal.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "9753d56e4c57c39100c2312b188907b9",
+            "title": "Infosys, ABN AMRO Extend Partnership to Accelerate AI Transformation",
+            "description": "Infosys has partnered with ABN AMRO Bank to accelerate the Netherlands-based bank's AI-driven digital transformation, according to a Wednesday statement.\nUnder the agreement, the Indian IT...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/infosys-abn-amro-extend-partnership-to-accelerate-ai-transformation-ce785ad3da81f426",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-10-01T02:35:14Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         }
     ]
