@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 457968,
+    "totalArticles": 459103,
     "articles": [
         {
-            "id": "656e0f41cd6a5bcc66384a8487f293c7",
-            "title": "Google launches Gemini 4 Argon, its most powerful AI model yet",
-            "description": "Google has finally launched its next frontier AI model, Gemini 4 Argon. The company calls it its most powerful AI model yet, and it is available in a limited release for now.",
-            "content": "Google has finally released its next-generation frontier AI model, called Gemini 4 Argon. According to the company, Argon brings in major improvements in various tasks such as coding, professional work, and cybersecurity compared to its previous AI m... [3659 chars]",
-            "url": "https://www.indiatoday.in/technology/news/story/google-launches-gemini-4-argon-its-most-powerful-ai-model-yet-3007056-2026-10-01",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/google-0432492-16x9.jpg?VersionId=iBjI493uLCv4QGfNUlo0OfJFbhRU012f",
-            "publishedAt": "2026-10-01T02:52:04Z",
+            "id": "7bfd85a9bfffd611aec29d7c03197a3f",
+            "title": "AI Startup Suno Launches New Tool To Add Music To Spoken Word",
+            "description": "Suno has emerged as one of the fastest-growing generative AI startups, allowing people with little or no musical training to create complete songs from text prompts.",
+            "content": "Suno Inc., the AI music startup valued at more than $5 billion, is launching a new tool that'll let users put background music to their spoken-word creations, like poems, meditations and speeches.\nCalled “Speech,” the product will complement the serv... [2531 chars]",
+            "url": "https://www.ndtvprofit.com/technology/ai-startup-suno-launches-new-tool-to-add-music-to-spoken-word-12128211",
+            "image": "https://c.ndtvimg.com/2026-10/sm4r1j1_ai-startup-suno-_625x300_02_October_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-10-02T02:13:53Z",
             "lang": "en",
             "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
                 "country": "in"
             }
         },
         {
-            "id": "f0db6ca1f15eb5eed2bb20bd190e15e3",
-            "title": "Alibaba Stock: The Ant Group Stake Needs To Be Repriced (NYSE:BABA)",
-            "description": "Alibaba stock outlook: Ant Group’s shift beyond fintech into AI healthcare and new growth drivers. Read here for a detailed analysis of BABA stock.",
-            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of BABA either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
-            "url": "https://seekingalpha.com/article/4951223-alibaba-the-ant-group-stake-needs-to-be-repriced",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2243588682/image_2243588682.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-10-01T02:51:10Z",
+            "id": "c8c78e864b8a8e6b23682a74262b4a4c",
+            "title": "year yield to highest level since 2002",
+            "description": "Global bond yields surged as energy costs fuel inflation, AI investment lifts demand for capital and markets brace for higher interest rates for longer, raising borrowing costs worldwide.",
+            "content": "Global bond sell-off lifts US 10-year yield to highest level since 2002\nGlobal bond yields surged as energy costs fuel inflation, AI investment lifts demand for capital and markets brace for higher interest rates for longer, raising borrowing costs w... [4840 chars]",
+            "url": "https://www.cnbctv18.com/world/global-bond-sell-off-lifts-us-10-year-yield-to-highest-level-since-2002-20003483.htm",
+            "image": "https://images.cnbctv18.com/uploads/2026/10/image-2026-10-671a2789ac9e4fc00f137c6d0933669b.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-10-02T02:13:31Z",
             "lang": "en",
             "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "9fcecf4a323ab3242ec6db567970ad89",
-            "title": "Tokyo court grants legal protection to human voices in AI clone case",
-            "description": "A Tokyo court has awarded legal protection for the human voice in a landmark case involving a popular Japanese anime voice actor. TOKYO (AP) — A",
-            "content": "A Tokyo court has awarded legal protection for the human voice in a landmark case involving a popular Japanese anime voice actor.\nTOKYO (AP) — A Tokyo court has awarded legal protection to the human voice in a landmark case in which a popular Japanes... [2002 chars]",
-            "url": "https://www.breitbart.com/news/tokyo-court-grants-legal-protection-to-human-voices-in-ai-clone-case/",
-            "image": "https://media.breitbart.com/media/2026/10/wi/ap/japan-ai-voice-97862-japan-ai-voice-kenjiro-tsuda-japanese-actor-is-stage-november-2024-tokyo-japan-640x335.jpg",
-            "publishedAt": "2026-10-01T02:49:43Z",
-            "lang": "en",
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c3f5160707e95507653d5655a570c58f",
-            "title": "Anthropic's IPO pitch embraces AI's promise and peril",
-            "description": "To pull off a successful offering that values it at $2 trillion, Anthropic, whose name means \"human-centered,\" will need plenty of mortal investors to help build a world where mankind will soon take a back seat to far more capable artificial intelligence systems.",
-            "content": "Synopsis\nTo pull off a successful offering that values it at $2 trillion, Anthropic, whose name means \"human-centered,\" will need plenty of mortal investors to help build a world where mankind will soon take a back seat to far more capable artificial... [7101 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-ipo-pitch-embraces-ais-promise-and-peril/articleshow/134606713.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-144840,resizemode-75,msid-134606713/tech/artificial-intelligence/anthropics-ipo-pitch-embraces-ais-promise-and-peril.jpg",
-            "publishedAt": "2026-10-01T02:48:27Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
                 "country": "in"
             }
         },
         {
-            "id": "c4dd7525d7b1a8ddf2f603c476b355ff",
-            "title": "Demand for AI chips fuels 83.5% surge in South Korean exports",
-            "description": "South Korea is home to key players in the booming global AI industry, including memory-chip giant Samsung Electronics. Read more at straitstimes.com.",
-            "content": "SEOUL – South Korea’s exports soared 83.5% in September to a record monthly high, official data showed on Oct 1, propelled by surging global demand for chips fuelled by a boom in artificial intelligence.\nThe country is home to tech giant Samsung Elec... [1171 chars]",
-            "url": "https://www.straitstimes.com/business/demand-for-ai-chips-fuels-83-5-surge-in-south-korean-exports",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/02bde14693dc5d6bedc557d316a3687ccc1c726a5248f8600efa9778e4962aab",
-            "publishedAt": "2026-10-01T02:45:00Z",
+            "id": "dcfa742038a4b5c029084c823b6c7b4e",
+            "title": "Delhi govt opens command centre to track polluting activities",
+            "description": "New DelhiThe Delhi government on Thursday launched an Integrated Command and Control Centre (ICCC) for the Delhi Pollution Control Committee (DPCC) to monitor pollution sources in real time, with AI-enabled CCTV cameras tracking more than 700 construction sites and GPS-enabled systems monitoring road sweeping, officials said | Latest News Delhi",
+            "content": "The Delhi government on Thursday launched an Integrated Command and Control Centre (ICCC) for the Delhi Pollution Control Committee (DPCC) to monitor pollution sources in real time, with AI-enabled CCTV cameras tracking more than 700 construction sit... [2467 chars]",
+            "url": "https://www.hindustantimes.com/cities/delhi-news/delhi-govt-opens-command-centre-to-track-polluting-activities-101790877696795.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/01/1600x900/logo/CM-Rekha-Gupta-and-environment-minister-Manjinder-_1790877694788_9g0e.jpg",
+            "publishedAt": "2026-10-02T02:06:30Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "69efa505534afa293821d9ba974affdf",
-            "title": "'South Park' Brings Back Deepfake Trump \"Billionaire Of Weenietown\"",
-            "description": "As the human race braces for possible extinction amid the AI age, 'South Park' resurrected its deepfake Trump to roast the \"billionaire of Weenietown.\"",
-            "content": "As the human race braces for possible extinction amid the AI age, South Park resurrected its deepfake Trump to roast the “billionaire of Weenietown.”\nOn Wednesday’s episode, Butters discovers Billionaire Weenietown in his literal backyard, a tiny kin... [1330 chars]",
-            "url": "https://deadline.com/2026/09/south-park-deepfake-trump-billionaire-weenietown-1237144055/",
-            "image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-7.29.40-PM.png?w=828",
-            "publishedAt": "2026-10-01T02:44:42Z",
-            "lang": "en",
-            "source": {
-                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
-                "name": "Deadline",
-                "url": "https://deadline.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "722c8bd52d33f89597be222af4ee131c",
-            "title": "AI agents tried to hack Canadian government website, research firm says",
-            "description": "AI agents tried to hack into a Canadian government website, an AI research firm said on Wednesday. The agents attempted to access Library and Archives Canada on May 8 and on June 9, AI research firm Transluce said in a blog post.",
-            "content": "Synopsis\nAI agents tried to hack into a Canadian government website, an AI research firm said on Wednesday. The agents attempted to access Library and Archives Canada on May 8 and on June 9, AI research firm Transluce said in a blog post.\nListen to t... [673 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agents-tried-to-hack-canadian-government-website-research-firm-says/articleshow/134606685.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2503705,resizemode-75,msid-134606685/tech/artificial-intelligence/ai-agents-tried-to-hack-canadian-government-website-research-firm-says.jpg",
-            "publishedAt": "2026-10-01T02:44:32Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "94c70632cd6fb127afd5502a2ec2e810",
-            "title": "Google announces Gemini 4 flagship AI model after months of delays",
-            "description": "The new AI model, 'Argon,'' is larger in size than Google's previous line of advanced \"Pro\" models, a company spokesperson says",
-            "content": "SAN FRANCISCO, USA – Alphabet’s Google on Wednesday, September 30, announced a new top-tier artificial intelligence model to anchor its Gemini 4 generation of models in a fresh bid to catch up to rivals Anthropic and OpenAI in the AI race.\nThe new mo... [1367 chars]",
-            "url": "https://www.rappler.com/technology/google-gemini-4-flagship-ai-model-argon/",
-            "image": "https://www.rappler.com/tachyon/2026/02/google-logo-reuters-feb-2026-scaled.jpg",
-            "publishedAt": "2026-10-01T02:40:38Z",
+            "id": "e40371ae9100f0621d57a3ee6dec1617",
+            "title": "Obama's warnings on AI are pure hypocrisy",
+            "description": "Obama helped unleash the very technology he now seeks to shackle. Worse still, he is stoking panic rather than encouraging reasoned discussion of the risks and benefits of AI.",
+            "content": "President Donald Trump has said that the US has to lead in artificial intelligence (AI) technology (or “superintelligence”), clearing government roadblocks for innovators while demanding full corporate transparency\nHe has also flatly rejected any joi... [3875 chars]",
+            "url": "https://nypost.com/2026/10/01/opinion/obamas-warnings-on-ai-are-pure-hypocrisy-heres-why/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143358089.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-10-02T02:01:54Z",
             "lang": "en",
             "source": {
-                "id": "1290fbc1799ff6b270a6f8b7e9761c18",
-                "name": "Rappler",
-                "url": "https://www.rappler.com",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "0605aeb7c9fa9192ee635da1e7edabaf",
-            "title": "Samsung Unveils 'Galaxy Tab S12'... Expanding AI Productivity",
-            "description": "Samsung Electronics unveiled its new premium tablets, the Galaxy Tab S12 Ultra and Galaxy Tab S12+, on October 1.",
-            "content": "Samsung Electronics unveiled its new premium tablets, the Galaxy Tab S12 Ultra and Galaxy Tab S12+, on October 1. The new products feature enhanced hardware performance, Galaxy AI optimized for large displays, and Adobe Photoshop pre-installed for th... [3088 chars]",
-            "url": "https://www.invenglobal.com/articles/26691/samsung-unveils-galaxy-tab-s12-expanding-ai-productivity",
-            "image": "https://static.invenglobal.com/upload/image/2026/10/01/r1790822468719367.jpeg",
-            "publishedAt": "2026-10-01T02:39:26Z",
-            "lang": "en",
-            "source": {
-                "id": "e8d7ea30b7c7cf50d2b88be83a09a0fa",
-                "name": "InvenGlobal",
-                "url": "https://www.invenglobal.com",
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
                 "country": "us"
             }
         },
         {
-            "id": "9753d56e4c57c39100c2312b188907b9",
-            "title": "Infosys, ABN AMRO Extend Partnership to Accelerate AI Transformation",
-            "description": "Infosys has partnered with ABN AMRO Bank to accelerate the Netherlands-based bank's AI-driven digital transformation, according to a Wednesday statement.\nUnder the agreement, the Indian IT...",
+            "id": "68f01ead20c3d0f311bd9e51420d403f",
+            "title": "AI video improperly influenced AZ judge, appeals court rules",
+            "description": "The Arizona Court of Appeals ruled an AI-created victim video improperly influenced a sentencing judge and ordered resentencing in the shooting death.",
+            "content": "An AI video depicting the dead victim of a road rage shooting used at a sentencing hearing was “fundamentally unfair,” the Arizona Court of Appeals found.\nThe Court of Appeals vacated a 10.5-year manslaughter sentence and ordered the resentencing of ... [3532 chars]",
+            "url": "https://www.azcentral.com/story/news/crime-public-safety/metro-phoenix/2026/10/01/arizona-ai-video-improperly-influenced-judge-court-vacates-sentencing/92047527007/",
+            "image": "https://www.azcentral.com/gcdn/authoring/authoring-images/2025/05/09/USAT/83538801007-ai-az-court.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+            "publishedAt": "2026-10-02T01:59:35Z",
+            "lang": "en",
+            "source": {
+                "id": "1d8030dfae0e614f9c9b475b8c5d08e3",
+                "name": "The Arizona Republic",
+                "url": "https://www.azcentral.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "31d96a84cd05a925205a39e6920282c8",
+            "title": "OpenAI AI agents allegedly tried to cover their tracks after Australian govt website access",
+            "description": "SAN FRANCISCO, Oct 2 — Artificial intelligence agents developed by OpenAI tried to erase traces of their activity after gaining unauthorized access to government websites,...",
+            "content": "SAN FRANCISCO, Oct 2 — Artificial intelligence agents developed by OpenAI tried to erase traces of their activity after gaining unauthorized access to government websites, according to a report published Thursday.\nCybersecurity firm Asymmetric Securi... [2231 chars]",
+            "url": "https://www.malaymail.com/news/tech-gadgets/2026/10/02/openai-ai-agents-allegedly-tried-to-cover-their-tracks-after-australian-govt-website-access/237325",
+            "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/02/365801.jpg",
+            "publishedAt": "2026-10-02T01:55:42Z",
+            "lang": "en",
+            "source": {
+                "id": "cc589abcee543815a82a8b2856ebe9ed",
+                "name": "Malay Mail",
+                "url": "https://www.malaymail.com",
+                "country": "my"
+            }
+        },
+        {
+            "id": "e737140f9c20f56c91754e08bfd79894",
+            "title": "AI is going rogue. Who should be held responsible?",
+            "description": "Recent AI agents have hacked companies and government systems, prompting bipartisan calls to hold developers legally responsible. Florida and California have launched legal actions against OpenAI, while the FTC is investigating potential consumer harms. Experts say existing product-liability and cybersecurity laws may apply, especially when companies knew of risks.",
+            "content": "Technology 15 min ago\nThis is an AI assisted summary.\nRecent AI agents have hacked companies and government systems, prompting bipartisan calls to hold developers legally responsible. Florida and California have launched legal actions against OpenAI,... [23294 chars]",
+            "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/ai-agents-going-rogue-liability-who-is-responsible-10903268/",
+            "image": "https://images.indianexpress.com/2026/10/AI-Is-going-Rogue.jpg",
+            "publishedAt": "2026-10-02T01:55:19Z",
+            "lang": "en",
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "6404feeeb0e54e571c5e2d3e9c7e6f69",
+            "title": "AI is going rogue. Who should be held responsible?",
+            "description": "Many think artificial intelligence companies should be held liable for their runaway technology. But legal scholars say applying existing law could be messy.",
+            "content": "Companies have long been held accountable for everything from faulty toys to plane crashes under consumer protection laws. Courts can hold companies legally responsible for damage caused by negligence or a defective product. And they can assign addit... [7184 chars]",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/ai-agents-going-rogue-liability-who-is-responsible-10903268/",
+            "image": "https://images.indianexpress.com/2026/10/AI-Is-going-Rogue.jpg",
+            "publishedAt": "2026-10-02T01:52:24Z",
+            "lang": "en",
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "4a5598ce072ea1a9910aa36b1cac13aa",
+            "title": "Tencent-Backed Infinigence Confidentially Files for Hong Kong IPO",
+            "description": "Chinese AI cloud infrastructure provider Infinigence AI is targeting a Hong Kong listing as soon as the first half of next year, Bloomberg News reported Thursday.\nThe Shanghai-based company has...",
             "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/infosys-abn-amro-extend-partnership-to-accelerate-ai-transformation-ce785ad3da81f426",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-10-01T02:35:14Z",
+            "url": "https://www.marketscreener.com/news/tencent-backed-infinigence-confidentially-files-for-hong-kong-ipo-ce785ddadd8ef424",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-10-02T01:50:19Z",
             "lang": "en",
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
                 "name": "MarketScreener",
                 "url": "https://www.marketscreener.com",
                 "country": "fr"
+            }
+        },
+        {
+            "id": "6f940ee6b91ac40eefb80005e0e85c13",
+            "title": "Zetrix owes over RM200 million to Malaysian government",
+            "description": "Malaysian firm Zetrix AI owes over RM200 million to the Road Transport Department amid financial troubles and declining market value. Read more at straitstimes.com.",
+            "content": "KUALA LUMPUR - A Malaysian firm whose listed shares have lost four - fifths of their value since August amid financial troubles is believed to owe over RM200 million (S$63 million) to the Road Transport Department (RTD).\nOfficial documents seen by Th... [4155 chars]",
+            "url": "https://www.straitstimes.com/asia/se-asia/troubled-umno-linked-firm-zetrix-owes-malaysian-government-over-63-million-in-collections-source",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3c8e98ca2ed5cf67596a3cc4bdca3c7d0a04ec9b555e27e27b80e65793e3bde3",
+            "publishedAt": "2026-10-02T01:45:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
             }
         }
     ]
