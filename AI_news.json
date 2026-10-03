@@ -4,64 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 459103,
+    "totalArticles": 459895,
     "articles": [
         {
-            "id": "7bfd85a9bfffd611aec29d7c03197a3f",
-            "title": "AI Startup Suno Launches New Tool To Add Music To Spoken Word",
-            "description": "Suno has emerged as one of the fastest-growing generative AI startups, allowing people with little or no musical training to create complete songs from text prompts.",
-            "content": "Suno Inc., the AI music startup valued at more than $5 billion, is launching a new tool that'll let users put background music to their spoken-word creations, like poems, meditations and speeches.\nCalled “Speech,” the product will complement the serv... [2531 chars]",
-            "url": "https://www.ndtvprofit.com/technology/ai-startup-suno-launches-new-tool-to-add-music-to-spoken-word-12128211",
-            "image": "https://c.ndtvimg.com/2026-10/sm4r1j1_ai-startup-suno-_625x300_02_October_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-10-02T02:13:53Z",
-            "lang": "en",
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "c8c78e864b8a8e6b23682a74262b4a4c",
-            "title": "year yield to highest level since 2002",
-            "description": "Global bond yields surged as energy costs fuel inflation, AI investment lifts demand for capital and markets brace for higher interest rates for longer, raising borrowing costs worldwide.",
-            "content": "Global bond sell-off lifts US 10-year yield to highest level since 2002\nGlobal bond yields surged as energy costs fuel inflation, AI investment lifts demand for capital and markets brace for higher interest rates for longer, raising borrowing costs w... [4840 chars]",
-            "url": "https://www.cnbctv18.com/world/global-bond-sell-off-lifts-us-10-year-yield-to-highest-level-since-2002-20003483.htm",
-            "image": "https://images.cnbctv18.com/uploads/2026/10/image-2026-10-671a2789ac9e4fc00f137c6d0933669b.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-10-02T02:13:31Z",
-            "lang": "en",
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "dcfa742038a4b5c029084c823b6c7b4e",
-            "title": "Delhi govt opens command centre to track polluting activities",
-            "description": "New DelhiThe Delhi government on Thursday launched an Integrated Command and Control Centre (ICCC) for the Delhi Pollution Control Committee (DPCC) to monitor pollution sources in real time, with AI-enabled CCTV cameras tracking more than 700 construction sites and GPS-enabled systems monitoring road sweeping, officials said | Latest News Delhi",
-            "content": "The Delhi government on Thursday launched an Integrated Command and Control Centre (ICCC) for the Delhi Pollution Control Committee (DPCC) to monitor pollution sources in real time, with AI-enabled CCTV cameras tracking more than 700 construction sit... [2467 chars]",
-            "url": "https://www.hindustantimes.com/cities/delhi-news/delhi-govt-opens-command-centre-to-track-polluting-activities-101790877696795.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/01/1600x900/logo/CM-Rekha-Gupta-and-environment-minister-Manjinder-_1790877694788_9g0e.jpg",
-            "publishedAt": "2026-10-02T02:06:30Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "e40371ae9100f0621d57a3ee6dec1617",
-            "title": "Obama's warnings on AI are pure hypocrisy",
-            "description": "Obama helped unleash the very technology he now seeks to shackle. Worse still, he is stoking panic rather than encouraging reasoned discussion of the risks and benefits of AI.",
-            "content": "President Donald Trump has said that the US has to lead in artificial intelligence (AI) technology (or “superintelligence”), clearing government roadblocks for innovators while demanding full corporate transparency\nHe has also flatly rejected any joi... [3875 chars]",
-            "url": "https://nypost.com/2026/10/01/opinion/obamas-warnings-on-ai-are-pure-hypocrisy-heres-why/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143358089.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-10-02T02:01:54Z",
+            "id": "8826c55f6e1ce2279ab37ec50b3a564f",
+            "title": "Trump's striking the right balance for ensuring AI's safety",
+            "description": "Team Trump isn't just trusting Sam Altman & Co. to do the right thing.",
+            "content": "Amid a constant flood of “AI horror” stories, it’s good to see President Donald Trump and his team fighting back with reassurances about the tech and existing laws for controlling it.\nThis week’s claims that McDonald’s is using AI in a devious scheme... [2954 chars]",
+            "url": "https://nypost.com/2026/10/02/opinion/trumps-striking-the-right-balance-for-ensuring-ais-safety-and-success/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/jjiijiijji.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-10-03T00:41:10Z",
             "lang": "en",
             "source": {
                 "id": "95a96a1867c4dac6f720e9d08d4c1b96",
@@ -71,99 +23,147 @@
             }
         },
         {
-            "id": "68f01ead20c3d0f311bd9e51420d403f",
-            "title": "AI video improperly influenced AZ judge, appeals court rules",
-            "description": "The Arizona Court of Appeals ruled an AI-created victim video improperly influenced a sentencing judge and ordered resentencing in the shooting death.",
-            "content": "An AI video depicting the dead victim of a road rage shooting used at a sentencing hearing was “fundamentally unfair,” the Arizona Court of Appeals found.\nThe Court of Appeals vacated a 10.5-year manslaughter sentence and ordered the resentencing of ... [3532 chars]",
-            "url": "https://www.azcentral.com/story/news/crime-public-safety/metro-phoenix/2026/10/01/arizona-ai-video-improperly-influenced-judge-court-vacates-sentencing/92047527007/",
-            "image": "https://www.azcentral.com/gcdn/authoring/authoring-images/2025/05/09/USAT/83538801007-ai-az-court.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
-            "publishedAt": "2026-10-02T01:59:35Z",
+            "id": "8c08e3be8311e395d919daacfa7b88ca",
+            "title": "ED probes betting apps using AI firms to move Rs 2,000 crore abroad",
+            "description": "The Enforcement Directorate suspects that illegal betting syndicates moved over Rs 2,000 crore from India. These funds were disguised as legitimate investments in technology companies, specifically in artificial intelligence. Many companies involved have minimal business operations and disappear after receiving payments. The agency is investigating the role of various companies and secretaries in these transactions. Evidence has been traced linking over Rs 200 crore in remittances with a foreign entity.",
+            "content": "Synopsis\nThe Enforcement Directorate suspects that illegal betting syndicates moved over Rs 2,000 crore from India. These funds were disguised as legitimate investments in technology companies, specifically in artificial intelligence. Many companies ... [3812 chars]",
+            "url": "https://economictimes.indiatimes.com/news/india/ed-probes-betting-apps-using-ai-firms-to-move-rs-2000-crore-abroad/articleshow/134646286.cms",
+            "image": "https://img.etimg.com/thumb/msid-134646301,width-1200,height-900,imgsize-488050,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-10-03T00:30:00Z",
             "lang": "en",
             "source": {
-                "id": "1d8030dfae0e614f9c9b475b8c5d08e3",
-                "name": "The Arizona Republic",
-                "url": "https://www.azcentral.com",
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "3de3c8beeeccaf3552ab15c8c30742ed",
+            "title": "Donald Trump's surprise \"SI\" announcement causes domain gold rush as Melania Trump's birth country sees over a 100X increase in interest in Super Intelligence domain names",
+            "description": "Washington now calls AI \"SI\"",
+            "content": "Register.si logged 46,066 new .si domains in September 2026 compared with 3,515 in August after Trump said the US would call AI \"superintelligence\"\nRegistrations have continued to accelerate to over 12,600+ a day at the time of writing, as an increas... [3632 chars]",
+            "url": "https://www.techradar.com/pro/donald-trumps-surprise-si-announcement-causes-domain-gold-rush-as-melania-trumps-birth-country-sees-over-a-100x-increase-in-interest-in-super-intelligence-domain-names",
+            "image": "https://cdn.mos.cms.futurecdn.net/XqqAetaVtrCi5K7whUnv7H-1920-80.jpg",
+            "publishedAt": "2026-10-03T00:05:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "12154966194d8ceb36915a68334aedbc",
+            "title": "Data centre pre-leasing doubles amid rising AI demand",
+            "description": "Demand is being driven by rising smartphone use and consumer AI applications such as OpenAI’s ChatGPT and Google’s Gemini.",
+            "content": "Pre-leasing, or early booking of under-construction data centres, is an established practice worldwide. In India, for example, Adani Enterprises Ltd, one of the country’s largest industrial conglomerates, has bet on 1GW of cumulative data centre capa... [5930 chars]",
+            "url": "https://www.livemint.com/industry/infotech/data-centre-pre-leasing-doubles-amid-rising-ai-demand-11790836267049.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/g4d1235eeba32e338_1790949631925_zmm8_1790949632096_fsmf_79fdfdaf-3c54-48af-9e82-0c3c3dc274ef_pDZf.jpg",
+            "publishedAt": "2026-10-03T00:00:42Z",
+            "lang": "en",
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "d9a99c2a1ef8627a2c9d46584b66401c",
+            "title": "Nagpur-born techie plans major expansion in hometown",
+            "description": "city-born technologist neeraj dhopte, co-founder and executive director of bengaluru-based translab technologies pvt. ltd., is bringing his fast-growing data and ai company home. translab plans a major expansion in nagpur, betting on the city’s rapidly improving infrastructure and deep pool of engineering talent. the son of a reserve bank of india officer and a first-generation entrepreneur, dhopte studied at somalwar high school, ramdaspeth, and earned his engineering degree from shri ramdeobaba college of",
+            "content": "By Niraj Chinchkhede :\nCity-born technologist Neeraj Dhopte, Co-Founder and Executive Director of Bengaluru-based Translab Technologies Pvt. Ltd., is bringing his fast-growing data and AI company home. Translab plans a major expansion in Nagpur, bett... [2099 chars]",
+            "url": "https://www.thehitavada.com//Encyc/2026/10/3/nagpur-born-techie-plans-major-expansion-in-hometown.html",
+            "image": "https://www.thehitavada.com/Encyc/2026/10/3/Neeraj-Dhopte_202610031216434068_H@@IGHT_467_W@@IDTH_374.jpg",
+            "publishedAt": "2026-10-03T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "be0f185c644f25c000f6da374923d111",
+            "title": "Politicians have got no hope when it comes to AI",
+            "description": "The technology is developing at such speed even the tech bros don’t understand it—let alone lawmakers",
+            "content": "We do not, as a rule, televise blood sports these days. But periodically there are still moments when we watch excruciating dismemberments on live TV. They are called congressional hearings and involve bumbling, out-of-touch legislators asking inane ... [7250 chars]",
+            "url": "https://www.prospectmagazine.co.uk/ideas/technology/75126/politicians-have-no-hope-ai-regulation-trump-superintelligence",
+            "image": "https://media.prospectmagazine.co.uk/prod/images/gm_preview/8881bc7a6273-ar-header-aizt-alamy.jpg",
+            "publishedAt": "2026-10-03T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "46a709a3f3ff77e65f45307bcccaa0ee",
+                "name": "Prospect",
+                "url": "https://www.prospectmagazine.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "c8ebb0e33448ed0f3a7f99147ca87add",
+            "title": "Only Launching in English Is the Biggest Blind Spot For AI Growth",
+            "description": "Launching AI in English is fast, but it ignores a massive global market. To earn your next million users, look beyond simple translation.",
+            "content": "Many AI startups launch first in English because the models, benchmarks, developer tools and enterprise buyers are easiest to find there. That approach can help a company reach the market quickly, but it can also cause founders to overlook a much lar... [5299 chars]",
+            "url": "https://www.entrepreneur.com/business-news/your-next-million-ai-users-may-not-use-english-thats-why-you-need-to-cater-to-a-multilingual-market",
+            "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/09/multilingual-market-ai-0926_g2204770115.jpg",
+            "publishedAt": "2026-10-03T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "839b9d172147498877bab641815b0631",
+                "name": "Entrepreneur",
+                "url": "https://www.entrepreneur.com",
                 "country": "us"
             }
         },
         {
-            "id": "31d96a84cd05a925205a39e6920282c8",
-            "title": "OpenAI AI agents allegedly tried to cover their tracks after Australian govt website access",
-            "description": "SAN FRANCISCO, Oct 2 — Artificial intelligence agents developed by OpenAI tried to erase traces of their activity after gaining unauthorized access to government websites,...",
-            "content": "SAN FRANCISCO, Oct 2 — Artificial intelligence agents developed by OpenAI tried to erase traces of their activity after gaining unauthorized access to government websites, according to a report published Thursday.\nCybersecurity firm Asymmetric Securi... [2231 chars]",
-            "url": "https://www.malaymail.com/news/tech-gadgets/2026/10/02/openai-ai-agents-allegedly-tried-to-cover-their-tracks-after-australian-govt-website-access/237325",
-            "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/02/365801.jpg",
-            "publishedAt": "2026-10-02T01:55:42Z",
+            "id": "a8dfd6ad0ba6f9579981c4e373964e24",
+            "title": "Nagpur-born techie plans major expansion in hometown",
+            "description": "city-born technologist neeraj dhopte, co-founder and executive director of bengaluru-based translab technologies pvt. ltd., is bringing his fast-growing data and ai company home. translab plans a major expansion in nagpur, betting on the city’s rapidly improving infrastructure and deep pool of engineering talent. the son of a reserve bank of india officer and a first-generation entrepreneur, dhopte studied at somalwar high school, ramdaspeth, and earned his engineering degree from shri ramdeobaba college of",
+            "content": "By Niraj Chinchkhede :\nCity-born technologist Neeraj Dhopte, Co-Founder and Executive Director of Bengaluru-based Translab Technologies Pvt. Ltd., is bringing his fast-growing data and AI company home. Translab plans a major expansion in Nagpur, bett... [2099 chars]",
+            "url": "https://www.thehitavada.com/Encyc/2026/10/3/nagpur-born-techie-plans-major-expansion-in-hometown.html",
+            "image": "https://www.thehitavada.com/Encyc/2026/10/3/Neeraj-Dhopte_202610031216434068_H@@IGHT_467_W@@IDTH_374.jpg",
+            "publishedAt": "2026-10-03T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "fd963d9754d018154e7c23392e561a6a",
+            "title": "California man smuggled $300 million of AI hardware to China, feds say",
+            "description": "The owner of a San Gabriel Valley-based technology company was arrested Thursday after federal prosecutors charged him with smuggling more than $300 million worth of restricted computer hardware to China.",
+            "content": "The owner of a San Gabriel Valley technology company was arrested Thursday after federal prosecutors charged him with smuggling more than $300 million of restricted computer hardware to China.\nGreg Lui, the owner of Earthmade Computer Inc. in the Cit... [3612 chars]",
+            "url": "https://www.latimes.com/california/story/2026-10-02/california-man-smuggled-300-million-of-ai-hardware-to-china-feds-say",
+            "image": "https://ca-times.brightspotcdn.com/dims4/default/c0ed7af/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5d%2F63%2Fe5fff2514790a82053c43d2a9fa2%2Fgettyimages-1242409189.jpg",
+            "publishedAt": "2026-10-02T23:54:21Z",
+            "lang": "en",
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "ddeae2b3100bf22a521c6c0e6cbff30b",
+            "title": "US appeals court blocks Minnesota law barring 'nudified' photos in XAI lawsuit",
+            "description": "WASHINGTON, Oct 2 (Reuters) - Elon ⁠Musk's xAI on Friday persuaded a US federal appeals court to ⁠halt Minnesota's first-in-the-nation ban on AI-generated fake nude images as ‌the technology and social media company pursues a lawsuit alleging that the law is unconstitutional.",
+            "content": "WASHINGTON, Oct 2 (Reuters) - Elon ⁠Musk's xAI on Friday persuaded a US federal appeals court to ⁠halt Minnesota's first-in-the-nation ban on AI-generated fake nude images as ‌the technology and social media company pursues a lawsuit alleging that th... [1573 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/03/us-appeals-court-blocks-minnesota-law-barring-039nudified039-photos-in-xai-lawsuit",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/03/4142452.jpg",
+            "publishedAt": "2026-10-02T23:46:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
                 "country": "my"
-            }
-        },
-        {
-            "id": "e737140f9c20f56c91754e08bfd79894",
-            "title": "AI is going rogue. Who should be held responsible?",
-            "description": "Recent AI agents have hacked companies and government systems, prompting bipartisan calls to hold developers legally responsible. Florida and California have launched legal actions against OpenAI, while the FTC is investigating potential consumer harms. Experts say existing product-liability and cybersecurity laws may apply, especially when companies knew of risks.",
-            "content": "Technology 15 min ago\nThis is an AI assisted summary.\nRecent AI agents have hacked companies and government systems, prompting bipartisan calls to hold developers legally responsible. Florida and California have launched legal actions against OpenAI,... [23294 chars]",
-            "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/ai-agents-going-rogue-liability-who-is-responsible-10903268/",
-            "image": "https://images.indianexpress.com/2026/10/AI-Is-going-Rogue.jpg",
-            "publishedAt": "2026-10-02T01:55:19Z",
-            "lang": "en",
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "6404feeeb0e54e571c5e2d3e9c7e6f69",
-            "title": "AI is going rogue. Who should be held responsible?",
-            "description": "Many think artificial intelligence companies should be held liable for their runaway technology. But legal scholars say applying existing law could be messy.",
-            "content": "Companies have long been held accountable for everything from faulty toys to plane crashes under consumer protection laws. Courts can hold companies legally responsible for damage caused by negligence or a defective product. And they can assign addit... [7184 chars]",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/ai-agents-going-rogue-liability-who-is-responsible-10903268/",
-            "image": "https://images.indianexpress.com/2026/10/AI-Is-going-Rogue.jpg",
-            "publishedAt": "2026-10-02T01:52:24Z",
-            "lang": "en",
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "4a5598ce072ea1a9910aa36b1cac13aa",
-            "title": "Tencent-Backed Infinigence Confidentially Files for Hong Kong IPO",
-            "description": "Chinese AI cloud infrastructure provider Infinigence AI is targeting a Hong Kong listing as soon as the first half of next year, Bloomberg News reported Thursday.\nThe Shanghai-based company has...",
-            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/tencent-backed-infinigence-confidentially-files-for-hong-kong-ipo-ce785ddadd8ef424",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-10-02T01:50:19Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "6f940ee6b91ac40eefb80005e0e85c13",
-            "title": "Zetrix owes over RM200 million to Malaysian government",
-            "description": "Malaysian firm Zetrix AI owes over RM200 million to the Road Transport Department amid financial troubles and declining market value. Read more at straitstimes.com.",
-            "content": "KUALA LUMPUR - A Malaysian firm whose listed shares have lost four - fifths of their value since August amid financial troubles is believed to owe over RM200 million (S$63 million) to the Road Transport Department (RTD).\nOfficial documents seen by Th... [4155 chars]",
-            "url": "https://www.straitstimes.com/asia/se-asia/troubled-umno-linked-firm-zetrix-owes-malaysian-government-over-63-million-in-collections-source",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3c8e98ca2ed5cf67596a3cc4bdca3c7d0a04ec9b555e27e27b80e65793e3bde3",
-            "publishedAt": "2026-10-02T01:45:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
             }
         }
     ]
