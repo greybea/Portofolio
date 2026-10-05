@@ -4,64 +4,16 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 460377,
+    "totalArticles": 460989,
     "articles": [
         {
-            "id": "4716b3fdbf126649c27ee418df609a71",
-            "title": "Trump defends data centers in Ohio as he rallies to boost Jon Husted in a tight Senate race",
-            "description": "President Donald Trump is defending data centers powering AI projects during a campaign rally in Ohio. He insists they benefit local communities and warns against losing them to China. The topic is contentious, especially in Ohio's Senate race. Republican Sen. Jon Husted faces criticism for supporting data centers, which some blame for high energy costs. Trump is on a 32-day campaign tour before the November elections, focusing on battleground states like Ohio. The state is crucial for Democrats aiming to flip the Senate. Meanwhile, Republican Vivek Ramaswamy faces a tight governor's race against Democrat Dr. Amy Acton.",
-            "content": "VANDALIA, Ohio (AP) — President Donald Trump on Saturday defended data centers that power artificial intelligence projects but have become a contentious campaign issue nationwide, as he took his midterm tour to Ohio to insist his party will keep its ... [679 chars]",
-            "url": "https://www.ajc.com/news/2026/10/trump-defends-data-centers-in-ohio-as-he-rallies-to-boost-jon-husted-in-a-tight-senate-race/",
-            "image": "https://images.ajc.com/resizer/v2/MIKYHIUSNVCJLHF63LSXNWIQTQ.jpg?auth=75b1ef1a483c214d14647797fb5d9ae762e7a4c6f99d5ecf68f24c0655d8e566&width=1200&height=630&smart=true",
-            "publishedAt": "2026-10-04T01:21:25Z",
-            "lang": "en",
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e199de24f55a6ef5436cb635df7f3de7",
-            "title": "Experts reveal main reasons people use AI to self diagnose",
-            "description": "Even though AI cannot “see, listen, touch or feel” patients, more and more Aussies are using the technology for medical advice.",
-            "content": "At a small pharmacy in regional NSW, the staff have noticed a change in the behaviour of their regular clientele.\nMore and more, locals are walking in the front doors of Blooms The Chemist in Mudgee and asking pharmacy workers whether diagnoses they ... [4463 chars]",
-            "url": "https://www.perthnow.com.au/news/experts-reveal-main-reasons-people-use-ai-to-self-diagnose-c-22966118",
-            "image": "https://images.perthnow.com.au/publication/C-22966118/e8c5efb1bcd4ed3620a4ca7f2d00d725cb86f619-16x9-x0y0w2048h1152.jpg?imwidth=1200",
-            "publishedAt": "2026-10-04T01:20:35Z",
-            "lang": "en",
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "9c9b0d0ddc44680dc74e7b5c42b2deee",
-            "title": "Janhvi Kapoor And Jr NTR Viral Video: Chiranjeevi Urges Netizens Not To Watch, Download Chuttamalle's Ai Version",
-            "description": "Chiranjeevi has slammed Chuttamalle song's viral Ai version featuring Jr NTR and Janhvi Kapoor and called for action against those behind it.",
-            "content": "Last Updated:October 04, 2026, 06:45 IST\nChiranjeevi has slammed Chuttamalle song's viral Ai version featuring Jr NTR and Janhvi Kapoor and called for action against those behind it.\nMegastar Chiranjeevi has lashed out against Chuttamalle song’s Ai v... [4185 chars]",
-            "url": "https://www.news18.com/movies/telugu-cinema/janhvi-kapoor-and-jr-ntr-viral-video-chiranjeevi-urges-netizens-not-to-watch-download-chuttamalles-ai-version-10366369.html",
-            "image": "https://images.news18.com/ibnlive/uploads/2026/10/chattumalle-2026-10-12bfe4bd6a235123f53f254309ab68ec-1200x675.jpg",
-            "publishedAt": "2026-10-04T01:15:31Z",
-            "lang": "en",
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "7b4aad9de43aec19d9b3d7a455eb9d29",
-            "title": "US AI task force to assess risks and report on super intelligence",
-            "description": "The US White House task force led by Jay Clayton will assess AI risks and government responsibility in a report due within 120 days. Read more at straitstimes.com.",
-            "content": "WASHINGTON - A new White House task force will produce a report assessing risks posed by artificial intelligence and what responsibility the US federal government should have over the technology, the Wall Street Journal reported.\nThe task force will ... [1520 chars]",
-            "url": "https://www.straitstimes.com/world/united-states/us-ai-task-force-led-by-jay-clayton-to-report-on-technologys-risks-wsj",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f00576799eeb21a10f3b3f117267106e9447c45fafc11cbfe31cb7f277db76b6",
-            "publishedAt": "2026-10-04T01:15:00Z",
+            "id": "cd5156fe722d838944ce042c72e4b5ac",
+            "title": "Bank of Japan says AI boom may have eased financial conditions, warns of market risks",
+            "description": "BOJ has identified robust AI-related demand as among factors that could push underlying inflation above its 2% target. Read more at straitstimes.com.",
+            "content": "TOKYO - Bank of Japan (BOJ) Deputy Governor Shinichi Uchida said the global artificial intelligence (AI) boom may have eased financial conditions by stoking demand and boosting asset prices, but warned of the risk of a market pullback if expected pro... [1450 chars]",
+            "url": "https://www.straitstimes.com/business/economy/bank-of-japan-says-ai-boom-may-have-eased-financial-conditions-warns-of-market-risks",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/51df34b5fa7f3eb338ddc82dea0511d073caa5eb3f5818620c4b3852e0caca1e",
+            "publishedAt": "2026-10-05T04:30:00Z",
             "lang": "en",
             "source": {
                 "id": "72bbcd9c095a3d51c97cdda7a97dba31",
@@ -71,99 +23,147 @@
             }
         },
         {
-            "id": "3b1528cd1547d1c516d9eb680a09d9c0",
-            "title": "Janhvi; to consult Telugu film bodies",
-            "description": "Chiranjeevi has expressed concern over the AI-morphed Chuttamalle video featuring Jr NTR and Janhvi Kapoor, saying he will consult Telugu film bodies over the issue.",
-            "content": "Megastar Chiranjeevi has reacted to the AI-morphed video featuring Jr NTR and Janhvi Kapoor from their popular song 'Chuttamalle' from Devara: Part 1. The actor expressed disappointment over the misuse of artificial intelligence, saying he is \"deeply... [3291 chars]",
-            "url": "https://www.indiatvnews.com/entertainment/regional-cinema/chiranjeevi-deeply-disturbed-by-ai-morphed-chuttamalle-video-of-jr-ntr-janhvi-kapoor-to-consult-telugu-film-bodies-2026-10-04-1056017",
-            "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/10/chiranjeevi-jr-ntr-janhvi-kapoor-1791074417.jpg",
-            "publishedAt": "2026-10-04T00:54:09Z",
+            "id": "28c0ef8aed2e4502df232b5975a679e0",
+            "title": "Midland man 'achieves teen dream' by creating AI girl group 'with millions' of fans",
+            "description": "'It's odd and I never really expected this, it's amazing that people are listening to my songs'",
+            "content": "He was a Birmingham teenager obsessed with 90s girl groups like Destiny’s Child, Spice Girls, Sugababes and All Saints.\nBut the 15-year-old Craig Raybould could never have known that his dream of creating his own all-female act would become - virtual... [4169 chars]",
+            "url": "https://www.birminghammail.co.uk/whats-on/music-nightlife-news/midland-man-achieves-teen-dream-34701819",
+            "image": "https://i2-prod.birminghammail.co.uk/article34706254.ece/ALTERNATES/s1200d/0_Certain-Call.jpg",
+            "publishedAt": "2026-10-05T04:30:00Z",
             "lang": "en",
             "source": {
-                "id": "143b993b193f72147f3de29ebcfbf505",
-                "name": "India TV News",
-                "url": "https://www.indiatvnews.com",
+                "id": "cc0de8416f75329df7c88d7524745d12",
+                "name": "Birmingham Live",
+                "url": "https://www.birminghammail.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "6cf60df3212f0e61228ea539a9f33f67",
+            "title": "Laid off with Rs 30 lakh debt, AI engineer left helpless",
+            "description": "A Bengaluru-based AI engineer said he was laid off while repaying a Rs 30 lakh home loan. His Reddit post highlighted family pressure, a weak hiring market and mixed responses from users.",
+            "content": "The job market is tough, especially in the IT sector. But AI seems to be booming. Yet, an Indian techie, working as a generative AI/machine learning engineer, was recently laid off. He says that this happened just a year after his family took a Rs 30... [2832 chars]",
+            "url": "https://www.indiatoday.in/jobs/story/laid-off-with-rs-30-lakh-debt-ai-engineer-left-helpless-3009594-2026-10-05",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/laid-off-indian-techie-applies-for-700-jobs--get-none-14532735-16x9.png?VersionId=jkDO4KhHTIEGlFx64vCGXmGYh4fWLpXG",
+            "publishedAt": "2026-10-05T04:29:56Z",
+            "lang": "en",
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
                 "country": "in"
             }
         },
         {
-            "id": "47ad23e565ea3e850bd09d36fd93ab82",
-            "title": "Trump defends data centers in Ohio as he rallies to boost Jon Husted in a tight Senate race",
-            "description": "VANDALIA, Ohio (AP) — President Donald Trump on Saturday defended data centers that power artificial intelligence projects but have become a contentious campaign issue nationwide, as he took his midterm tour to Ohio to insist his party will keep th",
-            "content": "VANDALIA, Ohio (AP) — President Donald Trump on Saturday defended data centers that power artificial intelligence projects but have become a contentious campaign issue nationwide, as he took his midterm tour to Ohio to insist his party will keep thei... [5803 chars]",
-            "url": "https://www.baytoday.ca/world-news/trump-defends-data-centers-in-ohio-as-he-rallies-to-boost-jon-husted-in-a-tight-senate-race-12854460",
-            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/10/1aa6055ed4c6c3c4feced674957818daa2a81af5ae42165c72a14d6a77a9db7c.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-10-04T00:38:12Z",
+            "id": "c6728d7b3164d91c4035d1c8c4adce62",
+            "title": "Japan's richest man Masayoshi Son, who sold all his stake in the world's most-valuable company, to fund Sam Altman's OpenAI is now worried, and has a 'request'",
+            "description": "Japan's richest man and SoftBank Group founder Masayoshi Son, long regarded as one of artificial intelligence’s most vocal champions, has reportedly",
+            "content": "Japan's richest man and SoftBank Group founder Masayoshi Son, long regarded as one of artificial intelligence’s most vocal champions, has reportedly voiced sharp concern over the safety risks posed by rapidly advancing machines. According to a report... [3310 chars]",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/japans-richest-man-masayoshi-son-who-sold-all-his-stake-in-the-worlds-most-valuable-company-to-fund-sam-altmans-openai-is-now-worried-and-has-a-request/articleshow/134685829.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134685846,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-05T04:29:00Z",
             "lang": "en",
             "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "d19ddd425916ca66db4c6ede8c93afaa",
-            "title": "Trump defends data centers in Ohio as he rallies to boost Jon Husted in a tight Senate race",
-            "description": "VANDALIA, Ohio (AP) — President Donald Trump on Saturday defended data centers that power artificial intelligence projects but have become a contentious campaign issue nationwide, as he took his midterm tour to Ohio to insist his party will keep th",
-            "content": "VANDALIA, Ohio (AP) — President Donald Trump on Saturday defended data centers that power artificial intelligence projects but have become a contentious campaign issue nationwide, as he took his midterm tour to Ohio to insist his party will keep thei... [5803 chars]",
-            "url": "https://www.sootoday.com/world-news/trump-defends-data-centers-in-ohio-as-he-rallies-to-boost-jon-husted-in-a-tight-senate-race-12854460",
-            "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/10/1aa6055ed4c6c3c4feced674957818daa2a81af5ae42165c72a14d6a77a9db7c.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2026-10-04T00:38:12Z",
-            "lang": "en",
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "13581cd0b58bc651d2db771e2b666aea",
-            "title": "OpenAI safety leader resigns, warns culture of developing the technology is 'broken'",
-            "description": "One of the safety leaders of OpenAI has resigned, warning that the culture of Artificial Intelligence firms was \"broken\" and the tech giants are not “being nearly careful enough” when it comes to developing the technology.",
-            "content": "One of the safety leaders of OpenAI has resigned, warning that the culture of Artificial Intelligence firms was \"broken\" and the tech giants are not “being nearly careful enough” when it comes to developing the technology. David Robinson, who led the... [4088 chars]",
-            "url": "https://www.firstpost.com/tech/openai-safety-leader-resigns-warns-culture-of-developing-the-technology-is-broken-14050222.html",
-            "image": "https://images.firstpost.com/uploads/2026/08/OpenAI-1-2026-08-4c4f533072c5c14645765b0fe1bc6cc7-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-10-04T00:36:56Z",
-            "lang": "en",
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "03b86b825afe669f40e7cc270b65e7bd",
-            "title": "Trump administration sets up task force on AI",
-            "description": "While President Donald Trump has expressly downplayed the need to oversee and regulate AI development, a taskforce has been set up to assess risks.",
-            "content": "The White House has created a task force to examine AI's risks and opportunities and recommend what role the federal government should play in overseeing the technology, according to a US media report.\nThe Wall Street Journal says the taskforce has b... [543 chars]",
-            "url": "https://www.perthnow.com.au/news/technology/trump-administration-sets-up-task-force-on-ai-c-22966058",
-            "image": "https://images.perthnow.com.au/publication/C-22966058/13fede412aeb2375a6869c99be9aa39f45f8fba2-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-10-04T00:16:59Z",
+            "id": "c1cd2a1e67a3cf3867db12b46006ddd0",
+            "title": "Russian lab worker reportedly dies of plague: What happened at the anti-plague institute, how pneumonic plague spreads and why authorities acted quickly",
+            "description": "A laboratory worker’s death in Siberia has triggered concern over a possible plague exposure, but Russian health authorities have not publicly confirmed that plague caused her death. The 28-year-old employee of the Anti-Plague Research Institute in Shelekhov, near Irkutsk, was diagnosed with pneumonia of “unknown aetiology” before she died on October 2.Reports have linked the case to an alleged laboratory accident involving Yersinia pestis, the bacterium that causes plague. That detail remains unverified, making it important to separate what is reported from what has actually been confirmed.(AI generated representative image)",
+            "content": "A laboratory worker’s death in Siberia has triggered concern over a possible plague exposure, but Russian health authorities have not publicly confirmed that plague caused her death. The 28-year-old employee of the Anti-Plague Research Institute in S... [3443 chars]",
+            "url": "https://timesofindia.indiatimes.com/health/russian-lab-worker-reportedly-dies-of-plague-what-happened-at-the-anti-plague-institute-how-pneumonic-plague-spreads-and-why-authorities-acted-quickly/photostory/134685301.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134685734,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-05T04:27:00Z",
             "lang": "en",
             "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
             }
         },
         {
-            "id": "781bfea6f85e67f05ae177046b984cba",
-            "title": "Trump administration sets up task force on AI",
-            "description": "While President Donald Trump has expressly downplayed the need to oversee and regulate AI development, a taskforce has...",
-            "content": "As it happens\nBreaking news alert\nBe the first to know when news breaks.\nDaily\nSubscriber Only\nEarly Look At David Pope\nYour exclusive preview of David Pope's latest cartoon.\nAs it happens\nPublic Service News\nDon't miss updates on news about the Publ... [1796 chars]",
-            "url": "https://www.canberratimes.com.au/story/9362116/trump-administration-sets-up-task-force-on-ai/",
-            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/daab5076-9a8d-4b00-b6dc-cb2b0f977190.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-10-04T00:14:46Z",
+            "id": "9835330f61d8e89588fb2afa67f48894",
+            "title": "Meta lets go co-founders and employees of AI startup Virtue AI, four months after the company hired them; Andy Stone admits differences over style of working",
+            "description": "Meta is letting go of employees from an AI security startup it acquired just months ago.",
+            "content": "Meta is letting go of employees from an AI security startup it acquired just months ago. The tech giant has reportedly parted ways with Virtue AI co-founders Bo Li, Dawn Song, and Sanmi Koyejo, along with other employees, just four months after bring... [4746 chars]",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-lets-go-co-founders-and-employees-of-ai-startup-virtue-ai-four-months-after-the-company-hired-them-andy-stone-admits-differences-over-style-of-working/articleshow/134685788.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134685816,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-05T04:26:00Z",
             "lang": "en",
             "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "bba42e18b46fd3c97b8c4aba6cd14d83",
+            "title": "Quantum Valley in Amaravati: Naidu announces Rs 500 crore IIT deep tech venture fund",
+            "description": "Andhra Pradesh Chief Minister N Chandrababu Naidu has pitched Amaravati as a future Quantum Valley, announcing an IIT Research Park, a Rs 500 crore deep tech fund and startup initiatives. He also urged five lakh IIT graduates to unite for nation building, with AI and entrepreneurship learning from Class 6.",
+            "content": "Andhra Pradesh Chief Minister N Chandrababu Naidu has made a direct pitch to the five lakh-strong PanIIT alumni network: bring your ideas, technology and entrepreneurial experience back into nation-building.\nAddressing the PanIIT Andhra Pradesh Summi... [1383 chars]",
+            "url": "https://www.indiatoday.in/education-today/news/story/quantum-valley-in-amaravati-naidu-announces-rs-500-crore-iit-deep-tech-venture-fund-3009597-2026-10-05",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/quantum-valley-in-amaravati-naidu-announces-rs-500-crore-iit-deep-tech-venture-fund-052009458-16x9_0.jpg?VersionId=gsHJZ0OlshKl1DEbkitWbCOQnsJAVWVe",
+            "publishedAt": "2026-10-05T04:24:30Z",
+            "lang": "en",
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "05623f741f15106cd0a89a2c86bab417",
+            "title": "Best AI Website Builder for Small Business: How to Choose the Right Platform",
+            "description": "The right platform should make it easier to build and manage a website while allowing the business to grow. Comparing several AI",
+            "content": "Share\nShare\nShare\nShare\nEmail\nBest AI Website Builder for Small Business: How to Choose the Right Platform\nChoosing the best AI website builder for small business can make a major difference in how quickly a company gets online and how easily the web... [8907 chars]",
+            "url": "https://techbullion.com/best-ai-website-builder-for-small-business-how-to-choose-the-right-platform/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/10/images-69.jpeg",
+            "publishedAt": "2026-10-05T04:23:40Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "9cae542d39fcaadf3269d601e61f83d7",
+            "title": "Google is shrinking your Gemini choices unless you pay more",
+            "description": "Free and AI Plus subscribers are losing access to Flash and Pro models",
+            "content": "Google has so far allowed free access to its latest Gemini Flash models for users on the free plan. But that will change starting later this week, with the company limiting access to its latest and most powerful models to its paying customers.\nAn upd... [2301 chars]",
+            "url": "https://www.androidpolice.com/google-shrinking-gemini-choices-unless-you-pay-more/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/ask-gemini-feature-shown-on-google-pixel-phone-s-screen.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-10-05T04:23:06Z",
+            "lang": "en",
+            "source": {
+                "id": "3855a489b685d9599a636250ed950d3c",
+                "name": "Android Police",
+                "url": "https://www.androidpolice.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "b17fceeecb356329a3253c7137d66ab3",
+            "title": "term growth as Indian IT sector faces muted Q2: Report",
+            "description": "India's IT services sector is likely to see muted performance in the second quarter of FY27, but increasing traction in artificial intelligence-related deals could support growth over the medium term, Centrum said in a report.",
+            "content": "Synopsis\nIndia's IT services sector is likely to see muted performance in the second quarter of FY27, but increasing traction in artificial intelligence-related deals could support growth over the medium term, Centrum said in a report.\nListen to this... [2665 chars]",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/ai-deals-seen-driving-medium-term-growth-as-indian-it-sector-faces-muted-q2-report/articleshow/134685737.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-173670,resizemode-75,msid-134685737/tech/information-tech/ai-deals-seen-driving-medium-term-growth-as-indian-it-sector-faces-muted-q2-report.jpg",
+            "publishedAt": "2026-10-05T04:21:51Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
             }
         }
     ]
