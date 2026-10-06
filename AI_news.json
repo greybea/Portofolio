@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 460989,
+    "totalArticles": 461962,
     "articles": [
         {
-            "id": "cd5156fe722d838944ce042c72e4b5ac",
-            "title": "Bank of Japan says AI boom may have eased financial conditions, warns of market risks",
-            "description": "BOJ has identified robust AI-related demand as among factors that could push underlying inflation above its 2% target. Read more at straitstimes.com.",
-            "content": "TOKYO - Bank of Japan (BOJ) Deputy Governor Shinichi Uchida said the global artificial intelligence (AI) boom may have eased financial conditions by stoking demand and boosting asset prices, but warned of the risk of a market pullback if expected pro... [1450 chars]",
-            "url": "https://www.straitstimes.com/business/economy/bank-of-japan-says-ai-boom-may-have-eased-financial-conditions-warns-of-market-risks",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/51df34b5fa7f3eb338ddc82dea0511d073caa5eb3f5818620c4b3852e0caca1e",
-            "publishedAt": "2026-10-05T04:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "28c0ef8aed2e4502df232b5975a679e0",
-            "title": "Midland man 'achieves teen dream' by creating AI girl group 'with millions' of fans",
-            "description": "'It's odd and I never really expected this, it's amazing that people are listening to my songs'",
-            "content": "He was a Birmingham teenager obsessed with 90s girl groups like Destiny’s Child, Spice Girls, Sugababes and All Saints.\nBut the 15-year-old Craig Raybould could never have known that his dream of creating his own all-female act would become - virtual... [4169 chars]",
-            "url": "https://www.birminghammail.co.uk/whats-on/music-nightlife-news/midland-man-achieves-teen-dream-34701819",
-            "image": "https://i2-prod.birminghammail.co.uk/article34706254.ece/ALTERNATES/s1200d/0_Certain-Call.jpg",
-            "publishedAt": "2026-10-05T04:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "cc0de8416f75329df7c88d7524745d12",
-                "name": "Birmingham Live",
-                "url": "https://www.birminghammail.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "6cf60df3212f0e61228ea539a9f33f67",
-            "title": "Laid off with Rs 30 lakh debt, AI engineer left helpless",
-            "description": "A Bengaluru-based AI engineer said he was laid off while repaying a Rs 30 lakh home loan. His Reddit post highlighted family pressure, a weak hiring market and mixed responses from users.",
-            "content": "The job market is tough, especially in the IT sector. But AI seems to be booming. Yet, an Indian techie, working as a generative AI/machine learning engineer, was recently laid off. He says that this happened just a year after his family took a Rs 30... [2832 chars]",
-            "url": "https://www.indiatoday.in/jobs/story/laid-off-with-rs-30-lakh-debt-ai-engineer-left-helpless-3009594-2026-10-05",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/laid-off-indian-techie-applies-for-700-jobs--get-none-14532735-16x9.png?VersionId=jkDO4KhHTIEGlFx64vCGXmGYh4fWLpXG",
-            "publishedAt": "2026-10-05T04:29:56Z",
-            "lang": "en",
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "c6728d7b3164d91c4035d1c8c4adce62",
-            "title": "Japan's richest man Masayoshi Son, who sold all his stake in the world's most-valuable company, to fund Sam Altman's OpenAI is now worried, and has a 'request'",
-            "description": "Japan's richest man and SoftBank Group founder Masayoshi Son, long regarded as one of artificial intelligence’s most vocal champions, has reportedly",
-            "content": "Japan's richest man and SoftBank Group founder Masayoshi Son, long regarded as one of artificial intelligence’s most vocal champions, has reportedly voiced sharp concern over the safety risks posed by rapidly advancing machines. According to a report... [3310 chars]",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/japans-richest-man-masayoshi-son-who-sold-all-his-stake-in-the-worlds-most-valuable-company-to-fund-sam-altmans-openai-is-now-worried-and-has-a-request/articleshow/134685829.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134685846,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-10-05T04:29:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "c1cd2a1e67a3cf3867db12b46006ddd0",
-            "title": "Russian lab worker reportedly dies of plague: What happened at the anti-plague institute, how pneumonic plague spreads and why authorities acted quickly",
-            "description": "A laboratory worker’s death in Siberia has triggered concern over a possible plague exposure, but Russian health authorities have not publicly confirmed that plague caused her death. The 28-year-old employee of the Anti-Plague Research Institute in Shelekhov, near Irkutsk, was diagnosed with pneumonia of “unknown aetiology” before she died on October 2.Reports have linked the case to an alleged laboratory accident involving Yersinia pestis, the bacterium that causes plague. That detail remains unverified, making it important to separate what is reported from what has actually been confirmed.(AI generated representative image)",
-            "content": "A laboratory worker’s death in Siberia has triggered concern over a possible plague exposure, but Russian health authorities have not publicly confirmed that plague caused her death. The 28-year-old employee of the Anti-Plague Research Institute in S... [3443 chars]",
-            "url": "https://timesofindia.indiatimes.com/health/russian-lab-worker-reportedly-dies-of-plague-what-happened-at-the-anti-plague-institute-how-pneumonic-plague-spreads-and-why-authorities-acted-quickly/photostory/134685301.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134685734,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-10-05T04:27:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "9835330f61d8e89588fb2afa67f48894",
-            "title": "Meta lets go co-founders and employees of AI startup Virtue AI, four months after the company hired them; Andy Stone admits differences over style of working",
-            "description": "Meta is letting go of employees from an AI security startup it acquired just months ago.",
-            "content": "Meta is letting go of employees from an AI security startup it acquired just months ago. The tech giant has reportedly parted ways with Virtue AI co-founders Bo Li, Dawn Song, and Sanmi Koyejo, along with other employees, just four months after bring... [4746 chars]",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-lets-go-co-founders-and-employees-of-ai-startup-virtue-ai-four-months-after-the-company-hired-them-andy-stone-admits-differences-over-style-of-working/articleshow/134685788.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134685816,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-10-05T04:26:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "bba42e18b46fd3c97b8c4aba6cd14d83",
-            "title": "Quantum Valley in Amaravati: Naidu announces Rs 500 crore IIT deep tech venture fund",
-            "description": "Andhra Pradesh Chief Minister N Chandrababu Naidu has pitched Amaravati as a future Quantum Valley, announcing an IIT Research Park, a Rs 500 crore deep tech fund and startup initiatives. He also urged five lakh IIT graduates to unite for nation building, with AI and entrepreneurship learning from Class 6.",
-            "content": "Andhra Pradesh Chief Minister N Chandrababu Naidu has made a direct pitch to the five lakh-strong PanIIT alumni network: bring your ideas, technology and entrepreneurial experience back into nation-building.\nAddressing the PanIIT Andhra Pradesh Summi... [1383 chars]",
-            "url": "https://www.indiatoday.in/education-today/news/story/quantum-valley-in-amaravati-naidu-announces-rs-500-crore-iit-deep-tech-venture-fund-3009597-2026-10-05",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/quantum-valley-in-amaravati-naidu-announces-rs-500-crore-iit-deep-tech-venture-fund-052009458-16x9_0.jpg?VersionId=gsHJZ0OlshKl1DEbkitWbCOQnsJAVWVe",
-            "publishedAt": "2026-10-05T04:24:30Z",
-            "lang": "en",
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "05623f741f15106cd0a89a2c86bab417",
-            "title": "Best AI Website Builder for Small Business: How to Choose the Right Platform",
-            "description": "The right platform should make it easier to build and manage a website while allowing the business to grow. Comparing several AI",
-            "content": "Share\nShare\nShare\nShare\nEmail\nBest AI Website Builder for Small Business: How to Choose the Right Platform\nChoosing the best AI website builder for small business can make a major difference in how quickly a company gets online and how easily the web... [8907 chars]",
-            "url": "https://techbullion.com/best-ai-website-builder-for-small-business-how-to-choose-the-right-platform/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/10/images-69.jpeg",
-            "publishedAt": "2026-10-05T04:23:40Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "9cae542d39fcaadf3269d601e61f83d7",
-            "title": "Google is shrinking your Gemini choices unless you pay more",
-            "description": "Free and AI Plus subscribers are losing access to Flash and Pro models",
-            "content": "Google has so far allowed free access to its latest Gemini Flash models for users on the free plan. But that will change starting later this week, with the company limiting access to its latest and most powerful models to its paying customers.\nAn upd... [2301 chars]",
-            "url": "https://www.androidpolice.com/google-shrinking-gemini-choices-unless-you-pay-more/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/ask-gemini-feature-shown-on-google-pixel-phone-s-screen.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-10-05T04:23:06Z",
-            "lang": "en",
-            "source": {
-                "id": "3855a489b685d9599a636250ed950d3c",
-                "name": "Android Police",
-                "url": "https://www.androidpolice.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b17fceeecb356329a3253c7137d66ab3",
-            "title": "term growth as Indian IT sector faces muted Q2: Report",
-            "description": "India's IT services sector is likely to see muted performance in the second quarter of FY27, but increasing traction in artificial intelligence-related deals could support growth over the medium term, Centrum said in a report.",
-            "content": "Synopsis\nIndia's IT services sector is likely to see muted performance in the second quarter of FY27, but increasing traction in artificial intelligence-related deals could support growth over the medium term, Centrum said in a report.\nListen to this... [2665 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/ai-deals-seen-driving-medium-term-growth-as-indian-it-sector-faces-muted-q2-report/articleshow/134685737.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-173670,resizemode-75,msid-134685737/tech/information-tech/ai-deals-seen-driving-medium-term-growth-as-indian-it-sector-faces-muted-q2-report.jpg",
-            "publishedAt": "2026-10-05T04:21:51Z",
+            "id": "be1fd45c146b2712ae82fc2ddd492e1f",
+            "title": "South Korea plans to develop $3.5 billion frontier AI model starting next year",
+            "description": "South Korea plans to launch a 4.7 trillion won ($3.5 billion) programme to develop a frontier AI model from March 2027, the science ministry said, as Seoul seeks to compete in the race to build cutting-edge artificial intelligence.",
+            "content": "Synopsis\nSouth Korea plans to launch a 4.7 trillion won ($3.5 billion) programme to develop a frontier AI model from March 2027, the science ministry said, as Seoul seeks to compete in the race to build cutting-edge artificial intelligence.\nListen to... [1229 chars]",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-plans-to-develop-3-5-billion-frontier-ai-model-starting-next-year/articleshow/134721256.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2086996,resizemode-75,msid-134721256/tech/artificial-intelligence/south-korea-plans-to-develop-3-5-billion-frontier-ai-model-starting-next-year.jpg",
+            "publishedAt": "2026-10-06T02:31:11Z",
             "lang": "en",
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
                 "name": "The Economic Times",
                 "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "11b3ce9f21d5db632a8f91c5c21a32f2",
+            "title": "CM: AI training in govt schools to start from Class 6",
+            "description": "Karnataka is considering extending artificial intelligence training in government schools to Class 6, with Chief Minister D K Shivakumar asking officials on Monday to work with the Information Technology department and private companies to expand the programme. | India News",
+            "content": "“AI training has already started for Class 9 students in government schools,” Shivakumar said, adding that “officials have been asked to work toward extending it to students from Class 6.” He gave the directions during a review meeting on the governm... [2701 chars]",
+            "url": "https://www.hindustantimes.com/india-news/cm-ai-training-in-govt-schools-to-start-from-class-6-101791227884318.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2025/08/06/1600x900/Untitled_design_1754465014585_1754465103581.png",
+            "publishedAt": "2026-10-06T02:31:10Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "801ea7ad75130303d0db7e9700026fb4",
+            "title": "AAP issues guidance for safe and equitable pediatric use of generative AI",
+            "description": "The American Academy of Pediatrics has published guidance for pediatricians on the safe, equitable, and effective use of generative artificial intelligence (AI), acknowledging that the rapidly emerging tools offer both promise and risk.",
+            "content": "The American Academy of Pediatrics has published guidance for pediatricians on the safe, equitable, and effective use of generative artificial intelligence (AI), acknowledging that the rapidly emerging tools offer both promise and risk.\nPatient priva... [3460 chars]",
+            "url": "https://www.news-medical.net/news/20261005/AAP-issues-guidance-for-safe-and-equitable-pediatric-use-of-generative-AI.aspx",
+            "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2026-10-06T02:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "4c78c3d801db919d108ee84c344b2e08",
+            "title": "Panasonic to Develop Humanoid Robots by 2029",
+            "description": "Panasonic plans to build humanoid robots, aiming to start production by 2029, Nikkei Asia reported on Tuesday, citing chief AI officer Akira Sakakibara in a recent interview.\nThe company initially...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/panasonic-to-develop-humanoid-robots-by-2029-ce785dd8dc88f221",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-10-06T02:29:16Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "c484079046393261e5ace839b57d6e92",
+            "title": "South Korea plans to develop $3.5 billion frontier AI model starting next year",
+            "description": "SEOUL, Oct 6 (Reuters) - ⁠South Korea plans to launch a ⁠4.7 trillion won ($3.5 billion) programme to develop ‌a frontier AI model from March 2027, the science ministry said, as Seoul seeks to compete in the ​race to build cutting-edge artificial ⁠intelligence.",
+            "content": "SEOUL, Oct 6 (Reuters) - ⁠South Korea plans to launch a ⁠4.7 trillion won ($3.5 billion) programme to develop ‌a frontier AI model from March 2027, the science ministry said, as Seoul seeks to compete in the ​race to build cutting-edge artificial ⁠in... [945 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/06/south-korea-plans-to-develop-35-billion-frontier-ai-model-starting-next-year",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/06/4147117.jpg",
+            "publishedAt": "2026-10-06T02:28:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "30c03cb54984ced07625c07b8c902b33",
+            "title": "Signs AI 'may have been used' in South Korea bank hacks",
+            "description": "South Korean ‌police have launched ‌an investigation ⁠into hacking attacks against commercial banks that led ​to a breach of customers' personal information.",
+            "content": "South Korean President Lee Jae-myung claims artificial intelligence models are believed to have been used in some recent hacking incidents against banks.\nHe has called for the country to develop cybersecurity methods suited to the AI era.\n\"In some ha... [1466 chars]",
+            "url": "https://www.perthnow.com.au/news/technology/signs-ai-may-have-been-used-in-south-korea-bank-hacks-c-22974149",
+            "image": "https://images.perthnow.com.au/publication/C-22974149/76134ffd1a54f75789c7affe3a2030ed5848c61b-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-10-06T02:27:19Z",
+            "lang": "en",
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "e51c8a9b2d09601be75698d1e91839f9",
+            "title": "Signs AI 'may have been used' in South Korea bank hacks",
+            "description": "South Korean ‌police have launched ‌an investigation ⁠into hacking attacks against commercial banks that led ​to a breach...",
+            "content": "Korean authorities are ‌yet ​to disclose what AI tools were used in the bank hacking ​incidents. Photo: AP PHOTO\nSouth Korean President Lee Jae-myung claims artificial intelligence ‌models are believed to have been used in some recent hacking inciden... [3818 chars]",
+            "url": "https://www.canberratimes.com.au/story/9363492/signs-ai-may-have-been-used-in-south-korea-bank-hacks/",
+            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/c9db385c-cd37-42fe-94e1-6ae3d46a9c15.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-10-06T02:25:51Z",
+            "lang": "en",
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "0c1804d5979b9e5443fdbca2c9993f7e",
+            "title": "Australian creators demand protection as AI firms call for looser laws",
+            "description": "Artificial intelligence giants Anthropic and OpenAI are making their pitch for looser copyright laws, minutes after Australian creators demanded safeguards.",
+            "content": "A coalition of Australian content creators has demanded strict laws protecting them from artificial intelligence giants harvesting their books, films, television shows and news output to train AI models, ahead of a highly anticipated public appearanc... [382 chars]",
+            "url": "https://www.afr.com/technology/australian-creators-demand-protection-as-ai-firms-call-for-looser-laws-20261006-p6137h",
+            "image": "https://static.ffx.io/images/$zoom_0.229%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_139%2C$y_83/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/993d103bf9b5e9806de9ed53deb7baa39f465fb0",
+            "publishedAt": "2026-10-06T02:23:38Z",
+            "lang": "en",
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "3f4c14ee6929203b5a9552f9fbcbc239",
+            "title": "OpenAI plans to bring hidden watermark for ChatGPT and Codex",
+            "description": "OpenAI is moving towards a system that could allow detectors to identify text produced by its AI models without placing any visible label on the page. The measure will initially target eligible users in the European Union, where new rules require AI-generated material to carry identifiable signals.",
+            "content": "OpenAI is preparing to embed an invisible signature in text generated by ChatGPT and Codex for users in the European Union, giving researchers and other authorised organisations a way to test whether a passage was produced by one of its systems.\nThe ... [3899 chars]",
+            "url": "https://www.firstpost.com/tech/openai-plans-to-bring-hidden-watermark-for-chatgpt-and-codex-14050643.html",
+            "image": "https://images.firstpost.com/uploads/2025/08/2-2025-08-07eabd0960e9a2f6d89b3fc831ef6190.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-10-06T02:16:54Z",
+            "lang": "en",
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "5b397a51909cb067145418bdc04ab3e2",
+            "title": "South Koreas Lee says AI appears to have been used in bank hacks",
+            "description": "SOUTHKOREA-POLITICS-CYBERSECURITY:South Korea's Lee says AI appears to have been used in bank hacks",
+            "content": "SEOUL, - South Korean President Lee Jae Myung said on Tuesday that AI models are believed to have been used in some recent hacking incidents against banks and called for the country to develop cybersecurity methods suited to the AI era.\n• \"In some ha... [1614 chars]",
+            "url": "https://www.livemint.com/technology/south-koreas-lee-says-ai-appears-to-have-been-used-in-bank-hacks-11791252872583.html",
+            "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
+            "publishedAt": "2026-10-06T02:14:32Z",
+            "lang": "en",
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
                 "country": "in"
             }
         }
