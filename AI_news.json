@@ -4,160 +4,160 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 461962,
+    "totalArticles": 463168,
     "articles": [
         {
-            "id": "be1fd45c146b2712ae82fc2ddd492e1f",
-            "title": "South Korea plans to develop $3.5 billion frontier AI model starting next year",
-            "description": "South Korea plans to launch a 4.7 trillion won ($3.5 billion) programme to develop a frontier AI model from March 2027, the science ministry said, as Seoul seeks to compete in the race to build cutting-edge artificial intelligence.",
-            "content": "Synopsis\nSouth Korea plans to launch a 4.7 trillion won ($3.5 billion) programme to develop a frontier AI model from March 2027, the science ministry said, as Seoul seeks to compete in the race to build cutting-edge artificial intelligence.\nListen to... [1229 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-plans-to-develop-3-5-billion-frontier-ai-model-starting-next-year/articleshow/134721256.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2086996,resizemode-75,msid-134721256/tech/artificial-intelligence/south-korea-plans-to-develop-3-5-billion-frontier-ai-model-starting-next-year.jpg",
-            "publishedAt": "2026-10-06T02:31:11Z",
+            "id": "11de21e2a8f5d3919c6fabb172069e73",
+            "title": "Rs 41,750 crore AI data centre leads Chhattisgarh’s Rs 43,600 crore Singapore investment haul",
+            "description": "Energy Capital Global proposed a 100 MW AI-ready data centre campus, while Chhattisgarh also received investment interest in solar power, food processing and skilling.",
+            "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nChhattisgarh has secured foreign direct investment commitments worth Rs 43,600 crore during Chief Minister Vishnu Deo Sai’s three-day visit to Singapore, l... [3539 chars]",
+            "url": "https://www.moneycontrol.com/news/business/rs-41-750-crore-ai-data-centre-leads-chhattisgarh-s-rs-43-600-crore-singapore-investment-haul-14046233.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2024/05/20240503094901_38-Vishnu-Deo-Sai.jpg",
+            "publishedAt": "2026-10-07T02:46:36Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
                 "country": "in"
             }
         },
         {
-            "id": "11b3ce9f21d5db632a8f91c5c21a32f2",
-            "title": "CM: AI training in govt schools to start from Class 6",
-            "description": "Karnataka is considering extending artificial intelligence training in government schools to Class 6, with Chief Minister D K Shivakumar asking officials on Monday to work with the Information Technology department and private companies to expand the programme. | India News",
-            "content": "“AI training has already started for Class 9 students in government schools,” Shivakumar said, adding that “officials have been asked to work toward extending it to students from Class 6.” He gave the directions during a review meeting on the governm... [2701 chars]",
-            "url": "https://www.hindustantimes.com/india-news/cm-ai-training-in-govt-schools-to-start-from-class-6-101791227884318.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2025/08/06/1600x900/Untitled_design_1754465014585_1754465103581.png",
-            "publishedAt": "2026-10-06T02:31:10Z",
+            "id": "f47713ce037689b9f20bb9d44009b7fb",
+            "title": "Chhattisgarh secures ₹43,600 crore in Singapore investment commitments",
+            "description": "Chhattisgarh secures ₹43,600 crore in Singapore investment commitments, including an AI-ready data centre, solar project and agro-food processing hub.",
+            "content": "Chhattisgarh’s Chief Minister Shri Vishnu Deo Sai has secured INR 43,600 crore in FDI commitments from Singapore, among the largest the state has secured from a single visit.\nChhattisgarh and Haryana were the only two States nominated by the Ministry... [3334 chars]",
+            "url": "https://www.thehindubusinessline.com/news/national/chhattisgarh-secures-43600-crore-in-fdi-commitments-from-singapore/article71554079.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/egmszx/article71554155.ece/alternates/LANDSCAPE_1200/20261006362L.jpg",
+            "publishedAt": "2026-10-07T02:46:11Z",
             "lang": "en",
             "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
                 "country": "in"
             }
         },
         {
-            "id": "801ea7ad75130303d0db7e9700026fb4",
-            "title": "AAP issues guidance for safe and equitable pediatric use of generative AI",
-            "description": "The American Academy of Pediatrics has published guidance for pediatricians on the safe, equitable, and effective use of generative artificial intelligence (AI), acknowledging that the rapidly emerging tools offer both promise and risk.",
-            "content": "The American Academy of Pediatrics has published guidance for pediatricians on the safe, equitable, and effective use of generative artificial intelligence (AI), acknowledging that the rapidly emerging tools offer both promise and risk.\nPatient priva... [3460 chars]",
-            "url": "https://www.news-medical.net/news/20261005/AAP-issues-guidance-for-safe-and-equitable-pediatric-use-of-generative-AI.aspx",
-            "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2026-10-06T02:30:00Z",
+            "id": "01ed04f289a6efefed7f781cd87bc13b",
+            "title": "An AI Rally Built On Infrastructure",
+            "description": "AI has been a winning theme this year, but which part of the theme you own has made a big difference.",
+            "content": "Bespoke Investment Group\n48.93K Followers\nSummary\nWe created Bespoke's AI Infrastructure and AI Implementation baskets to track both sides of the AI buildout, from companies building the technology to those putting it to work.\nThrough yesterday’s clo... [1450 chars]",
+            "url": "https://seekingalpha.com/article/4952382-ai-rally-built-on-infrastructure",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2255390718/image_2255390718.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-10-07T02:45:00Z",
             "lang": "en",
             "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
             }
         },
         {
-            "id": "4c78c3d801db919d108ee84c344b2e08",
-            "title": "Panasonic to Develop Humanoid Robots by 2029",
-            "description": "Panasonic plans to build humanoid robots, aiming to start production by 2029, Nikkei Asia reported on Tuesday, citing chief AI officer Akira Sakakibara in a recent interview.\nThe company initially...",
-            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
-            "url": "https://www.marketscreener.com/news/panasonic-to-develop-humanoid-robots-by-2029-ce785dd8dc88f221",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-10-06T02:29:16Z",
+            "id": "0fb3ccddb8070c7d7ab3a909e31ad942",
+            "title": "Chhattisgarh CM Sai secures ₹43,600 crore FDI commitments from Singapore",
+            "description": "Chhattisgarh Chief Minister Vishnu Deo Sai secured ₹43,600 crore in FDI commitments from Singapore, featuring a major AI data center and green projects.",
+            "content": "Chhattisgarh Chief Minister Vishnu Deo Sai secured ₹43,600 crore in FDI commitments from Singapore, featuring a major AI data center and green projects.\nBy PTI\n(Photo Credit : AI Generated )\nChhattisgarh’s Chief Minister Shri Vishnu Deo Sai has secur... [3276 chars]",
+            "url": "https://www.cnbctv18.com/india/chhattisgarh-cm-sai-secures-rs-43600-crore-fdi-commitments-from-singapore-mea-ministry-external-affairs-artificial-intelligence-tcs-indian-hotels-data-center-20006236.htm",
+            "image": "https://images.cnbctv18.com/uploads/2026/10/hclsoftware-10-2026-10-0a1458d8fb69f0a3b979a26ea9d7c79e.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-10-07T02:39:27Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "c484079046393261e5ace839b57d6e92",
-            "title": "South Korea plans to develop $3.5 billion frontier AI model starting next year",
-            "description": "SEOUL, Oct 6 (Reuters) - ⁠South Korea plans to launch a ⁠4.7 trillion won ($3.5 billion) programme to develop ‌a frontier AI model from March 2027, the science ministry said, as Seoul seeks to compete in the ​race to build cutting-edge artificial ⁠intelligence.",
-            "content": "SEOUL, Oct 6 (Reuters) - ⁠South Korea plans to launch a ⁠4.7 trillion won ($3.5 billion) programme to develop ‌a frontier AI model from March 2027, the science ministry said, as Seoul seeks to compete in the ​race to build cutting-edge artificial ⁠in... [945 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/06/south-korea-plans-to-develop-35-billion-frontier-ai-model-starting-next-year",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/06/4147117.jpg",
-            "publishedAt": "2026-10-06T02:28:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "30c03cb54984ced07625c07b8c902b33",
-            "title": "Signs AI 'may have been used' in South Korea bank hacks",
-            "description": "South Korean ‌police have launched ‌an investigation ⁠into hacking attacks against commercial banks that led ​to a breach of customers' personal information.",
-            "content": "South Korean President Lee Jae-myung claims artificial intelligence models are believed to have been used in some recent hacking incidents against banks.\nHe has called for the country to develop cybersecurity methods suited to the AI era.\n\"In some ha... [1466 chars]",
-            "url": "https://www.perthnow.com.au/news/technology/signs-ai-may-have-been-used-in-south-korea-bank-hacks-c-22974149",
-            "image": "https://images.perthnow.com.au/publication/C-22974149/76134ffd1a54f75789c7affe3a2030ed5848c61b-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-10-06T02:27:19Z",
-            "lang": "en",
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "e51c8a9b2d09601be75698d1e91839f9",
-            "title": "Signs AI 'may have been used' in South Korea bank hacks",
-            "description": "South Korean ‌police have launched ‌an investigation ⁠into hacking attacks against commercial banks that led ​to a breach...",
-            "content": "Korean authorities are ‌yet ​to disclose what AI tools were used in the bank hacking ​incidents. Photo: AP PHOTO\nSouth Korean President Lee Jae-myung claims artificial intelligence ‌models are believed to have been used in some recent hacking inciden... [3818 chars]",
-            "url": "https://www.canberratimes.com.au/story/9363492/signs-ai-may-have-been-used-in-south-korea-bank-hacks/",
-            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/c9db385c-cd37-42fe-94e1-6ae3d46a9c15.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-10-06T02:25:51Z",
-            "lang": "en",
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "0c1804d5979b9e5443fdbca2c9993f7e",
-            "title": "Australian creators demand protection as AI firms call for looser laws",
-            "description": "Artificial intelligence giants Anthropic and OpenAI are making their pitch for looser copyright laws, minutes after Australian creators demanded safeguards.",
-            "content": "A coalition of Australian content creators has demanded strict laws protecting them from artificial intelligence giants harvesting their books, films, television shows and news output to train AI models, ahead of a highly anticipated public appearanc... [382 chars]",
-            "url": "https://www.afr.com/technology/australian-creators-demand-protection-as-ai-firms-call-for-looser-laws-20261006-p6137h",
-            "image": "https://static.ffx.io/images/$zoom_0.229%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_139%2C$y_83/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/993d103bf9b5e9806de9ed53deb7baa39f465fb0",
-            "publishedAt": "2026-10-06T02:23:38Z",
-            "lang": "en",
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "3f4c14ee6929203b5a9552f9fbcbc239",
-            "title": "OpenAI plans to bring hidden watermark for ChatGPT and Codex",
-            "description": "OpenAI is moving towards a system that could allow detectors to identify text produced by its AI models without placing any visible label on the page. The measure will initially target eligible users in the European Union, where new rules require AI-generated material to carry identifiable signals.",
-            "content": "OpenAI is preparing to embed an invisible signature in text generated by ChatGPT and Codex for users in the European Union, giving researchers and other authorised organisations a way to test whether a passage was produced by one of its systems.\nThe ... [3899 chars]",
-            "url": "https://www.firstpost.com/tech/openai-plans-to-bring-hidden-watermark-for-chatgpt-and-codex-14050643.html",
-            "image": "https://images.firstpost.com/uploads/2025/08/2-2025-08-07eabd0960e9a2f6d89b3fc831ef6190.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-10-06T02:16:54Z",
-            "lang": "en",
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
                 "country": "in"
             }
         },
         {
-            "id": "5b397a51909cb067145418bdc04ab3e2",
-            "title": "South Koreas Lee says AI appears to have been used in bank hacks",
-            "description": "SOUTHKOREA-POLITICS-CYBERSECURITY:South Korea's Lee says AI appears to have been used in bank hacks",
-            "content": "SEOUL, - South Korean President Lee Jae Myung said on Tuesday that AI models are believed to have been used in some recent hacking incidents against banks and called for the country to develop cybersecurity methods suited to the AI era.\n• \"In some ha... [1614 chars]",
-            "url": "https://www.livemint.com/technology/south-koreas-lee-says-ai-appears-to-have-been-used-in-bank-hacks-11791252872583.html",
-            "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
-            "publishedAt": "2026-10-06T02:14:32Z",
+            "id": "aac04dd1425d9d21ff3f5d862178d171",
+            "title": "India shapes ElevenLabs’ voice AI roadmap; company eyes 100-member team",
+            "description": "ElevenLabs says India is shaping its voice AI roadmap; supports 14 Indian languages, adds 22 more, plans 100 hires and Bengaluru office; 25,000 monthly users.",
+            "content": "ElevenLabs field CTO Alex Holt\nKarthik Rajaram is general manager and country head for India\nElevenLabs field CTO Alex Holt\nKarthik Rajaram is general manager and country head for India\nElevenLabs field CTO Alex Holt\nBENGALURU: India is increasingly ... [3482 chars]",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/india-shapes-elevenlabs-voice-ai-roadmap-company-eyes-100-member-team/articleshow/134754310.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134754308,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-07T02:38:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "a934304329b79050bcf63f301b29f147",
+            "title": "Indian School of Business to award 250 scholarships every year, offer tuition fee waivers of up to 100%",
+            "description": "The business school will also establish the India Research Commons, a national platform offering scholars access to curated datasets, research tools, methodological resources and AI-enabled research infrastructure.",
+            "content": "The Indian School of Business (ISB) said it will award 250 scholarships every year under a new programme, offering tuition-fee waivers of up to 100%, as it marks 25 years since its founding.\nThe ISB25 Scholars Programme will provide scholarships acro... [2135 chars]",
+            "url": "https://www.businesstoday.in/education/story/indian-school-of-business-to-award-250-scholarships-every-year-offer-tuition-fee-waivers-of-up-to-100-559999-2026-10-07",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac5b01547483-isb-offers-250-full-and-partial-scholarships-across-pgp-programmes-073604204-16x9.jpeg",
+            "publishedAt": "2026-10-07T02:37:40Z",
+            "lang": "en",
+            "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "da17864beac526c8014dcc0cbb07a03d",
+            "title": "Correcting Broken Data and AI Analysis... Dong",
+            "description": "Creating Reports and Learning Content Using Generative AI",
+            "content": "The practice session went beyond simply entrusting data to AI; students directly corrected erroneous data and verified the analysis results themselves.\nDIT AI Hub Center (Director: Jo Subum) of Dong-Eui Institute of Technology (President: Kim Youngdo... [3026 chars]",
+            "url": "https://www.europesays.com/3294974/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/10/2026100710163752741_1791335797.jpg",
+            "publishedAt": "2026-10-07T02:37:40Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "300bc4db02e5b7c67ea21c1dc1fb5ad8",
+            "title": "How AI is revolutionising scams",
+            "description": "Increasingly sophisticated scams are rendering traditional red flags unreliable, experts warn.",
+            "content": "IN BRIEF\nANZ has warned businesses about sophisticated scams in upcoming busy commerce periods.\nCybersecurity experts say AI improves every stage of a scam.\nAustralians are being warned that some of the most common advice for spotting scams is becomi... [8459 chars]",
+            "url": "https://www.sbs.com.au/news/article/ai-scams-warning-australia/9x7ltkacj",
+            "image": "https://assets.sbs.com.au/dims4/default/b991f3a/2147483647/strip/true/crop/6048x3402+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fc8%2Fb9%2F20c200fb413998d68a301f49f0ab%2Fgettyimages-2183124834.jpg",
+            "publishedAt": "2026-10-07T02:35:03Z",
+            "lang": "en",
+            "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "065f55b51504330991ba2920da95e6bb",
+            "title": "Make Penn’s Critical Writing Seminars AI",
+            "description": "As the College of Arts and Sciences plans to implement the new general education curriculum in Fall 2027, it must make an important update to a continuing",
+            "content": "As the College of Arts and Sciences plans to implement the new general education curriculum in Fall 2027, it must make an important update to a continuing undergraduate requirement: Critical Writing Seminars should be free of artificial intelligence.... [6086 chars]",
+            "url": "https://www.europesays.com/3294972/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/10/1791340458.jpeg",
+            "publishedAt": "2026-10-07T02:34:15Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0fa091cbeff1c0d898e2c7819ef1b382",
+            "title": "TCS Q2 earnings: Five things to watch as Tata boardroom fight adds to scrutiny",
+            "description": "TCS’s second-quarter results will offer clues on demand, AI revenue, data-centre spending and margins, while investors assess whether the Tata Sons dispute could distract its top leadership.",
+            "content": "TCS has faced difficulties for two years. Last year, it recorded its first full-year revenue decline since it went public in 2004. Chandrasekaran, who was TCS’s chief executive for almost eight years until 2017, has since become more involved in deci... [4518 chars]",
+            "url": "https://www.livemint.com/companies/news/tcs-q2-earnings-five-things-to-watch-as-tata-boardroom-fight-adds-to-scrutiny-11791297435743.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/TCS-ACQUISITION-MHP-1_1791306208511_zDTD_1791306215528_VckA_0c9c16da-6e2b-4bfe-95c8-b53c9b29d9dc_rI8i.JPG",
+            "publishedAt": "2026-10-07T02:31:15Z",
             "lang": "en",
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
