@@ -4,80 +4,144 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 463168,
+    "totalArticles": 464351,
     "articles": [
         {
-            "id": "11de21e2a8f5d3919c6fabb172069e73",
-            "title": "Rs 41,750 crore AI data centre leads Chhattisgarh’s Rs 43,600 crore Singapore investment haul",
-            "description": "Energy Capital Global proposed a 100 MW AI-ready data centre campus, while Chhattisgarh also received investment interest in solar power, food processing and skilling.",
-            "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nChhattisgarh has secured foreign direct investment commitments worth Rs 43,600 crore during Chief Minister Vishnu Deo Sai’s three-day visit to Singapore, l... [3539 chars]",
-            "url": "https://www.moneycontrol.com/news/business/rs-41-750-crore-ai-data-centre-leads-chhattisgarh-s-rs-43-600-crore-singapore-investment-haul-14046233.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2024/05/20240503094901_38-Vishnu-Deo-Sai.jpg",
-            "publishedAt": "2026-10-07T02:46:36Z",
+            "id": "e5a9dcbab7400fa54927fb1272dd2cd5",
+            "title": "India’s trade caught in the middle",
+            "description": "Analyzes India’s fragile trade balance, rupee risks, and diversification need amid U.S. tariffs and AI threats to exports.",
+            "content": "Finance Minister Nirmala Sitharaman said on Monday that India-U.S. trade talks have reached a “plateau” and further concessions from either side might be difficult. To begin with, those celebrating India extracting a great trade deal from the U.S. mi... [5939 chars]",
+            "url": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece",
+            "image": "https://th-i.thgim.com/public/news/national/xjvmmk/article71557086.ece/alternates/LANDSCAPE_1200/iStock-1399337469.jpg",
+            "publishedAt": "2026-10-08T03:00:00Z",
             "lang": "en",
             "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
                 "country": "in"
             }
         },
         {
-            "id": "f47713ce037689b9f20bb9d44009b7fb",
-            "title": "Chhattisgarh secures ₹43,600 crore in Singapore investment commitments",
-            "description": "Chhattisgarh secures ₹43,600 crore in Singapore investment commitments, including an AI-ready data centre, solar project and agro-food processing hub.",
-            "content": "Chhattisgarh’s Chief Minister Shri Vishnu Deo Sai has secured INR 43,600 crore in FDI commitments from Singapore, among the largest the state has secured from a single visit.\nChhattisgarh and Haryana were the only two States nominated by the Ministry... [3334 chars]",
-            "url": "https://www.thehindubusinessline.com/news/national/chhattisgarh-secures-43600-crore-in-fdi-commitments-from-singapore/article71554079.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/egmszx/article71554155.ece/alternates/LANDSCAPE_1200/20261006362L.jpg",
-            "publishedAt": "2026-10-07T02:46:11Z",
+            "id": "c2f1349712b6039e3dc672dfd0e14f4d",
+            "title": "Study finds German companies ill-prepared for AI-powered cyberattacks",
+            "description": "German companies are vulnerable and unprepared for a growing wave of AI-driven cyberattacks, a new study published on Oct 7 warned, creating broader economic and security risks for the country.",
+            "content": "BERLIN: German companies are vulnerable and unprepared for a growing wave of artificial intelligence (AI)-driven cyberattacks, a new study published on Oct 7 warned, creating broader economic and security risks for the country.\nOnly one in 10 compani... [1513 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/study-finds-german-companies-ill-prepared-for-ai-powered-cyberattacks",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/08/4150831.jpg",
+            "publishedAt": "2026-10-08T03:00:00Z",
             "lang": "en",
             "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "fd1994df3d71542bca08d04725d8d0e1",
+            "title": "TCS Results Q2FY27 Live Updates: Will IT major deliver growth amid continuing AI fears? Dividend in focus",
+            "description": "TCS Results Q2 2026 Live: Check updates on the Tata Consultancy Services Quarter 2 Results.",
+            "content": "Here are key factors to watch out for-\nAI revenue\nAttrition & headcount\nDeal TCV\nMargins\nDividend\nTCS Q2: What analysts expect?\nKotak Institutional Equities expects TCS to report modest 0.5% revenue growth, driven by its international business, while... [306 chars]",
+            "url": "https://www.financialexpress.com/business/industry-tcs-results-q2-2026-live-updates-tata-consultancy-services-quarterly-2-result-revenue-earning-profit-share-price-4356010/",
+            "image": "https://images.financialexpressdigital.com/2026/10/TCSQ1FY27Preveiw_20260713074134_20260810184820_20260827174830_20260905115948_20260917090356_20261007175429.jpg",
+            "publishedAt": "2026-10-08T03:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "01ed04f289a6efefed7f781cd87bc13b",
-            "title": "An AI Rally Built On Infrastructure",
-            "description": "AI has been a winning theme this year, but which part of the theme you own has made a big difference.",
-            "content": "Bespoke Investment Group\n48.93K Followers\nSummary\nWe created Bespoke's AI Infrastructure and AI Implementation baskets to track both sides of the AI buildout, from companies building the technology to those putting it to work.\nThrough yesterday’s clo... [1450 chars]",
-            "url": "https://seekingalpha.com/article/4952382-ai-rally-built-on-infrastructure",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2255390718/image_2255390718.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-10-07T02:45:00Z",
+            "id": "bf4b8663b9c2aa80f4a770decd72e9b5",
+            "title": "AI works best when everyone is able to use it",
+            "description": "A new training programme in Abu Dhabi could be the first step in redefining citizens’ and residents’ relationship with artificial intelligence",
+            "content": "For more than a decade, the UAE has been setting itself ambitious targets when it comes to artificial intelligence, embracing the technology at the highest levels of government, commerce and education. However, a key test of AI’s impact is not just t... [2650 chars]",
+            "url": "https://www.thenationalnews.com/opinion/editorial/2026/10/08/ai-abu-dhabi-uae-society-technology/",
+            "image": "https://www.thenationalnews.com/resizer/v2/GGWOPEIRJLCI6N3XSUSIXLEIW4.jpg?auth=9b18d196341de2bf2e763f663f8f126be2426ff4e96f3d0f5228bedf834c04c6&smart=true&width=1200&height=630",
+            "publishedAt": "2026-10-08T03:00:00Z",
             "lang": "en",
             "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
+                "id": "075fbabce69f64ecf3c8f28c83fdd6e0",
+                "name": "The National",
+                "url": "https://www.thenationalnews.com",
+                "country": "ae"
             }
         },
         {
-            "id": "0fb3ccddb8070c7d7ab3a909e31ad942",
-            "title": "Chhattisgarh CM Sai secures ₹43,600 crore FDI commitments from Singapore",
-            "description": "Chhattisgarh Chief Minister Vishnu Deo Sai secured ₹43,600 crore in FDI commitments from Singapore, featuring a major AI data center and green projects.",
-            "content": "Chhattisgarh Chief Minister Vishnu Deo Sai secured ₹43,600 crore in FDI commitments from Singapore, featuring a major AI data center and green projects.\nBy PTI\n(Photo Credit : AI Generated )\nChhattisgarh’s Chief Minister Shri Vishnu Deo Sai has secur... [3276 chars]",
-            "url": "https://www.cnbctv18.com/india/chhattisgarh-cm-sai-secures-rs-43600-crore-fdi-commitments-from-singapore-mea-ministry-external-affairs-artificial-intelligence-tcs-indian-hotels-data-center-20006236.htm",
-            "image": "https://images.cnbctv18.com/uploads/2026/10/hclsoftware-10-2026-10-0a1458d8fb69f0a3b979a26ea9d7c79e.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-10-07T02:39:27Z",
+            "id": "3ed2339a2f4ce6b255b840185d92c748",
+            "title": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks",
+            "description": "In a report published on Wednesday, CrowdStrike said it uncovered personal details linked to the suspected attacker while analysing AI coding-tool sessions and infrastructure associated with a campaign targeting South Korean financial institutions from late September to early October.",
+            "content": "The suspect behind recent cyberattacks targeting South Korea's financial sector may be a 26-year-old based in China's Guangdong province who used a Chinese-developed AI agent tool called ARTEX and Anthropic's Claude Code, US cybersecurity firm CrowdS... [2834 chars]",
+            "url": "https://www.firstpost.com/tech/crowdstrike-says-china-based-suspect-used-ai-tools-in-south-korean-bank-hacks-14051291.html",
+            "image": "https://images.firstpost.com/uploads/2026/08/ai-artificialintelligence-2026-08-1fcf0c790976c5de7dd64295113f1a44-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-10-08T02:58:22Z",
             "lang": "en",
             "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
                 "country": "in"
             }
         },
         {
-            "id": "aac04dd1425d9d21ff3f5d862178d171",
-            "title": "India shapes ElevenLabs’ voice AI roadmap; company eyes 100-member team",
-            "description": "ElevenLabs says India is shaping its voice AI roadmap; supports 14 Indian languages, adds 22 more, plans 100 hires and Bengaluru office; 25,000 monthly users.",
-            "content": "ElevenLabs field CTO Alex Holt\nKarthik Rajaram is general manager and country head for India\nElevenLabs field CTO Alex Holt\nKarthik Rajaram is general manager and country head for India\nElevenLabs field CTO Alex Holt\nBENGALURU: India is increasingly ... [3482 chars]",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/india-shapes-elevenlabs-voice-ai-roadmap-company-eyes-100-member-team/articleshow/134754310.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134754308,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-10-07T02:38:00Z",
+            "id": "7a75681e5aa628580d1d906378a04a0d",
+            "title": "Australia's Maas Group dives 30% after reports Firmus weighing changes to $5 billion IPO",
+            "description": "Shares of Australia's Maas Group\nplunged as much as 30% on Thursday after reports\nthat Nvidia-backed AI firm Firmus was mulling changes\nto the terms of its highly anticipated $5 billion IPO.\n...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/australia-s-maas-group-dives-30-after-reports-firmus-weighing-changes-to-5-billion-ipo-ce785ddedf8df22d",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-10-08T02:57:14Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "e6eedf0cb8d68e615ead7da02eb48632",
+            "title": "Microsoft pushes AI vision with new, expensive Surface laptop",
+            "description": "Microsoft is pushing a \"hybrid intelligence\" future with a new Surface Ultra laptop that runs on Nvidia artificial intelligence (AI) chips and will cost more than $2,500, the company announced Wednesday. The new Surface Ultra will use Nvidia's state-of-the-art AI chip, RTX Spark, which the semiconductor giant announced earlier this year.",
+            "content": "Synopsis\nMicrosoft is pushing a \"hybrid intelligence\" future with a new Surface Ultra laptop that runs on Nvidia artificial intelligence (AI) chips and will cost more than $2,500, the company announced Wednesday. The new Surface Ultra will use Nvidia... [3579 chars]",
+            "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-pushes-ai-vision-with-new-expensive-surface-laptop/articleshow/134778495.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-4006548,resizemode-75,msid-134778495/tech/technology/microsoft-pushes-ai-vision-with-new-expensive-surface-laptop.jpg",
+            "publishedAt": "2026-10-08T02:56:14Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "2f8f5384081a8bf62ef5bfc5085cac5b",
+            "title": "Samsung Electronics Third-Quarter Operating Profit to Top 100 Trillion Won on AI Boom",
+            "description": "Samsung Electronics expects its third-quarter operating profit to jump nearly ninefold year over year, surpassing the 100-trillion-won mark for the first time on the back of strong artificial...",
+            "content": "Trader\nThis super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptio... [1103 chars]",
+            "url": "https://www.marketscreener.com/news/samsung-electronics-third-quarter-operating-profit-to-top-100-trillion-won-on-ai-boom-ce785ddedf8df221",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-10-08T02:53:16Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "42df58868d1d7a2a440ce4105cb32ce0",
+            "title": "JP Morgan CEO Jamie Dimon has a 'suggestion' for companies building datacenters in America: There are a lot of states that would welcome them, if they have ...",
+            "description": "JPMorgan Chase CEO Jamie Dimon has a message for companies rushing to build data centres across the US to power the artificial intelligence boom: focus on",
+            "content": "JP Morgan chairman & CEO Jamie Dimon\nJPMorgan Chase CEO Jamie Dimon has a message for companies rushing to build data centres across the US to power the artificial intelligence boom: focus on states that have the electricity capacity and are willing ... [3259 chars]",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/jp-morgan-ceo-jamie-dimon-has-a-suggestion-for-companies-building-datacenters-in-america-there-are-a-lot-of-states-that-would-welcome-them-if-they-have-/articleshow/134778466.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134778474,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-08T02:53:00Z",
             "lang": "en",
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -87,82 +151,18 @@
             }
         },
         {
-            "id": "a934304329b79050bcf63f301b29f147",
-            "title": "Indian School of Business to award 250 scholarships every year, offer tuition fee waivers of up to 100%",
-            "description": "The business school will also establish the India Research Commons, a national platform offering scholars access to curated datasets, research tools, methodological resources and AI-enabled research infrastructure.",
-            "content": "The Indian School of Business (ISB) said it will award 250 scholarships every year under a new programme, offering tuition-fee waivers of up to 100%, as it marks 25 years since its founding.\nThe ISB25 Scholars Programme will provide scholarships acro... [2135 chars]",
-            "url": "https://www.businesstoday.in/education/story/indian-school-of-business-to-award-250-scholarships-every-year-offer-tuition-fee-waivers-of-up-to-100-559999-2026-10-07",
-            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac5b01547483-isb-offers-250-full-and-partial-scholarships-across-pgp-programmes-073604204-16x9.jpeg",
-            "publishedAt": "2026-10-07T02:37:40Z",
+            "id": "3abf92e412ffaa663c2a2cd3c5f10958",
+            "title": "Microsoft Takes AI Directly To PCs With New Coding Model And Security Tools",
+            "description": "The central idea is that AI tasks can be performed locally when appropriate and shifted to the cloud when more computing power is required. Microsoft says that this move could improve privacy, responsiveness and the economics of running AI workloads.",
+            "content": "Microsoft on Wednesday unveiled a broader strategy called \"Windows for hybrid intelligence\", aimed at making Windows PCs capable of using AI models both locally on the device and in the cloud. The announcement was made by Pavan Davuluri, Microsoft's ... [5870 chars]",
+            "url": "https://www.ndtvprofit.com/technology/microsoft-takes-ai-directly-to-pcs-with-new-coding-model-and-security-tools-12153898",
+            "image": "https://c.ndtvimg.com/2026-10/u2gaaclo_microsoft-photo-unsplash_625x300_08_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-10-08T02:51:56Z",
             "lang": "en",
             "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "da17864beac526c8014dcc0cbb07a03d",
-            "title": "Correcting Broken Data and AI Analysis... Dong",
-            "description": "Creating Reports and Learning Content Using Generative AI",
-            "content": "The practice session went beyond simply entrusting data to AI; students directly corrected erroneous data and verified the analysis results themselves.\nDIT AI Hub Center (Director: Jo Subum) of Dong-Eui Institute of Technology (President: Kim Youngdo... [3026 chars]",
-            "url": "https://www.europesays.com/3294974/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/10/2026100710163752741_1791335797.jpg",
-            "publishedAt": "2026-10-07T02:37:40Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "300bc4db02e5b7c67ea21c1dc1fb5ad8",
-            "title": "How AI is revolutionising scams",
-            "description": "Increasingly sophisticated scams are rendering traditional red flags unreliable, experts warn.",
-            "content": "IN BRIEF\nANZ has warned businesses about sophisticated scams in upcoming busy commerce periods.\nCybersecurity experts say AI improves every stage of a scam.\nAustralians are being warned that some of the most common advice for spotting scams is becomi... [8459 chars]",
-            "url": "https://www.sbs.com.au/news/article/ai-scams-warning-australia/9x7ltkacj",
-            "image": "https://assets.sbs.com.au/dims4/default/b991f3a/2147483647/strip/true/crop/6048x3402+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fc8%2Fb9%2F20c200fb413998d68a301f49f0ab%2Fgettyimages-2183124834.jpg",
-            "publishedAt": "2026-10-07T02:35:03Z",
-            "lang": "en",
-            "source": {
-                "id": "94466d37d8c67a438250646866df36df",
-                "name": "SBS Australia",
-                "url": "https://www.sbs.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "065f55b51504330991ba2920da95e6bb",
-            "title": "Make Penn’s Critical Writing Seminars AI",
-            "description": "As the College of Arts and Sciences plans to implement the new general education curriculum in Fall 2027, it must make an important update to a continuing",
-            "content": "As the College of Arts and Sciences plans to implement the new general education curriculum in Fall 2027, it must make an important update to a continuing undergraduate requirement: Critical Writing Seminars should be free of artificial intelligence.... [6086 chars]",
-            "url": "https://www.europesays.com/3294972/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/10/1791340458.jpeg",
-            "publishedAt": "2026-10-07T02:34:15Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "0fa091cbeff1c0d898e2c7819ef1b382",
-            "title": "TCS Q2 earnings: Five things to watch as Tata boardroom fight adds to scrutiny",
-            "description": "TCS’s second-quarter results will offer clues on demand, AI revenue, data-centre spending and margins, while investors assess whether the Tata Sons dispute could distract its top leadership.",
-            "content": "TCS has faced difficulties for two years. Last year, it recorded its first full-year revenue decline since it went public in 2004. Chandrasekaran, who was TCS’s chief executive for almost eight years until 2017, has since become more involved in deci... [4518 chars]",
-            "url": "https://www.livemint.com/companies/news/tcs-q2-earnings-five-things-to-watch-as-tata-boardroom-fight-adds-to-scrutiny-11791297435743.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/TCS-ACQUISITION-MHP-1_1791306208511_zDTD_1791306215528_VckA_0c9c16da-6e2b-4bfe-95c8-b53c9b29d9dc_rI8i.JPG",
-            "publishedAt": "2026-10-07T02:31:15Z",
-            "lang": "en",
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
                 "country": "in"
             }
         }
