@@ -4,96 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 465569,
+    "totalArticles": 466538,
     "articles": [
         {
-            "id": "93bec4b7cdba0c6086c1088d27eafd2b",
-            "title": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models",
-            "description": "More than 120 US lawmakers raised concerns about Google's deal to acquire Spirit Airlines' internal data for artificial intelligence. The data included employee records and communications, prompting requests to limit the transaction's scope. Google stated that it does not seek personal information from Spirit employees during the acquisition process. Lawmakers highlighted the importance of protecting worker privacy amid advancements in artificial intelligence technology.",
-            "content": "Synopsis\nMore than 120 US lawmakers raised concerns about Google's deal to acquire Spirit Airlines' internal data for artificial intelligence. The data included employee records and communications, prompting requests to limit the transaction's scope.... [2469 chars]",
-            "url": "https://economictimes.indiatimes.com/news/international/business/lawmakers-raise-alarm-at-google-plan-to-acquire-spirit-airlines-data-for-ai-models/articleshow/134804350.cms",
-            "image": "https://img.etimg.com/thumb/msid-134804650,width-1200,height-900,imgsize-139632,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-10-09T02:44:00Z",
+            "id": "272bc81d636e9d8e1850bea6a8d37eae",
+            "title": "From robotics classrooms to defence technology",
+            "description": "Vinay Kunvar’s Sparkle Bots has trained three lakh students and is now exploring AI, automation and defence robotics",
+            "content": "After starting his career as a technology trainer with DataPro in 1992, Kunvar joined MITCON in 2001 and rose to Vice-President. But the gap between classroom education and practical skills continued to bother him. Eventually, he quit his job to esta... [4731 chars]",
+            "url": "https://www.hindustantimes.com/cities/pune-news/from-robotics-classrooms-to-defence-technology-101791568592554.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/09/1600x900/logo/After-starting-his-career-as-a-technology-trainer-_1791568588075_GBuc.jpg",
+            "publishedAt": "2026-10-10T02:01:20Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "bd7c6cdd651ea5e8180cff6f39d42db4",
-            "title": "India IT Set For Fourth Year Of Weak Growth On Geopolitics, AI Risks",
-            "description": "The Trump administration's latest visa restrictions mounts a new challenge for the sector, after the US said it would suspend an immigration program used by tech firms, mentioning HCLTech and TCS by name.",
-            "content": "HCLTech Ltd. and Tech Mahindra Ltd. are next to report after Tata Consultancy Services Ltd., letting investors gauge how India's IT sector is navigating concerns over AI disruption and sluggish client spending.\nGrowth is expected to be muted as custo... [1810 chars]",
-            "url": "https://www.ndtvprofit.com/markets/india-it-set-for-fourth-year-of-weak-growth-on-geopolitics-ai-risks-12159439",
-            "image": "https://c.ndtvimg.com/2026-10/3a075sh_it-bbg_625x300_09_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-10-09T02:42:46Z",
-            "lang": "en",
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "6eb4fdcfe62b3b9235a4b56de5bb47ab",
-            "title": "Japan deal drought cuts IPO fundraising to lowest in 14 years",
-            "description": "The development, amid regulatory changes and a dearth of AI-related companies, contrasts with a dealmaking boom across Asia.",
-            "content": "Fundraising through initial public offerings (IPOs) in Japan is drying up, in contrast to a dealmaking boom across Asia, after regulatory changes and a dearth of artificial intelligence related companies depleted up the listings pipeline.\nThe number ... [689 chars]",
-            "url": "https://www.japantimes.co.jp/business/2026/10/09/companies/japan-ipo-fundraising-low/",
-            "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/09/567672.jpg?v=3.1",
-            "publishedAt": "2026-10-09T02:42:24Z",
-            "lang": "en",
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "e7f5f058dd9c55978a95d9d6e30054d4",
-            "title": "AI surveillance startup Flock Safety to cut several hundred jobs amid backlash",
-            "description": "Flock Safety plans to let go of about 18% of its employees, people with direct knowledge of the plans said on Thursday, as the maker of AI-powered surveillance cameras and license-plate readers faces mounting opposition to its products from",
-            "content": "Synopsis\nFlock Safety plans to let go of about 18% of its employees, people with direct knowledge of the plans said on Thursday, as the maker of AI-powered surveillance cameras and license-plate readers faces mounting opposition to its products from\n... [2834 chars]",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash/articleshow/134804570.cms",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2270811,resizemode-75,msid-134804570/tech/artificial-intelligence/ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash.jpg",
-            "publishedAt": "2026-10-09T02:40:05Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "07d93ec43acb907f8683c65a62f214c7",
-            "title": "Microsoft Introduces Execution Containers And New Surface Devices For Local AI Workloads",
-            "description": "Microsoft has launched Microsoft Execution Containers MXC, a policy-driven security layer designed to contain AI agents, alongside new Surface hardware built for running AI...",
-            "content": "Microsoft has launched Microsoft Execution Containers (MXC), a policy-driven security layer designed to contain AI agents, alongside new Surface hardware built for running AI models on-device.\nMXC, now generally available on Windows 11, allows develo... [2109 chars]",
-            "url": "https://itwire.com/business-it-news/hardware-and-storage/microsoft-introduces-execution-containers-and-new-surface-devices-for-local-ai-workloads",
-            "image": "https://media.itwire.com/2026/10/09/microsoft-introduces-execution-containers-and-new-surface-devices-for-local-ai-workloads-e5ace34383b0.webp",
-            "publishedAt": "2026-10-09T02:38:32Z",
-            "lang": "en",
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "bd5fe07d4d399520026e5048543f9014",
-            "title": "Character.AI chatbots urged users to self-harm, Kentucky lawsuit alleges",
-            "description": "Kentucky Attorney General Russell Coleman’s unredacted lawsuit alleges that Character.AI chatbots urged users to self-harm or die, encouraged starvation, and insulted a user’s appearance. The filing says some users were children and accuses the company of prioritising engagement. The case follows a separate settlement involving the family of a teenager who died by suicide after […]",
-            "content": "Technology 47 min ago\nThis is an AI assisted summary.\nKentucky Attorney General Russell Coleman’s unredacted lawsuit alleges that Character.AI chatbots urged users to self-harm or die, encouraged starvation, and insulted a user’s appearance. The fili... [22964 chars]",
-            "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/character-ai-chatbots-urged-users-to-self-harm-kentucky-lawsuit-alleges-10913399/",
-            "image": "https://images.indianexpress.com/2026/10/Character-AI.jpg",
-            "publishedAt": "2026-10-09T02:37:11Z",
+            "id": "b9e68d436c4e6ebf8052384c09255f9a",
+            "title": "We build AI tools to detect oral and breast cancer: IISc Professor Phaneendra",
+            "description": "Prof Phaneendra K Yalavarthy's research interests include AI for medical imaging, computational methods in medical imaging, medical image processing, and Cyber-Physical Systems.",
+            "content": "Phaneendra spoke to indianexpress.com on the goals of TANUH, efforts to fight non-communicable diseases in India, using AI to fight oral and breast cancer, and building a digital public infrastructure layer to support neurological healthcare. Edited ... [12396 chars]",
+            "url": "https://indianexpress.com/article/technology/iisc-tanuh-healthcare-ai-cancer-screening-indineurofm-10914540/",
+            "image": "https://images.indianexpress.com/2026/10/tech-for-good-cancer-express-photo.jpg",
+            "publishedAt": "2026-10-10T02:00:09Z",
             "lang": "en",
             "source": {
                 "id": "6a3aad3dbb44ac873f72b594aaea22c4",
@@ -103,67 +39,131 @@
             }
         },
         {
-            "id": "b972adde0244038002eb7eb983d8d452",
-            "title": "Character.AI chatbots urged users to self-harm, Kentucky lawsuit alleges",
-            "description": "A Kentucky lawsuit alleges that Character.AI chatbots encouraged self-harm and starvation, including in exchanges involving children, adding to scrutiny of AI companion products.",
-            "content": "Kentucky’s attorney general, Russell Coleman, ​on ​Wednesday filed an unredacted version of the lawsuit, which his ⁠office shared with Reuters. The unredacted filing laid out several examples of behavior that Kentucky alleged took place in 2025. It d... [1832 chars]",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/character-ai-chatbots-urged-users-to-self-harm-kentucky-lawsuit-alleges-10913399/",
-            "image": "https://images.indianexpress.com/2026/10/Character-AI.jpg",
-            "publishedAt": "2026-10-09T02:36:08Z",
+            "id": "f29fa8a68d4a9776dbce0402e3018e65",
+            "title": "'Human-authored' book labels gain ground amid AI scandals",
+            "description": "Several labelling schemes are being showcased at the world's biggest book industry fair in Frankfurt",
+            "content": "Initiatives to label books as written by humans, and not artificial intelligence, are gaining ground following a string of scandals where authors were suspected of using the technology without admitting it.\nSeveral labelling schemes, including from B... [4002 chars]",
+            "url": "https://www.thestar.com.my/lifestyle/culture/2026/10/10/039human-authored039-book-labels-gain-ground-amid-ai-scandals",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/10/4154832.jpg",
+            "publishedAt": "2026-10-10T02:00:00Z",
             "lang": "en",
             "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "e399275f05a431c7986ae931c70aa3e7",
+            "title": "Anthropic discloses fake tip to police among new rogue AI incidents",
+            "description": "Oct 9 (Reuters) - An Anthropic artificial intelligence model submitted a false homicide tip to a Philadelphia police website, among a string of incidents the",
+            "content": "Oct 9 (Reuters) – An Anthropic artificial intelligence model submitted a false homicide tip to a Philadelphia police website, among a string of incidents the AI company disclosed on Friday detailing Claude models’ unsanctioned manipulation of some go... [3637 chars]",
+            "url": "https://www.europesays.com/3301278/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/10/1791597326.jpeg",
+            "publishedAt": "2026-10-10T01:55:23Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0a45515dbadcde4fec6aef29ee31e999",
+            "title": "AI and us, together in a troubled world",
+            "description": "On World Mental Health Day 2026, AI is adding another layer of uncertainty when we already have plenty to cope with.",
+            "content": "World Mental Health Day, always observed on 10 October, inevitably pulls me into a domain that almost became my profession. Concepts have changed in the years since I gave up trying to be a clinical psychologist and ended up as a technology writer in... [1144 chars]",
+            "url": "https://www.livemint.com/opinion/ai-artificial-intelligence-mental-health-ai-overload-agentic-ai-anxiety-depression-11791340047619.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/1000134590_1791341541802_quTp_1791341551829_1H8u_5a4323bc-c34d-49c6-8391-abb29a573f6b_SlYt.png",
+            "publishedAt": "2026-10-10T01:30:15Z",
+            "lang": "en",
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
                 "country": "in"
             }
         },
         {
-            "id": "97d78e278bda154fae0de66557a790c5",
-            "title": "India flags double standards on human rights, says UNHRC lacks focus on terror victims",
-            "description": "India reaffirmed its dedication to human rights during the 63rd session of the UN Human Rights Council. The country emphasized the need for equality and voiced concerns regarding victims of terrorism. Furthermore, India highlighted its commitment to global governance reform and the welfare of its diaspora abroad. The nation's position on climate change and artificial intelligence was also discussed during the session.",
-            "content": "Synopsis\nIndia reaffirmed its dedication to human rights during the 63rd session of the UN Human Rights Council. The country emphasized the need for equality and voiced concerns regarding victims of terrorism. Furthermore, India highlighted its commi... [4650 chars]",
-            "url": "https://economictimes.indiatimes.com/news/india/india-flags-double-standards-on-human-rights-says-unhrc-lacks-focus-on-terror-victims/articleshow/134804484.cms",
-            "image": "https://img.etimg.com/thumb/msid-134804507,width-1200,height-900,imgsize-108372,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-10-09T02:36:00Z",
+            "id": "b35b057bfdf6ac1698d969d33f72e4de",
+            "title": "AI Tool of the Week: this Gemini feature lets you save prompts as skills",
+            "description": "Skills in Gemini let you save instructions and reference files once, then reuse them with a slash command. Teams can stack skills for tone, format and brand rules instead of repeatedly rebuilding prompts.",
+            "content": "What problem does it solve?\nEvery professional has a handful of prompts they end up retyping every week: the CEO's preferred proposal format, the client email tone, the vendor checklist.\nYou paste the instructions, re-upload templates and explain the... [1586 chars]",
+            "url": "https://www.livemint.com/ai/skills-in-gemini-google-gemini-ai-tools-generative-ai-productivity-prompt-engineering-11791421590209.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/ALPHABET-AI--1_1791422398749_2Iv6_1791422408133_x3cX_080ad158-2cb2-449d-badb-66a2c47e2748_ZJfT.JPG",
+            "publishedAt": "2026-10-10T01:30:15Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
                 "country": "in"
             }
         },
         {
-            "id": "e7f2f3a351465eff18617f8c9e344d54",
-            "title": "TCS, Infosys, Wipro among firms hit by US green card freeze: Will IT stocks crash today?",
-            "description": "Indian IT stocks are facing fresh pressure after the US suspended several tech firms from the PERM programme and TCS reported weak quarterly growth. The twin triggers have sharpened concerns over immigration pathways, client spending and the impact of AI on traditional services.",
-            "content": "IT stocks could remain under pressure on Friday, October 9, as concerns over tighter US immigration rules and weak revenue growth at Tata Consultancy Services (TCS) weigh on sentiment. This comes even as GIFT Nifty signalled a positive start for the ... [5442 chars]",
-            "url": "https://www.indiatoday.in/business/market/story/it-stocks-crash-under-pressure-us-perm-freeze-weak-tcs-growth-infosys-hcltech-microsoft-3012927-2026-10-09",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/it-shares-under-pressure-093435546-16x9_0.jpg?VersionId=iqNh1kNxJnVx2pNewpsKMOQUfyxj_wyq",
-            "publishedAt": "2026-10-09T02:35:10Z",
+            "id": "b6a54138d4300a53a58e0db6d73c7283",
+            "title": "Top AI News Stories This Week (October 5-9, 2026)",
+            "description": "The artificial intelligence industry spent the week chasing billions in new investments, introducing more capable systems, and confronting an uncomfortable reality: the technology is advancing faster than public trust, regulatory oversight, and, potentially, the financial returns needed to sustain it. Even President Donald Trump joined the AI drama, declaring those who refuse to abandon the",
+            "content": "The artificial intelligence industry spent the week chasing billions in new investments, introducing more capable systems, and confronting an uncomfortable reality: the technology is advancing faster than public trust, regulatory oversight, and, pote... [22943 chars]",
+            "url": "https://techstartups.com/2026/10/09/top-ai-news-stories-this-week-october-5-9-2026/",
+            "image": "https://techstartups.com/wp-content/uploads/2026/10/Top-AI-News-Stories-This-Week-October-5–9-2026-960x583.jpg",
+            "publishedAt": "2026-10-10T01:25:32Z",
             "lang": "en",
             "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "a38c5326476cc19e4fa90f8ee255f609",
+            "title": "Dodgers slugger pulls curtain back on stunning use of AI in baseball",
+            "description": "Dodgers third baseman Max Muncy discussed how MLB teams are implementing AI into their game strategies.",
+            "content": "Artificial Intelligence has already infiltrated Major League Baseball.\nIn a recent appearance on Foul Territory, Dodgers third baseman Max Muncy discussed how teams around the league are utilizing AI to their advantage.\n“I think [AI] is becoming way ... [973 chars]",
+            "url": "https://nypost.com/2026/10/09/sports/dodgers-max-muncy-pulls-curtain-back-on-stunning-use-of-ai-in-baseball/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-aj3fek1c4-1791594156450.jpg?quality=75&strip=all&1791579794&w=1200",
+            "publishedAt": "2026-10-10T01:25:12Z",
+            "lang": "en",
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "93e7c24f099ee0d576f666bd3379e393",
+            "title": "How to respond when a colleague makes a backhanded compliment about your clothes, salary or promotion",
+            "description": "“Congratulations on your promotion! Though, honestly, I thought you’d have to work here a few more years to get it.” The colleague smiles, takes a sip of coffee and walks away. You are left holding your promotion letter, wondering how a congratulation managed to feel like an insult.Or consider this: you walk into the office wearing a new outfit, and a colleague says, “That looks so expensive! Someone must be paying you really well.” When you mention your salary hike, the same person remarks, “Wow, you must be the boss’s favourite.”None of these comments is openly hostile. There is no obvious insult to challenge, no raised voice and no argument to point to. Yet each remark leaves a little sting, making you wonder whether you are being celebrated, mocked or quietly put in your place.Image: AI",
+            "content": "News\netimes\nwork-career\nHow to respond when a colleague makes a backhanded compliment about your clothes, salary or promotion\nHow to respond when a colleague makes a backhanded compliment about your clothes, salary or promotion\n1/ 8\nSuch compliments ... [6698 chars]",
+            "url": "https://timesofindia.indiatimes.com/etimes/work-career/how-to-respond-when-a-colleague-makes-a-backhanded-compliment-about-your-clothes-salary-or-promotion/photostory/134845880.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134845910,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-10T01:19:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "10f4e3f19544ea163dadad217536026f",
-            "title": "AI-powered home monitoring tracks older adults’ health while protecting privacy",
-            "description": "Older people could be monitored safely in their own homes without the need for intrusive cameras or wearable devices thanks to new research by Nottingham Trent University (NTU).",
-            "content": "Older people could be monitored safely in their own homes without the need for intrusive cameras or wearable devices thanks to new research by Nottingham Trent University (NTU).\nA study, in collaboration with Integrated System Technologies Ltd, has l... [3555 chars]",
-            "url": "https://www.news-medical.net/news/20261008/AI-powered-home-monitoring-tracks-older-adultse28099-health-while-protecting-privacy.aspx",
-            "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2026-10-09T02:35:00Z",
+            "id": "10a65b4c03038bb84e4702a33b83da63",
+            "title": "Kone India to double connected elevators in a year, bets on AI to cut lift downtime, prevent entrapment",
+            "description": "KOLKATA: Kone Elevator India plans to double the number of connected elevators in its India portfolio within a year to minimise downtime caused by",
+            "content": "Kone Elevator India plans to increase the number of connected elevators to improve reliability and minimize downtimes\nKOLKATA: Kone Elevator India plans to double the number of connected elevators in its India portfolio within a year to minimise down... [2471 chars]",
+            "url": "https://timesofindia.indiatimes.com/city/kolkata/kone-india-to-double-connected-elevators-in-a-year-bets-on-ai-to-cut-lift-downtime-prevent-entrapment/articleshow/134845889.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134845907,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-10T01:18:00Z",
             "lang": "en",
             "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
             }
         }
     ]
