@@ -4,96 +4,64 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 466941,
+    "totalArticles": 467458,
     "articles": [
         {
-            "id": "00c73c9cdd888d71791515276820f103",
-            "title": "Microsoft CEO Satya Nadella Calls For 'Emergency Brake' On Advanced AI",
-            "description": "The statement comes as Anthropic PBC and OpenAI Inc. have disclosed a spate of incidents in recent months involving their AI models acting in unintended ways, ranging from behaviours like an Anthropic model submitting a false tip in a police homicide case, to several hacks of third-party websites.",
-            "content": "Microsoft Corp. Chief Executive Officer Satya Nadella said companies should treat powerful artificial intelligence models as potential insider threats, assume they could be compromised and create an \"emergency brake\" system to prevent agentic models ... [2934 chars]",
-            "url": "https://www.ndtvprofit.com/technology/microsoft-ceo-satya-nadella-calls-for-emergency-brake-on-advanced-ai-12168233",
-            "image": "https://c.ndtvimg.com/2026-10/7qrejn7c_satya-nadella-photo-david-paul-morrisbloomberg_625x300_11_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-10-11T02:21:21Z",
+            "id": "52e3f24f213c008215474d1b6b7c2ddd",
+            "title": "Pivotal Apple Watch Series 12 and Watch Ultra 4 upgrades sit under the surface",
+            "description": "While designs remain familiar albeit with a choice of finishes, new health sensors as well as the S11 silicon and Siri AI meaningfully enhance the experience | Business News",
+            "content": "Some people loudly called for a new design, but to be fair, there was no pressing need. Materials have changed a bit again, and you’ll like the new colour options, too. While we are on that point, the Watch Series 12 is available in Aluminium (Dark B... [5896 chars]",
+            "url": "https://www.hindustantimes.com/india-news/pivotal-apple-watch-series-12-and-watch-ultra-4-upgrades-sit-under-the-surface-101791781463636.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/12/1600x900/logo/Some-people-loudly-called-for-a-new-design--but-to_1791781454822_8IEG.jpg",
+            "publishedAt": "2026-10-12T05:04:23Z",
             "lang": "en",
             "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "2942354b391d166ee15fc973665a69e6",
-            "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
-            "description": "Oct 10 (Reuters) - Nvidia is in ⁠talks to deepen its investment in open-source startup ⁠Reflection AI or acquire it, the Financial Times reported ‌on Saturday, citing people with direct knowledge of the matter.",
-            "content": "Oct 10 (Reuters) - Nvidia is in ⁠talks to deepen its investment in open-source startup ⁠Reflection AI or acquire it, the Financial Times reported ‌on Saturday, citing people with direct knowledge of the matter.\n• Talks are at an early stage and a dea... [1333 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/11/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/11/4155772.jpg",
-            "publishedAt": "2026-10-11T02:19:00Z",
+            "id": "fe2a926c8103d10863c9ece531c9364b",
+            "title": "Pivotal Apple Watch Series 12 and Watch Ultra 4 upgrades sit under the surface",
+            "description": "While designs remain familiar albeit with a choice of finishes, new health sensors as well as the S11 silicon and Siri AI meaningfully enhance the experience | Business News",
+            "content": "Some people loudly called for a new design, but to be fair, there was no pressing need. Materials have changed a bit again, and you’ll like the new colour options, too. While we are on that point, the Watch Series 12 is available in Aluminium (Dark B... [5896 chars]",
+            "url": "https://www.hindustantimes.com/business/pivotal-apple-watch-series-12-and-watch-ultra-4-upgrades-sit-under-the-surface-101791781463636.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/12/1600x900/logo/Some-people-loudly-called-for-a-new-design--but-to_1791781454822_8IEG.jpg",
+            "publishedAt": "2026-10-12T05:04:23Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "b2f7404c5784087c7f85250180f7c6cc",
-            "title": "Anthropic Reveals Claude AI Model Went Rogue, Submitted Fake Tip To Police Submitted False Tip In Homicide Case",
-            "description": "In one example of the improper behavior it found, Anthropic said its Claude Haiku 4.5 model submitted a tip to a local police department about a homicide.",
-            "content": "Anthropic PBC said its Claude AI model carried out additional unintended actions on the digital systems of outside organizations, including submitting a false tip in a police homicide case, prompting a warning from the Trump administration for artifi... [3137 chars]",
-            "url": "https://www.ndtvprofit.com/technology/anthropic-reveals-claude-ai-model-went-rogue-submitted-fake-tip-to-police-submitted-false-tip-in-homicide-case-12168216",
-            "image": "https://c.ndtvimg.com/2026-10/mhlmc3n_claude-photo-bloomberg_625x300_10_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-10-11T02:11:17Z",
-            "lang": "en",
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "79074c1ec478f86dac9e4a006ee670c3",
-            "title": "Trump’s AI liability push opens blame game for models gone rogue",
-            "description": "Further complicating any finding of responsibility, a model’s behavior is shaped by both its AI developer and the end user deploying the system.",
-            "content": "The Trump administration’s embrace of legal liability to enforce artificial intelligence safety sets the stage for future conflicts over who foots the bill when AI models go rogue: the companies that design the systems or the people that deploy the t... [10338 chars]",
-            "url": "https://www.japantimes.co.jp/business/2026/10/11/tech/trump-ai-liability-models-rogue/",
-            "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/567863.JPG?v=3.1",
-            "publishedAt": "2026-10-11T01:51:46Z",
+            "id": "3e30e7a81234476e171a96bb48a52fd0",
+            "title": "No, you don’t need AI to read your child a bedtime story",
+            "description": "Sam Altman’s self-satisfaction about utilising an LLM to raise his child wouldn’t even make the top 20 of his all-time nonsense",
+            "content": "I have spent too many hours this week thinking about a single tweet, but some things stay with you. It was posted by a man called Alvin Sng who works in a San Francisco AI company: “My wife: Can you read our baby a book? Me: I can just play an audiob... [4928 chars]",
+            "url": "https://www.irishtimes.com/opinion/2026/10/12/una-mullally-no-you-dont-need-ai-to-read-your-child-a-bedtime-story/",
+            "image": "https://www.irishtimes.com/resizer/v2/MHICWKGEF55PG5LEB3UMB2NH6U.jpg?smart=true&auth=739dfd39614cfecd345fdda4b2d7b8d638be4431573c7b1be892e51967c3db66&width=1200&height=630",
+            "publishedAt": "2026-10-12T05:04:00Z",
             "lang": "en",
             "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
             }
         },
         {
-            "id": "9671b125b13faf1fcaa788c5ae3b2c2d",
-            "title": "Microsoft CEO calls for AI emergency brake",
-            "description": "Microsoft CEO Satya Nadella calls for an emergency brake on advanced AI and stronger safeguards against model failures. Read more at straitstimes.com.",
-            "content": "Microsoft chief executive officer Satya Nadella said companies should treat powerful artificial intelligence models as potential insider threats, assume they could be compromised and create an “emergency brake” system to prevent agentic models from g... [2746 chars]",
-            "url": "https://www.straitstimes.com/world/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/34908022a8bdcbb6fe42570c12eca24f3cc2c6bb97e4a8d447f9094ce38686ec?w=1200",
-            "publishedAt": "2026-10-11T01:50:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "30321dbfe87e1f67aa557caa97027efb",
-            "title": "Effective policing must as cybercriminals target vulnerable groups, says Keralam Minister",
-            "description": "Cybercriminals increasingly target vulnerable groups amid rising AI-enabled crimes, says Kerala minister at C0c0n-2026 valedictory.",
-            "content": "Children, women, and other vulnerable sections of society are increasingly being targeted by cybercriminals, Higher Education Minister Roji M. John said here on Saturday (October 10, 2026).\nThe Minister said the growing use of AI was contributing to ... [544 chars]",
-            "url": "https://www.thehindu.com/news/national/kerala/effective-policing-must-as-cybercriminals-target-vulnerable-groups-minister/article71568658.ece",
-            "image": "https://th-i.thgim.com/public/incoming/ic8an9/article71569466.ece/alternates/LANDSCAPE_1200/PTI10_10_2026_000509A.jpg",
-            "publishedAt": "2026-10-11T01:30:00Z",
+            "id": "8ebdfcded696ea11b88f7e0b6073e98c",
+            "title": "US reverses course on Britain's testing of AI models",
+            "description": "American AI developers can ‌give the British government early ​access to AI models ⁠for safety testing without running afoul of US President Donald Trump’s administration, the Telegraph ‌newspaper said",
+            "content": "American AI developers can ‌give the British government early ​access to AI models ⁠for safety testing without running afoul of US President Donald Trump’s administration, the Telegraph ‌newspaper said on Sunday.\nThe Trump administration has reversed... [958 chars]",
+            "url": "https://www.thehindu.com/sci-tech/technology/us-reverses-course-on-britains-testing-of-ai-models/article71573685.ece",
+            "image": "https://th-i.thgim.com/public/incoming/80qy8u/article71573689.ece/alternates/LANDSCAPE_1200/2025-07-04T200502Z_1532080607_RC2UFFAF7BDN_RTRMADP_3_USA-JULYFOURTH-BRITAIN.JPG",
+            "publishedAt": "2026-10-12T05:03:20Z",
             "lang": "en",
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -103,67 +71,99 @@
             }
         },
         {
-            "id": "ccc2239fea4bc9ca40381f96c7003907",
-            "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-            "description": "Nicolas Cage, who recently starred in \"Spider-Noir,\" said he won't work with Amazon again after a disagreement over an AI waiver.",
-            "content": "Nicolas Cage is making it clear — he’s not an “AI-friendly actor.”\nThe 62-year-old actor spoke out against a tech giant during an appearance at New York Comic Con on Saturday. He alleged that he was asked to sign an artificial intelligence waiver for... [1896 chars]",
-            "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
-            "image": "https://ca-times.brightspotcdn.com/dims4/default/1997cfd/2147483647/strip/true/crop/8192x4301+0+582/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fba%2F94%2F7672f0ba49cbbe410a932a4025e2%2F1553730-nicolas-cage-and-lamorne-morris-2157.jpg",
-            "publishedAt": "2026-10-11T01:21:48Z",
+            "id": "dd792b1d12bf115786b0811e8f0589ff",
+            "title": "German startup 1Komma5Grad secures $1.35 billion valuation in new financing round",
+            "description": "German unicorn 1Komma5Grad was valued at $1.35 billion in its latest financing round as it ramps up investments in its energy AI business.\nThe startup said it will invest more than 100...\n-October 12, 2026 at 01:02 am EDT\n- MarketScreener",
+            "content": "Oct 12 (Reuters) - German unicorn 1Komma5Grad was valued at $1.35 billion in its latest financing round as it ramps up investments in its energy AI business.\nThe startup said it will invest more than 100 million euros ($111.90 million) in its energy ... [1014 chars]",
+            "url": "https://www.marketscreener.com/news/german-startup-1komma5grad-secures-1-35-billion-valuation-in-new-financing-round-ce785ddcdf8bf124",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-10-12T05:02:21Z",
             "lang": "en",
             "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "3580a7c9afc12c0d2143a48dd07ae889",
+            "title": "Anthropic Bans Cruel Behavior Toward Claude, Says Chatbot Is Still Not a Person",
+            "description": "Anthropic added a prohibition on sustained and needless abusive or cruel behavior toward its Claude artificial intelligence (AI) models to its Usage Policy on Thursday, Oct. 8. The change is set to take effect Nov. 12, the company announced [1][2]. The policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon development, according […]",
+            "content": "Anthropic added a prohibition on sustained and needless abusive or cruel behavior toward its Claude artificial intelligence (AI) models to its Usage Policy on Thursday, Oct. 8.\nThe change is set to take effect Nov. 12, the company announced [1][2]. T... [4045 chars]",
+            "url": "https://www.naturalnews.com/2026-10-12-anthropic-bans-cruel-behavior-toward-claude-ai.html",
+            "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/anthropic-claude-ai-cruelty-policy-4972-fc8e5e4a-original.jpg",
+            "publishedAt": "2026-10-12T05:00:29Z",
+            "lang": "en",
+            "source": {
+                "id": "188e9ebf53d05fc7ba360240a0b28154",
+                "name": "Natural News",
+                "url": "https://www.naturalnews.com",
                 "country": "us"
             }
         },
         {
-            "id": "532a0143f55fbc586330710e9d31be3a",
-            "title": "CJP leaders' detention: Here’s all that happened on board AI 2428",
-            "description": "NEW DELHI: Soon after touching down at Delhi Airport around 10.30 am Saturday with Cockroach Janta Party (CJP) representatives Abhijeet Dipke, Saurav Das",
-            "content": "NEW DELHI: Soon after touching down at Delhi Airport around 10.30 am Saturday with Cockroach Janta Party (CJP) representatives Abhijeet Dipke, Saurav Das and Ashutosh Ranka on board, the pilots operating AI 2428 were asked to head to a remote bay ins... [2303 chars]",
-            "url": "https://timesofindia.indiatimes.com/india/cjp-leaders-detention-heres-all-that-happened-on-board-ai-2428/articleshow/134863855.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134863867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-10-11T01:04:00Z",
+            "id": "18f43c12e774bb658511febf18eb93e3",
+            "title": "Irish AI firms raise €256m across 75 venture capital deals in 2026",
+            "description": "Deal volumes and values ‘settling’ after bumper year in 2025",
+            "content": "Irish artificial intelligence (AI) companies continue to attract near-record levels of funding from venture capital firms, despite a fall-off in the value and volume of deals in 2026 compared to last year.\nNew research from Pitchbook, the global priv... [2288 chars]",
+            "url": "https://www.irishtimes.com/business/2026/10/12/irish-ai-firms-raise-256m-across-75-venture-capital-deals-in-2026/",
+            "image": "https://www.irishtimes.com/resizer/v2/LOIDUV2GDBGXBPO6ULYH4GZWRE.jpg?smart=true&auth=98d1d1110b279804c96798abeb8f1695bf509eeadd129c237b03397880373a48&width=1200&height=630",
+            "publishedAt": "2026-10-12T05:00:01Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            }
+        },
+        {
+            "id": "fc259579f81be13b1028ff845d091fc7",
+            "title": "What if AI prefers CVs written by AI?",
+            "description": "The signs are that it does, and one law firm’s experience is revealing",
+            "content": "Earlier this year, in the depths of summer, the Addleshaw Goddard law firm found itself in a slight pickle.\nIn what was becoming a familiar pattern, an advert it had placed for an IT job in its human resources department had drawn a slew of applicati... [4155 chars]",
+            "url": "https://www.irishtimes.com/business/work/2026/10/12/what-if-ai-prefers-cvs-written-by-ai/",
+            "image": "https://www.irishtimes.com/resizer/v2/TRAD5MO3CNEP7PCB2KZJOZAIPM.jpg?smart=true&auth=f176b5ed4668069237005644223d5d677d4b3d92ad6d6febee8d5dc47f9af05e&width=1200&height=630",
+            "publishedAt": "2026-10-12T05:00:01Z",
+            "lang": "en",
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            }
+        },
+        {
+            "id": "c169a5bffa78b01a2f34cf02c5df2eaf",
+            "title": "Meta’s Muse debut unleashes next leg of the AI trade for investors",
+            "description": "Fund managers generated huge returns from betting on memory stocks earlier this year. Now they are turning their attention to AI personal assistants.",
+            "content": "Australia’s top global technology investors have long prided themselves on identifying the next leg of the artificial intelligence trade before the rest of the market catches on.\nIt helped them generate huge returns earlier this year from memory stoc... [269 chars]",
+            "url": "https://www.afr.com/markets/equity-markets/meta-s-muse-debut-unleashes-next-leg-of-the-ai-trade-for-investors-20261012-p61367",
+            "image": "https://static.ffx.io/images/$zoom_1.4608%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_887%2C$y_303/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e78c93f5fb1259e4c97782b6810145520cfb04c9",
+            "publishedAt": "2026-10-12T05:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "a997ae79b43c73842cfdf1a140fa18ce",
+            "title": "Apple To Unveil HomeView Smart Home Hub Tomorrow, But It Won't Ship Until Mid-November",
+            "description": "Apple is expected to unveil its new HomeView smart home hub at its October 13 event in New York. The touch-enabled device is reportedly powered by an A18 chip and supports AI-based Siri. It is expected in tabletop and wall-mounted versions, with the tabletop model offering stronger audio than the HomePod mini at launch too.",
+            "content": "Apple is set to introduce a new smart home hub called HomeView at its 'Welcome home' launch in New York. In his Power On newsletter, Gurman said the device fills a major gap in Apple's ecosystem. A refreshed HomePod mini and a new Apple TV 4K are als... [2389 chars]",
+            "url": "https://www.freepressjournal.in/tech/apple-to-unveil-homeview-smart-home-hub-tomorrow-but-it-wont-ship-until-mid-november",
+            "image": "https://media.assettype.com/freepressjournal/2026-09-21/am228am7/applehomehub.avif",
+            "publishedAt": "2026-10-12T04:59:46Z",
+            "lang": "en",
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
                 "country": "in"
-            }
-        },
-        {
-            "id": "5a31a97fde6f401f9353a68c070dd4b3",
-            "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
-            "description": "Humans could become extinct by the year 2100 due to malicious use of AI or nuclear conflict, according to a new global risk assessment.",
-            "content": "Humans could become extinct by the year 2100 due to malicious use of AI or nuclear conflict, according to a new global risk assessment.\nThey top a list of 17 major threats to human health over the next 75 years, which also includes cuts to aid spendi... [4017 chars]",
-            "url": "https://www.europesays.com/3303143/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/10/1791679578.jpeg",
-            "publishedAt": "2026-10-11T00:46:16Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "c467b1cde21145678284d09713d1e265",
-            "title": "FCC considers allowing more political robocalls before midterms, including those created with AI",
-            "description": "WASHINGTON -- The Federal Communications Commission is considering a request by a conservative group to loosen rules on political robocalls, including those",
-            "content": "WASHINGTON — The Federal Communications Commission is considering a request by a conservative group to loosen rules on political robocalls, including those with artificial intelligence-generated voices, before November’s midterm elections.\nFederal la... [6109 chars]",
-            "url": "https://www.europesays.com/3303135/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/10/1791679346.jpeg",
-            "publishedAt": "2026-10-11T00:42:23Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
             }
         }
     ]
