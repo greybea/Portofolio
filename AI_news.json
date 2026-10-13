@@ -4,80 +4,64 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 467458,
+    "totalArticles": 468536,
     "articles": [
         {
-            "id": "52e3f24f213c008215474d1b6b7c2ddd",
-            "title": "Pivotal Apple Watch Series 12 and Watch Ultra 4 upgrades sit under the surface",
-            "description": "While designs remain familiar albeit with a choice of finishes, new health sensors as well as the S11 silicon and Siri AI meaningfully enhance the experience | Business News",
-            "content": "Some people loudly called for a new design, but to be fair, there was no pressing need. Materials have changed a bit again, and you’ll like the new colour options, too. While we are on that point, the Watch Series 12 is available in Aluminium (Dark B... [5896 chars]",
-            "url": "https://www.hindustantimes.com/india-news/pivotal-apple-watch-series-12-and-watch-ultra-4-upgrades-sit-under-the-surface-101791781463636.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/12/1600x900/logo/Some-people-loudly-called-for-a-new-design--but-to_1791781454822_8IEG.jpg",
-            "publishedAt": "2026-10-12T05:04:23Z",
+            "id": "ddcc98d813838117f1bb9a4ace9a2f46",
+            "title": "From Insta to FB, online campaign intensifies ahead of campus polls in Odisha",
+            "description": "Digital posters generated using AI have also become a major hit in canvassing this year",
+            "content": "BHUBANESWAR: With just two days left for the student union elections, campuses across state are witnessing a shift in campaigning styles, with student organisations and candidates increasingly turning to social media to reach voters and build support... [1862 chars]",
+            "url": "https://www.newindianexpress.com/states/odisha/2026/Oct/13/from-insta-to-fb-online-campaign-intensifies-ahead-of-campus-polls-in-odisha",
+            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-10-12%2Fcs3bm31y%2FFrom-Insta.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-10-13T03:19:19Z",
             "lang": "en",
             "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "fe2a926c8103d10863c9ece531c9364b",
-            "title": "Pivotal Apple Watch Series 12 and Watch Ultra 4 upgrades sit under the surface",
-            "description": "While designs remain familiar albeit with a choice of finishes, new health sensors as well as the S11 silicon and Siri AI meaningfully enhance the experience | Business News",
-            "content": "Some people loudly called for a new design, but to be fair, there was no pressing need. Materials have changed a bit again, and you’ll like the new colour options, too. While we are on that point, the Watch Series 12 is available in Aluminium (Dark B... [5896 chars]",
-            "url": "https://www.hindustantimes.com/business/pivotal-apple-watch-series-12-and-watch-ultra-4-upgrades-sit-under-the-surface-101791781463636.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/12/1600x900/logo/Some-people-loudly-called-for-a-new-design--but-to_1791781454822_8IEG.jpg",
-            "publishedAt": "2026-10-12T05:04:23Z",
+            "id": "e48c93b555833ae98d4f7c04c90c63a5",
+            "title": "Do you own your voice? As AI voice tech booms, UK law needs an answer",
+            "description": "AI voice tech like ElevenLabs is booming, yet the legal framework around whether a voice can be 'owned' remains murky.",
+            "content": "AI voice tech like ElevenLabs is booming, yet the legal framework around whether a voice can be ‘owned’ remains murky, writes film and TV lawyer Julianne Althoff in today’s Notebook\nThe murkiness of voice ownership\nThe British-founded AI voice compan... [4827 chars]",
+            "url": "https://www.cityam.com/do-you-own-your-voice-as-ai-voice-tech-booms-uk-law-needs-an-answer/",
+            "image": "https://www.cityam.com/wp-content/uploads/2026/10/woman-with-megaphone-voice-e1791823817452.jpg",
+            "publishedAt": "2026-10-13T03:19:00Z",
             "lang": "en",
             "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
+                "id": "996b4ad0804caad8f61702c5d7917ec0",
+                "name": "City A.M.",
+                "url": "https://www.cityam.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "eb2350b68a58dd8d150ce3dcd4bd0126",
+            "title": "Zoho’s Sridhar Vembu says no pay hikes this year, warns software jobs outlook is grim",
+            "description": "Zoho Chief Scientist Sridhar Vembu has said the company will not provide its usual salary increases this year, citing rising artificial intelligence (AI)",
+            "content": "Zoho founder Sridhar Vembu cites fourfold server price rise, rising AI expenses as company holds back salary increases\nZoho Chief Scientist Sridhar Vembu has said the company will not provide its usual salary increases this year, citing rising artifi... [3304 chars]",
+            "url": "https://timesofindia.indiatimes.com/education/news/zohos-sridhar-vembu-says-no-pay-hikes-this-year-warns-software-jobs-outlook-is-grim/articleshow/134906789.cms",
+            "image": "https://static.toiimg.com/thumb/msid-134906808,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-13T03:18:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "3e30e7a81234476e171a96bb48a52fd0",
-            "title": "No, you don’t need AI to read your child a bedtime story",
-            "description": "Sam Altman’s self-satisfaction about utilising an LLM to raise his child wouldn’t even make the top 20 of his all-time nonsense",
-            "content": "I have spent too many hours this week thinking about a single tweet, but some things stay with you. It was posted by a man called Alvin Sng who works in a San Francisco AI company: “My wife: Can you read our baby a book? Me: I can just play an audiob... [4928 chars]",
-            "url": "https://www.irishtimes.com/opinion/2026/10/12/una-mullally-no-you-dont-need-ai-to-read-your-child-a-bedtime-story/",
-            "image": "https://www.irishtimes.com/resizer/v2/MHICWKGEF55PG5LEB3UMB2NH6U.jpg?smart=true&auth=739dfd39614cfecd345fdda4b2d7b8d638be4431573c7b1be892e51967c3db66&width=1200&height=630",
-            "publishedAt": "2026-10-12T05:04:00Z",
-            "lang": "en",
-            "source": {
-                "id": "dd1d806725f45e4403e75c1bb23b447a",
-                "name": "The Irish Times",
-                "url": "https://www.irishtimes.com",
-                "country": "ie"
-            }
-        },
-        {
-            "id": "8ebdfcded696ea11b88f7e0b6073e98c",
-            "title": "US reverses course on Britain's testing of AI models",
-            "description": "American AI developers can ‌give the British government early ​access to AI models ⁠for safety testing without running afoul of US President Donald Trump’s administration, the Telegraph ‌newspaper said",
-            "content": "American AI developers can ‌give the British government early ​access to AI models ⁠for safety testing without running afoul of US President Donald Trump’s administration, the Telegraph ‌newspaper said on Sunday.\nThe Trump administration has reversed... [958 chars]",
-            "url": "https://www.thehindu.com/sci-tech/technology/us-reverses-course-on-britains-testing-of-ai-models/article71573685.ece",
-            "image": "https://th-i.thgim.com/public/incoming/80qy8u/article71573689.ece/alternates/LANDSCAPE_1200/2025-07-04T200502Z_1532080607_RC2UFFAF7BDN_RTRMADP_3_USA-JULYFOURTH-BRITAIN.JPG",
-            "publishedAt": "2026-10-12T05:03:20Z",
-            "lang": "en",
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "dd792b1d12bf115786b0811e8f0589ff",
-            "title": "German startup 1Komma5Grad secures $1.35 billion valuation in new financing round",
-            "description": "German unicorn 1Komma5Grad was valued at $1.35 billion in its latest financing round as it ramps up investments in its energy AI business.\nThe startup said it will invest more than 100...\n-October 12, 2026 at 01:02 am EDT\n- MarketScreener",
-            "content": "Oct 12 (Reuters) - German unicorn 1Komma5Grad was valued at $1.35 billion in its latest financing round as it ramps up investments in its energy AI business.\nThe startup said it will invest more than 100 million euros ($111.90 million) in its energy ... [1014 chars]",
-            "url": "https://www.marketscreener.com/news/german-startup-1komma5grad-secures-1-35-billion-valuation-in-new-financing-round-ce785ddcdf8bf124",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2026-10-12T05:02:21Z",
+            "id": "5e1a0ec49261730ea31f7b9042f65768",
+            "title": "IMF cites AI slowdown, spiking yields as looming global market risks",
+            "description": "The International Monetary Fund warned on Tuesday against complacency in global financial markets, citing risks from an artificial intelligence-driven selloff, rising government bond yields, or...",
+            "content": "Oct 13 (Reuters) - The International Monetary Fund warned on Tuesday against \"complacency\" in global financial markets, citing risks from an artificial intelligence-driven selloff, rising government bond yields, or cyberattacks as potential threats f... [3518 chars]",
+            "url": "https://www.marketscreener.com/news/imf-cites-ai-slowdown-spiking-yields-as-looming-global-market-risks-ce785dddda8af422",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-13T025929Z_1_LYNXMPEM9C07B_RTROPTP_4_IMF-WORLDBANK.JPG",
+            "publishedAt": "2026-10-13T03:16:17Z",
             "lang": "en",
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -87,82 +71,98 @@
             }
         },
         {
-            "id": "3580a7c9afc12c0d2143a48dd07ae889",
-            "title": "Anthropic Bans Cruel Behavior Toward Claude, Says Chatbot Is Still Not a Person",
-            "description": "Anthropic added a prohibition on sustained and needless abusive or cruel behavior toward its Claude artificial intelligence (AI) models to its Usage Policy on Thursday, Oct. 8. The change is set to take effect Nov. 12, the company announced [1][2]. The policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon development, according […]",
-            "content": "Anthropic added a prohibition on sustained and needless abusive or cruel behavior toward its Claude artificial intelligence (AI) models to its Usage Policy on Thursday, Oct. 8.\nThe change is set to take effect Nov. 12, the company announced [1][2]. T... [4045 chars]",
-            "url": "https://www.naturalnews.com/2026-10-12-anthropic-bans-cruel-behavior-toward-claude-ai.html",
-            "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/anthropic-claude-ai-cruelty-policy-4972-fc8e5e4a-original.jpg",
-            "publishedAt": "2026-10-12T05:00:29Z",
+            "id": "97ca9029f2b3d4e6d3228bae4c428b26",
+            "title": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt",
+            "description": "The International Monetary Fund has slightly upgraded its outlook for the world economy for this year, but it's forecasting growth at a still sluggish 3.1%. Gr… | ITV National News",
+            "content": "BANGKOK (AP) — The International Monetary Fund on Tuesday slightly upgraded its outlook for the world economy for this year, while warning of growing risks from rising debt, including borrowing related to artificial intelligence.\nThe IMF says it expe... [4126 chars]",
+            "url": "https://www.itv.com/news/2026-10-13/imf-slightly-raises-its-outlook-for-the-world-economy",
+            "image": "https://images.ctfassets.net/pjshm78m9jt4/b508fa0f42304e12a62c0f01ba73dda1/34eb600d57b10ff7d0245dac753252ca/b508fa0f42304e12a62c0f01ba73dda1?fm=jpg&fit=fill&w=1600&h=1067&q=80",
+            "publishedAt": "2026-10-13T03:16:00Z",
             "lang": "en",
             "source": {
-                "id": "188e9ebf53d05fc7ba360240a0b28154",
-                "name": "Natural News",
-                "url": "https://www.naturalnews.com",
-                "country": "us"
+                "id": "8058567c977e70457c45c65529cb9946",
+                "name": "ITV News",
+                "url": "https://www.itv.com",
+                "country": "gb"
             }
         },
         {
-            "id": "18f43c12e774bb658511febf18eb93e3",
-            "title": "Irish AI firms raise €256m across 75 venture capital deals in 2026",
-            "description": "Deal volumes and values ‘settling’ after bumper year in 2025",
-            "content": "Irish artificial intelligence (AI) companies continue to attract near-record levels of funding from venture capital firms, despite a fall-off in the value and volume of deals in 2026 compared to last year.\nNew research from Pitchbook, the global priv... [2288 chars]",
-            "url": "https://www.irishtimes.com/business/2026/10/12/irish-ai-firms-raise-256m-across-75-venture-capital-deals-in-2026/",
-            "image": "https://www.irishtimes.com/resizer/v2/LOIDUV2GDBGXBPO6ULYH4GZWRE.jpg?smart=true&auth=98d1d1110b279804c96798abeb8f1695bf509eeadd129c237b03397880373a48&width=1200&height=630",
-            "publishedAt": "2026-10-12T05:00:01Z",
+            "id": "7c741daa9976d2a11a149c7e377237ab",
+            "title": "IMF cites AI slowdown, spiking yields as looming global market risks",
+            "description": "Read more about IMF cites AI slowdown, spiking yields as looming global market risks on Devdiscourse",
+            "content": "The International Monetary Fund warned on ‌Tuesday ​against \"complacency\" in global financial markets, citing risks from an artificial intelligence-driven selloff, rising government bond yields, or cyberattacks as potential threats facing still- resi... [3602 chars]",
+            "url": "https://www.devdiscourse.com/article/international/3991254-imf-cites-ai-slowdown-spiking-yields-as-looming-global-market-risks",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_06_3802569.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-10-13T03:15:23Z",
             "lang": "en",
             "source": {
-                "id": "dd1d806725f45e4403e75c1bb23b447a",
-                "name": "The Irish Times",
-                "url": "https://www.irishtimes.com",
-                "country": "ie"
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
             }
         },
         {
-            "id": "fc259579f81be13b1028ff845d091fc7",
-            "title": "What if AI prefers CVs written by AI?",
-            "description": "The signs are that it does, and one law firm’s experience is revealing",
-            "content": "Earlier this year, in the depths of summer, the Addleshaw Goddard law firm found itself in a slight pickle.\nIn what was becoming a familiar pattern, an advert it had placed for an IT job in its human resources department had drawn a slew of applicati... [4155 chars]",
-            "url": "https://www.irishtimes.com/business/work/2026/10/12/what-if-ai-prefers-cvs-written-by-ai/",
-            "image": "https://www.irishtimes.com/resizer/v2/TRAD5MO3CNEP7PCB2KZJOZAIPM.jpg?smart=true&auth=f176b5ed4668069237005644223d5d677d4b3d92ad6d6febee8d5dc47f9af05e&width=1200&height=630",
-            "publishedAt": "2026-10-12T05:00:01Z",
+            "id": "52712c5294fb36b237710fa23afa91b6",
+            "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+            "description": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks",
+            "content": "The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned.\nIn its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high... [2778 chars]",
+            "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+            "image": "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/936_0_4064_3251/master/4064.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09d088172c992bc6ae7b21be63e1e523",
+            "publishedAt": "2026-10-13T03:15:12Z",
             "lang": "en",
             "source": {
-                "id": "dd1d806725f45e4403e75c1bb23b447a",
-                "name": "The Irish Times",
-                "url": "https://www.irishtimes.com",
-                "country": "ie"
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
             }
         },
         {
-            "id": "c169a5bffa78b01a2f34cf02c5df2eaf",
-            "title": "Meta’s Muse debut unleashes next leg of the AI trade for investors",
-            "description": "Fund managers generated huge returns from betting on memory stocks earlier this year. Now they are turning their attention to AI personal assistants.",
-            "content": "Australia’s top global technology investors have long prided themselves on identifying the next leg of the artificial intelligence trade before the rest of the market catches on.\nIt helped them generate huge returns earlier this year from memory stoc... [269 chars]",
-            "url": "https://www.afr.com/markets/equity-markets/meta-s-muse-debut-unleashes-next-leg-of-the-ai-trade-for-investors-20261012-p61367",
-            "image": "https://static.ffx.io/images/$zoom_1.4608%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_887%2C$y_303/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e78c93f5fb1259e4c97782b6810145520cfb04c9",
-            "publishedAt": "2026-10-12T05:00:00Z",
+            "id": "1e157808d9300f96eb8ebcd0d088a58a",
+            "title": "NTT Data in final talks to build Anthropic's first data centre in Japan, Nikkei reports",
+            "description": "TOKYO, Oct ⁠13 (Reuters) - Japan's NTT Data Group, ⁠a unit of telecommunications giant NTT, ‌is in the final stages of talks to build a data centre ​in Osaka, western Japan, ⁠for US AI ⁠company Anthropic, the Nikkei business daily ⁠reported ‌on Tuesday, citing multiple sources.",
+            "content": "TOKYO, Oct ⁠13 (Reuters) - Japan's NTT Data Group, ⁠a unit of telecommunications giantNTT, ‌is in the final stages of talks to build a data centre ​in Osaka, western Japan, ⁠for US AI ⁠company Anthropic, the Nikkei business daily ⁠reported ‌on Tuesda... [542 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/13/ntt-data-in-final-talks-to-build-anthropic039s-first-data-centre-in-japan-nikkei-reports",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/13/4158875.jpg",
+            "publishedAt": "2026-10-13T03:11:00Z",
             "lang": "en",
             "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
             }
         },
         {
-            "id": "a997ae79b43c73842cfdf1a140fa18ce",
-            "title": "Apple To Unveil HomeView Smart Home Hub Tomorrow, But It Won't Ship Until Mid-November",
-            "description": "Apple is expected to unveil its new HomeView smart home hub at its October 13 event in New York. The touch-enabled device is reportedly powered by an A18 chip and supports AI-based Siri. It is expected in tabletop and wall-mounted versions, with the tabletop model offering stronger audio than the HomePod mini at launch too.",
-            "content": "Apple is set to introduce a new smart home hub called HomeView at its 'Welcome home' launch in New York. In his Power On newsletter, Gurman said the device fills a major gap in Apple's ecosystem. A refreshed HomePod mini and a new Apple TV 4K are als... [2389 chars]",
-            "url": "https://www.freepressjournal.in/tech/apple-to-unveil-homeview-smart-home-hub-tomorrow-but-it-wont-ship-until-mid-november",
-            "image": "https://media.assettype.com/freepressjournal/2026-09-21/am228am7/applehomehub.avif",
-            "publishedAt": "2026-10-12T04:59:46Z",
+            "id": "0891d5c7d875f2b713552bf9692ddb2f",
+            "title": "Asian stocks dive on AI jitters ahead of US bank earnings",
+            "description": "Asian stocks fell sharply on Tuesday as investors fretted about the durability of the rally in AI shares and increased competition while a widening conflict in the Middle East soured risk sentiment...",
+            "content": "SINGAPORE, Oct 13 (Reuters) - Asian stocks fell sharply on Tuesday as investors fretted about the durability of the rally in AI shares and increased competition while a widening conflict in the Middle East soured risk sentiment ahead of the tone-sett... [3514 chars]",
+            "url": "https://www.marketscreener.com/news/asian-stocks-dive-on-ai-jitters-ahead-of-us-bank-earnings-ce785dddda8af521",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-07/2026-07-22T010802Z_1_LYNXMPEM6L01V_RTROPTP_4_GLOBAL-MARKETS.JPG",
+            "publishedAt": "2026-10-13T03:09:22Z",
             "lang": "en",
             "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "540dffeced760ceb90fa8e06eb9c144a",
+            "title": "Sridhar Vembu says no appraisals at Zoho this year, company working hard to avoid mass layoffs",
+            "description": "Zoho founder Sridhar Vembu has confessed that the homegrown company is facing a difficult time. Vembu says that Zoho has cancelled appraisals this year, and is trying hard to avoid layoffs amid rising expenses due to AI.",
+            "content": "The tech industry is going through troubling times and the same seems to be the case for Zoho. Zoho founder Sridhar Vembu has now admitted that the company is finding it hard to control costs due to rising AI prices. Amid this situation, Vembu says, ... [2849 chars]",
+            "url": "https://www.indiatoday.in/jobs/story/sridhar-vembu-says-no-appraisals-at-zoho-this-year-company-working-hard-to-avoid-mass-layoffs-tchc-3016061-2026-10-13",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/zohos-sridhar-vembu-302345202-16x9_1.jpg?VersionId=B6ZCc4G4ldudKvGfT4q9aaBwiOHZ3e.g",
+            "publishedAt": "2026-10-13T03:05:39Z",
+            "lang": "en",
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
                 "country": "in"
             }
         }
