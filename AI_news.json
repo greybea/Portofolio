@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 470074,
+    "totalArticles": 471410,
     "articles": [
         {
-            "id": "bea4e755579460b7ec6170efff76c4ce",
-            "title": "Experts Urge \"Immediate Changes\" To Prevent Rogue AI",
-            "description": "Leading US-based AI firms have disclosed over recent months a series of incidents where models under development have escaped containment measures to access the internet and have gone on to hack websites, including gaining unauthorised access to Australian government sites.",
-            "content": "More than 200 artificial intelligence and cybersecurity researchers called Tuesday for immediate action to prevent further cases of AI models going rogue and posing a risk to critical infrastructure.\nThe letter signed by luminaries in the field inclu... [1854 chars]",
-            "url": "https://www.ndtv.com/world-news/experts-urge-immediate-changes-to-prevent-rogue-ai-12181798",
-            "image": "https://c.ndtvimg.com/2026-10/d87jlib4_artificial-intelligence-reuters_625x300_09_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-10-14T01:01:04Z",
+            "id": "e7f33bc83df08e47ae825541b74395ae",
+            "title": "Global Market Today: Stock selloff extends to Asia as chip rout deepens",
+            "description": "MSCI Inc.s Asia Pacific equities gauge dropped 1.5%, heading for a fourth straight decline, led by losses in South Korea, a bellwether for artificial intelligence investment. The Kospi Index slumped as much as 6.5% to its lowest since late July, with chip heavyweights Samsung Electronics Co. and SK Hynix Inc. tumbling at least 7%.",
+            "content": "Synopsis\nMSCI Inc.’s Asia Pacific equities gauge dropped 1.5%, heading for a fourth straight decline, led by losses in South Korea, a bellwether for artificial intelligence investment. The Kospi Index slumped as much as 6.5% to its lowest since late ... [5516 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-stock-selloff-extends-to-asia-as-chip-rout-deepens/articleshow/134954894.cms",
+            "image": "https://img.etimg.com/thumb/msid-134954915,width-1200,height-900,imgsize-51616,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-10-15T00:54:00Z",
             "lang": "en",
             "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "601b798ec879b7630dbd246b90b96edb",
-            "title": "'VisionQuest': Your Guide To Every AI Character In The MCU's Newest Show",
-            "description": "From J.A.R.V.I.S. to E.D.I.T.H., here's every \"VisionQuest\" AI you need to know, and where you've seen them before",
-            "content": "VisionQuest reunites viewers with Vision (Paul Bettany), the synthezoid first introduced in Avengers: Age of Ultron. However, he's not the only AI from the MCU to reappear in Marvel's latest television outing.\nThat's because VisionQuest boasts a supp... [3744 chars]",
-            "url": "https://in.mashable.com/topic-14/114956/visionquest-your-guide-to-every-ai-character-in-the-mcus-newest-show",
-            "image": "https://sm.mashable.com/t/mashable_in/article/v/visionques/visionquest-your-guide-to-every-ai-character-in-the-mcus-new_rk45.1200.jpg",
-            "publishedAt": "2026-10-14T01:00:00Z",
+            "id": "540c9fa862d9d4a1c2f7dbb9f7584dab",
+            "title": "Wall Street Highlights: S&P 500 Ends Longest Streak Of Calm Since 2020 As AI Trade Sinks",
+            "description": "Weakness in technology megacaps that have fueled the four-year bull run in the S&P 500 added to the risk-off tone across markets, fueling worries that more losses could be in store for the benchmark gauge that's added $13 trillion in market value since late March.",
+            "content": "The US stock market's longest streak of tranquility since before the Covid-19 pandemic is over.\nConcerns about the sustainability of the artificial-intelligence trade coupled with a report showing the fastest increase in consumer prices since April p... [3989 chars]",
+            "url": "https://www.ndtvprofit.com/markets/wall-street-highlights-s-p-500-ends-longest-streak-of-calm-since-2020-as-ai-trade-sinks-12187260",
+            "image": "https://c.ndtvimg.com/2026-10/p4ce0ul8_wall-street-highlights-bbg_625x300_15_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-10-15T00:52:07Z",
             "lang": "en",
             "source": {
-                "id": "e894895ef041ab9c6cb7fe7223531f53",
-                "name": "Mashable India",
-                "url": "https://in.mashable.com",
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
                 "country": "in"
             }
         },
         {
-            "id": "dc1d870cc90373959f6b53107d3fcd6d",
-            "title": "Experts urge 'immediate changes' to prevent rogue AI",
-            "description": "More than 200 artificial intelligence and cybersecurity researchers called on Oct 13 for immediate action to prevent further cases of AI models going rogue and posing a risk to critical infrastructure.",
-            "content": "PARIS: More than 200 artificial intelligence and cybersecurity researchers called on Oct 13 for immediate action to prevent further cases of AI models going rogue and posing a risk to critical infrastructure.\nThe letter signed by luminaries in the fi... [1872 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/14/experts-urge-039immediate-changes039-to-prevent-rogue-ai",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/13/4160149.jpg",
-            "publishedAt": "2026-10-14T01:00:00Z",
+            "id": "4f7edd9afd2208268449611fee9a6e90",
+            "title": "Anthropic Q3 revenue surges 45% to $16.8 billion as AI startup gears up for $2 trillion IPO",
+            "description": "Anthropic reported a 45% increase in revenue for the third quarter, reaching $16.8 billion. The company's revenue for the first and second quarters was $4.7 billion and $11.6 billion, respectively. Anthropic aims for a valuation exceeding $2 trillion, emphasizing substantial revenue growth despite significant operational losses. Founded by former OpenAI executives, the company focuses on AI safety amid growing competition.",
+            "content": "Synopsis\nAnthropic reported a 45% increase in revenue for the third quarter, reaching $16.8 billion. The company's revenue for the first and second quarters was $4.7 billion and $11.6 billion, respectively. Anthropic aims for a valuation exceeding $2... [3352 chars]",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/anthropic-q3-revenue-surges-45-to-16-8-billion-as-ai-startup-gears-up-for-2-trillion-ipo/articleshow/134954901.cms",
+            "image": "https://img.etimg.com/thumb/msid-134954910,width-1200,height-900,imgsize-64878,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-10-15T00:52:00Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "d5564957ca5222297b6f2e0c53a219ac",
-            "title": "AI can be dangerous without being evil - why AI's increasingly helpful agents could be a problem",
-            "description": "Giving AI greater independence comes with serious risks",
-            "content": "ChatGPT has become remarkably good at making itself useful as a researcher, organizer, and assistant for many a tedious digital task. OpenAI has begun pushing ChatGPT further recently with its agents, which are able to navigate websites and apps on o... [5736 chars]",
-            "url": "https://www.techradar.com/ai-platforms-assistants/ai-can-be-dangerous-without-being-evil-why-ais-increasingly-helpful-agents-could-be-a-problem",
-            "image": "https://cdn.mos.cms.futurecdn.net/3tRBimMNAKcWDeDFdoqd2C-1920-80.jpg",
-            "publishedAt": "2026-10-14T01:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "5dee107c195d844555097ed7ac29ddf4",
-            "title": "Brian Eno on relaunching Opal Records, AI and Palestine",
-            "description": "Brian Eno, the multi-hyphenate artist, producer and political activist best known for pioneering ambient music, will relaunch his transformative Opal Records on Friday.",
-            "content": "LONDON — Brian Eno, the multi-hyphenate artist, producer and political activist best known for pioneering ambient music, will relaunch his transformative Opal Records on Friday. Founded in 1988 and put on hiatus in 1991, the label released works by f... [5424 chars]",
-            "url": "https://www.cp24.com/news/entertainment/2026/10/14/qa-brian-eno-on-relaunching-opal-records-music-for-airports-ai-and-palestine/",
-            "image": "https://www.cp24.com/resizer/v2/H7PG6FIFYTB5QVIWYT4M4ZHVDI.jpg?smart=true&auth=b2976f59a05cf222cf96ae1888d5f218bebc16578b279c1bf79fb67f031c1814&width=1200&height=630",
-            "publishedAt": "2026-10-14T00:55:24Z",
-            "lang": "en",
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "e2e598327a8e157f0c621fd143f0f85e",
-            "title": "Michael Dell joins debate on 'safeguards and controls' for AI models; sends 'strong message' to government, OpenAI and Anthropic",
-            "description": "Dell Technologies CEO Michael Dell warned that artificial intelligence requires strict safeguards and controls, weighing in on an escalating national",
-            "content": "Dell Technologies CEO Michael Dell warned that artificial intelligence requires strict safeguards and controls, weighing in on an escalating national debate over the existential risks posed by rapidly advancing AI systems. Speaking on CNBC, Dell fram... [3358 chars]",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/michael-dell-joins-debate-on-safeguards-and-controls-for-ai-models-sends-strong-message-to-government-openai-and-anthropic/articleshow/134929550.cms",
-            "image": "https://static.toiimg.com/thumb/msid-134929552,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-10-14T00:55:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "c404244d1f95d8bfd322ce331a3b9db3",
-            "title": "CBA chief Matt Comyn says Australia must retain economic value of AI",
-            "description": "SYDNEY, Oct ⁠14 (Reuters) - Commonwealth Bank of Australia CEO Matt Comyn said on Wednesday Australia must ensure more of the ⁠economic benefits created by AI remain in the country while regulation should work to build trust in ‌the new technology.",
-            "content": "SYDNEY, Oct ⁠14 (Reuters) - Commonwealth Bank of Australia CEO Matt Comyn said on Wednesday Australia must ensure more of the ⁠economic benefits created by AI remain in the country while regulation should work to build trust in ‌the new technology.\nC... [2757 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/14/cba-chief-matt-comyn-says-australia-must-retain-economic-value-of-ai",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/14/4160718.jpg",
-            "publishedAt": "2026-10-14T00:53:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "17013e70ddccfcc0d6bf3e0a3b9ee769",
-            "title": "Saudi employee arrested for allegedly bugging OpenAI office",
-            "description": "SAN FRANCISCO (UNITED STATES) - A Saudi employee of OpenAI was arrested after allegedly planting a recording device in one of the company's San Francisco offices, the AI firm and federal prosecutors said Tuesday.",
-            "content": "SAN FRANCISCO (UNITED STATES) - A Saudi employee of OpenAI was arrested after allegedly planting a recording device in one of the company's San Francisco offices, the AI firm and federal prosecutors said Tuesday.\n\"We discovered a sophisticated record... [3323 chars]",
-            "url": "https://www.bangkokpost.com/world/3336749/saudi-employee-arrested-for-allegedly-bugging-openai-office",
-            "image": "https://static.bangkokpost.com/media/content/20261014/c1_6264979_700.jpg",
-            "publishedAt": "2026-10-14T00:52:00Z",
-            "lang": "en",
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            }
-        },
-        {
-            "id": "6e46f7183f42fcffee350d5caef066a3",
-            "title": "SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet",
-            "description": "TOKYO, Oct 14 (Reuters) - SoftBank's promise to pay its highest-ever ⁠yields in a record $11 billion junk-bond offering highlights the pressure on CEO Masayoshi Son to secure returns on his all-in bet on AI amid concerns about possible overheating ⁠in the market.",
-            "content": "TOKYO, Oct 14 (Reuters) - SoftBank's promise to pay its highest-ever ⁠yields in a record $11 billion junk-bond offering highlights the pressure on CEO Masayoshi Son to secure returns on his all-in beton AI amid concerns about possible overheating ⁠in... [4524 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/14/softbank-junk-bond-sale-raises-stakes-for-ceo-son039s-all-in-ai-bet",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/14/4160715.jpg",
-            "publishedAt": "2026-10-14T00:51:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "e6d426ae9cf541aa22a6b9624f5bbafd",
-            "title": "Anthropic seeks rehearing of case over Pentagon's security risk branding",
-            "description": "Anthropic asked a US appeals court on Tuesday to reconsider a ruling that upheld the Pentagon's decision to label the AI company as a national security supply chain risk over a dispute about safety...\n-October 13, 2026 at 08:48 pm EDT\n- MarketScreener",
-            "content": "Oct 13 (Reuters) - Anthropic asked a US appeals court on Tuesday to reconsider a ruling that upheld the Pentagon's decision to label the AI company as a national security supply chain risk over a dispute about safety guardrails on its technology.\no A... [1422 chars]",
-            "url": "https://www.marketscreener.com/news/anthropic-seeks-rehearing-of-case-over-pentagon-s-security-risk-branding-ce785dd2d88cfe22",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-13T010959Z_1_LYNXMPEM9C02Y_RTROPTP_4_TECH-AI-ANTHROPIC.JPG",
-            "publishedAt": "2026-10-14T00:48:31Z",
+            "id": "19beed8e8bbeeeafb88398d6357d87d0",
+            "title": "Asian markets sell off as AI trades crumble after hot US CPI data",
+            "description": "Markets started the day on the back foot as trading kicked off in Asia on Thursday, as a quicker-than-expected increase in US consumer price inflation upped expectations for the Federal Reserve to...",
+            "content": "SINGAPORE, Oct 15 (Reuters) - Markets started the day on the back foot as trading kicked off in Asia on Thursday, as a quicker-than-expected increase in US consumer price inflation upped expectations for the Federal Reserve to act later this year and... [2307 chars]",
+            "url": "https://www.marketscreener.com/news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-ce785dd3d98bf625",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-15T011743Z_1_LYNXMPEM9E02M_RTROPTP_4_GLOBAL-MARKETS.JPG",
+            "publishedAt": "2026-10-15T00:47:32Z",
             "lang": "en",
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
                 "name": "MarketScreener",
                 "url": "https://www.marketscreener.com",
                 "country": "fr"
+            }
+        },
+        {
+            "id": "7a2e1c52e7ada338e5bc17304ffdbdfc",
+            "title": "GLOBAL MARKETS-Asian markets sell off as AI trades crumble after hot US CPI data",
+            "description": "Read more about GLOBAL MARKETS-Asian markets sell off as AI trades crumble after hot US CPI data on Devdiscourse",
+            "content": "Markets started the day on the back foot as trading kicked off in Asia on Thursday, as a quicker-than-expected increase in US ‌consumer price inflation upped expectations for the Federal Reserve to act later this year and pushed stocks lower.\nMSCI's ... [2299 chars]",
+            "url": "https://www.devdiscourse.com/article/international/3992603-global-markets-asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_10_0069135.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-10-15T00:46:56Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "1939a79e7974efee3f65e8d02a8ecbd9",
+            "title": "Sadiq Khan 'backs down' over £50million Met Police deal with AI software firm",
+            "description": "Sadiq Khan 'backs down' over £50million Met Police deal with AI software firm . Sadiq Khan and a US technology firm have agreed to drop legal proceedings over a £50million Metropolitan Police deal",
+            "content": "The Mayor of London's office argued in May the deal was a \"clear and serious breach\" of procurement rules.\nBut the CEO of Palantir UK, Louis Mosley, accused Lord Khan of leaving the force \"fighting criminals with their hands tied behind their back\" i... [2891 chars]",
+            "url": "https://www.gbnews.com/politics/sadiq-khan-met-police-deal-palantir-settle-back-down-london",
+            "image": "https://www.gbnews.com/media-library/sadiq-khan.png?id=68435436&width=1200&height=600&coordinates=0%2C3%2C0%2C117",
+            "publishedAt": "2026-10-15T00:43:05Z",
+            "lang": "en",
+            "source": {
+                "id": "0c047612bc7bc0113342d2651f47b208",
+                "name": "GB News",
+                "url": "https://www.gbnews.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
+            "title": "Asia tech rout, AI funding worries",
+            "description": "A sell-off in global technology hardware stocks deepened Thursday.",
+            "content": "A sell-off in global technology hardware stocks deepened Thursday, with Asian chipmakers tracking Wall Street losses as concerns over further Federal Reserve interest rate hikes, financing of artificial intelligence investments weigh on sentiment.\nSo... [1133 chars]",
+            "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
+            "publishedAt": "2026-10-15T00:42:30Z",
+            "lang": "en",
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "cec54f8689a4083934b0b829fddad8ca",
+            "title": "Code 7500: Mystery hijack alert forces Air India flight diversion",
+            "description": "Flight AI 2030, carrying 306 people, was cleared to continue its journey after security agencies inspected the aircraft and crew. | India News",
+            "content": "Also read: Frankfurt-Delhi Air India flight diverted to Jaipur after hijacking alert, probe on\nAir India flight resumes journey to Delhi\nThe aircraft was cleared to fly on to Delhi. It took off from Jaipur at 2.37pm and landed in Delhi at 3.11pm. In ... [3897 chars]",
+            "url": "https://www.hindustantimes.com/india-news/code-7500-mystery-hijack-alert-forces-air-india-flight-diversion-101792022720280.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/15/1600x900/logo/ANI-20261014348-0_1792023173867_O1VG_1792023189504_D0ee_e4d7f5c6-e586-4628-80b0-e6f0771ed97e_lw9B.jpg",
+            "publishedAt": "2026-10-15T00:41:57Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "9daa65bd0c4f8ac4f4d85323c52b8314",
+            "title": "Can AI feel safer than human advice for consumers who face discrimination?",
+            "description": "What should you cook for dinner on a budget of 20 euros when you have a guest with a gluten intolerance? A shopper might ask a shop assistant for advice or consult, for example, Hopla, the AI-powered shopping assistant launched by French supermarket chain Carrefour. Behind this everyday choice lies a broader question: when faced with a recommendation, who do we trust more? A human being or an AI?",
+            "content": "What should you cook for dinner on a budget of 20 euros when you have a guest with a gluten intolerance? A shopper might ask a shop assistant for advice or consult, for example, Hopla, the AI-powered shopping assistant launched by French supermarket ... [6579 chars]",
+            "url": "https://phys.org/news/2026-10-ai-safer-human-advice-consumers.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2020/discriminate.jpg",
+            "publishedAt": "2026-10-15T00:40:07Z",
+            "lang": "en",
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "210f310f7449fbacf81f2a228276149d",
+            "title": "Datadog Launches Observability Maturity Assessment Partner Program Across A/NZ",
+            "description": "Regional program funds participating partners to deliver evidence-based observability reviews as cloud complexity, cost pressure, and AI adoption reshape monitoring needs",
+            "content": "COMPANY NEWS: Regional program funds participating partners to deliver evidence-based observability reviews as cloud complexity, cost pressure, and AI adoption reshape monitoring needs\nDatadog, Inc., the leading AI-powered observability and security ... [4855 chars]",
+            "url": "https://itwire.com/guest-articles/company-news/datadog-launches-observability-maturity-assessment-partner-program-across-a-nz",
+            "image": "https://media.itwire.com/2026/10/15/datadog-launches-observability-maturity-assessment-partner-program-across-a-nz-00e44ba96a0d.jpg",
+            "publishedAt": "2026-10-15T00:36:29Z",
+            "lang": "en",
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
             }
         }
     ]
