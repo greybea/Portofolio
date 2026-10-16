@@ -4,128 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 471410,
+    "totalArticles": 472700,
     "articles": [
         {
-            "id": "e7f33bc83df08e47ae825541b74395ae",
-            "title": "Global Market Today: Stock selloff extends to Asia as chip rout deepens",
-            "description": "MSCI Inc.s Asia Pacific equities gauge dropped 1.5%, heading for a fourth straight decline, led by losses in South Korea, a bellwether for artificial intelligence investment. The Kospi Index slumped as much as 6.5% to its lowest since late July, with chip heavyweights Samsung Electronics Co. and SK Hynix Inc. tumbling at least 7%.",
-            "content": "Synopsis\nMSCI Inc.’s Asia Pacific equities gauge dropped 1.5%, heading for a fourth straight decline, led by losses in South Korea, a bellwether for artificial intelligence investment. The Kospi Index slumped as much as 6.5% to its lowest since late ... [5516 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-stock-selloff-extends-to-asia-as-chip-rout-deepens/articleshow/134954894.cms",
-            "image": "https://img.etimg.com/thumb/msid-134954915,width-1200,height-900,imgsize-51616,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-10-15T00:54:00Z",
+            "id": "e9a8c29b9516e95aa8ccc2cf3646d1c5",
+            "title": "Maritime surveillance company lists on stock exchange",
+            "description": "A defence technology firm using artificial intelligence to monitor the oceans for military threats and illegal activity has listed on the ASX.",
+            "content": "An Australian defence company using AI surveillance to track the oceans for military and criminal threats has listed on the Australian Stock Exchange.\nFounded in August 2025, Overwatch Technologies develops intelligence and surveillance using autonom... [2384 chars]",
+            "url": "https://www.perthnow.com.au/news/politics/maritime-surveillance-company-lists-on-stock-exchange-c-23028201",
+            "image": "https://images.perthnow.com.au/publication/C-23028201/33a8a7840dc67761ea6aeade1e5111f3a065c594-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-10-16T00:46:37Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
             }
         },
         {
-            "id": "540c9fa862d9d4a1c2f7dbb9f7584dab",
-            "title": "Wall Street Highlights: S&P 500 Ends Longest Streak Of Calm Since 2020 As AI Trade Sinks",
-            "description": "Weakness in technology megacaps that have fueled the four-year bull run in the S&P 500 added to the risk-off tone across markets, fueling worries that more losses could be in store for the benchmark gauge that's added $13 trillion in market value since late March.",
-            "content": "The US stock market's longest streak of tranquility since before the Covid-19 pandemic is over.\nConcerns about the sustainability of the artificial-intelligence trade coupled with a report showing the fastest increase in consumer prices since April p... [3989 chars]",
-            "url": "https://www.ndtvprofit.com/markets/wall-street-highlights-s-p-500-ends-longest-streak-of-calm-since-2020-as-ai-trade-sinks-12187260",
-            "image": "https://c.ndtvimg.com/2026-10/p4ce0ul8_wall-street-highlights-bbg_625x300_15_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-10-15T00:52:07Z",
-            "lang": "en",
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "4f7edd9afd2208268449611fee9a6e90",
-            "title": "Anthropic Q3 revenue surges 45% to $16.8 billion as AI startup gears up for $2 trillion IPO",
-            "description": "Anthropic reported a 45% increase in revenue for the third quarter, reaching $16.8 billion. The company's revenue for the first and second quarters was $4.7 billion and $11.6 billion, respectively. Anthropic aims for a valuation exceeding $2 trillion, emphasizing substantial revenue growth despite significant operational losses. Founded by former OpenAI executives, the company focuses on AI safety amid growing competition.",
-            "content": "Synopsis\nAnthropic reported a 45% increase in revenue for the third quarter, reaching $16.8 billion. The company's revenue for the first and second quarters was $4.7 billion and $11.6 billion, respectively. Anthropic aims for a valuation exceeding $2... [3352 chars]",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/anthropic-q3-revenue-surges-45-to-16-8-billion-as-ai-startup-gears-up-for-2-trillion-ipo/articleshow/134954901.cms",
-            "image": "https://img.etimg.com/thumb/msid-134954910,width-1200,height-900,imgsize-64878,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-10-15T00:52:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "19beed8e8bbeeeafb88398d6357d87d0",
-            "title": "Asian markets sell off as AI trades crumble after hot US CPI data",
-            "description": "Markets started the day on the back foot as trading kicked off in Asia on Thursday, as a quicker-than-expected increase in US consumer price inflation upped expectations for the Federal Reserve to...",
-            "content": "SINGAPORE, Oct 15 (Reuters) - Markets started the day on the back foot as trading kicked off in Asia on Thursday, as a quicker-than-expected increase in US consumer price inflation upped expectations for the Federal Reserve to act later this year and... [2307 chars]",
-            "url": "https://www.marketscreener.com/news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-ce785dd3d98bf625",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-15T011743Z_1_LYNXMPEM9E02M_RTROPTP_4_GLOBAL-MARKETS.JPG",
-            "publishedAt": "2026-10-15T00:47:32Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "7a2e1c52e7ada338e5bc17304ffdbdfc",
-            "title": "GLOBAL MARKETS-Asian markets sell off as AI trades crumble after hot US CPI data",
-            "description": "Read more about GLOBAL MARKETS-Asian markets sell off as AI trades crumble after hot US CPI data on Devdiscourse",
-            "content": "Markets started the day on the back foot as trading kicked off in Asia on Thursday, as a quicker-than-expected increase in US ‌consumer price inflation upped expectations for the Federal Reserve to act later this year and pushed stocks lower.\nMSCI's ... [2299 chars]",
-            "url": "https://www.devdiscourse.com/article/international/3992603-global-markets-asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_10_0069135.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-10-15T00:46:56Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "1939a79e7974efee3f65e8d02a8ecbd9",
-            "title": "Sadiq Khan 'backs down' over £50million Met Police deal with AI software firm",
-            "description": "Sadiq Khan 'backs down' over £50million Met Police deal with AI software firm . Sadiq Khan and a US technology firm have agreed to drop legal proceedings over a £50million Metropolitan Police deal",
-            "content": "The Mayor of London's office argued in May the deal was a \"clear and serious breach\" of procurement rules.\nBut the CEO of Palantir UK, Louis Mosley, accused Lord Khan of leaving the force \"fighting criminals with their hands tied behind their back\" i... [2891 chars]",
-            "url": "https://www.gbnews.com/politics/sadiq-khan-met-police-deal-palantir-settle-back-down-london",
-            "image": "https://www.gbnews.com/media-library/sadiq-khan.png?id=68435436&width=1200&height=600&coordinates=0%2C3%2C0%2C117",
-            "publishedAt": "2026-10-15T00:43:05Z",
-            "lang": "en",
-            "source": {
-                "id": "0c047612bc7bc0113342d2651f47b208",
-                "name": "GB News",
-                "url": "https://www.gbnews.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
-            "title": "Asia tech rout, AI funding worries",
-            "description": "A sell-off in global technology hardware stocks deepened Thursday.",
-            "content": "A sell-off in global technology hardware stocks deepened Thursday, with Asian chipmakers tracking Wall Street losses as concerns over further Federal Reserve interest rate hikes, financing of artificial intelligence investments weigh on sentiment.\nSo... [1133 chars]",
-            "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
-            "publishedAt": "2026-10-15T00:42:30Z",
-            "lang": "en",
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "cec54f8689a4083934b0b829fddad8ca",
-            "title": "Code 7500: Mystery hijack alert forces Air India flight diversion",
-            "description": "Flight AI 2030, carrying 306 people, was cleared to continue its journey after security agencies inspected the aircraft and crew. | India News",
-            "content": "Also read: Frankfurt-Delhi Air India flight diverted to Jaipur after hijacking alert, probe on\nAir India flight resumes journey to Delhi\nThe aircraft was cleared to fly on to Delhi. It took off from Jaipur at 2.37pm and landed in Delhi at 3.11pm. In ... [3897 chars]",
-            "url": "https://www.hindustantimes.com/india-news/code-7500-mystery-hijack-alert-forces-air-india-flight-diversion-101792022720280.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/15/1600x900/logo/ANI-20261014348-0_1792023173867_O1VG_1792023189504_D0ee_e4d7f5c6-e586-4628-80b0-e6f0771ed97e_lw9B.jpg",
-            "publishedAt": "2026-10-15T00:41:57Z",
+            "id": "00fc0d5ec5ae8a628bb318d673f96295",
+            "title": "AI gets cheaper, but human thought remains priceless",
+            "description": "AI models’ capability has an property as a factor of production. Once created, it can be deployed at enormous scale. Can the same be said for human capability?",
+            "content": "The authors estimated that AI prices fell four times faster than DNA sequencing, 18 times faster than lithium-ion batteries, and 54 times faster than electricity. These results come from five benchmarks that cover mathematics, hard science, and game ... [4157 chars]",
+            "url": "https://www.hindustantimes.com/opinion/aigets-cheaper-but-human-thought-remains-priceless-101792090382375.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/15/1600x900/logo/AI-prices-fell-four-times-faster-than-DNA-sequenci_1792090378443_0fHF.jpg",
+            "publishedAt": "2026-10-16T00:45:57Z",
             "lang": "en",
             "source": {
                 "id": "21468bec836de1ebb209ff6f78fbfe3e",
@@ -135,35 +39,131 @@
             }
         },
         {
-            "id": "9daa65bd0c4f8ac4f4d85323c52b8314",
-            "title": "Can AI feel safer than human advice for consumers who face discrimination?",
-            "description": "What should you cook for dinner on a budget of 20 euros when you have a guest with a gluten intolerance? A shopper might ask a shop assistant for advice or consult, for example, Hopla, the AI-powered shopping assistant launched by French supermarket chain Carrefour. Behind this everyday choice lies a broader question: when faced with a recommendation, who do we trust more? A human being or an AI?",
-            "content": "What should you cook for dinner on a budget of 20 euros when you have a guest with a gluten intolerance? A shopper might ask a shop assistant for advice or consult, for example, Hopla, the AI-powered shopping assistant launched by French supermarket ... [6579 chars]",
-            "url": "https://phys.org/news/2026-10-ai-safer-human-advice-consumers.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2020/discriminate.jpg",
-            "publishedAt": "2026-10-15T00:40:07Z",
-            "lang": "en",
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "210f310f7449fbacf81f2a228276149d",
-            "title": "Datadog Launches Observability Maturity Assessment Partner Program Across A/NZ",
-            "description": "Regional program funds participating partners to deliver evidence-based observability reviews as cloud complexity, cost pressure, and AI adoption reshape monitoring needs",
-            "content": "COMPANY NEWS: Regional program funds participating partners to deliver evidence-based observability reviews as cloud complexity, cost pressure, and AI adoption reshape monitoring needs\nDatadog, Inc., the leading AI-powered observability and security ... [4855 chars]",
-            "url": "https://itwire.com/guest-articles/company-news/datadog-launches-observability-maturity-assessment-partner-program-across-a-nz",
-            "image": "https://media.itwire.com/2026/10/15/datadog-launches-observability-maturity-assessment-partner-program-across-a-nz-00e44ba96a0d.jpg",
-            "publishedAt": "2026-10-15T00:36:29Z",
+            "id": "ed6889a2c941af73e39675f93e53a439",
+            "title": "Q&A: UST's Kumaran C R on Why Are So Many Enterprise AI Projects Still Stuck in Pilot Mode?",
+            "description": "Australian organisations are increasingly adopting AI, but scaling it beyond pilot programs remains a significant challenge. In this Q&A, Kumaran C R, Vice President and...",
+            "content": "GUEST INTERVIEWS: Australian organisations are increasingly adopting AI, but scaling it beyond pilot programs remains a significant challenge. In this Q&A, Kumaran C R, Vice President and Managing Director of UST ANZ, discusses the barriers holding b... [10946 chars]",
+            "url": "https://itwire.com/guest-articles/guest-interviews/q-and-a-usts-kumaran-c-r-on-why-are-so-many-enterprise-ai-projects-still-stuck-in-pilot-mode",
+            "image": "https://media.itwire.com/2026/10/16/q-and-a-usts-kumaran-c-r-on-why-are-so-many-enterprise-ai-projects-still-stuck-in-pilot-mode-89ecfd64f853.jpg",
+            "publishedAt": "2026-10-16T00:45:48Z",
             "lang": "en",
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
                 "name": "iTWire",
                 "url": "https://itwire.com",
                 "country": "au"
+            }
+        },
+        {
+            "id": "54d066802f7b2c20314241cfb00fd664",
+            "title": "New research station to be set up in Idukki to ensure productivity in plantation sector",
+            "description": "New research station at Government Engineering College, Idukki, to boost plantation productivity through AI, IoT, robotics, and drones.",
+            "content": "A new research station is being set up at the Government Engineering College, Idukki, to boost productivity across the plantation sector. According to officials, the State government has given approval to establish the facility, which aims to leverag... [2866 chars]",
+            "url": "https://www.thehindu.com/news/national/kerala/new-research-station-to-be-set-up-in-idukki-to-ensure-productivity-in-plantation-sector/article71588801.ece",
+            "image": "https://th-i.thgim.com/public/incoming/urw9gv/article71589376.ece/alternates/LANDSCAPE_1200/80759_15_10_2026_18_29_53_1_TEAPLANTATION.JPG",
+            "publishedAt": "2026-10-16T00:43:00Z",
+            "lang": "en",
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "f49b8973d78c2487d67b25512d21bb7d",
+            "title": "driven observability: 8 Elevate insights",
+            "description": "Eight insights from LogicMonitor Elevate reveal how AI-driven observability, Edwin AI and governed automation are advancing autonomous IT.",
+            "content": "Enterprise IT is moving beyond traditional monitoring as AI-driven observability helps organizations manage complex infrastructure and respond to incidents faster.\nAt this week’s LogicMonitor Elevate event in Chicago, the focus was on bringing togeth... [9252 chars]",
+            "url": "https://siliconangle.com/2026/10/15/ai-driven-observability-logicmonitor-elevate-2026-logicmonitorelevate/",
+            "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Karthik-Sj-chief-AI-officer-of-LogicMonitor-and-Garth-Fort-chief-product-officer-of-LogicMonitor-LogicMonitor-Elevate-2026-scaled.jpg",
+            "publishedAt": "2026-10-16T00:41:22Z",
+            "lang": "en",
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c4c51e498248360956fa5dbd76f152a0",
+            "title": "Microsoft launches project to enhance AI skills and jobs",
+            "description": "Microsoft, the Thai government and partners across sectors launched an artificial intelligence (AI) and jobs initiative, the first of 19 countries to introduce the project.",
+            "content": "PUBLISHED : 16 Oct 2026 at 07:35\nNEWSPAPER SECTION: Business\nWRITER: Komsan Tortermvasana\nListen\nOur audio option is only available for subscribers. SUBSCRIBE NOW\nMicrosoft, the Thai government and partners across sectors launched an artificial intel... [3806 chars]",
+            "url": "https://www.bangkokpost.com/business/general/3338000/microsoft-launches-project-to-enhance-ai-skills-and-jobs",
+            "image": "https://static.bangkokpost.com/media/content/dcx/2026/10/16/6267720_700.jpeg",
+            "publishedAt": "2026-10-16T00:35:00Z",
+            "lang": "en",
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            }
+        },
+        {
+            "id": "499c80e5cd47d848129be6d25ab62984",
+            "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
+            "description": "Meta says Muse excels at ‘multi-step reasoning’ and ‘complex software engineering’ as it races to catch up to Chinese rivals",
+            "content": "Meta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese developers.\nMuse Spark Open “is the most capable US open-weight model to date,” Meta’s chief of AI Alexa... [1384 chars]",
+            "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+            "image": "https://i.guim.co.uk/img/media/24f8156f1c3ce3ecc74c4c1c10d376b740af751e/0_0_3165_2533/master/3165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c136f73370d0bb05d664c7e9675bfe4d",
+            "publishedAt": "2026-10-16T00:34:28Z",
+            "lang": "en",
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "11591988c1aa168b874dd0d1be2ddfcb",
+            "title": "Experiment first, strategy later: How AI is entering the workplace",
+            "description": "Three waves of University of Konstanz research show AI use at work rising slowly and often arriving without the employer’s involvement. Study head Florian Kunze explains why the divides are widening as it spreads.",
+            "content": "New AI models have arrived over the past three years faster than most employers could evaluate them. Inside the workplace, the picture looks very different. Research tracking employees in Germany since 2024 finds AI use at work climbing slowly, uneve... [7891 chars]",
+            "url": "https://hrmasia.com/experiment-first-strategy-later-how-ai-is-entering-the-workplace/",
+            "image": "https://hrmasia.com/wp-content/uploads/2026/09/308806851_m-1024x576.jpg",
+            "publishedAt": "2026-10-16T00:32:31Z",
+            "lang": "en",
+            "source": {
+                "id": "42600681ae4c3d6a7f1e7a6f213bce84",
+                "name": "HRM Asia",
+                "url": "https://hrmasia.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "4c2483603b6940ee4bea418b2933faba",
+            "title": "Someone actually ported the original Halo to the N64, and it’s as wild as it sounds",
+            "description": "Maybe we're taking this whole AI port thing a bit too far here.",
+            "content": "Summary\nHalo: Combat Evolved has been rebuilt to run on Nintendo 64, complete with split-screen 4-player multiplayer and Firefight.\nThe game uses the halo-ce-universal decompilation to recompile objects, physics, HUD, and a new renderer for the N64 V... [2307 chars]",
+            "url": "https://www.xda-developers.com/someone-actually-ported-original-halo-to-n64-its-wild/",
+            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/halo-64-screenshot.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-10-16T00:31:43Z",
+            "lang": "en",
+            "source": {
+                "id": "891063cd06eaab8a5cf530418fb4c0be",
+                "name": "XDA Developers",
+                "url": "https://www.xda-developers.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "71524037d2e9461fca481b5f52000d4c",
+            "title": "Apple HomePod mini 2 vs Google Nest Mini 2: Apple offers Siri AI, Google brings ultrasound sensing",
+            "description": "Apple is betting on a more conversational Siri, while Google’s compact speaker uses ultrasound sensing to make volume controls easier to access.",
+            "content": "The Google Nest Mini measures 98mm in diameter and 42mm in height, weighs 181g, and comes with a 1.5-metre power cable. It comes in Chalk, Charcoal, Coral, and Sky. Google says its fabric top is made using 100% recycled plastic bottles, while the enc... [1903 chars]",
+            "url": "https://www.businesstoday.in/technology/news/story/apple-homepod-mini-2-vs-google-nest-mini-2-apple-offers-siri-ai-google-brings-ultrasound-sensing-561745-2026-10-16",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ad076fbd3c7d-homepod-mini-2-vs-google-nest-mini-2-154722605-16x9.png",
+            "publishedAt": "2026-10-16T00:30:05Z",
+            "lang": "en",
+            "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
             }
         }
     ]
