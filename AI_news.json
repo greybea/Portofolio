@@ -4,165 +4,165 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 472700,
+    "totalArticles": 473787,
     "articles": [
         {
-            "id": "e9a8c29b9516e95aa8ccc2cf3646d1c5",
-            "title": "Maritime surveillance company lists on stock exchange",
-            "description": "A defence technology firm using artificial intelligence to monitor the oceans for military threats and illegal activity has listed on the ASX.",
-            "content": "An Australian defence company using AI surveillance to track the oceans for military and criminal threats has listed on the Australian Stock Exchange.\nFounded in August 2025, Overwatch Technologies develops intelligence and surveillance using autonom... [2384 chars]",
-            "url": "https://www.perthnow.com.au/news/politics/maritime-surveillance-company-lists-on-stock-exchange-c-23028201",
-            "image": "https://images.perthnow.com.au/publication/C-23028201/33a8a7840dc67761ea6aeade1e5111f3a065c594-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-10-16T00:46:37Z",
+            "id": "54d2b92812ada7a65c887fc979be2777",
+            "title": "US banks want to block AI agents from moving your money. Well, at least that's one good move.",
+            "description": "US banks are putting the brakes on AI agents that try to move your money. Charles Schwab and JPMorgan Chase are restricting outside agents from taking financial actions, while exploring safer ways to let AI access account information.",
+            "content": "AI agents want to handle more of your life, including your money, but US banks are drawing a line when these AI assistants try to move funds on your behalf. Charles Schwab and JPMorgan Chase are now restricting outside AI agents from taking financial... [1799 chars]",
+            "url": "https://www.digitaltrends.com/computing/us-banks-want-to-block-ai-agents-from-moving-your-money-well-at-least-thats-one-good-move/",
+            "image": "https://www.digitaltrends.com/tachyon/2026/10/ai-agents.jpg?resize=1200%2C630",
+            "publishedAt": "2026-10-16T23:47:12Z",
             "lang": "en",
             "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "00fc0d5ec5ae8a628bb318d673f96295",
-            "title": "AI gets cheaper, but human thought remains priceless",
-            "description": "AI models’ capability has an property as a factor of production. Once created, it can be deployed at enormous scale. Can the same be said for human capability?",
-            "content": "The authors estimated that AI prices fell four times faster than DNA sequencing, 18 times faster than lithium-ion batteries, and 54 times faster than electricity. These results come from five benchmarks that cover mathematics, hard science, and game ... [4157 chars]",
-            "url": "https://www.hindustantimes.com/opinion/aigets-cheaper-but-human-thought-remains-priceless-101792090382375.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/15/1600x900/logo/AI-prices-fell-four-times-faster-than-DNA-sequenci_1792090378443_0fHF.jpg",
-            "publishedAt": "2026-10-16T00:45:57Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "ed6889a2c941af73e39675f93e53a439",
-            "title": "Q&A: UST's Kumaran C R on Why Are So Many Enterprise AI Projects Still Stuck in Pilot Mode?",
-            "description": "Australian organisations are increasingly adopting AI, but scaling it beyond pilot programs remains a significant challenge. In this Q&A, Kumaran C R, Vice President and...",
-            "content": "GUEST INTERVIEWS: Australian organisations are increasingly adopting AI, but scaling it beyond pilot programs remains a significant challenge. In this Q&A, Kumaran C R, Vice President and Managing Director of UST ANZ, discusses the barriers holding b... [10946 chars]",
-            "url": "https://itwire.com/guest-articles/guest-interviews/q-and-a-usts-kumaran-c-r-on-why-are-so-many-enterprise-ai-projects-still-stuck-in-pilot-mode",
-            "image": "https://media.itwire.com/2026/10/16/q-and-a-usts-kumaran-c-r-on-why-are-so-many-enterprise-ai-projects-still-stuck-in-pilot-mode-89ecfd64f853.jpg",
-            "publishedAt": "2026-10-16T00:45:48Z",
-            "lang": "en",
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            }
-        },
-        {
-            "id": "54d066802f7b2c20314241cfb00fd664",
-            "title": "New research station to be set up in Idukki to ensure productivity in plantation sector",
-            "description": "New research station at Government Engineering College, Idukki, to boost plantation productivity through AI, IoT, robotics, and drones.",
-            "content": "A new research station is being set up at the Government Engineering College, Idukki, to boost productivity across the plantation sector. According to officials, the State government has given approval to establish the facility, which aims to leverag... [2866 chars]",
-            "url": "https://www.thehindu.com/news/national/kerala/new-research-station-to-be-set-up-in-idukki-to-ensure-productivity-in-plantation-sector/article71588801.ece",
-            "image": "https://th-i.thgim.com/public/incoming/urw9gv/article71589376.ece/alternates/LANDSCAPE_1200/80759_15_10_2026_18_29_53_1_TEAPLANTATION.JPG",
-            "publishedAt": "2026-10-16T00:43:00Z",
-            "lang": "en",
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "f49b8973d78c2487d67b25512d21bb7d",
-            "title": "driven observability: 8 Elevate insights",
-            "description": "Eight insights from LogicMonitor Elevate reveal how AI-driven observability, Edwin AI and governed automation are advancing autonomous IT.",
-            "content": "Enterprise IT is moving beyond traditional monitoring as AI-driven observability helps organizations manage complex infrastructure and respond to incidents faster.\nAt this week’s LogicMonitor Elevate event in Chicago, the focus was on bringing togeth... [9252 chars]",
-            "url": "https://siliconangle.com/2026/10/15/ai-driven-observability-logicmonitor-elevate-2026-logicmonitorelevate/",
-            "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Karthik-Sj-chief-AI-officer-of-LogicMonitor-and-Garth-Fort-chief-product-officer-of-LogicMonitor-LogicMonitor-Elevate-2026-scaled.jpg",
-            "publishedAt": "2026-10-16T00:41:22Z",
-            "lang": "en",
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
+                "id": "a11116890ae17f53bebab1bc67660326",
+                "name": "Digital Trends",
+                "url": "https://www.digitaltrends.com",
                 "country": "us"
             }
         },
         {
-            "id": "c4c51e498248360956fa5dbd76f152a0",
-            "title": "Microsoft launches project to enhance AI skills and jobs",
-            "description": "Microsoft, the Thai government and partners across sectors launched an artificial intelligence (AI) and jobs initiative, the first of 19 countries to introduce the project.",
-            "content": "PUBLISHED : 16 Oct 2026 at 07:35\nNEWSPAPER SECTION: Business\nWRITER: Komsan Tortermvasana\nListen\nOur audio option is only available for subscribers. SUBSCRIBE NOW\nMicrosoft, the Thai government and partners across sectors launched an artificial intel... [3806 chars]",
-            "url": "https://www.bangkokpost.com/business/general/3338000/microsoft-launches-project-to-enhance-ai-skills-and-jobs",
-            "image": "https://static.bangkokpost.com/media/content/dcx/2026/10/16/6267720_700.jpeg",
-            "publishedAt": "2026-10-16T00:35:00Z",
+            "id": "d74ab60d213bba9b90e36b24074a67c6",
+            "title": "Naomi Klein: “Why wouldn’t fascism look like us?”",
+            "description": "The author on the AI race and “end times fascism”",
+            "content": "Oli Dugmore: You have written this book, End Times Fascism, in collaboration with Astra Taylor. This is your first collaborative work. Why did you want to collaborate on a project like this?\nNaomi Klein: What we’re arguing in the book is a global phe... [1045 chars]",
+            "url": "https://www.newstatesman.com/the-weekend-interview/2026/10/naomi-klein-why-wouldnt-fascism-look-like-us",
+            "image": "https://dl6pgk4f88hky.cloudfront.net/2026/10/15/gettyimages-2156786807-800x418.jpg?1792193978",
+            "publishedAt": "2026-10-16T23:36:19Z",
             "lang": "en",
             "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            }
-        },
-        {
-            "id": "499c80e5cd47d848129be6d25ab62984",
-            "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
-            "description": "Meta says Muse excels at ‘multi-step reasoning’ and ‘complex software engineering’ as it races to catch up to Chinese rivals",
-            "content": "Meta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese developers.\nMuse Spark Open “is the most capable US open-weight model to date,” Meta’s chief of AI Alexa... [1384 chars]",
-            "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
-            "image": "https://i.guim.co.uk/img/media/24f8156f1c3ce3ecc74c4c1c10d376b740af751e/0_0_3165_2533/master/3165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c136f73370d0bb05d664c7e9675bfe4d",
-            "publishedAt": "2026-10-16T00:34:28Z",
-            "lang": "en",
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
+                "id": "b2d8e57d5a31a35fb8ee70adba5bfff2",
+                "name": "New Statesman",
+                "url": "https://www.newstatesman.com",
                 "country": "gb"
             }
         },
         {
-            "id": "11591988c1aa168b874dd0d1be2ddfcb",
-            "title": "Experiment first, strategy later: How AI is entering the workplace",
-            "description": "Three waves of University of Konstanz research show AI use at work rising slowly and often arriving without the employer’s involvement. Study head Florian Kunze explains why the divides are widening as it spreads.",
-            "content": "New AI models have arrived over the past three years faster than most employers could evaluate them. Inside the workplace, the picture looks very different. Research tracking employees in Germany since 2024 finds AI use at work climbing slowly, uneve... [7891 chars]",
-            "url": "https://hrmasia.com/experiment-first-strategy-later-how-ai-is-entering-the-workplace/",
-            "image": "https://hrmasia.com/wp-content/uploads/2026/09/308806851_m-1024x576.jpg",
-            "publishedAt": "2026-10-16T00:32:31Z",
+            "id": "60571142d6dc4b5b0653246eb566e765",
+            "title": "How Small Teams Can Beat Big Competitors With the Right AI Use",
+            "description": "These operating shifts from an AI-first playbook can turn a small team into the one that ships first — before your biggest competitors.",
+            "content": "You know the competitor with three times your people and three times your budget. Sooner or later, that gap makes you wonder, “Do I have to hire the way they hire to keep up?”\nMost of the time, you don’t.\nY Combinator CEO Garry Tan told CNBC that com... [5751 chars]",
+            "url": "https://www.entrepreneur.com/business-news/i-founded-a-20-person-ai-company-with-big-competitors-heres-how-to-out-ship-a-team-3-times-your-size",
+            "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/Out-Ship-a-co-Team-1026-g-2170467937.jpg",
+            "publishedAt": "2026-10-16T23:30:00Z",
             "lang": "en",
             "source": {
-                "id": "42600681ae4c3d6a7f1e7a6f213bce84",
-                "name": "HRM Asia",
-                "url": "https://hrmasia.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "4c2483603b6940ee4bea418b2933faba",
-            "title": "Someone actually ported the original Halo to the N64, and it’s as wild as it sounds",
-            "description": "Maybe we're taking this whole AI port thing a bit too far here.",
-            "content": "Summary\nHalo: Combat Evolved has been rebuilt to run on Nintendo 64, complete with split-screen 4-player multiplayer and Firefight.\nThe game uses the halo-ce-universal decompilation to recompile objects, physics, HUD, and a new renderer for the N64 V... [2307 chars]",
-            "url": "https://www.xda-developers.com/someone-actually-ported-original-halo-to-n64-its-wild/",
-            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/halo-64-screenshot.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-10-16T00:31:43Z",
-            "lang": "en",
-            "source": {
-                "id": "891063cd06eaab8a5cf530418fb4c0be",
-                "name": "XDA Developers",
-                "url": "https://www.xda-developers.com",
+                "id": "839b9d172147498877bab641815b0631",
+                "name": "Entrepreneur",
+                "url": "https://www.entrepreneur.com",
                 "country": "us"
             }
         },
         {
-            "id": "71524037d2e9461fca481b5f52000d4c",
-            "title": "Apple HomePod mini 2 vs Google Nest Mini 2: Apple offers Siri AI, Google brings ultrasound sensing",
-            "description": "Apple is betting on a more conversational Siri, while Google’s compact speaker uses ultrasound sensing to make volume controls easier to access.",
-            "content": "The Google Nest Mini measures 98mm in diameter and 42mm in height, weighs 181g, and comes with a 1.5-metre power cable. It comes in Chalk, Charcoal, Coral, and Sky. Google says its fabric top is made using 100% recycled plastic bottles, while the enc... [1903 chars]",
-            "url": "https://www.businesstoday.in/technology/news/story/apple-homepod-mini-2-vs-google-nest-mini-2-apple-offers-siri-ai-google-brings-ultrasound-sensing-561745-2026-10-16",
-            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ad076fbd3c7d-homepod-mini-2-vs-google-nest-mini-2-154722605-16x9.png",
-            "publishedAt": "2026-10-16T00:30:05Z",
+            "id": "af1ffb8a11cb898e2251718fae42da17",
+            "title": "Analysis-Why CoreWeave is in the crosshairs of the AI scare",
+            "description": "LONDON/BENGALURU, Oct 16 (Reuters) - Loss-making and deeply indebted US cloud company ⁠CoreWeave became an easy target this week for investors concerned about an artificial intelligence bubble. Its selloff, though, has greater significance for markets than its size implies.",
+            "content": "LONDON/BENGALURU, Oct 16 (Reuters) - Loss-making and deeply indebted US cloud company ⁠CoreWeave became an easy target this week for investors concerned about an artificial intelligence bubble. Its selloff, though, has greater significance for market... [5892 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/17/analysis-why-coreweave-is-in-the-crosshairs-of-the-ai-scare",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/17/4166352.jpg",
+            "publishedAt": "2026-10-16T23:27:00Z",
             "lang": "en",
             "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "5c99e4d9dfd87cebca72f2ba7bd6c142",
+            "title": "Web developers, WordPress coders, a vanishing race? Sudden collapse is imminent as 53% of small business owners take website creation into their own hands using AI",
+            "description": "AI website builders saved small business owners an average of $850",
+            "content": "AI now handles website creation for 53% of surveyed entrepreneurs\nBusiness owners saved $850 and 32 hours using AI tools\nWebsite design job postings have fallen 59% since early 2024\nFreelance website development opportunities have fallen sharply sinc... [3812 chars]",
+            "url": "https://www.techradar.com/pro/the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-jobs-and-business-owners-are-very-happy-with-its-job-so-far",
+            "image": "https://cdn.mos.cms.futurecdn.net/AyKYL2MTRayWuTsydgHSfm-1920-80.png",
+            "publishedAt": "2026-10-16T23:25:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "fa1fb18f14f11ce3d72a5f73cbad3fa9",
+            "title": "Anthropic Quietly Pitches Its Own AI Safety Bill To Lawmakers: Reports",
+            "description": "The bill would let the government block a model's release or use only if it poses a foreseeable, imminent risk of more than $1 billion in damages, or of killing or seriously injuring more than 50 people, according to the report.",
+            "content": "Anthropic representatives have quietly pitched Capitol Hill lawmakers on a draft bill to regulate frontier AI safety and security, Politico reported on Friday, citing three people with knowledge of the efforts.\nThe bill would let the government block... [1330 chars]",
+            "url": "https://www.ndtv.com/world-news/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-reports-12197459",
+            "image": "https://c.ndtvimg.com/2026-10/hhd1n048_anthropic-_625x300_17_October_26.jpeg",
+            "publishedAt": "2026-10-16T23:22:02Z",
+            "lang": "en",
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "f0914294fb3d1773b46b2f912b09ad4d",
+            "title": "3 ‘Strong Buy’ Data Center Stocks to Jump On for 80%+ Upside as Tech Shares Fall",
+            "description": "Tech and semiconductor shares fell Friday amid concerns about overspending on AI buildout. However, Wall Street still sees at least 80% upside i...",
+            "content": "Tech and semiconductor shares fell Friday amid concerns about overspending on AI buildout. However, Wall Street still sees at least 80% upside in data-center names: Unisys (UIS), Vicor (VICR), Viavi (VIAV). All three shares are rated Strong Buy on Wa... [1944 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/3-strong-buy-data-center-stocks-to-jump-on-for-80-upside-as-tech-shares-fall-1036636241",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/10/image-1564-1024x434.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2026-10-16T23:21:09Z",
+            "lang": "en",
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "60019abeb8c38001c90e155df63434e9",
+            "title": "After Muse Launch, U.S. Banks Are Saying Hell No to AI Agents Moving Money",
+            "description": "Fortunately, Charles Schwab CEO Rick Wurster says only a relative handful of dummies are trying to.",
+            "content": "Some U.S. banks are, thankfully, blocking their clients from letting Meta’s Muse AI bot root around in their accounts. Even more thankfully, it appears relatively few people have been dumb enough to try.\nSpeaking to Bloomberg TV on Friday, Charles Sc... [2093 chars]",
+            "url": "https://gizmodo.com/after-muse-launch-u-s-banks-are-saying-hell-no-to-ai-agents-moving-money-2000827221",
+            "image": "https://gizmodo.com/app/uploads/2026/10/FrowningMuse-1200x675.jpg",
+            "publishedAt": "2026-10-16T23:15:00Z",
+            "lang": "en",
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c5e97dea99beee96deb9cc7ed351f115",
+            "title": "How Fielder-Oppenheim Use YCSE to Turn the Tables on Silicon Valley",
+            "description": "'You Can See Everything,' like 'Musk,' 'Artificial' and 'The Social Reckoning,' gain leverage for Hollywood in the face of the AI takeover.",
+            "content": "[No spoilers!]\nLife may be too short for long-term grudges, as the quote goes, but it’s still lengthy enough to dole out some justice.\nThis weekend, A24 brings out Nathan Fielder and Lance Oppenheim’s You Can See Everything, the Elizabeth Holmes doc ... [7516 chars]",
+            "url": "https://www.hollywoodreporter.com/business/digital/you-can-see-everything-fielder-holmes-themes-showtimes-1236734072/",
+            "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/nathanlance_e93bc9.jpg?w=1440&h=810&crop=1",
+            "publishedAt": "2026-10-16T23:13:36Z",
+            "lang": "en",
+            "source": {
+                "id": "e83df266d4bbd78d7528c3ee4fc0fc5f",
+                "name": "The Hollywood Reporter",
+                "url": "https://www.hollywoodreporter.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "e2600896fcbbf6728eaf9878e0918cd4",
+            "title": "guided torpedo; what we know",
+            "description": "North Korea has tested a new artificial intelligence-equipped torpedo designed to detect and guide itself towards targets, as Pyongyang steps up efforts",
+            "content": "The test follows North Korea's underwater launches of two types of strategic cruise missiles on Wednesday (Photo credit: Reuters)\nNorth Korea has tested a new artificial intelligence-equipped torpedo designed to detect and guide itself towards target... [3332 chars]",
+            "url": "https://timesofindia.indiatimes.com/defence/international/north-korea-tests-high-speed-ai-guided-torpedo-what-we-know/articleshow/135005352.cms",
+            "image": "https://static.toiimg.com/thumb/msid-135005358,width-1280,height-720,imgsize-101742,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-16T23:09:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
                 "country": "in"
             }
         }
