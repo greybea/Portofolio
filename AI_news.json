@@ -4,80 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 473787,
+    "totalArticles": 474367,
     "articles": [
         {
-            "id": "54d2b92812ada7a65c887fc979be2777",
-            "title": "US banks want to block AI agents from moving your money. Well, at least that's one good move.",
-            "description": "US banks are putting the brakes on AI agents that try to move your money. Charles Schwab and JPMorgan Chase are restricting outside agents from taking financial actions, while exploring safer ways to let AI access account information.",
-            "content": "AI agents want to handle more of your life, including your money, but US banks are drawing a line when these AI assistants try to move funds on your behalf. Charles Schwab and JPMorgan Chase are now restricting outside AI agents from taking financial... [1799 chars]",
-            "url": "https://www.digitaltrends.com/computing/us-banks-want-to-block-ai-agents-from-moving-your-money-well-at-least-thats-one-good-move/",
-            "image": "https://www.digitaltrends.com/tachyon/2026/10/ai-agents.jpg?resize=1200%2C630",
-            "publishedAt": "2026-10-16T23:47:12Z",
+            "id": "6159996adef8ce30709a290b9373d464",
+            "title": "AI and the learning process",
+            "description": "Rethink education: AI’s rise challenges outdated methods, urging assessments that measure understanding over final answers.",
+            "content": "The growing concern among academics today is that students are using artificial intelligence (AI) tools to write assignments and even research papers. Their immediate reaction is to blame the technology. But perhaps one should pause and ask a differe... [3525 chars]",
+            "url": "https://www.thehindu.com/opinion/open-page/ai-and-the-learning-process/article71575409.ece",
+            "image": "https://th-i.thgim.com/public/incoming/f248mv/article71583500.ece/alternates/LANDSCAPE_1200/SM_Ai%20education%202.jpg",
+            "publishedAt": "2026-10-18T00:10:00Z",
             "lang": "en",
             "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
-                "country": "us"
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
             }
         },
         {
-            "id": "d74ab60d213bba9b90e36b24074a67c6",
-            "title": "Naomi Klein: “Why wouldn’t fascism look like us?”",
-            "description": "The author on the AI race and “end times fascism”",
-            "content": "Oli Dugmore: You have written this book, End Times Fascism, in collaboration with Astra Taylor. This is your first collaborative work. Why did you want to collaborate on a project like this?\nNaomi Klein: What we’re arguing in the book is a global phe... [1045 chars]",
-            "url": "https://www.newstatesman.com/the-weekend-interview/2026/10/naomi-klein-why-wouldnt-fascism-look-like-us",
-            "image": "https://dl6pgk4f88hky.cloudfront.net/2026/10/15/gettyimages-2156786807-800x418.jpg?1792193978",
-            "publishedAt": "2026-10-16T23:36:19Z",
-            "lang": "en",
-            "source": {
-                "id": "b2d8e57d5a31a35fb8ee70adba5bfff2",
-                "name": "New Statesman",
-                "url": "https://www.newstatesman.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "60571142d6dc4b5b0653246eb566e765",
-            "title": "How Small Teams Can Beat Big Competitors With the Right AI Use",
-            "description": "These operating shifts from an AI-first playbook can turn a small team into the one that ships first — before your biggest competitors.",
-            "content": "You know the competitor with three times your people and three times your budget. Sooner or later, that gap makes you wonder, “Do I have to hire the way they hire to keep up?”\nMost of the time, you don’t.\nY Combinator CEO Garry Tan told CNBC that com... [5751 chars]",
-            "url": "https://www.entrepreneur.com/business-news/i-founded-a-20-person-ai-company-with-big-competitors-heres-how-to-out-ship-a-team-3-times-your-size",
-            "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/Out-Ship-a-co-Team-1026-g-2170467937.jpg",
-            "publishedAt": "2026-10-16T23:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "839b9d172147498877bab641815b0631",
-                "name": "Entrepreneur",
-                "url": "https://www.entrepreneur.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "af1ffb8a11cb898e2251718fae42da17",
-            "title": "Analysis-Why CoreWeave is in the crosshairs of the AI scare",
-            "description": "LONDON/BENGALURU, Oct 16 (Reuters) - Loss-making and deeply indebted US cloud company ⁠CoreWeave became an easy target this week for investors concerned about an artificial intelligence bubble. Its selloff, though, has greater significance for markets than its size implies.",
-            "content": "LONDON/BENGALURU, Oct 16 (Reuters) - Loss-making and deeply indebted US cloud company ⁠CoreWeave became an easy target this week for investors concerned about an artificial intelligence bubble. Its selloff, though, has greater significance for market... [5892 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/17/analysis-why-coreweave-is-in-the-crosshairs-of-the-ai-scare",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/17/4166352.jpg",
-            "publishedAt": "2026-10-16T23:27:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "5c99e4d9dfd87cebca72f2ba7bd6c142",
-            "title": "Web developers, WordPress coders, a vanishing race? Sudden collapse is imminent as 53% of small business owners take website creation into their own hands using AI",
-            "description": "AI website builders saved small business owners an average of $850",
-            "content": "AI now handles website creation for 53% of surveyed entrepreneurs\nBusiness owners saved $850 and 32 hours using AI tools\nWebsite design job postings have fallen 59% since early 2024\nFreelance website development opportunities have fallen sharply sinc... [3812 chars]",
-            "url": "https://www.techradar.com/pro/the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-jobs-and-business-owners-are-very-happy-with-its-job-so-far",
-            "image": "https://cdn.mos.cms.futurecdn.net/AyKYL2MTRayWuTsydgHSfm-1920-80.png",
-            "publishedAt": "2026-10-16T23:25:00Z",
+            "id": "f28278cb9f6f5a2234f2bc9d31b9fd5f",
+            "title": "WindBorne's AI weather model claims an edge over traditional forecasts as the US Air Force buys its balloon data",
+            "description": "An engine-free WindBorne balloon reached the eye of a typhoon",
+            "content": "WindBorne's weather balloon fleet secures a potential $49 million Air Force contract\nThe military has ordered $1.7 million in data so far\nWindBorne operates about 700 balloons collecting atmospheric measurements worldwide\nWindBorne Systems has secure... [3233 chars]",
+            "url": "https://www.techradar.com/pro/the-us-air-force-is-spending-millions-on-data-collected-by-massive-autonomous-weather-balloons",
+            "image": "https://cdn.mos.cms.futurecdn.net/gJ7UQM878qgRDLwS9qeuoj-1920-80.jpg",
+            "publishedAt": "2026-10-18T00:05:00Z",
             "lang": "en",
             "source": {
                 "id": "76684855c5d801b81fd06490668d04fe",
@@ -87,83 +39,131 @@
             }
         },
         {
-            "id": "fa1fb18f14f11ce3d72a5f73cbad3fa9",
-            "title": "Anthropic Quietly Pitches Its Own AI Safety Bill To Lawmakers: Reports",
-            "description": "The bill would let the government block a model's release or use only if it poses a foreseeable, imminent risk of more than $1 billion in damages, or of killing or seriously injuring more than 50 people, according to the report.",
-            "content": "Anthropic representatives have quietly pitched Capitol Hill lawmakers on a draft bill to regulate frontier AI safety and security, Politico reported on Friday, citing three people with knowledge of the efforts.\nThe bill would let the government block... [1330 chars]",
-            "url": "https://www.ndtv.com/world-news/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-reports-12197459",
-            "image": "https://c.ndtvimg.com/2026-10/hhd1n048_anthropic-_625x300_17_October_26.jpeg",
-            "publishedAt": "2026-10-16T23:22:02Z",
+            "id": "ad4f576d20c7bf4b994a2360c86f3890",
+            "title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks",
+            "description": "A deepening selloff in US technology stocks is exposing a new vulnerability in Asia’s artificial intelligence trade: mounting financing costs could choke off the spending needed to sustain the boom, threatening earnings across a supply chain that has powered the region’s stock-market rally.",
+            "content": "A deepening selloff in US technology stocks is exposing a new vulnerability in Asia’s artificial intelligence trade: mounting financing costs could choke off the spending needed to sustain the boom, threatening earnings across a supply chain that has... [476 chars]",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5J83Ml5_Dh8/v0/1200x800.jpg",
+            "publishedAt": "2026-10-18T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "f0914294fb3d1773b46b2f912b09ad4d",
-            "title": "3 ‘Strong Buy’ Data Center Stocks to Jump On for 80%+ Upside as Tech Shares Fall",
-            "description": "Tech and semiconductor shares fell Friday amid concerns about overspending on AI buildout. However, Wall Street still sees at least 80% upside i...",
-            "content": "Tech and semiconductor shares fell Friday amid concerns about overspending on AI buildout. However, Wall Street still sees at least 80% upside in data-center names: Unisys (UIS), Vicor (VICR), Viavi (VIAV). All three shares are rated Strong Buy on Wa... [1944 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/3-strong-buy-data-center-stocks-to-jump-on-for-80-upside-as-tech-shares-fall-1036636241",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2026/10/image-1564-1024x434.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2026-10-16T23:21:09Z",
-            "lang": "en",
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
                 "country": "us"
             }
         },
         {
-            "id": "60019abeb8c38001c90e155df63434e9",
-            "title": "After Muse Launch, U.S. Banks Are Saying Hell No to AI Agents Moving Money",
-            "description": "Fortunately, Charles Schwab CEO Rick Wurster says only a relative handful of dummies are trying to.",
-            "content": "Some U.S. banks are, thankfully, blocking their clients from letting Meta’s Muse AI bot root around in their accounts. Even more thankfully, it appears relatively few people have been dumb enough to try.\nSpeaking to Bloomberg TV on Friday, Charles Sc... [2093 chars]",
-            "url": "https://gizmodo.com/after-muse-launch-u-s-banks-are-saying-hell-no-to-ai-agents-moving-money-2000827221",
-            "image": "https://gizmodo.com/app/uploads/2026/10/FrowningMuse-1200x675.jpg",
-            "publishedAt": "2026-10-16T23:15:00Z",
+            "id": "bb12b5afa94ea7721e7659455f9bafe7",
+            "title": "Orlando Health doctor warns breastfeeding mothers about online and AI advice",
+            "description": "ORLANDO — Breastfeeding comes with plenty of benefits for children, but it does not always come without challenges.",
+            "content": "ORLANDO — Breastfeeding comes with plenty of benefits for children, but it does not always come without challenges.\nEmily Hunziker had no problems breastfeeding her first child, but five years later, her second child has been a different experience.\n... [1447 chars]",
+            "url": "https://www.wbrz.com/news/orlando-health-doctor-warns-breastfeeding-mothers-about-online-and-ai-advice",
+            "image": "https://dcer237tfveol.cloudfront.net/v2/onshwS0Pm-skj73GnLh7twdeifBoilwfzPTmFG2IkXblRyg3fFxgam4sGO0jR9O4q6D22ud32jEbkgSSN2w6WS9sFqxWPQnh6rPO07zZ1FtA",
+            "publishedAt": "2026-10-18T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
+                "id": "73eac0d677e8ec9d0b836e30a86950f8",
+                "name": "WBRZ",
+                "url": "https://www.wbrz.com",
                 "country": "us"
             }
         },
         {
-            "id": "c5e97dea99beee96deb9cc7ed351f115",
-            "title": "How Fielder-Oppenheim Use YCSE to Turn the Tables on Silicon Valley",
-            "description": "'You Can See Everything,' like 'Musk,' 'Artificial' and 'The Social Reckoning,' gain leverage for Hollywood in the face of the AI takeover.",
-            "content": "[No spoilers!]\nLife may be too short for long-term grudges, as the quote goes, but it’s still lengthy enough to dole out some justice.\nThis weekend, A24 brings out Nathan Fielder and Lance Oppenheim’s You Can See Everything, the Elizabeth Holmes doc ... [7516 chars]",
-            "url": "https://www.hollywoodreporter.com/business/digital/you-can-see-everything-fielder-holmes-themes-showtimes-1236734072/",
-            "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/nathanlance_e93bc9.jpg?w=1440&h=810&crop=1",
-            "publishedAt": "2026-10-16T23:13:36Z",
+            "id": "98ee446fe22699baa2a9329e7ac06f8d",
+            "title": "White House AI Task Force Adopts Charter, Starts 120-Day Clock",
+            "description": "The White House AI task force adopted its charter Thursday, opening a 120-day window to recommend how the government should oversee the technology.",
+            "content": "The White House’s artificial intelligence task force adopted its charter Thursday, opening a 120-day window to advise on how much of an oversight role Washington should take.\nThe panel agreed after its first official meeting to commission a report fr... [2569 chars]",
+            "url": "https://www.breitbart.com/tech/2026/10/17/white-house-ai-task-force-adopts-charter-starts-120-day-clock/",
+            "image": "https://media.breitbart.com/media/2026/10/AI-America.gov_-640x335.jpeg",
+            "publishedAt": "2026-10-17T23:54:25Z",
             "lang": "en",
             "source": {
-                "id": "e83df266d4bbd78d7528c3ee4fc0fc5f",
-                "name": "The Hollywood Reporter",
-                "url": "https://www.hollywoodreporter.com",
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
                 "country": "us"
             }
         },
         {
-            "id": "e2600896fcbbf6728eaf9878e0918cd4",
-            "title": "guided torpedo; what we know",
-            "description": "North Korea has tested a new artificial intelligence-equipped torpedo designed to detect and guide itself towards targets, as Pyongyang steps up efforts",
-            "content": "The test follows North Korea's underwater launches of two types of strategic cruise missiles on Wednesday (Photo credit: Reuters)\nNorth Korea has tested a new artificial intelligence-equipped torpedo designed to detect and guide itself towards target... [3332 chars]",
-            "url": "https://timesofindia.indiatimes.com/defence/international/north-korea-tests-high-speed-ai-guided-torpedo-what-we-know/articleshow/135005352.cms",
-            "image": "https://static.toiimg.com/thumb/msid-135005358,width-1280,height-720,imgsize-101742,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-10-16T23:09:00Z",
+            "id": "30d7c60f364d398b5df0f85c989f40b3",
+            "title": "70th IT Press Tour, Part 1 of 2: Phison nearly quadrupled its quarterly revenue on AI, and now it wants flash to do DRAM's job",
+            "description": "A year ago, Phison sat in front of the IT Press Tour and introduced us to Pascari, its brand-new enterprise SSD label. This year, Phison US President and GM, Michael...",
+            "content": "A year ago, Phison sat in front of the IT Press Tour and introduced us to Pascari, its brand-new enterprise SSD label. This year, Phison US President and GM, Michael Wu, opened with a slide that would make most chief financial officers weep with joy.... [16829 chars]",
+            "url": "https://itwire.com/business-it-news/storage/70th-it-press-tour-part-1-of-2-phison-nearly-quadrupled-its-quarterly-revenue-on-ai-and-now-it-wants-flash-to-do-drams-job",
+            "image": "https://media.itwire.com/2026/10/17/70th-it-press-tour-part-1-of-2-phison-nearly-quadrupled-its-quarterly-revenue-on-ai-and-now-it-wants-flash-to-do-drams-job-cf07d52273e2.png",
+            "publishedAt": "2026-10-17T23:34:27Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "10c9d681ccb7a3b06364ca4a62cf85d6",
+            "title": "Covering AI is a journalistic imperative, and a fast moving target",
+            "description": "Brett Neely, one of NPR’s editors who oversees coverage of artificial intelligence, talks about how the topic is now part of every reporter's beat - and how the pace of transformation impacts coverage choices.This episode was produced by Gabriel Sanchez, with engineering by Damian Herring. Our director is Vincent Acovino. It was edited by Adam Raney.  Our executive producer is Courtney Dorning.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.",
+            "content": "Brett Neely, one of NPR’s editors who oversees coverage of artificial intelligence, talks about how the topic is now part of every reporter's beat - and how the pace of transformation impacts coverage choices.\nThis episode was produced by Gabriel San... [483 chars]",
+            "url": "https://www.npr.org/2026/10/17/nx-s1-6006834/covering-ai-is-a-journalistic-imperative-and-a-fast-moving-target",
+            "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F78%2Fb26b61244726aec9965c809142f1%2F5d0e4e2b-8278-4658-8edc-6ce66df737d9.jpg",
+            "publishedAt": "2026-10-17T23:32:58Z",
+            "lang": "en",
+            "source": {
+                "id": "b41851fb2662ea502db29f71ec4d1583",
+                "name": "NPR",
+                "url": "https://www.npr.org",
+                "country": "us"
+            }
+        },
+        {
+            "id": "f80a3a058f608eb236a4c2ede1228119",
+            "title": "How much lower will the Royal Navy's reputation be allowed to sink?",
+            "description": "Plus: Assessment at A&E; teachers’ beliefs; Brexit at risk; taxing AI; Dulwich College bursaries; an acting powerhouse; and overnight guests",
+            "content": "Assessment at A&E\nSIR – The tragic death of Dylan Cope raises deeply disturbing questions about the assessment of patients referred to hospital by their GP (“We didn’t know the nurse treating our son wasn’t a doctor until he was dead”, report, Octobe... [8041 chars]",
+            "url": "https://www.telegraph.co.uk/opinion/2026/10/18/letters-how-much-lower-royal-navy-reputation-sink/",
+            "image": "https://www.telegraph.co.uk/content/dam/opinion/2026/10/16/TELEMMGLPICT000507191356_17921542818560_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Comment",
+            "publishedAt": "2026-10-17T23:01:00Z",
+            "lang": "en",
+            "source": {
+                "id": "bff0cd3b8c64dceaada8841bea814f65",
+                "name": "The Telegraph",
+                "url": "https://www.telegraph.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "f21968bb1e9a0848992451177ca276c5",
+            "title": "Remittix, ADA or HBAR: Best Crypto to Buy Under $1 as Payments Testing and AI Agent Accounts Add Utility Hooks?",
+            "description": "Remittix, ADA or HBAR: Best Crypto to Buy Under $1 as Payments Testing and AI Agent Accounts Add Utility Hooks?",
+            "content": "ADA trades near $0.225 after Cardano recorded 1.78 million transactions in one epoch, while HBAR holds around $0.083 as Hedera prepares programmable spending accounts for autonomous AI agents. The comparison brings together established networks using... [4736 chars]",
+            "url": "https://techbullion.com/remittix-ada-or-hbar-best-crypto-to-buy-under-1-as-payments-testing-and-ai-agent-accounts-add-utility-hooks/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/10/Picture14-13.png",
+            "publishedAt": "2026-10-17T22:55:14Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "e6c48287f4bdefed871054257deeda82",
+            "title": "70th IT Press Tour: Clockwork pulled the power on a live AI training job, and it carried on from the same step",
+            "description": "Live demos on real hardware are where confident startups go to be humbled. So when a Clockwork engineer in a South Bay data centre pulled on a pair of gloves, switched off a...",
+            "content": "Live demos on real hardware are where confident startups go to be humbled. So when a Clockwork engineer in a South Bay data centre pulled on a pair of gloves, switched off a GPU server in the middle of a training run and yanked out its power cables, ... [16873 chars]",
+            "url": "https://itwire.com/business-it-news/data/70th-it-press-tour-clockwork-pulled-the-power-on-a-live-ai-training-job-and-it-carried-on-from-the-same-step",
+            "image": "https://media.itwire.com/2026/10/17/70th-it-press-tour-clockwork-pulled-the-power-on-a-live-ai-training-job-and-it-carried-on-from-the-same-step-f17cf4a2502e.png",
+            "publishedAt": "2026-10-17T22:18:53Z",
+            "lang": "en",
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
             }
         }
     ]
