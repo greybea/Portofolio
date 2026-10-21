@@ -4,48 +4,64 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 475823,
+    "totalArticles": 476933,
     "articles": [
         {
-            "id": "43560ef518950be4c035b86dc0eb7fe0",
-            "title": "World Bank Launches First Digital Strategy: AI, Affordable Internet to Create 1.2 Billion Jobs",
-            "description": "World Bank Launches First Digital Strategy: AI, Affordable Internet to Create 1.2 Billion Jobs - The World Bank Group has unveiled its pioneering digital strategy, placing artificial intelligence (AI), affordable internet access, and job ... Get Latest News on International only on lokmattimes.com",
-            "content": "The World Bank Group has unveiled its pioneering digital strategy, placing artificial intelligence (AI), affordable internet access, and job creation at the forefront of its global development agenda. This comes as an estimated 1.2 billion young peop... [1980 chars]",
-            "url": "https://www.lokmattimes.com/international/world-bank-launches-first-digital-strategy-ai-affordable-internet-to-create-12-billion-jobs/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202610203985080_202610.jpg",
-            "publishedAt": "2026-10-20T01:03:59Z",
+            "id": "5f2fb610b0165726719f976f29ef02b5",
+            "title": "New project aims to create AI medical image-processing system in Japan",
+            "description": "The goal is to realize the real-time image processing required at medical sites with the use of advanced semiconductors.",
+            "content": "Japan’s Leading-edge Semiconductor Technology Center (LSTC) and other entities said Tuesday they will jointly develop an artificial intelligence-based medical image-processing system.\nThe project members, also including Hokkaido University and Fujifi... [991 chars]",
+            "url": "https://www.japantimes.co.jp/news/2026/10/21/japan/medical-ai-advanced-chips/",
+            "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/21/569600.jpg?v=3.1",
+            "publishedAt": "2026-10-21T01:14:59Z",
             "lang": "en",
             "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            }
+        },
+        {
+            "id": "8cded58c5bd9d0a86d5eea638d9fa640",
+            "title": "India back on investors’ radar as non-AI diversification play; financials offer best risk-reward says HSBC",
+            "description": "Its limited direct exposure to the AI trade also acts as a hedge against volatility in AI-heavy markets.",
+            "content": "Indian equities are returning to global investors’ radar as valuations become more reasonable. Investors are also showing greater willingness to look beyond crowded artificial intelligence (AI) themes, according to HSBC.\nThe brokerage said India offe... [4608 chars]",
+            "url": "https://www.moneycontrol.com/news/business/markets/india-back-on-investors-radar-as-non-ai-diversification-play-financials-offer-best-risk-reward-says-hsbc-14056215.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260925021851_market_down_Sensex-Nifty2.jpg",
+            "publishedAt": "2026-10-21T01:13:02Z",
+            "lang": "en",
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
                 "country": "in"
             }
         },
         {
-            "id": "f87cde7e36b69ab594c439a1de73294f",
-            "title": "'Catastrophic': watchdog warns of risks from untamed AI",
-            "description": "The development of artificial intelligence is happening so fast it is critical that regulation keeps pace, the online...",
-            "content": "Australia's e-Safety commissioner Julie Inman Grant gave evidence to a federal AI inquiry. Photo: Susie Dodds/AAP PHOTOS\nAustralia needs to avoid repeating past mistakes in regulating technology when it addresses the rapid-fire growth in artificial i... [5319 chars]",
-            "url": "https://www.canberratimes.com.au/story/9371506/catastrophic-watchdog-warns-of-risks-from-untamed-ai/",
-            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/3d1f2aff-8ab3-4cb0-b7c5-08d4577898c4.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-10-20T01:02:28Z",
+            "id": "5146cc1508efaf302770dda1844d2950",
+            "title": "'How do you know what's real?': US utilities are making AI data centers prove they exist before handing over power connections — as 50% of planned buildouts are currently being delayed, stalled, or ca",
+            "description": "The AI boom should have been a golden age for America's electric utilities",
+            "content": "US data center developers have requested 1,066GW of grid connections, but Wood Mackenzie expects utilities to commit to only about 28%\nUtilities are demanding collateral, longer contracts, and study fees; Exelon's high-probability load fell from a wh... [4738 chars]",
+            "url": "https://www.techradar.com/pro/how-do-you-know-whats-real-us-utilities-are-making-ai-data-centers-prove-they-exist-before-handing-over-power-connections-as-50-percent-of-planned-buildouts-are-currently-being-delayed-stalled-or-canceled",
+            "image": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
+            "publishedAt": "2026-10-21T01:10:00Z",
             "lang": "en",
             "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
                 "country": "au"
             }
         },
         {
-            "id": "393ec0376d34c69950d88e064e93a9ce",
-            "title": "eSafety Commissioner Julie Inman Grant warns AI deepfake tools are weaponised against Australian schoolchildren",
-            "description": "The online safety watchdog revealed the scale of AI-powered nudify apps being downloaded by Aussies, warning kids are increasingly exposed to harmful technology.",
-            "content": "AI-powered apps capable of generating sexualised deepfake images are being downloaded about 200,000 times a month by Australians, the nation’s online safety watchdog has told a parliamentary inquiry.\neSafety Commissioner Julie Inman Grant revealed th... [3563 chars]",
-            "url": "https://www.perthnow.com.au/news/esafety-commissioner-julie-inman-grant-warns-ai-deepfake-tools-are-weaponised-against-australian-schoolchildren-c-23045730",
-            "image": "https://images.perthnow.com.au/publication/C-23045730/db973f831cdbcf6a00dfd2c0561b1884edf25b59-16x9-x226y0w1449h815.jpg?imwidth=1200",
-            "publishedAt": "2026-10-20T00:50:59Z",
+            "id": "b933a63740f76285a9c3d41a02c1cbd8",
+            "title": "Jenna Ortega: People make life and living so special",
+            "description": "Hollywood star Jenna Ortega has shared her view of AI technology.",
+            "content": "Jenna Ortega believes people, not technology, are what \"make life and living so special\".\nThe 24-year-old actress plays Klara, an artificial friend to a lonely, ailing teenage girl, in Klara and the Sun, the new sci-fi movie based on the novel by Kaz... [1601 chars]",
+            "url": "https://www.perthnow.com.au/entertainment/celebrity-gossip/jenna-ortega-people-make-life-and-living-so-special-c-23051965",
+            "image": "https://images.perthnow.com.au/publication/C-23051965/6c2bd1bbe8b93092bd7423eee299b97a5ca54233-16x9-x0y192w2048h1152.jpg?imwidth=1200",
+            "publishedAt": "2026-10-21T01:04:37Z",
             "lang": "en",
             "source": {
                 "id": "7f6e8514e9d8f8376aaa9a7229861518",
@@ -55,29 +71,45 @@
             }
         },
         {
-            "id": "492d481915d6fa4f01e8de42900a4339",
-            "title": "Pay rise of 6% to 8% recommend for lower",
-            "description": "Lower-wage workers earning up to S$2,800 a month should receive a 6% to 8% increase or at least S$120, with the guidelines also calling on employers to invest in AI-related skills.",
-            "content": "Employers in Singapore are being asked to raise the pay of lower-wage workers earnings up to S$2,800 a month by 6% to 8%, or by at least S$120, under the latest guidelines from the National Wages Council (NWC).\nThe council, a tripartite body of gover... [5386 chars]",
-            "url": "https://hrmasia.com/pay-rise-of-6-to-8-recommend-for-lower-wage-workers-in-singapore/",
-            "image": "https://hrmasia.com/wp-content/uploads/2026/10/207889949_m-1024x683.jpg",
-            "publishedAt": "2026-10-20T00:35:17Z",
+            "id": "b443c362704426b2e4d38e33ce07b78f",
+            "title": "Tax relief, global AI correction alone may not revive Indian stocks",
+            "description": "Bernstein's assessment puts the focus back on domestic fundamentals rather than either policy relief or shifts in global technology sentiment.",
+            "content": "A cut in long-term capital gains (LTCG) tax is unlikely to revive foreign inflows into Indian equities on its own, Bernstein has said. The brokerage also sees limited benefit for India from any near-term pause in the global artificial intelligence (A... [3222 chars]",
+            "url": "https://www.moneycontrol.com/news/business/markets/tax-relief-global-ai-correction-alone-may-not-revive-indian-stocks-14056214.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261017031041_sensex_nifty_market.jpg",
+            "publishedAt": "2026-10-21T01:04:20Z",
             "lang": "en",
             "source": {
-                "id": "42600681ae4c3d6a7f1e7a6f213bce84",
-                "name": "HRM Asia",
-                "url": "https://hrmasia.com",
-                "country": "sg"
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
             }
         },
         {
-            "id": "ee54c56aba715812dba5579abf8ab7a9",
-            "title": "Three big takeaways from the IMF-World Bank meetings",
-            "description": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
-            "content": "The Bangkok meetings were the first in Asia since 2018, when the gathering was held in Bali, Indonesia. Thailand last hosted in 1991, six years before the unpegging of the baht from the U.S. dollar set off the Asian financial crisis.\nFast-forward to ... [4851 chars]",
-            "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108430921-1792381620758-gettyimages-2299896463-AA_16102026_2996185.jpeg?v=1792381800&w=1920&h=1080",
-            "publishedAt": "2026-10-20T00:33:34Z",
+            "id": "e4b6100415bcc1557501903211d4bbc7",
+            "title": "SpaceX’s AI boom pays off: $4.4 bn profit, 161% revenue growth & a Tesla merger in sight",
+            "description": "SpaceX achieved its first profit as a public company in Q3 2026, driven by a surge in AI revenue, strong Starlink growth, and successful space launches, surpassing Wall Street expectations. Musk also confirmed discussions on a potential Tesla merger.",
+            "content": "SpaceX’s revenue jumped 161% year-on-year to $14.58 billion in the third quarter, up from a year earlier, according to its official earnings release and subsequent investors’ earnings call on October 20, 2026. Net income stood at $4.4 billion, compar... [5410 chars]",
+            "url": "https://www.financialexpress.com/market/global-markets/spacexs-ai-boom-pays-off-4-4-bn-profit-161-revenue-growth-amp-a-tesla-merger-in-sight/4365804/",
+            "image": "https://images.financialexpressdigital.com/2026/08/spacexshare.jpg",
+            "publishedAt": "2026-10-21T01:02:42Z",
+            "lang": "en",
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "c31ccfbaa7ec37ab9c9433cd699b7c36",
+            "title": "AI boom is facing challenges as big spending is no longer enough",
+            "description": "The AI boom is entering a more unforgiving phase, as investors question whether the billions poured into data centers will translate into sustainable profits.",
+            "content": "SeongJoon Cho | Bloomberg | Getty Images\nThe artificial intelligence boom may be entering a more unforgiving phase, as investors increasingly question whether the billions poured into data centers will translate into sustainable profits.\nA bruising s... [3843 chars]",
+            "url": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108329064-1782877791923-gettyimages-2271917626-SKOREA_IT_SHOW.jpeg?v=1782878119&w=1920&h=1080",
+            "publishedAt": "2026-10-21T01:02:36Z",
             "lang": "en",
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -87,83 +119,51 @@
             }
         },
         {
-            "id": "7e053c01608dcb69e17b941551586fdd",
-            "title": "People, Power And Politics: Morgan Stanley Maps The Three Ways AI's $1.6 Trillion Capex Plan Can Collapse",
-            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-            "content": "Yesterday we walked through Morgan Stanley's dollar-by-dollar map of AI's $1.6 trillion 2027 capex bill, then asked who is going to finance it. Both pieces assume the money actually gets spent. The last part of the report (available to pro subs) asks... [346 chars]",
-            "url": "https://www.zerohedge.com/markets/people-power-and-politics-morgan-stanley-maps-three-ways-ais-16-trillion-capex-plan-can",
-            "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-10/Data%20Centers%20on%20the%20November%20ballot.jpg?h=d3340606&itok=rhsI5yie",
-            "publishedAt": "2026-10-20T00:30:00Z",
+            "id": "f381bc7d7013b327db14fc122e487292",
+            "title": "'VisionQuest' Just Quietly Changed MCU Canon",
+            "description": "Markridge is the key to a bit 'Iron Man' retcon. Here's what to know about the 'VisionQuest' AI backstory and how a '12 Monkeys' Easter egg explains it.",
+            "content": "Who created AI in the Marvel Cinematic Universe? When it comes to J.A.R.V.I.S., Vision, and Ultron, the short answer is Tony Stark, with a little help from Bruce Banner. But in the new MCU TV series VisionQuest, the origin of various AI tech — or as ... [3273 chars]",
+            "url": "https://www.inverse.com/entertainment/visionquest-ai-iron-man-retcon-12-monkeys-markridge",
+            "image": "https://imgix.bustle.com/uploads/image/2026/10/20/c242a21a/visionquest-header-1.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+            "publishedAt": "2026-10-21T01:00:24Z",
             "lang": "en",
             "source": {
-                "id": "26f1ac0f127e346707d5f2a114f4ceaf",
-                "name": "ZeroHedge",
-                "url": "https://www.zerohedge.com",
+                "id": "c1f2eb793f138f6e8a17d9160ed3ef53",
+                "name": "Inverse",
+                "url": "https://www.inverse.com",
                 "country": "us"
             }
         },
         {
-            "id": "5c496d3c7c34d1a9ced81bff06871073",
-            "title": "Seoul stocks extend losses late Tuesday morning amid AI concerns",
-            "description": "Seoul stocks were trading sharply lower late Tuesday morning as concerns over investments in the artificial intelligence (AI) value chain sparked a...",
-            "content": "Seoul stocks were trading sharply lower late Tuesday morning as concerns over investments in the artificial intelligence (AI) value chain sparked a sell-off in major chip shares.\nThe benchmark Korea Composite Stock Price Index (KOSPI) fell 136.06 poi... [893 chars]",
-            "url": "https://www.koreatimes.co.kr/economy/20261020/seoul-stocks-extend-losses-late-tuesday-morning-amid-ai-concerns",
-            "image": "https://newsimg.koreatimes.co.kr/2026/10/20/3c97d75b-0ee7-4e2d-8663-a57038db17b6.jpg",
-            "publishedAt": "2026-10-20T00:25:03Z",
+            "id": "9f2e8e4b674c248ff077b45628ad2481",
+            "title": "Global Market Today: Asian shares, US futures rise on AI-trade revival",
+            "description": "The MSCI Asia Pacific Index climbed 0.6% with shares gaining in South Korea and Japan. The Kospi Index rose 1.9%, rebounding after one of the countrys worst IPO debuts on record.",
+            "content": "Asian shares rose along with US equity-index futures as strong earnings from some of the biggest beneficiaries of the artificial intelligence boom revived optimism over the tech trade.\nThe MSCI Asia Pacific Index climbed 0.6% with shares gaining in S... [4862 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-us-futures-rise-on-ai-trade-revival/articleshow/135079128.cms",
+            "image": "https://img.etimg.com/thumb/msid-135079148,width-1200,height-900,imgsize-56972,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-10-21T01:00:00Z",
             "lang": "en",
             "source": {
-                "id": "9f2e79f0f9194d0d88f0074def064e60",
-                "name": "The Korea Times",
-                "url": "https://www.koreatimes.co.kr",
-                "country": "kr"
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
             }
         },
         {
-            "id": "cea147e10867b87c44ce6a87957d2977",
-            "title": "Seoul shares open lower after rebound amid AI concerns",
-            "description": "Korean shares opened sharply lower Tuesday, weighed down by losses in major tech heavyweights as investors attempted to cash in recent gains amid w...",
-            "content": "Korean shares opened sharply lower Tuesday, weighed down by losses in major tech heavyweights as investors attempted to cash in recent gains amid woes over investments in the artificial intelligence (AI) value chain.\nAfter opening 0.6 percent lower, ... [1056 chars]",
-            "url": "https://www.koreatimes.co.kr/economy/20261020/seoul-shares-open-lower-after-rebound-amid-ai-concerns",
-            "image": "https://newsimg.koreatimes.co.kr/2026/10/20/3c97d75b-0ee7-4e2d-8663-a57038db17b6.jpg",
-            "publishedAt": "2026-10-20T00:25:03Z",
+            "id": "5cb6bfd4655606dcdf6bff830d589aca",
+            "title": "Rockets, cars and AI: Elon Musk confirms SpaceX and Tesla merger talks",
+            "description": "SpaceX reported a $4.4 billion third-quarter profit as AI revenue surged nearly tenfold, while special committees at both companies examine a possible merger",
+            "content": "Elon Musk has confirmed that SpaceX and Tesla have formed special committees to discuss a possible merger, calling the idea a “good idea” as his space and electric vehicle businesses move closer in their technology ambitions. The development came as ... [5145 chars]",
+            "url": "https://www.firstpost.com/business/spacex-tesla-merger-elon-musk-ai-revenue-profit-14054164.html",
+            "image": "https://images.firstpost.com/uploads/2026/09/SpaceX-Elon-musk-2026-09-4d217025a3339f3d0d72b58c1afc249c-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-10-21T00:58:46Z",
             "lang": "en",
             "source": {
-                "id": "9f2e79f0f9194d0d88f0074def064e60",
-                "name": "The Korea Times",
-                "url": "https://www.koreatimes.co.kr",
-                "country": "kr"
-            }
-        },
-        {
-            "id": "5ff95e65ebf3afdeced9048988da6434",
-            "title": "OpenAI seeks $1.4 trillion valuation in $30 billion funding push ahead of Anthropic IPO",
-            "description": "OpenAI is racing to raise roughly $30 billion at a valuation exceeding $1.4 trillion before rival Anthropic makes its expected stock market debut in November. The ChatGPT maker is moving to secure investor commitments ahead of what could become one of the biggest IPOs in history, setting up a high-stakes battle between two AI giants",
-            "content": "OpenAI is racing to raise roughly $30 billion at a valuation exceeding $1.4 trillion before rival Anthropic makes its expected stock market debut in November. The ChatGPT maker is moving to secure investor commitments ahead of what could become one o... [5325 chars]",
-            "url": "https://techstartups.com/2026/10/19/openai-seeks-1-4-trillion-valuation-in-30-billion-funding-push-ahead-of-anthropic-ipo/",
-            "image": "https://techstartups.com/wp-content/uploads/2025/10/OpenAI-Sam.jpg",
-            "publishedAt": "2026-10-20T00:22:42Z",
-            "lang": "en",
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "84f981799ba3132f81f6c66842db78cb",
-            "title": "”59 years of humans vs. a few hours of AI”: Google Gemini 4 Argon helps shatter long-standing nuclear fusion theory",
-            "description": "Humans stalled for 59 years, but AI found a way in a few hours",
-            "content": "Google’s AI explored magnetic field equations relevant to experimental fusion reactors\nAI agents found new magnetic configurations within hours of starting their investigation\nGemini helped extend mathematical solutions linked to a 59-year-old fusion... [3577 chars]",
-            "url": "https://www.techradar.com/pro/its-over-ai-won-google-gemini-4-argon-shatters-59-year-old-nuclear-fusion-conjecture-in-just-a-few-hours",
-            "image": "https://cdn.mos.cms.futurecdn.net/BKmfRqmHDxwsPv9YVxfTQH-1920-80.png",
-            "publishedAt": "2026-10-20T00:15:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
             }
         }
     ]
