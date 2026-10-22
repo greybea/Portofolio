@@ -4,144 +4,128 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 476933,
+    "totalArticles": 478241,
     "articles": [
         {
-            "id": "5f2fb610b0165726719f976f29ef02b5",
-            "title": "New project aims to create AI medical image-processing system in Japan",
-            "description": "The goal is to realize the real-time image processing required at medical sites with the use of advanced semiconductors.",
-            "content": "Japan’s Leading-edge Semiconductor Technology Center (LSTC) and other entities said Tuesday they will jointly develop an artificial intelligence-based medical image-processing system.\nThe project members, also including Hokkaido University and Fujifi... [991 chars]",
-            "url": "https://www.japantimes.co.jp/news/2026/10/21/japan/medical-ai-advanced-chips/",
-            "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/21/569600.jpg?v=3.1",
-            "publishedAt": "2026-10-21T01:14:59Z",
+            "id": "21ae7fdaf1761264785810953dd18e0d",
+            "title": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+            "description": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel",
+            "content": "The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list last month, has confirmed the author used artificial intelligence to help write his novel C’était ça ou mourir (... [2941 chars]",
+            "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
+            "image": "https://i.guim.co.uk/img/media/593ae3d39388056aa07d530e1309848d610c3078/1027_0_6240_4994/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce3826137afb2c78d970ca2335a5c81c",
+            "publishedAt": "2026-10-22T01:13:01Z",
             "lang": "en",
             "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
             }
         },
         {
-            "id": "8cded58c5bd9d0a86d5eea638d9fa640",
-            "title": "India back on investors’ radar as non-AI diversification play; financials offer best risk-reward says HSBC",
-            "description": "Its limited direct exposure to the AI trade also acts as a hedge against volatility in AI-heavy markets.",
-            "content": "Indian equities are returning to global investors’ radar as valuations become more reasonable. Investors are also showing greater willingness to look beyond crowded artificial intelligence (AI) themes, according to HSBC.\nThe brokerage said India offe... [4608 chars]",
-            "url": "https://www.moneycontrol.com/news/business/markets/india-back-on-investors-radar-as-non-ai-diversification-play-financials-offer-best-risk-reward-says-hsbc-14056215.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260925021851_market_down_Sensex-Nifty2.jpg",
-            "publishedAt": "2026-10-21T01:13:02Z",
+            "id": "eb4cf1ebec6c736cdcbce41176824c33",
+            "title": "AI Won't Take Most Of Our Jobs, But That May Not Be Reassuring",
+            "description": "Artificial intelligence won’t take most of our jobs, but that may not be reassuring",
+            "content": "India is creating more of the latter kind of work. A recent study by Ashoka University finds that India’s non-farm sectors added around six crore workers between 2018 and 2025. However, they were mainly in elementary occupations such as construction ... [5679 chars]",
+            "url": "https://www.outlookindia.com/education/column-ai-wont-take-most-of-our-jobs-but-that-may-not-be-reassuring",
+            "image": "https://cf-images.assettype.com/outlookindia/2026-10-18/mn97jlaz/GauravChiplunkar220261109.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-10-22T01:12:28Z",
             "lang": "en",
             "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
+                "id": "b76d069607ae6330d5f65a02c543a320",
+                "name": "Outlook India",
+                "url": "https://www.outlookindia.com",
                 "country": "in"
             }
         },
         {
-            "id": "5146cc1508efaf302770dda1844d2950",
-            "title": "'How do you know what's real?': US utilities are making AI data centers prove they exist before handing over power connections — as 50% of planned buildouts are currently being delayed, stalled, or ca",
-            "description": "The AI boom should have been a golden age for America's electric utilities",
-            "content": "US data center developers have requested 1,066GW of grid connections, but Wood Mackenzie expects utilities to commit to only about 28%\nUtilities are demanding collateral, longer contracts, and study fees; Exelon's high-probability load fell from a wh... [4738 chars]",
-            "url": "https://www.techradar.com/pro/how-do-you-know-whats-real-us-utilities-are-making-ai-data-centers-prove-they-exist-before-handing-over-power-connections-as-50-percent-of-planned-buildouts-are-currently-being-delayed-stalled-or-canceled",
-            "image": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
-            "publishedAt": "2026-10-21T01:10:00Z",
+            "id": "f4c46c65cfc72fd1ccf98d720a4367dd",
+            "title": "Meta beats expectations but legal penalties hit profit amid AI race",
+            "description": "SAN FRANCISCO — Meta beat investor expectations for third-quarter revenue on Wednesday as it doubles down on a global AI race but the social media giant's profits took a hit due to an $18 billion legal settlement with nearly all US states.",
+            "content": "SAN FRANCISCO — Meta beat investor expectations for third-quarter revenue on Wednesday as it doubles down on a global AI race but the social media giant's profits took a hit due to an $18 billion legal settlement with nearly all US states.\nThe compan... [3666 chars]",
+            "url": "https://www.manilatimes.net/2026/10/22/business/foreign-business/meta-beats-expectations-but-legal-penalties-hit-profit-amid-ai-race/2451354",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/22/1271221.jpg",
+            "publishedAt": "2026-10-22T01:06:00Z",
             "lang": "en",
             "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "b933a63740f76285a9c3d41a02c1cbd8",
-            "title": "Jenna Ortega: People make life and living so special",
-            "description": "Hollywood star Jenna Ortega has shared her view of AI technology.",
-            "content": "Jenna Ortega believes people, not technology, are what \"make life and living so special\".\nThe 24-year-old actress plays Klara, an artificial friend to a lonely, ailing teenage girl, in Klara and the Sun, the new sci-fi movie based on the novel by Kaz... [1601 chars]",
-            "url": "https://www.perthnow.com.au/entertainment/celebrity-gossip/jenna-ortega-people-make-life-and-living-so-special-c-23051965",
-            "image": "https://images.perthnow.com.au/publication/C-23051965/6c2bd1bbe8b93092bd7423eee299b97a5ca54233-16x9-x0y192w2048h1152.jpg?imwidth=1200",
-            "publishedAt": "2026-10-21T01:04:37Z",
+            "id": "1daae3f445a9383bab9bb8ee7e575bdd",
+            "title": "Hyundai Bayon may arrive on October 26 with a big SUV surprise",
+            "description": "Hyundai Bayon may launch in India on October 26 with a starting price of ₹8.5 lakh, dual 12.3-inch screens, AI voice assistant and a 1.5L petrol engine. Here's what reports suggest so far.",
+            "content": "Diwali showdown\nDiwali is approaching, and Hyundai is preparing to shake up India's SUV market. The company is reportedly gearing up to launch the new Bayon on October 26, just as festive car shopping gathers momentum. With Maruti Suzuki firmly estab... [1714 chars]",
+            "url": "https://www.businesstoday.in/latest/photo/hyundai-bayon-may-arrive-on-october-26-with-a-big-suv-surprise-562829-2026-10-21",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/photo_gallery/202610/6ad89218b960c-bayon-212111790-16x9.jpg",
+            "publishedAt": "2026-10-22T01:00:06Z",
             "lang": "en",
             "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "b443c362704426b2e4d38e33ce07b78f",
-            "title": "Tax relief, global AI correction alone may not revive Indian stocks",
-            "description": "Bernstein's assessment puts the focus back on domestic fundamentals rather than either policy relief or shifts in global technology sentiment.",
-            "content": "A cut in long-term capital gains (LTCG) tax is unlikely to revive foreign inflows into Indian equities on its own, Bernstein has said. The brokerage also sees limited benefit for India from any near-term pause in the global artificial intelligence (A... [3222 chars]",
-            "url": "https://www.moneycontrol.com/news/business/markets/tax-relief-global-ai-correction-alone-may-not-revive-indian-stocks-14056214.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261017031041_sensex_nifty_market.jpg",
-            "publishedAt": "2026-10-21T01:04:20Z",
-            "lang": "en",
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
                 "country": "in"
             }
         },
         {
-            "id": "e4b6100415bcc1557501903211d4bbc7",
-            "title": "SpaceX’s AI boom pays off: $4.4 bn profit, 161% revenue growth & a Tesla merger in sight",
-            "description": "SpaceX achieved its first profit as a public company in Q3 2026, driven by a surge in AI revenue, strong Starlink growth, and successful space launches, surpassing Wall Street expectations. Musk also confirmed discussions on a potential Tesla merger.",
-            "content": "SpaceX’s revenue jumped 161% year-on-year to $14.58 billion in the third quarter, up from a year earlier, according to its official earnings release and subsequent investors’ earnings call on October 20, 2026. Net income stood at $4.4 billion, compar... [5410 chars]",
-            "url": "https://www.financialexpress.com/market/global-markets/spacexs-ai-boom-pays-off-4-4-bn-profit-161-revenue-growth-amp-a-tesla-merger-in-sight/4365804/",
-            "image": "https://images.financialexpressdigital.com/2026/08/spacexshare.jpg",
-            "publishedAt": "2026-10-21T01:02:42Z",
+            "id": "c006c3449045b215a2af470d24d33da4",
+            "title": "Mood of the Boardroom survey: AI ranks second among CEOs’ concerns",
+            "description": "Artificial intelligence has quickly become a topic NZ’s chief executives cannot ignore, writes Tim McCready Asked to name up to three issues most likely to...",
+            "content": "Asked which investments their companies plan to make in the next 12 months, almost every respondent is either already giving staff generative AI tools or considering doing so.\nSome 75% say they have already rolled out generative AI tools, and another... [5456 chars]",
+            "url": "https://www.nzherald.co.nz/business/business-reports/mood-of-the-boardroom/mood-of-the-boardroom-survey-ai-ranks-second-among-ceos-concerns/premium/TS4JRDB36BH2LOXBAZLD3YG56M/",
+            "image": "https://www.nzherald.co.nz/resizer/v2/X6JEQNEHFJBXZFKLQ2IO6IIG5A.jpg?auth=bbd6af8e416230e168e2bde3208f07e5167d2b595ac04524aab1a4c909119e8d&width=1200&height=675&quality=70&focal=1229%2C429&smart=false",
+            "publishedAt": "2026-10-22T01:00:00Z",
             "lang": "en",
             "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
+                "id": "321f3fa90dde0946a7b4a17731c0314d",
+                "name": "The New Zealand Herald",
+                "url": "https://www.nzherald.co.nz",
+                "country": "nz"
+            }
+        },
+        {
+            "id": "3c1b4e33e3f3b9573750960ae91b698a",
+            "title": "AI challenges maths by solving the unsolvable",
+            "description": "Announcements over recent months that artificial intelligence models have cracked previously unsolvable problems are shaking to the core top-level mathematicians, who are now asking themselves: where do we come in?",
+            "content": "PARIS: Announcements over recent months that artificial intelligence (AI) models have cracked previously unsolvable problems are shaking to the core top-level mathematicians, who are now asking themselves: where do we come in?\n\"All the avenues of res... [3022 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/22/ai-challenges-maths-by-solving-the-unsolvable",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/22/4173224.jpg",
+            "publishedAt": "2026-10-22T01:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "9216598cb4b867dad6a2bf9599894bb9",
+            "title": "Wallstreet Highlights: S&P 500, Nasdaq Climb In Late Hours On Meta's Big AI Wagers",
+            "description": "Tesla's profit beat estimates, assuaging worries about increased investments into new areas such as AI.",
+            "content": "Wall Street's wagers on artificial intelligence regained traction, with stocks rising in late hours as solid results bolstered confidence in the trade that has powered the bull market.\nAn exchange-traded fund tracking the S&P 500 rose after the close... [3601 chars]",
+            "url": "https://www.ndtvprofit.com/markets/wallstreet-highlights-s-and-p-500-nasdaq-climb-in-late-hours-on-metas-big-ai-wagers-12217764",
+            "image": "https://c.ndtvimg.com/2026-10/ch3snp4o_wall-street-highlights-bbg_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-10-22T00:57:17Z",
+            "lang": "en",
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
                 "country": "in"
             }
         },
         {
-            "id": "c31ccfbaa7ec37ab9c9433cd699b7c36",
-            "title": "AI boom is facing challenges as big spending is no longer enough",
-            "description": "The AI boom is entering a more unforgiving phase, as investors question whether the billions poured into data centers will translate into sustainable profits.",
-            "content": "SeongJoon Cho | Bloomberg | Getty Images\nThe artificial intelligence boom may be entering a more unforgiving phase, as investors increasingly question whether the billions poured into data centers will translate into sustainable profits.\nA bruising s... [3843 chars]",
-            "url": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108329064-1782877791923-gettyimages-2271917626-SKOREA_IT_SHOW.jpeg?v=1782878119&w=1920&h=1080",
-            "publishedAt": "2026-10-21T01:02:36Z",
-            "lang": "en",
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "f381bc7d7013b327db14fc122e487292",
-            "title": "'VisionQuest' Just Quietly Changed MCU Canon",
-            "description": "Markridge is the key to a bit 'Iron Man' retcon. Here's what to know about the 'VisionQuest' AI backstory and how a '12 Monkeys' Easter egg explains it.",
-            "content": "Who created AI in the Marvel Cinematic Universe? When it comes to J.A.R.V.I.S., Vision, and Ultron, the short answer is Tony Stark, with a little help from Bruce Banner. But in the new MCU TV series VisionQuest, the origin of various AI tech — or as ... [3273 chars]",
-            "url": "https://www.inverse.com/entertainment/visionquest-ai-iron-man-retcon-12-monkeys-markridge",
-            "image": "https://imgix.bustle.com/uploads/image/2026/10/20/c242a21a/visionquest-header-1.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-            "publishedAt": "2026-10-21T01:00:24Z",
-            "lang": "en",
-            "source": {
-                "id": "c1f2eb793f138f6e8a17d9160ed3ef53",
-                "name": "Inverse",
-                "url": "https://www.inverse.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "9f2e8e4b674c248ff077b45628ad2481",
-            "title": "Global Market Today: Asian shares, US futures rise on AI-trade revival",
-            "description": "The MSCI Asia Pacific Index climbed 0.6% with shares gaining in South Korea and Japan. The Kospi Index rose 1.9%, rebounding after one of the countrys worst IPO debuts on record.",
-            "content": "Asian shares rose along with US equity-index futures as strong earnings from some of the biggest beneficiaries of the artificial intelligence boom revived optimism over the tech trade.\nThe MSCI Asia Pacific Index climbed 0.6% with shares gaining in S... [4862 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-us-futures-rise-on-ai-trade-revival/articleshow/135079128.cms",
-            "image": "https://img.etimg.com/thumb/msid-135079148,width-1200,height-900,imgsize-56972,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-10-21T01:00:00Z",
+            "id": "3d8570300fced7a94567f9e786c8fb1f",
+            "title": "Global Market Today: Asian stocks mixed as oil rally, AI concerns weigh on sentiment",
+            "description": "Contracts for the Nasdaq 100 Index slipped 0.6% and those for the S&P 500 dropped 0.4% in early Asian trading following a split set of results from Tesla Inc. and Meta Platforms Inc. The automakers shares fell 3.1% in post-market trading after cutting its capital-spending forecast. Meta Platforms, however, rose 2% after hours as the company boosted its bet on AI with spending outlook.",
+            "content": "Synopsis\nContracts for the Nasdaq 100 Index slipped 0.6% and those for the S&P 500 dropped 0.4% in early Asian trading following a split set of results from Tesla Inc. and Meta Platforms Inc. The automaker’s shares fell 3.1% in post-market trading af... [5766 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms",
+            "image": "https://img.etimg.com/thumb/msid-135103517,width-1200,height-900,imgsize-121118,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-10-22T00:57:00Z",
             "lang": "en",
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -151,19 +135,35 @@
             }
         },
         {
-            "id": "5cb6bfd4655606dcdf6bff830d589aca",
-            "title": "Rockets, cars and AI: Elon Musk confirms SpaceX and Tesla merger talks",
-            "description": "SpaceX reported a $4.4 billion third-quarter profit as AI revenue surged nearly tenfold, while special committees at both companies examine a possible merger",
-            "content": "Elon Musk has confirmed that SpaceX and Tesla have formed special committees to discuss a possible merger, calling the idea a “good idea” as his space and electric vehicle businesses move closer in their technology ambitions. The development came as ... [5145 chars]",
-            "url": "https://www.firstpost.com/business/spacex-tesla-merger-elon-musk-ai-revenue-profit-14054164.html",
-            "image": "https://images.firstpost.com/uploads/2026/09/SpaceX-Elon-musk-2026-09-4d217025a3339f3d0d72b58c1afc249c-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-10-21T00:58:46Z",
+            "id": "887098dfa85d76e6f1e7769e4ea4debb",
+            "title": "AI is Making Blue-collar Jobs Great Again, But Not For The Reason People Think",
+            "description": "AI is making blue-collar jobs great again. But not for the reason people think",
+            "content": "The numbers are substantial. A March 2026 Randstad analysis found the demand for skilled trades up 27 per cent over three years, with construction workers up 30 per cent, welders 25 per cent and electricians 18 per cent. Randstad’s US analysis found ... [5496 chars]",
+            "url": "https://www.outlookindia.com/education/column-ai-is-making-blue-collar-jobs-great-again-but-not-for-the-reason-people-think",
+            "image": "https://cf-images.assettype.com/outlookindia/2026-10-18/251ahupg/FlipkartAnubha120261109.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-10-22T00:50:55Z",
             "lang": "en",
             "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
+                "id": "b76d069607ae6330d5f65a02c543a320",
+                "name": "Outlook India",
+                "url": "https://www.outlookindia.com",
                 "country": "in"
+            }
+        },
+        {
+            "id": "15c503cba48f995aaf46a6c2ea3eea55",
+            "title": "Nvidia GTC address reinforces AI deployments on track, says Goldman Sachs",
+            "description": "Goldman Sachs keeps a Buy rating and $300 price target on Nvidia (NVDA) after the firm attended CEO Jensen Wang’s GTC Berlin keynote address. ...",
+            "content": "Goldman Sachs keeps a Buy rating and $300 price target on Nvidia (NVDA) after the firm attended CEO Jensen Wang’s GTC Berlin keynote address. The analyst expects little immediate stock impact from the event, but the firm believes that Nvidia’s messag... [252 chars]",
+            "url": "https://markets.businessinsider.com/news/stocks/nvidia-gtc-address-reinforces-ai-deployments-on-track-says-goldman-sachs-1036652874",
+            "image": "https://markets.businessinsider.com/favicon-32x32.png",
+            "publishedAt": "2026-10-22T00:50:20Z",
+            "lang": "en",
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
             }
         }
     ]
