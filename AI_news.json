@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 478241,
+    "totalArticles": 479566,
     "articles": [
         {
-            "id": "21ae7fdaf1761264785810953dd18e0d",
-            "title": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
-            "description": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel",
-            "content": "The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list last month, has confirmed the author used artificial intelligence to help write his novel C’était ça ou mourir (... [2941 chars]",
-            "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
-            "image": "https://i.guim.co.uk/img/media/593ae3d39388056aa07d530e1309848d610c3078/1027_0_6240_4994/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce3826137afb2c78d970ca2335a5c81c",
-            "publishedAt": "2026-10-22T01:13:01Z",
+            "id": "d0f2c2bfe5705369d4bca8b00fc13045",
+            "title": "US Treasury yields tumble below 5% as AI fears hit stocks, oil surges past $113",
+            "description": "US Treasury yields fell sharply amid stock sell-offs as investors sought safer assets. Rising oil prices, AI spending concerns, and Middle East tensions drove investors to government bonds, dropping the 10-year yield below 5%.",
+            "content": "The yield on the benchmark 10-year US Treasury note, which influences borrowing costs for mortgages, auto loans and credit card debt, fell more than 17 basis points to 4.972%, according to CNBC. It dropped below 5% for the first time since September ... [3599 chars]",
+            "url": "https://www.financialexpress.com/market/global-markets/us-treasury-yields-crash-below-5-as-ai-fears-hit-stocks-oil-surges-past-113/4367512/",
+            "image": "https://images.financialexpressdigital.com/2026/09/DollarReuters.jpg",
+            "publishedAt": "2026-10-23T00:54:06Z",
             "lang": "en",
             "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "eb4cf1ebec6c736cdcbce41176824c33",
-            "title": "AI Won't Take Most Of Our Jobs, But That May Not Be Reassuring",
-            "description": "Artificial intelligence won’t take most of our jobs, but that may not be reassuring",
-            "content": "India is creating more of the latter kind of work. A recent study by Ashoka University finds that India’s non-farm sectors added around six crore workers between 2018 and 2025. However, they were mainly in elementary occupations such as construction ... [5679 chars]",
-            "url": "https://www.outlookindia.com/education/column-ai-wont-take-most-of-our-jobs-but-that-may-not-be-reassuring",
-            "image": "https://cf-images.assettype.com/outlookindia/2026-10-18/mn97jlaz/GauravChiplunkar220261109.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-10-22T01:12:28Z",
-            "lang": "en",
-            "source": {
-                "id": "b76d069607ae6330d5f65a02c543a320",
-                "name": "Outlook India",
-                "url": "https://www.outlookindia.com",
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "f4c46c65cfc72fd1ccf98d720a4367dd",
-            "title": "Meta beats expectations but legal penalties hit profit amid AI race",
-            "description": "SAN FRANCISCO — Meta beat investor expectations for third-quarter revenue on Wednesday as it doubles down on a global AI race but the social media giant's profits took a hit due to an $18 billion legal settlement with nearly all US states.",
-            "content": "SAN FRANCISCO — Meta beat investor expectations for third-quarter revenue on Wednesday as it doubles down on a global AI race but the social media giant's profits took a hit due to an $18 billion legal settlement with nearly all US states.\nThe compan... [3666 chars]",
-            "url": "https://www.manilatimes.net/2026/10/22/business/foreign-business/meta-beats-expectations-but-legal-penalties-hit-profit-amid-ai-race/2451354",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/22/1271221.jpg",
-            "publishedAt": "2026-10-22T01:06:00Z",
+            "id": "57ec8959d52e7e2714a25c1ececd9e1a",
+            "title": "China AI Model Stocks’ $150 Billion Drop Shows No Sign of Easing",
+            "description": "There’s no end in sight for the brutal selloff in China’s artificial intelligence model developer stocks, with competition growing ever more heated and the threat of rival listings next year.",
+            "content": "There’s no end in sight for the brutal selloff in China’s artificial intelligence model developer stocks, with competition growing ever more heated and the threat of rival listings next year.\nMiniMax Group Inc. and Z.AI Co., also known as Zhipu, have... [3092 chars]",
+            "url": "https://www.livemint.com/market/china-ai-model-stocks-150-billion-drop-shows-no-sign-of-easing-11792716837317.html",
+            "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+            "publishedAt": "2026-10-23T00:53:56Z",
+            "lang": "en",
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "c737c6bff0614f79f3ec2f9c73133e30",
+            "title": "Extreme Agent ONE Coworker Saves Customers 1,000 Hours in First Month of Availability",
+            "description": "Ambient AI delivers roughly 10x the engagement of first-generation conversational AI; Customers acted on 98% of critical nudges, leading to expedited issue resolution",
+            "content": "COMPANY NEWS: Ambient AI delivers roughly 10x the engagement of first-generation conversational AI; Customers acted on 98% of critical nudges, leading to expedited issue resolution\nExtreme Networks, Inc. (NASDAQ: EXTR) today announced strong early mo... [4373 chars]",
+            "url": "https://itwire.com/guest-articles/company-news/extreme-agent-one-coworker-saves-customers-1-000-hours-in-first-month-of-availability",
+            "image": "https://media.itwire.com/2026/10/23/extreme-agent-one-coworker-saves-customers-1-000-hours-in-first-month-of-availability-156c81375229.jpg",
+            "publishedAt": "2026-10-23T00:50:24Z",
+            "lang": "en",
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            }
+        },
+        {
+            "id": "02cf9a7a48f9b2c6abc77c84754ea05d",
+            "title": "Left alone with nothing to do, AI agents started playing",
+            "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+            "content": "AI agents left to explore a virtual island without a specific task began inventing challenges of their own. MIT researchers say the behavior bears the hallmarks of play.\nThe researchers put 13 AI agents called Eko, each running on Claude Opus 4.7, al... [3053 chars]",
+            "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+            "publishedAt": "2026-10-23T00:45:37Z",
+            "lang": "en",
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "6de79849f16f6744af1fcf7f99c55185",
+            "title": "can artificial intelligence win literary prizes?",
+            "description": "The 2026 Commonwealth Short Story Prize was caught in a storm over charges of AI use in its winning entries.",
+            "content": "In 2023, a year after the launch of ChatGPT, the Authors Guild in the US, including writers such as John Grisham and George RR Martin, sued OpenAI, alleging that their copyrighted books had been used without permission to train its artificial intelli... [775 chars]",
+            "url": "https://indianexpress.com/article/opinion/editorials/ai-written-books-literary-awards-10932899/",
+            "image": "https://images.indianexpress.com/2026/10/Express-view-Copy-3-15.jpeg",
+            "publishedAt": "2026-10-23T00:45:20Z",
+            "lang": "en",
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "10f0d054e8f2166216a9dea261a89eec",
+            "title": "Gold Holds Near Three-Month Low as AI Jitters Fuel Volatility",
+            "description": "Gold steadied near its lowest close in more than three months as investors sold the precious metal in a cross-market stock rout.",
+            "content": "(Bloomberg) -- Gold steadied near its lowest close in more than three months as investors sold the precious metal in a cross-market stock rout.\nBullion was trading at around $4,025 an ounce after falling almost 3% in the previous session to its lowes... [1489 chars]",
+            "url": "https://www.livemint.com/market/gold-holds-near-three-month-low-as-ai-jitters-fuel-volatility-11792715984506.html",
+            "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+            "publishedAt": "2026-10-23T00:39:43Z",
+            "lang": "en",
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "a93ca2a3cc03a4ad2f618f5c02c36d30",
+            "title": "Can Goa become India's next Silicon Valley? Rohan Khaunte bets big on AI jobs, global investments",
+            "description": "From targeting 50,000 AI-ready professionals by 2030 and developing a Konkani large language model to attracting global talent and bringing Goan professionals back home, IT Minister Rohan Khaunte explains how the state plans to build an AI ecosystem without compromising its tourism-driven identity and fragile ecology",
+            "content": "Goa may be globally recognised for its beaches, nightlife and tourism, but the state government wants to give it a new identity — that of an artificial intelligence and innovation hub. Unveiling its AI policy at the Goa AI Tech Summit, the government... [11554 chars]",
+            "url": "https://www.firstpost.com/tech/can-goa-become-indias-next-silicon-valley-rohan-khaunte-bets-big-on-ai-jobs-global-investments-14054718.html",
+            "image": "https://images.firstpost.com/uploads/2026/10/The-battle-for-Kyiv-5-2026-10-bd7c32738f218a6f14616e536ea7e32b-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-10-23T00:39:07Z",
+            "lang": "en",
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "76efd9e014efc71818818644078afb90",
+            "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+            "description": "Microsoft researchers say an AI tool that diagnoses patients step by step, as doctors do, was more than twice as accurate as general physicians at solving complex medical ​cases, according to a study published on Thursday in Science.",
+            "content": "The model identifies and coordinates ‌the questions that should be asked of a patient, as well as the exams and tests that should be ordered, using an \"orchestrator\" that organizes how AI will tackle a problem by employing a simulated panel of clinic... [2101 chars]",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+            "image": "https://www.reuters.com/resizer/v2/R43BVRNQ6ZNFZC6KORXC2HAIKI.jpg?auth=91c92f9c772931cd0045c6c8887dfb6bbe388867761467843832ddbc5057f400&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2026-10-23T00:34:45Z",
+            "lang": "en",
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "8ee4170f5579afeb54b67722269f7c46",
+            "title": "Seedance 2.5: How to Test AI Video Variations Without Losing the Brief",
+            "description": "Recording the reason for selecting a version helps teams understand which creative choices worked and why. A version log can",
+            "content": "AI video generation is giving B2B marketing teams, creative agencies, and production professionals new ways to explore ideas without rebuilding every concept from scratch. A single creative brief can inspire multiple visual approaches, different open... [15038 chars]",
+            "url": "https://techbullion.com/seedance-2-5-how-to-test-ai-video-variations-without-losing-the-brief/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/10/images-2026-10-23T085642.848-1.jpeg",
+            "publishedAt": "2026-10-23T00:33:56Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "5109b557cf8aedcc6de112674b650832",
+            "title": "MicroVision Begins Commercial Production of MOVIA(TM) Pro to Meet Immediate Customer Demand for Superior Short-Range Sensing and Onboard Perception, Enabling Physical AI at the Edge",
+            "description": "Moving beyond prototypes to delivering the highest quality, highest performance short-range lidar sensor with integrated perception, multi-echo sensing, and versatility for demanding, mission-critical applications",
+            "content": "Moving beyond prototypes to delivering the highest quality, highest performance short-range lidar sensor with integrated perception, multi-echo sensing, and versatility for demanding, mission-critical applications\nORLANDO, Fla, Oct. 22, 2026 (GLOBE N... [7620 chars]",
+            "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/microvision-begins-commercial-production-of-moviatm-pro-to-meet-immediate-customer-demand-for-superior-short-range-sensing-and-onboard-perception-enabling-physical-ai-at-the-edge/2452426",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/23/1273233.jpg",
+            "publishedAt": "2026-10-23T00:33:02Z",
             "lang": "en",
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
                 "name": "The Manila Times",
                 "url": "https://www.manilatimes.net",
                 "country": "ph"
-            }
-        },
-        {
-            "id": "1daae3f445a9383bab9bb8ee7e575bdd",
-            "title": "Hyundai Bayon may arrive on October 26 with a big SUV surprise",
-            "description": "Hyundai Bayon may launch in India on October 26 with a starting price of ₹8.5 lakh, dual 12.3-inch screens, AI voice assistant and a 1.5L petrol engine. Here's what reports suggest so far.",
-            "content": "Diwali showdown\nDiwali is approaching, and Hyundai is preparing to shake up India's SUV market. The company is reportedly gearing up to launch the new Bayon on October 26, just as festive car shopping gathers momentum. With Maruti Suzuki firmly estab... [1714 chars]",
-            "url": "https://www.businesstoday.in/latest/photo/hyundai-bayon-may-arrive-on-october-26-with-a-big-suv-surprise-562829-2026-10-21",
-            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/photo_gallery/202610/6ad89218b960c-bayon-212111790-16x9.jpg",
-            "publishedAt": "2026-10-22T01:00:06Z",
-            "lang": "en",
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "c006c3449045b215a2af470d24d33da4",
-            "title": "Mood of the Boardroom survey: AI ranks second among CEOs’ concerns",
-            "description": "Artificial intelligence has quickly become a topic NZ’s chief executives cannot ignore, writes Tim McCready Asked to name up to three issues most likely to...",
-            "content": "Asked which investments their companies plan to make in the next 12 months, almost every respondent is either already giving staff generative AI tools or considering doing so.\nSome 75% say they have already rolled out generative AI tools, and another... [5456 chars]",
-            "url": "https://www.nzherald.co.nz/business/business-reports/mood-of-the-boardroom/mood-of-the-boardroom-survey-ai-ranks-second-among-ceos-concerns/premium/TS4JRDB36BH2LOXBAZLD3YG56M/",
-            "image": "https://www.nzherald.co.nz/resizer/v2/X6JEQNEHFJBXZFKLQ2IO6IIG5A.jpg?auth=bbd6af8e416230e168e2bde3208f07e5167d2b595ac04524aab1a4c909119e8d&width=1200&height=675&quality=70&focal=1229%2C429&smart=false",
-            "publishedAt": "2026-10-22T01:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "321f3fa90dde0946a7b4a17731c0314d",
-                "name": "The New Zealand Herald",
-                "url": "https://www.nzherald.co.nz",
-                "country": "nz"
-            }
-        },
-        {
-            "id": "3c1b4e33e3f3b9573750960ae91b698a",
-            "title": "AI challenges maths by solving the unsolvable",
-            "description": "Announcements over recent months that artificial intelligence models have cracked previously unsolvable problems are shaking to the core top-level mathematicians, who are now asking themselves: where do we come in?",
-            "content": "PARIS: Announcements over recent months that artificial intelligence (AI) models have cracked previously unsolvable problems are shaking to the core top-level mathematicians, who are now asking themselves: where do we come in?\n\"All the avenues of res... [3022 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/22/ai-challenges-maths-by-solving-the-unsolvable",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/22/4173224.jpg",
-            "publishedAt": "2026-10-22T01:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "9216598cb4b867dad6a2bf9599894bb9",
-            "title": "Wallstreet Highlights: S&P 500, Nasdaq Climb In Late Hours On Meta's Big AI Wagers",
-            "description": "Tesla's profit beat estimates, assuaging worries about increased investments into new areas such as AI.",
-            "content": "Wall Street's wagers on artificial intelligence regained traction, with stocks rising in late hours as solid results bolstered confidence in the trade that has powered the bull market.\nAn exchange-traded fund tracking the S&P 500 rose after the close... [3601 chars]",
-            "url": "https://www.ndtvprofit.com/markets/wallstreet-highlights-s-and-p-500-nasdaq-climb-in-late-hours-on-metas-big-ai-wagers-12217764",
-            "image": "https://c.ndtvimg.com/2026-10/ch3snp4o_wall-street-highlights-bbg_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-10-22T00:57:17Z",
-            "lang": "en",
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "3d8570300fced7a94567f9e786c8fb1f",
-            "title": "Global Market Today: Asian stocks mixed as oil rally, AI concerns weigh on sentiment",
-            "description": "Contracts for the Nasdaq 100 Index slipped 0.6% and those for the S&P 500 dropped 0.4% in early Asian trading following a split set of results from Tesla Inc. and Meta Platforms Inc. The automakers shares fell 3.1% in post-market trading after cutting its capital-spending forecast. Meta Platforms, however, rose 2% after hours as the company boosted its bet on AI with spending outlook.",
-            "content": "Synopsis\nContracts for the Nasdaq 100 Index slipped 0.6% and those for the S&P 500 dropped 0.4% in early Asian trading following a split set of results from Tesla Inc. and Meta Platforms Inc. The automaker’s shares fell 3.1% in post-market trading af... [5766 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms",
-            "image": "https://img.etimg.com/thumb/msid-135103517,width-1200,height-900,imgsize-121118,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-10-22T00:57:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "887098dfa85d76e6f1e7769e4ea4debb",
-            "title": "AI is Making Blue-collar Jobs Great Again, But Not For The Reason People Think",
-            "description": "AI is making blue-collar jobs great again. But not for the reason people think",
-            "content": "The numbers are substantial. A March 2026 Randstad analysis found the demand for skilled trades up 27 per cent over three years, with construction workers up 30 per cent, welders 25 per cent and electricians 18 per cent. Randstad’s US analysis found ... [5496 chars]",
-            "url": "https://www.outlookindia.com/education/column-ai-is-making-blue-collar-jobs-great-again-but-not-for-the-reason-people-think",
-            "image": "https://cf-images.assettype.com/outlookindia/2026-10-18/251ahupg/FlipkartAnubha120261109.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-10-22T00:50:55Z",
-            "lang": "en",
-            "source": {
-                "id": "b76d069607ae6330d5f65a02c543a320",
-                "name": "Outlook India",
-                "url": "https://www.outlookindia.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "15c503cba48f995aaf46a6c2ea3eea55",
-            "title": "Nvidia GTC address reinforces AI deployments on track, says Goldman Sachs",
-            "description": "Goldman Sachs keeps a Buy rating and $300 price target on Nvidia (NVDA) after the firm attended CEO Jensen Wang’s GTC Berlin keynote address. ...",
-            "content": "Goldman Sachs keeps a Buy rating and $300 price target on Nvidia (NVDA) after the firm attended CEO Jensen Wang’s GTC Berlin keynote address. The analyst expects little immediate stock impact from the event, but the firm believes that Nvidia’s messag... [252 chars]",
-            "url": "https://markets.businessinsider.com/news/stocks/nvidia-gtc-address-reinforces-ai-deployments-on-track-says-goldman-sachs-1036652874",
-            "image": "https://markets.businessinsider.com/favicon-32x32.png",
-            "publishedAt": "2026-10-22T00:50:20Z",
-            "lang": "en",
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
             }
         }
     ]
