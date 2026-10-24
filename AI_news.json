@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 479566,
+    "totalArticles": 480603,
     "articles": [
         {
-            "id": "d0f2c2bfe5705369d4bca8b00fc13045",
-            "title": "US Treasury yields tumble below 5% as AI fears hit stocks, oil surges past $113",
-            "description": "US Treasury yields fell sharply amid stock sell-offs as investors sought safer assets. Rising oil prices, AI spending concerns, and Middle East tensions drove investors to government bonds, dropping the 10-year yield below 5%.",
-            "content": "The yield on the benchmark 10-year US Treasury note, which influences borrowing costs for mortgages, auto loans and credit card debt, fell more than 17 basis points to 4.972%, according to CNBC. It dropped below 5% for the first time since September ... [3599 chars]",
-            "url": "https://www.financialexpress.com/market/global-markets/us-treasury-yields-crash-below-5-as-ai-fears-hit-stocks-oil-surges-past-113/4367512/",
-            "image": "https://images.financialexpressdigital.com/2026/09/DollarReuters.jpg",
-            "publishedAt": "2026-10-23T00:54:06Z",
+            "id": "a14afba94b1944bb4f9cb25c55f4b6fe",
+            "title": "Singapore universities boost graduate employability",
+            "description": "Singapore universities expand internships, AI courses and career support to prepare undergraduates for a competitive job market Read more at straitstimes.com.",
+            "content": "SINGAPORE – As the graduate job market grows increasingly competitive, Singapore’s six autonomous universities are expanding efforts to help students get a head start in their careers.\nFrom career readiness programmes to new courses emphasising inter... [6222 chars]",
+            "url": "https://www.straitstimes.com/life/how-singapore-universities-are-preparing-undergraduates-for-work",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6c3ba7913a894fd754b01cb18352186a5027c90d51d3e96bec64c5d3cd767faa?w=1200",
+            "publishedAt": "2026-10-24T00:15:00Z",
             "lang": "en",
             "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "d7c8182c3f6ffb8df839d3d93bf8c5bc",
+            "title": "MrBeast invests $250,000 for 55% stake in AI-powered Ball 2 on Shark Tank",
+            "description": "MrBeast has built a career on turning unusual ideas into viral sensations.",
+            "content": "YouTuber MrBeast (Getty Images)\nMrBeast has built a career on turning unusual ideas into viral sensations. Now, the YouTube star is betting that the same formula can sell an everyday object with an unexpected twist. During his debut on Shark Tank, Ji... [3247 chars]",
+            "url": "https://timesofindia.indiatimes.com/world/us-streamers/mrbeast-invests-250000-for-55-stake-in-ai-powered-ball-2-on-shark-tank/articleshow/135158163.cms",
+            "image": "https://static.toiimg.com/thumb/msid-135158194,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-24T00:05:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "57ec8959d52e7e2714a25c1ececd9e1a",
-            "title": "China AI Model Stocks’ $150 Billion Drop Shows No Sign of Easing",
-            "description": "There’s no end in sight for the brutal selloff in China’s artificial intelligence model developer stocks, with competition growing ever more heated and the threat of rival listings next year.",
-            "content": "There’s no end in sight for the brutal selloff in China’s artificial intelligence model developer stocks, with competition growing ever more heated and the threat of rival listings next year.\nMiniMax Group Inc. and Z.AI Co., also known as Zhipu, have... [3092 chars]",
-            "url": "https://www.livemint.com/market/china-ai-model-stocks-150-billion-drop-shows-no-sign-of-easing-11792716837317.html",
-            "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-            "publishedAt": "2026-10-23T00:53:56Z",
+            "id": "43f11a0d241ddbc8bb499f95b01f193c",
+            "title": "Dr rajesh modi: Where technology meets healthcare",
+            "description": "by aasawari shenolikar : technology has made inroads into every field, and medicine is no exception. robots have entered operating theatres, ai is making its presence felt, and surgical procedures are becoming more precise by the da",
+            "content": "By Aasawari Shenolikar :\nTechnology has made inroads into every field, and medicine is no exception. Robots have entered operating theatres, AI is making its presence felt, and surgical procedures are becoming more precise by the day. But can technol... [4581 chars]",
+            "url": "https://www.thehitavada.com//Encyc/2026/10/24/dr-rajesh-modi-where-technology-meets-healthcare.html",
+            "image": "https://www.thehitavada.com/Encyc/2026/10/24/8_202610241012075995_H@@IGHT_502_W@@IDTH_745.png",
+            "publishedAt": "2026-10-24T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
                 "country": "in"
             }
         },
         {
-            "id": "c737c6bff0614f79f3ec2f9c73133e30",
-            "title": "Extreme Agent ONE Coworker Saves Customers 1,000 Hours in First Month of Availability",
-            "description": "Ambient AI delivers roughly 10x the engagement of first-generation conversational AI; Customers acted on 98% of critical nudges, leading to expedited issue resolution",
-            "content": "COMPANY NEWS: Ambient AI delivers roughly 10x the engagement of first-generation conversational AI; Customers acted on 98% of critical nudges, leading to expedited issue resolution\nExtreme Networks, Inc. (NASDAQ: EXTR) today announced strong early mo... [4373 chars]",
-            "url": "https://itwire.com/guest-articles/company-news/extreme-agent-one-coworker-saves-customers-1-000-hours-in-first-month-of-availability",
-            "image": "https://media.itwire.com/2026/10/23/extreme-agent-one-coworker-saves-customers-1-000-hours-in-first-month-of-availability-156c81375229.jpg",
-            "publishedAt": "2026-10-23T00:50:24Z",
+            "id": "5e8baf177053d2fcb7cd81f9feec8203",
+            "title": "Restaurants, let's talk about those AI menus and marketing materials",
+            "description": "Customers are disturbed by these AI-generated images and routinely call them out on social media as \"AI slop.\"",
+            "content": "Grainy-looking hamburger meat, shrimp curled into a perfectly unsettling circle and furry sausages are just some of the more disturbing AI images that have crept onto restaurant menus, advertisements and social media postings.\nIt's a trend that has r... [5615 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/24/restaurants-let039s-talk-about-those-ai-menus-and-marketing-materials",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/23/4176666.jpg",
+            "publishedAt": "2026-10-24T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
             }
         },
         {
-            "id": "02cf9a7a48f9b2c6abc77c84754ea05d",
-            "title": "Left alone with nothing to do, AI agents started playing",
-            "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-            "content": "AI agents left to explore a virtual island without a specific task began inventing challenges of their own. MIT researchers say the behavior bears the hallmarks of play.\nThe researchers put 13 AI agents called Eko, each running on Claude Opus 4.7, al... [3053 chars]",
-            "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
-            "publishedAt": "2026-10-23T00:45:37Z",
+            "id": "3e96c7025e3ae5f21f7de373b27420fb",
+            "title": "Dr rajesh modi: Where technology meets healthcare",
+            "description": "by aasawari shenolikar : technology has made inroads into every field, and medicine is no exception. robots have entered operating theatres, ai is making its presence felt, and surgical procedures are becoming more precise by the da",
+            "content": "By Aasawari Shenolikar :\nTechnology has made inroads into every field, and medicine is no exception. Robots have entered operating theatres, AI is making its presence felt, and surgical procedures are becoming more precise by the day. But can technol... [4581 chars]",
+            "url": "https://www.thehitavada.com/Encyc/2026/10/24/dr-rajesh-modi-where-technology-meets-healthcare.html",
+            "image": "https://www.thehitavada.com/Encyc/2026/10/24/8_202610241012075995_H@@IGHT_502_W@@IDTH_745.png",
+            "publishedAt": "2026-10-24T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "6de79849f16f6744af1fcf7f99c55185",
-            "title": "can artificial intelligence win literary prizes?",
-            "description": "The 2026 Commonwealth Short Story Prize was caught in a storm over charges of AI use in its winning entries.",
-            "content": "In 2023, a year after the launch of ChatGPT, the Authors Guild in the US, including writers such as John Grisham and George RR Martin, sued OpenAI, alleging that their copyrighted books had been used without permission to train its artificial intelli... [775 chars]",
-            "url": "https://indianexpress.com/article/opinion/editorials/ai-written-books-literary-awards-10932899/",
-            "image": "https://images.indianexpress.com/2026/10/Express-view-Copy-3-15.jpeg",
-            "publishedAt": "2026-10-23T00:45:20Z",
-            "lang": "en",
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
                 "country": "in"
             }
         },
         {
-            "id": "10f0d054e8f2166216a9dea261a89eec",
-            "title": "Gold Holds Near Three-Month Low as AI Jitters Fuel Volatility",
-            "description": "Gold steadied near its lowest close in more than three months as investors sold the precious metal in a cross-market stock rout.",
-            "content": "(Bloomberg) -- Gold steadied near its lowest close in more than three months as investors sold the precious metal in a cross-market stock rout.\nBullion was trading at around $4,025 an ounce after falling almost 3% in the previous session to its lowes... [1489 chars]",
-            "url": "https://www.livemint.com/market/gold-holds-near-three-month-low-as-ai-jitters-fuel-volatility-11792715984506.html",
-            "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-            "publishedAt": "2026-10-23T00:39:43Z",
+            "id": "b6c62a667b949ecb135e7bbd1c0d2fa2",
+            "title": "Frida Kahlo and the perils of fandom",
+            "description": "From Barbie dolls to AI chatbots, the artist’s afterlife shows how fans now remake their heroes—and how little control anyone has left",
+            "content": "In the final room of Tate Modern’s landmark Frida Kahlo exhibition, the artist’s brows are everywhere: on a pair of Crocs, on a bejewelled rubber duck, on a gigantic pack of sanitary pads that comes with a limited-edition Mason jar. Frida: The Making... [11869 chars]",
+            "url": "https://www.prospectmagazine.co.uk/culture/75414/frida-kahlo-and-the-perils-of-fandom-the-making-of-an-icon-tate-modern",
+            "image": "https://media.prospectmagazine.co.uk/prod/images/gm_preview/9f89dc85d5d1-kahloimg.png",
+            "publishedAt": "2026-10-24T00:00:00Z",
             "lang": "en",
             "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "a93ca2a3cc03a4ad2f618f5c02c36d30",
-            "title": "Can Goa become India's next Silicon Valley? Rohan Khaunte bets big on AI jobs, global investments",
-            "description": "From targeting 50,000 AI-ready professionals by 2030 and developing a Konkani large language model to attracting global talent and bringing Goan professionals back home, IT Minister Rohan Khaunte explains how the state plans to build an AI ecosystem without compromising its tourism-driven identity and fragile ecology",
-            "content": "Goa may be globally recognised for its beaches, nightlife and tourism, but the state government wants to give it a new identity — that of an artificial intelligence and innovation hub. Unveiling its AI policy at the Goa AI Tech Summit, the government... [11554 chars]",
-            "url": "https://www.firstpost.com/tech/can-goa-become-indias-next-silicon-valley-rohan-khaunte-bets-big-on-ai-jobs-global-investments-14054718.html",
-            "image": "https://images.firstpost.com/uploads/2026/10/The-battle-for-Kyiv-5-2026-10-bd7c32738f218a6f14616e536ea7e32b-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-10-23T00:39:07Z",
-            "lang": "en",
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "76efd9e014efc71818818644078afb90",
-            "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
-            "description": "Microsoft researchers say an AI tool that diagnoses patients step by step, as doctors do, was more than twice as accurate as general physicians at solving complex medical ​cases, according to a study published on Thursday in Science.",
-            "content": "The model identifies and coordinates ‌the questions that should be asked of a patient, as well as the exams and tests that should be ordered, using an \"orchestrator\" that organizes how AI will tackle a problem by employing a simulated panel of clinic... [2101 chars]",
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-            "image": "https://www.reuters.com/resizer/v2/R43BVRNQ6ZNFZC6KORXC2HAIKI.jpg?auth=91c92f9c772931cd0045c6c8887dfb6bbe388867761467843832ddbc5057f400&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2026-10-23T00:34:45Z",
-            "lang": "en",
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "8ee4170f5579afeb54b67722269f7c46",
-            "title": "Seedance 2.5: How to Test AI Video Variations Without Losing the Brief",
-            "description": "Recording the reason for selecting a version helps teams understand which creative choices worked and why. A version log can",
-            "content": "AI video generation is giving B2B marketing teams, creative agencies, and production professionals new ways to explore ideas without rebuilding every concept from scratch. A single creative brief can inspire multiple visual approaches, different open... [15038 chars]",
-            "url": "https://techbullion.com/seedance-2-5-how-to-test-ai-video-variations-without-losing-the-brief/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/10/images-2026-10-23T085642.848-1.jpeg",
-            "publishedAt": "2026-10-23T00:33:56Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
+                "id": "46a709a3f3ff77e65f45307bcccaa0ee",
+                "name": "Prospect",
+                "url": "https://www.prospectmagazine.co.uk",
                 "country": "gb"
             }
         },
         {
-            "id": "5109b557cf8aedcc6de112674b650832",
-            "title": "MicroVision Begins Commercial Production of MOVIA(TM) Pro to Meet Immediate Customer Demand for Superior Short-Range Sensing and Onboard Perception, Enabling Physical AI at the Edge",
-            "description": "Moving beyond prototypes to delivering the highest quality, highest performance short-range lidar sensor with integrated perception, multi-echo sensing, and versatility for demanding, mission-critical applications",
-            "content": "Moving beyond prototypes to delivering the highest quality, highest performance short-range lidar sensor with integrated perception, multi-echo sensing, and versatility for demanding, mission-critical applications\nORLANDO, Fla, Oct. 22, 2026 (GLOBE N... [7620 chars]",
-            "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/microvision-begins-commercial-production-of-moviatm-pro-to-meet-immediate-customer-demand-for-superior-short-range-sensing-and-onboard-perception-enabling-physical-ai-at-the-edge/2452426",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/23/1273233.jpg",
-            "publishedAt": "2026-10-23T00:33:02Z",
+            "id": "83c741aa96230706bb37a84a8da6d033",
+            "title": "Britain pledges more funding to guard against AI risks",
+            "description": "Concerns about AI safety have escalated in recent months. Read more at straitstimes.com.",
+            "content": "LONDON – The British government on Oct 24 outlined plans to expand funding for artificial intelligence safety amid growing concerns over the cyber risks posed by the increasingly advanced technology.\n“The economic opportunities from AI will only be r... [1576 chars]",
+            "url": "https://www.straitstimes.com/world/europe/britain-pledges-more-funding-to-guard-against-ai-risks",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/46132ac98b545eacd9c1c720f083e89e8496e0502ec2562c53d5b1e42c48c8b1?w=1200",
+            "publishedAt": "2026-10-23T23:58:00Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "87f663fc54041944f4852e0ecf586c3d",
+            "title": "Amazon used AI tool to track risk of unionization in Canadian warehouses, documents show",
+            "description": "Tool uses hundreds of data points to evaluate ‘emerging workforce issues,’ ‘labour union targets’ and ‘internal or external labour threats’",
+            "content": "Amazon.com Inc. AMZN-Q used an artificial-intelligence tool in Canadian warehouses to assess the likelihood of workers unionizing, assigning a “labour risk” score to each of its facilities.\nInternal company documents obtained by The Globe and Mail, a... [5975 chars]",
+            "url": "https://www.theglobeandmail.com/business/article-amazon-ai-tool-risk-unionization-canadian-warehouses-documents/",
+            "image": "https://www.theglobeandmail.com/resizer/v2/FW5PA7LCY5BVXEOUPNC2ITRUBU.jpg?auth=d35944c1c90d9fee2649fffb6cc109f435dbda8a567adafb24d13782e4dfb5db&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2026-10-23T23:52:12Z",
+            "lang": "en",
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "66fb426270a3e1d13b79af5353b2cbc2",
+            "title": "N.J. man charged with sharing AI deepfake nude images on social media",
+            "description": "The posts included the victims’ real names and photographs alongside AI-generated deepfake nude images, according to authorities.",
+            "content": "A 37-year-old Old Tappan man faces multiple charges after authorities say he created and distributed AI-generated deepfake nude images of two adult victims on social media.\nBergen County Prosecutor Mark Musella announced the arrest of Daniel G. Pfeif... [1586 chars]",
+            "url": "https://www.nj.com/bergen/2026/10/nj-man-created-distributed-ai-generated-deepfake-nude-images-on-social-media-authorities-say.html",
+            "image": "https://www.nj.com/resizer/v2/B522DD5CV5G23CFCJ647TJEUPI.jpg?auth=016a95eef7101eb115319c2665eb057d86cb0eb5160ab86303d1a365a1a29ba2&width=1280&smart=true",
+            "publishedAt": "2026-10-23T23:47:58Z",
+            "lang": "en",
+            "source": {
+                "id": "49751e72ee79ba8eb1d9dcf6e10bf195",
+                "name": "NJ.com",
+                "url": "https://www.nj.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "24d7985670e9e3bfa6ebd9f0c22ba773",
+            "title": "Stocks fall across the board but AI stocks stabilize",
+            "description": "STORY: US stocks lost ground Friday with the Dow dropping more than one percent, the S&P 500 falling about half of one percent and the Nasdaq slipping two tenths.\nTechnology shares...",
+            "content": "STORY: US stocks lost ground Friday with the Dow dropping more than one percent, the S&P 500 falling about half of one percent and the Nasdaq slipping two tenths.\nTechnology shares steadied to end a turbulent week for the market-driving AI trade.\nBut... [1786 chars]",
+            "url": "https://www.marketscreener.com/news/stocks-fall-across-the-board-but-ai-stocks-stabilize-ce785cdfdc80f426",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2026-10-23T23:47:21Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         }
     ]
