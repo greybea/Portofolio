@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 480603,
+    "totalArticles": 481082,
     "articles": [
         {
-            "id": "a14afba94b1944bb4f9cb25c55f4b6fe",
-            "title": "Singapore universities boost graduate employability",
-            "description": "Singapore universities expand internships, AI courses and career support to prepare undergraduates for a competitive job market Read more at straitstimes.com.",
-            "content": "SINGAPORE – As the graduate job market grows increasingly competitive, Singapore’s six autonomous universities are expanding efforts to help students get a head start in their careers.\nFrom career readiness programmes to new courses emphasising inter... [6222 chars]",
-            "url": "https://www.straitstimes.com/life/how-singapore-universities-are-preparing-undergraduates-for-work",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6c3ba7913a894fd754b01cb18352186a5027c90d51d3e96bec64c5d3cd767faa?w=1200",
-            "publishedAt": "2026-10-24T00:15:00Z",
+            "id": "51cbd6e43ce217bd7d93d569d630f4f7",
+            "title": "Sacha Baron Cohen says the new 'Ali G' film is his last comedy stunt",
+            "description": "Sacha Baron Cohen says \"Ali G: Who Iz I?\" is his last comedy in the \"Borat\" style, calling the films too risky and citing fears about social media and AI.",
+            "content": "NEWYou can now listen to Fox News articles!\nSacha Baron Cohen is done starring in over-the-top comedies.\nIn a recent interview with The Hollywood Reporter, the 55-year-old actor confirmed that his new movie, \"Ali G: Who Iz I?,\" will be his last in th... [3685 chars]",
+            "url": "https://www.foxnews.com/entertainment/sacha-baron-cohen-says-ali-g-who-iz-i-last-over-the-top-comedy-calling-them-too-risky",
+            "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/sacha-baron-cohen-suit.jpg",
+            "publishedAt": "2026-10-25T00:39:39Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "d7c8182c3f6ffb8df839d3d93bf8c5bc",
-            "title": "MrBeast invests $250,000 for 55% stake in AI-powered Ball 2 on Shark Tank",
-            "description": "MrBeast has built a career on turning unusual ideas into viral sensations.",
-            "content": "YouTuber MrBeast (Getty Images)\nMrBeast has built a career on turning unusual ideas into viral sensations. Now, the YouTube star is betting that the same formula can sell an everyday object with an unexpected twist. During his debut on Shark Tank, Ji... [3247 chars]",
-            "url": "https://timesofindia.indiatimes.com/world/us-streamers/mrbeast-invests-250000-for-55-stake-in-ai-powered-ball-2-on-shark-tank/articleshow/135158163.cms",
-            "image": "https://static.toiimg.com/thumb/msid-135158194,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-10-24T00:05:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "43f11a0d241ddbc8bb499f95b01f193c",
-            "title": "Dr rajesh modi: Where technology meets healthcare",
-            "description": "by aasawari shenolikar : technology has made inroads into every field, and medicine is no exception. robots have entered operating theatres, ai is making its presence felt, and surgical procedures are becoming more precise by the da",
-            "content": "By Aasawari Shenolikar :\nTechnology has made inroads into every field, and medicine is no exception. Robots have entered operating theatres, AI is making its presence felt, and surgical procedures are becoming more precise by the day. But can technol... [4581 chars]",
-            "url": "https://www.thehitavada.com//Encyc/2026/10/24/dr-rajesh-modi-where-technology-meets-healthcare.html",
-            "image": "https://www.thehitavada.com/Encyc/2026/10/24/8_202610241012075995_H@@IGHT_502_W@@IDTH_745.png",
-            "publishedAt": "2026-10-24T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "5e8baf177053d2fcb7cd81f9feec8203",
-            "title": "Restaurants, let's talk about those AI menus and marketing materials",
-            "description": "Customers are disturbed by these AI-generated images and routinely call them out on social media as \"AI slop.\"",
-            "content": "Grainy-looking hamburger meat, shrimp curled into a perfectly unsettling circle and furry sausages are just some of the more disturbing AI images that have crept onto restaurant menus, advertisements and social media postings.\nIt's a trend that has r... [5615 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/24/restaurants-let039s-talk-about-those-ai-menus-and-marketing-materials",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/23/4176666.jpg",
-            "publishedAt": "2026-10-24T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "3e96c7025e3ae5f21f7de373b27420fb",
-            "title": "Dr rajesh modi: Where technology meets healthcare",
-            "description": "by aasawari shenolikar : technology has made inroads into every field, and medicine is no exception. robots have entered operating theatres, ai is making its presence felt, and surgical procedures are becoming more precise by the da",
-            "content": "By Aasawari Shenolikar :\nTechnology has made inroads into every field, and medicine is no exception. Robots have entered operating theatres, AI is making its presence felt, and surgical procedures are becoming more precise by the day. But can technol... [4581 chars]",
-            "url": "https://www.thehitavada.com/Encyc/2026/10/24/dr-rajesh-modi-where-technology-meets-healthcare.html",
-            "image": "https://www.thehitavada.com/Encyc/2026/10/24/8_202610241012075995_H@@IGHT_502_W@@IDTH_745.png",
-            "publishedAt": "2026-10-24T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "2ff4b6327735b249ca9fe9bb8f044251",
-                "name": "The Hitavada",
-                "url": "https://www.thehitavada.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "b6c62a667b949ecb135e7bbd1c0d2fa2",
-            "title": "Frida Kahlo and the perils of fandom",
-            "description": "From Barbie dolls to AI chatbots, the artist’s afterlife shows how fans now remake their heroes—and how little control anyone has left",
-            "content": "In the final room of Tate Modern’s landmark Frida Kahlo exhibition, the artist’s brows are everywhere: on a pair of Crocs, on a bejewelled rubber duck, on a gigantic pack of sanitary pads that comes with a limited-edition Mason jar. Frida: The Making... [11869 chars]",
-            "url": "https://www.prospectmagazine.co.uk/culture/75414/frida-kahlo-and-the-perils-of-fandom-the-making-of-an-icon-tate-modern",
-            "image": "https://media.prospectmagazine.co.uk/prod/images/gm_preview/9f89dc85d5d1-kahloimg.png",
-            "publishedAt": "2026-10-24T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "46a709a3f3ff77e65f45307bcccaa0ee",
-                "name": "Prospect",
-                "url": "https://www.prospectmagazine.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "83c741aa96230706bb37a84a8da6d033",
-            "title": "Britain pledges more funding to guard against AI risks",
-            "description": "Concerns about AI safety have escalated in recent months. Read more at straitstimes.com.",
-            "content": "LONDON – The British government on Oct 24 outlined plans to expand funding for artificial intelligence safety amid growing concerns over the cyber risks posed by the increasingly advanced technology.\n“The economic opportunities from AI will only be r... [1576 chars]",
-            "url": "https://www.straitstimes.com/world/europe/britain-pledges-more-funding-to-guard-against-ai-risks",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/46132ac98b545eacd9c1c720f083e89e8496e0502ec2562c53d5b1e42c48c8b1?w=1200",
-            "publishedAt": "2026-10-23T23:58:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "87f663fc54041944f4852e0ecf586c3d",
-            "title": "Amazon used AI tool to track risk of unionization in Canadian warehouses, documents show",
-            "description": "Tool uses hundreds of data points to evaluate ‘emerging workforce issues,’ ‘labour union targets’ and ‘internal or external labour threats’",
-            "content": "Amazon.com Inc. AMZN-Q used an artificial-intelligence tool in Canadian warehouses to assess the likelihood of workers unionizing, assigning a “labour risk” score to each of its facilities.\nInternal company documents obtained by The Globe and Mail, a... [5975 chars]",
-            "url": "https://www.theglobeandmail.com/business/article-amazon-ai-tool-risk-unionization-canadian-warehouses-documents/",
-            "image": "https://www.theglobeandmail.com/resizer/v2/FW5PA7LCY5BVXEOUPNC2ITRUBU.jpg?auth=d35944c1c90d9fee2649fffb6cc109f435dbda8a567adafb24d13782e4dfb5db&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2026-10-23T23:52:12Z",
-            "lang": "en",
-            "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "66fb426270a3e1d13b79af5353b2cbc2",
-            "title": "N.J. man charged with sharing AI deepfake nude images on social media",
-            "description": "The posts included the victims’ real names and photographs alongside AI-generated deepfake nude images, according to authorities.",
-            "content": "A 37-year-old Old Tappan man faces multiple charges after authorities say he created and distributed AI-generated deepfake nude images of two adult victims on social media.\nBergen County Prosecutor Mark Musella announced the arrest of Daniel G. Pfeif... [1586 chars]",
-            "url": "https://www.nj.com/bergen/2026/10/nj-man-created-distributed-ai-generated-deepfake-nude-images-on-social-media-authorities-say.html",
-            "image": "https://www.nj.com/resizer/v2/B522DD5CV5G23CFCJ647TJEUPI.jpg?auth=016a95eef7101eb115319c2665eb057d86cb0eb5160ab86303d1a365a1a29ba2&width=1280&smart=true",
-            "publishedAt": "2026-10-23T23:47:58Z",
-            "lang": "en",
-            "source": {
-                "id": "49751e72ee79ba8eb1d9dcf6e10bf195",
-                "name": "NJ.com",
-                "url": "https://www.nj.com",
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
                 "country": "us"
             }
         },
         {
-            "id": "24d7985670e9e3bfa6ebd9f0c22ba773",
-            "title": "Stocks fall across the board but AI stocks stabilize",
-            "description": "STORY: US stocks lost ground Friday with the Dow dropping more than one percent, the S&P 500 falling about half of one percent and the Nasdaq slipping two tenths.\nTechnology shares...",
-            "content": "STORY: US stocks lost ground Friday with the Dow dropping more than one percent, the S&P 500 falling about half of one percent and the Nasdaq slipping two tenths.\nTechnology shares steadied to end a turbulent week for the market-driving AI trade.\nBut... [1786 chars]",
-            "url": "https://www.marketscreener.com/news/stocks-fall-across-the-board-but-ai-stocks-stabilize-ce785cdfdc80f426",
-            "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2026-10-23T23:47:21Z",
+            "id": "52884963c567ff5e9db92c807fcd5bb0",
+            "title": "History of negative political advertising in US",
+            "description": "Vivek Ramaswamy's attack ad against Amy Acton revives debate over negative campaigning. A look at its history, from the Daisy ad to AI and dirty tricks.",
+            "content": "The advertisement, produced by Republican candidate Vivek Ramaswamy’s campaign, features Donna Arthur, the estranged mother of his Democratic opponent, Amy Acton. Arthur calls her daughter “a liar” in the ad and suggests she has mental health problem... [9239 chars]",
+            "url": "https://indianexpress.com/article/explained/explained-global/vivek-ramaswamy-amy-acton-negative-political-ads-history-us-10935273/",
+            "image": "https://images.indianexpress.com/2026/10/acton-v-ramaswamy.jpg",
+            "publishedAt": "2026-10-25T00:31:56Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "5ba2ad73174cba22aedba770ab05123e",
+            "title": "AI Chariots Need Charioteer Krishna",
+            "description": "Given the fact that society is a comity of communities which again are bundles of identical individuals who have isolated and unique ‘self,’ if AI has to shape societal behaviour, then AI models have to develop a free mind before it becomes an agentic AI with a freedom to Act",
+            "content": "The ageless and eternal photo frame of Bhagavad Gita with Lord Krishna as the charioteer reining the thoughts of Arjuna before the Mahabharat war is perfect backdrop for an ethical Artificial Intelligence (AI) framework. The power of human mind to be... [4281 chars]",
+            "url": "https://www.newindianexpress.com/magazine/2026/Oct/25/ai-chariots-need-charioteer-krishna",
+            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-10-22%2Fmg4f5b91%2F25-ANCHOR033337.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-10-25T00:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "3d68990a523f5c193e4d3a0ea075ec70",
+            "title": "The 1-Minute Market Report October 24, 2026",
+            "description": "S&P 500 slips as AI and Big Tech weaken, but most market indicators stay bullish.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of NVDA, AVGO, GOOGL either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensatio... [692 chars]",
+            "url": "https://seekingalpha.com/article/4957279-the-1-minute-market-report-october-24-2026",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-10-25T00:23:59Z",
+            "lang": "en",
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "e0d968c0be8552ed8d20f4a07613fc92",
+            "title": "Trump AI push faces voter backlash over data centers: CNBC survey",
+            "description": "President Donald Trump has cast America's artificial intelligence race with China as a national-security imperative, pushing faster development of the",
+            "content": "President Donald Trump has cast America’s artificial intelligence race with China as a national-security imperative, pushing faster development of the technology and an immense buildout of the data centers and power infrastructure needed to fuel it.\n... [4611 chars]",
+            "url": "https://www.europesays.com/3330078/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/10/1792886441.jpeg",
+            "publishedAt": "2026-10-25T00:00:37Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "b37a25b9eea77db19a339c955cf4bd1f",
+            "title": "Chinese smartphone brands lose India market share as chip costs soar",
+            "description": "Chinese smartphone brands' market share in India decreased to 67-68% in the recent July-September quarter. This decline represents the lowest percentage seen in more than eight years. Companies like Vivo, Oppo, and Xiaomi are reducing their budget models due to high memory chip prices. Domestic brands such as Lava and Ai+ are gaining traction among price-sensitive consumers as a result.",
+            "content": "Synopsis\nChinese smartphone brands' market share in India decreased to 67-68% in the recent July-September quarter. This decline represents the lowest percentage seen in more than eight years. Companies like Vivo, Oppo, and Xiaomi are reducing their ... [3485 chars]",
+            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/chinese-smartphone-brands-india-market-share-memory-chip-costs-budget-phones/articleshow/135175298.cms",
+            "image": "https://img.etimg.com/thumb/msid-135175749,width-1200,height-900,imgsize-184808,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-10-25T00:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "d5015c090bbebd9e1d3ddd6a27573d5a",
+            "title": "‘Synthetic twin’: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone",
+            "description": "The Socceroos star stares at the camera as he strides through an enormous atrium, the sound of his football boots on polished concrete echoing around him.",
+            "content": "The Socceroos star stares at the camera as he strides through an enormous atrium, the sound of his football boots on polished concrete echoing around him. Suddenly, he spawns four digital clones that peel off out of view to re-emerge in different set... [7498 chars]",
+            "url": "https://www.europesays.com/3330076/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/10/1792886364.jpeg",
+            "publishedAt": "2026-10-24T23:59:21Z",
+            "lang": "en",
+            "source": {
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "1639b0b2ee8a925a126d402eca377e68",
+            "title": "Massive Rs 64,000 cr order books: 2 Indian stocks cashing in on AI’s hunger for fibre",
+            "description": "AI data centres are driving demand for high-density optical fibre as network speeds rise and GPU clusters expand. Two companies are seeing the impact, with quarterly profits surging 448% and rebounding to ₹517 crore.",
+            "content": "Fibre counts in switch racks have increased from around 500 in conventional cloud setups to 12,000 in 72-GPU server nodes. Future designs could require up to 16,000 fibres per rack, 32X more than the 500 required in conventional setups. For optical f... [11026 chars]",
+            "url": "https://www.financialexpress.com/market/stock-insights/massive-rs-64000-cr-order-books-2-indian-stocks-cashing-in-on-ais-hunger-for-fibre/4368816/",
+            "image": "https://images.financialexpressdigital.com/2026/10/aaaa2.jpg",
+            "publishedAt": "2026-10-24T23:35:00Z",
+            "lang": "en",
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "42b3d2cb465c035e7ced93b72dee7241",
+            "title": "“Use of AI in weaponry, weapon systems, and platforms is growing rapidly,” says Former Army Chief Naravane, launches 'Forever Young KSLF'",
+            "description": "Speaking to ANI at the 15th Khushwant Singh Literature Festival, Naravane said, \"The use of AI in weaponry, weapon systems, and platforms is growing rapidly. We must carefully consider the extent to which we should adopt these technologies and how much autonomy should be granted to AI.\"",
+            "content": "Kasauli (Himachal Pradesh) [India], October 25 (ANI): Former Indian Army Chief General Manoj Mukund Naravane said the use of artificial intelligence (AI) in weaponry, weapon systems and platforms is growing rapidly, stressing the need to carefully co... [5405 chars]",
+            "url": "https://www.aninews.in/news/national/general-news/8220use-of-ai-in-weaponry-weapon-systems-and-platforms-is-growing-rapidly8221-says-former-army-chief-naravane-launches-forever-young-kslf16020261025033000/",
+            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261024215902-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-10-24T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "d9b1204cb7eaf503369c891fc5e14989",
+            "title": "Quote of the day by Apple co-founder Steve Jobs on touchscreens: 'After an extended period of time, your arm wants to fall off' — savaging a bitter rival's PC pivot",
+            "description": "AI models are becoming more and more advanced, but that doesn't mean the underlying architecture will lead us to human-like intelligence",
+            "content": "The late Apple co-founder Steve Jobs had a reputation for being ahead of the curve. At the time, Microsoft was heavily pushing touchscreen computing in an attempt to innovate and embrace new possibilities when interfacing with machines; Jobs dug his ... [2723 chars]",
+            "url": "https://www.techradar.com/pro/quote-of-the-day-by-apple-co-founder-steve-jobs-on-touchscreens-after-an-extended-period-of-time-your-arm-wants-to-fall-off-savaging-a-bitter-rivals-pc-pivot",
+            "image": "https://cdn.mos.cms.futurecdn.net/4nAMyzFLjxHs7dm6LriiiY-2560-80.jpg",
+            "publishedAt": "2026-10-24T22:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
             }
         }
     ]
