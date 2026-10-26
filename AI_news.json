@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 481082,
+    "totalArticles": 481521,
     "articles": [
         {
-            "id": "51cbd6e43ce217bd7d93d569d630f4f7",
-            "title": "Sacha Baron Cohen says the new 'Ali G' film is his last comedy stunt",
-            "description": "Sacha Baron Cohen says \"Ali G: Who Iz I?\" is his last comedy in the \"Borat\" style, calling the films too risky and citing fears about social media and AI.",
-            "content": "NEWYou can now listen to Fox News articles!\nSacha Baron Cohen is done starring in over-the-top comedies.\nIn a recent interview with The Hollywood Reporter, the 55-year-old actor confirmed that his new movie, \"Ali G: Who Iz I?,\" will be his last in th... [3685 chars]",
-            "url": "https://www.foxnews.com/entertainment/sacha-baron-cohen-says-ali-g-who-iz-i-last-over-the-top-comedy-calling-them-too-risky",
-            "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/sacha-baron-cohen-suit.jpg",
-            "publishedAt": "2026-10-25T00:39:39Z",
+            "id": "197a34f7746c76ed870354b18169b6fb",
+            "title": "Anthropic’s Claude accessed restricted Georgia election figures without authorisation",
+            "description": "Anthropic says its Claude model obtained access to fee-restricted aggregate election data in Georgia without being instructed to do so. Although the company insists no voter registration records were accessed or altered, the incident has renewed scrutiny of autonomous AI systems, government data protections and corporate transparency ahead of the US midterm elections.",
+            "content": "An artificial intelligence system developed by Anthropic accessed a restricted dashboard containing aggregate election figures from the US state of Georgia without explicit human authorisation.\nThe incident involved information that Georgia makes ava... [4206 chars]",
+            "url": "https://www.firstpost.com/tech/anthropics-claude-accessed-restricted-georgia-election-figures-without-authorisation-14055264.html",
+            "image": "https://images.firstpost.com/uploads/2026/02/anthropic2-2026-02-f3c9093dc5647731393eba1b596d2dae.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-10-26T02:36:03Z",
             "lang": "en",
             "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "8e67abe8038086560406b505d2eec98d",
+            "title": "Tin Men Capital leads US$7.4M Series A for Vision AI startup Ailytics to expand across APAC, US and Gulf",
+            "description": "SINGAPORE, Oct. 26, 2026 /PRNewswire/ -- Ailytics, a vision AI startup that turns existing industrial CCTV into a real-time safety and operations layer, has raised US$7.4 million in a Series A led by Tin Men Capital. SEEDS, part of SG Growth Capital, Safie, Japan's largest cloud camera company, and one of Japan's largest construction companies joined family offices and existing investors.",
+            "content": "SINGAPORE, Oct. 26, 2026 /PRNewswire/ -- Ailytics, a vision AI startup that turns existing industrial CCTV into a real-time safety and operations layer, has raised US$7.4 million in a Series A led by Tin Men Capital. SEEDS, part of SG Growth Capital,... [1971 chars]",
+            "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/pr-newswire/tin-men-capital-leads-us74m-series-a-for-vision-ai-startup-ailytics-to-expand-across-apac-us-and-gulf/2453594",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/26/1275903.jpg",
+            "publishedAt": "2026-10-26T02:32:21Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "0cfb2e4db4918bfbf9ccab2c78f430ec",
+            "title": "fileAI Signs Strategic Collaboration Agreement with AWS to Accelerate Rollout of Outcome-Driven AI Agents for BFSI Leaders",
+            "description": "**media[1275896]**SINGAPORE, Oct. 26, 2026 /PRNewswire/ -- fileAI announced a strategic collaboration agreement (SCA) with Amazon Web Services, Inc. (AWS) to bring a new suite of AI agents to banking, financial services, and insurance (BFSI) leaders-built to complete critical operational workflows, not just assist with them. fileAI's data intelligence platform, fileForge, transforms enterprise files into trusted, governed intelligence for AI workflows, pairing repeatable skills with business context to carry complex business processes through to completion. Built on Amazon Bedrock and available through AWS Marketplace, it provides industry leaders across Asia and the US direct access to outcome-focused AI agents backed by AWS's security, scale, and infrastructure.",
+            "content": "SINGAPORE, Oct. 26, 2026 /PRNewswire/ -- fileAI announced a strategic collaboration agreement (SCA) with Amazon Web Services, Inc. (AWS) to bring a new suite of AI agents to banking, financial services, and insurance (BFSI) leaders-built to complete ... [3194 chars]",
+            "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/pr-newswire/fileai-signs-strategic-collaboration-agreement-with-aws-to-accelerate-rollout-of-outcome-driven-ai-agents-for-bfsi-leaders/2453591",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/26/1275895.jpg",
+            "publishedAt": "2026-10-26T02:32:18Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "14117c82dcf2f56971ee6f2007808518",
+            "title": "A Major Breakthrough in Smart Insurance Education: HK Insurance Hub Leverages AI Content Optimization to Demystify Protection for Hong Kong Citizens",
+            "description": "HONG KONG, Oct. 26, 2026 /PRNewswire/ -- With the vast array of insurance products available and their often lengthy, complex terms, many citizens feel overwhelmed when choosing coverage. To advance public insurance education in Hong Kong, local insurance information hub HK Insurance Hub today officially announced the launch of its AI Content Optimization Strategy. Utilizing big data and generative AI, the platform provides clear, transparent, and easy-to-understand insurance knowledge and coverage analysis for the public.",
+            "content": "HONG KONG, Oct. 26, 2026 /PRNewswire/ -- With the vast array of insurance products available and their often lengthy, complex terms, many citizens feel overwhelmed when choosing coverage. To advance public insurance education in Hong Kong, local insu... [2012 chars]",
+            "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/pr-newswire/a-major-breakthrough-in-smart-insurance-education-hk-insurance-hub-leverages-ai-content-optimization-to-demystify-protection-for-hong-kong-citizens/2453590",
+            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=75&f=webp&v=1",
+            "publishedAt": "2026-10-26T02:32:17Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "fa9fdc66346957095517fdb09fc7fedb",
+            "title": "Hands-On Learning: How NCERT’s AI module uses real-life examples, classroom activities to teach Classes 9 to 12",
+            "description": "Developed by NCERT with faculty members from IIT Madras and IIT Jodhpur, the 20-hour module assumes no prior knowledge of AI. | India News",
+            "content": "The National Council of Educational Research and Training’s (NCERT) introductory module on computational thinking (CT) and AI for Classes 9-12, released on October 23, uses such familiar situations to introduce the technology, before moving to how ma... [4469 chars]",
+            "url": "https://www.hindustantimes.com/india-news/handson-learning-how-ncert-s-ai-module-uses-real-life-examples-classroom-activities-to-teach-classes-9-to-12-101792981066677.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/26/1600x900/logo/Artificial_Intelligence_1740648561843_1792981653443_dJbi_ea24da85-6adf-426b-8ae0-450df0fce4ca_3YGC.jpg",
+            "publishedAt": "2026-10-26T02:31:34Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "970c6e10dda73a850d0324b08e6b5d19",
+            "title": "Asian shares cautious ahead of central bank meetings, AI earnings",
+            "description": "Japan's Nikkei dipped 0.8%, after losing 4.0% last week, while South Korea fell 0.4%, having shed almost 19% so far this month",
+            "content": "Share markets got off to a cautious start on Monday as oil eased from six-month highs ahead of a week packed with central bank meetings and company earnings that will further test investor confidence in the AI boom.\nBrent oil slipped 1.0% ​to $115.48... [3659 chars]",
+            "url": "https://www.business-standard.com/markets/news/asian-shares-cautious-ahead-of-central-bank-meetings-ai-earnings-126102600044_1.html",
+            "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/04/thumb/fitandfill/1200X628/1767499942-1329.jpg",
+            "publishedAt": "2026-10-26T02:30:15Z",
+            "lang": "en",
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "1c8ff0a78547b6b7f165c0a91d753f97",
+            "title": "US midterms issues: economy, AI and immigration",
+            "description": "US midterms 2026: economy, Iran war and immigration dominate voter concerns ahead of a record political ad spend. Read more at straitstimes.com.",
+            "content": "Ahead of the US midterm elections on Nov 3, national polls show that most Americans are deeply dissatisfied with the direction of the country.\nEconomic anxiety is at the fore of voters’ frustration. Many Americans say they are struggling to afford ba... [12481 chars]",
+            "url": "https://www.straitstimes.com/world/united-states/from-affordability-to-ai-the-issues-driving-the-us-midterms",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c8ff6e78178891c7cee771bdf2fd28d685dae4f02c8d893dee845d426fcf2f2e?w=1200",
+            "publishedAt": "2026-10-26T02:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "067b56a30826b17b2daf8a1b64a4f941",
+            "title": "What Course Platforms Should Creators Use in the AI Era?",
+            "description": "Months later, someone mentions the stretcher relay during a tense launch. The room relaxes, because everyone remembers the intern's shortcut.",
+            "content": "Trust between colleagues rarely forms in scheduled meetings. It grows when people tackle odd problems together. A shared laugh over a collapsed raft beats any memo. That explains why Actieve Teambuilding earns its place in strong workplace cultures. ... [3845 chars]",
+            "url": "https://techbullion.com/elevate-team-spirit-through-interactive-activities-that-unite-colleagues-beyond-work/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/09/Team_Spirit.webp",
+            "publishedAt": "2026-10-26T02:25:54Z",
+            "lang": "en",
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "53286dc9b6397f2d31f283f5c42ba9a1",
+            "title": "Brian Chesky Said Two Types Of People Will Not Survive The AI Era",
+            "description": "Airbnb CEO Brian Chesky has a clear vision of who gets left behind in the AI era, and it has nothing to do with job title and everything to do with mindset. \"The two types of people who will not make…",
+            "content": "Airbnb CEO Brian Chesky has a clear vision of who gets left behind in the AI era, and it has nothing to do with job title and everything to do with mindset.\n\"The two types of people who will not make the shift to AI are pure people managers, and peop... [939 chars]",
+            "url": "https://artvoice.com/brian-chesky-said-two-types-of-people-will-not-survive-the-ai-era",
+            "image": "https://artvoice.com/media/upload-bab9df8308cc90ea.webp",
+            "publishedAt": "2026-10-26T02:24:12Z",
+            "lang": "en",
+            "source": {
+                "id": "a9ab85692e72d8d743e923ed44be6b04",
+                "name": "Artvoice",
+                "url": "https://artvoice.com",
                 "country": "us"
             }
         },
         {
-            "id": "52884963c567ff5e9db92c807fcd5bb0",
-            "title": "History of negative political advertising in US",
-            "description": "Vivek Ramaswamy's attack ad against Amy Acton revives debate over negative campaigning. A look at its history, from the Daisy ad to AI and dirty tricks.",
-            "content": "The advertisement, produced by Republican candidate Vivek Ramaswamy’s campaign, features Donna Arthur, the estranged mother of his Democratic opponent, Amy Acton. Arthur calls her daughter “a liar” in the ad and suggests she has mental health problem... [9239 chars]",
-            "url": "https://indianexpress.com/article/explained/explained-global/vivek-ramaswamy-amy-acton-negative-political-ads-history-us-10935273/",
-            "image": "https://images.indianexpress.com/2026/10/acton-v-ramaswamy.jpg",
-            "publishedAt": "2026-10-25T00:31:56Z",
+            "id": "dd6730b70ec922069555728984ff4ce0",
+            "title": "SoftBank’s Son plans $50 billion Malaysia tech outlay, PM Anwar Ibrahim says",
+            "description": "A push in Malaysia would expand SoftBank’s reach in Southeast Asia, a region that is emerging as a key hub for AI infrastructure such as data centers.",
+            "content": "Masayoshi Son of SoftBank Group has tapped locations in Malaysia for $50 billion in technology investments, the country’s prime minister said, an outlay that would accelerate the billionaire’s global bet on AI infrastructure.\nPrime Minister Anwar Ibr... [2318 chars]",
+            "url": "https://www.japantimes.co.jp/business/2026/10/26/softbank-malaysia-data-center-investments/",
+            "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/26/570457.jpg?v=3.1",
+            "publishedAt": "2026-10-26T02:22:17Z",
             "lang": "en",
             "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "5ba2ad73174cba22aedba770ab05123e",
-            "title": "AI Chariots Need Charioteer Krishna",
-            "description": "Given the fact that society is a comity of communities which again are bundles of identical individuals who have isolated and unique ‘self,’ if AI has to shape societal behaviour, then AI models have to develop a free mind before it becomes an agentic AI with a freedom to Act",
-            "content": "The ageless and eternal photo frame of Bhagavad Gita with Lord Krishna as the charioteer reining the thoughts of Arjuna before the Mahabharat war is perfect backdrop for an ethical Artificial Intelligence (AI) framework. The power of human mind to be... [4281 chars]",
-            "url": "https://www.newindianexpress.com/magazine/2026/Oct/25/ai-chariots-need-charioteer-krishna",
-            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-10-22%2Fmg4f5b91%2F25-ANCHOR033337.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-10-25T00:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "3d68990a523f5c193e4d3a0ea075ec70",
-            "title": "The 1-Minute Market Report October 24, 2026",
-            "description": "S&P 500 slips as AI and Big Tech weaken, but most market indicators stay bullish.",
-            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of NVDA, AVGO, GOOGL either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensatio... [692 chars]",
-            "url": "https://seekingalpha.com/article/4957279-the-1-minute-market-report-october-24-2026",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-10-25T00:23:59Z",
-            "lang": "en",
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "e0d968c0be8552ed8d20f4a07613fc92",
-            "title": "Trump AI push faces voter backlash over data centers: CNBC survey",
-            "description": "President Donald Trump has cast America's artificial intelligence race with China as a national-security imperative, pushing faster development of the",
-            "content": "President Donald Trump has cast America’s artificial intelligence race with China as a national-security imperative, pushing faster development of the technology and an immense buildout of the data centers and power infrastructure needed to fuel it.\n... [4611 chars]",
-            "url": "https://www.europesays.com/3330078/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/10/1792886441.jpeg",
-            "publishedAt": "2026-10-25T00:00:37Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b37a25b9eea77db19a339c955cf4bd1f",
-            "title": "Chinese smartphone brands lose India market share as chip costs soar",
-            "description": "Chinese smartphone brands' market share in India decreased to 67-68% in the recent July-September quarter. This decline represents the lowest percentage seen in more than eight years. Companies like Vivo, Oppo, and Xiaomi are reducing their budget models due to high memory chip prices. Domestic brands such as Lava and Ai+ are gaining traction among price-sensitive consumers as a result.",
-            "content": "Synopsis\nChinese smartphone brands' market share in India decreased to 67-68% in the recent July-September quarter. This decline represents the lowest percentage seen in more than eight years. Companies like Vivo, Oppo, and Xiaomi are reducing their ... [3485 chars]",
-            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/chinese-smartphone-brands-india-market-share-memory-chip-costs-budget-phones/articleshow/135175298.cms",
-            "image": "https://img.etimg.com/thumb/msid-135175749,width-1200,height-900,imgsize-184808,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-10-25T00:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "d5015c090bbebd9e1d3ddd6a27573d5a",
-            "title": "‘Synthetic twin’: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone",
-            "description": "The Socceroos star stares at the camera as he strides through an enormous atrium, the sound of his football boots on polished concrete echoing around him.",
-            "content": "The Socceroos star stares at the camera as he strides through an enormous atrium, the sound of his football boots on polished concrete echoing around him. Suddenly, he spawns four digital clones that peel off out of view to re-emerge in different set... [7498 chars]",
-            "url": "https://www.europesays.com/3330076/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/10/1792886364.jpeg",
-            "publishedAt": "2026-10-24T23:59:21Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "1639b0b2ee8a925a126d402eca377e68",
-            "title": "Massive Rs 64,000 cr order books: 2 Indian stocks cashing in on AI’s hunger for fibre",
-            "description": "AI data centres are driving demand for high-density optical fibre as network speeds rise and GPU clusters expand. Two companies are seeing the impact, with quarterly profits surging 448% and rebounding to ₹517 crore.",
-            "content": "Fibre counts in switch racks have increased from around 500 in conventional cloud setups to 12,000 in 72-GPU server nodes. Future designs could require up to 16,000 fibres per rack, 32X more than the 500 required in conventional setups. For optical f... [11026 chars]",
-            "url": "https://www.financialexpress.com/market/stock-insights/massive-rs-64000-cr-order-books-2-indian-stocks-cashing-in-on-ais-hunger-for-fibre/4368816/",
-            "image": "https://images.financialexpressdigital.com/2026/10/aaaa2.jpg",
-            "publishedAt": "2026-10-24T23:35:00Z",
-            "lang": "en",
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "42b3d2cb465c035e7ced93b72dee7241",
-            "title": "“Use of AI in weaponry, weapon systems, and platforms is growing rapidly,” says Former Army Chief Naravane, launches 'Forever Young KSLF'",
-            "description": "Speaking to ANI at the 15th Khushwant Singh Literature Festival, Naravane said, \"The use of AI in weaponry, weapon systems, and platforms is growing rapidly. We must carefully consider the extent to which we should adopt these technologies and how much autonomy should be granted to AI.\"",
-            "content": "Kasauli (Himachal Pradesh) [India], October 25 (ANI): Former Indian Army Chief General Manoj Mukund Naravane said the use of artificial intelligence (AI) in weaponry, weapon systems and platforms is growing rapidly, stressing the need to carefully co... [5405 chars]",
-            "url": "https://www.aninews.in/news/national/general-news/8220use-of-ai-in-weaponry-weapon-systems-and-platforms-is-growing-rapidly8221-says-former-army-chief-naravane-launches-forever-young-kslf16020261025033000/",
-            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261024215902-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-10-24T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "d9b1204cb7eaf503369c891fc5e14989",
-            "title": "Quote of the day by Apple co-founder Steve Jobs on touchscreens: 'After an extended period of time, your arm wants to fall off' — savaging a bitter rival's PC pivot",
-            "description": "AI models are becoming more and more advanced, but that doesn't mean the underlying architecture will lead us to human-like intelligence",
-            "content": "The late Apple co-founder Steve Jobs had a reputation for being ahead of the curve. At the time, Microsoft was heavily pushing touchscreen computing in an attempt to innovate and embrace new possibilities when interfacing with machines; Jobs dug his ... [2723 chars]",
-            "url": "https://www.techradar.com/pro/quote-of-the-day-by-apple-co-founder-steve-jobs-on-touchscreens-after-an-extended-period-of-time-your-arm-wants-to-fall-off-savaging-a-bitter-rivals-pc-pivot",
-            "image": "https://cdn.mos.cms.futurecdn.net/4nAMyzFLjxHs7dm6LriiiY-2560-80.jpg",
-            "publishedAt": "2026-10-24T22:00:00Z",
-            "lang": "en",
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
             }
         }
     ]
