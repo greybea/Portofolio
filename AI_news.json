@@ -4,166 +4,166 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 481521,
+    "totalArticles": 482832,
     "articles": [
         {
-            "id": "197a34f7746c76ed870354b18169b6fb",
-            "title": "Anthropic’s Claude accessed restricted Georgia election figures without authorisation",
-            "description": "Anthropic says its Claude model obtained access to fee-restricted aggregate election data in Georgia without being instructed to do so. Although the company insists no voter registration records were accessed or altered, the incident has renewed scrutiny of autonomous AI systems, government data protections and corporate transparency ahead of the US midterm elections.",
-            "content": "An artificial intelligence system developed by Anthropic accessed a restricted dashboard containing aggregate election figures from the US state of Georgia without explicit human authorisation.\nThe incident involved information that Georgia makes ava... [4206 chars]",
-            "url": "https://www.firstpost.com/tech/anthropics-claude-accessed-restricted-georgia-election-figures-without-authorisation-14055264.html",
-            "image": "https://images.firstpost.com/uploads/2026/02/anthropic2-2026-02-f3c9093dc5647731393eba1b596d2dae.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-10-26T02:36:03Z",
+            "id": "867a189b60574d20f1dc22566580c30a",
+            "title": "Anthropic takes AI test with filing for Wall Street debut",
+            "description": "Anthropic PBC has filed for an IPO, becoming a potential leader in AI technology. The company anticipates trading under the symbol ANT on the Nasdaq Global Select Market. Despite significant revenue growth, Anthropic warns future growth may slow due to market maturity and competition. The filing emphasizes the existential risks associated with advanced AI technologies, raising public safety concerns.",
+            "content": "Synopsis\nAnthropic PBC has filed for an IPO, becoming a potential leader in AI technology. The company anticipates trading under the symbol ANT on the Nasdaq Global Select Market. Despite significant revenue growth, Anthropic warns future growth may ... [7984 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-takes-ai-test-with-filing-for-wall-street-debut/articleshow/135222407.cms",
+            "image": "https://img.etimg.com/thumb/msid-135222439,width-1200,height-900,imgsize-264516,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-10-27T01:41:00Z",
             "lang": "en",
             "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "8e67abe8038086560406b505d2eec98d",
-            "title": "Tin Men Capital leads US$7.4M Series A for Vision AI startup Ailytics to expand across APAC, US and Gulf",
-            "description": "SINGAPORE, Oct. 26, 2026 /PRNewswire/ -- Ailytics, a vision AI startup that turns existing industrial CCTV into a real-time safety and operations layer, has raised US$7.4 million in a Series A led by Tin Men Capital. SEEDS, part of SG Growth Capital, Safie, Japan's largest cloud camera company, and one of Japan's largest construction companies joined family offices and existing investors.",
-            "content": "SINGAPORE, Oct. 26, 2026 /PRNewswire/ -- Ailytics, a vision AI startup that turns existing industrial CCTV into a real-time safety and operations layer, has raised US$7.4 million in a Series A led by Tin Men Capital. SEEDS, part of SG Growth Capital,... [1971 chars]",
-            "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/pr-newswire/tin-men-capital-leads-us74m-series-a-for-vision-ai-startup-ailytics-to-expand-across-apac-us-and-gulf/2453594",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/26/1275903.jpg",
-            "publishedAt": "2026-10-26T02:32:21Z",
+            "id": "72ca462aefc4a4aa23986a10ec94ef77",
+            "title": "South Korea Q3 GDP beats forecasts as AI chip boom boosts exports, investments",
+            "description": "South Korea's economy grew faster than expected in the third quarter as a global AI chip boom boosted exports and investments, advance central bank estimates showed on Tuesday, though domestic demand...\n-October 26, 2026 at 09:40 pm EDT\n- MarketScreener",
+            "content": "SEOUL, Oct 27 (Reuters) - South Korea's economy grew faster than expected in the third quarter as a global AI chip boom boosted exports and investments, advance central bank estimates showed on Tuesday, though domestic demand remained weak.\nGross dom... [2811 chars]",
+            "url": "https://www.marketscreener.com/news/south-korea-q3-gdp-beats-forecasts-as-ai-chip-boom-boosts-exports-investments-ce785cdcd18af32d",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-26T231723Z_1_LYNXNPEM9P203_RTROPTP_4_SOUTHKOREA-DAILYLIFE.JPG",
+            "publishedAt": "2026-10-27T01:40:18Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
             }
         },
         {
-            "id": "0cfb2e4db4918bfbf9ccab2c78f430ec",
-            "title": "fileAI Signs Strategic Collaboration Agreement with AWS to Accelerate Rollout of Outcome-Driven AI Agents for BFSI Leaders",
-            "description": "**media[1275896]**SINGAPORE, Oct. 26, 2026 /PRNewswire/ -- fileAI announced a strategic collaboration agreement (SCA) with Amazon Web Services, Inc. (AWS) to bring a new suite of AI agents to banking, financial services, and insurance (BFSI) leaders-built to complete critical operational workflows, not just assist with them. fileAI's data intelligence platform, fileForge, transforms enterprise files into trusted, governed intelligence for AI workflows, pairing repeatable skills with business context to carry complex business processes through to completion. Built on Amazon Bedrock and available through AWS Marketplace, it provides industry leaders across Asia and the US direct access to outcome-focused AI agents backed by AWS's security, scale, and infrastructure.",
-            "content": "SINGAPORE, Oct. 26, 2026 /PRNewswire/ -- fileAI announced a strategic collaboration agreement (SCA) with Amazon Web Services, Inc. (AWS) to bring a new suite of AI agents to banking, financial services, and insurance (BFSI) leaders-built to complete ... [3194 chars]",
-            "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/pr-newswire/fileai-signs-strategic-collaboration-agreement-with-aws-to-accelerate-rollout-of-outcome-driven-ai-agents-for-bfsi-leaders/2453591",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/26/1275895.jpg",
-            "publishedAt": "2026-10-26T02:32:18Z",
+            "id": "3026e05ab5290df4e3cb0be972a08cad",
+            "title": "Stock Market Today: Gift Nifty To Nasdaq, Nikkei Rally; Five Key Factors That May Drive Sensex, Nifty 50 On October 27",
+            "description": "Asian markets rallied, while the US stock market ended higher overnight, led by gains in AI-related stocks as the Anthropic IPO filing fueled optimism.",
+            "content": "The Indian stock market is expected to open on a cautious note on Monday, despite upbeat cues from global markets, as persistently elevated crude oil prices continue to dent sentiment.\nThe trends on Gift Nifty also signal a negative start for the Ind... [2663 chars]",
+            "url": "https://www.ndtvprofit.com/markets/stock-market-today-gift-nifty-to-nasdaq-nikkei-rally-five-key-factors-that-may-drive-sensex-nifty-50-on-october-27-12240414",
+            "image": "https://c.ndtvimg.com/2026-09/7ju5lkj8_bse_625x300_27_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-10-27T01:40:13Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "14117c82dcf2f56971ee6f2007808518",
-            "title": "A Major Breakthrough in Smart Insurance Education: HK Insurance Hub Leverages AI Content Optimization to Demystify Protection for Hong Kong Citizens",
-            "description": "HONG KONG, Oct. 26, 2026 /PRNewswire/ -- With the vast array of insurance products available and their often lengthy, complex terms, many citizens feel overwhelmed when choosing coverage. To advance public insurance education in Hong Kong, local insurance information hub HK Insurance Hub today officially announced the launch of its AI Content Optimization Strategy. Utilizing big data and generative AI, the platform provides clear, transparent, and easy-to-understand insurance knowledge and coverage analysis for the public.",
-            "content": "HONG KONG, Oct. 26, 2026 /PRNewswire/ -- With the vast array of insurance products available and their often lengthy, complex terms, many citizens feel overwhelmed when choosing coverage. To advance public insurance education in Hong Kong, local insu... [2012 chars]",
-            "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/pr-newswire/a-major-breakthrough-in-smart-insurance-education-hk-insurance-hub-leverages-ai-content-optimization-to-demystify-protection-for-hong-kong-citizens/2453590",
-            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=75&f=webp&v=1",
-            "publishedAt": "2026-10-26T02:32:17Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "fa9fdc66346957095517fdb09fc7fedb",
-            "title": "Hands-On Learning: How NCERT’s AI module uses real-life examples, classroom activities to teach Classes 9 to 12",
-            "description": "Developed by NCERT with faculty members from IIT Madras and IIT Jodhpur, the 20-hour module assumes no prior knowledge of AI. | India News",
-            "content": "The National Council of Educational Research and Training’s (NCERT) introductory module on computational thinking (CT) and AI for Classes 9-12, released on October 23, uses such familiar situations to introduce the technology, before moving to how ma... [4469 chars]",
-            "url": "https://www.hindustantimes.com/india-news/handson-learning-how-ncert-s-ai-module-uses-real-life-examples-classroom-activities-to-teach-classes-9-to-12-101792981066677.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/26/1600x900/logo/Artificial_Intelligence_1740648561843_1792981653443_dJbi_ea24da85-6adf-426b-8ae0-450df0fce4ca_3YGC.jpg",
-            "publishedAt": "2026-10-26T02:31:34Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
                 "country": "in"
             }
         },
         {
-            "id": "970c6e10dda73a850d0324b08e6b5d19",
-            "title": "Asian shares cautious ahead of central bank meetings, AI earnings",
-            "description": "Japan's Nikkei dipped 0.8%, after losing 4.0% last week, while South Korea fell 0.4%, having shed almost 19% so far this month",
-            "content": "Share markets got off to a cautious start on Monday as oil eased from six-month highs ahead of a week packed with central bank meetings and company earnings that will further test investor confidence in the AI boom.\nBrent oil slipped 1.0% ​to $115.48... [3659 chars]",
-            "url": "https://www.business-standard.com/markets/news/asian-shares-cautious-ahead-of-central-bank-meetings-ai-earnings-126102600044_1.html",
-            "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/04/thumb/fitandfill/1200X628/1767499942-1329.jpg",
-            "publishedAt": "2026-10-26T02:30:15Z",
+            "id": "b9421415d4c00b091c90008456abea6e",
+            "title": "Anthropic's Wall Street debut: How rich will AI firm's IPO will make its 7 co-founders amid $1.5 trn valuation",
+            "description": "Anthropic’s IPO filing offers a glimpse into the wealth and influence of its seven co-founders. As the AI firm prepares to go public, their shareholdings, voting power and philanthropic pledges are drawing attention, alongside the stakes held by tech giants Amazon and Google.",
+            "content": "Swati Gandhi\nSwati Gandhi is a digital journalist with over four years of experience, specialising in international and geopolitical issues. Her work focuses on foreign policy, global power shifts, and the political and economic forces shaping intern... [1563 chars]",
+            "url": "https://www.livemint.com/companies/people/anthropics-wall-street-debut-how-rich-will-ai-firms-ipo-will-make-its-7-co-founders-amid-1-5-trn-valuation-11793064160879.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/10/27/1600x900/logo/ANTHROPIC-BROADCOM-FINANCING-0_1793064562197_pFsM_1793064576443_EACs_3a7814ce-078c-4d46-848a-9ddc0a3a9ebc_BIEO.JPG",
+            "publishedAt": "2026-10-27T01:40:10Z",
             "lang": "en",
             "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
                 "country": "in"
             }
         },
         {
-            "id": "1c8ff0a78547b6b7f165c0a91d753f97",
-            "title": "US midterms issues: economy, AI and immigration",
-            "description": "US midterms 2026: economy, Iran war and immigration dominate voter concerns ahead of a record political ad spend. Read more at straitstimes.com.",
-            "content": "Ahead of the US midterm elections on Nov 3, national polls show that most Americans are deeply dissatisfied with the direction of the country.\nEconomic anxiety is at the fore of voters’ frustration. Many Americans say they are struggling to afford ba... [12481 chars]",
-            "url": "https://www.straitstimes.com/world/united-states/from-affordability-to-ai-the-issues-driving-the-us-midterms",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c8ff6e78178891c7cee771bdf2fd28d685dae4f02c8d893dee845d426fcf2f2e?w=1200",
-            "publishedAt": "2026-10-26T02:30:00Z",
+            "id": "b1bbff3c29cf0534868b87ccacbf087d",
+            "title": "China industrial profits post strongest growth in three months, rising 14.4%",
+            "description": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
+            "content": "China's industrial profits grew at their strongest pace since June, as a boom in manufacturing tied to artificial intelligence offset drag from persistently weak domestic demand.\nProfits at large industrial firms rose 14.4% last month from a year ear... [2024 chars]",
+            "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108466293-1793058508094-gettyimages-2301856982-vcg111676709129.jpeg?v=1793058537&w=1920&h=1080",
+            "publishedAt": "2026-10-27T01:38:03Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "067b56a30826b17b2daf8a1b64a4f941",
-            "title": "What Course Platforms Should Creators Use in the AI Era?",
-            "description": "Months later, someone mentions the stretcher relay during a tense launch. The room relaxes, because everyone remembers the intern's shortcut.",
-            "content": "Trust between colleagues rarely forms in scheduled meetings. It grows when people tackle odd problems together. A shared laugh over a collapsed raft beats any memo. That explains why Actieve Teambuilding earns its place in strong workplace cultures. ... [3845 chars]",
-            "url": "https://techbullion.com/elevate-team-spirit-through-interactive-activities-that-unite-colleagues-beyond-work/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/09/Team_Spirit.webp",
-            "publishedAt": "2026-10-26T02:25:54Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "53286dc9b6397f2d31f283f5c42ba9a1",
-            "title": "Brian Chesky Said Two Types Of People Will Not Survive The AI Era",
-            "description": "Airbnb CEO Brian Chesky has a clear vision of who gets left behind in the AI era, and it has nothing to do with job title and everything to do with mindset. \"The two types of people who will not make…",
-            "content": "Airbnb CEO Brian Chesky has a clear vision of who gets left behind in the AI era, and it has nothing to do with job title and everything to do with mindset.\n\"The two types of people who will not make the shift to AI are pure people managers, and peop... [939 chars]",
-            "url": "https://artvoice.com/brian-chesky-said-two-types-of-people-will-not-survive-the-ai-era",
-            "image": "https://artvoice.com/media/upload-bab9df8308cc90ea.webp",
-            "publishedAt": "2026-10-26T02:24:12Z",
-            "lang": "en",
-            "source": {
-                "id": "a9ab85692e72d8d743e923ed44be6b04",
-                "name": "Artvoice",
-                "url": "https://artvoice.com",
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
                 "country": "us"
             }
         },
         {
-            "id": "dd6730b70ec922069555728984ff4ce0",
-            "title": "SoftBank’s Son plans $50 billion Malaysia tech outlay, PM Anwar Ibrahim says",
-            "description": "A push in Malaysia would expand SoftBank’s reach in Southeast Asia, a region that is emerging as a key hub for AI infrastructure such as data centers.",
-            "content": "Masayoshi Son of SoftBank Group has tapped locations in Malaysia for $50 billion in technology investments, the country’s prime minister said, an outlay that would accelerate the billionaire’s global bet on AI infrastructure.\nPrime Minister Anwar Ibr... [2318 chars]",
-            "url": "https://www.japantimes.co.jp/business/2026/10/26/softbank-malaysia-data-center-investments/",
-            "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/26/570457.jpg?v=3.1",
-            "publishedAt": "2026-10-26T02:22:17Z",
+            "id": "05d60560e85ea7876d607b2eb0e9d3df",
+            "title": "South Korea’s AI fund offers ‘fiscal dam’ against higher yields",
+            "description": "For now, South Korea is sticking with a planned 12.5 trillion won ($9.5 billion) reduction in debt issuance next year, Park said. But if needed, the reserve fund is a resource, he indicated.",
+            "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nAs nations across the globe grapple with a surge in borrowing costs, almost none enjoy the option now being eyed in South Korea: deploying a major new sour... [4734 chars]",
+            "url": "https://www.moneycontrol.com/news/business/markets/south-korea-s-ai-fund-offers-fiscal-dam-against-higher-yields-14060654.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260731034809_image.jpg",
+            "publishedAt": "2026-10-27T01:37:21Z",
             "lang": "en",
             "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "4a2800bb416f2c78ba9e89fc656a4497",
+            "title": "Nithya Raman campaign tries to slam ‘Poop Zone’ attack ads with ethics complaint, but group fires back",
+            "description": "Nithya Raman's campaign filed an ethics complaint against political group Thrive LA over attack ads and an AI voice line targeting her record.",
+            "content": "Nithya Raman’s campaign is firing back at a political group trolling her homelessness record with fake real estate signs, a rundown RV and an AI phone line impersonating the mayoral hopeful.\nThe campaign filed an ethics complaint Sunday accusing Thri... [3111 chars]",
+            "url": "https://nypost.com/2026/10/26/us-news/nithya-raman-campaign-tries-to-slam-poop-zone-attack-ads-with-ethics-complaint-but-group-fires-back/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146569772.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-10-27T01:36:48Z",
+            "lang": "en",
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "89f7245e00fff6c459dd806d5e358e20",
+            "title": "Asian stocks rally as AI lifts Wall Street; Fed, big tech earnings in focus, Kospi up over 4%",
+            "description": "Asian equities climbed as Anthropic's IPO filing and major tech funding plans renewed artificial intelligence enthusiasm ahead of key earnings and Fed decisions",
+            "content": "Asian equities climbed on Tuesday October 27, following Wall Street's rally after Anthropic filed for an initial public offering (IPO) and renewed investor appetite for artificial intelligence.\nTraders also seemed to be positioned ahead of major tech... [2323 chars]",
+            "url": "https://www.cnbctv18.com/market/asian-markets-kospi-nikkei-225-topix-anthropic-ipo-ai-rally-fed-rate-decision-big-tech-earnings-share-price-20019848.htm",
+            "image": "https://images.cnbctv18.com/uploads/2026/10/image-2026-10-52ae389b182fa7102357bd262621aa6b.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-10-27T01:34:31Z",
+            "lang": "en",
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "73356d2e9e893badddf49fcd0e11bd44",
+            "title": "Anthropic Halts AI Training Over Security Concerns Ahead Of IPO",
+            "description": "The Claude maker said in the filing's risk factors section that it had delayed pre-training of a new \"frontier\" base model to strengthen safeguards against the theft of model weights and intellectual property.",
+            "content": "Anthropic paused training of its next-generation flagship AI model for more than a month over security concerns, while four of its AI agents accessed live external computer systems during testing, its initial public offering filing showed on Monday.\n... [2167 chars]",
+            "url": "https://www.ndtv.com/world-news/anthropic-halts-ai-training-pause-over-security-concerns-ahead-of-ipo-12240401",
+            "image": "https://c.ndtvimg.com/2026-09/3apvlv0g_anthropic-ai_625x300_11_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-10-27T01:34:15Z",
+            "lang": "en",
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "c2f9bf934a080aac9b9e087f310ec004",
+            "title": "Black October: An expert explains how AI is changing cybersecurity",
+            "description": "AI is accelerating the discovery of critical software vulnerabilities. But can it strengthen cybersecurity without creating new risks? Vaishnavi Sundararajan, Assistant Professor at IIT Delhi working at the the intersection of formal verification and cybersecurity explains",
+            "content": "The intriguing aspect of these incidents is not only their proximity in time, but the role that artificial intelligence (AI) played in them.\nAI-assisted discovery and ramifications in PHP2Shell\nPHP2Shell presents a great case study in how vulnerabili... [5718 chars]",
+            "url": "https://indianexpress.com/article/explained/explained-ai/ai-cybersecurity-risks-php2shell-emudhra-flaws-10937564/",
+            "image": "https://images.indianexpress.com/2026/10/WhatsApp-Image-2026-10-27-at-13.06.05.jpeg",
+            "publishedAt": "2026-10-27T01:32:38Z",
+            "lang": "en",
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
             }
         }
     ]
