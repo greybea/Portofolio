@@ -4,64 +4,32 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 482832,
+    "totalArticles": 484223,
     "articles": [
         {
-            "id": "867a189b60574d20f1dc22566580c30a",
-            "title": "Anthropic takes AI test with filing for Wall Street debut",
-            "description": "Anthropic PBC has filed for an IPO, becoming a potential leader in AI technology. The company anticipates trading under the symbol ANT on the Nasdaq Global Select Market. Despite significant revenue growth, Anthropic warns future growth may slow due to market maturity and competition. The filing emphasizes the existential risks associated with advanced AI technologies, raising public safety concerns.",
-            "content": "Synopsis\nAnthropic PBC has filed for an IPO, becoming a potential leader in AI technology. The company anticipates trading under the symbol ANT on the Nasdaq Global Select Market. Despite significant revenue growth, Anthropic warns future growth may ... [7984 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-takes-ai-test-with-filing-for-wall-street-debut/articleshow/135222407.cms",
-            "image": "https://img.etimg.com/thumb/msid-135222439,width-1200,height-900,imgsize-264516,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-10-27T01:41:00Z",
+            "id": "99cc75e61baaf51807ff614f6b30a021",
+            "title": "Claude Code and your Google TV: Vibe coding, and a new lease of life",
+            "description": "The biggest AI conversations, decoded. 28 October 2026. | Business News",
+            "content": "Our special edition Neural Dispatch conversation this week, will be particularly interesting for anyone who is fed up with their Google TV being frustratingly sluggish, serving ads on the Home Screen and carrying a bunch of apps that you don’t need. ... [5608 chars]",
+            "url": "https://www.hindustantimes.com/business/claude-code-and-your-google-tv-vibe-coding-and-a-new-lease-of-life-101793083497752.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/10/27/1600x900/logo/photo1_1793085567872_jTtj_1793085578464_3JyU_cf1c3808-2309-48f8-9ee9-387a7ce19c1b_p1WB.jpeg",
+            "publishedAt": "2026-10-28T02:30:43Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "72ca462aefc4a4aa23986a10ec94ef77",
-            "title": "South Korea Q3 GDP beats forecasts as AI chip boom boosts exports, investments",
-            "description": "South Korea's economy grew faster than expected in the third quarter as a global AI chip boom boosted exports and investments, advance central bank estimates showed on Tuesday, though domestic demand...\n-October 26, 2026 at 09:40 pm EDT\n- MarketScreener",
-            "content": "SEOUL, Oct 27 (Reuters) - South Korea's economy grew faster than expected in the third quarter as a global AI chip boom boosted exports and investments, advance central bank estimates showed on Tuesday, though domestic demand remained weak.\nGross dom... [2811 chars]",
-            "url": "https://www.marketscreener.com/news/south-korea-q3-gdp-beats-forecasts-as-ai-chip-boom-boosts-exports-investments-ce785cdcd18af32d",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-26T231723Z_1_LYNXNPEM9P203_RTROPTP_4_SOUTHKOREA-DAILYLIFE.JPG",
-            "publishedAt": "2026-10-27T01:40:18Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "3026e05ab5290df4e3cb0be972a08cad",
-            "title": "Stock Market Today: Gift Nifty To Nasdaq, Nikkei Rally; Five Key Factors That May Drive Sensex, Nifty 50 On October 27",
-            "description": "Asian markets rallied, while the US stock market ended higher overnight, led by gains in AI-related stocks as the Anthropic IPO filing fueled optimism.",
-            "content": "The Indian stock market is expected to open on a cautious note on Monday, despite upbeat cues from global markets, as persistently elevated crude oil prices continue to dent sentiment.\nThe trends on Gift Nifty also signal a negative start for the Ind... [2663 chars]",
-            "url": "https://www.ndtvprofit.com/markets/stock-market-today-gift-nifty-to-nasdaq-nikkei-rally-five-key-factors-that-may-drive-sensex-nifty-50-on-october-27-12240414",
-            "image": "https://c.ndtvimg.com/2026-09/7ju5lkj8_bse_625x300_27_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-10-27T01:40:13Z",
-            "lang": "en",
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "b9421415d4c00b091c90008456abea6e",
-            "title": "Anthropic's Wall Street debut: How rich will AI firm's IPO will make its 7 co-founders amid $1.5 trn valuation",
-            "description": "Anthropic’s IPO filing offers a glimpse into the wealth and influence of its seven co-founders. As the AI firm prepares to go public, their shareholdings, voting power and philanthropic pledges are drawing attention, alongside the stakes held by tech giants Amazon and Google.",
-            "content": "Swati Gandhi\nSwati Gandhi is a digital journalist with over four years of experience, specialising in international and geopolitical issues. Her work focuses on foreign policy, global power shifts, and the political and economic forces shaping intern... [1563 chars]",
-            "url": "https://www.livemint.com/companies/people/anthropics-wall-street-debut-how-rich-will-ai-firms-ipo-will-make-its-7-co-founders-amid-1-5-trn-valuation-11793064160879.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/10/27/1600x900/logo/ANTHROPIC-BROADCOM-FINANCING-0_1793064562197_pFsM_1793064576443_EACs_3a7814ce-078c-4d46-848a-9ddc0a3a9ebc_BIEO.JPG",
-            "publishedAt": "2026-10-27T01:40:10Z",
+            "id": "c7e8e6e7bd922f5b29eb7f9236989520",
+            "title": "Anthropic diversifies AI chips, OpenAI turns to Google: Can Nvidia lose its dominance? What investors need to know",
+            "description": "Anthropic is spreading its AI computing across Amazon, Google, Nvidia and AMD chips, potentially reducing reliance on Nvidia and strengthening its negotiating position.",
+            "content": "Sanchari Ghosh\nSanchari Ghosh is an Assistant Editor at Mint with over 12 years of experience in journalism, specialising in personal finance, DLT & DeFi, geopolitics and foreign policy, with a particular emphasis on how these areas intersect. She wr... [2029 chars]",
+            "url": "https://www.livemint.com/companies/news/anthropic-diversifies-ai-chips-openai-turns-to-google-can-nvidia-lose-its-dominance-what-investors-need-to-know-11793148904527.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/10/28/1600x900/logo/chip_1793154479169_5Frx_1793154479381_rrmI_baf8f6ba-b449-4f3a-ba3e-538c79cb55a3_xKI5.png",
+            "publishedAt": "2026-10-28T02:30:19Z",
             "lang": "en",
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -71,77 +39,45 @@
             }
         },
         {
-            "id": "b1bbff3c29cf0534868b87ccacbf087d",
-            "title": "China industrial profits post strongest growth in three months, rising 14.4%",
-            "description": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
-            "content": "China's industrial profits grew at their strongest pace since June, as a boom in manufacturing tied to artificial intelligence offset drag from persistently weak domestic demand.\nProfits at large industrial firms rose 14.4% last month from a year ear... [2024 chars]",
-            "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108466293-1793058508094-gettyimages-2301856982-vcg111676709129.jpeg?v=1793058537&w=1920&h=1080",
-            "publishedAt": "2026-10-27T01:38:03Z",
+            "id": "b510afa047cb9829f7fc3e994d49605a",
+            "title": "Apple Creator Studio Gets New AI Features: Subscription Price In India, What's New",
+            "description": "Apple has unveiled enhanced AI features and creative tools for its Apple Creator Studio, which includes updates for video editing, music production, and productivity apps., Technology & Science, Times Now",
+            "content": "Apple has announced new AI features and creative tools for Apple Creator Studio, its subscription service for video editing, music production, image editing and productivity apps. The update brings new features to Final Cut Pro, Logic Pro, Pixelmator... [2212 chars]",
+            "url": "https://www.timesnownews.com/technology-science/apple-creator-studio-gets-new-ai-features-subscription-price-in-india-whats-new-article-156418483",
+            "image": "https://images.timesnownews.com/thumb/msid-156418484,thumbsize-260528,width-1280,height-720,resizemode-75/156418484.jpg",
+            "publishedAt": "2026-10-28T02:30:00Z",
             "lang": "en",
             "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "05d60560e85ea7876d607b2eb0e9d3df",
-            "title": "South Korea’s AI fund offers ‘fiscal dam’ against higher yields",
-            "description": "For now, South Korea is sticking with a planned 12.5 trillion won ($9.5 billion) reduction in debt issuance next year, Park said. But if needed, the reserve fund is a resource, he indicated.",
-            "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nAs nations across the globe grapple with a surge in borrowing costs, almost none enjoy the option now being eyed in South Korea: deploying a major new sour... [4734 chars]",
-            "url": "https://www.moneycontrol.com/news/business/markets/south-korea-s-ai-fund-offers-fiscal-dam-against-higher-yields-14060654.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260731034809_image.jpg",
-            "publishedAt": "2026-10-27T01:37:21Z",
-            "lang": "en",
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
                 "country": "in"
             }
         },
         {
-            "id": "4a2800bb416f2c78ba9e89fc656a4497",
-            "title": "Nithya Raman campaign tries to slam ‘Poop Zone’ attack ads with ethics complaint, but group fires back",
-            "description": "Nithya Raman's campaign filed an ethics complaint against political group Thrive LA over attack ads and an AI voice line targeting her record.",
-            "content": "Nithya Raman’s campaign is firing back at a political group trolling her homelessness record with fake real estate signs, a rundown RV and an AI phone line impersonating the mayoral hopeful.\nThe campaign filed an ethics complaint Sunday accusing Thri... [3111 chars]",
-            "url": "https://nypost.com/2026/10/26/us-news/nithya-raman-campaign-tries-to-slam-poop-zone-attack-ads-with-ethics-complaint-but-group-fires-back/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146569772.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-10-27T01:36:48Z",
+            "id": "449b9fe547cb195f2000d9879c3dfbb9",
+            "title": "OpenAI plans to buy Google chips for AI build-out",
+            "description": "OpenAI plans to buy Google chips as it expands AI infrastructure and challenges Nvidia’s dominance in computing power. Read more at straitstimes.com.",
+            "content": "SAN FRANCISCO - OpenAI intends to buy artificial intelligence computing chips from Alphabet’s Google, according to a person familiar with the matter, part of broader efforts by the ChatGPT maker to build out its AI infrastructure.\nFinal terms of any ... [1416 chars]",
+            "url": "https://www.straitstimes.com/world/united-states/openai-plans-to-buy-googles-chips-as-part-of-its-ai-build-out",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9fd935ed643e5e8f586f92e05f4ff4f2f944fb115846c8c8c8f52f07ca2f644e?w=1200",
+            "publishedAt": "2026-10-28T02:28:00Z",
             "lang": "en",
             "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
             }
         },
         {
-            "id": "89f7245e00fff6c459dd806d5e358e20",
-            "title": "Asian stocks rally as AI lifts Wall Street; Fed, big tech earnings in focus, Kospi up over 4%",
-            "description": "Asian equities climbed as Anthropic's IPO filing and major tech funding plans renewed artificial intelligence enthusiasm ahead of key earnings and Fed decisions",
-            "content": "Asian equities climbed on Tuesday October 27, following Wall Street's rally after Anthropic filed for an initial public offering (IPO) and renewed investor appetite for artificial intelligence.\nTraders also seemed to be positioned ahead of major tech... [2323 chars]",
-            "url": "https://www.cnbctv18.com/market/asian-markets-kospi-nikkei-225-topix-anthropic-ipo-ai-rally-fed-rate-decision-big-tech-earnings-share-price-20019848.htm",
-            "image": "https://images.cnbctv18.com/uploads/2026/10/image-2026-10-52ae389b182fa7102357bd262621aa6b.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-10-27T01:34:31Z",
-            "lang": "en",
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "73356d2e9e893badddf49fcd0e11bd44",
-            "title": "Anthropic Halts AI Training Over Security Concerns Ahead Of IPO",
-            "description": "The Claude maker said in the filing's risk factors section that it had delayed pre-training of a new \"frontier\" base model to strengthen safeguards against the theft of model weights and intellectual property.",
-            "content": "Anthropic paused training of its next-generation flagship AI model for more than a month over security concerns, while four of its AI agents accessed live external computer systems during testing, its initial public offering filing showed on Monday.\n... [2167 chars]",
-            "url": "https://www.ndtv.com/world-news/anthropic-halts-ai-training-pause-over-security-concerns-ahead-of-ipo-12240401",
-            "image": "https://c.ndtvimg.com/2026-09/3apvlv0g_anthropic-ai_625x300_11_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-10-27T01:34:15Z",
+            "id": "bb033e6dce87486307313bf50e77ac21",
+            "title": "Russia-Linked AI Videos Target Midterms Candidates, Spread Disinformation",
+            "description": "The social media company X has taken down the initial posts that shared the videos and suspended the users for violating the platform's rules.",
+            "content": "Washington:\nSocial media videos believed to be produced with artificial intelligence and linked to Russia are misusing real people's names and photographs to spread disinformation about two Democratic Senate candidates in the final stretch of midterm... [3158 chars]",
+            "url": "https://www.ndtv.com/world-news/russia-linked-ai-videos-target-midterms-candidates-spread-disinformation-12246077",
+            "image": "https://c.ndtvimg.com/2026-10/oc7ig75k_us-midterms-polls-afp_625x300_28_October_26.jpeg",
+            "publishedAt": "2026-10-28T02:26:15Z",
             "lang": "en",
             "source": {
                 "id": "7daf04fa6272ed0a29583b211dcfe1d4",
@@ -151,19 +87,83 @@
             }
         },
         {
-            "id": "c2f9bf934a080aac9b9e087f310ec004",
-            "title": "Black October: An expert explains how AI is changing cybersecurity",
-            "description": "AI is accelerating the discovery of critical software vulnerabilities. But can it strengthen cybersecurity without creating new risks? Vaishnavi Sundararajan, Assistant Professor at IIT Delhi working at the the intersection of formal verification and cybersecurity explains",
-            "content": "The intriguing aspect of these incidents is not only their proximity in time, but the role that artificial intelligence (AI) played in them.\nAI-assisted discovery and ramifications in PHP2Shell\nPHP2Shell presents a great case study in how vulnerabili... [5718 chars]",
-            "url": "https://indianexpress.com/article/explained/explained-ai/ai-cybersecurity-risks-php2shell-emudhra-flaws-10937564/",
-            "image": "https://images.indianexpress.com/2026/10/WhatsApp-Image-2026-10-27-at-13.06.05.jpeg",
-            "publishedAt": "2026-10-27T01:32:38Z",
+            "id": "a8d270b8f8006dbed2f786d019f41cd2",
+            "title": "Asian Stocks Gain as AI Optimism Returns",
+            "description": "By Megan Cheah\nAsian equities gained Wednesday, buoyed by stronger sentiment from investors turning more sanguine about major artificial-intelligence names as the earnings season gets underway....",
+            "content": "By Megan Cheah\nAsian equities gained Wednesday, buoyed by stronger sentiment from investors turning more sanguine about major artificial-intelligence names as the earnings season gets underway.\nA revival of AI-related enthusiasm appeared to boost U.S... [2805 chars]",
+            "url": "https://www.marketscreener.com/news/asian-stocks-gain-as-ai-optimism-returns-ce785cd2d98bf225",
+            "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2026-10-28T02:23:23Z",
             "lang": "en",
             "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "bad1cef6f8743eb9bc6ef0f4c8c0d0a9",
+            "title": "Nithya Raman Faces Tough Battle in LA Mayor Race: AI Impersonation, DSA Rift, and Caruso's Snub",
+            "description": "Nithya Raman Faces Tough Battle in LA Mayor Race: AI Impersonation, DSA Rift, and Caruso's Snub - Indian American Los Angeles mayoral candidate Nithya Raman is navigating a challenging final week in her bid against Mayor ... Get Latest News on International only on lokmattimes.com",
+            "content": "Indian American Los Angeles mayoral candidate Nithya Raman is navigating a challenging final week in her bid against Mayor Karen Bass. She faces a three-pronged battle: a significant disagreement with national socialist leaders over Israel, a promine... [2069 chars]",
+            "url": "https://www.lokmattimes.com/international/nithya-raman-faces-tough-battle-in-la-mayor-race-ai-impersonation-dsa-rift-and-carusos-snub-a001-w02/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202610283994128_202610.jpg",
+            "publishedAt": "2026-10-28T02:21:50Z",
+            "lang": "en",
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
                 "country": "in"
+            }
+        },
+        {
+            "id": "b73e2467b2e38f73dd57e439cba87a8c",
+            "title": "Amazon updates AI usage rules for engineers, sends memo: We are seeing the beginning of AI’s effect on software engineering",
+            "description": "Amazon engineering leaders have updated the role guidelines for Software Development Engineers (SDEs) to reflect that real-world results matter a lot more",
+            "content": "Amazon engineering leaders have updated the role guidelines for Software Development Engineers (SDEs) to reflect that real-world results matter a lot more than specific tools. A company memo by Terk Terkowitz, vice president and distinguished enginee... [10586 chars]",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-updates-ai-usage-rules-for-engineers-sends-memo-we-are-seeing-the-beginning-of-ais-effect-on-software-engineering/articleshow/135249517.cms",
+            "image": "https://static.toiimg.com/thumb/msid-135249530,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-10-28T02:21:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "850088a43a2371b8e1f766d00ea41ace",
+            "title": "OpenAI turns to Google’s AI chips amid race to challenge Nvidia",
+            "description": "OpenAI plans to buy AI chips from Google as it expands computing capacity, according to a person familiar with the discussions. The potential purchase complements plans to use in-house chips later this year and reflects efforts across the industry to develop alternatives to Nvidia processors.",
+            "content": "OpenAI intends to buy artificial intelligence computing chips from Alphabet Inc.’s Google, according to a person familiar with the matter, part of broader efforts by the ChatGPT maker to build out its AI infrastructure.\nFinal terms of any deal aren’t... [1413 chars]",
+            "url": "https://www.livemint.com/companies/news/openai-turns-to-google-s-ai-chips-amid-race-to-challenge-nvidia-11793152095673.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/10/28/1600x900/logo/chip_1793153758668_liLB_1793153773970_tDZQ_492a8699-b0a2-424b-8bed-a829977e8e3d_LGlt.jpg",
+            "publishedAt": "2026-10-28T02:17:21Z",
+            "lang": "en",
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "98f8bfef9049b9afc8a92d0ffbad6f57",
+            "title": "Anthropic’s record IPO faces some big questions",
+            "description": "In five years, Anthropic has become an AI giant valued at US$1 trillion (S$1.3 trillion). Read more at straitstimes.com.",
+            "content": "SAN FRANCISCO - No start-up has ever grown so fast. In five years, Anthropic has become an AI giant valued at US$1 trillion (S$1.3 trillion), and it is now aiming for a record-breaking stock market debut.\nBut it faces three threats: rivals that are c... [3929 chars]",
+            "url": "https://www.straitstimes.com/business/anthropics-record-ipo-faces-some-big-questions",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9418ac4b1e2c806d6de0e2a84368557f86448bf039f11a5ce31d50455ca6026b?w=1200",
+            "publishedAt": "2026-10-28T02:17:09Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
             }
         }
     ]
