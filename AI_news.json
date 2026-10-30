@@ -4,32 +4,80 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 485455,
+    "totalArticles": 486680,
     "articles": [
         {
-            "id": "9f782db8217ccf419906e07d90103045",
-            "title": "Cash is king as investors draw new battle lines in AI spending boom",
-            "description": "Oct 29 (Reuters) - Cash flow ⁠is king again.",
-            "content": "Oct 29 (Reuters) - Cash flow ⁠is king again.\nWall Street rewarded Microsoft and Oracle on Wednesday for showing that they could fund their enormous AI ambitions without endlessly tapping investors.\nAlphabet, by ⁠contrast, was punished for burning thr... [4086 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/10/29/cash-is-king-as-investors-draw-new-battle-lines-in-ai-spending-boom",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/10/29/4185838.jpg",
-            "publishedAt": "2026-10-29T02:42:00Z",
+            "id": "63508dfe8ca0803718228d93b28d9057",
+            "title": "eCloudvalley Renews Strategic Collaboration Agreement with Amazon Web Services and Repositions as a Leader in Product-Led Enterprise AI Transformation Across Asia-Pacific",
+            "description": "SINGAPORE, Oct. 30, 2026 /PRNewswire/ -- eCloudvalley (ECV), an Amazon Web Services (AWS) Premier Tier Services Partner, today announced the renewal of its multi-year Strategic Collaboration Agreement (SCA) with AWS. This marks the second SCA between the two companies, following the first agreement signed in 2023. As ECV drives growth across four key pillars, AI & ML, Cloud Migration, Managed Services, and Security, Enterprise AI serves as the center of the engine.",
+            "content": "SINGAPORE, Oct. 30, 2026 /PRNewswire/ -- eCloudvalley (ECV), an Amazon Web Services (AWS) Premier Tier Services Partner, today announced the renewal of its multi-year Strategic Collaboration Agreement (SCA) with AWS. This marks the second SCA between... [4442 chars]",
+            "url": "https://www.manilatimes.net/2026/10/30/tmt-newswire/pr-newswire/ecloudvalley-renews-strategic-collaboration-agreement-with-amazon-web-services-and-repositions-as-a-leader-in-product-led-enterprise-ai-transformation-across-asia-pacific/2457956",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/30/1284363.jpg",
+            "publishedAt": "2026-10-30T02:36:06Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "de78cc238da2b688cb790ccf7b71adc0",
-            "title": "Karwa Chauth 2026 AI Photo Prompts: From traditional Karwa Chauth look to newlywed Karwa Chauth portrait, Here are 8 prompts to try using ChatGPT and Gemini",
-            "description": "Karwa Chauth AI Prompts: Karwa Chauth stands as a significant festival reflecting the love and dedication of married couples. This festive occasion can be enhanced through various AI prompts that help create customized artwork. Users are invited to upload their photos for unique portrait creation using AI tools. The article provides comprehensive guidance on using platforms like ChatGPT and Google Gemini, ensuring users can make the most of their festive image creations.",
-            "content": "Synopsis\nKarwa Chauth AI Prompts: Karwa Chauth stands as a significant festival reflecting the love and dedication of married couples. This festive occasion can be enhanced through various AI prompts that help create customized artwork. Users are inv... [8187 chars]",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/karwa-chauth-2026-ai-photo-prompts-from-traditional-karwa-chauth-look-to-newlywed-karwa-chauth-portrait-here-are-8-prompts-to-try-using-chatgpt-and-gemini/articleshow/135286811.cms",
-            "image": "https://img.etimg.com/thumb/msid-135287059,width-1200,height-900,imgsize-120564,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-10-29T02:38:00Z",
+            "id": "d4dfcbfab8a84d15b969255a1ccc0b1e",
+            "title": "Master Concept Partners with Supermetrics to Bring Marketing Intelligence into Enterprise AI",
+            "description": "From Insight to Action: The partnership helps businesses connect fragmented marketing data with analytics and AI, including Gemini Enterprise, to drive faster, data-informed decisions and actions.",
+            "content": "From Insight to Action: The partnership helps businesses connect fragmented marketing data with analytics and AI, including Gemini Enterprise, to drive faster, data-informed decisions and actions.\nHONG KONG, Oct. 30, 2026 /PRNewswire/ -- Master Conce... [2508 chars]",
+            "url": "https://www.manilatimes.net/2026/10/30/tmt-newswire/pr-newswire/master-concept-partners-with-supermetrics-to-bring-marketing-intelligence-into-enterprise-ai/2457948",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/30/1284349.jpg",
+            "publishedAt": "2026-10-30T02:35:59Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "4eb02f213e9b2f31232eb05f0ee1971d",
+            "title": "Asian trading is mixed as worries about AI-related issues grow",
+            "description": "Asians trading is mixed as worries about the future of artificial intelligence grew after Alphabet’s stock drop dragged on U.S. markets.",
+            "content": "TOKYO – Asians shares were trading mixed early Friday, as worries about the future of artificial intelligence grew after Alphabet's stock drop dragged on U.S. markets.\nJapan's benchmark Nikkei 225 dropped 2.6% to 62,960.60. The Bank of Japan is closi... [1967 chars]",
+            "url": "https://www.clickondetroit.com/business/2026/10/30/asian-trading-is-mixed-as-worries-about-ai-related-issues-grow/",
+            "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/2LE4EV6W7VHQRKA3M4YMSFX2XM.jpg?api_key=clickondetroit_06f87fefb2123598",
+            "publishedAt": "2026-10-30T02:34:50Z",
+            "lang": "en",
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "6d1e9401af23ad30ea88ffbe50c73a6b",
+            "title": "Unlimit Founder Invests $45M in Phase Blockchain Ahead of Mainnet Launch",
+            "description": "Phase, a new blockchain focused on “smartphone-native” AI infrastructure, has secured a $45 million funding commitment from Kirill Eves, founder of",
+            "content": "Phase, a new blockchain focused on “smartphone-native” AI infrastructure, has secured a $45 million funding commitment from Kirill Eves, founder of Unlimit. The project says the money is earmarked for its first two years of development and would exte... [4801 chars]",
+            "url": "https://www.cryptobreaking.com/unlimit-founder-invests-45m-in/",
+            "image": "https://www.cryptobreaking.com/wp-content/uploads/2026/10/Unlimit-Founder-Invests-45M-in-Phase-Blockchain-Ahead-of-Mainnet.jpg",
+            "publishedAt": "2026-10-30T02:34:22Z",
+            "lang": "en",
+            "source": {
+                "id": "03f4f74aaa0a44ccbb846a1630123293",
+                "name": "Crypto Breaking News",
+                "url": "https://www.cryptobreaking.com",
+                "country": "ae"
+            }
+        },
+        {
+            "id": "8177c21402eae53c051347b0c28d7461",
+            "title": "Want to build wealth, invest smarter, and secure your financial future? Discover ET Wealth Expo 2026",
+            "description": "The ET Wealth Expo 2026 scheduled for October 30 and 31 in Mumbai, brings together financial enthusiasts to delve into wealth-building, protection, and growth strategies across various asset classes. The expo will feature keynote addresses and panel discussions on financial independence, legal asset protection, and how artificial intelligence is reshaping wealth-generation strategies.",
+            "content": "Synopsis\nThe ET Wealth Expo 2026 scheduled for October 30 and 31 in Mumbai, brings together financial enthusiasts to delve into wealth-building, protection, and growth strategies across various asset classes. The expo will feature keynote addresses a... [2809 chars]",
+            "url": "https://economictimes.indiatimes.com/wealth/want-to-build-wealth-invest-smarter-and-secure-your-financial-future-discover-et-wealth-expo-2026/articleshow/135339734.cms",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-98998,resizemode-75,msid-135339734/wealth/want-to-build-wealth-invest-smarter-and-secure-your-financial-future-discover-et-wealth-expo-2026.jpg",
+            "publishedAt": "2026-10-30T02:34:05Z",
             "lang": "en",
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -39,131 +87,83 @@
             }
         },
         {
-            "id": "a5b823d7c78ef5fae20da632f10422a1",
-            "title": "Carvana expects full-year 2026 adjusted EBITDA in the higher end of $2.7B-$3.0B range as it targets 3M units and 13.5% margin",
-            "description": "Carvana Q3 2026 earnings: record sales, $8B revenue, rising EBITDA outlook, and AI-driven margin goals.",
-            "content": "Carvana expects full-year 2026 adjusted EBITDA in the higher end of $2.7B-$3.0B range as it targets 3M units and 13.5% margin\nOct 28, 2026, 10:32 PM ETCarvana Co. (CVNA) StockAI-Generated Earnings Calls Insights\nSeeking Alpha's Disclaimer: This artic... [582 chars]",
-            "url": "https://seekingalpha.com/news/4659817-carvana-expects-full-year-2026-adjusted-ebitda-in-the-higher-end-of-2_7b-3_0b-range-as-it",
-            "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-            "publishedAt": "2026-10-29T02:32:09Z",
+            "id": "f69f2d92b458349ff2d00b4b06adc7e8",
+            "title": "Asian Trading Is Mixed as Worries About AI-Related Issues Grow",
+            "description": "TOKYO (AP) — Asians shares were trading mixed early Friday, as worries about the future of artificial intelligence grew after Alphabet's stock drop dragged on U.S. markets.",
+            "content": "TOKYO (AP) — Asians shares were trading mixed early Friday, as worries about the future of artificial intelligence grew after Alphabet's stock drop dragged on U.S. markets.\nJapan's benchmark Nikkei 225 dropped 2.6% to 62,960.60. The Bank of Japan is ... [2172 chars]",
+            "url": "https://www.usnews.com/news/business/articles/2026-10-29/asian-trading-is-mixed-as-worries-about-ai-related-issues-grow",
+            "image": "https://www.usnews.com/dims4/USNEWS/6bf0455/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fe8%2F96cc6bd3c2e15321e0b37608539e47%2F37f3214811e140e69eb0e6052a37c975Financial_Markets_Wall_Street_51135.jpg",
+            "publishedAt": "2026-10-30T02:34:00Z",
             "lang": "en",
             "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
                 "country": "us"
             }
         },
         {
-            "id": "3661a8b13a353a41cddb3d661193b6e3",
-            "title": "Cash is king as investors draw new battle lines in AI spending boom",
-            "description": "Cash flow is king again.\nWall Street rewarded Microsoft and Oracle on Wednesday for showing that they could fund their enormous AI ambitions without endlessly tapping investors.\n...",
-            "content": "Oct 29 (Reuters) - Cash flow is king again.\nWall Street rewarded Microsoft and Oracle on Wednesday for showing that they could fund their enormous AI ambitions without endlessly tapping investors.\nAlphabet, by contrast, was punished for burning throu... [4108 chars]",
-            "url": "https://www.marketscreener.com/news/cash-is-king-as-investors-draw-new-battle-lines-in-ai-spending-boom-ce785cd3da8ff222",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-09T202013Z_1_LYNXNPEL8810E_RTROPTP_4_ORACLE-RESULTS.JPG",
-            "publishedAt": "2026-10-29T02:31:42Z",
+            "id": "b99c1ee5c97b733442059619148af631",
+            "title": "hour early warningOpenAI upgrades AI safety monitoring after Hugging face incident, claims 30",
+            "description": "OpenAI has expanded its monitoring infrastructure to track potentially misaligned behaviour across model training, evaluations and internal tools. The company says its upgraded system could have detected the activity behind the Hugging Face security breach more than 30 hours before the actual attack, giving responders time to intervene.",
+            "content": "OpenAI is tightening surveillance of its most capable AI models after a security incident involving its internal agents exposed gaps in how potentially dangerous behaviour was detected. The company says its revised monitoring system would have raised... [6042 chars]",
+            "url": "https://www.firstpost.com/tech/openai-upgrades-ai-safety-monitoring-after-hugging-face-incident-claims-30-hour-early-warning-14056440.html",
+            "image": "https://images.firstpost.com/uploads/2026/10/OpenAI-logo-Reuters-2026-10-27d317b76b4eeebee133b471cbda4fde-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-10-30T02:31:51Z",
             "lang": "en",
             "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "62e42bcec7feaa7932d991ea9fff3ed3",
-            "title": "Taroko Sports and Gimmatek Unveil SWING X AI Swing Analysis System",
-            "description": "**media[1282294]** 11 units deployed across Taiwan and the United States as Taroko launches baseball technology validation program",
-            "content": "11 units deployed across Taiwan and the United States as Taroko launches baseball technology validation program\nTAIPEI, Oct. 28, 2026 /PRNewswire/ -- Taroko Sports and Gimmatek today unveiled the SWING X swing analysis system at a launch event and me... [2560 chars]",
-            "url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/taroko-sports-and-gimmatek-unveil-swing-x-ai-swing-analysis-system/2456823",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/29/1282290.jpg",
-            "publishedAt": "2026-10-29T02:30:15Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "f854ab367de6db565fc5b598fd1d7946",
-            "title": "Tata Communications to Build India's AI Super Highway",
-            "description": "Planned USD 400 - 450 million investment to create 10,000 km of AI-ready connectivity infrastructure linking India's key data center and AI hubs",
-            "content": "Planned USD 400 - 450 million investment to create 10,000 km of AI-ready connectivity infrastructure linking India's key data center and AI hubs\nNEW DELHI, Oct. 29, 2026 /PRNewswire/ -- Tata Communications, a leading global communications technology ... [3179 chars]",
-            "url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/tata-communications-to-build-indias-ai-super-highway/2456820",
-            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=75&f=webp&v=1",
-            "publishedAt": "2026-10-29T02:30:12Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "a1c92533b48b0056f870b0e01613efb9",
-            "title": "HFE & AI 2026: TÜV Rheinland Advocates Human Factors Research Across Full Product Development Cycle",
-            "description": "Independent human factors evidence should shape design from day one - not just confirm it at the end.",
-            "content": "Independent human factors evidence should shape design from day one - not just confirm it at the end.\nBEIJING, Oct. 28, 2026 /PRNewswire/ -- On October 17, 2026, TÜV Rheinland Greater China (\"TÜV Rheinland\") attended the 2026 International Conference... [5021 chars]",
-            "url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/hfe-ai-2026-tuv-rheinland-advocates-human-factors-research-across-full-product-development-cycle/2456818",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/29/1282280.jpg",
-            "publishedAt": "2026-10-29T02:30:11Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "7e414cc0d7c33c6c6733e60af997fc69",
-            "title": "Palantir’s defense chief sees China threat to Taiwan over AI",
-            "description": "Palantir defense chief Mike Gallagher has said Taiwan’s importance to AI development has made the island more compelling for Beijing to control.",
-            "content": "Palantir Technologies’ head of defense Mike Gallagher is warning that advances in artificial intelligence capabilities have made it more compelling for Chinese leader Xi Jinping to seize control of Taiwan, a chipmaking hub that has helped fuel the gl... [687 chars]",
-            "url": "https://www.japantimes.co.jp/news/2026/10/29/asia-pacific/politics/palantir-defense-china-taiwan-ai/",
-            "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/29/571104.jpg?v=3.1",
-            "publishedAt": "2026-10-29T02:29:56Z",
-            "lang": "en",
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            }
-        },
-        {
-            "id": "8d9a6efb566c30b0b835101051d90373",
-            "title": "Google unveils Gemini 4 Carbon with top AI benchmark score, expands focus on cybersecurity",
-            "description": "Google has unveiled Gemini 4 Carbon, its latest artificial intelligence model, which ranks first on the Artificial Analysis Intelligence Index with a score of 59 and shows improved capabilities in detecting software vulnerabilities, exploiting them for testing and developing fixes.",
-            "content": "New Delhi [India], October 29 (ANI): Google has unveiled Gemini 4 Carbon, its latest artificial intelligence (AI) model, which ranks first on the Artificial Analysis Intelligence Index with a score of 59 and shows improved capabilities in detecting s... [2638 chars]",
-            "url": "https://www.tribuneindia.com/news/business/google-unveils-gemini-4-carbon-with-top-ai-benchmark-score-expands-focus-on-cybersecurity/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTUxNGVlYTUwLWQzNDAtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
-            "publishedAt": "2026-10-29T02:27:35Z",
-            "lang": "en",
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
                 "country": "in"
             }
         },
         {
-            "id": "36e43937c705c55eff95085458ff0279",
-            "title": "Google unveils Gemini 4 Carbon with top AI benchmark score, expands focus on cybersecurity",
-            "description": "Google has unveiled Gemini 4 Carbon, its latest artificial intelligence model, which ranks first on the Artificial Analysis Intelligence Index with a score of 59 and shows improved capabilities in detecting software vulnerabilities, exploiting them for testing and developing fixes.",
-            "content": "New Delhi [India], October 29 (ANI): Google has unveiled Gemini 4 Carbon, its latest artificial intelligence (AI) model, which ranks first on the Artificial Analysis Intelligence Index with a score of 59 and shows improved capabilities in detecting s... [1142 chars]",
-            "url": "https://www.aninews.in/news/business/google-unveils-gemini-4-carbon-with-top-ai-benchmark-score-expands-focus-on-cybersecurity20261029075428/",
-            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261029022411-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-10-29T02:24:28Z",
+            "id": "cee18d2275e95d7c82f34fe8f7d66f4c",
+            "title": "Cognizant cuts Project Leap cost estimate to $180-250 million; headcount rises",
+            "description": "Cognizant trims Project Leap costs to $180–$250M as headcount rises; AI-assisted coding exceeds 50% with 95k+ frontier AI certifications.",
+            "content": "Cognizant Technology Solutions has lowered its estimated costs for Project Leap, a restructuring programme that includes employee severance, even as its total headcount rose by 10,100 over the past year.\nThe company had previously estimated Project L... [2826 chars]",
+            "url": "https://www.thehindu.com/business/Industry/cognizant-cuts-project-leap-cost-estimate-to-180250-million-headcount-rises/article71642235.ece",
+            "image": "https://th-i.thgim.com/public/incoming/ouodwh/article71643431.ece/alternates/LANDSCAPE_1200/2026-04-29T083013Z_2024669479_RC2P56A6JMYZ_RTRMADP_3_ASTREYA-M-A-COGNIZANT-TECH.JPG",
+            "publishedAt": "2026-10-30T02:30:48Z",
             "lang": "en",
             "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
                 "country": "in"
+            }
+        },
+        {
+            "id": "ab099d9f3a506d31f7cfbc6e249fbea0",
+            "title": "AI can help experts tell a real Rembrandt from a fake",
+            "description": "AI helps experts distinguish Rembrandt originals from fakes with an explainable framework achieving up to 95.8% accuracy in attribution.",
+            "content": "Stashed away in an attic in Maine, US, a painting titled ‘Portrait of a Girl’ was discovered two years ago; it sold for $1.41 million because of its uncanny resemblance to the 17th century Dutch master painter Rembrandt’s oeuvre. Soon, the lingering ... [266 chars]",
+            "url": "https://www.thehindu.com/sci-tech/science/ai-can-help-experts-tell-a-real-rembrandt-from-a-fake/article71638995.ece",
+            "image": "https://th-i.thgim.com/public/incoming/fp52a0/article71638991.ece/alternates/LANDSCAPE_1200/istockphoto-1397060828-612x612.jpg",
+            "publishedAt": "2026-10-30T02:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "425b6f842636919194090f38297b3f7a",
+            "title": "Fayetteville School Board members review potential updated AI policy at October board meeting",
+            "description": "FAYETTEVILLE -- The School Board will be asked to review the district's new artificial intelligence policy at its November meeting.",
+            "content": "FAYETTEVILLE -- The School Board will be asked to review the district's new artificial intelligence policy at its November meeting.\nBoard members had their first opportunity to review the policy on Thursday and hear about how it could change before f... [4775 chars]",
+            "url": "https://www.arkansasonline.com/news/2026/oct/29/fayetteville-school-board-members-review/",
+            "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213964643_Fayetteville-School-Administration-building_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+            "publishedAt": "2026-10-30T02:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "69a24b80e5bce5a07f808f5ea84c434b",
+                "name": "Arkansas Online",
+                "url": "https://www.arkansasonline.com",
+                "country": "us"
             }
         }
     ]
