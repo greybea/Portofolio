@@ -1,169 +1,169 @@
 {
     "information": {
         "realTimeArticles": {
-            "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 488670,
+    "totalArticles": 489629,
     "articles": [
         {
-            "id": "cfd60b2c1f6e65c5cee7d07ffe554a55",
-            "title": "AI scanners still learning to identify goods accurately, says Deputy Transport Minister",
-            "description": "KUALA LUMPUR: Artificial intelligence (AI)-powered scanners at the country's main entry points are not yet fully effective in identifying goods accurately due to insufficient data, says Datuk Hasbi Habibollah.",
-            "content": "KUALA LUMPUR: Artificial intelligence (AI)-powered scanners at the country's main entry points are not yet fully effective in identifying goods accurately due to insufficient data, says Datuk Hasbi Habibollah.\nThe Deputy Transport Minister said the s... [2859 chars]",
-            "url": "https://www.thestar.com.my/news/nation/2026/11/02/ai-scanners-still-learning-to-identify-goods-accurately-says-deputy-transport-minister",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/11/02/4192533.JPG",
-            "publishedAt": "2026-11-02T05:29:00Z",
+            "id": "36719bfa3896332cb6c0703462b19743",
+            "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+            "description": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+            "content": "Google has launched its experimental AI app Dreambeans in India, its first market outside the U.S., as the company looks to tap the world’s second-largest internet market to bring personalized visual stories drawn from users’ digital activity to a br... [4099 chars]",
+            "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
+            "publishedAt": "2026-11-03T03:30:00Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "4c5976d56bc5c6bab5b779f7daa58c02",
-            "title": "AISSMS IOIT hosts AI Summit 2026 in Pune; 54 student projects showcased across emerging technology domains",
-            "description": "The Department of Artificial Intelligence and Data Science (AI&DS) at AISSMS Institute of Information Technology (IOIT), Pune, successfully organised the",
-            "content": "AISSMS IOIT Successfully Organises AI Summit 2026\nThe Department of Artificial Intelligence and Data Science (AI&DS) at AISSMS Institute of Information Technology (IOIT), Pune, successfully organised the two-day AI Summit 2026 on October 27 and 28. T... [2196 chars]",
-            "url": "https://timesofindia.indiatimes.com/education/news/aissms-ioit-hosts-ai-summit-2026-in-pune-54-student-projects-showcased-across-emerging-technology-domains/articleshow/135446509.cms",
-            "image": "https://static.toiimg.com/thumb/msid-135446544,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-11-02T05:23:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "7e02eeb8135c9b69e212e8298ba4a5fe",
-            "title": "E2E, ESDS Software, Black Box, among other AI shares decline as Nasdaq falls up to 3%",
-            "description": "The sharp decline in US technology stocks has weighed on Indian firms linked to the AI infrastructure theme.",
-            "content": "Shares of E2E Networks, ESDS Software Solutions and other artificial intelligence (AI)-related companies fell up to 5 percent on Monday, tracking a sharp sell-off in US technology stocks after the Nasdaq Composite plunged 3 percent in the previous se... [2459 chars]",
-            "url": "https://www.moneycontrol.com/news/business/markets/nasdaq-crashes-3-e2e-networks-esds-software-other-ai-related-shares-fall-up-to-5-14066011.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261025045018_sensex_nifty_sensexdown.jpg",
-            "publishedAt": "2026-11-02T05:18:34Z",
-            "lang": "en",
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "edfc9a26d102ac2ba8fb80b1fa7fac46",
-            "title": "KRAFTON Launches K-Pop AI Chat Service Kiff in South Korea",
-            "description": "KRAFTON, Inc. launched the domestic service of its K-pop AI character chat service Kiff at 2:00 PM on the 2nd. The service is available for users aged 14 and older and is provided in Korean on iOS and Android apps.",
-            "content": "KRAFTON, Inc. launched the domestic service of its K-pop AI character chat service Kiff at 2:00 PM on the 2nd. The service is available for users aged 14 and older and is provided in Korean on iOS and Android apps.\nDeveloped and operated by KRAFTON, ... [1603 chars]",
-            "url": "https://www.invenglobal.com/articles/28033/krafton-launches-k-pop-ai-chat-service-kiff-in-south-korea",
-            "image": "https://static.invenglobal.com/upload/image/2026/11/02/i1793596749976330.jpeg",
-            "publishedAt": "2026-11-02T05:17:51Z",
-            "lang": "en",
-            "source": {
-                "id": "e8d7ea30b7c7cf50d2b88be83a09a0fa",
-                "name": "InvenGlobal",
-                "url": "https://www.invenglobal.com",
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
                 "country": "us"
             }
         },
         {
-            "id": "0349965342c92b90453b9aff15640b2a",
-            "title": "Incheon Int'l Airport uses AI to predict baggage system failures",
-            "description": "Incheon International Airport, Korea’s main international gateway, has begun using artificial intelligence (AI) to spot signs of trouble in its bag...",
-            "content": "Incheon International Airport, Korea’s main international gateway, has begun using artificial intelligence (AI) to spot signs of trouble in its baggage handling system (BHS) before equipment breaks down, its operator said Monday.\nIncheon Internationa... [1617 chars]",
-            "url": "https://www.koreatimes.co.kr/business/20261102/incheon-intl-airport-uses-ai-to-predict-baggage-system-failures",
-            "image": "https://newsimg.koreatimes.co.kr/2026/11/02/bba7cd52-ae56-403f-ac50-c12820eff1a6.jpg",
-            "publishedAt": "2026-11-02T05:16:03Z",
+            "id": "9a32585e595c3fc46b77e2b513d46945",
+            "title": "Chiranjeevi-Ram Charan Meet Home Minister Amit Shah To Address Misuse Of AI And Deepfake",
+            "description": "Ram Charan also shared pictures from the meet-up and said the government assured them of implementing strict action against the wrong-doers.",
+            "content": "On Monday (November 2), Telugu superstar Chiranjeevi and his actor-son Ram Charan met the Home Minister Amit Shah to share their deep concerns about the misuse of AI and deepfake technologies, posing a threat to artists' dignity and rights. The Union... [2090 chars]",
+            "url": "https://www.ndtv.com/entertainment/chiranjeevi-ram-charan-meet-home-minister-amit-shah-to-address-misuse-of-ai-and-deepfake-12274326",
+            "image": "https://c.ndtvimg.com/2026-11/9pedntoo_ff_625x300_03_November_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-11-03T03:29:21Z",
             "lang": "en",
             "source": {
-                "id": "9f2e79f0f9194d0d88f0074def064e60",
-                "name": "The Korea Times",
-                "url": "https://www.koreatimes.co.kr",
-                "country": "kr"
-            }
-        },
-        {
-            "id": "78a2e7bf7d6f7c9a1eef8510867fd7f4",
-            "title": "AI may be the world’s new food insurance",
-            "description": "For years, AI learned our tastes and optimised our screens. But the real economy doesn't run on recommendations.",
-            "content": "For years, AI learned our tastes and optimised our screens. But the real economy doesn't run on recommendations. It runs on cold chains that hold through the night, on crops that don't fail quietly, on ships that reach port before a contract expires.... [1020 chars]",
-            "url": "https://timesofindia.indiatimes.com/technology/times-techies/ai-may-be-the-worlds-new-food-insurance/articleshow/135446330.cms",
-            "image": "https://static.toiimg.com/thumb/msid-135446350,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-11-02T05:16:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
                 "country": "in"
             }
         },
         {
-            "id": "b552c9f85686f1538b5118267a2598e8",
-            "title": "SOOP adds English co-streams and AI subtitles for Worlds 2026",
-            "description": "South Korean streaming platform SOOP has announced expanded coverage of the 2026 League of Legends World Championship (Worlds 2026), with an official English-language co-streamer, AI-powered real-time",
-            "content": "South Korean streaming platform SOOP has announced expanded coverage of the 2026 League of Legends World Championship (Worlds 2026), with an official English-language co-streamer, AI-powered real-time subtitles, daytime replays for Asia-Pacific (APAC... [2054 chars]",
-            "url": "https://www.invenglobal.com/articles/28030/soop-adds-english-co-streams-and-ai-subtitles-for-worlds-2026",
-            "image": "https://static.invenglobal.com/upload/image/2026/11/02/i1793596496513389.png",
-            "publishedAt": "2026-11-02T05:14:59Z",
+            "id": "249436dc8f90d8fa0f814d2d2e8bf39b",
+            "title": "Enterprise architecture: Dell and Microsoft power AI at scale",
+            "description": "How can software and cloud giant Microsoft Corp. translate its platform vision into fully deployed enterprise architecture in the age of AI?",
+            "content": "How can software and cloud giant Microsoft Corp. translate its platform vision into fully deployed enterprise architecture in the age of AI?\nThis central question has defined the next chapter in a decades-long partnership between Microsoft and Dell T... [9032 chars]",
+            "url": "https://www.europesays.com/3349332/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/11/1793676437.jpeg",
+            "publishedAt": "2026-11-03T03:27:15Z",
             "lang": "en",
             "source": {
-                "id": "e8d7ea30b7c7cf50d2b88be83a09a0fa",
-                "name": "InvenGlobal",
-                "url": "https://www.invenglobal.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "02f4839bde5edb9e7950cfba427c0adb",
-            "title": "19,000 drivers caught by new AI cameras as drivers ignore the rules",
-            "description": "Police chiefs were left stunned by the behaviour of motorists",
-            "content": "Police chiefs were left stunned by the behaviour of motorists\nThousands of drivers were caught ignoring important safety rules by new AI cameras.\nThe advanced cameras were being used in Birmingham and Wolverhampton as part of a new trial.\nAnd it allo... [2434 chars]",
-            "url": "https://www.birminghammail.co.uk/news/midlands-news/19000-drivers-caught-new-ai-34834045",
-            "image": "https://i2-prod.birminghammail.co.uk/article33822287.ece/ALTERNATES/s1200d/0_traffic.jpg",
-            "publishedAt": "2026-11-02T05:14:00Z",
+            "id": "9fff26b093f98c835e79089fa7c94107",
+            "title": "Apple Says Even Higher Memory Prices and Siri AI Push Will Weigh On Profits",
+            "description": "In his first earnings call as CEO, John Ternus warned of worsening memory prices.",
+            "content": "Apple just reported its fourth quarter earnings, with revenue exceeding market expectations at $114.48 billion. But the good news was quickly overshadowed by the executives’ expectations for a rough go in the next quarter.\nApple executives shared in ... [3447 chars]",
+            "url": "https://gizmodo.com/apple-says-even-higher-memory-prices-and-siri-ai-push-will-weigh-on-profits-2000834048",
+            "image": "https://gizmodo.com/app/uploads/2026/11/john-ternus-1200x675.jpg",
+            "publishedAt": "2026-11-03T03:25:14Z",
             "lang": "en",
             "source": {
-                "id": "cc0de8416f75329df7c88d7524745d12",
-                "name": "Birmingham Live",
-                "url": "https://www.birminghammail.co.uk",
-                "country": "gb"
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
             }
         },
         {
-            "id": "152724bb8d8f3de80bc7c2f11a1a2057",
-            "title": "Adnoc signs agreement with OpenAI and G42 to deploy Frontier AI",
-            "description": "Abu Dhabi energy company will become the first in the sector to adopt the technology",
-            "content": "Adnoc has signed an agreement with OpenAI and G42 to become the first energy company to deploy OpenAI’s Frontier technology, as it seeks to expand AI use across its operations.\nSheikh Khaled bin Mohamed, Crown Prince of Abu Dhabi and Chairman of the ... [1997 chars]",
-            "url": "https://www.thenationalnews.com/business/energy/2026/11/02/adnoc-signs-agreement-with-openai-and-g42-to-deploy-frontier-ai/",
-            "image": "https://www.thenationalnews.com/resizer/v2/AZE6U6CQM5F6VEVS5WBUNGDFFI.jpg?auth=a8656fd8b591aa93b4c504249224e64f9818d4b8db407c743ad36e215c1d35ba&smart=true&width=1200&height=630",
-            "publishedAt": "2026-11-02T05:12:32Z",
+            "id": "67ea4c6470f4323f594394bb6e994286",
+            "title": "Pimco CEO warns AI financing is on path to become ‘too much’",
+            "description": "Pacific Investment Management Co CEO Emmanuel Roman warns AI financing could reach $10 trillion in five years, risking a future market downturn.",
+            "content": "Artificial intelligence-related financing could grow to about $10 trillion over the next five years, eventually reaching excessive levels, said Emmanuel Roman, chief executive officer of Pacific Investment Management Co.\nRoman estimated that about $2... [1273 chars]",
+            "url": "https://www.cnbctv18.com/market/pimco-ceo-warns-ai-financing-is-on-path-to-become-too-much-20025522.htm",
+            "image": "https://images.cnbctv18.com/uploads/2026/10/equity-markets-09oct-2026-10-888ed79a67604f79d869f3843ebec54b.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-11-03T03:19:40Z",
             "lang": "en",
             "source": {
-                "id": "075fbabce69f64ecf3c8f28c83fdd6e0",
-                "name": "The National",
-                "url": "https://www.thenationalnews.com",
-                "country": "ae"
-            }
-        },
-        {
-            "id": "ae32749d225320fcf41d65adcae5f871",
-            "title": "AI is making young engineers forget to think",
-            "description": "Mausam is worried.",
-            "content": "Concerns arise at IIT Delhi as Mausam highlights the over-reliance on AI among students for their project work, pointing out a troubling lack of fundamental understanding. TCS's Harrick Vin notes an evolution in workplace dynamics, where humans and m... [5560 chars]",
-            "url": "https://timesofindia.indiatimes.com/technology/times-techies/ai-is-making-young-engineers-forget-to-think/articleshow/135446153.cms",
-            "image": "https://static.toiimg.com/thumb/msid-135446201,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-11-02T05:12:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
                 "country": "in"
+            }
+        },
+        {
+            "id": "e473115ef56db51ec4e5a88818e157ae",
+            "title": "The Risks State and Local Elections Pose for Wall Street and the AI Trade",
+            "description": "Investors are watching races in key states for pushback against the AI infrastructure build-out. | World News",
+            "content": "On Monday, the investment bank Jefferies hosted a client call focused solely on key political races in Texas and how they might affect investors. Roughly a quarter of U.S. data-center capacity projected to come online by 2030 is in the Lone Star stat... [4976 chars]",
+            "url": "https://www.hindustantimes.com/world-news/the-risks-state-and-local-elections-pose-for-wall-street-and-the-ai-trade-101793675495280.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/im-24921120_1793675499387_nLCF_1793675783673_0zVj_88cd3b49-cdd7-486b-ac1f-cbfcf5037e73_Fx5Y.jpg",
+            "publishedAt": "2026-11-03T03:16:28Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "90ec84de3f5806e2e2e4237ec07efc41",
+            "title": "The Risks State and Local Elections Pose for Wall Street and the AI Trade",
+            "description": "Investors are watching races in key states for pushback against the AI infrastructure build-out. | World News",
+            "content": "On Monday, the investment bank Jefferies hosted a client call focused solely on key political races in Texas and how they might affect investors. Roughly a quarter of U.S. data-center capacity projected to come online by 2030 is in the Lone Star stat... [4976 chars]",
+            "url": "https://www.hindustantimes.com/world-news/the-risks-state-and-local-elections-pose-for-wall-street-and-the-ai-trade-101793675527689.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/im-24921120_1793675532282_vyC1_1793675557532_S5tx_547bfa40-8437-4f11-ac0e-b7c47b8736ac_bZfU.jpg",
+            "publishedAt": "2026-11-03T03:12:44Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "4490d62cc9b7fc00f1a989303ab36e4e",
+            "title": "People Are Using AI for Divorce Advice and It’s Driving Their Lawyers Crazy",
+            "description": "Feed one side of a family fight into a chatbot and you might get the legal answer you want to see, but it won’t necessarily fly with the judge.",
+            "content": "Some revisions went so deep into the weeds, Benmor said, that no human could have come up with them. Benmor knew his client had turned to an artificial intelligence chatbot. And he knew that taking the time to explain why the chatbot was mistaken wou... [5967 chars]",
+            "url": "https://www.hindustantimes.com/lifestyle/relationships/people-are-using-ai-for-divorce-advice-and-it-s-driving-their-lawyers-crazy-101793675122828.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/im-74422551_1793675128297_kqGH_1793675178347_eGFP_bc2f9689-c29b-4506-b600-b75dbc39cbe1_IanC.jpg",
+            "publishedAt": "2026-11-03T03:07:01Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "8848d6d9034d53d3f4573644d60522d8",
+            "title": "Coherent: The AI Premium Is Gone, The Earnings Aren't (Rating Upgrade)",
+            "description": "Coherent's long-term agreements and Nvidia partnership underpin visibility through FY2028 and beyond. Read why COHR stock is upgraded to Strong Buy.",
+            "content": "Analyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I ... [720 chars]",
+            "url": "https://seekingalpha.com/article/4961256-coherent-the-ai-premium-is-gone-the-earnings-arent-upgrade-to-strong-buy",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2301261225/image_2301261225.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-11-03T03:06:19Z",
+            "lang": "en",
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0245224607be58b9d1f6f9b1468ff067",
+            "title": "Griffin Funding's Chloe Shubin Named a 2026 HousingWire Tech Trendsetter",
+            "description": "Griffin's Vice President of Strategy is recognized for leading the build and company-wide rollout of LIA, the lender's AI-powered Loan Intelligence Assistant",
+            "content": "Griffin's Vice President of Strategy is recognized for leading the build and company-wide rollout of LIA, the lender's AI-powered Loan Intelligence Assistant\n-- Griffin Funding, a nationwide direct-to-consumer mortgage lender, today announced that Ch... [2659 chars]",
+            "url": "https://www.manilatimes.net/2026/11/03/tmt-newswire/plentisoft/griffin-fundings-chloe-shubin-named-a-2026-housingwire-tech-trendsetter/2460196",
+            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=75&f=webp&v=1",
+            "publishedAt": "2026-11-03T03:05:50Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         }
     ]
