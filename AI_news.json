@@ -4,96 +4,128 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 489629,
+    "totalArticles": 490769,
     "articles": [
         {
-            "id": "36719bfa3896332cb6c0703462b19743",
-            "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-            "description": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-            "content": "Google has launched its experimental AI app Dreambeans in India, its first market outside the U.S., as the company looks to tap the world’s second-largest internet market to bring personalized visual stories drawn from users’ digital activity to a br... [4099 chars]",
-            "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
-            "publishedAt": "2026-11-03T03:30:00Z",
+            "id": "307445fef81dbb36dd7fd0ffd7518cb5",
+            "title": "New report reveals one in 15 adults have suffered forms of AI-generated image abuse",
+            "description": "The horrifying rate of Aussie adults who have experienced abuse from sexually explicit AI-generated images has been revealed in a new study.",
+            "content": "A new report has revealed the shocking rates of Aussies experiencing abuse from sexually explicit AI-generated images, as the federal government pushes ahead with landmark online safety legislation.\nThe RMIT University study found around one in 15 ad... [3300 chars]",
+            "url": "https://www.perthnow.com.au/news/technology/new-report-reveals-one-in-15-adults-have-suffered-forms-of-ai-generated-image-abuse-c-23115173",
+            "image": "https://images.perthnow.com.au/publication/C-23115173/5ea058d7153a3327b885dbb2682bfe790f176831-16x9-x244y0w1561h878.jpg?imwidth=1200",
+            "publishedAt": "2026-11-04T03:47:34Z",
             "lang": "en",
             "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
             }
         },
         {
-            "id": "9a32585e595c3fc46b77e2b513d46945",
-            "title": "Chiranjeevi-Ram Charan Meet Home Minister Amit Shah To Address Misuse Of AI And Deepfake",
-            "description": "Ram Charan also shared pictures from the meet-up and said the government assured them of implementing strict action against the wrong-doers.",
-            "content": "On Monday (November 2), Telugu superstar Chiranjeevi and his actor-son Ram Charan met the Home Minister Amit Shah to share their deep concerns about the misuse of AI and deepfake technologies, posing a threat to artists' dignity and rights. The Union... [2090 chars]",
-            "url": "https://www.ndtv.com/entertainment/chiranjeevi-ram-charan-meet-home-minister-amit-shah-to-address-misuse-of-ai-and-deepfake-12274326",
-            "image": "https://c.ndtvimg.com/2026-11/9pedntoo_ff_625x300_03_November_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-11-03T03:29:21Z",
+            "id": "6c295b6568c751d6e99aace7401334aa",
+            "title": "'People should always be in control': Sam Altman warns AI progress must have limits",
+            "description": "OpenAI CEO Sam Altman says human control must constrain AI superintelligence, following Anthropic chief Dario Amodei's call to slow development and strengthen safety oversight.",
+            "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nOpenAI Chief Executive Officer Sam Altman has said humans must remain in control of the future, arguing that the development of superintelligent artificial... [2842 chars]",
+            "url": "https://www.moneycontrol.com/news/information-technology/artificial-intelligence-information-technology/people-should-always-be-in-control-sam-altman-warns-ai-progress-must-have-limits-14068610.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260906115755_MixCollage-06-Sep-2026-05-27-PM-5573.jpg",
+            "publishedAt": "2026-11-04T03:44:33Z",
             "lang": "en",
             "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
                 "country": "in"
             }
         },
         {
-            "id": "249436dc8f90d8fa0f814d2d2e8bf39b",
-            "title": "Enterprise architecture: Dell and Microsoft power AI at scale",
-            "description": "How can software and cloud giant Microsoft Corp. translate its platform vision into fully deployed enterprise architecture in the age of AI?",
-            "content": "How can software and cloud giant Microsoft Corp. translate its platform vision into fully deployed enterprise architecture in the age of AI?\nThis central question has defined the next chapter in a decades-long partnership between Microsoft and Dell T... [9032 chars]",
-            "url": "https://www.europesays.com/3349332/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/11/1793676437.jpeg",
-            "publishedAt": "2026-11-03T03:27:15Z",
+            "id": "50e200c3797f7d5cdab2d2bd99a29bc5",
+            "title": "Anthropic introduces FlashProve, a new open-source tool to verify AI models",
+            "description": "Anthropic has introduced FlashProve, an open-source prototype that verifies which AI model generated a response. The system could strengthen trust without exposing commercially sensitive model weights.",
+            "content": "Have you ever felt that a premium AI chatbot is giving you low-quality, cheap answers? Many in the tech industry worry that some AI providers might be secretly swapping expensive, high-end models with cheaper ones behind the scenes to save costs. To ... [2726 chars]",
+            "url": "https://www.indiatoday.in/technology/news/story/anthropic-introduces-flashprove-a-new-open-source-tool-to-verify-ai-models-3031872-2026-11-04",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/anthropic-hiring-192556117-16x9.jpg?VersionId=p0d7ejLTdco6rs0mlOJQk2f8cvpVnzvN",
+            "publishedAt": "2026-11-04T03:40:40Z",
             "lang": "en",
             "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "9fff26b093f98c835e79089fa7c94107",
-            "title": "Apple Says Even Higher Memory Prices and Siri AI Push Will Weigh On Profits",
-            "description": "In his first earnings call as CEO, John Ternus warned of worsening memory prices.",
-            "content": "Apple just reported its fourth quarter earnings, with revenue exceeding market expectations at $114.48 billion. But the good news was quickly overshadowed by the executives’ expectations for a rough go in the next quarter.\nApple executives shared in ... [3447 chars]",
-            "url": "https://gizmodo.com/apple-says-even-higher-memory-prices-and-siri-ai-push-will-weigh-on-profits-2000834048",
-            "image": "https://gizmodo.com/app/uploads/2026/11/john-ternus-1200x675.jpg",
-            "publishedAt": "2026-11-03T03:25:14Z",
-            "lang": "en",
-            "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "67ea4c6470f4323f594394bb6e994286",
-            "title": "Pimco CEO warns AI financing is on path to become ‘too much’",
-            "description": "Pacific Investment Management Co CEO Emmanuel Roman warns AI financing could reach $10 trillion in five years, risking a future market downturn.",
-            "content": "Artificial intelligence-related financing could grow to about $10 trillion over the next five years, eventually reaching excessive levels, said Emmanuel Roman, chief executive officer of Pacific Investment Management Co.\nRoman estimated that about $2... [1273 chars]",
-            "url": "https://www.cnbctv18.com/market/pimco-ceo-warns-ai-financing-is-on-path-to-become-too-much-20025522.htm",
-            "image": "https://images.cnbctv18.com/uploads/2026/10/equity-markets-09oct-2026-10-888ed79a67604f79d869f3843ebec54b.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-11-03T03:19:40Z",
-            "lang": "en",
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
                 "country": "in"
             }
         },
         {
-            "id": "e473115ef56db51ec4e5a88818e157ae",
-            "title": "The Risks State and Local Elections Pose for Wall Street and the AI Trade",
-            "description": "Investors are watching races in key states for pushback against the AI infrastructure build-out. | World News",
-            "content": "On Monday, the investment bank Jefferies hosted a client call focused solely on key political races in Texas and how they might affect investors. Roughly a quarter of U.S. data-center capacity projected to come online by 2030 is in the Lone Star stat... [4976 chars]",
-            "url": "https://www.hindustantimes.com/world-news/the-risks-state-and-local-elections-pose-for-wall-street-and-the-ai-trade-101793675495280.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/im-24921120_1793675499387_nLCF_1793675783673_0zVj_88cd3b49-cdd7-486b-ac1f-cbfcf5037e73_Fx5Y.jpg",
-            "publishedAt": "2026-11-03T03:16:28Z",
+            "id": "87dc6ef5a7f48cefee2ee03ca9e706f6",
+            "title": "IndiaAI Mission Unveils Two Homegrown AI Models: EKA",
+            "description": "IndiaAI Mission Unveils Two Homegrown AI Models: EKA-1 and Dhīr - New Delhi, Nov 4 – The IndiaAI Mission has launched two new indigenous AI foundation models, EKA-1 and Dhīr, ... Get Latest News on Technology only on lokmattimes.com",
+            "content": "New Delhi, Nov 4 – The IndiaAI Mission has launched two new indigenous AI foundation models, EKA-1 and Dhīr, marking a significant stride in India's journey towards self-reliance in artificial intelligence. These models, developed by Soket Labs Techn... [1839 chars]",
+            "url": "https://www.lokmattimes.com/technology/indiaai-mission-unveils-two-homegrown-ai-models-eka-1-and-dhir-a001-w02/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202611044001977_202611.jpg",
+            "publishedAt": "2026-11-04T03:40:02Z",
+            "lang": "en",
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "b2cb6965053883ffae5090732dedba10",
+            "title": "Sarvam AI launches Prism model for enterprise decision-making",
+            "description": "Sarvam AI launches Prism, a decision-making model with 44-millisecond responses, custom deployment options and applications in enterprise AI workflows.",
+            "content": "Indian artificial intelligence (AI) company Sarvam AI has launched a new decision-making model that delivers responses in 44 milliseconds and allows enterprises to customise and deploy it on their own infrastructure, as the company looks to expand th... [2264 chars]",
+            "url": "https://www.thehindubusinessline.com/info-tech/sarvam-ai-launches-prism-decision-model-with-44-millisecond-response-time/article71663860.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/pzk0ph/article71663884.ece/alternates/LANDSCAPE_1200/sarvam%20prism.jpg",
+            "publishedAt": "2026-11-04T03:39:06Z",
+            "lang": "en",
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "d674fc8a2e108b79421d755ff271b1ce",
+            "title": "Q2 Results 04th Nov Live: BSE, Cummins, Zydus Lifesciences, Apollo, Lenskart, Nykaa, Aurobindo Pharma, NHPC, Dabur, Torrent Power, Biocon, Sundaram Finance, Premier Energies, Physicswallah to announce",
+            "description": "Q2 Results Today, 04th November 2026 Live Updates: Find all the latest Q2 results 2026 updates of 63 Moons Technologies, Aarvi Encon, Aayush Art And Bullion, Abans Enterprises, Abhinav Capital Services, Accedere, Adroit Infotech, Advance Agrolife, Advance Petrochemicals, Amba Enterprises, Aeroflex Enterprises, Afcons Infrastructure, Agarwal Fortune India, Ashapuri Gold Ornament, Ashapura Intimates Fashion, Avishkar Infra Realty, Ajwa Fun World & Resort, All Time Plastics, Amines & Plasticizers, Andhra Petrochemicals, Anirit Ventures, Anjani Finance, Alembic Pharmaceuticals, Apollo Finvest India, Apollo Hospitals Enterprise, Apollo Tyres, Aptech, Aptus Value Housing Finance India, Archit Organosys, Anand Rayons, Arman Financial Services, Ashiana Housing, Asian Star Company, Astron Multigrain, Allcargo Terminals, Atlantaa, Atma Industries, Augmont Enterprises, Aurobindo Pharma, AuSom Enterprise, Aveer Foods, Azad India Mobility, Bajel Projects, Balkrishna Industries, Balrampur Chini Mills, BASF India, Mrs. Bectors Food Specialities, Beeyu Overseas, Bentley Commercial Enterprises, Bervin Investment & Leasing, Betex India, Bhilwara Spinners, Biocon, BEML Land Assets, BLB, Bloom Industries, Blue Coast Hotels, Brisk Technovision, Bansal Roofing Products, C & C Constructions, Capacite Infraprojects, Capfin India, Carysil, City Crops Agro, Ceenik Exports India, Centum Electronics, Century Plyboards (India), Cera Sanitaryware, CG Vak Software & Exports, Chalet Hotels, CHD Chemicals, Chemiesynth (Vapi), Chemplast Sanmar, Chartered Capital & Investment, Clio Infotech, Colab Platforms, Containerway International, Coral India Finance & Housing, Cosmic CRF, Cospower Engineering, CP Capital, Capital Trade Links, Cummins India, Dabur India, Darjeeling Industriies, Deco Mica, Delta Manufacturing, Denis Chem Lab, Desco Infratech, Dhanwel Hybrid Seeds, Dharmaj Crop Guard, Dhoot Industrial Finance, Diamant Infrastructure, Diffusion Engineers, Dollex Agrotech, Dipna Pharmachem, Dynamic Industries, Ecoplast, Eco Recycling, ECS Biztech, Electrotherm (India), Ellenbarrie Industrial Gases, Emerald Finance, Emrock Corporation, eMudhra, Enkei Wheels (India), Entero Healthcare Solutions, EPL, Esab India, Esha Media Research, Essar Shipping, Excel Industries, Exicom Tele-Systems, Exide Industries, FCS Software Solutions, Filtron Engineers, FX Multitech, Gaja Alternative Asset Management, Galaxy Surfactants, Garuda Construction and Engineering, Garware Marine Industries, Gayatri Projects, Global Infratech & Finance, G. G. Dandekar Properties, G. K. P. Printing & Packaging, Gujarat Kidney and Super Speciality, Global Longlife Hospital and Research, GMM Pfaudler, Gujarat Natural Resources, Godavari Biorefineries, Goel Construction Company, Golkunda Diamonds & Jewellery, Gourmet Gateway India, Gujarat Pipavav Port, GPT Infraprojects, G R Infraprojects, Growington Ventures India, GSB Finance, GSL Securities, Gabion Technologies India, Gujarat Craft Industries, Gujarat Investa, Gujjubhai Industries, Haria Apparels, Haria Exports, Hariom Pipe Industries, Helpage Finlease, Hindoostan Mills, Hindustan Tin Works, The Hi-Tech Gears, Hindustan Media Ventures, Hindustan Organic Chemicals, Hy-Tech Engineers, Housing & Urban Development Corporation, Indo Count Industries, Indian Metals & Ferro Alloys, India Gelatine & Chemicals, India Home Loan, India Homes, IND Renewable Energy, Indsil Hydro Power and Manganese, IEL, Interarch Building Solutions, International Combustion India, IRCON International, iSERA Lifesciences, ISGEC Heavy Engineering, Ishwarshakti Holdings & Traders, ISL Consulting, IL&FS Investment Managers, IVP, Jash Engineering, Jayant Agro Organics, Jayabharat Credit, Jetking Infotrain, Jain Irrigation Systems DVR, Jain Irrigation Systems, JK Lakshmi Cement, JM Financial, JOJO, JSW Dulux, Jtekt India, Jujhar Logistics, Jyothy Labs, Jyoti, Kaarya Facilities and Services, Kansai Nerolac Paints, Kotia Enterprises, Kemp & Company, Kesar India, Kalyani Investment Company, Krishna Institute of Medical Sciences, Kinetic Trust, Kirloskar Oil Engines, Kokuyo Camlin, Krishival Foods, Krishna Capital and Securities, KROWNIQ, Krupalu Metals, KSH International, KZ Leasing & Finance, Ladderup Finance, Dr. Lal PathLabs, Lohia Corp, LE Lavoir, Lenskart Solutions, Libord Finance, Liotech Industries, Lippi Systems, Lumino Industries, Mafatlal Industries, Makers Laboratories, Manika Plastech, Manugraph India, C.E. Info Systems, Maris Spinners, Marksans Pharma, Max Estates, Mayur Leather Products, Mayur Uniquoters, Mazda, Medi Caps, Meenakshi India, Meenakshi Steel Industries, Mefcom Capital Markets, Microse India, Mid East Portfolio Management, Milestone Global, Mindteck (India), Mishtann Foods, Meghmani Organics, Mold-Tek Technologies, Credo Brands Marketing, Multibase India, NACDAC Infrastructure, Navkar Urbanstructure, Navneet Education, NDR Auto Components, Nettlinx, NHPC, Niva Bupa Health Insurance Company, NLC India, NRB Bearings, FSN E-Commerce Ventures, Oriental Aromatics, Odyssey Technologies, Omnitech Engineering, One Global Service Provider, Oricon Enterprises, Orient Ceratech, Orkla India, Oswal Agro Mills, Oswal Greentech, Oval Projects Engineering, Padmanabh Industries, Panama Petrochem, Patel Retail, P. B. Films, PDS, Pervasive Commodities, Power Finance Corporation, Phychem Technologies, Piccadily Sugar & Allied Industries, PI Industries, Piotex Industries, Platinum Industries, Polymechplast Machines, Premier Energies, Prerna Infrabuild, Pricol, Prismx Global Ventures, PTL Enterprises, Purshottam Investofin, Physicswallah, Quadrant Televentures, Quintegra Solutions, Radix Industries (India), Rajeswari Infrastructure, Ramco Industries, Rajeshwari Cans, Real Eco-Energy, Redington, Redtape, Reetech International, Refex Renewables & Infrastructure, Ravindra Energy, Rich Universe Network, RITES, Rolex Rings, Riddhi Steel and Tube, Ruchi Infrastructure, Keystone Realtors, Revathi Equipment India, Sadbhav Engineering, Saksoft, Salora International, Sanathan Textiles, Sangam Finserv, Sangam India, Saregama India, Sattrix Information Security, Saurashtra Cement, Shivalik Bimetal Controls, Suratwwala Business Group, Shipping Corporation of India, Sea TV Network, Shanti Educational Initiatives, SGL Resources, Shahlon Silk Industries, Shankara Building Products, Shashijit Infraprojects, Shilp Gravures, Shivansh Finserve, Shivagrico Implements, Shivam Autotech, Shoora Designs, Shradha AI Technologies, Shringar House of Mangalsutra, Shukra Pharmaceuticals, Shivom Investment & Consultancy, Simmonds Marshall, Simplex Realty, Shelter Infra Projects, SIS, S.J.S. Enterprises, SKF India (Industrial), SMS Pharmaceuticals, Sofcom Systems, Softtech Engineers, Somany Ceramics, SP Capital Financing, Sprayking, SPV Global Trading, Steelco Gujarat, Steel Exchange India, STEL Holdings, Stove Kraft, Sterling Green Woods, Sundaram-Clayton, Super Bakers India, Shree Vasu Logistics, Swan Corp, Swastika Castal, Tainwala Chemicals and Plastics (India), Taparia Tools, Tavexia Lifecare, TCC Concept, Technopack Polymers, Tenneco Clean Air India, Terraform Magnum, Terraform Realstate, Typhoon Financial Services, Thangamayil Jewellery, The Investment Trust Of India, Tijaria Polypipes, Tilak Ventures, Titaanium Ten Enterprise, Tokyo Plast International, Torrent Power, TPL Plastech, Tracxn Technologies, Transoceanic Properties, Transchem, Transcorp International, Transindia Real Estate, Trigyn Technologies, Triochem Products, Trustwave Securities, Tulasee Bio Ethanol, Twin Roses Trades & Agencies, Ultracab (India), Uni Abex Alloy Products, Unichem Laboratories, Uniparts India, Univa Foods, Universal Cables, Utique Enterprises, Varroc Engineering, Varun Mercantile, Vellora Impact, Vidya Wires, Vikalp Securities, Vikram Aroma, Vikram Thermo India, Vintage Coffee And Beverages, Vindhya Telelinks, Vinyoflex, Vivekanand Cotspin, Vivid Global Industries, VL E-Governance & IT Solutions, VMS Industries, Voith Paper Fabrics India, Wanbury, Wardwizard Foods and Beverages, Websol Energy System, Woodsvilla, Workmates Core2Cloud Solution, Worldwide Aluminium, Yash Innoventures, Zenith Fibres, Zenith Steel Pipes & Industries, Zim Laboratories, Mansoon Trading Company, Milgrey Finance & Investments, Sheraton Properties & Finance, Speedage Commercials, Zydus Lifesciences.",
+            "content": "Q2 Results Today, 04th November 2026 Live Updates: Among the most prominent large-cap and trending companies announcing their Q2 FY27 results today are BSE, Cummins India, Zydus Lifesciences, Apollo Hospitals Enterprise, Lenskart Solutions, Power Fin... [271 chars]",
+            "url": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-bse-cummins-zydus-apollo-lenskart-nykaa-aurobindo-nhpc-dabur-torrent-power-biocon-sundaram-premier-energies-physicswallah-nse-sbi-results-04-november-2026/article71660621.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/xbzc6g/article71660620.ece/alternates/LANDSCAPE_1200/IMG_PO12_Planning_2_1_T8F0RPRU.jpg",
+            "publishedAt": "2026-11-04T03:38:43Z",
+            "lang": "en",
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "39a02bd1a62c8242fe76ef87d62d30c9",
+            "title": "Businesses tip more job ads to dry up amid AI boom",
+            "description": "Artificial intelligence will reduce job vacancies almost everywhere, but its effect has so far been minimal across Australian businesses, data shows.",
+            "content": "It seems artificial intelligence is biding its time to wreak havoc on the labour market.\nMore than four in five businesses have told the Australian Bureau of Statistics AI has had no impact on job vacancies so far.\nThe technology had reduced openings... [2410 chars]",
+            "url": "https://www.perthnow.com.au/news/technology/businesses-tip-more-job-ads-to-dry-up-amid-ai-boom-c-23115099",
+            "image": "https://images.perthnow.com.au/publication/C-23115099/ab7dfad6ed34a1d3c6280cbecdee8992a1198738-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2026-11-04T03:38:24Z",
+            "lang": "en",
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            }
+        },
+        {
+            "id": "a60f9536ac4b1be8c130416c671f7593",
+            "title": "As it readies AI consultation paper, MeitY weighs sector-specific approach",
+            "description": "Officials noted that risks vary significantly across domains, particularly in critical infrastructure sectors such as banking and securities and commodities markets. | Business News",
+            "content": "Officials noted that risks vary significantly across domains, particularly in critical infrastructure sectors such as banking and securities and commodities markets.\nThe consultation paper, expected to form the foundation of India’s AI regulatory fra... [2253 chars]",
+            "url": "https://www.hindustantimes.com/business/as-it-readies-ai-consultation-paper-meity-weighs-sector-specific-approach-101793763479399.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/11/04/1600x900/logo/The-consultation-paper--expected-to-form-the-found_1793763470654_4aGf.jpg",
+            "publishedAt": "2026-11-04T03:37:58Z",
             "lang": "en",
             "source": {
                 "id": "21468bec836de1ebb209ff6f78fbfe3e",
@@ -103,67 +135,35 @@
             }
         },
         {
-            "id": "90ec84de3f5806e2e2e4237ec07efc41",
-            "title": "The Risks State and Local Elections Pose for Wall Street and the AI Trade",
-            "description": "Investors are watching races in key states for pushback against the AI infrastructure build-out. | World News",
-            "content": "On Monday, the investment bank Jefferies hosted a client call focused solely on key political races in Texas and how they might affect investors. Roughly a quarter of U.S. data-center capacity projected to come online by 2030 is in the Lone Star stat... [4976 chars]",
-            "url": "https://www.hindustantimes.com/world-news/the-risks-state-and-local-elections-pose-for-wall-street-and-the-ai-trade-101793675527689.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/im-24921120_1793675532282_vyC1_1793675557532_S5tx_547bfa40-8437-4f11-ac0e-b7c47b8736ac_bZfU.jpg",
-            "publishedAt": "2026-11-03T03:12:44Z",
+            "id": "1c9a968b8446438d88523914c9717e6f",
+            "title": "Nikkei slides to 3-month low as AI stocks tumble on US election jitters",
+            "description": "Japan's Nikkei index took a hit as AI-driven stocks plummeted following the aftermath of the US elections, raising alarms over potential Democratic control tightening data-centre regulations. Major players in the tech industry, such as Advantest and SoftBank Group, experienced significant drops in their stock values. Nonetheless, Fast Retailing managed to post slight gains, offering a degree of stability to the overall Nikkei performance amidst a gloomy market outlook.",
+            "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategie... [807 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nikkei-slides-to-3-month-low-as-ai-stocks-tumble-on-us-election-jitters/articleshow/135521125.cms",
+            "image": "https://img.etimg.com/thumb/msid-135521149,width-1200,height-900,imgsize-373692,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-11-04T03:37:00Z",
             "lang": "en",
             "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "4490d62cc9b7fc00f1a989303ab36e4e",
-            "title": "People Are Using AI for Divorce Advice and It’s Driving Their Lawyers Crazy",
-            "description": "Feed one side of a family fight into a chatbot and you might get the legal answer you want to see, but it won’t necessarily fly with the judge.",
-            "content": "Some revisions went so deep into the weeds, Benmor said, that no human could have come up with them. Benmor knew his client had turned to an artificial intelligence chatbot. And he knew that taking the time to explain why the chatbot was mistaken wou... [5967 chars]",
-            "url": "https://www.hindustantimes.com/lifestyle/relationships/people-are-using-ai-for-divorce-advice-and-it-s-driving-their-lawyers-crazy-101793675122828.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/im-74422551_1793675128297_kqGH_1793675178347_eGFP_bc2f9689-c29b-4506-b600-b75dbc39cbe1_IanC.jpg",
-            "publishedAt": "2026-11-03T03:07:01Z",
+            "id": "306ea13f683e770ec0a8515a2e445915",
+            "title": "Businesses tip more job ads to dry up amid AI boom",
+            "description": "Artificial intelligence will reduce job vacancies almost everywhere, but its effect has so far been minimal across Australian...",
+            "content": "The vast majority of businesses say the recent emergence of AI has not yet impacted job vacancies. Photo: Rounak Amini/AAP PHOTOS\nIt seems artificial intelligence is biding its time to wreak havoc on the labour market.\nSubscribe now for unlimited acc... [4671 chars]",
+            "url": "https://www.canberratimes.com.au/story/9385924/businesses-tip-more-job-ads-to-dry-up-amid-ai-boom/",
+            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/8430c63c-bfb4-4fa9-80b1-54a137187426.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2026-11-04T03:35:43Z",
             "lang": "en",
             "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "8848d6d9034d53d3f4573644d60522d8",
-            "title": "Coherent: The AI Premium Is Gone, The Earnings Aren't (Rating Upgrade)",
-            "description": "Coherent's long-term agreements and Nvidia partnership underpin visibility through FY2028 and beyond. Read why COHR stock is upgraded to Strong Buy.",
-            "content": "Analyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I ... [720 chars]",
-            "url": "https://seekingalpha.com/article/4961256-coherent-the-ai-premium-is-gone-the-earnings-arent-upgrade-to-strong-buy",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2301261225/image_2301261225.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-11-03T03:06:19Z",
-            "lang": "en",
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "0245224607be58b9d1f6f9b1468ff067",
-            "title": "Griffin Funding's Chloe Shubin Named a 2026 HousingWire Tech Trendsetter",
-            "description": "Griffin's Vice President of Strategy is recognized for leading the build and company-wide rollout of LIA, the lender's AI-powered Loan Intelligence Assistant",
-            "content": "Griffin's Vice President of Strategy is recognized for leading the build and company-wide rollout of LIA, the lender's AI-powered Loan Intelligence Assistant\n-- Griffin Funding, a nationwide direct-to-consumer mortgage lender, today announced that Ch... [2659 chars]",
-            "url": "https://www.manilatimes.net/2026/11/03/tmt-newswire/plentisoft/griffin-fundings-chloe-shubin-named-a-2026-housingwire-tech-trendsetter/2460196",
-            "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=75&f=webp&v=1",
-            "publishedAt": "2026-11-03T03:05:50Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
             }
         }
     ]
