@@ -4,32 +4,16 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 490769,
+    "totalArticles": 491860,
     "articles": [
         {
-            "id": "307445fef81dbb36dd7fd0ffd7518cb5",
-            "title": "New report reveals one in 15 adults have suffered forms of AI-generated image abuse",
-            "description": "The horrifying rate of Aussie adults who have experienced abuse from sexually explicit AI-generated images has been revealed in a new study.",
-            "content": "A new report has revealed the shocking rates of Aussies experiencing abuse from sexually explicit AI-generated images, as the federal government pushes ahead with landmark online safety legislation.\nThe RMIT University study found around one in 15 ad... [3300 chars]",
-            "url": "https://www.perthnow.com.au/news/technology/new-report-reveals-one-in-15-adults-have-suffered-forms-of-ai-generated-image-abuse-c-23115173",
-            "image": "https://images.perthnow.com.au/publication/C-23115173/5ea058d7153a3327b885dbb2682bfe790f176831-16x9-x244y0w1561h878.jpg?imwidth=1200",
-            "publishedAt": "2026-11-04T03:47:34Z",
-            "lang": "en",
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "6c295b6568c751d6e99aace7401334aa",
-            "title": "'People should always be in control': Sam Altman warns AI progress must have limits",
-            "description": "OpenAI CEO Sam Altman says human control must constrain AI superintelligence, following Anthropic chief Dario Amodei's call to slow development and strengthen safety oversight.",
-            "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nOpenAI Chief Executive Officer Sam Altman has said humans must remain in control of the future, arguing that the development of superintelligent artificial... [2842 chars]",
-            "url": "https://www.moneycontrol.com/news/information-technology/artificial-intelligence-information-technology/people-should-always-be-in-control-sam-altman-warns-ai-progress-must-have-limits-14068610.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260906115755_MixCollage-06-Sep-2026-05-27-PM-5573.jpg",
-            "publishedAt": "2026-11-04T03:44:33Z",
+            "id": "259c733e3969c6265c1142dd59be8b58",
+            "title": "Nomura sees AI capex risks from Democrats' midterm gains, warns of data centre curbs from 2028",
+            "description": "The research firm noted that tighter regulations could lead to some relocation rather than outright cancellation of projects.",
+            "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nNomura has flagged growing political headwinds to artificial intelligence (AI) investment in the US following the Democratic Party's strong performance in ... [4422 chars]",
+            "url": "https://www.moneycontrol.com/news/business/markets/nomura-sees-ai-capex-risks-from-democrats-midterm-gains-warns-of-data-centre-curbs-from-2028-14070896.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260419092019_nagtr.jpg",
+            "publishedAt": "2026-11-05T03:43:19Z",
             "lang": "en",
             "source": {
                 "id": "fd3677545b80d5db7541de8e111d27ba",
@@ -39,13 +23,109 @@
             }
         },
         {
-            "id": "50e200c3797f7d5cdab2d2bd99a29bc5",
-            "title": "Anthropic introduces FlashProve, a new open-source tool to verify AI models",
-            "description": "Anthropic has introduced FlashProve, an open-source prototype that verifies which AI model generated a response. The system could strengthen trust without exposing commercially sensitive model weights.",
-            "content": "Have you ever felt that a premium AI chatbot is giving you low-quality, cheap answers? Many in the tech industry worry that some AI providers might be secretly swapping expensive, high-end models with cheaper ones behind the scenes to save costs. To ... [2726 chars]",
-            "url": "https://www.indiatoday.in/technology/news/story/anthropic-introduces-flashprove-a-new-open-source-tool-to-verify-ai-models-3031872-2026-11-04",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/anthropic-hiring-192556117-16x9.jpg?VersionId=p0d7ejLTdco6rs0mlOJQk2f8cvpVnzvN",
-            "publishedAt": "2026-11-04T03:40:40Z",
+            "id": "65a031dfa62bd7081db563e7d3f4c798",
+            "title": "Don’t count on AI trade fatigue to lift India: Bernstein’s Venugopal Garre",
+            "description": "Private capex is improving, but calling it a broad-based boom would be premature, says Bernstein MD",
+            "content": "Private capex is improving, but calling it a broad-based boom would be premature, says Bernstein MD\nIndia once had every global tailwind going for it. Now, Bernstein’s managing director Venugopal Garre says in this interview with Moneycontrol Pro’s V... [9514 chars]",
+            "url": "https://www.moneycontrol.com/news/opinion/don-t-count-on-ai-trade-fatigue-to-lift-india-bernstein-s-venugopal-garre-14070845.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261105032112_Venu-pic-nov-2026.jpg",
+            "publishedAt": "2026-11-05T03:39:05Z",
+            "lang": "en",
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "4c4e37f2b0617d04ee8e9a6a47e0c6f6",
+            "title": "Blue Cloud Softech signs MoU with Ghana firm for African expansion",
+            "description": "Blue Cloud Softech Solutions Ltd signed an MoU with Kasten Development Ltd, Ghana. The partnership aims to expand AI platforms and tech solutions in African markets. A Centre of Excellence will be established in Ghana for product demonstrations. The company reported consolidated revenue of ₹1,002 crore for FY26.",
+            "content": "Blue Cloud Softech Solutions Ltd has entered into a Memorandum of Understanding (MoU) with Kasten Development Ltd, a Ghana-based company, to explore strategic business collaboration in the Republic of Ghana and other mutually agreed territories.\nThe ... [7661 chars]",
+            "url": "https://scanx.trade/stock-market-news/companies/blue-cloud-softech-signs-mou-ghana-firm-african-expansion/55395219",
+            "image": "https://news-images.dhan.co/blue-cloud-softech-signs-mou-ghana-firm-african-expansion.jpg",
+            "publishedAt": "2026-11-05T03:38:29Z",
+            "lang": "en",
+            "source": {
+                "id": "f746366686e467440a63dd26dbb72053",
+                "name": "scanx.trade",
+                "url": "https://scanx.trade",
+                "country": "in"
+            }
+        },
+        {
+            "id": "382c62d6f16f0f1512932eb18084f751",
+            "title": "Backblaze Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
+            "description": "SAN FRANCISCO -- Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted",
+            "content": "SAN FRANCISCO — Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted an equity inducement award to Gali Kovacs, the Company’s VP of Strategy and Operations, as a mate... [1063 chars]",
+            "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/backblaze-announces-inducement-grant-under-nasdaq-listing-rule-5635c4/",
+            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261104843003r1&sid=cnpm5&distro=ftp",
+            "publishedAt": "2026-11-05T03:37:17Z",
+            "lang": "en",
+            "source": {
+                "id": "1a3615c1358e4d862525999bb4b2aa01",
+                "name": "The Expositor",
+                "url": "https://www.brantfordexpositor.ca",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "b971f03b4b1667c2a1130cabd54295f4",
+            "title": "Backblaze Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
+            "description": "SAN FRANCISCO -- Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted",
+            "content": "SAN FRANCISCO — Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted an equity inducement award to Gali Kovacs, the Company’s VP of Strategy and Operations, as a mate... [1063 chars]",
+            "url": "https://www.nugget.ca/press-releases/business-wire/backblaze-announces-inducement-grant-under-nasdaq-listing-rule-5635c4/",
+            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261104843003r1&sid=cnpm5&distro=ftp",
+            "publishedAt": "2026-11-05T03:37:10Z",
+            "lang": "en",
+            "source": {
+                "id": "74373d37da4d4a3faf05b8b7af0eafd7",
+                "name": "The North Bay Nugget",
+                "url": "https://www.nugget.ca",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "f952556d0787bc8edd1adfae5df4fe2a",
+            "title": "Backblaze Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
+            "description": "SAN FRANCISCO -- Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted",
+            "content": "SAN FRANCISCO — Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted an equity inducement award to Gali Kovacs, the Company’s VP of Strategy and Operations, as a mate... [1063 chars]",
+            "url": "https://lfpress.com/press-releases/business-wire/backblaze-announces-inducement-grant-under-nasdaq-listing-rule-5635c4/",
+            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261104843003r1&sid=cnpm5&distro=ftp",
+            "publishedAt": "2026-11-05T03:37:04Z",
+            "lang": "en",
+            "source": {
+                "id": "8c6e9834b8fccfc4c516038dbb543005",
+                "name": "The London Free Press",
+                "url": "https://lfpress.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "f023a5152bbbfdbc0fc8d9d25c49fe7e",
+            "title": "Backblaze Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
+            "description": "SAN FRANCISCO -- Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted",
+            "content": "SAN FRANCISCO — Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted an equity inducement award to Gali Kovacs, the Company’s VP of Strategy and Operations, as a mate... [412 chars]",
+            "url": "https://www.thewhig.com/press-releases/business-wire/backblaze-announces-inducement-grant-under-nasdaq-listing-rule-5635c4/",
+            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261104843003r1&sid=cnpm5&distro=ftp",
+            "publishedAt": "2026-11-05T03:37:00Z",
+            "lang": "en",
+            "source": {
+                "id": "e2b598a29c7ee64ba90dd28fd6eb5df2",
+                "name": "The Kingston Whig-Standard",
+                "url": "https://www.thewhig.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "e8ab015bb175a7b9f63ab66fa5a25cf1",
+            "title": "CERT-In warns hackers are using AI to target banks and financial institutions",
+            "description": "CERT-In has issued a critical advisory, stating that a hacker group is using AI to target banks and other financial entities in India. The agency says this attack campaign remains active and could allow the hackers to make unauthorised transfers.",
+            "content": "In a critical advisory issued on Wednesday, India’s cybersecurity agency, CERT-In, has warned that hackers are targeting India’s finance sector with the help of AI tools. The group, designated as “Crafty Falcon,” operates at “machine speed” and strik... [3970 chars]",
+            "url": "https://www.indiatoday.in/technology/news/story/cert-in-warns-hackers-are-using-ai-to-target-banks-and-financial-institutions-3032622-2026-11-05",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/cyber-attack--hackers--cybersecurity-053630858-16x9_0.jpg?VersionId=54XjoO4LfRJlEcW.QnlNw.MAHpOg6.Pw",
+            "publishedAt": "2026-11-05T03:37:00Z",
             "lang": "en",
             "source": {
                 "id": "c73686fdf0e30639d57eddaf7a77236e",
@@ -55,115 +135,35 @@
             }
         },
         {
-            "id": "87dc6ef5a7f48cefee2ee03ca9e706f6",
-            "title": "IndiaAI Mission Unveils Two Homegrown AI Models: EKA",
-            "description": "IndiaAI Mission Unveils Two Homegrown AI Models: EKA-1 and Dhīr - New Delhi, Nov 4 – The IndiaAI Mission has launched two new indigenous AI foundation models, EKA-1 and Dhīr, ... Get Latest News on Technology only on lokmattimes.com",
-            "content": "New Delhi, Nov 4 – The IndiaAI Mission has launched two new indigenous AI foundation models, EKA-1 and Dhīr, marking a significant stride in India's journey towards self-reliance in artificial intelligence. These models, developed by Soket Labs Techn... [1839 chars]",
-            "url": "https://www.lokmattimes.com/technology/indiaai-mission-unveils-two-homegrown-ai-models-eka-1-and-dhir-a001-w02/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202611044001977_202611.jpg",
-            "publishedAt": "2026-11-04T03:40:02Z",
+            "id": "6fdc2c48fb1804e0d9d351096a44dcf6",
+            "title": "Backblaze Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
+            "description": "SAN FRANCISCO -- Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted",
+            "content": "SAN FRANCISCO — Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted an equity inducement award to Gali Kovacs, the Company’s VP of Strategy and Operations, as a mate... [1063 chars]",
+            "url": "https://financialpost.com/press-releases/business-wire/backblaze-announces-inducement-grant-under-nasdaq-listing-rule-5635c4-2/",
+            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261104843003r1&sid=cnpm5&distro=ftp",
+            "publishedAt": "2026-11-05T03:36:50Z",
             "lang": "en",
             "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
+                "id": "2492bcb79914b2ce3d9867453dae22ac",
+                "name": "Financial Post",
+                "url": "https://financialpost.com",
+                "country": "ca"
             }
         },
         {
-            "id": "b2cb6965053883ffae5090732dedba10",
-            "title": "Sarvam AI launches Prism model for enterprise decision-making",
-            "description": "Sarvam AI launches Prism, a decision-making model with 44-millisecond responses, custom deployment options and applications in enterprise AI workflows.",
-            "content": "Indian artificial intelligence (AI) company Sarvam AI has launched a new decision-making model that delivers responses in 44 milliseconds and allows enterprises to customise and deploy it on their own infrastructure, as the company looks to expand th... [2264 chars]",
-            "url": "https://www.thehindubusinessline.com/info-tech/sarvam-ai-launches-prism-decision-model-with-44-millisecond-response-time/article71663860.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/pzk0ph/article71663884.ece/alternates/LANDSCAPE_1200/sarvam%20prism.jpg",
-            "publishedAt": "2026-11-04T03:39:06Z",
+            "id": "34d576136b4bef32f981f43ff1fff1af",
+            "title": "Backblaze Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
+            "description": "SAN FRANCISCO -- Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted",
+            "content": "SAN FRANCISCO — Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted an equity inducement award to Gali Kovacs, the Company’s VP of Strategy and Operations, as a mate... [1063 chars]",
+            "url": "https://nationalpost.com/press-releases/business-wire/backblaze-announces-inducement-grant-under-nasdaq-listing-rule-5635c4/",
+            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261104843003r1&sid=cnpm5&distro=ftp",
+            "publishedAt": "2026-11-05T03:36:49Z",
             "lang": "en",
             "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "d674fc8a2e108b79421d755ff271b1ce",
-            "title": "Q2 Results 04th Nov Live: BSE, Cummins, Zydus Lifesciences, Apollo, Lenskart, Nykaa, Aurobindo Pharma, NHPC, Dabur, Torrent Power, Biocon, Sundaram Finance, Premier Energies, Physicswallah to announce",
-            "description": "Q2 Results Today, 04th November 2026 Live Updates: Find all the latest Q2 results 2026 updates of 63 Moons Technologies, Aarvi Encon, Aayush Art And Bullion, Abans Enterprises, Abhinav Capital Services, Accedere, Adroit Infotech, Advance Agrolife, Advance Petrochemicals, Amba Enterprises, Aeroflex Enterprises, Afcons Infrastructure, Agarwal Fortune India, Ashapuri Gold Ornament, Ashapura Intimates Fashion, Avishkar Infra Realty, Ajwa Fun World & Resort, All Time Plastics, Amines & Plasticizers, Andhra Petrochemicals, Anirit Ventures, Anjani Finance, Alembic Pharmaceuticals, Apollo Finvest India, Apollo Hospitals Enterprise, Apollo Tyres, Aptech, Aptus Value Housing Finance India, Archit Organosys, Anand Rayons, Arman Financial Services, Ashiana Housing, Asian Star Company, Astron Multigrain, Allcargo Terminals, Atlantaa, Atma Industries, Augmont Enterprises, Aurobindo Pharma, AuSom Enterprise, Aveer Foods, Azad India Mobility, Bajel Projects, Balkrishna Industries, Balrampur Chini Mills, BASF India, Mrs. Bectors Food Specialities, Beeyu Overseas, Bentley Commercial Enterprises, Bervin Investment & Leasing, Betex India, Bhilwara Spinners, Biocon, BEML Land Assets, BLB, Bloom Industries, Blue Coast Hotels, Brisk Technovision, Bansal Roofing Products, C & C Constructions, Capacite Infraprojects, Capfin India, Carysil, City Crops Agro, Ceenik Exports India, Centum Electronics, Century Plyboards (India), Cera Sanitaryware, CG Vak Software & Exports, Chalet Hotels, CHD Chemicals, Chemiesynth (Vapi), Chemplast Sanmar, Chartered Capital & Investment, Clio Infotech, Colab Platforms, Containerway International, Coral India Finance & Housing, Cosmic CRF, Cospower Engineering, CP Capital, Capital Trade Links, Cummins India, Dabur India, Darjeeling Industriies, Deco Mica, Delta Manufacturing, Denis Chem Lab, Desco Infratech, Dhanwel Hybrid Seeds, Dharmaj Crop Guard, Dhoot Industrial Finance, Diamant Infrastructure, Diffusion Engineers, Dollex Agrotech, Dipna Pharmachem, Dynamic Industries, Ecoplast, Eco Recycling, ECS Biztech, Electrotherm (India), Ellenbarrie Industrial Gases, Emerald Finance, Emrock Corporation, eMudhra, Enkei Wheels (India), Entero Healthcare Solutions, EPL, Esab India, Esha Media Research, Essar Shipping, Excel Industries, Exicom Tele-Systems, Exide Industries, FCS Software Solutions, Filtron Engineers, FX Multitech, Gaja Alternative Asset Management, Galaxy Surfactants, Garuda Construction and Engineering, Garware Marine Industries, Gayatri Projects, Global Infratech & Finance, G. G. Dandekar Properties, G. K. P. Printing & Packaging, Gujarat Kidney and Super Speciality, Global Longlife Hospital and Research, GMM Pfaudler, Gujarat Natural Resources, Godavari Biorefineries, Goel Construction Company, Golkunda Diamonds & Jewellery, Gourmet Gateway India, Gujarat Pipavav Port, GPT Infraprojects, G R Infraprojects, Growington Ventures India, GSB Finance, GSL Securities, Gabion Technologies India, Gujarat Craft Industries, Gujarat Investa, Gujjubhai Industries, Haria Apparels, Haria Exports, Hariom Pipe Industries, Helpage Finlease, Hindoostan Mills, Hindustan Tin Works, The Hi-Tech Gears, Hindustan Media Ventures, Hindustan Organic Chemicals, Hy-Tech Engineers, Housing & Urban Development Corporation, Indo Count Industries, Indian Metals & Ferro Alloys, India Gelatine & Chemicals, India Home Loan, India Homes, IND Renewable Energy, Indsil Hydro Power and Manganese, IEL, Interarch Building Solutions, International Combustion India, IRCON International, iSERA Lifesciences, ISGEC Heavy Engineering, Ishwarshakti Holdings & Traders, ISL Consulting, IL&FS Investment Managers, IVP, Jash Engineering, Jayant Agro Organics, Jayabharat Credit, Jetking Infotrain, Jain Irrigation Systems DVR, Jain Irrigation Systems, JK Lakshmi Cement, JM Financial, JOJO, JSW Dulux, Jtekt India, Jujhar Logistics, Jyothy Labs, Jyoti, Kaarya Facilities and Services, Kansai Nerolac Paints, Kotia Enterprises, Kemp & Company, Kesar India, Kalyani Investment Company, Krishna Institute of Medical Sciences, Kinetic Trust, Kirloskar Oil Engines, Kokuyo Camlin, Krishival Foods, Krishna Capital and Securities, KROWNIQ, Krupalu Metals, KSH International, KZ Leasing & Finance, Ladderup Finance, Dr. Lal PathLabs, Lohia Corp, LE Lavoir, Lenskart Solutions, Libord Finance, Liotech Industries, Lippi Systems, Lumino Industries, Mafatlal Industries, Makers Laboratories, Manika Plastech, Manugraph India, C.E. Info Systems, Maris Spinners, Marksans Pharma, Max Estates, Mayur Leather Products, Mayur Uniquoters, Mazda, Medi Caps, Meenakshi India, Meenakshi Steel Industries, Mefcom Capital Markets, Microse India, Mid East Portfolio Management, Milestone Global, Mindteck (India), Mishtann Foods, Meghmani Organics, Mold-Tek Technologies, Credo Brands Marketing, Multibase India, NACDAC Infrastructure, Navkar Urbanstructure, Navneet Education, NDR Auto Components, Nettlinx, NHPC, Niva Bupa Health Insurance Company, NLC India, NRB Bearings, FSN E-Commerce Ventures, Oriental Aromatics, Odyssey Technologies, Omnitech Engineering, One Global Service Provider, Oricon Enterprises, Orient Ceratech, Orkla India, Oswal Agro Mills, Oswal Greentech, Oval Projects Engineering, Padmanabh Industries, Panama Petrochem, Patel Retail, P. B. Films, PDS, Pervasive Commodities, Power Finance Corporation, Phychem Technologies, Piccadily Sugar & Allied Industries, PI Industries, Piotex Industries, Platinum Industries, Polymechplast Machines, Premier Energies, Prerna Infrabuild, Pricol, Prismx Global Ventures, PTL Enterprises, Purshottam Investofin, Physicswallah, Quadrant Televentures, Quintegra Solutions, Radix Industries (India), Rajeswari Infrastructure, Ramco Industries, Rajeshwari Cans, Real Eco-Energy, Redington, Redtape, Reetech International, Refex Renewables & Infrastructure, Ravindra Energy, Rich Universe Network, RITES, Rolex Rings, Riddhi Steel and Tube, Ruchi Infrastructure, Keystone Realtors, Revathi Equipment India, Sadbhav Engineering, Saksoft, Salora International, Sanathan Textiles, Sangam Finserv, Sangam India, Saregama India, Sattrix Information Security, Saurashtra Cement, Shivalik Bimetal Controls, Suratwwala Business Group, Shipping Corporation of India, Sea TV Network, Shanti Educational Initiatives, SGL Resources, Shahlon Silk Industries, Shankara Building Products, Shashijit Infraprojects, Shilp Gravures, Shivansh Finserve, Shivagrico Implements, Shivam Autotech, Shoora Designs, Shradha AI Technologies, Shringar House of Mangalsutra, Shukra Pharmaceuticals, Shivom Investment & Consultancy, Simmonds Marshall, Simplex Realty, Shelter Infra Projects, SIS, S.J.S. Enterprises, SKF India (Industrial), SMS Pharmaceuticals, Sofcom Systems, Softtech Engineers, Somany Ceramics, SP Capital Financing, Sprayking, SPV Global Trading, Steelco Gujarat, Steel Exchange India, STEL Holdings, Stove Kraft, Sterling Green Woods, Sundaram-Clayton, Super Bakers India, Shree Vasu Logistics, Swan Corp, Swastika Castal, Tainwala Chemicals and Plastics (India), Taparia Tools, Tavexia Lifecare, TCC Concept, Technopack Polymers, Tenneco Clean Air India, Terraform Magnum, Terraform Realstate, Typhoon Financial Services, Thangamayil Jewellery, The Investment Trust Of India, Tijaria Polypipes, Tilak Ventures, Titaanium Ten Enterprise, Tokyo Plast International, Torrent Power, TPL Plastech, Tracxn Technologies, Transoceanic Properties, Transchem, Transcorp International, Transindia Real Estate, Trigyn Technologies, Triochem Products, Trustwave Securities, Tulasee Bio Ethanol, Twin Roses Trades & Agencies, Ultracab (India), Uni Abex Alloy Products, Unichem Laboratories, Uniparts India, Univa Foods, Universal Cables, Utique Enterprises, Varroc Engineering, Varun Mercantile, Vellora Impact, Vidya Wires, Vikalp Securities, Vikram Aroma, Vikram Thermo India, Vintage Coffee And Beverages, Vindhya Telelinks, Vinyoflex, Vivekanand Cotspin, Vivid Global Industries, VL E-Governance & IT Solutions, VMS Industries, Voith Paper Fabrics India, Wanbury, Wardwizard Foods and Beverages, Websol Energy System, Woodsvilla, Workmates Core2Cloud Solution, Worldwide Aluminium, Yash Innoventures, Zenith Fibres, Zenith Steel Pipes & Industries, Zim Laboratories, Mansoon Trading Company, Milgrey Finance & Investments, Sheraton Properties & Finance, Speedage Commercials, Zydus Lifesciences.",
-            "content": "Q2 Results Today, 04th November 2026 Live Updates: Among the most prominent large-cap and trending companies announcing their Q2 FY27 results today are BSE, Cummins India, Zydus Lifesciences, Apollo Hospitals Enterprise, Lenskart Solutions, Power Fin... [271 chars]",
-            "url": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-bse-cummins-zydus-apollo-lenskart-nykaa-aurobindo-nhpc-dabur-torrent-power-biocon-sundaram-premier-energies-physicswallah-nse-sbi-results-04-november-2026/article71660621.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/xbzc6g/article71660620.ece/alternates/LANDSCAPE_1200/IMG_PO12_Planning_2_1_T8F0RPRU.jpg",
-            "publishedAt": "2026-11-04T03:38:43Z",
-            "lang": "en",
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "39a02bd1a62c8242fe76ef87d62d30c9",
-            "title": "Businesses tip more job ads to dry up amid AI boom",
-            "description": "Artificial intelligence will reduce job vacancies almost everywhere, but its effect has so far been minimal across Australian businesses, data shows.",
-            "content": "It seems artificial intelligence is biding its time to wreak havoc on the labour market.\nMore than four in five businesses have told the Australian Bureau of Statistics AI has had no impact on job vacancies so far.\nThe technology had reduced openings... [2410 chars]",
-            "url": "https://www.perthnow.com.au/news/technology/businesses-tip-more-job-ads-to-dry-up-amid-ai-boom-c-23115099",
-            "image": "https://images.perthnow.com.au/publication/C-23115099/ab7dfad6ed34a1d3c6280cbecdee8992a1198738-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2026-11-04T03:38:24Z",
-            "lang": "en",
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "a60f9536ac4b1be8c130416c671f7593",
-            "title": "As it readies AI consultation paper, MeitY weighs sector-specific approach",
-            "description": "Officials noted that risks vary significantly across domains, particularly in critical infrastructure sectors such as banking and securities and commodities markets. | Business News",
-            "content": "Officials noted that risks vary significantly across domains, particularly in critical infrastructure sectors such as banking and securities and commodities markets.\nThe consultation paper, expected to form the foundation of India’s AI regulatory fra... [2253 chars]",
-            "url": "https://www.hindustantimes.com/business/as-it-readies-ai-consultation-paper-meity-weighs-sector-specific-approach-101793763479399.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/11/04/1600x900/logo/The-consultation-paper--expected-to-form-the-found_1793763470654_4aGf.jpg",
-            "publishedAt": "2026-11-04T03:37:58Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "1c9a968b8446438d88523914c9717e6f",
-            "title": "Nikkei slides to 3-month low as AI stocks tumble on US election jitters",
-            "description": "Japan's Nikkei index took a hit as AI-driven stocks plummeted following the aftermath of the US elections, raising alarms over potential Democratic control tightening data-centre regulations. Major players in the tech industry, such as Advantest and SoftBank Group, experienced significant drops in their stock values. Nonetheless, Fast Retailing managed to post slight gains, offering a degree of stability to the overall Nikkei performance amidst a gloomy market outlook.",
-            "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategie... [807 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nikkei-slides-to-3-month-low-as-ai-stocks-tumble-on-us-election-jitters/articleshow/135521125.cms",
-            "image": "https://img.etimg.com/thumb/msid-135521149,width-1200,height-900,imgsize-373692,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-11-04T03:37:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "306ea13f683e770ec0a8515a2e445915",
-            "title": "Businesses tip more job ads to dry up amid AI boom",
-            "description": "Artificial intelligence will reduce job vacancies almost everywhere, but its effect has so far been minimal across Australian...",
-            "content": "The vast majority of businesses say the recent emergence of AI has not yet impacted job vacancies. Photo: Rounak Amini/AAP PHOTOS\nIt seems artificial intelligence is biding its time to wreak havoc on the labour market.\nSubscribe now for unlimited acc... [4671 chars]",
-            "url": "https://www.canberratimes.com.au/story/9385924/businesses-tip-more-job-ads-to-dry-up-amid-ai-boom/",
-            "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/8430c63c-bfb4-4fa9-80b1-54a137187426.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2026-11-04T03:35:43Z",
-            "lang": "en",
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
+                "id": "21429acfcc768f50c40264e7c8cbe16c",
+                "name": "National Post",
+                "url": "https://nationalpost.com",
+                "country": "ca"
             }
         }
     ]
