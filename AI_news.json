@@ -4,128 +4,16 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 491860,
+    "totalArticles": 493166,
     "articles": [
         {
-            "id": "259c733e3969c6265c1142dd59be8b58",
-            "title": "Nomura sees AI capex risks from Democrats' midterm gains, warns of data centre curbs from 2028",
-            "description": "The research firm noted that tighter regulations could lead to some relocation rather than outright cancellation of projects.",
-            "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nNomura has flagged growing political headwinds to artificial intelligence (AI) investment in the US following the Democratic Party's strong performance in ... [4422 chars]",
-            "url": "https://www.moneycontrol.com/news/business/markets/nomura-sees-ai-capex-risks-from-democrats-midterm-gains-warns-of-data-centre-curbs-from-2028-14070896.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260419092019_nagtr.jpg",
-            "publishedAt": "2026-11-05T03:43:19Z",
-            "lang": "en",
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "65a031dfa62bd7081db563e7d3f4c798",
-            "title": "Don’t count on AI trade fatigue to lift India: Bernstein’s Venugopal Garre",
-            "description": "Private capex is improving, but calling it a broad-based boom would be premature, says Bernstein MD",
-            "content": "Private capex is improving, but calling it a broad-based boom would be premature, says Bernstein MD\nIndia once had every global tailwind going for it. Now, Bernstein’s managing director Venugopal Garre says in this interview with Moneycontrol Pro’s V... [9514 chars]",
-            "url": "https://www.moneycontrol.com/news/opinion/don-t-count-on-ai-trade-fatigue-to-lift-india-bernstein-s-venugopal-garre-14070845.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261105032112_Venu-pic-nov-2026.jpg",
-            "publishedAt": "2026-11-05T03:39:05Z",
-            "lang": "en",
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "4c4e37f2b0617d04ee8e9a6a47e0c6f6",
-            "title": "Blue Cloud Softech signs MoU with Ghana firm for African expansion",
-            "description": "Blue Cloud Softech Solutions Ltd signed an MoU with Kasten Development Ltd, Ghana. The partnership aims to expand AI platforms and tech solutions in African markets. A Centre of Excellence will be established in Ghana for product demonstrations. The company reported consolidated revenue of ₹1,002 crore for FY26.",
-            "content": "Blue Cloud Softech Solutions Ltd has entered into a Memorandum of Understanding (MoU) with Kasten Development Ltd, a Ghana-based company, to explore strategic business collaboration in the Republic of Ghana and other mutually agreed territories.\nThe ... [7661 chars]",
-            "url": "https://scanx.trade/stock-market-news/companies/blue-cloud-softech-signs-mou-ghana-firm-african-expansion/55395219",
-            "image": "https://news-images.dhan.co/blue-cloud-softech-signs-mou-ghana-firm-african-expansion.jpg",
-            "publishedAt": "2026-11-05T03:38:29Z",
-            "lang": "en",
-            "source": {
-                "id": "f746366686e467440a63dd26dbb72053",
-                "name": "scanx.trade",
-                "url": "https://scanx.trade",
-                "country": "in"
-            }
-        },
-        {
-            "id": "382c62d6f16f0f1512932eb18084f751",
-            "title": "Backblaze Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
-            "description": "SAN FRANCISCO -- Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted",
-            "content": "SAN FRANCISCO — Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted an equity inducement award to Gali Kovacs, the Company’s VP of Strategy and Operations, as a mate... [1063 chars]",
-            "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/backblaze-announces-inducement-grant-under-nasdaq-listing-rule-5635c4/",
-            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261104843003r1&sid=cnpm5&distro=ftp",
-            "publishedAt": "2026-11-05T03:37:17Z",
-            "lang": "en",
-            "source": {
-                "id": "1a3615c1358e4d862525999bb4b2aa01",
-                "name": "The Expositor",
-                "url": "https://www.brantfordexpositor.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "b971f03b4b1667c2a1130cabd54295f4",
-            "title": "Backblaze Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
-            "description": "SAN FRANCISCO -- Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted",
-            "content": "SAN FRANCISCO — Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted an equity inducement award to Gali Kovacs, the Company’s VP of Strategy and Operations, as a mate... [1063 chars]",
-            "url": "https://www.nugget.ca/press-releases/business-wire/backblaze-announces-inducement-grant-under-nasdaq-listing-rule-5635c4/",
-            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261104843003r1&sid=cnpm5&distro=ftp",
-            "publishedAt": "2026-11-05T03:37:10Z",
-            "lang": "en",
-            "source": {
-                "id": "74373d37da4d4a3faf05b8b7af0eafd7",
-                "name": "The North Bay Nugget",
-                "url": "https://www.nugget.ca",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "f952556d0787bc8edd1adfae5df4fe2a",
-            "title": "Backblaze Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
-            "description": "SAN FRANCISCO -- Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted",
-            "content": "SAN FRANCISCO — Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted an equity inducement award to Gali Kovacs, the Company’s VP of Strategy and Operations, as a mate... [1063 chars]",
-            "url": "https://lfpress.com/press-releases/business-wire/backblaze-announces-inducement-grant-under-nasdaq-listing-rule-5635c4/",
-            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261104843003r1&sid=cnpm5&distro=ftp",
-            "publishedAt": "2026-11-05T03:37:04Z",
-            "lang": "en",
-            "source": {
-                "id": "8c6e9834b8fccfc4c516038dbb543005",
-                "name": "The London Free Press",
-                "url": "https://lfpress.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "f023a5152bbbfdbc0fc8d9d25c49fe7e",
-            "title": "Backblaze Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
-            "description": "SAN FRANCISCO -- Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted",
-            "content": "SAN FRANCISCO — Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted an equity inducement award to Gali Kovacs, the Company’s VP of Strategy and Operations, as a mate... [412 chars]",
-            "url": "https://www.thewhig.com/press-releases/business-wire/backblaze-announces-inducement-grant-under-nasdaq-listing-rule-5635c4/",
-            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261104843003r1&sid=cnpm5&distro=ftp",
-            "publishedAt": "2026-11-05T03:37:00Z",
-            "lang": "en",
-            "source": {
-                "id": "e2b598a29c7ee64ba90dd28fd6eb5df2",
-                "name": "The Kingston Whig-Standard",
-                "url": "https://www.thewhig.com",
-                "country": "ca"
-            }
-        },
-        {
-            "id": "e8ab015bb175a7b9f63ab66fa5a25cf1",
-            "title": "CERT-In warns hackers are using AI to target banks and financial institutions",
-            "description": "CERT-In has issued a critical advisory, stating that a hacker group is using AI to target banks and other financial entities in India. The agency says this attack campaign remains active and could allow the hackers to make unauthorised transfers.",
-            "content": "In a critical advisory issued on Wednesday, India’s cybersecurity agency, CERT-In, has warned that hackers are targeting India’s finance sector with the help of AI tools. The group, designated as “Crafty Falcon,” operates at “machine speed” and strik... [3970 chars]",
-            "url": "https://www.indiatoday.in/technology/news/story/cert-in-warns-hackers-are-using-ai-to-target-banks-and-financial-institutions-3032622-2026-11-05",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/cyber-attack--hackers--cybersecurity-053630858-16x9_0.jpg?VersionId=54XjoO4LfRJlEcW.QnlNw.MAHpOg6.Pw",
-            "publishedAt": "2026-11-05T03:37:00Z",
+            "id": "1e50eb539060de00cda304e56de6c131",
+            "title": "OpenAI releases GPT-6 Cyber model, says it is less likely to hack companies",
+            "description": "OpenAI says its latest AI model, GPT-6 Cyber, is its most advanced model when it comes to cybersecurity. Yet, the AI startup claims, Cyber is better at not hacking other companies.",
+            "content": "OpenAI has taken the wraps off its latest AI model, called GPT-6 Cyber. This model, the company says, is designed to identify and fix major cybersecurity flaws. But as per OpenAI, there are fewer chances of GPT-6 Cyber going rogue and hacking others ... [2879 chars]",
+            "url": "https://www.indiatoday.in/technology/news/story/openai-releases-gpt-6-cyber-model-says-it-is-less-likely-to-hack-companies-3033435-2026-11-06",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/malta-residents-to-get-free-chatgpt-plus-under-new-openai-deal-photo-reuters-181500238-16x9.png?VersionId=176QNCG1dnpMjzZrzmdbjXADoQrDP7mT",
+            "publishedAt": "2026-11-06T03:26:19Z",
             "lang": "en",
             "source": {
                 "id": "c73686fdf0e30639d57eddaf7a77236e",
@@ -135,35 +23,147 @@
             }
         },
         {
-            "id": "6fdc2c48fb1804e0d9d351096a44dcf6",
-            "title": "Backblaze Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
-            "description": "SAN FRANCISCO -- Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted",
-            "content": "SAN FRANCISCO — Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted an equity inducement award to Gali Kovacs, the Company’s VP of Strategy and Operations, as a mate... [1063 chars]",
-            "url": "https://financialpost.com/press-releases/business-wire/backblaze-announces-inducement-grant-under-nasdaq-listing-rule-5635c4-2/",
-            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261104843003r1&sid=cnpm5&distro=ftp",
-            "publishedAt": "2026-11-05T03:36:50Z",
+            "id": "7a3c61e62cfa96be738e258c53787c3a",
+            "title": "AI's Growing Hunger for Memory Chips Could Price Millions Out of the Global Smartphone Market",
+            "description": "Rising AI-driven memory costs could push budget smartphone prices up by 30%, forcing consumers to delay purchases and threatening sales for mobile traders and retailers. Jefferies forecasts a sharp decline in global smartphone shipments through 2027, raising concerns over digital affordability, supply-chain pressures and challenges for policymakers seeking to expand digital inclusion.",
+            "content": "Rising memory chip prices, driven by the rapid expansion of artificial intelligence (AI), could make affordable smartphones significantly more expensive, threatening consumer demand, disrupting mobile phone businesses and creating new challenges for ... [6561 chars]",
+            "url": "https://www.devdiscourse.com/article/technology/4001860-ais-growing-hunger-for-memory-chips-could-price-millions-out-of-the-global-smartphone-market",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/05_11_2026_13_16_10_1930221.png&width=920&format=jpeg",
+            "publishedAt": "2026-11-06T03:25:24Z",
             "lang": "en",
             "source": {
-                "id": "2492bcb79914b2ce3d9867453dae22ac",
-                "name": "Financial Post",
-                "url": "https://financialpost.com",
-                "country": "ca"
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
             }
         },
         {
-            "id": "34d576136b4bef32f981f43ff1fff1af",
-            "title": "Backblaze Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
-            "description": "SAN FRANCISCO -- Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted",
-            "content": "SAN FRANCISCO — Backblaze, Inc. (Nasdaq: BLZE), the high-performance capacity storage layer for AI, today announced that on October 29, 2026, it granted an equity inducement award to Gali Kovacs, the Company’s VP of Strategy and Operations, as a mate... [1063 chars]",
-            "url": "https://nationalpost.com/press-releases/business-wire/backblaze-announces-inducement-grant-under-nasdaq-listing-rule-5635c4/",
-            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261104843003r1&sid=cnpm5&distro=ftp",
-            "publishedAt": "2026-11-05T03:36:49Z",
+            "id": "1a4b64145e583fafa4445ea22f4caa72",
+            "title": "Crypto Price Prediction: Bitcoin Options Price the Calmest Year Since 2021 as Pepeto Buyers Back an AI Scanner",
+            "description": "Stay updated on the latest crypto price trends and predictions for Bitcoin, AVAX, and the new meme coin Pepeto.",
+            "content": "Anyone checking forecasts this week wants to know how far prices can move. Bitcoin’s options market expects little. Deribit’s DVOL index measures the swing traders expect over 30 days. It averaged 42.4 in 2026, the calmest year since its 2021 launch,... [3378 chars]",
+            "url": "https://techbullion.com/crypto-price-prediction-bitcoin-options-price-the-calmest-year-since-2021-as-pepeto-buyers-back-an-ai-scanner/",
+            "image": "https://techbullion.com/wp-content/uploads/2026/10/BTC-OCT-43.jpg",
+            "publishedAt": "2026-11-06T03:25:02Z",
             "lang": "en",
             "source": {
-                "id": "21429acfcc768f50c40264e7c8cbe16c",
-                "name": "National Post",
-                "url": "https://nationalpost.com",
-                "country": "ca"
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "c096a72d75eca9bd11554d69875bf2ef",
+            "title": "SoftBank credit risk jumps to 4-year high as AI fears roil market",
+            "description": "SINGAPORE/TOKYO, Nov 6 (Reuters) - The ⁠cost of insuring against a default for tech ⁠investor SoftBank Group jumped to its highest in four ‌years on Friday as worries about AI profitability roiled the world's financial markets.",
+            "content": "SINGAPORE/TOKYO, Nov 6 (Reuters) - The ⁠cost of insuring against a default for tech ⁠investor SoftBank Group jumped to its highest in four ‌years on Friday as worries about AI profitability roiled the world's financial markets.\nThe 5-year credit defa... [1183 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/11/06/softbank-credit-risk-jumps-to-4-year-high-as-ai-fears-roil-market",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/11/06/4199797.jpg",
+            "publishedAt": "2026-11-06T03:25:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "af940e3ccd16f828cd4e034a2eca5129",
+            "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
+            "description": "The San Francisco-based company is planning to go public later this month in what could be the biggest initial public offering of stock ever.",
+            "content": "SAN FRANCISCO — Anthropic is developing its artificial intelligence systems around twice as quickly as it was a year ago amid the CEO’s calls to slow down the technology’s pace of improvement, according to an analysis released Thursday by an independ... [5443 chars]",
+            "url": "https://www.adn.com/nation-world/2026/11/05/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says/",
+            "image": "https://www.adn.com/resizer/v2/RZNBYVEBS33NBIJQQKTURZQTHA.jpg?smart=true&auth=555b22d6b26b929d6d006bea436a6764a2fa20fe9120e962d316d7d34446e808&width=1200&height=630",
+            "publishedAt": "2026-11-06T03:18:44Z",
+            "lang": "en",
+            "source": {
+                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
+                "name": "Anchorage Daily News",
+                "url": "https://www.adn.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "c71b7a30370a7d9b0d74d33a6a2a22f8",
+            "title": "Asian benchmarks decline after AI worries send Wall Street tumbling",
+            "description": "The nationwide victories for Democrats raised the possibility that governments could force pauses in construction of more data centers.",
+            "content": "TOKYO: Japan's stock benchmark tumbled more than 6% after trading opened Friday, and other Asian stocks also declined following a widespread sell-off of issues related to artificial intelligence on Wall Street.\nTokyo's benchmark Nikkei 225 recouped s... [4129 chars]",
+            "url": "https://www.newindianexpress.com/business/2026/Nov/06/asian-benchmarks-decline-after-ai-worries-send-wall-street-tumbling-2",
+            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-06%2F0tjxl8dp%2FAP26310048440729.jpg?rect=0%2C0%2C5214%2C2737&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-11-06T03:18:34Z",
+            "lang": "en",
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "916f673f475c767f5976525f3e6e6435",
+            "title": "Why OpenAI has pledged to pay data centre power bills and ban NDAs with officials",
+            "description": "OpenAI commits to covering the full electricity costs of its data centres amid rising public opposition and regulatory challenges following US midterm elections opposing AI infrastructure expansion.",
+            "content": "The company made the commitment on Thursday as part of a set of new policies aimed at addressing concerns among local communities. The announcement came two days after voters across the US rejected several proposals supporting data centre development... [4098 chars]",
+            "url": "https://www.financialexpress.com/world-news/us-news/why-openai-has-pledged-to-pay-data-centre-power-bills-and-ban-ndas-with-officials/4378286/",
+            "image": "https://images.financialexpressdigital.com/2026/10/OpenAI-goes-beyond-code.jpg",
+            "publishedAt": "2026-11-06T03:15:32Z",
+            "lang": "en",
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "bbd3e9bb79db1117c6bf4a9d9262d110",
+            "title": "Airbnb plans to launch AI travel agent in 2027, will help users plan and book entire trips",
+            "description": "Airbnb plans to launch an AI-powered travel agent in the first half of 2027. The agent will help users discover destinations, compare stays, plan itineraries and book entire trips, while also assisting with reservations, refunds and other travel-related issues.",
+            "content": "From picking your holiday destination to finding the right stay and planning what to do next, there's a lot that goes into organising a trip. Airbnb wants an AI agent to help with all of it. The company is building an AI-powered travel agent that wil... [3144 chars]",
+            "url": "https://www.indiatoday.in/technology/news/story/airbnb-plans-to-launch-ai-travel-agent-in-2027-will-help-users-plan-and-book-entire-trips-3033428-2026-11-06",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/airbnb-new-rules-22013124-16x9.png?VersionId=ai.26gy03ZcScI4ZL4HinS6VzXL0cc7c",
+            "publishedAt": "2026-11-06T03:11:05Z",
+            "lang": "en",
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "c36cc727c6d653bbc2407b8c6bff885b",
+            "title": "Wall Street bleeds: Trump blames Democrats for $1 trillion stock rout post midterm shake up",
+            "description": "The rout was heavily driven by fears over a slowdown in the AI buildout, slamming chipmakers and AI infrastructure firms. The 'Magnificent Seven' — comprising Apple, Microsoft, Nvidia, Alphabet, Amazon, Meta Platforms and Tesla — erased over $1 trillion in aggregate market cap.",
+            "content": "US President Donald Trump placed the blame squarely on Democrats for a massive Wall Street sell-off on November 5 that wiped out $1 trillion in investor wealth following the U.S. midterm election results. Taking to Truth Social, Trump linked the mark... [4115 chars]",
+            "url": "https://www.businesstoday.in/world/story/wall-street-bleeds-trump-blames-democrats-for-1-trillion-stock-rout-post-midterm-shake-up-566083-2026-11-06",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6aed44e69a346-wall-streets-anxieties-were-heightened-as-newly-elected-and-returning-democrats-signaled-immediate-060925628-16x9.png",
+            "publishedAt": "2026-11-06T03:09:34Z",
+            "lang": "en",
+            "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "9dad0ebc7ca60264f7d745d46bd9954a",
+            "title": "ChatGPT Plus vs. Google AI Pro: Two $20 plans, very different perks",
+            "description": "I use both ChatGPT Plus and Google AI Pro. Here’s how the $20 AI plans compare on coding, automation, and more perks.",
+            "content": "ZDNET’s key takeaways\nChatGPT Plus and Google AI Pro are $20/month and solid for everyday use.\nGoogle AI Pro bundles 5TB, YouTube Premium Lite, and AI video and music.\nPick ChatGPT Plus for Codex, ChatGPT Work, or if you have history with it.\nChatGPT... [12723 chars]",
+            "url": "https://www.zdnet.com/innovation/chatgpt-plus-vs-google-ai-pro/",
+            "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ChatGPT-Plus-vs-Gemini-AI-Pro.jpg",
+            "publishedAt": "2026-11-06T03:09:30Z",
+            "lang": "en",
+            "source": {
+                "id": "e3ea77287229069329f8a7580f62ec08",
+                "name": "ZDNet",
+                "url": "https://www.zdnet.com",
+                "country": "us"
             }
         }
     ]
