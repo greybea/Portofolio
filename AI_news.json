@@ -4,64 +4,16 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 493166,
+    "totalArticles": 494139,
     "articles": [
         {
-            "id": "1e50eb539060de00cda304e56de6c131",
-            "title": "OpenAI releases GPT-6 Cyber model, says it is less likely to hack companies",
-            "description": "OpenAI says its latest AI model, GPT-6 Cyber, is its most advanced model when it comes to cybersecurity. Yet, the AI startup claims, Cyber is better at not hacking other companies.",
-            "content": "OpenAI has taken the wraps off its latest AI model, called GPT-6 Cyber. This model, the company says, is designed to identify and fix major cybersecurity flaws. But as per OpenAI, there are fewer chances of GPT-6 Cyber going rogue and hacking others ... [2879 chars]",
-            "url": "https://www.indiatoday.in/technology/news/story/openai-releases-gpt-6-cyber-model-says-it-is-less-likely-to-hack-companies-3033435-2026-11-06",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/malta-residents-to-get-free-chatgpt-plus-under-new-openai-deal-photo-reuters-181500238-16x9.png?VersionId=176QNCG1dnpMjzZrzmdbjXADoQrDP7mT",
-            "publishedAt": "2026-11-06T03:26:19Z",
-            "lang": "en",
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "7a3c61e62cfa96be738e258c53787c3a",
-            "title": "AI's Growing Hunger for Memory Chips Could Price Millions Out of the Global Smartphone Market",
-            "description": "Rising AI-driven memory costs could push budget smartphone prices up by 30%, forcing consumers to delay purchases and threatening sales for mobile traders and retailers. Jefferies forecasts a sharp decline in global smartphone shipments through 2027, raising concerns over digital affordability, supply-chain pressures and challenges for policymakers seeking to expand digital inclusion.",
-            "content": "Rising memory chip prices, driven by the rapid expansion of artificial intelligence (AI), could make affordable smartphones significantly more expensive, threatening consumer demand, disrupting mobile phone businesses and creating new challenges for ... [6561 chars]",
-            "url": "https://www.devdiscourse.com/article/technology/4001860-ais-growing-hunger-for-memory-chips-could-price-millions-out-of-the-global-smartphone-market",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/05_11_2026_13_16_10_1930221.png&width=920&format=jpeg",
-            "publishedAt": "2026-11-06T03:25:24Z",
-            "lang": "en",
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "1a4b64145e583fafa4445ea22f4caa72",
-            "title": "Crypto Price Prediction: Bitcoin Options Price the Calmest Year Since 2021 as Pepeto Buyers Back an AI Scanner",
-            "description": "Stay updated on the latest crypto price trends and predictions for Bitcoin, AVAX, and the new meme coin Pepeto.",
-            "content": "Anyone checking forecasts this week wants to know how far prices can move. Bitcoin’s options market expects little. Deribit’s DVOL index measures the swing traders expect over 30 days. It averaged 42.4 in 2026, the calmest year since its 2021 launch,... [3378 chars]",
-            "url": "https://techbullion.com/crypto-price-prediction-bitcoin-options-price-the-calmest-year-since-2021-as-pepeto-buyers-back-an-ai-scanner/",
-            "image": "https://techbullion.com/wp-content/uploads/2026/10/BTC-OCT-43.jpg",
-            "publishedAt": "2026-11-06T03:25:02Z",
-            "lang": "en",
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "c096a72d75eca9bd11554d69875bf2ef",
-            "title": "SoftBank credit risk jumps to 4-year high as AI fears roil market",
-            "description": "SINGAPORE/TOKYO, Nov 6 (Reuters) - The ⁠cost of insuring against a default for tech ⁠investor SoftBank Group jumped to its highest in four ‌years on Friday as worries about AI profitability roiled the world's financial markets.",
-            "content": "SINGAPORE/TOKYO, Nov 6 (Reuters) - The ⁠cost of insuring against a default for tech ⁠investor SoftBank Group jumped to its highest in four ‌years on Friday as worries about AI profitability roiled the world's financial markets.\nThe 5-year credit defa... [1183 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/11/06/softbank-credit-risk-jumps-to-4-year-high-as-ai-fears-roil-market",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/11/06/4199797.jpg",
-            "publishedAt": "2026-11-06T03:25:00Z",
+            "id": "97962a1707280079e4d5ab73bce6d2c3",
+            "title": "Google executive Donald Harrison resigns from SpaceX board",
+            "description": "Nov 6 (Reuters) - SpaceX ⁠disclosed on Friday that Google executive ⁠Donald Harrison has resigned from the rockets-to-AI ‌company's board after more than a decade.",
+            "content": "Nov 6 (Reuters) - SpaceX ⁠disclosed on Friday that Google executive ⁠Donald Harrison has resigned from the rockets-to-AI ‌company's board after more than a decade.\nHere are some details:\n• Harrison notified SpaceX of his resignation on ​November 4, a... [898 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/11/07/google-executive-donald-harrison-resigns-from-spacex-board",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/11/07/4201428.jpg",
+            "publishedAt": "2026-11-07T02:16:00Z",
             "lang": "en",
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -71,99 +23,147 @@
             }
         },
         {
-            "id": "af940e3ccd16f828cd4e034a2eca5129",
-            "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-            "description": "The San Francisco-based company is planning to go public later this month in what could be the biggest initial public offering of stock ever.",
-            "content": "SAN FRANCISCO — Anthropic is developing its artificial intelligence systems around twice as quickly as it was a year ago amid the CEO’s calls to slow down the technology’s pace of improvement, according to an analysis released Thursday by an independ... [5443 chars]",
-            "url": "https://www.adn.com/nation-world/2026/11/05/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says/",
-            "image": "https://www.adn.com/resizer/v2/RZNBYVEBS33NBIJQQKTURZQTHA.jpg?smart=true&auth=555b22d6b26b929d6d006bea436a6764a2fa20fe9120e962d316d7d34446e808&width=1200&height=630",
-            "publishedAt": "2026-11-06T03:18:44Z",
+            "id": "0ea7008e0fde864af36552b1e96a7507",
+            "title": "Dr. Dre Doubles Down On AI In Music, Takes Jab At Critics",
+            "description": "Having already incorporated AI into his own production process, Dr. Dre has another message for those skeptical of the technology.",
+            "content": "Artificial intelligence has plenty of critics in the music industry, but Dr. Dre isn't joining them. The legendary producer has already faced backlash for embracing the technology, and his latest remarks make it clear that public criticism hasn't cha... [2466 chars]",
+            "url": "https://www.hotnewhiphop.com/1016059-dr-dre-ai-music-listen-and-laugh-podcast",
+            "image": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/11/dre-scaled.jpg",
+            "publishedAt": "2026-11-07T02:09:00Z",
             "lang": "en",
             "source": {
-                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-                "name": "Anchorage Daily News",
-                "url": "https://www.adn.com",
+                "id": "abab8062417cb9b02ead633cc01bfb99",
+                "name": "HotNewHipHop",
+                "url": "https://www.hotnewhiphop.com",
                 "country": "us"
             }
         },
         {
-            "id": "c71b7a30370a7d9b0d74d33a6a2a22f8",
-            "title": "Asian benchmarks decline after AI worries send Wall Street tumbling",
-            "description": "The nationwide victories for Democrats raised the possibility that governments could force pauses in construction of more data centers.",
-            "content": "TOKYO: Japan's stock benchmark tumbled more than 6% after trading opened Friday, and other Asian stocks also declined following a widespread sell-off of issues related to artificial intelligence on Wall Street.\nTokyo's benchmark Nikkei 225 recouped s... [4129 chars]",
-            "url": "https://www.newindianexpress.com/business/2026/Nov/06/asian-benchmarks-decline-after-ai-worries-send-wall-street-tumbling-2",
-            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-06%2F0tjxl8dp%2FAP26310048440729.jpg?rect=0%2C0%2C5214%2C2737&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-11-06T03:18:34Z",
+            "id": "84121acb5a49903ddab0afd2f14a65fa",
+            "title": "Kashmir sees smart cement revolution as AI takes control of kiln",
+            "description": "At the centre of this development is the pyro process, the most energy-intensive stage of cement manufacturing, where raw materials are exposed to extremely high temperatures to produce clinker, the intermediate material used in cement production.",
+            "content": "Srinagar, Nov 6: Kashmir’s cement industry is entering a new phase of digital manufacturing, introducing Artificial Intelligence and predictive automation into a production process traditionally dependent on manual monitoring and operator experience.... [2558 chars]",
+            "url": "https://www.greaterkashmir.com/business/kashmir-sees-smart-cement-revolution-as-ai-takes-control-of-kiln-12790773",
+            "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2023/08/cement-industry.jpg",
+            "publishedAt": "2026-11-07T01:48:37Z",
             "lang": "en",
             "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
+                "id": "45feb5d82cbb4a21911b36edd4bb175a",
+                "name": "Greater Kashmir",
+                "url": "https://www.greaterkashmir.com",
                 "country": "in"
             }
         },
         {
-            "id": "916f673f475c767f5976525f3e6e6435",
-            "title": "Why OpenAI has pledged to pay data centre power bills and ban NDAs with officials",
-            "description": "OpenAI commits to covering the full electricity costs of its data centres amid rising public opposition and regulatory challenges following US midterm elections opposing AI infrastructure expansion.",
-            "content": "The company made the commitment on Thursday as part of a set of new policies aimed at addressing concerns among local communities. The announcement came two days after voters across the US rejected several proposals supporting data centre development... [4098 chars]",
-            "url": "https://www.financialexpress.com/world-news/us-news/why-openai-has-pledged-to-pay-data-centre-power-bills-and-ban-ndas-with-officials/4378286/",
-            "image": "https://images.financialexpressdigital.com/2026/10/OpenAI-goes-beyond-code.jpg",
-            "publishedAt": "2026-11-06T03:15:32Z",
+            "id": "f82d93e67d46828e67e5834105f0a9bd",
+            "title": "Voters' Message To President Trump Creates Opportunity, But Risks Popping The AI Bubble",
+            "description": "How the Democratic surge could reshape inflation, AI regulation, jobs, and market volatility. Click for a look at the economic fallout from the recent midterm elections.",
+            "content": "Analyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I ... [720 chars]",
+            "url": "https://seekingalpha.com/article/4964459-voters-message-to-president-trump-creates-opportunity-risks-popping-ai-bubble",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2303180095/image_2303180095.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-11-07T01:46:03Z",
             "lang": "en",
             "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "bbd3e9bb79db1117c6bf4a9d9262d110",
-            "title": "Airbnb plans to launch AI travel agent in 2027, will help users plan and book entire trips",
-            "description": "Airbnb plans to launch an AI-powered travel agent in the first half of 2027. The agent will help users discover destinations, compare stays, plan itineraries and book entire trips, while also assisting with reservations, refunds and other travel-related issues.",
-            "content": "From picking your holiday destination to finding the right stay and planning what to do next, there's a lot that goes into organising a trip. Airbnb wants an AI agent to help with all of it. The company is building an AI-powered travel agent that wil... [3144 chars]",
-            "url": "https://www.indiatoday.in/technology/news/story/airbnb-plans-to-launch-ai-travel-agent-in-2027-will-help-users-plan-and-book-entire-trips-3033428-2026-11-06",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/airbnb-new-rules-22013124-16x9.png?VersionId=ai.26gy03ZcScI4ZL4HinS6VzXL0cc7c",
-            "publishedAt": "2026-11-06T03:11:05Z",
-            "lang": "en",
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "c36cc727c6d653bbc2407b8c6bff885b",
-            "title": "Wall Street bleeds: Trump blames Democrats for $1 trillion stock rout post midterm shake up",
-            "description": "The rout was heavily driven by fears over a slowdown in the AI buildout, slamming chipmakers and AI infrastructure firms. The 'Magnificent Seven' — comprising Apple, Microsoft, Nvidia, Alphabet, Amazon, Meta Platforms and Tesla — erased over $1 trillion in aggregate market cap.",
-            "content": "US President Donald Trump placed the blame squarely on Democrats for a massive Wall Street sell-off on November 5 that wiped out $1 trillion in investor wealth following the U.S. midterm election results. Taking to Truth Social, Trump linked the mark... [4115 chars]",
-            "url": "https://www.businesstoday.in/world/story/wall-street-bleeds-trump-blames-democrats-for-1-trillion-stock-rout-post-midterm-shake-up-566083-2026-11-06",
-            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6aed44e69a346-wall-streets-anxieties-were-heightened-as-newly-elected-and-returning-democrats-signaled-immediate-060925628-16x9.png",
-            "publishedAt": "2026-11-06T03:09:34Z",
-            "lang": "en",
-            "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "9dad0ebc7ca60264f7d745d46bd9954a",
-            "title": "ChatGPT Plus vs. Google AI Pro: Two $20 plans, very different perks",
-            "description": "I use both ChatGPT Plus and Google AI Pro. Here’s how the $20 AI plans compare on coding, automation, and more perks.",
-            "content": "ZDNET’s key takeaways\nChatGPT Plus and Google AI Pro are $20/month and solid for everyday use.\nGoogle AI Pro bundles 5TB, YouTube Premium Lite, and AI video and music.\nPick ChatGPT Plus for Codex, ChatGPT Work, or if you have history with it.\nChatGPT... [12723 chars]",
-            "url": "https://www.zdnet.com/innovation/chatgpt-plus-vs-google-ai-pro/",
-            "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ChatGPT-Plus-vs-Gemini-AI-Pro.jpg",
-            "publishedAt": "2026-11-06T03:09:30Z",
-            "lang": "en",
-            "source": {
-                "id": "e3ea77287229069329f8a7580f62ec08",
-                "name": "ZDNet",
-                "url": "https://www.zdnet.com",
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
                 "country": "us"
+            }
+        },
+        {
+            "id": "bfdaf195a235ade150c92aa42215e96b",
+            "title": "Crusoe sells troubled Wyoming data center project to Google",
+            "description": "The deal highlights the challenges of developing massive AI data centers.",
+            "content": "Crusoe, an eight-year-old, Denver-based data center developer recently valued at $30.9 billion, confirmed Friday it has sold an unfinished data center project in southeastern Wyoming to Google.\nGoogle, which Crusoe had tried and failed to land as a c... [1724 chars]",
+            "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+            "publishedAt": "2026-11-07T01:40:28Z",
+            "lang": "en",
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "aa2f84a98a67c9280d865de7752c13cc",
+            "title": "Happy Diwali 2026: 5 ChatGPT And Gemini Prompts To Create Stunning Traditional Portraits",
+            "description": "Happy Diwali 2026: Want to create stunning traditional portraits with AI? Here are 5 detailed ChatGPT and Gemini prompts to transform your selfies into festive photographs featuring couples, families, boys, girls and groups of friends., Technology & Science, Times Now",
+            "content": "Happy Diwali 2026: How To Create Traditional AI Portraits Of Yourself, Family And Friends (AI-generated)\nAs we light up diyas, dress up in traditional outfits, worship goddess Laxmi and celebrate Diwali, it is time to capture some memorable moments w... [7706 chars]",
+            "url": "https://www.timesnownews.com/technology-science/happy-diwali-2026-5-chatgpt-and-gemini-prompts-to-create-stunning-traditional-portraits-article-156477023",
+            "image": "https://images.timesnownews.com/thumb/msid-156477025,thumbsize-2249928,width-1280,height-720,resizemode-75/156477025.jpg",
+            "publishedAt": "2026-11-07T01:34:22Z",
+            "lang": "en",
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "9d3c5794aa48cc2d02af15453f7d09d0",
+            "title": "AI Tool of the Week: this Gemini feature brings textbooks into AI learning",
+            "description": "Gemini Notebook's textbook catalog lets students ask questions grounded in selected books, with citations to original passages, and turn chapters into study guides, quizzes and flashcards.",
+            "content": "What problem does it solve?\nIf you have a child in school, you know the exam-week pattern. They ask an AI chatbot about a chapter, get a confident answer, and neither of you can tell whether it matches the book the teacher follows. The alternative is... [1429 chars]",
+            "url": "https://www.livemint.com/ai/google-gemini-notebook-notebooklm-textbooks-in-gemini-ai-tools-ai-for-students-ai-education-digital-textbook-11793844410386.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/pexels-photo-9489804_1793856129380_EmnO_1793856143061_uSve_35aa956d-a239-4dbf-864c-4bf5d8c13b1a_VjsX.jpeg",
+            "publishedAt": "2026-11-07T01:31:05Z",
+            "lang": "en",
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "5e28e7f09f1fd25deadb7d34707d2769",
+            "title": "Ottawa and Silicon Valley are both after Canadian AI processing power. Who will win?",
+            "description": "Federal budget proposes fiscal backing to jump-start development of 500 MW of domestically focused data centres",
+            "content": "The federal government’s bid to help Canadian artificial-intelligence companies get domestically controlled processing power could collide with the plans of Silicon Valley giants that may increasingly look north as the U.S. turns against data centres... [5294 chars]",
+            "url": "https://www.theglobeandmail.com/business/article-ottawa-silicon-valley-after-canadian-ai-processing-power-who-will-win/",
+            "image": "https://www.theglobeandmail.com/resizer/v2/XQVJFLX7RRCP5NDRGNR3GZ2Y6E.JPG?auth=78771605897d02f6d592b88da1195db54ec92f65eff7b6cc3b98d7fac44e60b4&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2026-11-07T01:30:17Z",
+            "lang": "en",
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            }
+        },
+        {
+            "id": "8130ef42b5518ee1529c72cf1aac5232",
+            "title": "S&P 500 Posts Biggest Weekly Drop Since 2025 On AI Trade Worries",
+            "description": "Retail traders, the stock market's most avid dip buyers since the pandemic, were among the investors buying on Friday.",
+            "content": "US stocks logged their biggest weekly loss since April 2025 on concerns over the artificial intelligence trade after Democrats swept the US midterm elections.\nEven though the Nasdaq 100 Index climbed 1.4%, and the S&P 500 Index rose 0.3% Friday the g... [6168 chars]",
+            "url": "https://www.ndtvprofit.com/markets/s-p-500-posts-biggest-weekly-drop-since-2025-on-ai-trade-worries-12295283",
+            "image": "https://c.ndtvimg.com/2026-11/r6lo8lek_sandp_625x300_07_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-11-07T01:27:27Z",
+            "lang": "en",
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "82722d469d8863584a3fe2377c58933b",
+            "title": "S&P 500 posts biggest weekly drop since 2025 on AI trade worries",
+            "description": "It was a rollercoaster week full of superlatives. Stocks surged Wednesday following the midterms on what was seen as a relief rally following the midterms. Tech megacaps also jumped. But the advance was short-lived. On Thursday, tech stocks plunged sending the Nasdaq 100 to notch its biggest one-day rout since the Covid pandemic.",
+            "content": "US stocks logged their biggest weekly loss since April 2025 on concerns over the artificial intelligence trade after Democrats swept the US midterm elections.\nEven though the Nasdaq 100 Index climbed 1.4%, and the S&P 500 Index rose 0.3% Friday the g... [5043 chars]",
+            "url": "https://www.moneycontrol.com/news/business/markets/s-p-500-posts-biggest-weekly-drop-since-2025-on-ai-trade-worries-14074002.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261107012206_S-P-500.jpg",
+            "publishedAt": "2026-11-07T01:26:25Z",
+            "lang": "en",
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
             }
         }
     ]
