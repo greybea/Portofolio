@@ -4,64 +4,16 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 494139,
+    "totalArticles": 494489,
     "articles": [
         {
-            "id": "97962a1707280079e4d5ab73bce6d2c3",
-            "title": "Google executive Donald Harrison resigns from SpaceX board",
-            "description": "Nov 6 (Reuters) - SpaceX ⁠disclosed on Friday that Google executive ⁠Donald Harrison has resigned from the rockets-to-AI ‌company's board after more than a decade.",
-            "content": "Nov 6 (Reuters) - SpaceX ⁠disclosed on Friday that Google executive ⁠Donald Harrison has resigned from the rockets-to-AI ‌company's board after more than a decade.\nHere are some details:\n• Harrison notified SpaceX of his resignation on ​November 4, a... [898 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/11/07/google-executive-donald-harrison-resigns-from-spacex-board",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/11/07/4201428.jpg",
-            "publishedAt": "2026-11-07T02:16:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            }
-        },
-        {
-            "id": "0ea7008e0fde864af36552b1e96a7507",
-            "title": "Dr. Dre Doubles Down On AI In Music, Takes Jab At Critics",
-            "description": "Having already incorporated AI into his own production process, Dr. Dre has another message for those skeptical of the technology.",
-            "content": "Artificial intelligence has plenty of critics in the music industry, but Dr. Dre isn't joining them. The legendary producer has already faced backlash for embracing the technology, and his latest remarks make it clear that public criticism hasn't cha... [2466 chars]",
-            "url": "https://www.hotnewhiphop.com/1016059-dr-dre-ai-music-listen-and-laugh-podcast",
-            "image": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/11/dre-scaled.jpg",
-            "publishedAt": "2026-11-07T02:09:00Z",
-            "lang": "en",
-            "source": {
-                "id": "abab8062417cb9b02ead633cc01bfb99",
-                "name": "HotNewHipHop",
-                "url": "https://www.hotnewhiphop.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "84121acb5a49903ddab0afd2f14a65fa",
-            "title": "Kashmir sees smart cement revolution as AI takes control of kiln",
-            "description": "At the centre of this development is the pyro process, the most energy-intensive stage of cement manufacturing, where raw materials are exposed to extremely high temperatures to produce clinker, the intermediate material used in cement production.",
-            "content": "Srinagar, Nov 6: Kashmir’s cement industry is entering a new phase of digital manufacturing, introducing Artificial Intelligence and predictive automation into a production process traditionally dependent on manual monitoring and operator experience.... [2558 chars]",
-            "url": "https://www.greaterkashmir.com/business/kashmir-sees-smart-cement-revolution-as-ai-takes-control-of-kiln-12790773",
-            "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2023/08/cement-industry.jpg",
-            "publishedAt": "2026-11-07T01:48:37Z",
-            "lang": "en",
-            "source": {
-                "id": "45feb5d82cbb4a21911b36edd4bb175a",
-                "name": "Greater Kashmir",
-                "url": "https://www.greaterkashmir.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "f82d93e67d46828e67e5834105f0a9bd",
-            "title": "Voters' Message To President Trump Creates Opportunity, But Risks Popping The AI Bubble",
-            "description": "How the Democratic surge could reshape inflation, AI regulation, jobs, and market volatility. Click for a look at the economic fallout from the recent midterm elections.",
-            "content": "Analyst’s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I ... [720 chars]",
-            "url": "https://seekingalpha.com/article/4964459-voters-message-to-president-trump-creates-opportunity-risks-popping-ai-bubble",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2303180095/image_2303180095.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-11-07T01:46:03Z",
+            "id": "ee9840188bf9a915cc85a2b57ecc5b80",
+            "title": "SoundHound Stock: A Great Value Buy As Profit Synergy Expected In 2027 (NASDAQ:SOUN)",
+            "description": "Why SoundHound remains a compelling AI software buy after its YTD drop.",
+            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of SOUN either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
+            "url": "https://seekingalpha.com/article/4964796-soundhound-a-great-value-buy-as-profit-synergy-expected-in-2027",
+            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2264783534/image_2264783534.jpg?io=getty-c-w1536",
+            "publishedAt": "2026-11-08T02:34:44Z",
             "lang": "en",
             "source": {
                 "id": "a6d401909ca644c4ffb332486c9cfaea",
@@ -71,77 +23,93 @@
             }
         },
         {
-            "id": "bfdaf195a235ade150c92aa42215e96b",
-            "title": "Crusoe sells troubled Wyoming data center project to Google",
-            "description": "The deal highlights the challenges of developing massive AI data centers.",
-            "content": "Crusoe, an eight-year-old, Denver-based data center developer recently valued at $30.9 billion, confirmed Friday it has sold an unfinished data center project in southeastern Wyoming to Google.\nGoogle, which Crusoe had tried and failed to land as a c... [1724 chars]",
-            "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
-            "publishedAt": "2026-11-07T01:40:28Z",
+            "id": "c52127803765d94c0d67e53bba114f7b",
+            "title": "Asia’s AI slump revives China and India stocks",
+            "description": "AI slump revives demand for China and India stocks as investors seek non-AI exposure across Asia. Read more at straitstimes.com.",
+            "content": "NEW YORK – The unravelling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favour Chinese and Indian stocks as well as companies poised to benefit from easing inflation an... [5267 chars]",
+            "url": "https://www.straitstimes.com/business/ai-slump-revives-asias-forgotten-trades-from-china-to-india",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3bb7eb84126df1d6a6becc2e01dd83b333a4505dc5361ef3828e5fce8982632c?w=1200",
+            "publishedAt": "2026-11-08T02:33:00Z",
             "lang": "en",
             "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
             }
         },
         {
-            "id": "aa2f84a98a67c9280d865de7752c13cc",
-            "title": "Happy Diwali 2026: 5 ChatGPT And Gemini Prompts To Create Stunning Traditional Portraits",
-            "description": "Happy Diwali 2026: Want to create stunning traditional portraits with AI? Here are 5 detailed ChatGPT and Gemini prompts to transform your selfies into festive photographs featuring couples, families, boys, girls and groups of friends., Technology & Science, Times Now",
-            "content": "Happy Diwali 2026: How To Create Traditional AI Portraits Of Yourself, Family And Friends (AI-generated)\nAs we light up diyas, dress up in traditional outfits, worship goddess Laxmi and celebrate Diwali, it is time to capture some memorable moments w... [7706 chars]",
-            "url": "https://www.timesnownews.com/technology-science/happy-diwali-2026-5-chatgpt-and-gemini-prompts-to-create-stunning-traditional-portraits-article-156477023",
-            "image": "https://images.timesnownews.com/thumb/msid-156477025,thumbsize-2249928,width-1280,height-720,resizemode-75/156477025.jpg",
-            "publishedAt": "2026-11-07T01:34:22Z",
+            "id": "7ee95c4a817214681234c18c1a24305b",
+            "title": "AI slump revives Asia's forgotten stock bets, from China to India",
+            "description": "Democrats' sweep of Congress and the resulting rethink of the AI trade are prompting investors to diversify into out-of-favour markets such as India and China",
+            "content": "Democrats' sweep of Congress and the resulting rethink of the AI trade are prompting investors to diversify into out-of-favour markets such as India and China\nIndia’s appeal, meanwhile, has grown as oil prices declined on expectations of an earlier e... [5866 chars]",
+            "url": "https://www.business-standard.com/markets/news/ai-slump-revives-asia-s-forgotten-stock-bets-from-china-to-india-126110800052_1.html",
+            "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/06/thumb/fitandfill/1200X628/1793960126-4586.jpeg",
+            "publishedAt": "2026-11-08T02:29:44Z",
             "lang": "en",
             "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
                 "country": "in"
             }
         },
         {
-            "id": "9d3c5794aa48cc2d02af15453f7d09d0",
-            "title": "AI Tool of the Week: this Gemini feature brings textbooks into AI learning",
-            "description": "Gemini Notebook's textbook catalog lets students ask questions grounded in selected books, with citations to original passages, and turn chapters into study guides, quizzes and flashcards.",
-            "content": "What problem does it solve?\nIf you have a child in school, you know the exam-week pattern. They ask an AI chatbot about a chapter, get a confident answer, and neither of you can tell whether it matches the book the teacher follows. The alternative is... [1429 chars]",
-            "url": "https://www.livemint.com/ai/google-gemini-notebook-notebooklm-textbooks-in-gemini-ai-tools-ai-for-students-ai-education-digital-textbook-11793844410386.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/pexels-photo-9489804_1793856129380_EmnO_1793856143061_uSve_35aa956d-a239-4dbf-864c-4bf5d8c13b1a_VjsX.jpeg",
-            "publishedAt": "2026-11-07T01:31:05Z",
+            "id": "faa02577c985a2f3f50ceec19bb2a494",
+            "title": "making expertise, improve organisational efficiency: McKinsey",
+            "description": "Artificial intelligence (AI) can help companies capture the decision-making experience and leadership knowledge of chief executives and make it accessible across the organisation, potentially improving decision-making and reducing dependence on individual leaders, according to a report by McKinsey.",
+            "content": "New Delhi [India], November 8 (ANI): Artificial intelligence (AI) can help companies capture the decision-making experience and leadership knowledge of chief executives and make it accessible across the organisation, potentially improving decision-ma... [2589 chars]",
+            "url": "https://www.tribuneindia.com/news/business/ai-can-help-companies-preserve-ceo-decision-making-expertise-improve-organisational-efficiency-mckinsey/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZhMTkyZDcwLWRiMWItMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
+            "publishedAt": "2026-11-08T02:27:36Z",
             "lang": "en",
             "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
                 "country": "in"
             }
         },
         {
-            "id": "5e28e7f09f1fd25deadb7d34707d2769",
-            "title": "Ottawa and Silicon Valley are both after Canadian AI processing power. Who will win?",
-            "description": "Federal budget proposes fiscal backing to jump-start development of 500 MW of domestically focused data centres",
-            "content": "The federal government’s bid to help Canadian artificial-intelligence companies get domestically controlled processing power could collide with the plans of Silicon Valley giants that may increasingly look north as the U.S. turns against data centres... [5294 chars]",
-            "url": "https://www.theglobeandmail.com/business/article-ottawa-silicon-valley-after-canadian-ai-processing-power-who-will-win/",
-            "image": "https://www.theglobeandmail.com/resizer/v2/XQVJFLX7RRCP5NDRGNR3GZ2Y6E.JPG?auth=78771605897d02f6d592b88da1195db54ec92f65eff7b6cc3b98d7fac44e60b4&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2026-11-07T01:30:17Z",
+            "id": "37cf1e8c5553885885777abf8555a247",
+            "title": "AI can help companies preserve CEO decision-making expertise, improve organisational efficiency: McKinsey",
+            "description": "Artificial intelligence (AI) can help companies capture the decision-making experience and leadership knowledge of chief executives and make it accessible across the organisation, potentially improving decision-making and reducing dependence on individual leaders, according to a report by McKinsey.",
+            "content": "New Delhi [India], November 8 (ANI): Artificial intelligence (AI) can help companies capture the decision-making experience and leadership knowledge of chief executives and make it accessible across the organisation, potentially improving decision-ma... [993 chars]",
+            "url": "https://www.aninews.in/news/business/ai-can-help-companies-preserve-ceo-decision-making-expertise-improve-organisational-efficiency-mckinsey20261108075606/",
+            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261108021236-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-11-08T02:26:06Z",
             "lang": "en",
             "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
             }
         },
         {
-            "id": "8130ef42b5518ee1529c72cf1aac5232",
-            "title": "S&P 500 Posts Biggest Weekly Drop Since 2025 On AI Trade Worries",
-            "description": "Retail traders, the stock market's most avid dip buyers since the pandemic, were among the investors buying on Friday.",
-            "content": "US stocks logged their biggest weekly loss since April 2025 on concerns over the artificial intelligence trade after Democrats swept the US midterm elections.\nEven though the Nasdaq 100 Index climbed 1.4%, and the S&P 500 Index rose 0.3% Friday the g... [6168 chars]",
-            "url": "https://www.ndtvprofit.com/markets/s-p-500-posts-biggest-weekly-drop-since-2025-on-ai-trade-worries-12295283",
-            "image": "https://c.ndtvimg.com/2026-11/r6lo8lek_sandp_625x300_07_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-11-07T01:27:27Z",
+            "id": "852838c6207ea53d3d94ae3d108f5fbc",
+            "title": "India's lack of AI stocks turns into an advantage as global funds rethink Asia investments",
+            "description": "Global investors are cutting exposure to AI-heavy Asian stocks and turning to India, China and consumer-focused sectors after the US midterms. Falling oil prices are adding to India's appeal.",
+            "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nThe unraveling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese... [5362 chars]",
+            "url": "https://www.moneycontrol.com/news/business/india-s-lack-of-ai-stocks-turns-into-an-advantage-as-global-funds-rethink-asia-investments-14074662.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251008011517_asia.jpg",
+            "publishedAt": "2026-11-08T02:17:40Z",
+            "lang": "en",
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "ed2dd7e9ed6dab5f2cc2ba8233efa359",
+            "title": "AI Slump Revives Asia's Forgotten Trades From China To India",
+            "description": "Aberdeen Investments favors markets powered by stronger domestic growth, including India and Vietnam, and sees upside in Chinese technology firms.",
+            "content": "The unraveling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese and Indian stocks as well as companies poised to benefit from easing inflation and trade tensi... [5710 chars]",
+            "url": "https://www.ndtvprofit.com/markets/ai-slump-revives-asias-forgotten-trades-from-china-to-india-12298870",
+            "image": "https://c.ndtvimg.com/2026-06/0sbp82t8_ai_625x300_25_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-11-08T02:05:47Z",
             "lang": "en",
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -151,18 +119,50 @@
             }
         },
         {
-            "id": "82722d469d8863584a3fe2377c58933b",
-            "title": "S&P 500 posts biggest weekly drop since 2025 on AI trade worries",
-            "description": "It was a rollercoaster week full of superlatives. Stocks surged Wednesday following the midterms on what was seen as a relief rally following the midterms. Tech megacaps also jumped. But the advance was short-lived. On Thursday, tech stocks plunged sending the Nasdaq 100 to notch its biggest one-day rout since the Covid pandemic.",
-            "content": "US stocks logged their biggest weekly loss since April 2025 on concerns over the artificial intelligence trade after Democrats swept the US midterm elections.\nEven though the Nasdaq 100 Index climbed 1.4%, and the S&P 500 Index rose 0.3% Friday the g... [5043 chars]",
-            "url": "https://www.moneycontrol.com/news/business/markets/s-p-500-posts-biggest-weekly-drop-since-2025-on-ai-trade-worries-14074002.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261107012206_S-P-500.jpg",
-            "publishedAt": "2026-11-07T01:26:25Z",
+            "id": "564c93e6b9bbd0797a138f3bb52b4a80",
+            "title": "Activists storm Microsoft AI data centre in Netherlands amid European backlash",
+            "description": "More than 100 activists stormed a Microsoft data centre in the Netherlands on Friday, protesting against the expansion of artificial intelligence on the first",
+            "content": "More than 100 activists stormed a Microsoft data centre in the Netherlands on Friday, protesting against the expansion of artificial intelligence on the first day of a two-day demonstration.\nAn anti-AI group, Stop Dirty Data Centres, organised the pr... [1793 chars]",
+            "url": "https://www.europesays.com/3360142/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/11/1794103478.webp",
+            "publishedAt": "2026-11-08T02:04:36Z",
             "lang": "en",
             "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "90cf0c26a7a7c5c762ae6181d357206c",
+            "title": "Diwali 2.0: Has AI Become Your New Festive Assistant?",
+            "description": "From rangoli designs and personalised greetings to festive menus and outfit ideas, chatbots are becoming the newest helpers in Diwali preparations",
+            "content": "Somewhere in India tonight, a grown adult is typing ‘easy peacock rangoli for someone with zero talent’ into a chatbot. Somewhere else, an AI is being asked whether fourteen guests can survive on two kilos of paneer. And in at least one family WhatsA... [4377 chars]",
+            "url": "https://www.freepressjournal.in/lifestyle/diwali-20-has-ai-become-your-new-festive-assistant",
+            "image": "https://media.assettype.com/freepressjournal/2026-11-06/fin3hbu9/Bheja-anchor-new-pic.png",
+            "publishedAt": "2026-11-08T02:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "0d3419f4920bdd0bfdcc7cc6501e4a3d",
+            "title": "AI slump revives Asia’s forgotten trades from China to India",
+            "description": "Global investors are rethinking their Asia bets as the AI trade loses momentum following the US midterm elections. India and China are emerging as potential beneficiaries of the shift, with funds rotating towards undervalued stocks, domestic growth, healthcare, consumer companies and financials. India's limited AI exposure, easing oil prices and renewed foreign inflows are strengthening its appeal.",
+            "content": "Synopsis\nGlobal investors are rethinking their Asia bets as the AI trade loses momentum following the US midterm elections. India and China are emerging as potential beneficiaries of the shift, with funds rotating towards undervalued stocks, domestic... [6072 chars]",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indian-stock-market-winers-ai-trade-rout-artificial-intelligence-stock-slump-revives-asias-forgotten-trades-from-china-to-india/articleshow/135649421.cms",
+            "image": "https://img.etimg.com/thumb/msid-135649440,width-1200,height-900,imgsize-287290,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-11-08T01:44:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         }
