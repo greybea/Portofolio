@@ -4,144 +4,128 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 494489,
+    "totalArticles": 494924,
     "articles": [
         {
-            "id": "ee9840188bf9a915cc85a2b57ecc5b80",
-            "title": "SoundHound Stock: A Great Value Buy As Profit Synergy Expected In 2027 (NASDAQ:SOUN)",
-            "description": "Why SoundHound remains a compelling AI software buy after its YTD drop.",
-            "content": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of SOUN either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (oth... [679 chars]",
-            "url": "https://seekingalpha.com/article/4964796-soundhound-a-great-value-buy-as-profit-synergy-expected-in-2027",
-            "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2264783534/image_2264783534.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-11-08T02:34:44Z",
+            "id": "fab09dc8f7c00ecd06f45a3a42dbd99f",
+            "title": "UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction",
+            "description": "UBS Chief Executive Sergio Ermotti commented on the recent downturn in AI stocks, attributing it to unrealistic expectations. He expressed optimism about the economic potential of AI, but cautioned that the timeline for advancements may be overstated. Recent US midterm elections raised concerns about stricter regulations impacting the AI sector's growth.",
+            "content": "Synopsis\nUBS Chief Executive Sergio Ermotti commented on the recent downturn in AI stocks, attributing it to unrealistic expectations. He expressed optimism about the economic potential of AI, but cautioned that the timeline for advancements may be o... [2416 chars]",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/ubs-ceo-says-ai-investors-had-been-pricing-for-perfection-until-sectors-sharp-correction/articleshow/135672371.cms",
+            "image": "https://img.etimg.com/thumb/msid-135672524,width-1200,height-900,imgsize-109066,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-11-09T05:48:00Z",
             "lang": "en",
             "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "c772b058b0eb46b90aa486978ee1408e",
+            "title": "Fragile calm after AI whiplash",
+            "description": "A look at the day ahead in European and global markets from Jiaxing Li\nIt has been an upbeat start to the week, with Asian shares rebounding and US equity futures edging higher,...",
+            "content": "A look at the day ahead in European and global markets from Jiaxing Li\nIt has been an upbeat start to the week, with Asian shares rebounding and US equity futures edging higher, after the Democrats' sweeping midterm elections victory set off a chaoti... [1628 chars]",
+            "url": "https://www.marketscreener.com/news/fragile-calm-after-ai-whiplash-ce785fd3d981f724",
+            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-11/2026-11-09T054509Z_1_LYNXNPEMA80D7_RTROPTP_4_USA-STOCKS.JPG",
+            "publishedAt": "2026-11-09T05:47:19Z",
+            "lang": "en",
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "a02bb327b6e6c34bb3836cf20de6be22",
+            "title": "AI agents in car dealerships: They never take time off or get sick, and can work out how quickly vehicles will sell",
+            "description": "Irish dealers are embracing the time benefits that come with deploying AI agents",
+            "content": "Car sales, to the buyer at least, haven’t changed all that much since Henry Ford first rolled out the Model T. The sector is long established, with many dealerships in Ireland having decades of heritage.\nIt’s a human business. One that involves talki... [7018 chars]",
+            "url": "https://www.irishtimes.com/business/2026/11/09/ai-agents-in-car-dealerships-they-never-take-time-off-or-get-sick-and-can-work-out-how-quickly-vehicles-will-sell/",
+            "image": "https://www.irishtimes.com/resizer/v2/B2HFELFOCJDAZGQQ7RHHBZAFP4.jpg?smart=true&auth=f160528e0c6fbc3339286e756801ebebfab5b2e8fd23fc4ce56c41c28fb8c7d9&width=1200&height=630",
+            "publishedAt": "2026-11-09T05:47:00Z",
+            "lang": "en",
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            }
+        },
+        {
+            "id": "eee17673401d95817cd5afc16fc856c5",
+            "title": "Asian markets bounce back after a recovery for AI stocks on Wall Street",
+            "description": "Asian shares and U.S. futures have advanced after artificial intelligence stocks recovered some ground lost in last week's sell-offs. Asian shares and",
+            "content": "Asian shares and U.S. futures have advanced after artificial intelligence stocks recovered some ground lost in last week’s sell-offs.\nAsian shares and U.S. futures advanced Monday after artificial intelligence stocks recovered some ground lost in las... [4066 chars]",
+            "url": "https://www.breitbart.com/news/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/",
+            "image": "https://media.breitbart.com/media/2026/11/wi/ap/financial-markets-wall-street-37-74-financial-markets-wall-street-market-is-displayed-screens-floo-640x335.jpg",
+            "publishedAt": "2026-11-09T05:45:44Z",
+            "lang": "en",
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
                 "country": "us"
             }
         },
         {
-            "id": "c52127803765d94c0d67e53bba114f7b",
-            "title": "Asia’s AI slump revives China and India stocks",
-            "description": "AI slump revives demand for China and India stocks as investors seek non-AI exposure across Asia. Read more at straitstimes.com.",
-            "content": "NEW YORK – The unravelling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favour Chinese and Indian stocks as well as companies poised to benefit from easing inflation an... [5267 chars]",
-            "url": "https://www.straitstimes.com/business/ai-slump-revives-asias-forgotten-trades-from-china-to-india",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3bb7eb84126df1d6a6becc2e01dd83b333a4505dc5361ef3828e5fce8982632c?w=1200",
-            "publishedAt": "2026-11-08T02:33:00Z",
+            "id": "0ceefa4e041c265a70f274e4f49678d9",
+            "title": "Reserve Bank warns Australia’s AI data centre boom will keep interest rates higher for longer",
+            "description": "After five interest rate hikes this year, struggling mortgage holders face a grim new warning from the RBA about what's driving rates even higher.",
+            "content": "The Reserve Bank has delivered a stark warning that Australia’s artificial intelligence building boom will push interest rates higher.\nAssistant Reserve Bank Governor Sarah Hunter told a banking conference in Sydney that AI investment will drive up i... [2378 chars]",
+            "url": "https://7news.com.au/business/interest-rates/reserve-bank-warns-australias-ai-data-centre-boom-will-keep-interest-rates-higher-for-longer-c-23136373",
+            "image": "https://images.7news.com.au/publication/C-23136373/6c618fbb5ae4fd4bbb4e838a5ccb23f3a8db82cd-16x9-x0y0w1280h720.png?imwidth=1200",
+            "publishedAt": "2026-11-09T05:45:18Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
+                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
+                "name": "7NEWS Australia",
+                "url": "https://7news.com.au",
+                "country": "au"
             }
         },
         {
-            "id": "7ee95c4a817214681234c18c1a24305b",
-            "title": "AI slump revives Asia's forgotten stock bets, from China to India",
-            "description": "Democrats' sweep of Congress and the resulting rethink of the AI trade are prompting investors to diversify into out-of-favour markets such as India and China",
-            "content": "Democrats' sweep of Congress and the resulting rethink of the AI trade are prompting investors to diversify into out-of-favour markets such as India and China\nIndia’s appeal, meanwhile, has grown as oil prices declined on expectations of an earlier e... [5866 chars]",
-            "url": "https://www.business-standard.com/markets/news/ai-slump-revives-asia-s-forgotten-stock-bets-from-china-to-india-126110800052_1.html",
-            "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/06/thumb/fitandfill/1200X628/1793960126-4586.jpeg",
-            "publishedAt": "2026-11-08T02:29:44Z",
+            "id": "63f93b122d26c9d49a6fd508f2d927c2",
+            "title": "Apple Plans To Turn Siri Into An AI Agent To Take On ChatGPT Dots, Meta Muse: Report",
+            "description": "Apple could turn Siri into an AI agent as early as next year, allowing it to track goals, manage tasks and take action on behalf of users, as it looks to compete with ChatGPT Dots, Meta Muse and Grok., Technology & Science, Times Now",
+            "content": "Apple Could Turn Siri Into An AI Agent As Early As Next Year: Report (AI-generated)\nAs Apple continues to upgrade its Siri, the new buzz on social media points to how the tech giant may be working to offer an agentic AI experience. According to Bloom... [1982 chars]",
+            "url": "https://www.timesnownews.com/technology-science/apple-plans-to-turn-siri-into-an-ai-agent-to-take-on-chatgpt-dots-meta-muse-report-article-156484624",
+            "image": "https://images.timesnownews.com/thumb/msid-156484626,thumbsize-1763094,width-1280,height-720,resizemode-75/156484626.jpg",
+            "publishedAt": "2026-11-09T05:44:55Z",
             "lang": "en",
             "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
                 "country": "in"
             }
         },
         {
-            "id": "faa02577c985a2f3f50ceec19bb2a494",
-            "title": "making expertise, improve organisational efficiency: McKinsey",
-            "description": "Artificial intelligence (AI) can help companies capture the decision-making experience and leadership knowledge of chief executives and make it accessible across the organisation, potentially improving decision-making and reducing dependence on individual leaders, according to a report by McKinsey.",
-            "content": "New Delhi [India], November 8 (ANI): Artificial intelligence (AI) can help companies capture the decision-making experience and leadership knowledge of chief executives and make it accessible across the organisation, potentially improving decision-ma... [2589 chars]",
-            "url": "https://www.tribuneindia.com/news/business/ai-can-help-companies-preserve-ceo-decision-making-expertise-improve-organisational-efficiency-mckinsey/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZhMTkyZDcwLWRiMWItMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
-            "publishedAt": "2026-11-08T02:27:36Z",
+            "id": "c0193729daac22eedd20a5f66e6516bf",
+            "title": "MORNING BID EUROPE-Fragile calm after AI whiplash",
+            "description": "Read more about MORNING BID EUROPE-Fragile calm after AI whiplash on Devdiscourse",
+            "content": "A look at the day ahead in European and global ​markets from Jiaxing Li It has been an upbeat ​start to the week, with ‌Asian ​shares rebounding and US equity futures edging higher, after the Democrats' sweeping midterm elections victory set off a ch... [1686 chars]",
+            "url": "https://www.devdiscourse.com/article/international/4003704-morning-bid-europe-fragile-calm-after-ai-whiplash",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_36_53_1759644.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-11-09T05:41:12Z",
             "lang": "en",
             "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
                 "country": "in"
             }
         },
         {
-            "id": "37cf1e8c5553885885777abf8555a247",
-            "title": "AI can help companies preserve CEO decision-making expertise, improve organisational efficiency: McKinsey",
-            "description": "Artificial intelligence (AI) can help companies capture the decision-making experience and leadership knowledge of chief executives and make it accessible across the organisation, potentially improving decision-making and reducing dependence on individual leaders, according to a report by McKinsey.",
-            "content": "New Delhi [India], November 8 (ANI): Artificial intelligence (AI) can help companies capture the decision-making experience and leadership knowledge of chief executives and make it accessible across the organisation, potentially improving decision-ma... [993 chars]",
-            "url": "https://www.aninews.in/news/business/ai-can-help-companies-preserve-ceo-decision-making-expertise-improve-organisational-efficiency-mckinsey20261108075606/",
-            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261108021236-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-11-08T02:26:06Z",
-            "lang": "en",
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "852838c6207ea53d3d94ae3d108f5fbc",
-            "title": "India's lack of AI stocks turns into an advantage as global funds rethink Asia investments",
-            "description": "Global investors are cutting exposure to AI-heavy Asian stocks and turning to India, China and consumer-focused sectors after the US midterms. Falling oil prices are adding to India's appeal.",
-            "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nThe unraveling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese... [5362 chars]",
-            "url": "https://www.moneycontrol.com/news/business/india-s-lack-of-ai-stocks-turns-into-an-advantage-as-global-funds-rethink-asia-investments-14074662.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251008011517_asia.jpg",
-            "publishedAt": "2026-11-08T02:17:40Z",
-            "lang": "en",
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "ed2dd7e9ed6dab5f2cc2ba8233efa359",
-            "title": "AI Slump Revives Asia's Forgotten Trades From China To India",
-            "description": "Aberdeen Investments favors markets powered by stronger domestic growth, including India and Vietnam, and sees upside in Chinese technology firms.",
-            "content": "The unraveling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese and Indian stocks as well as companies poised to benefit from easing inflation and trade tensi... [5710 chars]",
-            "url": "https://www.ndtvprofit.com/markets/ai-slump-revives-asias-forgotten-trades-from-china-to-india-12298870",
-            "image": "https://c.ndtvimg.com/2026-06/0sbp82t8_ai_625x300_25_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-11-08T02:05:47Z",
-            "lang": "en",
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "564c93e6b9bbd0797a138f3bb52b4a80",
-            "title": "Activists storm Microsoft AI data centre in Netherlands amid European backlash",
-            "description": "More than 100 activists stormed a Microsoft data centre in the Netherlands on Friday, protesting against the expansion of artificial intelligence on the first",
-            "content": "More than 100 activists stormed a Microsoft data centre in the Netherlands on Friday, protesting against the expansion of artificial intelligence on the first day of a two-day demonstration.\nAn anti-AI group, Stop Dirty Data Centres, organised the pr... [1793 chars]",
-            "url": "https://www.europesays.com/3360142/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/11/1794103478.webp",
-            "publishedAt": "2026-11-08T02:04:36Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "90cf0c26a7a7c5c762ae6181d357206c",
-            "title": "Diwali 2.0: Has AI Become Your New Festive Assistant?",
-            "description": "From rangoli designs and personalised greetings to festive menus and outfit ideas, chatbots are becoming the newest helpers in Diwali preparations",
-            "content": "Somewhere in India tonight, a grown adult is typing ‘easy peacock rangoli for someone with zero talent’ into a chatbot. Somewhere else, an AI is being asked whether fourteen guests can survive on two kilos of paneer. And in at least one family WhatsA... [4377 chars]",
-            "url": "https://www.freepressjournal.in/lifestyle/diwali-20-has-ai-become-your-new-festive-assistant",
-            "image": "https://media.assettype.com/freepressjournal/2026-11-06/fin3hbu9/Bheja-anchor-new-pic.png",
-            "publishedAt": "2026-11-08T02:00:00Z",
+            "id": "1eac52bd6e1e4bf2d8806afe861e3156",
+            "title": "'Invest For A Decade': NSE CEO Warns Investors Against Quick Profits, F&O Trading Risks",
+            "description": "NSE CEO Ashish Kumar Chauhan has urged investors to prioritise long-term investing over quick profits, warning against uninformed derivatives trading, market rumours and borrowed funds. He recommended mutual funds and professional advice for inexperienced investors. Chauhan also cautioned that artificial intelligence enthusiasm could mirror the speculative excesses of the dot-com boom",
+            "content": "National Stock Exchange (NSE) Managing Director and Chief Executive Officer Ashish Kumar Chauhan has cautioned investors against chasing quick profits, following unsolicited stock recommendations and trading in derivatives without adequate knowledge.... [2191 chars]",
+            "url": "https://www.freepressjournal.in/business/invest-for-a-decade-nse-ceo-warns-investors-against-quick-profits-fo-trading-risks",
+            "image": "https://media.assettype.com/freepressjournal/2026-09-24/i83h1ukk/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-78.jpg",
+            "publishedAt": "2026-11-09T05:38:30Z",
             "lang": "en",
             "source": {
                 "id": "7eeaf9a839918543cc708f2d331c3be4",
@@ -151,19 +135,35 @@
             }
         },
         {
-            "id": "0d3419f4920bdd0bfdcc7cc6501e4a3d",
-            "title": "AI slump revives Asia’s forgotten trades from China to India",
-            "description": "Global investors are rethinking their Asia bets as the AI trade loses momentum following the US midterm elections. India and China are emerging as potential beneficiaries of the shift, with funds rotating towards undervalued stocks, domestic growth, healthcare, consumer companies and financials. India's limited AI exposure, easing oil prices and renewed foreign inflows are strengthening its appeal.",
-            "content": "Synopsis\nGlobal investors are rethinking their Asia bets as the AI trade loses momentum following the US midterm elections. India and China are emerging as potential beneficiaries of the shift, with funds rotating towards undervalued stocks, domestic... [6072 chars]",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indian-stock-market-winers-ai-trade-rout-artificial-intelligence-stock-slump-revives-asias-forgotten-trades-from-china-to-india/articleshow/135649421.cms",
-            "image": "https://img.etimg.com/thumb/msid-135649440,width-1200,height-900,imgsize-287290,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-11-08T01:44:00Z",
+            "id": "35cbbda32622a17b4719c5bda6d01983",
+            "title": "Nvidia probes whether CEO Jensen Huang was targeted by Chinese spy with whom he had affair",
+            "description": "US authorities have scrutinized Megaspeed, which buys AI chips from Nvidia, over suspicions it helped Beijing gain access to advanced AI chips that are barred from shipment to China",
+            "content": "Nvidia said on Sunday its board was probing whether CEO Jensen Huang had been the target of a foreign intelligence effort, after a media report alleged he had a close relationship with a Chinese businesswoman who passed information to Beijing.\nHuang ... [5019 chars]",
+            "url": "https://www.telegraphindia.com/world/nvidia-probes-whether-ceo-jensen-huang-was-targeted-by-chinese-spy-with-whom-he-had-affair/cid/2188523",
+            "image": "https://assets.telegraphindia.com/telegraph/2026/Nov/1794202261_nvidia-1.jpg",
+            "publishedAt": "2026-11-09T05:29:08Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "93a4f054e09bde095cda5265e575a952",
+                "name": "Telegraph India",
+                "url": "https://www.telegraphindia.com",
                 "country": "in"
+            }
+        },
+        {
+            "id": "e08e3fa87845c0869149c4183b708663",
+            "title": "Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets",
+            "description": "HONG KONG: Asian markets and US equity futures had an upbeat start on Monday, edging into positive territory after a wild week when tech-heavy markets in Asia suffered some of their steepest falls in years over AI.",
+            "content": "HONG KONG: Asian markets and US equity futures had an upbeat start on Monday, edging into positive territory after a wild week when tech-heavy markets in Asia suffered some of their steepest falls in years over AI.\nMSCI's broadest index of Asia-Pacif... [3597 chars]",
+            "url": "https://www.thestar.com.my/business/business-news/2026/11/09/asian-stocks-bounce-as-ai-mideast-jitters-recede-dollar-firm-on-fed-bets",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/11/09/4203092.png",
+            "publishedAt": "2026-11-09T05:27:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
             }
         }
     ]
