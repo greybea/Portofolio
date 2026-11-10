@@ -4,96 +4,32 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 494924,
+    "totalArticles": 495905,
     "articles": [
         {
-            "id": "fab09dc8f7c00ecd06f45a3a42dbd99f",
-            "title": "UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction",
-            "description": "UBS Chief Executive Sergio Ermotti commented on the recent downturn in AI stocks, attributing it to unrealistic expectations. He expressed optimism about the economic potential of AI, but cautioned that the timeline for advancements may be overstated. Recent US midterm elections raised concerns about stricter regulations impacting the AI sector's growth.",
-            "content": "Synopsis\nUBS Chief Executive Sergio Ermotti commented on the recent downturn in AI stocks, attributing it to unrealistic expectations. He expressed optimism about the economic potential of AI, but cautioned that the timeline for advancements may be o... [2416 chars]",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/ubs-ceo-says-ai-investors-had-been-pricing-for-perfection-until-sectors-sharp-correction/articleshow/135672371.cms",
-            "image": "https://img.etimg.com/thumb/msid-135672524,width-1200,height-900,imgsize-109066,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-11-09T05:48:00Z",
+            "id": "568951d5f8561ca9a18e5aed9abfca19",
+            "title": "World shares rise after technology shares advance on Wall Street ahead of US inflation data",
+            "description": "Global markets are higher after U.S. stocks rallied from last week’s losses. U.S. futures edged higher and oil prices fell. European markets rose in early trading and Asian stocks were boosted by gains in AI-related sectors. China reported its trade surplus for 2026 has already surpassed $1 trillion. Investors are watching for U.S. inflation data for October. On Monday, the S&P 500 jumped 2.3%, the Dow Jones Industrial Average gained 2.2%, and the Nasdaq composite rose 2.7%. Stocks were lifted by a decline in the price of Brent crude, after President Donald Trump said a resumption of strikes on Iran is “highly unlikely” if the United States sees progress in negotiations toward ending the war.",
+            "content": "HONG KONG (AP) — Global markets were higher Tuesday after U.S. stocks rallied, recovering most of their big losses from last week, while investors awaited U.S. inflation data for October.\nU.S. futures edged higher.\nOil prices extended losses, with Br... [1306 chars]",
+            "url": "https://www.ajc.com/news/2026/11/asian-stocks-rise-after-technology-shares-advance-on-wall-street-ahead-of-us-inflation-data/",
+            "image": "https://images.ajc.com/resizer/v2/R5EV3Q5PNBEHBOEXUSLVYMWUAQ.jpg?auth=4ded7a7e4c70b60cdba27c4dec562b96e0f7e51eaa7f0a65aa32f15d13dcdca5&width=1200&height=630&smart=true",
+            "publishedAt": "2026-11-10T03:52:51Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "c772b058b0eb46b90aa486978ee1408e",
-            "title": "Fragile calm after AI whiplash",
-            "description": "A look at the day ahead in European and global markets from Jiaxing Li\nIt has been an upbeat start to the week, with Asian shares rebounding and US equity futures edging higher,...",
-            "content": "A look at the day ahead in European and global markets from Jiaxing Li\nIt has been an upbeat start to the week, with Asian shares rebounding and US equity futures edging higher, after the Democrats' sweeping midterm elections victory set off a chaoti... [1628 chars]",
-            "url": "https://www.marketscreener.com/news/fragile-calm-after-ai-whiplash-ce785fd3d981f724",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-11/2026-11-09T054509Z_1_LYNXNPEMA80D7_RTROPTP_4_USA-STOCKS.JPG",
-            "publishedAt": "2026-11-09T05:47:19Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "a02bb327b6e6c34bb3836cf20de6be22",
-            "title": "AI agents in car dealerships: They never take time off or get sick, and can work out how quickly vehicles will sell",
-            "description": "Irish dealers are embracing the time benefits that come with deploying AI agents",
-            "content": "Car sales, to the buyer at least, haven’t changed all that much since Henry Ford first rolled out the Model T. The sector is long established, with many dealerships in Ireland having decades of heritage.\nIt’s a human business. One that involves talki... [7018 chars]",
-            "url": "https://www.irishtimes.com/business/2026/11/09/ai-agents-in-car-dealerships-they-never-take-time-off-or-get-sick-and-can-work-out-how-quickly-vehicles-will-sell/",
-            "image": "https://www.irishtimes.com/resizer/v2/B2HFELFOCJDAZGQQ7RHHBZAFP4.jpg?smart=true&auth=f160528e0c6fbc3339286e756801ebebfab5b2e8fd23fc4ce56c41c28fb8c7d9&width=1200&height=630",
-            "publishedAt": "2026-11-09T05:47:00Z",
-            "lang": "en",
-            "source": {
-                "id": "dd1d806725f45e4403e75c1bb23b447a",
-                "name": "The Irish Times",
-                "url": "https://www.irishtimes.com",
-                "country": "ie"
-            }
-        },
-        {
-            "id": "eee17673401d95817cd5afc16fc856c5",
-            "title": "Asian markets bounce back after a recovery for AI stocks on Wall Street",
-            "description": "Asian shares and U.S. futures have advanced after artificial intelligence stocks recovered some ground lost in last week's sell-offs. Asian shares and",
-            "content": "Asian shares and U.S. futures have advanced after artificial intelligence stocks recovered some ground lost in last week’s sell-offs.\nAsian shares and U.S. futures advanced Monday after artificial intelligence stocks recovered some ground lost in las... [4066 chars]",
-            "url": "https://www.breitbart.com/news/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/",
-            "image": "https://media.breitbart.com/media/2026/11/wi/ap/financial-markets-wall-street-37-74-financial-markets-wall-street-market-is-displayed-screens-floo-640x335.jpg",
-            "publishedAt": "2026-11-09T05:45:44Z",
-            "lang": "en",
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
                 "country": "us"
             }
         },
         {
-            "id": "0ceefa4e041c265a70f274e4f49678d9",
-            "title": "Reserve Bank warns Australia’s AI data centre boom will keep interest rates higher for longer",
-            "description": "After five interest rate hikes this year, struggling mortgage holders face a grim new warning from the RBA about what's driving rates even higher.",
-            "content": "The Reserve Bank has delivered a stark warning that Australia’s artificial intelligence building boom will push interest rates higher.\nAssistant Reserve Bank Governor Sarah Hunter told a banking conference in Sydney that AI investment will drive up i... [2378 chars]",
-            "url": "https://7news.com.au/business/interest-rates/reserve-bank-warns-australias-ai-data-centre-boom-will-keep-interest-rates-higher-for-longer-c-23136373",
-            "image": "https://images.7news.com.au/publication/C-23136373/6c618fbb5ae4fd4bbb4e838a5ccb23f3a8db82cd-16x9-x0y0w1280h720.png?imwidth=1200",
-            "publishedAt": "2026-11-09T05:45:18Z",
-            "lang": "en",
-            "source": {
-                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
-                "name": "7NEWS Australia",
-                "url": "https://7news.com.au",
-                "country": "au"
-            }
-        },
-        {
-            "id": "63f93b122d26c9d49a6fd508f2d927c2",
-            "title": "Apple Plans To Turn Siri Into An AI Agent To Take On ChatGPT Dots, Meta Muse: Report",
-            "description": "Apple could turn Siri into an AI agent as early as next year, allowing it to track goals, manage tasks and take action on behalf of users, as it looks to compete with ChatGPT Dots, Meta Muse and Grok., Technology & Science, Times Now",
-            "content": "Apple Could Turn Siri Into An AI Agent As Early As Next Year: Report (AI-generated)\nAs Apple continues to upgrade its Siri, the new buzz on social media points to how the tech giant may be working to offer an agentic AI experience. According to Bloom... [1982 chars]",
-            "url": "https://www.timesnownews.com/technology-science/apple-plans-to-turn-siri-into-an-ai-agent-to-take-on-chatgpt-dots-meta-muse-report-article-156484624",
-            "image": "https://images.timesnownews.com/thumb/msid-156484626,thumbsize-1763094,width-1280,height-720,resizemode-75/156484626.jpg",
-            "publishedAt": "2026-11-09T05:44:55Z",
+            "id": "fee31c2707f2b96822361848679171df",
+            "title": "Anthropic Launches Fable 5.2, Mythos 5.2 AI Models To Take On Gemini 4 Carbon: Check Pricing, Features",
+            "description": "Anthropic has launched Claude Fable 5.2 and Mythos 5.2 with improvements in coding, reasoning and visual understanding. Here's a look at their key features, benchmark performance, pricing and availability., Technology & Science, Times Now",
+            "content": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2 AI Models With Faster Performance, Lower Pricing (AI-generated)\nAs tech companies continue to release new AI models, Anthropic is the latest firm to release its frontier AI systems. The Dario Amodei-... [2214 chars]",
+            "url": "https://www.timesnownews.com/technology-science/anthropic-launches-fable-5-2-mythos-5-2-ai-models-to-take-on-gemini-4-carbon-check-pricing-features-article-156488495",
+            "image": "https://images.timesnownews.com/thumb/msid-156488521,thumbsize-2403645,width-1280,height-720,resizemode-75/156488521.jpg",
+            "publishedAt": "2026-11-10T03:50:46Z",
             "lang": "en",
             "source": {
                 "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
@@ -103,67 +39,131 @@
             }
         },
         {
-            "id": "c0193729daac22eedd20a5f66e6516bf",
-            "title": "MORNING BID EUROPE-Fragile calm after AI whiplash",
-            "description": "Read more about MORNING BID EUROPE-Fragile calm after AI whiplash on Devdiscourse",
-            "content": "A look at the day ahead in European and global ​markets from Jiaxing Li It has been an upbeat ​start to the week, with ‌Asian ​shares rebounding and US equity futures edging higher, after the Democrats' sweeping midterm elections victory set off a ch... [1686 chars]",
-            "url": "https://www.devdiscourse.com/article/international/4003704-morning-bid-europe-fragile-calm-after-ai-whiplash",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_36_53_1759644.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-11-09T05:41:12Z",
+            "id": "e687f9796e7ab2e05805ff35b1289294",
+            "title": "China trade surplus tops US$1 trillion on AI boom",
+            "description": "China’s trade surplus tops US$1 trillion as AI boom drives exports and raises tensions with trading partners. Read more at straitstimes.com.",
+            "content": "BEIJING - China’s trade surplus surged past US$1 trillion (S$1.3 trillion) in the first 10 months as a global race to build artificial intelligence (AI) infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynam... [3127 chars]",
+            "url": "https://www.straitstimes.com/business/chinas-trade-surplus-soars-past-us1-trillion-as-ai-boom-powers-exports",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/523f8781c0b5a2254ae20fa8a7798b5078c9404a1d31e3d5753cde5e463e36cc?w=1200",
+            "publishedAt": "2026-11-10T03:50:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "80a0732b36771cd9b268d386811e433c",
+            "title": "IIT Roorkee offers winter training and internship in these 5 AI courses",
+            "description": "IIT Roorkee has started the registration process for these short-term AI courses, with the last date to submit applications for both batches set as November 30. Interested candidates can visit the official EICT Academy portal, eict.iitr.ac.in to book a seat.",
+            "content": "AI courses and modules\nIIT Roorkee has curated the following courses for this session’s winter training and internship:\nName of the course Modules Generative AI & Prompt Engineering\nIntroduction to AI, Generative AI & LLMs\nFundamentals of Large Langu... [3168 chars]",
+            "url": "https://indianexpress.com/article/education/iit-roorkee-offers-winter-training-internship-ai-courses-eligibility-structure-fees-direct-link-eict-iitr-ac-in-10947115/",
+            "image": "https://images.indianexpress.com/2026/11/IIT-Roorkee-winter-training-and-internship-programmes.jpg",
+            "publishedAt": "2026-11-10T03:48:15Z",
+            "lang": "en",
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "4f3927a372e975ffc81d79657e924313",
+            "title": "Nvidia Controversy Explained: AI, China And National Security Concerns",
+            "description": "While US officials are investigating potential national security implications, China has denied the allegations, calling them baseless and politically motivated.",
+            "content": "China may have been interested in gaining access to sensitive information about Nvidia's artificial intelligence (AI) technology, business plans and US government policies through its chief executive, Jensen Huang, according to a report by The Verge.... [4903 chars]",
+            "url": "https://www.ndtv.com/world-news/did-china-target-nvidia-ceo-jensen-huang-to-gain-access-to-americas-ai-secrets-12306113",
+            "image": "https://c.ndtvimg.com/2026-11/cdfb567k_jensen-huang-alice-huang-_625x300_09_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-11-10T03:46:46Z",
+            "lang": "en",
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "50dcc54641aa1738a2c63c2f84a3f4a4",
+            "title": "Anthropic launches Fable 5.2 and Mythos 5.2 ahead of IPO",
+            "description": "Anthropic announced on Monday that it would release updated versions of two of its most powerful artificial intelligence (AI) models as the company prepares for a highly anticipated IPO this month.",
+            "content": "Anthropic announced on Monday that it would release updated versions of two of its most powerful artificial intelligence (AI) models as the company prepares for a highly anticipated IPO this month.\nThe new models, Fable 5.2 and Mythos 5.2, can perfor... [2332 chars]",
+            "url": "https://www.thehindu.com/sci-tech/technology/anthropic-launches-fable-52-and-mythos-52-ahead-of-ipo/article71684857.ece",
+            "image": "https://th-i.thgim.com/public/incoming/3cyyjr/article71684860.ece/alternates/LANDSCAPE_1200/2026-11-10T012731Z_1004564972_RC29LNAX65NU_RTRMADP_3_ANTHROPIC-IPO.JPG",
+            "publishedAt": "2026-11-10T03:43:25Z",
+            "lang": "en",
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "deabf98f8dc1dab24a1e8bfa0150a433",
+            "title": "KT Corp's Q3 Profit Dips Amid Data Breach Payouts, AI Investments",
+            "description": "KT Corp's Q3 Profit Dips Amid Data Breach Payouts, AI Investments - South Korea's leading mobile carrier, KT Corp., reported a 6.1% drop in its third-quarter operating profit compared to the ... Get Latest News on Technology only on lokmattimes.com",
+            "content": "South Korea's leading mobile carrier, KT Corp., reported a 6.1% drop in its third-quarter operating profit compared to the previous year. The company's earnings were impacted by significant expenditures related to compensating customers for a data br... [1460 chars]",
+            "url": "https://www.lokmattimes.com/technology/kt-corps-q3-profit-dips-amid-data-breach-payouts-ai-investments-a001-w02/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202611104007731_202611.jpg",
+            "publishedAt": "2026-11-10T03:43:17Z",
+            "lang": "en",
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "f26aa71f2ce426f868f38519c273b011",
+            "title": "Kiss your wife goodnight: Donald Trump says he threatened to arrest top AI exec",
+            "description": "US President Donald Trump revealed that he threatened to arrest a senior AI executive after the White House was informed of that executive’s company doing “something bad” with AI. Trump added the person changed entirely after this threat.",
+            "content": "“Get ready to go to jail. Please give your wife a kiss goodnight.” That is what US President Donald Trump told a top AI executive to get them back in line on AI safety.\nSpeaking on CBS’ 60 Minutes, the US president revealed the time when he took matt... [3276 chars]",
+            "url": "https://www.indiatoday.in/technology/news/story/kiss-your-wife-goodnight-donald-trump-says-he-threatened-to-arrest-top-ai-exec-3035771-2026-11-10",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/us-president-donald-trump-said-will-be-back-bigger-and-stronger-file-photo-reutersus-president-d-094049738-16x9_1.jpeg?VersionId=bUqlBuA2MTIekrz..awbSa7HPVk0vM.S",
+            "publishedAt": "2026-11-10T03:41:39Z",
+            "lang": "en",
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "43302078b86dc93749877405e48a791a",
+            "title": "Math anxiety may be stopping students from learning useful AI and data skills",
+            "description": "Artificial intelligence is increasingly becoming part of everyday life and work. AI can generate information, summarize evidence and perform calculations. However, it does not remove the need for critical thinking and conceptual understanding.",
+            "content": "Artificial intelligence is increasingly becoming part of everyday life and work. AI can generate information, summarize evidence and perform calculations. However, it does not remove the need for critical thinking and conceptual understanding.\nEmploy... [5171 chars]",
+            "url": "https://phys.org/news/2026-11-math-anxiety-students-ai-skills.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/mathematics.jpg",
+            "publishedAt": "2026-11-10T03:40:07Z",
+            "lang": "en",
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "17139fd12f4272233a35a074d728b38c",
+            "title": "WRAPUP 2-China's trade surplus soars past $1 trillion as AI boom powers exports",
+            "description": "Read more about WRAPUP 2-China's trade surplus soars past $1 trillion as AI boom powers exports on Devdiscourse",
+            "content": "China's trade ​surplus surged past $1 trillion in the first 10 months as a ‌global ​race to build AI infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic likely to sharpen tensions with major trading par... [3846 chars]",
+            "url": "https://www.devdiscourse.com/article/international/4004206-wrapup-2-chinas-trade-surplus-soars-past-1-trillion-as-ai-boom-powers-exports",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_11_55_1876187.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-11-10T03:40:02Z",
             "lang": "en",
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
                 "name": "Devdiscourse",
                 "url": "https://www.devdiscourse.com",
                 "country": "in"
-            }
-        },
-        {
-            "id": "1eac52bd6e1e4bf2d8806afe861e3156",
-            "title": "'Invest For A Decade': NSE CEO Warns Investors Against Quick Profits, F&O Trading Risks",
-            "description": "NSE CEO Ashish Kumar Chauhan has urged investors to prioritise long-term investing over quick profits, warning against uninformed derivatives trading, market rumours and borrowed funds. He recommended mutual funds and professional advice for inexperienced investors. Chauhan also cautioned that artificial intelligence enthusiasm could mirror the speculative excesses of the dot-com boom",
-            "content": "National Stock Exchange (NSE) Managing Director and Chief Executive Officer Ashish Kumar Chauhan has cautioned investors against chasing quick profits, following unsolicited stock recommendations and trading in derivatives without adequate knowledge.... [2191 chars]",
-            "url": "https://www.freepressjournal.in/business/invest-for-a-decade-nse-ceo-warns-investors-against-quick-profits-fo-trading-risks",
-            "image": "https://media.assettype.com/freepressjournal/2026-09-24/i83h1ukk/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-78.jpg",
-            "publishedAt": "2026-11-09T05:38:30Z",
-            "lang": "en",
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "35cbbda32622a17b4719c5bda6d01983",
-            "title": "Nvidia probes whether CEO Jensen Huang was targeted by Chinese spy with whom he had affair",
-            "description": "US authorities have scrutinized Megaspeed, which buys AI chips from Nvidia, over suspicions it helped Beijing gain access to advanced AI chips that are barred from shipment to China",
-            "content": "Nvidia said on Sunday its board was probing whether CEO Jensen Huang had been the target of a foreign intelligence effort, after a media report alleged he had a close relationship with a Chinese businesswoman who passed information to Beijing.\nHuang ... [5019 chars]",
-            "url": "https://www.telegraphindia.com/world/nvidia-probes-whether-ceo-jensen-huang-was-targeted-by-chinese-spy-with-whom-he-had-affair/cid/2188523",
-            "image": "https://assets.telegraphindia.com/telegraph/2026/Nov/1794202261_nvidia-1.jpg",
-            "publishedAt": "2026-11-09T05:29:08Z",
-            "lang": "en",
-            "source": {
-                "id": "93a4f054e09bde095cda5265e575a952",
-                "name": "Telegraph India",
-                "url": "https://www.telegraphindia.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "e08e3fa87845c0869149c4183b708663",
-            "title": "Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets",
-            "description": "HONG KONG: Asian markets and US equity futures had an upbeat start on Monday, edging into positive territory after a wild week when tech-heavy markets in Asia suffered some of their steepest falls in years over AI.",
-            "content": "HONG KONG: Asian markets and US equity futures had an upbeat start on Monday, edging into positive territory after a wild week when tech-heavy markets in Asia suffered some of their steepest falls in years over AI.\nMSCI's broadest index of Asia-Pacif... [3597 chars]",
-            "url": "https://www.thestar.com.my/business/business-news/2026/11/09/asian-stocks-bounce-as-ai-mideast-jitters-recede-dollar-firm-on-fed-bets",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/11/09/4203092.png",
-            "publishedAt": "2026-11-09T05:27:00Z",
-            "lang": "en",
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
             }
         }
     ]
