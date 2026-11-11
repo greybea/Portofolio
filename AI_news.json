@@ -4,96 +4,16 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 495905,
+    "totalArticles": 497213,
     "articles": [
         {
-            "id": "568951d5f8561ca9a18e5aed9abfca19",
-            "title": "World shares rise after technology shares advance on Wall Street ahead of US inflation data",
-            "description": "Global markets are higher after U.S. stocks rallied from last week’s losses. U.S. futures edged higher and oil prices fell. European markets rose in early trading and Asian stocks were boosted by gains in AI-related sectors. China reported its trade surplus for 2026 has already surpassed $1 trillion. Investors are watching for U.S. inflation data for October. On Monday, the S&P 500 jumped 2.3%, the Dow Jones Industrial Average gained 2.2%, and the Nasdaq composite rose 2.7%. Stocks were lifted by a decline in the price of Brent crude, after President Donald Trump said a resumption of strikes on Iran is “highly unlikely” if the United States sees progress in negotiations toward ending the war.",
-            "content": "HONG KONG (AP) — Global markets were higher Tuesday after U.S. stocks rallied, recovering most of their big losses from last week, while investors awaited U.S. inflation data for October.\nU.S. futures edged higher.\nOil prices extended losses, with Br... [1306 chars]",
-            "url": "https://www.ajc.com/news/2026/11/asian-stocks-rise-after-technology-shares-advance-on-wall-street-ahead-of-us-inflation-data/",
-            "image": "https://images.ajc.com/resizer/v2/R5EV3Q5PNBEHBOEXUSLVYMWUAQ.jpg?auth=4ded7a7e4c70b60cdba27c4dec562b96e0f7e51eaa7f0a65aa32f15d13dcdca5&width=1200&height=630&smart=true",
-            "publishedAt": "2026-11-10T03:52:51Z",
-            "lang": "en",
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "fee31c2707f2b96822361848679171df",
-            "title": "Anthropic Launches Fable 5.2, Mythos 5.2 AI Models To Take On Gemini 4 Carbon: Check Pricing, Features",
-            "description": "Anthropic has launched Claude Fable 5.2 and Mythos 5.2 with improvements in coding, reasoning and visual understanding. Here's a look at their key features, benchmark performance, pricing and availability., Technology & Science, Times Now",
-            "content": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2 AI Models With Faster Performance, Lower Pricing (AI-generated)\nAs tech companies continue to release new AI models, Anthropic is the latest firm to release its frontier AI systems. The Dario Amodei-... [2214 chars]",
-            "url": "https://www.timesnownews.com/technology-science/anthropic-launches-fable-5-2-mythos-5-2-ai-models-to-take-on-gemini-4-carbon-check-pricing-features-article-156488495",
-            "image": "https://images.timesnownews.com/thumb/msid-156488521,thumbsize-2403645,width-1280,height-720,resizemode-75/156488521.jpg",
-            "publishedAt": "2026-11-10T03:50:46Z",
-            "lang": "en",
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "e687f9796e7ab2e05805ff35b1289294",
-            "title": "China trade surplus tops US$1 trillion on AI boom",
-            "description": "China’s trade surplus tops US$1 trillion as AI boom drives exports and raises tensions with trading partners. Read more at straitstimes.com.",
-            "content": "BEIJING - China’s trade surplus surged past US$1 trillion (S$1.3 trillion) in the first 10 months as a global race to build artificial intelligence (AI) infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynam... [3127 chars]",
-            "url": "https://www.straitstimes.com/business/chinas-trade-surplus-soars-past-us1-trillion-as-ai-boom-powers-exports",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/523f8781c0b5a2254ae20fa8a7798b5078c9404a1d31e3d5753cde5e463e36cc?w=1200",
-            "publishedAt": "2026-11-10T03:50:00Z",
-            "lang": "en",
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            }
-        },
-        {
-            "id": "80a0732b36771cd9b268d386811e433c",
-            "title": "IIT Roorkee offers winter training and internship in these 5 AI courses",
-            "description": "IIT Roorkee has started the registration process for these short-term AI courses, with the last date to submit applications for both batches set as November 30. Interested candidates can visit the official EICT Academy portal, eict.iitr.ac.in to book a seat.",
-            "content": "AI courses and modules\nIIT Roorkee has curated the following courses for this session’s winter training and internship:\nName of the course Modules Generative AI & Prompt Engineering\nIntroduction to AI, Generative AI & LLMs\nFundamentals of Large Langu... [3168 chars]",
-            "url": "https://indianexpress.com/article/education/iit-roorkee-offers-winter-training-internship-ai-courses-eligibility-structure-fees-direct-link-eict-iitr-ac-in-10947115/",
-            "image": "https://images.indianexpress.com/2026/11/IIT-Roorkee-winter-training-and-internship-programmes.jpg",
-            "publishedAt": "2026-11-10T03:48:15Z",
-            "lang": "en",
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "4f3927a372e975ffc81d79657e924313",
-            "title": "Nvidia Controversy Explained: AI, China And National Security Concerns",
-            "description": "While US officials are investigating potential national security implications, China has denied the allegations, calling them baseless and politically motivated.",
-            "content": "China may have been interested in gaining access to sensitive information about Nvidia's artificial intelligence (AI) technology, business plans and US government policies through its chief executive, Jensen Huang, according to a report by The Verge.... [4903 chars]",
-            "url": "https://www.ndtv.com/world-news/did-china-target-nvidia-ceo-jensen-huang-to-gain-access-to-americas-ai-secrets-12306113",
-            "image": "https://c.ndtvimg.com/2026-11/cdfb567k_jensen-huang-alice-huang-_625x300_09_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-11-10T03:46:46Z",
-            "lang": "en",
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "50dcc54641aa1738a2c63c2f84a3f4a4",
-            "title": "Anthropic launches Fable 5.2 and Mythos 5.2 ahead of IPO",
-            "description": "Anthropic announced on Monday that it would release updated versions of two of its most powerful artificial intelligence (AI) models as the company prepares for a highly anticipated IPO this month.",
-            "content": "Anthropic announced on Monday that it would release updated versions of two of its most powerful artificial intelligence (AI) models as the company prepares for a highly anticipated IPO this month.\nThe new models, Fable 5.2 and Mythos 5.2, can perfor... [2332 chars]",
-            "url": "https://www.thehindu.com/sci-tech/technology/anthropic-launches-fable-52-and-mythos-52-ahead-of-ipo/article71684857.ece",
-            "image": "https://th-i.thgim.com/public/incoming/3cyyjr/article71684860.ece/alternates/LANDSCAPE_1200/2026-11-10T012731Z_1004564972_RC29LNAX65NU_RTRMADP_3_ANTHROPIC-IPO.JPG",
-            "publishedAt": "2026-11-10T03:43:25Z",
+            "id": "f21963674a986840d4648a6fac01219e",
+            "title": "Anthropic targets valuation of up to $1.4 trillion",
+            "description": "Anthropic plans to raise up to $64 billion in its upcoming initial public offering, the artificial intelligence giant said in a filing Tuesday, in a listing that could value the company at up to $1.4 trillion.",
+            "content": "Anthropic plans to raise up to $64 billion in its upcoming initial public offering, the artificial intelligence giant said in a filing Tuesday, in a listing that could value the company at up to $1.4 trillion.\nThe stock market debut will be the first... [3441 chars]",
+            "url": "https://www.thehindu.com/sci-tech/technology/anthropic-targets-valuation-of-up-to-14-trillion/article71688205.ece",
+            "image": "https://th-i.thgim.com/public/incoming/w0ywqq/article71688209.ece/alternates/LANDSCAPE_1200/2026-11-10T214521Z_2136187844_RC29LOAJMJ0K_RTRMADP_3_ANTHROPIC-IPO.JPG",
+            "publishedAt": "2026-11-11T03:35:17Z",
             "lang": "en",
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -103,66 +23,146 @@
             }
         },
         {
-            "id": "deabf98f8dc1dab24a1e8bfa0150a433",
-            "title": "KT Corp's Q3 Profit Dips Amid Data Breach Payouts, AI Investments",
-            "description": "KT Corp's Q3 Profit Dips Amid Data Breach Payouts, AI Investments - South Korea's leading mobile carrier, KT Corp., reported a 6.1% drop in its third-quarter operating profit compared to the ... Get Latest News on Technology only on lokmattimes.com",
-            "content": "South Korea's leading mobile carrier, KT Corp., reported a 6.1% drop in its third-quarter operating profit compared to the previous year. The company's earnings were impacted by significant expenditures related to compensating customers for a data br... [1460 chars]",
-            "url": "https://www.lokmattimes.com/technology/kt-corps-q3-profit-dips-amid-data-breach-payouts-ai-investments-a001-w02/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202611104007731_202611.jpg",
-            "publishedAt": "2026-11-10T03:43:17Z",
+            "id": "6ca3b02bea90276a437996e4cfaf1bff",
+            "title": "Combining AI with GIS to solve real-time farm problems - the Farmwise AI way",
+            "description": "Farmwise AI blends AI and GIS to tackle real-time farming challenges, scaling from Tamil Nadu to nationwide agro-solutions and partnerships.",
+            "content": "On October 21, when Prime Minister Narendra Modi inaugurated the Yellow Line of Chennai Metro Rail Limited, his meetings with a few startup founders during his journey from Porur to Poonamallee caught the public’s eye.\nOne of those who met Modi and e... [5168 chars]",
+            "url": "https://www.thehindubusinessline.com/economy/agri-business/combining-ai-with-gis-to-solve-real-time-farm-problems-the-farmwise-ai-way/article71686477.ece",
+            "image": "https://bl-i.thgim.com/public/economy/agri-business/ext0gn/article71686458.ece/alternates/LANDSCAPE_1200/Anandvetrivel.jpg",
+            "publishedAt": "2026-11-11T03:30:00Z",
             "lang": "en",
             "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
                 "country": "in"
             }
         },
         {
-            "id": "f26aa71f2ce426f868f38519c273b011",
-            "title": "Kiss your wife goodnight: Donald Trump says he threatened to arrest top AI exec",
-            "description": "US President Donald Trump revealed that he threatened to arrest a senior AI executive after the White House was informed of that executive’s company doing “something bad” with AI. Trump added the person changed entirely after this threat.",
-            "content": "“Get ready to go to jail. Please give your wife a kiss goodnight.” That is what US President Donald Trump told a top AI executive to get them back in line on AI safety.\nSpeaking on CBS’ 60 Minutes, the US president revealed the time when he took matt... [3276 chars]",
-            "url": "https://www.indiatoday.in/technology/news/story/kiss-your-wife-goodnight-donald-trump-says-he-threatened-to-arrest-top-ai-exec-3035771-2026-11-10",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/us-president-donald-trump-said-will-be-back-bigger-and-stronger-file-photo-reutersus-president-d-094049738-16x9_1.jpeg?VersionId=bUqlBuA2MTIekrz..awbSa7HPVk0vM.S",
-            "publishedAt": "2026-11-10T03:41:39Z",
+            "id": "d384bcd9ec8402f65da88e24f7c790f0",
+            "title": "Adobe, Canva, Figma tools in Claude: Anthropic lets users edit photos, PDFs and designs without switching apps",
+            "description": "Anthropic has upgraded its AI assistant Claude, allowing users to edit photos and work on PDFs directly within applications. Users can now interact with tools like Adobe and Canva without switching between different windows. Claude can make direct changes in applications as users monitor the edits in real-time. Additional integrations with apps such as Figma and Shopify are also under development.",
+            "content": "Synopsis\nAnthropic has upgraded its AI assistant Claude, allowing users to edit photos and work on PDFs directly within applications. Users can now interact with tools like Adobe and Canva without switching between different windows. Claude can make ... [4074 chars]",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/adobe-canva-figma-tools-in-claude-anthropic-lets-users-edit-photos-pdfs-and-designs-without-switching-apps/articleshow/135724315.cms",
+            "image": "https://img.etimg.com/thumb/msid-135724584,width-1200,height-900,imgsize-82090,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-11-11T03:28:00Z",
             "lang": "en",
             "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "43302078b86dc93749877405e48a791a",
-            "title": "Math anxiety may be stopping students from learning useful AI and data skills",
-            "description": "Artificial intelligence is increasingly becoming part of everyday life and work. AI can generate information, summarize evidence and perform calculations. However, it does not remove the need for critical thinking and conceptual understanding.",
-            "content": "Artificial intelligence is increasingly becoming part of everyday life and work. AI can generate information, summarize evidence and perform calculations. However, it does not remove the need for critical thinking and conceptual understanding.\nEmploy... [5171 chars]",
-            "url": "https://phys.org/news/2026-11-math-anxiety-students-ai-skills.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/mathematics.jpg",
-            "publishedAt": "2026-11-10T03:40:07Z",
+            "id": "b220abf12677072b1df1556f7c33fc61",
+            "title": "Asian markets split between AI revival and fears of bigger Fed rate hike",
+            "description": "HONG KONG, Nov 11 — Asian stocks diverged today as renewed optimism over the AI trade was offset by forecast-topping US inflation data and the prospect of a bumper interest rate...",
+            "content": "HONG KONG, Nov 11 — Asian stocks diverged today as renewed optimism over the AI trade was offset by forecast-topping US inflation data and the prospect of a bumper interest rate hike next month.\nAfter last week’s rout fuelled by fears that Democrats ... [1765 chars]",
+            "url": "https://www.malaymail.com/news/money/2026/11/11/asian-markets-split-between-ai-revival-and-fears-of-bigger-fed-rate-hike/242799",
+            "image": "https://www.malaymail.com/malaymail/uploads/images/2026/11/11/373517.jpg",
+            "publishedAt": "2026-11-11T03:22:45Z",
             "lang": "en",
             "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
+                "id": "cc589abcee543815a82a8b2856ebe9ed",
+                "name": "Malay Mail",
+                "url": "https://www.malaymail.com",
+                "country": "my"
             }
         },
         {
-            "id": "17139fd12f4272233a35a074d728b38c",
-            "title": "WRAPUP 2-China's trade surplus soars past $1 trillion as AI boom powers exports",
-            "description": "Read more about WRAPUP 2-China's trade surplus soars past $1 trillion as AI boom powers exports on Devdiscourse",
-            "content": "China's trade ​surplus surged past $1 trillion in the first 10 months as a ‌global ​race to build AI infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic likely to sharpen tensions with major trading par... [3846 chars]",
-            "url": "https://www.devdiscourse.com/article/international/4004206-wrapup-2-chinas-trade-surplus-soars-past-1-trillion-as-ai-boom-powers-exports",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_11_55_1876187.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-11-10T03:40:02Z",
+            "id": "70370b01e1c2842ac240054f7edaad4a",
+            "title": "Lessons from a miserable month for hedge funds",
+            "description": "The struggle to invest in anything other than AI | Business News",
+            "content": "By the time tech stocks plunged again on November 5th, managers were already so light they had little left to sell. According to data compiled by UBS, another big bank, there were six days in the previous month on which funds had unloaded more. Hedge... [3478 chars]",
+            "url": "https://www.hindustantimes.com/business/lessons-from-a-miserable-month-for-hedge-funds-101794367169466.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/11/11/1600x900/logo/photo-1718157584151-df31653e1cd4_1794367191446_ASVx_1794367199859_gaTe_be676b13-f40f-4d02-99e2-242de431a25d_K6JD.jpg",
+            "publishedAt": "2026-11-11T03:20:24Z",
             "lang": "en",
             "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "36288c51c469219d6c451871115a1267",
+            "title": "California parents sue school district over kids’ grades, report-card comments",
+            "description": "Two Palo Alto parents have taken their school district to court over a third-grader's report-card comments and a high schooler's AI-flagged essay.",
+            "content": "Some California parents aren’t willing to let a bad grade — or even an unflattering report-card comment — slide.\nPalo Alto Unified School District has been hauled into court twice this year by parents challenging how their children were evaluated, ac... [3569 chars]",
+            "url": "https://nypost.com/2026/11/10/us-news/california-parents-sue-school-district-over-kids-grades-report-card-comments/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148271986.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-11-11T03:17:35Z",
+            "lang": "en",
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "7e42c20b86dedf5d9de96409b7a0dc1d",
+            "title": "Jensen Huang isn't his birth name: What Nvidia CEO was actually called before moving to US",
+            "description": "Before Nvidia became a central name in artificial intelligence, Huang’s childhood took him from Taiwan to Thailand and then the United States, where he and his brother began life independently.",
+            "content": "Nvidia CEO Jensen Huang is recognised worldwide for his signature black leather jacket and his role in building one of the most influential companies in the technology industry. But the name he is known by today is not the name he was born with. His ... [2782 chars]",
+            "url": "https://www.businesstoday.in/technology/news/story/jensen-huang-isnt-his-birth-name-what-nvidia-ceo-was-actually-called-before-moving-to-us-566760-2026-11-11",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6af3dce39d565-nvidia-ceo-jensen-huang-being-probed-by-the-fbi-105950500-16x9.png",
+            "publishedAt": "2026-11-11T03:15:30Z",
+            "lang": "en",
+            "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "984d7fc34dcfc18a50a1ce71d7abc410",
+            "title": "Complaint filed against Karnataka Minister Priyank Kharge over AI",
+            "description": "The police complaint against Karnataka Home Minister Priyank Kharge alleges that he circulated false and misleading information on social media platform linking the Rashtriya Swayamsevak Sangh (RSS) to the seizure of live cartridges in Bihar and Haryana.",
+            "content": "Bengaluru:\nA police complaint has been filed against Karnataka Home Minister Priyank Kharge over an alleged AI-generated image and social media posts linking the Rashtriya Swayamsevak Sangh (RSS) to an interstate ammunition racket. The complaint was ... [2548 chars]",
+            "url": "https://www.indiatvnews.com/karnataka/complaint-filed-against-karnataka-minister-priyank-kharge-over-ai-generated-image-targeting-rss-latest-updates-2026-11-11-1059136",
+            "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/11/priyank-kharge-1794364306.jpg",
+            "publishedAt": "2026-11-11T03:14:29Z",
+            "lang": "en",
+            "source": {
+                "id": "143b993b193f72147f3de29ebcfbf505",
+                "name": "India TV News",
+                "url": "https://www.indiatvnews.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "7b27aed6ebc7b750e6b825104e53539f",
+            "title": "Anthropic launches 3 Claude features to challenge Microsoft and Google",
+            "description": "Anthropic introduces Claude Whiteboards, Sheets, and Data to enhance collaborative brainstorming, spreadsheet creation, and data analysis within its AI-powered platform.",
+            "content": "Anthropic just rolled out three new features for its artificial intelligence assistant Claude: Claude Whiteboards, Claude Sheets, and Claude Data.\nNow you can brainstorm ideas, make spreadsheets, and analyze data, all in one place.\nIt's a clear move ... [410 chars]",
+            "url": "https://www.newsbytesapp.com/news/science/anthropic-launches-3-claude-features-to-challenge-microsoft-and-google/tldr",
+            "image": "https://i.cdn.newsbytesapp.com/images/l144_19321794366756.jpg",
+            "publishedAt": "2026-11-11T03:13:39Z",
+            "lang": "en",
+            "source": {
+                "id": "eba2f6a49db29efc8343807ba675665f",
+                "name": "NewsBytes",
+                "url": "https://www.newsbytesapp.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "9c7a58b2d89aa9468367a2d64bd6bd02",
+            "title": "‘De-risk, not decouple’: Amid Nvidia controversy, Bessent says US-China must cooperate on AI risks despite rivalry",
+            "description": "The United States and China must work together to manage the risks posed by advanced artificial intelligence while recognising that their competition for",
+            "content": "File photo: US treasury secretary Scott Bessent\nThe United States and China must work together to manage the risks posed by advanced artificial intelligence while recognising that their competition for technological leadership will continue, US treas... [5721 chars]",
+            "url": "https://timesofindia.indiatimes.com/business/international-business/de-risk-not-decouple-amid-nvidia-controversy-bessent-says-us-china-must-cooperate-on-ai-risks-despite-rivalry/articleshow/135722939.cms",
+            "image": "https://static.toiimg.com/thumb/msid-135723286,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-11-11T03:13:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
                 "country": "in"
             }
         }
