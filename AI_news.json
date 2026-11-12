@@ -4,16 +4,32 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 497213,
+    "totalArticles": 498395,
     "articles": [
         {
-            "id": "f21963674a986840d4648a6fac01219e",
-            "title": "Anthropic targets valuation of up to $1.4 trillion",
-            "description": "Anthropic plans to raise up to $64 billion in its upcoming initial public offering, the artificial intelligence giant said in a filing Tuesday, in a listing that could value the company at up to $1.4 trillion.",
-            "content": "Anthropic plans to raise up to $64 billion in its upcoming initial public offering, the artificial intelligence giant said in a filing Tuesday, in a listing that could value the company at up to $1.4 trillion.\nThe stock market debut will be the first... [3441 chars]",
-            "url": "https://www.thehindu.com/sci-tech/technology/anthropic-targets-valuation-of-up-to-14-trillion/article71688205.ece",
-            "image": "https://th-i.thgim.com/public/incoming/w0ywqq/article71688209.ece/alternates/LANDSCAPE_1200/2026-11-10T214521Z_2136187844_RC29LOAJMJ0K_RTRMADP_3_ANTHROPIC-IPO.JPG",
-            "publishedAt": "2026-11-11T03:35:17Z",
+            "id": "55580a2d73adbaeb92e69006a3037402",
+            "title": "A plunge for Nvidia's stock drags Wall Street lower",
+            "description": "A plunge for Nvidia’s stock is pulling the U.S. market lower, threatening to upend the AI boom that has carried Wall Street to record after record in recent years. The S&P 500 fell 0.7% Thursday. The weakness for AI stocks sent the Nasdaq composite down 1.5%, while the Dow Jones Industrial Average added 127 points. Nvidia tumbled 14% after Jensen Huang, its co-founder and face of the brand, resigned as CEO. Other stocks in the AI industry also fell, though some of Nvidia’s rival chip companies rose. Oil prices swung after President Donald Trump said he’s no longer interested in a deal with Iran.",
+            "content": "NEW YORK (AP) — A plunge for Nvidia’s stock is pulling the U.S. market lower, threatening to upend the AI boom that has carried Wall Street to record after record in recent years. The S&P 500 fell 0.7% Thursday. The weakness for AI stocks sent the Na... [1211 chars]",
+            "url": "https://www.ajc.com/news/2026/11/world-shares-are-mixed-as-nvidias-troubles-weigh-on-ai-stocks/",
+            "image": "https://images.ajc.com/resizer/v2/WT34JAPGKRF5XD6YVSDJGKEZMU.jpg?auth=af070b48d79a7a8c114d72296912faa613623f6722ee1eccc2ffe39168a3eab2&width=1200&height=630&smart=true",
+            "publishedAt": "2026-11-12T04:23:04Z",
+            "lang": "en",
+            "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "244cbb4d5dd1dc2b62bb9e417afc55f3",
+            "title": "Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+            "description": "A Chinese university with deep ‌ties to the People’s Liberation Army bought Nvidia’s powerful H200 AI chips last month despite being on a US export blacklist, procurement records show",
+            "content": "A Chinese university with deep ‌ties to the People’s Liberation Army bought Nvidia’s powerful H200 AI chips last month despite being on a US export blacklist, procurement records show, ​highlighting gaps in Washington’s efforts to curb China’s access... [6618 chars]",
+            "url": "https://www.thehindu.com/sci-tech/technology/military-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/article71692215.ece",
+            "image": "https://th-i.thgim.com/public/incoming/youppp/article71692219.ece/alternates/LANDSCAPE_1200/2026-11-11T210044Z_1630393792_RC2H6OAEJVWB_RTRMADP_3_NVIDIA-PROBE-CEO.JPG",
+            "publishedAt": "2026-11-12T04:22:52Z",
             "lang": "en",
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -23,146 +39,130 @@
             }
         },
         {
-            "id": "6ca3b02bea90276a437996e4cfaf1bff",
-            "title": "Combining AI with GIS to solve real-time farm problems - the Farmwise AI way",
-            "description": "Farmwise AI blends AI and GIS to tackle real-time farming challenges, scaling from Tamil Nadu to nationwide agro-solutions and partnerships.",
-            "content": "On October 21, when Prime Minister Narendra Modi inaugurated the Yellow Line of Chennai Metro Rail Limited, his meetings with a few startup founders during his journey from Porur to Poonamallee caught the public’s eye.\nOne of those who met Modi and e... [5168 chars]",
-            "url": "https://www.thehindubusinessline.com/economy/agri-business/combining-ai-with-gis-to-solve-real-time-farm-problems-the-farmwise-ai-way/article71686477.ece",
-            "image": "https://bl-i.thgim.com/public/economy/agri-business/ext0gn/article71686458.ece/alternates/LANDSCAPE_1200/Anandvetrivel.jpg",
-            "publishedAt": "2026-11-11T03:30:00Z",
+            "id": "09a32d307a56a778251a0ae8b1754a69",
+            "title": "United Airlines tightens controls on third-party AI agents over data, safety risks",
+            "description": "United Airlines is restricting unauthorised third-party artificial intelligence (AI) agents from accessing its digital platforms and booking systems, citing risks to customer data, account security and aviation safety.",
+            "content": "United Airlines is restricting unauthorised third-party artificial intelligence (AI) agents from accessing its digital platforms and booking systems, citing risks to customer data, account security and aviation safety. The restrictions come ahead of ... [2592 chars]",
+            "url": "https://www.devdiscourse.com/article/business/4005506-united-airlines-tightens-controls-on-third-party-ai-agents-over-data-safety-risks",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/12_11_2026_09_52_15_8238634.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-11-12T04:22:19Z",
             "lang": "en",
             "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
                 "country": "in"
             }
         },
         {
-            "id": "d384bcd9ec8402f65da88e24f7c790f0",
-            "title": "Adobe, Canva, Figma tools in Claude: Anthropic lets users edit photos, PDFs and designs without switching apps",
-            "description": "Anthropic has upgraded its AI assistant Claude, allowing users to edit photos and work on PDFs directly within applications. Users can now interact with tools like Adobe and Canva without switching between different windows. Claude can make direct changes in applications as users monitor the edits in real-time. Additional integrations with apps such as Figma and Shopify are also under development.",
-            "content": "Synopsis\nAnthropic has upgraded its AI assistant Claude, allowing users to edit photos and work on PDFs directly within applications. Users can now interact with tools like Adobe and Canva without switching between different windows. Claude can make ... [4074 chars]",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/adobe-canva-figma-tools-in-claude-anthropic-lets-users-edit-photos-pdfs-and-designs-without-switching-apps/articleshow/135724315.cms",
-            "image": "https://img.etimg.com/thumb/msid-135724584,width-1200,height-900,imgsize-82090,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-11-11T03:28:00Z",
+            "id": "0ce23ad94f176f59471117fe3c61c16e",
+            "title": "Global powers head to Asia with trade, AI, security in focus",
+            "description": "Global leaders are set to descend on Asia for a series of high-stakes meetings that will tackle everything from AI to trade to, potentially, nuclear",
+            "content": "Global leaders are set to descend on Asia for a series of high-stakes meetings that will tackle everything from AI to trade to, potentially, nuclear disarmament.\nAFP looks at a few of the key issues to watch for in the days ahead:\n– Three summits, fi... [4696 chars]",
+            "url": "https://www.europesays.com/3369639/",
+            "image": "https://www.europesays.com/wp-content/uploads/2026/11/1794457329.jpeg",
+            "publishedAt": "2026-11-12T04:22:07Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "b220abf12677072b1df1556f7c33fc61",
-            "title": "Asian markets split between AI revival and fears of bigger Fed rate hike",
-            "description": "HONG KONG, Nov 11 — Asian stocks diverged today as renewed optimism over the AI trade was offset by forecast-topping US inflation data and the prospect of a bumper interest rate...",
-            "content": "HONG KONG, Nov 11 — Asian stocks diverged today as renewed optimism over the AI trade was offset by forecast-topping US inflation data and the prospect of a bumper interest rate hike next month.\nAfter last week’s rout fuelled by fears that Democrats ... [1765 chars]",
-            "url": "https://www.malaymail.com/news/money/2026/11/11/asian-markets-split-between-ai-revival-and-fears-of-bigger-fed-rate-hike/242799",
-            "image": "https://www.malaymail.com/malaymail/uploads/images/2026/11/11/373517.jpg",
-            "publishedAt": "2026-11-11T03:22:45Z",
-            "lang": "en",
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
-            }
-        },
-        {
-            "id": "70370b01e1c2842ac240054f7edaad4a",
-            "title": "Lessons from a miserable month for hedge funds",
-            "description": "The struggle to invest in anything other than AI | Business News",
-            "content": "By the time tech stocks plunged again on November 5th, managers were already so light they had little left to sell. According to data compiled by UBS, another big bank, there were six days in the previous month on which funds had unloaded more. Hedge... [3478 chars]",
-            "url": "https://www.hindustantimes.com/business/lessons-from-a-miserable-month-for-hedge-funds-101794367169466.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/11/11/1600x900/logo/photo-1718157584151-df31653e1cd4_1794367191446_ASVx_1794367199859_gaTe_be676b13-f40f-4d02-99e2-242de431a25d_K6JD.jpg",
-            "publishedAt": "2026-11-11T03:20:24Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "36288c51c469219d6c451871115a1267",
-            "title": "California parents sue school district over kids’ grades, report-card comments",
-            "description": "Two Palo Alto parents have taken their school district to court over a third-grader's report-card comments and a high schooler's AI-flagged essay.",
-            "content": "Some California parents aren’t willing to let a bad grade — or even an unflattering report-card comment — slide.\nPalo Alto Unified School District has been hauled into court twice this year by parents challenging how their children were evaluated, ac... [3569 chars]",
-            "url": "https://nypost.com/2026/11/10/us-news/california-parents-sue-school-district-over-kids-grades-report-card-comments/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148271986.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-11-11T03:17:35Z",
-            "lang": "en",
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
+                "id": "ed23d65928efaec6669dd2212a773d9f",
+                "name": "EUROPE SAYS",
+                "url": "https://www.europesays.com",
                 "country": "us"
             }
         },
         {
-            "id": "7e42c20b86dedf5d9de96409b7a0dc1d",
-            "title": "Jensen Huang isn't his birth name: What Nvidia CEO was actually called before moving to US",
-            "description": "Before Nvidia became a central name in artificial intelligence, Huang’s childhood took him from Taiwan to Thailand and then the United States, where he and his brother began life independently.",
-            "content": "Nvidia CEO Jensen Huang is recognised worldwide for his signature black leather jacket and his role in building one of the most influential companies in the technology industry. But the name he is known by today is not the name he was born with. His ... [2782 chars]",
-            "url": "https://www.businesstoday.in/technology/news/story/jensen-huang-isnt-his-birth-name-what-nvidia-ceo-was-actually-called-before-moving-to-us-566760-2026-11-11",
-            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6af3dce39d565-nvidia-ceo-jensen-huang-being-probed-by-the-fbi-105950500-16x9.png",
-            "publishedAt": "2026-11-11T03:15:30Z",
+            "id": "d97f4b9f2074528a9e0961b5409d72bc",
+            "title": "United Airlines moves to block AI agents from its platform over security concerns",
+            "description": "United Airlines said on Wednesday it would restrict AI bots’ access to its digital platforms, citing data security, in the latest pushback against AI agents increasingly capable of planning and booking trips for travelers. Companies across industries are taking divergent approaches to the rapid rise of AI agents capable of carrying out ​tasks on ​behalf […]",
+            "content": "Technology 2 min ago\nThis is an AI assisted summary.\nUnited Airlines said on Wednesday it would restrict AI bots' access to its digital platforms, citing data security, in the latest pushback against AI agents increasingly capable of planning and boo... [22711 chars]",
+            "url": "https://indianexpress.com/shorts/technology/united-airlines-moves-to-block-ai-agents-from-its-platform-over-security-concerns-10959803/",
+            "image": "https://images.indianexpress.com/2026/05/united.jpg",
+            "publishedAt": "2026-11-12T04:19:12Z",
             "lang": "en",
             "source": {
-                "id": "76a2f820b104591b97fed1b0932cec38",
-                "name": "Business Today",
-                "url": "https://www.businesstoday.in",
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "984d7fc34dcfc18a50a1ce71d7abc410",
-            "title": "Complaint filed against Karnataka Minister Priyank Kharge over AI",
-            "description": "The police complaint against Karnataka Home Minister Priyank Kharge alleges that he circulated false and misleading information on social media platform linking the Rashtriya Swayamsevak Sangh (RSS) to the seizure of live cartridges in Bihar and Haryana.",
-            "content": "Bengaluru:\nA police complaint has been filed against Karnataka Home Minister Priyank Kharge over an alleged AI-generated image and social media posts linking the Rashtriya Swayamsevak Sangh (RSS) to an interstate ammunition racket. The complaint was ... [2548 chars]",
-            "url": "https://www.indiatvnews.com/karnataka/complaint-filed-against-karnataka-minister-priyank-kharge-over-ai-generated-image-targeting-rss-latest-updates-2026-11-11-1059136",
-            "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/11/priyank-kharge-1794364306.jpg",
-            "publishedAt": "2026-11-11T03:14:29Z",
+            "id": "8d389d6dac739f3b1115e5b01ecf8ef9",
+            "title": "United Airlines moves to block AI agents from its platform over security concerns",
+            "description": "Meanwhile, online travel firms such as Expedia and Booking are working with ChatGPT-parent OpenAI.",
+            "content": "United Airlines said on Wednesday it would restrict AI bots’ access to its digital platforms, citing data security, in the latest pushback against AI agents increasingly capable of planning and booking trips for travelers.\nCompanies across industries... [602 chars]",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/united-airlines-moves-to-block-ai-agents-from-its-platform-over-security-concerns-10959803/",
+            "image": "https://images.indianexpress.com/2026/05/united.jpg",
+            "publishedAt": "2026-11-12T04:18:40Z",
             "lang": "en",
             "source": {
-                "id": "143b993b193f72147f3de29ebcfbf505",
-                "name": "India TV News",
-                "url": "https://www.indiatvnews.com",
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "7b27aed6ebc7b750e6b825104e53539f",
-            "title": "Anthropic launches 3 Claude features to challenge Microsoft and Google",
-            "description": "Anthropic introduces Claude Whiteboards, Sheets, and Data to enhance collaborative brainstorming, spreadsheet creation, and data analysis within its AI-powered platform.",
-            "content": "Anthropic just rolled out three new features for its artificial intelligence assistant Claude: Claude Whiteboards, Claude Sheets, and Claude Data.\nNow you can brainstorm ideas, make spreadsheets, and analyze data, all in one place.\nIt's a clear move ... [410 chars]",
-            "url": "https://www.newsbytesapp.com/news/science/anthropic-launches-3-claude-features-to-challenge-microsoft-and-google/tldr",
-            "image": "https://i.cdn.newsbytesapp.com/images/l144_19321794366756.jpg",
-            "publishedAt": "2026-11-11T03:13:39Z",
+            "id": "2fb36d5b7748f17ad3fc218712b6d62a",
+            "title": "Australian companies face ‘AI washing’ claims after wave of job cuts, offshoring",
+            "description": "Further job cuts by companies ⁠could pose headaches for Australia's centre-left Labor government, ‌with recent polls showing its approval ratings steadily falling amid high cost-of-living pressures.",
+            "content": "More broadly, other firms across corporate Australia have also slashed their domestic headcounts while expanding operations in India, the Philippines and Vietnam, though they did not explicitly mention AI in their announcements.\nWhen asked about the ... [3543 chars]",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/australian-companies-face-ai-washing-claims-after-wave-of-job-cuts-offshoring-10959794/",
+            "image": "https://images.indianexpress.com/2026/01/AI-Pixabay.png",
+            "publishedAt": "2026-11-12T04:14:20Z",
             "lang": "en",
             "source": {
-                "id": "eba2f6a49db29efc8343807ba675665f",
-                "name": "NewsBytes",
-                "url": "https://www.newsbytesapp.com",
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "9c7a58b2d89aa9468367a2d64bd6bd02",
-            "title": "‘De-risk, not decouple’: Amid Nvidia controversy, Bessent says US-China must cooperate on AI risks despite rivalry",
-            "description": "The United States and China must work together to manage the risks posed by advanced artificial intelligence while recognising that their competition for",
-            "content": "File photo: US treasury secretary Scott Bessent\nThe United States and China must work together to manage the risks posed by advanced artificial intelligence while recognising that their competition for technological leadership will continue, US treas... [5721 chars]",
-            "url": "https://timesofindia.indiatimes.com/business/international-business/de-risk-not-decouple-amid-nvidia-controversy-bessent-says-us-china-must-cooperate-on-ai-risks-despite-rivalry/articleshow/135722939.cms",
-            "image": "https://static.toiimg.com/thumb/msid-135723286,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-11-11T03:13:00Z",
+            "id": "861a47c72cc1adfd8c66537056fc9ecb",
+            "title": "Asian shares mostly slip as Nvidia's troubles weigh on AI stocks, despite a rally on Wall St",
+            "description": "Asian shares are mixed, as concerns over leadership at chipmaker Nvidia weigh on artificial intelligence-related stocks.",
+            "content": "TOKYO – Asian shares were mostly lower and U.S. futures were mixed Thursday as concerns over leadership at chipmaker Nvidia weighed on artificial intelligence -related stocks.\nIn after-hours trading, Nvidia’s shares fell 8.6% after reports said Nvidi... [2110 chars]",
+            "url": "https://www.clickondetroit.com/business/2026/11/12/asian-shares-mostly-slip-as-nvidias-troubles-weigh-on-ai-stocks-despite-a-rally-on-wall-st/",
+            "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/MFLSRXPZOVGTRGZAERE25ONC2M.jpg?api_key=clickondetroit_06f87fefb2123598",
+            "publishedAt": "2026-11-12T04:11:24Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "7269df991f55d3e323ccaa958cbfd1ce",
+            "title": "Asian Shares Mostly Slip as Nvidia's Troubles Weigh on AI Stocks, Despite a Rally on Wall St",
+            "description": "TOKYO (AP) — Asian shares were mostly lower and U.S. futures were mixed Thursday as concerns over leadership at chipmaker Nvidia weighed on artificial intelligence -related stocks.",
+            "content": "TOKYO (AP) — Asian shares were mostly lower and U.S. futures were mixed Thursday as concerns over leadership at chipmaker Nvidia weighed on artificial intelligence -related stocks.\nIn after-hours trading, Nvidia’s shares fell 8.6% after reports said ... [2315 chars]",
+            "url": "https://www.usnews.com/news/us/articles/2026-11-11/asian-shares-mostly-slip-as-nvidias-troubles-weigh-on-ai-stocks-despite-a-rally-on-wall-st",
+            "image": "https://www.usnews.com/dims4/USNEWS/79bec15/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fde%2F3a89d384683907fc5a74dec56af95e%2F3b670fd354f84df7a2e49abb25a7dd88South_Korea_Financial_Markets_917_8.jpg",
+            "publishedAt": "2026-11-12T04:11:00Z",
+            "lang": "en",
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "5ecae0f1d50c4360c9e17fdfeb655524",
+            "title": "Why Has Norway Deployed 3,500 Laser-Armed AI Submarine Robots Underwater",
+            "description": "AI laser submarines monitor and target sea lice in salmon pens, lowering lice levels and reducing mortality in Norway.",
+            "content": "Norwegian salmon farmers are using laser-armed, AI-guided submarines to kill sea lice around the country's coastline. Oslo-based Stingray Marine Solutions in its annual report, revealed that more than 3,500 units of these submarines are now operation... [1887 chars]",
+            "url": "https://www.ndtv.com/feature/why-has-norway-deployed-3-500-laser-armed-ai-submarine-robots-underwater-12315380",
+            "image": "https://c.ndtvimg.com/2026-11/qeantehg_as_625x300_12_November_26.jpeg",
+            "publishedAt": "2026-11-12T04:10:48Z",
+            "lang": "en",
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
                 "country": "in"
             }
         }
