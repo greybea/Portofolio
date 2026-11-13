@@ -4,166 +4,166 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 498395,
+    "totalArticles": 499770,
     "articles": [
         {
-            "id": "55580a2d73adbaeb92e69006a3037402",
-            "title": "A plunge for Nvidia's stock drags Wall Street lower",
-            "description": "A plunge for Nvidia’s stock is pulling the U.S. market lower, threatening to upend the AI boom that has carried Wall Street to record after record in recent years. The S&P 500 fell 0.7% Thursday. The weakness for AI stocks sent the Nasdaq composite down 1.5%, while the Dow Jones Industrial Average added 127 points. Nvidia tumbled 14% after Jensen Huang, its co-founder and face of the brand, resigned as CEO. Other stocks in the AI industry also fell, though some of Nvidia’s rival chip companies rose. Oil prices swung after President Donald Trump said he’s no longer interested in a deal with Iran.",
-            "content": "NEW YORK (AP) — A plunge for Nvidia’s stock is pulling the U.S. market lower, threatening to upend the AI boom that has carried Wall Street to record after record in recent years. The S&P 500 fell 0.7% Thursday. The weakness for AI stocks sent the Na... [1211 chars]",
-            "url": "https://www.ajc.com/news/2026/11/world-shares-are-mixed-as-nvidias-troubles-weigh-on-ai-stocks/",
-            "image": "https://images.ajc.com/resizer/v2/WT34JAPGKRF5XD6YVSDJGKEZMU.jpg?auth=af070b48d79a7a8c114d72296912faa613623f6722ee1eccc2ffe39168a3eab2&width=1200&height=630&smart=true",
-            "publishedAt": "2026-11-12T04:23:04Z",
+            "id": "90f2a7c074b9cfe3d98eece0cfab59b8",
+            "title": "Google rolls out Gemini 4 Hydrogen with 2.5x speed boost, four reasoning levels",
+            "description": "Google has rolled out Gemini 4 Hydrogen, a new artificial intelligence model that completes tasks 2.5 times faster than its predecessor, Gemini 3.8 Flash, as the company looks to improve the speed and efficiency of everyday AI tasks, coding and agentic workflows.",
+            "content": "New Delhi [India], November 13 (ANI): Google has rolled out Gemini 4 Hydrogen, a new artificial intelligence model that completes tasks 2.5 times faster than its predecessor, Gemini 3.8 Flash, as the company looks to improve the speed and efficiency ... [913 chars]",
+            "url": "https://www.aninews.in/news/business/google-rolls-out-gemini-4-hydrogen-with-25x-speed-boost-four-reasoning-levels20261113091434/",
+            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261113034426-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-11-13T03:44:34Z",
             "lang": "en",
             "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "dd40c447db9909892c3a9fedf18c8dc2",
+            "title": "Microsoft Goes Down! Outlook, Teams, OpenAI & Anthropic Affected",
+            "description": "Microsoft 365, Outlook and Teams experienced widespread outages across the US on Thursday, November 12, affecting thousands of users. Downdetector reported over 97,000 complaints about Outlook, 38,000 about Microsoft 365 and approximately 4,500 about Teams. Microsoft acknowledged the disruption and said it was working urgently to minimize its impact. The company paused software deployments, redirected traffic away from affected infrastructure and restarted impacted servers to restore services. Although Microsoft initially announced that a Teams outage in North America had been resolved, it later warned that Microsoft 365 connectivity issues could affect users in other regions. The disruption also impacted AI services, with OpenAI reporting problems involving Microsoft connectors that affected new connections and tools. Anthropic similarly identified an issue with an upstream provider affecting its Microsoft 365 connector. The incident highlighted the widespread dependence of productivity and AI platforms on Microsoft's cloud infrastructure.",
+            "content": "Microsoft 365, Outlook and Teams experienced widespread outages across the US on Thursday, November 12, affecting thousands of users. Downdetector reported over 97,000 complaints about Outlook, 38,000 about Microsoft 365 and approximately 4,500 about... [1057 chars]",
+            "url": "https://www.moneycontrol.com/world/microsoft-goes-down-outlook-teams-openai-anthropic-affected-videoshow-14078977.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261113034020_microsoft.jpg",
+            "publishedAt": "2026-11-13T03:44:12Z",
+            "lang": "en",
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "c7f7c12847c7c92b1d5b5169c67a535f",
+            "title": "CleanMax to invest Rs 50,000 crore in AI compute, renewable energy projects in Andhra Pradesh",
+            "description": "CleanMax will allocate Rs 50,000 crore towards establishing a renewable energy and AI compute facility in Andhra Pradesh. Partnering with Neysa, a 2 GW AI computing center will rise in Kurnool district, set to provide 1,000 jobs by March 2028. This ambitious plan also includes generating 3 GW of wind, 2 GW of solar, and 1 GW of hydro storage energy, transforming Andhra Pradesh's technological landscape.",
+            "content": "Synopsis\nCleanMax will allocate Rs 50,000 crore towards establishing a renewable energy and AI compute facility in Andhra Pradesh. Partnering with Neysa, a 2 GW AI computing center will rise in Kurnool district, set to provide 1,000 jobs by March 202... [3199 chars]",
+            "url": "https://economictimes.indiatimes.com/industry/energy/power/cleanmax-to-invest-rs-50000-crore-in-ai-compute-renewable-energy-projects-in-andhra-pradesh/articleshow/135788341.cms",
+            "image": "https://img.etimg.com/thumb/msid-135788513,width-1200,height-900,imgsize-165124,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-11-13T03:44:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "63cb4376088bd85619d55dbd3e2107b0",
+            "title": "MacKay and Tri-Service General Hospitals Name First Winners of Taiwan's T+ MedIC Medical Innovation Accelerator",
+            "description": "/PRNewswire/ -- An AI tool that helps clinicians read electrocardiograms and a screening platform that pairs low-dose chest CT with artificial intelligence won...",
+            "content": "AI-assisted ECG interpretation and a multimodal preventive screening platform take top honors among 14 finalist teams\nTAIPEI, Nov. 13, 2026 /PRNewswire/ -- An AI tool that helps clinicians read electrocardiograms and a screening platform that pairs l... [4805 chars]",
+            "url": "https://www.prnewswire.co.uk/news-releases/mackay-and-tri-service-general-hospitals-name-first-winners-of-taiwans-t-medic-medical-innovation-accelerator-302938685.html",
+            "image": "https://mmx.prnewswire.com/media/MS2032650/20261111023421EST_image_1.jpg?id=OA3076573&p=facebook",
+            "publishedAt": "2026-11-13T03:41:00Z",
+            "lang": "en",
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "5b7d82f7ea43e479350b8b37183b9513",
+            "title": "Nvidia scandal puts China chip curbs back in focus as US lawmakers push tougher export restrictions",
+            "description": "US lawmakers from both parties are pushing tougher restrictions on China's access to advanced AI chips following reports about former Nvidia CEO Jensen Huang's affair with a suspected Chinese spy. Congress is weighing measures to tighten export oversight, track advanced processors, pressure US allies and close remote-access loopholes.",
+            "content": "Synopsis\nUS lawmakers from both parties are pushing tougher restrictions on China's access to advanced AI chips following reports about former Nvidia CEO Jensen Huang's affair with a suspected Chinese spy. Congress is weighing measures to tighten exp... [4635 chars]",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-scandal-puts-china-chip-curbs-back-in-focus-as-us-lawmakers-push-tougher-export-restrictions/articleshow/135787431.cms",
+            "image": "https://img.etimg.com/thumb/msid-135788408,width-1200,height-900,imgsize-53382,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2026-11-13T03:41:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "b4ccd956dee342f1790465d674b93907",
+            "title": "SpaceX Announces Massive $74 Billion Investment To Build Two AI Supercomputing Campuses In Texas And Arizona",
+            "description": "SpaceX plans to invest over $74 billion in two AI supercomputing campuses in Texas and Arizona. The projects are expected to create thousands of construction and permanent jobs, with the Texas facility generating its own power and Arizona campus scaling up to 6 gigawatts.",
+            "content": "Houston: SpaceX has announced plans to invest more than USD 74 billion across two artificial intelligence supercomputing campuses in Texas and Arizona.\nIn a statement issued on Thursday, SpaceX outlined an investment of over USD 24 billion for a supe... [1605 chars]",
+            "url": "https://www.freepressjournal.in/tech/spacex-announces-massive-74-billion-investment-to-build-two-ai-supercomputing-campuses-in-texas-and-arizona",
+            "image": "https://media.assettype.com/freepressjournal/2026-10-21/ci35vrsx/Untitled-design-2026-10-21T131723.882.jpg",
+            "publishedAt": "2026-11-13T03:40:44Z",
+            "lang": "en",
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "a29a17aff47f2e4700d6d07a5058e0f6",
+            "title": "Why the AI World Will Never Be the Same",
+            "description": "Until this week, Jensen Huang was one of the most powerful people in the most powerful industry on earth. Now, after 33 years running Nvidia, he’s out. Ahead of our usual conversation dropping Friday, we’re bringing you a personal essay from Kevin, who has spent years covering the race to AGI and nearly made Huang a main character in his book. He explains the three central roles Huang played in the AI boom, and why he thinks the affairs alone don’t explain why Huang had to go.A note: After we recorded this episode, Reuters reported that Huang allegedly had a third affair, with a second Nvidia employee. That brings the total number of reported affairs to three.For a transcript of this episode, select the episode on npr.org/machinegods.You can watch this full episode on YouTube, Spotify or Apple Podcasts. And if you’ve got a question you want us to answer, you can drop us a comment on any of those platforms or email us at hey@machinegods.fm.",
+            "content": "Until this week, Jensen Huang was one of the most powerful people in the most powerful industry on earth. Now, after 33 years running Nvidia, he’s out.\nAhead of our usual conversation dropping Friday, we’re bringing you a personal essay from Kevin, w... [706 chars]",
+            "url": "https://www.npr.org/2026/11/12/nx-s1-6039359/why-the-ai-world-will-never-be-the-same",
+            "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F81%2F149edc744181842a90832bf93afb%2Fa47d8048-327f-4b3f-876f-fda4eceac712.png",
+            "publishedAt": "2026-11-13T03:38:38Z",
+            "lang": "en",
+            "source": {
+                "id": "b41851fb2662ea502db29f71ec4d1583",
+                "name": "NPR",
+                "url": "https://www.npr.org",
                 "country": "us"
             }
         },
         {
-            "id": "244cbb4d5dd1dc2b62bb9e417afc55f3",
-            "title": "Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
-            "description": "A Chinese university with deep ‌ties to the People’s Liberation Army bought Nvidia’s powerful H200 AI chips last month despite being on a US export blacklist, procurement records show",
-            "content": "A Chinese university with deep ‌ties to the People’s Liberation Army bought Nvidia’s powerful H200 AI chips last month despite being on a US export blacklist, procurement records show, ​highlighting gaps in Washington’s efforts to curb China’s access... [6618 chars]",
-            "url": "https://www.thehindu.com/sci-tech/technology/military-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/article71692215.ece",
-            "image": "https://th-i.thgim.com/public/incoming/youppp/article71692219.ece/alternates/LANDSCAPE_1200/2026-11-11T210044Z_1630393792_RC2H6OAEJVWB_RTRMADP_3_NVIDIA-PROBE-CEO.JPG",
-            "publishedAt": "2026-11-12T04:22:52Z",
+            "id": "a4f70861be5e7b33fad12b35dfa189a7",
+            "title": "Jensen Huang Nvidia exit: Reported confession sparks boardroom showdown",
+            "description": "Jensen Huang resigned from Nvidia after a reported confession and late-night board meeting. His departure leaves the AI chipmaker facing a difficult succession and continuing scrutiny.",
+            "content": "For more than three decades, Jensen Huang had been the unquestioned authority at Nvidia, overseeing its transformation from a graphics chipmaker into one of the world's most powerful artificial intelligence companies. But in the final hours of his te... [6719 chars]",
+            "url": "https://www.indiatoday.in/business/story/jensen-huang-nvidia-exit-resignation-final-hours-reported-confession-boardroom-showdown-3037907-2026-11-13",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/jensen-huang-120309377-original-sixteen-to-nine.jpg?VersionId=IsRw7S3QrZ5.lDjxzCzmSk5R6XrJuspc",
+            "publishedAt": "2026-11-13T03:37:29Z",
             "lang": "en",
             "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
                 "country": "in"
             }
         },
         {
-            "id": "09a32d307a56a778251a0ae8b1754a69",
-            "title": "United Airlines tightens controls on third-party AI agents over data, safety risks",
-            "description": "United Airlines is restricting unauthorised third-party artificial intelligence (AI) agents from accessing its digital platforms and booking systems, citing risks to customer data, account security and aviation safety.",
-            "content": "United Airlines is restricting unauthorised third-party artificial intelligence (AI) agents from accessing its digital platforms and booking systems, citing risks to customer data, account security and aviation safety. The restrictions come ahead of ... [2592 chars]",
-            "url": "https://www.devdiscourse.com/article/business/4005506-united-airlines-tightens-controls-on-third-party-ai-agents-over-data-safety-risks",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/12_11_2026_09_52_15_8238634.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-11-12T04:22:19Z",
+            "id": "f1a727b324767a924e334d14f40de378",
+            "title": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses",
+            "description": "NEW YORK — The US stock market shook Thursday, but it largely absorbed big swings for Nvidia and oil prices and finished with relatively modest losses. The moves suggested Wall Street sees limited fallout for the artificial intelligence industry, which carries immense influence on the market, despite the sudden fall of one of its biggest evangelists.",
+            "content": "NEW YORK — The US stock market shook Thursday, but it largely absorbed big swings for Nvidia and oil prices and finished with relatively modest losses. The moves suggested Wall Street sees limited fallout for the artificial intelligence industry, whi... [4832 chars]",
+            "url": "https://www.manilatimes.net/2026/11/13/business/foreign-business/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/2469267",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/13/1306218.jpg",
+            "publishedAt": "2026-11-13T03:35:00Z",
             "lang": "en",
             "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "0ce23ad94f176f59471117fe3c61c16e",
-            "title": "Global powers head to Asia with trade, AI, security in focus",
-            "description": "Global leaders are set to descend on Asia for a series of high-stakes meetings that will tackle everything from AI to trade to, potentially, nuclear",
-            "content": "Global leaders are set to descend on Asia for a series of high-stakes meetings that will tackle everything from AI to trade to, potentially, nuclear disarmament.\nAFP looks at a few of the key issues to watch for in the days ahead:\n– Three summits, fi... [4696 chars]",
-            "url": "https://www.europesays.com/3369639/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/11/1794457329.jpeg",
-            "publishedAt": "2026-11-12T04:22:07Z",
+            "id": "02e5b511d52ab8d0fbce44a98f6f330b",
+            "title": "Singapore says it barred Alice Huang from re-entry after Megaspeed chip probe in February",
+            "description": "SINGAPORE, Nov 13 — Alice Huang, the alleged Chinese spy in the Nvidia AI chip scandal, was barred from re-entering Singapore in February after providing inaccurate information...",
+            "content": "SINGAPORE, Nov 13 — Alice Huang, the alleged Chinese spy in the Nvidia AI chip scandal, was barred from re-entering Singapore in February after providing inaccurate information during a probe into Megaspeed, the government said yesterday.\nHuang, a fo... [1858 chars]",
+            "url": "https://www.malaymail.com/news/singapore/2026/11/13/singapore-says-it-barred-alice-huang-from-re-entry-after-megaspeed-chip-probe-in-february/243068",
+            "image": "https://www.malaymail.com/malaymail/uploads/images/2026/11/13/373890.jpg",
+            "publishedAt": "2026-11-13T03:32:24Z",
             "lang": "en",
             "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "d97f4b9f2074528a9e0961b5409d72bc",
-            "title": "United Airlines moves to block AI agents from its platform over security concerns",
-            "description": "United Airlines said on Wednesday it would restrict AI bots’ access to its digital platforms, citing data security, in the latest pushback against AI agents increasingly capable of planning and booking trips for travelers. Companies across industries are taking divergent approaches to the rapid rise of AI agents capable of carrying out ​tasks on ​behalf […]",
-            "content": "Technology 2 min ago\nThis is an AI assisted summary.\nUnited Airlines said on Wednesday it would restrict AI bots' access to its digital platforms, citing data security, in the latest pushback against AI agents increasingly capable of planning and boo... [22711 chars]",
-            "url": "https://indianexpress.com/shorts/technology/united-airlines-moves-to-block-ai-agents-from-its-platform-over-security-concerns-10959803/",
-            "image": "https://images.indianexpress.com/2026/05/united.jpg",
-            "publishedAt": "2026-11-12T04:19:12Z",
-            "lang": "en",
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "8d389d6dac739f3b1115e5b01ecf8ef9",
-            "title": "United Airlines moves to block AI agents from its platform over security concerns",
-            "description": "Meanwhile, online travel firms such as Expedia and Booking are working with ChatGPT-parent OpenAI.",
-            "content": "United Airlines said on Wednesday it would restrict AI bots’ access to its digital platforms, citing data security, in the latest pushback against AI agents increasingly capable of planning and booking trips for travelers.\nCompanies across industries... [602 chars]",
-            "url": "https://indianexpress.com/article/technology/tech-news-technology/united-airlines-moves-to-block-ai-agents-from-its-platform-over-security-concerns-10959803/",
-            "image": "https://images.indianexpress.com/2026/05/united.jpg",
-            "publishedAt": "2026-11-12T04:18:40Z",
-            "lang": "en",
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "2fb36d5b7748f17ad3fc218712b6d62a",
-            "title": "Australian companies face ‘AI washing’ claims after wave of job cuts, offshoring",
-            "description": "Further job cuts by companies ⁠could pose headaches for Australia's centre-left Labor government, ‌with recent polls showing its approval ratings steadily falling amid high cost-of-living pressures.",
-            "content": "More broadly, other firms across corporate Australia have also slashed their domestic headcounts while expanding operations in India, the Philippines and Vietnam, though they did not explicitly mention AI in their announcements.\nWhen asked about the ... [3543 chars]",
-            "url": "https://indianexpress.com/article/technology/tech-news-technology/australian-companies-face-ai-washing-claims-after-wave-of-job-cuts-offshoring-10959794/",
-            "image": "https://images.indianexpress.com/2026/01/AI-Pixabay.png",
-            "publishedAt": "2026-11-12T04:14:20Z",
-            "lang": "en",
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "861a47c72cc1adfd8c66537056fc9ecb",
-            "title": "Asian shares mostly slip as Nvidia's troubles weigh on AI stocks, despite a rally on Wall St",
-            "description": "Asian shares are mixed, as concerns over leadership at chipmaker Nvidia weigh on artificial intelligence-related stocks.",
-            "content": "TOKYO – Asian shares were mostly lower and U.S. futures were mixed Thursday as concerns over leadership at chipmaker Nvidia weighed on artificial intelligence -related stocks.\nIn after-hours trading, Nvidia’s shares fell 8.6% after reports said Nvidi... [2110 chars]",
-            "url": "https://www.clickondetroit.com/business/2026/11/12/asian-shares-mostly-slip-as-nvidias-troubles-weigh-on-ai-stocks-despite-a-rally-on-wall-st/",
-            "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/MFLSRXPZOVGTRGZAERE25ONC2M.jpg?api_key=clickondetroit_06f87fefb2123598",
-            "publishedAt": "2026-11-12T04:11:24Z",
-            "lang": "en",
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "7269df991f55d3e323ccaa958cbfd1ce",
-            "title": "Asian Shares Mostly Slip as Nvidia's Troubles Weigh on AI Stocks, Despite a Rally on Wall St",
-            "description": "TOKYO (AP) — Asian shares were mostly lower and U.S. futures were mixed Thursday as concerns over leadership at chipmaker Nvidia weighed on artificial intelligence -related stocks.",
-            "content": "TOKYO (AP) — Asian shares were mostly lower and U.S. futures were mixed Thursday as concerns over leadership at chipmaker Nvidia weighed on artificial intelligence -related stocks.\nIn after-hours trading, Nvidia’s shares fell 8.6% after reports said ... [2315 chars]",
-            "url": "https://www.usnews.com/news/us/articles/2026-11-11/asian-shares-mostly-slip-as-nvidias-troubles-weigh-on-ai-stocks-despite-a-rally-on-wall-st",
-            "image": "https://www.usnews.com/dims4/USNEWS/79bec15/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fde%2F3a89d384683907fc5a74dec56af95e%2F3b670fd354f84df7a2e49abb25a7dd88South_Korea_Financial_Markets_917_8.jpg",
-            "publishedAt": "2026-11-12T04:11:00Z",
-            "lang": "en",
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "5ecae0f1d50c4360c9e17fdfeb655524",
-            "title": "Why Has Norway Deployed 3,500 Laser-Armed AI Submarine Robots Underwater",
-            "description": "AI laser submarines monitor and target sea lice in salmon pens, lowering lice levels and reducing mortality in Norway.",
-            "content": "Norwegian salmon farmers are using laser-armed, AI-guided submarines to kill sea lice around the country's coastline. Oslo-based Stingray Marine Solutions in its annual report, revealed that more than 3,500 units of these submarines are now operation... [1887 chars]",
-            "url": "https://www.ndtv.com/feature/why-has-norway-deployed-3-500-laser-armed-ai-submarine-robots-underwater-12315380",
-            "image": "https://c.ndtvimg.com/2026-11/qeantehg_as_625x300_12_November_26.jpeg",
-            "publishedAt": "2026-11-12T04:10:48Z",
-            "lang": "en",
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
+                "id": "cc589abcee543815a82a8b2856ebe9ed",
+                "name": "Malay Mail",
+                "url": "https://www.malaymail.com",
+                "country": "my"
             }
         }
     ]
