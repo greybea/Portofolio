@@ -4,16 +4,48 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 499770,
+    "totalArticles": 500807,
     "articles": [
         {
-            "id": "90f2a7c074b9cfe3d98eece0cfab59b8",
-            "title": "Google rolls out Gemini 4 Hydrogen with 2.5x speed boost, four reasoning levels",
-            "description": "Google has rolled out Gemini 4 Hydrogen, a new artificial intelligence model that completes tasks 2.5 times faster than its predecessor, Gemini 3.8 Flash, as the company looks to improve the speed and efficiency of everyday AI tasks, coding and agentic workflows.",
-            "content": "New Delhi [India], November 13 (ANI): Google has rolled out Gemini 4 Hydrogen, a new artificial intelligence model that completes tasks 2.5 times faster than its predecessor, Gemini 3.8 Flash, as the company looks to improve the speed and efficiency ... [913 chars]",
-            "url": "https://www.aninews.in/news/business/google-rolls-out-gemini-4-hydrogen-with-25x-speed-boost-four-reasoning-levels20261113091434/",
-            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261113034426-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-11-13T03:44:34Z",
+            "id": "92533e2d16e18678f9979bb2f42b1d66",
+            "title": "TNRERA flags use of AI-generated images to misrepresent project infra",
+            "description": "Reddy urged promoters to ensure that advertisements accurately reflected the facilities available in their projects and that the commitments on amenities and de",
+            "content": "TIRUCHY: Some library books had facts that existed only on paper. Some real estate layouts now have roads that exist only in pixels.\nTamil Nadu Real Estate Regulatory Authority (TNRERA) chairperson K Phanindra Reddy on Friday flagged instances of pro... [2760 chars]",
+            "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/14/tnrera-flags-use-of-ai-generated-images-to-misrepresent-project-infra",
+            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-14%2Fenkwj3rg%2Fai-story-copy101502.jpg?rect=0%2C0%2C2752%2C1445&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-11-14T02:28:57Z",
+            "lang": "en",
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "84df57ed08c2a43d32a5859c6e75c40b",
+            "title": "OpenAI expands into payments with ChatGPT Wallet, allowing AI agents to make purchases using users' cards",
+            "description": "OpenAI has expanded ChatGPT into digital payments with the launch of ChatGPT Wallet, a feature that allows its artificial intelligence agents to make purchases on behalf of users without accessing their actual card details.",
+            "content": "New Delhi [India], November 14 (ANI): OpenAI has expanded ChatGPT into digital payments with the launch of ChatGPT Wallet, a feature that allows its artificial intelligence agents to make purchases on behalf of users without accessing their actual ca... [2953 chars]",
+            "url": "https://www.tribuneindia.com/news/business/openai-expands-into-payments-with-chatgpt-wallet-allowing-ai-agents-to-make-purchases-using-users-cards/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY1ZDZkNzYwLWRmZDItMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc=",
+            "publishedAt": "2026-11-14T02:27:32Z",
+            "lang": "en",
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "4ca65fea11f4dd21682c875ea334c024",
+            "title": "OpenAI expands into payments with ChatGPT Wallet, allowing AI agents to make purchases using users' cards",
+            "description": "OpenAI has expanded ChatGPT into digital payments with the launch of ChatGPT Wallet, a feature that allows its artificial intelligence agents to make purchases on behalf of users without accessing their actual card details.",
+            "content": "New Delhi [India], November 14 (ANI): OpenAI has expanded ChatGPT into digital payments with the launch of ChatGPT Wallet, a feature that allows its artificial intelligence agents to make purchases on behalf of users without accessing their actual ca... [1119 chars]",
+            "url": "https://www.aninews.in/news/business/openai-expands-into-payments-with-chatgpt-wallet-allowing-ai-agents-to-make-purchases-using-users-cards20261114075642/",
+            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261114022027-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-11-14T02:26:42Z",
             "lang": "en",
             "source": {
                 "id": "f282f77e41f55d72f00fefcaccc92954",
@@ -23,29 +55,77 @@
             }
         },
         {
-            "id": "dd40c447db9909892c3a9fedf18c8dc2",
-            "title": "Microsoft Goes Down! Outlook, Teams, OpenAI & Anthropic Affected",
-            "description": "Microsoft 365, Outlook and Teams experienced widespread outages across the US on Thursday, November 12, affecting thousands of users. Downdetector reported over 97,000 complaints about Outlook, 38,000 about Microsoft 365 and approximately 4,500 about Teams. Microsoft acknowledged the disruption and said it was working urgently to minimize its impact. The company paused software deployments, redirected traffic away from affected infrastructure and restarted impacted servers to restore services. Although Microsoft initially announced that a Teams outage in North America had been resolved, it later warned that Microsoft 365 connectivity issues could affect users in other regions. The disruption also impacted AI services, with OpenAI reporting problems involving Microsoft connectors that affected new connections and tools. Anthropic similarly identified an issue with an upstream provider affecting its Microsoft 365 connector. The incident highlighted the widespread dependence of productivity and AI platforms on Microsoft's cloud infrastructure.",
-            "content": "Microsoft 365, Outlook and Teams experienced widespread outages across the US on Thursday, November 12, affecting thousands of users. Downdetector reported over 97,000 complaints about Outlook, 38,000 about Microsoft 365 and approximately 4,500 about... [1057 chars]",
-            "url": "https://www.moneycontrol.com/world/microsoft-goes-down-outlook-teams-openai-anthropic-affected-videoshow-14078977.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261113034020_microsoft.jpg",
-            "publishedAt": "2026-11-13T03:44:12Z",
+            "id": "a5b82cb6676f3f2ccc7b3dc4a9726802",
+            "title": "What we know about Chinese businesswoman Alice Huang",
+            "description": "SINGAPORE: Alice Huang had a long career in Chinese finance before later emerging as an executive in the global race for artificial-intelligence chips.",
+            "content": "SINGAPORE: Alice Huang had a long career in Chinese finance before later emerging as an executive in the global race for artificial-intelligence chips.\nKnown also as Huang Le, she was a top executive of Megaspeed, a Singapore-based tech company that ... [4527 chars]",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/14/what-we-know-about-chinese-businesswoman-alice-huang",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/11/14/4212020.JPG",
+            "publishedAt": "2026-11-14T02:26:00Z",
             "lang": "en",
             "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "55537a33e9330221f7f09c65f3e0b73b",
+            "title": "SNA Foundation Day: Yogi proposes ‘One District, One Art’, seeks cultural bodies’ participation",
+            "description": "Addressing young artists at the event, the chief minister encouraged them to use digital tools, social media and artificial intelligence to expand their reach. However, he cautioned them against losing touch with their cultural roots, classical training and the foundational wisdom imparted by their gurus.",
+            "content": "Speaking at the 63rd Foundation Day celebration of Uttar Pradesh Sangeet Natak Akademi, he urged the leadership of the UP Sangeet Natak Akademi, Bharatendu Natya Academy, Birju Maharaj Kathak Sansthan, State Lalit Kala Akademi and other cultural bodi... [1566 chars]",
+            "url": "https://www.hindustantimes.com/cities/lucknow-news/sna-foundation-day-yogi-proposes-one-district-one-art-seeks-cultural-bodies-participation-101794597717736.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/Chief-minister-Yogi-Adityanath-at-the-63rd-Foundat_1794597714190_KVzr.jpeg",
+            "publishedAt": "2026-11-14T02:22:20Z",
+            "lang": "en",
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "c7f7c12847c7c92b1d5b5169c67a535f",
-            "title": "CleanMax to invest Rs 50,000 crore in AI compute, renewable energy projects in Andhra Pradesh",
-            "description": "CleanMax will allocate Rs 50,000 crore towards establishing a renewable energy and AI compute facility in Andhra Pradesh. Partnering with Neysa, a 2 GW AI computing center will rise in Kurnool district, set to provide 1,000 jobs by March 2028. This ambitious plan also includes generating 3 GW of wind, 2 GW of solar, and 1 GW of hydro storage energy, transforming Andhra Pradesh's technological landscape.",
-            "content": "Synopsis\nCleanMax will allocate Rs 50,000 crore towards establishing a renewable energy and AI compute facility in Andhra Pradesh. Partnering with Neysa, a 2 GW AI computing center will rise in Kurnool district, set to provide 1,000 jobs by March 202... [3199 chars]",
-            "url": "https://economictimes.indiatimes.com/industry/energy/power/cleanmax-to-invest-rs-50000-crore-in-ai-compute-renewable-energy-projects-in-andhra-pradesh/articleshow/135788341.cms",
-            "image": "https://img.etimg.com/thumb/msid-135788513,width-1200,height-900,imgsize-165124,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-11-13T03:44:00Z",
+            "id": "2e6e7c44e698f2dc73534f3fa099e898",
+            "title": "Jensen Huang Misled Top Nvidia Officers About Affair With Chinese Spy: Report",
+            "description": "On Thursday, Jensen Huang resigned as Nvidia CEO, a spectacular fall from the chip industry's heights where he was a pioneer of technology central to the recent boom in artificial intelligence.",
+            "content": "Former Nvidia CEO Jensen Huang misled several of the company's leaders, including general counsel Tim Teter and chief marketing officer Alison Wagonfeld, about the nature of his relationship with Chinese businesswoman Alice Huang, with whom he had an... [3489 chars]",
+            "url": "https://www.ndtv.com/world-news/jensen-huang-alice-huang-affair-jensen-huang-misled-top-nvidia-officers-about-affair-with-chinese-spy-alice-huang-report-12324855",
+            "image": "https://c.ndtvimg.com/2026-11/na0ov14s_jensen-huang_625x300_11_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-11-14T02:19:20Z",
+            "lang": "en",
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "99935c126d34e06f5da1f27adb4bb956",
+            "title": "The 5 Best New Features Samsung Added To Galaxy Tablets In 2026",
+            "description": "The best features Samsung added to Galaxy tablets in 2026 bolstered an already strong line. Among the big additions were AI integrations and performance boosts.",
+            "content": "Between refurbished options and more recent releases, there is a wide variety of Samsung Galaxy tablets on the market. Flagship models include premium offerings out of the Galaxy Tab S series, while more affordable options can be found in the Tab A s... [8135 chars]",
+            "url": "https://www.bgr.com/2311883/best-new-features-added-samsung-galaxy-tablets/",
+            "image": "https://www.bgr.com/img/gallery/the-5-best-new-features-samsung-added-to-galaxy-tablets-in-2026/l-intro-1794315476.jpg",
+            "publishedAt": "2026-11-14T02:17:00Z",
+            "lang": "en",
+            "source": {
+                "id": "b98becfda029f124cf65538c8af36d20",
+                "name": "BGR",
+                "url": "https://www.bgr.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "fd15c16f84fc8d3b3a32bdae2d2879a0",
+            "title": "AI relief fails to lift legacy IT stocks as earnings worries weigh",
+            "description": "The Indian IT sector has seen a rollercoaster of activity, where mid-sized companies have outperformed their larger peers recently. Increased deal bookings are promising, yet slow revenue growth due to client indecision lingers. The emergence of AI technology brings both new possibilities and pricing pressures for classic services. To sustain their margins in this shifting landscape, companies are honing their operational efficiency.",
+            "content": "Synopsis\nThe Indian IT sector has seen a rollercoaster of activity, where mid-sized companies have outperformed their larger peers recently. Increased deal bookings are promising, yet slow revenue growth due to client indecision lingers. The emergenc... [5566 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-relief-fails-to-lift-legacy-it-stocks-as-earnings-worries-weigh/articleshow/135820139.cms",
+            "image": "https://img.etimg.com/thumb/msid-135820374,width-1200,height-900,imgsize-202614,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-11-14T02:13:00Z",
             "lang": "en",
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -55,13 +135,13 @@
             }
         },
         {
-            "id": "63cb4376088bd85619d55dbd3e2107b0",
-            "title": "MacKay and Tri-Service General Hospitals Name First Winners of Taiwan's T+ MedIC Medical Innovation Accelerator",
-            "description": "/PRNewswire/ -- An AI tool that helps clinicians read electrocardiograms and a screening platform that pairs low-dose chest CT with artificial intelligence won...",
-            "content": "AI-assisted ECG interpretation and a multimodal preventive screening platform take top honors among 14 finalist teams\nTAIPEI, Nov. 13, 2026 /PRNewswire/ -- An AI tool that helps clinicians read electrocardiograms and a screening platform that pairs l... [4805 chars]",
-            "url": "https://www.prnewswire.co.uk/news-releases/mackay-and-tri-service-general-hospitals-name-first-winners-of-taiwans-t-medic-medical-innovation-accelerator-302938685.html",
-            "image": "https://mmx.prnewswire.com/media/MS2032650/20261111023421EST_image_1.jpg?id=OA3076573&p=facebook",
-            "publishedAt": "2026-11-13T03:41:00Z",
+            "id": "f81400b136a0625e4b2135c6bdb4d7e8",
+            "title": "WeFetch AI Corp. Is the New Name of GreenCore Solutions Corp.",
+            "description": "/PRNewswire/ -- WeFetch AI Corp., the artificial intelligence (AI) shopping company formerly named GreenCore Solutions Corp., has completed its change of name....",
+            "content": "gtinfetch.ai, WeFetch.ai's lead product, removes the guess from artificial intelligence (AI) shopping: the right barcode, and signed proof of it.\nVANCOUVER, BC and LONDON, Nov. 14, 2026 /PRNewswire/ -- WeFetch AI Corp., the artificial intelligence (A... [3418 chars]",
+            "url": "https://www.prnewswire.co.uk/news-releases/wefetch-ai-corp-is-the-new-name-of-greencore-solutions-corp-302939467.html",
+            "image": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
+            "publishedAt": "2026-11-14T02:10:00Z",
             "lang": "en",
             "source": {
                 "id": "f4d035ae0463df22c36ae97972a33ba6",
@@ -71,99 +151,19 @@
             }
         },
         {
-            "id": "5b7d82f7ea43e479350b8b37183b9513",
-            "title": "Nvidia scandal puts China chip curbs back in focus as US lawmakers push tougher export restrictions",
-            "description": "US lawmakers from both parties are pushing tougher restrictions on China's access to advanced AI chips following reports about former Nvidia CEO Jensen Huang's affair with a suspected Chinese spy. Congress is weighing measures to tighten export oversight, track advanced processors, pressure US allies and close remote-access loopholes.",
-            "content": "Synopsis\nUS lawmakers from both parties are pushing tougher restrictions on China's access to advanced AI chips following reports about former Nvidia CEO Jensen Huang's affair with a suspected Chinese spy. Congress is weighing measures to tighten exp... [4635 chars]",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-scandal-puts-china-chip-curbs-back-in-focus-as-us-lawmakers-push-tougher-export-restrictions/articleshow/135787431.cms",
-            "image": "https://img.etimg.com/thumb/msid-135788408,width-1200,height-900,imgsize-53382,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2026-11-13T03:41:00Z",
+            "id": "64cdc785698ee60bce0b2fa3f6fa097f",
+            "title": "Microsoft outage eases after over a day, recovery timeline uncertain",
+            "description": "Microsoft said server issues were behind the incident that also affected its Copilot AI assistant and that a broader rollout ​of software fixes was stabilizing the system",
+            "content": "A global outage of Microsoft Outlook and Teams was easing on Friday after more than 24 hours of disruption crippled online communications across businesses and governments, though the company said it still had no timeline for full recovery of service... [5074 chars]",
+            "url": "https://www.business-standard.com/world-news/microsoft-outage-eases-after-over-a-day-recovery-timeline-uncertain-126111400033_1.html",
+            "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/13/thumb/fitandfill/1200X628/1794553218-6826.jpg",
+            "publishedAt": "2026-11-14T02:07:19Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
                 "country": "in"
-            }
-        },
-        {
-            "id": "b4ccd956dee342f1790465d674b93907",
-            "title": "SpaceX Announces Massive $74 Billion Investment To Build Two AI Supercomputing Campuses In Texas And Arizona",
-            "description": "SpaceX plans to invest over $74 billion in two AI supercomputing campuses in Texas and Arizona. The projects are expected to create thousands of construction and permanent jobs, with the Texas facility generating its own power and Arizona campus scaling up to 6 gigawatts.",
-            "content": "Houston: SpaceX has announced plans to invest more than USD 74 billion across two artificial intelligence supercomputing campuses in Texas and Arizona.\nIn a statement issued on Thursday, SpaceX outlined an investment of over USD 24 billion for a supe... [1605 chars]",
-            "url": "https://www.freepressjournal.in/tech/spacex-announces-massive-74-billion-investment-to-build-two-ai-supercomputing-campuses-in-texas-and-arizona",
-            "image": "https://media.assettype.com/freepressjournal/2026-10-21/ci35vrsx/Untitled-design-2026-10-21T131723.882.jpg",
-            "publishedAt": "2026-11-13T03:40:44Z",
-            "lang": "en",
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "a29a17aff47f2e4700d6d07a5058e0f6",
-            "title": "Why the AI World Will Never Be the Same",
-            "description": "Until this week, Jensen Huang was one of the most powerful people in the most powerful industry on earth. Now, after 33 years running Nvidia, he’s out. Ahead of our usual conversation dropping Friday, we’re bringing you a personal essay from Kevin, who has spent years covering the race to AGI and nearly made Huang a main character in his book. He explains the three central roles Huang played in the AI boom, and why he thinks the affairs alone don’t explain why Huang had to go.A note: After we recorded this episode, Reuters reported that Huang allegedly had a third affair, with a second Nvidia employee. That brings the total number of reported affairs to three.For a transcript of this episode, select the episode on npr.org/machinegods.You can watch this full episode on YouTube, Spotify or Apple Podcasts. And if you’ve got a question you want us to answer, you can drop us a comment on any of those platforms or email us at hey@machinegods.fm.",
-            "content": "Until this week, Jensen Huang was one of the most powerful people in the most powerful industry on earth. Now, after 33 years running Nvidia, he’s out.\nAhead of our usual conversation dropping Friday, we’re bringing you a personal essay from Kevin, w... [706 chars]",
-            "url": "https://www.npr.org/2026/11/12/nx-s1-6039359/why-the-ai-world-will-never-be-the-same",
-            "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F81%2F149edc744181842a90832bf93afb%2Fa47d8048-327f-4b3f-876f-fda4eceac712.png",
-            "publishedAt": "2026-11-13T03:38:38Z",
-            "lang": "en",
-            "source": {
-                "id": "b41851fb2662ea502db29f71ec4d1583",
-                "name": "NPR",
-                "url": "https://www.npr.org",
-                "country": "us"
-            }
-        },
-        {
-            "id": "a4f70861be5e7b33fad12b35dfa189a7",
-            "title": "Jensen Huang Nvidia exit: Reported confession sparks boardroom showdown",
-            "description": "Jensen Huang resigned from Nvidia after a reported confession and late-night board meeting. His departure leaves the AI chipmaker facing a difficult succession and continuing scrutiny.",
-            "content": "For more than three decades, Jensen Huang had been the unquestioned authority at Nvidia, overseeing its transformation from a graphics chipmaker into one of the world's most powerful artificial intelligence companies. But in the final hours of his te... [6719 chars]",
-            "url": "https://www.indiatoday.in/business/story/jensen-huang-nvidia-exit-resignation-final-hours-reported-confession-boardroom-showdown-3037907-2026-11-13",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/jensen-huang-120309377-original-sixteen-to-nine.jpg?VersionId=IsRw7S3QrZ5.lDjxzCzmSk5R6XrJuspc",
-            "publishedAt": "2026-11-13T03:37:29Z",
-            "lang": "en",
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "f1a727b324767a924e334d14f40de378",
-            "title": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses",
-            "description": "NEW YORK — The US stock market shook Thursday, but it largely absorbed big swings for Nvidia and oil prices and finished with relatively modest losses. The moves suggested Wall Street sees limited fallout for the artificial intelligence industry, which carries immense influence on the market, despite the sudden fall of one of its biggest evangelists.",
-            "content": "NEW YORK — The US stock market shook Thursday, but it largely absorbed big swings for Nvidia and oil prices and finished with relatively modest losses. The moves suggested Wall Street sees limited fallout for the artificial intelligence industry, whi... [4832 chars]",
-            "url": "https://www.manilatimes.net/2026/11/13/business/foreign-business/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/2469267",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/13/1306218.jpg",
-            "publishedAt": "2026-11-13T03:35:00Z",
-            "lang": "en",
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "02e5b511d52ab8d0fbce44a98f6f330b",
-            "title": "Singapore says it barred Alice Huang from re-entry after Megaspeed chip probe in February",
-            "description": "SINGAPORE, Nov 13 — Alice Huang, the alleged Chinese spy in the Nvidia AI chip scandal, was barred from re-entering Singapore in February after providing inaccurate information...",
-            "content": "SINGAPORE, Nov 13 — Alice Huang, the alleged Chinese spy in the Nvidia AI chip scandal, was barred from re-entering Singapore in February after providing inaccurate information during a probe into Megaspeed, the government said yesterday.\nHuang, a fo... [1858 chars]",
-            "url": "https://www.malaymail.com/news/singapore/2026/11/13/singapore-says-it-barred-alice-huang-from-re-entry-after-megaspeed-chip-probe-in-february/243068",
-            "image": "https://www.malaymail.com/malaymail/uploads/images/2026/11/13/373890.jpg",
-            "publishedAt": "2026-11-13T03:32:24Z",
-            "lang": "en",
-            "source": {
-                "id": "cc589abcee543815a82a8b2856ebe9ed",
-                "name": "Malay Mail",
-                "url": "https://www.malaymail.com",
-                "country": "my"
             }
         }
     ]
