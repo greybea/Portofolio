@@ -4,64 +4,32 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 500807,
+    "totalArticles": 501219,
     "articles": [
         {
-            "id": "92533e2d16e18678f9979bb2f42b1d66",
-            "title": "TNRERA flags use of AI-generated images to misrepresent project infra",
-            "description": "Reddy urged promoters to ensure that advertisements accurately reflected the facilities available in their projects and that the commitments on amenities and de",
-            "content": "TIRUCHY: Some library books had facts that existed only on paper. Some real estate layouts now have roads that exist only in pixels.\nTamil Nadu Real Estate Regulatory Authority (TNRERA) chairperson K Phanindra Reddy on Friday flagged instances of pro... [2760 chars]",
-            "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/14/tnrera-flags-use-of-ai-generated-images-to-misrepresent-project-infra",
-            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-14%2Fenkwj3rg%2Fai-story-copy101502.jpg?rect=0%2C0%2C2752%2C1445&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-11-14T02:28:57Z",
+            "id": "70139c816ff077274bd22d5385468efc",
+            "title": "How AI headwinds in US may reshape India’s tech landscape",
+            "description": "The US midterm elections resulted in heavy defeats for Republicans, momentarily checking the rapid momentum of the artificial intelligence sector.",
+            "content": "The US midterm elections, in which the Republicans suffered a heavy defeat, managed what few thought was possible. They humbled President Donald Trump, even if only momentarily. The artificial intelligence industry, which had seemed oblivious to all ... [10640 chars]",
+            "url": "https://www.theweek.in/theweek/business/2026/11/14/how-ai-headwinds-in-us-may-reshape-india-tech-landscape.html",
+            "image": "https://img.theweek.in/content/dam/week/en/archive/magazine/theweek/business/images/2026/11/14/60-US-President-Donald-Trump-with-Nvidia-CEO-Jensen-Huang.jpg",
+            "publishedAt": "2026-11-15T03:01:00Z",
             "lang": "en",
             "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
                 "country": "in"
             }
         },
         {
-            "id": "84df57ed08c2a43d32a5859c6e75c40b",
-            "title": "OpenAI expands into payments with ChatGPT Wallet, allowing AI agents to make purchases using users' cards",
-            "description": "OpenAI has expanded ChatGPT into digital payments with the launch of ChatGPT Wallet, a feature that allows its artificial intelligence agents to make purchases on behalf of users without accessing their actual card details.",
-            "content": "New Delhi [India], November 14 (ANI): OpenAI has expanded ChatGPT into digital payments with the launch of ChatGPT Wallet, a feature that allows its artificial intelligence agents to make purchases on behalf of users without accessing their actual ca... [2953 chars]",
-            "url": "https://www.tribuneindia.com/news/business/openai-expands-into-payments-with-chatgpt-wallet-allowing-ai-agents-to-make-purchases-using-users-cards/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY1ZDZkNzYwLWRmZDItMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc=",
-            "publishedAt": "2026-11-14T02:27:32Z",
-            "lang": "en",
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "4ca65fea11f4dd21682c875ea334c024",
-            "title": "OpenAI expands into payments with ChatGPT Wallet, allowing AI agents to make purchases using users' cards",
-            "description": "OpenAI has expanded ChatGPT into digital payments with the launch of ChatGPT Wallet, a feature that allows its artificial intelligence agents to make purchases on behalf of users without accessing their actual card details.",
-            "content": "New Delhi [India], November 14 (ANI): OpenAI has expanded ChatGPT into digital payments with the launch of ChatGPT Wallet, a feature that allows its artificial intelligence agents to make purchases on behalf of users without accessing their actual ca... [1119 chars]",
-            "url": "https://www.aninews.in/news/business/openai-expands-into-payments-with-chatgpt-wallet-allowing-ai-agents-to-make-purchases-using-users-cards20261114075642/",
-            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261114022027-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-11-14T02:26:42Z",
-            "lang": "en",
-            "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "a5b82cb6676f3f2ccc7b3dc4a9726802",
-            "title": "What we know about Chinese businesswoman Alice Huang",
-            "description": "SINGAPORE: Alice Huang had a long career in Chinese finance before later emerging as an executive in the global race for artificial-intelligence chips.",
-            "content": "SINGAPORE: Alice Huang had a long career in Chinese finance before later emerging as an executive in the global race for artificial-intelligence chips.\nKnown also as Huang Le, she was a top executive of Megaspeed, a Singapore-based tech company that ... [4527 chars]",
-            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/14/what-we-know-about-chinese-businesswoman-alice-huang",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/11/14/4212020.JPG",
-            "publishedAt": "2026-11-14T02:26:00Z",
+            "id": "62a1306a8962a66bc96e1af39e8c5630",
+            "title": "Study: When to use AI for research, and when not to",
+            "description": "You need to quickly learn about a new topic. Or you need an answer to an obscure question. Should you use a normal search engine or should you have an AI tool such as ChatGPT or Claude do the searching for you?",
+            "content": "You need to quickly learn about a new topic. Or you need an answer to an obscure question. Should you use a normal search engine or should you have an AI tool such as ChatGPT or Claude do the searching for you?\nA new study from Stanford University of... [4652 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/11/15/study-when-to-use-ai-for-research-and-when-not-to",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/11/13/4210844.jpg",
+            "publishedAt": "2026-11-15T03:00:00Z",
             "lang": "en",
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -71,45 +39,29 @@
             }
         },
         {
-            "id": "55537a33e9330221f7f09c65f3e0b73b",
-            "title": "SNA Foundation Day: Yogi proposes ‘One District, One Art’, seeks cultural bodies’ participation",
-            "description": "Addressing young artists at the event, the chief minister encouraged them to use digital tools, social media and artificial intelligence to expand their reach. However, he cautioned them against losing touch with their cultural roots, classical training and the foundational wisdom imparted by their gurus.",
-            "content": "Speaking at the 63rd Foundation Day celebration of Uttar Pradesh Sangeet Natak Akademi, he urged the leadership of the UP Sangeet Natak Akademi, Bharatendu Natya Academy, Birju Maharaj Kathak Sansthan, State Lalit Kala Akademi and other cultural bodi... [1566 chars]",
-            "url": "https://www.hindustantimes.com/cities/lucknow-news/sna-foundation-day-yogi-proposes-one-district-one-art-seeks-cultural-bodies-participation-101794597717736.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/Chief-minister-Yogi-Adityanath-at-the-63rd-Foundat_1794597714190_KVzr.jpeg",
-            "publishedAt": "2026-11-14T02:22:20Z",
+            "id": "1328acc64f960ce971d86addc1f51d13",
+            "title": "Microsoft snag impact or AI hacking attempt? Aviation experts join debate on US flight chaos",
+            "description": "“Extraordinary circumstances and reasons for safety” was specified as the reason for the chaos by the Federal Aviation Administration in the US.",
+            "content": "NEW DELHI: The grounding of all commercial flight traffic across the US on Friday for four hours has disrupted the schedules of over 8,000 flights across the world.\nMultiple versions of the reason behind this largest airspace shutdown in the US since... [1183 chars]",
+            "url": "https://www.newindianexpress.com/thesundaystandard/2026/Nov/15/microsoft-snag-impact-or-ai-hacking-attempt-aviation-experts-join-debate-on-us-flight-chaos",
+            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-15%2Fti0qmqh2%2FAP26318479850151.jpg?rect=0%2C449%2C4000%2C2100&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-11-15T02:50:50Z",
             "lang": "en",
             "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "2e6e7c44e698f2dc73534f3fa099e898",
-            "title": "Jensen Huang Misled Top Nvidia Officers About Affair With Chinese Spy: Report",
-            "description": "On Thursday, Jensen Huang resigned as Nvidia CEO, a spectacular fall from the chip industry's heights where he was a pioneer of technology central to the recent boom in artificial intelligence.",
-            "content": "Former Nvidia CEO Jensen Huang misled several of the company's leaders, including general counsel Tim Teter and chief marketing officer Alison Wagonfeld, about the nature of his relationship with Chinese businesswoman Alice Huang, with whom he had an... [3489 chars]",
-            "url": "https://www.ndtv.com/world-news/jensen-huang-alice-huang-affair-jensen-huang-misled-top-nvidia-officers-about-affair-with-chinese-spy-alice-huang-report-12324855",
-            "image": "https://c.ndtvimg.com/2026-11/na0ov14s_jensen-huang_625x300_11_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-11-14T02:19:20Z",
-            "lang": "en",
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "99935c126d34e06f5da1f27adb4bb956",
-            "title": "The 5 Best New Features Samsung Added To Galaxy Tablets In 2026",
-            "description": "The best features Samsung added to Galaxy tablets in 2026 bolstered an already strong line. Among the big additions were AI integrations and performance boosts.",
-            "content": "Between refurbished options and more recent releases, there is a wide variety of Samsung Galaxy tablets on the market. Flagship models include premium offerings out of the Galaxy Tab S series, while more affordable options can be found in the Tab A s... [8135 chars]",
-            "url": "https://www.bgr.com/2311883/best-new-features-added-samsung-galaxy-tablets/",
-            "image": "https://www.bgr.com/img/gallery/the-5-best-new-features-samsung-added-to-galaxy-tablets-in-2026/l-intro-1794315476.jpg",
-            "publishedAt": "2026-11-14T02:17:00Z",
+            "id": "33ec69f0b2dee7f0e0c39027480a265d",
+            "title": "This Is The One PC Part You Should Never Cheap Out On",
+            "description": "The prices of many PC components are very high right now, thanks to ongoing AI-induced shortages, but there's one part you should never cheap out on.",
+            "content": "We may receive a commission on purchases made from links.\nUnless you buy used, there's no getting around today's DIY PC market prices. The data center-induced memory shortage continues to hike price tags for GPUs, RAM, and storage to new heights, mak... [4509 chars]",
+            "url": "https://www.bgr.com/2312761/pc-part-shouldnt-cheap-out-on-power-supply/",
+            "image": "https://www.bgr.com/img/gallery/this-is-the-one-pc-part-you-should-never-cheap-out-on/l-intro-1794344583.jpg",
+            "publishedAt": "2026-11-15T02:47:00Z",
             "lang": "en",
             "source": {
                 "id": "b98becfda029f124cf65538c8af36d20",
@@ -119,50 +71,98 @@
             }
         },
         {
-            "id": "fd15c16f84fc8d3b3a32bdae2d2879a0",
-            "title": "AI relief fails to lift legacy IT stocks as earnings worries weigh",
-            "description": "The Indian IT sector has seen a rollercoaster of activity, where mid-sized companies have outperformed their larger peers recently. Increased deal bookings are promising, yet slow revenue growth due to client indecision lingers. The emergence of AI technology brings both new possibilities and pricing pressures for classic services. To sustain their margins in this shifting landscape, companies are honing their operational efficiency.",
-            "content": "Synopsis\nThe Indian IT sector has seen a rollercoaster of activity, where mid-sized companies have outperformed their larger peers recently. Increased deal bookings are promising, yet slow revenue growth due to client indecision lingers. The emergenc... [5566 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-relief-fails-to-lift-legacy-it-stocks-as-earnings-worries-weigh/articleshow/135820139.cms",
-            "image": "https://img.etimg.com/thumb/msid-135820374,width-1200,height-900,imgsize-202614,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-11-14T02:13:00Z",
+            "id": "6ba6945b3eed1a4712d82561fc8f56e2",
+            "title": "Why MBA education must evolve in the age of AI",
+            "description": "Business school education provides the essential ability to make critical decisions using partial data while operating outside one's comfort zone.",
+            "content": "I STILL REMEMBER the embarrassment of a quant class at IIM Ahmedabad: cold-called on a case, stumbling through it in front of 50-plus classmates, the professor unconcerned about my discomfort. We were never given enough information. That was the poin... [5412 chars]",
+            "url": "https://www.theweek.in/theweek/cover/2026/11/14/why-mba-education-must-evolve-in-the-age-of-ai.html",
+            "image": "https://img.theweek.in/content/dam/week/en/archive/magazine/theweek/cover/images/2026/11/14/92-Students-at-IIMA-the-authors-alma-mater.jpg",
+            "publishedAt": "2026-11-15T02:46:00Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
                 "country": "in"
             }
         },
         {
-            "id": "f81400b136a0625e4b2135c6bdb4d7e8",
-            "title": "WeFetch AI Corp. Is the New Name of GreenCore Solutions Corp.",
-            "description": "/PRNewswire/ -- WeFetch AI Corp., the artificial intelligence (AI) shopping company formerly named GreenCore Solutions Corp., has completed its change of name....",
-            "content": "gtinfetch.ai, WeFetch.ai's lead product, removes the guess from artificial intelligence (AI) shopping: the right barcode, and signed proof of it.\nVANCOUVER, BC and LONDON, Nov. 14, 2026 /PRNewswire/ -- WeFetch AI Corp., the artificial intelligence (A... [3418 chars]",
-            "url": "https://www.prnewswire.co.uk/news-releases/wefetch-ai-corp-is-the-new-name-of-greencore-solutions-corp-302939467.html",
-            "image": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-            "publishedAt": "2026-11-14T02:10:00Z",
+            "id": "827bb8b019213d6d3b7d3a68db3d6bc9",
+            "title": "How top Indian B-schools are grooming future CEOs with technology, empathy",
+            "description": "Top Indian business schools are actively redesigning their MBA curricula to integrate artificial intelligence, sustainability, and interdisciplinary problem-solving.",
+            "content": "AHMEDABAD, DELHI\nIf you try to guess the case studies discussed at IIMA, you can’t be blamed for thinking about MNCs or famous Indian companies. The Tirupati temple does not fall into that realm. But, the more you think about it, the more it makes se... [7158 chars]",
+            "url": "https://www.theweek.in/theweek/cover/2026/11/14/how-top-indian-b-schools-are-grooming-future-ceos-with-technology-empathy.html",
+            "image": "https://img.theweek.in/content/dam/week/en/archive/magazine/theweek/cover/images/2026/11/14/102-IIMA-Indias-top-b-school.jpg",
+            "publishedAt": "2026-11-15T02:41:02Z",
             "lang": "en",
             "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
             }
         },
         {
-            "id": "64cdc785698ee60bce0b2fa3f6fa097f",
-            "title": "Microsoft outage eases after over a day, recovery timeline uncertain",
-            "description": "Microsoft said server issues were behind the incident that also affected its Copilot AI assistant and that a broader rollout ​of software fixes was stabilizing the system",
-            "content": "A global outage of Microsoft Outlook and Teams was easing on Friday after more than 24 hours of disruption crippled online communications across businesses and governments, though the company said it still had no timeline for full recovery of service... [5074 chars]",
-            "url": "https://www.business-standard.com/world-news/microsoft-outage-eases-after-over-a-day-recovery-timeline-uncertain-126111400033_1.html",
-            "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/13/thumb/fitandfill/1200X628/1794553218-6826.jpg",
-            "publishedAt": "2026-11-14T02:07:19Z",
+            "id": "fa011b6906d27e8b067ba0dce2ca7a36",
+            "title": "AI retreat fuels India's stock market comeback in great rotation trade",
+            "description": "The MSCI India gauge has rebounded 11% from a six-month low set in October, adding more than $400 billion in value and almost erasing this year's losses",
+            "content": "The MSCI India gauge has rebounded 11% from a six-month low set in October, adding more than $400 billion in value and almost erasing this year's losses\nEarnings for Nifty 50 Index companies may rise around 18% year-on-year in the September quarter, ... [5364 chars]",
+            "url": "https://www.business-standard.com/world-news/ai-retreat-fuels-india-s-stock-market-comeback-in-great-rotation-trade-126111500057_1.html",
+            "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/15/thumb/fitandfill/1200X628/1794710093-0597.jpg",
+            "publishedAt": "2026-11-15T02:40:16Z",
             "lang": "en",
             "source": {
                 "id": "44d394a4e765f82b49b452e4302a72b0",
                 "name": "Business Standard",
                 "url": "https://www.business-standard.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "1dbe5a7251efbbdf85996be8205f6b55",
+            "title": "‘Strategic management is more important because of AI, robotics’: Prof Bharat Bhasker",
+            "description": "Management education requires a combination of unchanging core leadership values and a flexible curriculum that adapts to fast-changing business environments.",
+            "content": "Interview/ Prof Bharat Bhasker, director, IIM Ahmedabad\nQ/ What improvement should be made in the way management education is currently designed in India?\nThere are two aspects. One is developing the core leadership aspect; the second is putting a la... [5118 chars]",
+            "url": "https://www.theweek.in/theweek/cover/2026/11/14/strategic-management-is-more-important-because-of-ai-robotics-prof-bharat-bhasker.html",
+            "image": "https://img.theweek.in/content/dam/week/en/archive/magazine/theweek/cover/images/2026/11/14/108-Prof-Bharat-Bhasker.jpg",
+            "publishedAt": "2026-11-15T02:40:00Z",
+            "lang": "en",
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "1fc02977240e818d61a296977786ff51",
+            "title": "Business schools are redefining the modern MBA for the AI era",
+            "description": "Artificial intelligence is rapidly automating traditional entry-level tasks like financial modeling and data research, forcing business schools to rethink their curriculums.",
+            "content": "B-school graduates used to spend the early years of their career researching, building financial models, crunching data and making presentations. But, much of this work is now done by AI. Tasks that kept junior consultants occupied for days can now b... [5162 chars]",
+            "url": "https://www.theweek.in/theweek/cover/2026/11/14/business-schools-are-redefining-the-modern-mba-for-the-ai-era.html",
+            "image": "https://img.theweek.in/content/dam/week/en/archive/magazine/theweek/cover/images/2026/11/14/112-IMT-Ghaziabad.jpg",
+            "publishedAt": "2026-11-15T02:32:00Z",
+            "lang": "en",
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "b9865eeb94a5f6c09e4f38f409c9e071",
+            "title": "‘Moving from credential-first hiring to capability-first hiring’: Manish Sabharwal",
+            "description": "Employers are shifting from credential-first hiring to capability-first hiring, demanding evidence of problem-solving and AI usage.",
+            "content": "Interview/ Manish Sabharwal, cofounder, TeamLease Services\nQ/ Which criteria for MBA hires have companies added, dropped or reweighed in the past three years?\nThe biggest change is from credential-first hiring to capability-first hiring. Employers wa... [3245 chars]",
+            "url": "https://www.theweek.in/theweek/cover/2026/11/14/moving-from-credential-first-hiring-to-capability-first-hiring-manish-sabharwal.html",
+            "image": "https://img.theweek.in/content/dam/week/en/archive/magazine/theweek/cover/images/2026/11/14/114-Manish-Sabharwal.jpg",
+            "publishedAt": "2026-11-15T02:31:00Z",
+            "lang": "en",
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
                 "country": "in"
             }
         }
