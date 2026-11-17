@@ -4,80 +4,16 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 501809,
+    "totalArticles": 503188,
     "articles": [
         {
-            "id": "21867906f04281094e7dbc15c50c9c6b",
-            "title": "AI selloff resumes as Nvidia earnings loom",
-            "description": "A look at the day ahead in European and global markets from Kevin Buckland Semiconductor shares are in the spotlight at the start of a crucial week for the AI boom, and caution is the watchword....",
-            "content": "A look at the day ahead in European and global markets from Kevin Buckland\nSemiconductor shares are in the spotlight at the start of a crucial week for the AI boom, and caution is the watchword.\nEmbattled chipmaker Nvidia -- the signature stock in th... [3073 chars]",
-            "url": "https://www.marketscreener.com/news/ai-selloff-resumes-as-nvidia-earnings-loom-ce785edede8df626",
-            "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-11/2026-11-16T053223Z_1_LYNXNPEMAF0FB_RTROPTP_4_NVIDIA-CEO.JPG",
-            "publishedAt": "2026-11-16T05:34:07Z",
-            "lang": "en",
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            }
-        },
-        {
-            "id": "67854e92692c6e19476c5044ec70a35f",
-            "title": "Companies spending 18 times more to get positive returns from AI than two years ago: Gartner",
-            "description": "A separate Gartner survey conducted in the second quarter of 2026, covering more than 2,000 CIOs and technology executives, found that 74% of organisations expect to deploy agentic AI within the next 12 months.",
-            "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nCompanies are spending 18 times more to achieve positive returns on their artificial intelligence (AI) investments than they were two years ago, even as th... [3231 chars]",
-            "url": "https://www.moneycontrol.com/technology/companies-spending-18-times-more-to-get-positive-returns-from-ai-than-two-years-ago-gartner-article-14080805.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261021055658_AI.png",
-            "publishedAt": "2026-11-16T05:30:13Z",
-            "lang": "en",
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "8ff91b7100cf956f826e2e0a592f4190",
-            "title": "Halliday G2 AI smart glasses review: Helpful features done better elsewhere",
-            "description": "The Halliday G2 AI smart glasses deliver camera-less specs with helpful AI features in a comfortable yet chunky (and dorky) design.",
-            "content": "When I first heard of Halliday making a splash back at CES 2025 by putting an \"invisible\" built-in display into its smart glasses, I was amazed by what the future of smart specs holds. Now, the company has refined its AI smart glasses in the Halliday... [11687 chars]",
-            "url": "https://www.tomsguide.com/computing/smart-glasses/i-tested-the-halliday-g2-ai-smart-glasses-and-they-turned-me-into-a-walking-cheat-sheet-but-everyone-could-tell",
-            "image": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
-            "publishedAt": "2026-11-16T05:30:00Z",
-            "lang": "en",
-            "source": {
-                "id": "dcc4f4c6eb081eb8a9ee9cca215517f5",
-                "name": "Tom's Guide",
-                "url": "https://www.tomsguide.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "7d0797184e46f98785af50c7d7c0352b",
-            "title": "Before AI literacy, there must be literacy",
-            "description": "Imagine asking a West Oak Lane middle schooler to read an artificial intelligence-generated explanation of why her block floods after heavy rain. The chatbot",
-            "content": "Imagine asking a West Oak Lane middle schooler to read an artificial intelligence-generated explanation of why her block floods after heavy rain. The chatbot sounds confident and offers three clear explanations. Then she reads a city report and a nei... [3922 chars]",
-            "url": "https://www.europesays.com/3378589/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/11/1794806828.jpeg",
-            "publishedAt": "2026-11-16T05:27:06Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "b9aa2bd9325bdfade18f4cc93f341a3d",
-            "title": "Anthropic promises to pursue humanity's benefit. Its IPO filing gives it wiggle room",
-            "description": "Anthropic's decision to go public raises significant concerns over its dedication to humanity's interests. Despite its stated intention to reconcile profit with social good, the complexities of measuring this equilibrium emerge. With the establishment of a Long-Term Benefit Trust, there are attempts to enforce accountability, though its influence is inherently limited. As AI competition intensifies, the integrity of Anthropic's values faces increasing scrutiny.",
-            "content": "Synopsis\nAnthropic's decision to go public raises significant concerns over its dedication to humanity's interests. Despite its stated intention to reconcile profit with social good, the complexities of measuring this equilibrium emerge. With the est... [9059 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-promises-to-pursue-humanitys-benefit-its-ipo-filing-gives-it-wiggle-room/articleshow/135874253.cms",
-            "image": "https://img.etimg.com/thumb/msid-135874307,width-1200,height-900,imgsize-140852,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2026-11-16T05:26:00Z",
+            "id": "d0436abdbc4393ed4a4ac207034c2875",
+            "title": "Nvidia Earnings Preview: 6 key factors investors will watch",
+            "description": "Nvidia is set to report its fiscal third-quarter 2027 results on November 17, with investors looking for evidence that the artificial intelligence boom continues to drive growth despite mounting market uncertainty and a leadership shake-up. Wall Street expects revenue of approximately $108.9 billion, up around 91% year-on-year, while adjusted earnings are forecast at $2.47 per share. (Sources: Yahoo Finance, FXStreet) ​Nvidia faces $109 billion earnings test",
+            "content": "Nvidia is set to report its fiscal third-quarter 2027 results on November 17, with investors looking for evidence that the artificial intelligence boom continues to drive growth despite mounting market uncertainty and a leadership shake-up. Wall Stre... [3559 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-earnings-preview-6-key-factors-investors-will-watch/slideshow/135911290.cms",
+            "image": "https://img.etimg.com/thumb/msid-135911290,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+            "publishedAt": "2026-11-17T05:03:00Z",
             "lang": "en",
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -87,82 +23,146 @@
             }
         },
         {
-            "id": "c61a41bb4b7a9dc144c79677c24e1696",
-            "title": "Anthropic IPO attracts Google 13% stake and $19B lease backing",
-            "description": "Anthropic's IPO is pivotal for the AI industry, with Google holding a 13% stake and major tech companies committing over $900 billion in infrastructure investments.",
-            "content": "Anthropic, the team behind the AI tool Claude, is about to go public, and some of tech's biggest names are jumping in.\nGoogle is grabbing a 13% stake and backing $19 billion in leases, while AMD, Broadcom, and Microsoft are also investing.\nThe IPO co... [458 chars]",
-            "url": "https://www.newsbytesapp.com/news/business/anthropic-ipo-attracts-google-13-stake-and-19b-lease-backing/tldr",
-            "image": "https://i.cdn.newsbytesapp.com/images/l144_1511794806333.jpg",
-            "publishedAt": "2026-11-16T05:24:31Z",
+            "id": "b4b4aa1f82fb44eb4703b1eb30fdbdd3",
+            "title": "Survey Reveals 83% Of Indian Workers Lack One Year Of Emergency Savings",
+            "description": "Participation in financial markets is relatively encouraging. Around 61% of those surveyed had invested in mutual funds, shares or cryptocurrencies, while 69% occasionally turned to AI-powered tools for investment insights.",
+            "content": "Most Indian employees feel financially secure, but many may struggle to manage if their regular income suddenly stops. A new report by Grant Thornton Bharat found that while 63% of respondents considered their financial position stable, 83% said thei... [3427 chars]",
+            "url": "https://www.ndtvprofit.com/personal-finance/survey-reveals-83-of-indian-workers-lack-one-year-of-emergency-savings-12336650",
+            "image": "https://c.ndtvimg.com/2026-11/3nkr0cb4_c_625x300_17_November_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-11-17T05:02:44Z",
             "lang": "en",
             "source": {
-                "id": "eba2f6a49db29efc8343807ba675665f",
-                "name": "NewsBytes",
-                "url": "https://www.newsbytesapp.com",
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
                 "country": "in"
             }
         },
         {
-            "id": "bf35e5eadff44338e624d630bd86c416",
-            "title": "Over 1,000 Books Sealed In Tamil Nadu Libraries As Alleged AI Publishing Scam Deepens",
-            "description": "Over 1,000 books sealed in Chennai libraries amid an alleged AI publishing scam, raising questions about public money and reader trust., Books, Times Now",
-            "content": "Tamil Nadu Library Scandal Deepens As Over 1,000 Books Are Sealed Amid AI Fraud Allegations (AI-Generated)\nA public library promises that the names on its shelves belong to real writers and the information inside their books can be trusted. In Tamil ... [3762 chars]",
-            "url": "https://www.timesnownews.com/lifestyle/books/over-1000-books-sealed-in-tamil-nadu-libraries-as-alleged-ai-publishing-scam-deepens-article-156517244",
-            "image": "https://images.timesnownews.com/thumb/msid-156517312,thumbsize-2139060,width-1280,height-720,resizemode-75/156517312.jpg",
-            "publishedAt": "2026-11-16T05:24:20Z",
+            "id": "08e7b6f940c390ce377444467d735302",
+            "title": "IBM Study: Chief AI Officers See Where AI Creates Value, but Few Control Investment Decisions",
+            "description": "/PRNewswire/ -- As companies struggle to convert AI initiatives into measurable results at scale, a new IBM (NYSE: IBM) Institute for Business Value study...",
+            "content": "Only 18% of surveyed CAIOs have full control over AI investment decisions\nOnly 29% say their organizations quickly adjust decisions and resources when AI performance insights reveal opportunities to improve results\nNearly half say AI agents act acros... [6360 chars]",
+            "url": "https://www.prnewswire.co.uk/news-releases/ibm-study-chief-ai-officers-see-where-ai-creates-value-but-few-control-investment-decisions-302941061.html",
+            "image": "https://mmx.prnewswire.com/media/MS2036880/CAIO-Hero_social.jpg?id=OA3083084&p=facebook",
+            "publishedAt": "2026-11-17T05:01:00Z",
             "lang": "en",
             "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "dd851e8a4bb17554b803492ac0953c21",
+            "title": "Trump Arrives in the Philippines on Tuesday to Talk Trade and Seek Respite From Troubles at Home",
+            "description": "MANILA, Philippines (AP) — President Donald Trump lands in the Philippines on Tuesday, where he's expected to meet regional partners, talk trade, and seek a break from a series of setbacks at home ranging from a major disruption to the U.S. aviation industry to a scandal that has shaken the global AI industry.",
+            "content": "MANILA, Philippines (AP) — President Donald Trump lands in the Philippines on Tuesday, where he's expected to meet regional partners, talk trade, and seek a break from a series of setbacks at home ranging from a major disruption to the U.S. aviation ... [4328 chars]",
+            "url": "https://www.usnews.com/news/world/articles/2026-11-17/trump-arrives-in-the-philippines-on-tuesday-to-talk-trade-and-seek-respite-from-troubles-at-home",
+            "image": "https://www.usnews.com/dims4/USNEWS/b8e4e04/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F14%2Fb301d8b6991144de521a72c95dea03%2Fa74289f23a6840efa43fac9026f59132Trump__1_46.jpg",
+            "publishedAt": "2026-11-17T05:01:00Z",
+            "lang": "en",
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "0b535d5e16a81c3bab9ec0fdac4d5ae2",
+            "title": "China’s top AI firms limit cyber capabilities in latest models",
+            "description": "China's top AI developers are releasing advanced models with reduced offensive cyber capabilities, stifling their ability to aid online attacks following a government proposal to ban such technology from being exported.",
+            "content": "China’s top AI developers are releasing advanced models with reduced offensive cyber capabilities, stifling their ability to aid online attacks following a government proposal to ban such technology from being exported.\nRecent models from Alibaba Gro... [4171 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/11/17/chinas-top-ai-firms-limit-cyber-capabilities-in-latest-models",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/11/17/4216543.jpg",
+            "publishedAt": "2026-11-17T05:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            }
+        },
+        {
+            "id": "5b2addb9bb2160f88f58327f6aab81f9",
+            "title": "'We can't pull the shutters down' minister tells communities protesting data centres",
+            "description": "Ireland signs new pledge for 'sustainable AI development' at COP31 talks",
+            "content": "Ireland signs new pledge for 'sustainable AI development' at COP31 talks\nCommunities protesting against data centres springing up in their backyards were warned Ireland cannot \"pull the shutters down\" on the tech giants by Climate Minister Darragh O’... [2829 chars]",
+            "url": "https://www.irishmirror.ie/news/irish-news/politics/we-cant-pull-shutters-down-37883608",
+            "image": "https://i2-prod.irishmirror.ie/article37854355.ece/ALTERNATES/s1200d/1_JS423673922.jpg",
+            "publishedAt": "2026-11-17T05:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "82baeeef63db51e00770028aab26df4b",
+                "name": "Irish Mirror",
+                "url": "https://www.irishmirror.ie",
+                "country": "ie"
+            }
+        },
+        {
+            "id": "01b616d951ce20f298c0ffb657437fdd",
+            "title": "The race for Weapon X",
+            "description": "AI could help terrorists engineer deadly pathogens capable of killing millions or enable autonomous killing machines, warn researchers",
+            "content": "The laboratory looks legitimate. Staff at the rural compound include trained microbiologists and virologists. Records show it is run by a recent start-up that has the necessary licences needed to order synthetic genetic material.\nBut below the surfac... [15292 chars]",
+            "url": "https://www.telegraph.co.uk/world-news/2026/11/17/weapon-x-artificial-intelligence-biological-chemical-weapon/",
+            "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/11/14/TELEMMGLPICT000511688832_17946898598730_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
+            "publishedAt": "2026-11-17T05:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "bff0cd3b8c64dceaada8841bea814f65",
+                "name": "The Telegraph",
+                "url": "https://www.telegraph.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "78a80ce7914d7d95f7fe9e2cfd7ebb79",
+            "title": "Univers expands global Physical AI ecosystem to make critical infrastructure intelligent",
+            "description": "Antalya [Türkiye], November 17: Univers, a Singapore-headquartered global leader in Physical AI for intelligent infrastructure, today announced three separate global partnerships, each aimed at accelerating the application of Physical AI across the built environment, maritime and industrial operations.",
+            "content": "PRNewswire\nAntalya [Türkiye], November 17: Univers, a Singapore-headquartered global leader in Physical AI for intelligent infrastructure, today announced three separate global partnerships, each aimed at accelerating the application of Physical AI a... [6434 chars]",
+            "url": "https://www.tribuneindia.com/news/business/univers-expands-global-physical-ai-ecosystem-to-make-critical-infrastructure-intelligent/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZjZjhkOGQwLWUyNDMtMTFmMS1hYTg1LTE1YmZkNzI5NzYyMi5qcGc=",
+            "publishedAt": "2026-11-17T04:57:36Z",
+            "lang": "en",
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
                 "country": "in"
             }
         },
         {
-            "id": "cb86a381836047fadc4344a937da5dd6",
-            "title": "Apple launches new Health AI study app to understand how people use AI for medical advice",
-            "description": "Apple has launched the new Apple Health AI Usage Study in the United States.",
-            "content": "The Apple Health AI Usage Study aims to inform the responsible design of health AI experiences by examining what drives user trust, the quality of responses, comprehension, and everyday health actions. (Image: Apple)\nApple has launched the new Apple ... [3031 chars]",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/apple-launches-new-health-ai-study-app-to-understand-how-people-use-ai-for-medical-advice/articleshow/135874225.cms",
-            "image": "https://static.toiimg.com/thumb/msid-135874235,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-11-16T05:23:00Z",
+            "id": "2146fb0e4d9e9b27a9bcfb1cabafb4ec",
+            "title": "Univers expands global Physical AI ecosystem to make critical infrastructure intelligent",
+            "description": "Antalya [Türkiye], November 17: Univers, a Singapore-headquartered global leader in Physical AI for intelligent infrastructure, today announced three separate global partnerships, each aimed at accelerating the application of Physical AI across the built environment, maritime and industrial operations.",
+            "content": "PRNewswire\nAntalya [Türkiye], November 17: Univers, a Singapore-headquartered global leader in Physical AI for intelligent infrastructure, today announced three separate global partnerships, each aimed at accelerating the application of Physical AI a... [2657 chars]",
+            "url": "https://www.aninews.in/news/business/univers-expands-global-physical-ai-ecosystem-to-make-critical-infrastructure-intelligent20261117102649/",
+            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261117045617-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-11-17T04:56:49Z",
             "lang": "en",
             "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
                 "country": "in"
             }
         },
         {
-            "id": "2f9690012a5323f8f680dd1c6cf9f034",
-            "title": "​Anthropic IPO: The AI challenger preparing for a mega listing",
-            "description": "Founded in 2021 by a group of former OpenAI employees, Anthropic is preparing for a stock market listing that could become a landmark test of AI's long-term financial viability. Best known for its Claude chatbot, the company has emerged as one of OpenAI's biggest challengers, attracting major technology investors and commanding a massive valuation. (Source: AFP) ​Anthropic IPO: The AI challenger preparing for a mega listing",
-            "content": "Founded in 2021 by a group of former OpenAI employees, Anthropic is preparing for a stock market listing that could become a landmark test of AI's long-term financial viability. Best known for its Claude chatbot, the company has emerged as one of Ope... [4474 chars]",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-inside-the-rise-of-openais-biggest-ai-rival/slideshow/135874188.cms",
-            "image": "https://img.etimg.com/thumb/msid-135874188,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-            "publishedAt": "2026-11-16T05:20:00Z",
+            "id": "dae25474eba8290dc61447513887c9d4",
+            "title": "US to curb China's access to AI chips as Trump heads to Asia",
+            "description": "Read more about US to curb China's access to AI chips as Trump heads to Asia on Devdiscourse",
+            "content": "The Trump administration said on Monday it ‌would further ​restrict China’s access to advanced AI chips from companies like Nvidia, tightening controls as President Donald Trump headed to China for talks with President Xi Jinping. The effort by the C... [4979 chars]",
+            "url": "https://www.devdiscourse.com/article/international/4007931-us-to-curb-chinas-access-to-ai-chips-as-trump-heads-to-asia",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_11_6036339.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-11-17T04:55:10Z",
             "lang": "en",
             "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "aae085fa2958fceb730322426c76e584",
-            "title": "NTT joins iSpace for lunar optical networks and unveils AI",
-            "description": "NTT collaborates with ispace to develop communication and power infrastructure for lunar operations, leveraging optical technologies to connect Earth and the Moon.",
-            "content": "NTT, a major Japanese technology company, is joining forces with lunar exploration company ispace to build fast communication and power systems for the Moon using advanced optical and wireless technology.\nOn top of that, NTT just revealed an artifici... [528 chars]",
-            "url": "https://www.newsbytesapp.com/news/science/ntt-joins-ispace-for-lunar-optical-networks-and-unveils-ai/tldr",
-            "image": "https://i.cdn.newsbytesapp.com/images/l144_19141794806305.jpg",
-            "publishedAt": "2026-11-16T05:19:57Z",
-            "lang": "en",
-            "source": {
-                "id": "eba2f6a49db29efc8343807ba675665f",
-                "name": "NewsBytes",
-                "url": "https://www.newsbytesapp.com",
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
                 "country": "in"
             }
         }
