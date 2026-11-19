@@ -4,48 +4,96 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 504749,
+    "totalArticles": 506242,
     "articles": [
         {
-            "id": "98cf7ec43cffbd094c8ac09304d6a1c1",
-            "title": "Malaysia says growth stronger than expected but AI risks loom",
-            "description": "Firms remained optimistic on the outlook well into 2027, the central bank said. Read more at straitstimes.com.",
-            "content": "KUALA LUMPUR – Malaysia’s economy expanded faster than initially estimated in the third quarter, supported by artificial intelligence demand and resilient domestic spending, as officials said they’re trying to gauge the impact of new US rules on AI.\n... [3405 chars]",
-            "url": "https://www.straitstimes.com/business/malaysia-says-growth-stronger-than-expected-but-ai-risks-loom",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cb5a524e64db7006fbd3d3b8ff2a7411442a31b14e2323af234ca4dcb4c9284c?t=og",
-            "publishedAt": "2026-11-18T04:46:00Z",
+            "id": "630d7da05934d3a2f45c38dfaac53657",
+            "title": "Video interview: Okta CMO Shannon Duffy on the sign-up wall that sends 77% of Australians packing, and why AI agents are a marketer's dream",
+            "description": "Okta's chief marketer says Australians and Kiwis are less patient with clunky logins than the rest of the world, that most of the engineering hours spent on customer identity...",
+            "content": "Okta's chief marketer says Australians and Kiwis are less patient with clunky logins than the rest of the world, that most of the engineering hours spent on customer identity aren't paying off, and that a website's first visitor being software is goo... [21417 chars]",
+            "url": "https://itwire.com/business-it-news/data/video-interview-okta-cmo-shannon-duffy-on-the-sign-up-wall-that-sends-77-of-australians-packing-and-why-ai-agents-are-a-marketers-dream",
+            "image": "https://media.itwire.com/2026/11/19/video-interview-okta-cmo-shannon-duffy-on-the-sign-up-wall-that-sends-77-of-australians-packing-and-why-ai-agents-are-a-marketers-dream-9fdfdb986093.webp",
+            "publishedAt": "2026-11-19T04:51:42Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
             }
         },
         {
-            "id": "f577a9d162446be4a8e6c92c670acfdb",
-            "title": "Malaysia says growth stronger than expected but AI risks loom",
-            "description": "Firms remained optimistic on the outlook well into 2027, the central bank said. Read more at straitstimes.com.",
-            "content": "KUALA LUMPUR – Malaysia’s economy expanded faster than initially estimated in the third quarter, supported by artificial intelligence demand and resilient domestic spending, as officials said they’re trying to gauge the impact of new US rules on AI.\n... [3405 chars]",
-            "url": "https://www.straitstimes.com/asia/se-asia/malaysia-says-growth-stronger-than-expected-but-ai-risks-loom",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cb5a524e64db7006fbd3d3b8ff2a7411442a31b14e2323af234ca4dcb4c9284c?t=og",
-            "publishedAt": "2026-11-18T04:46:00Z",
+            "id": "632dbc7f5fd59ea2395d49be60eaf9c1",
+            "title": "Mastercard and Ant International Advance Trusted Agentic Commerce in Asia Pacific",
+            "description": "Singapore, November 19: Mastercard today announced two milestones that advance trusted agentic commerce in Asia Pacific: a live consumer transaction through Antom, Ant International's merchant payment and digitalization platform, demonstrating how AI agents can act on verified consumer instructions; and a completed Mastercard Agent Pay for Machines (AP4M) pilot with Antom in Singapore, demonstrating how businesses can control and authorize purchases made by their AI agents.",
+            "content": "PRNewswire\nSingapore, November 19: Mastercard today announced two milestones that advance trusted agentic commerce in Asia Pacific: a live consumer transaction through Antom, Ant International's merchant payment and digitalization platform, demonstra... [2721 chars]",
+            "url": "https://www.aninews.in/news/business/mastercard-and-ant-international-advance-trusted-agentic-commerce-in-asia-pacific20261119102007/",
+            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261119044953-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-11-19T04:50:07Z",
             "lang": "en",
             "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
+                "country": "in"
             }
         },
         {
-            "id": "ac18f606839dd7c9d4d1734b5e22882a",
-            "title": "TCS share price down 26% in 2026: Is this a buying opportunity? What do technical charts suggest? Key levels to watch",
-            "description": "TCS shares fell more than 1% on Wednesday amid broader market weakness, despite strong September-quarter results. Profit rose 15% year on year and revenue increased 11.22%. AI revenue reached $3.1 billion, while the company retained its 24–26% FY27 EBIT margin target.",
-            "content": "Tata Consultancy Services (TCS) shares declined over 1% on Wednesday, 18 November, amid weakness in the Indian stock market. The stock has fallen 2.88% over the past week, 1.52% over two weeks and 2.64% in the past month. However, it has gained 5.13%... [4645 chars]",
-            "url": "https://www.livemint.com/market/stock-market-news/tcs-share-price-down-26-in-2026-is-this-a-buying-opportunity-what-do-technical-charts-suggest-key-levels-to-watch-11794974220332.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/TCS_Share_Price_Buying_Opportunity_1794976941330_57VQ_1794976970756_c1Vm_723aa12f-fe86-418c-b296-90d0a4f0c4db_jHhp.png",
-            "publishedAt": "2026-11-18T04:45:21Z",
+            "id": "d2f46063f38e25e2890e2834ab93ee65",
+            "title": "Donald Trump opposes robust AI regulation, warns it could stifle development",
+            "description": "Donald Trump opposes robust AI regulation, warning it could stifle super intelligence development as the US tightens restrictions on advanced AI chip access.",
+            "content": "President Donald Trump warned that any “robust” regulation of artificial intelligence, or super intelligence as he terms it, would “stifle” development — even as the US imposes new restrictions on access to advanced AI technology.\nIn remarks to the A... [1938 chars]",
+            "url": "https://www.thehindubusinessline.com/info-tech/trump-opposes-robust-ai-regulation-says-it-would-stifle-super-intelligence-development/article71718646.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/wbzmfm/article71718712.ece/alternates/LANDSCAPE_1200/2026-11-19T033158Z_669501001_RC2PQOANOMLR_RTRMADP_3_APEC-SUMMIT.JPG",
+            "publishedAt": "2026-11-19T04:49:29Z",
+            "lang": "en",
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "838bb783c5d1f97b37e467c098d00631",
+            "title": "Safeguards AI/SI Companies Say They Have 'Not Fully in Place'",
+            "description": "On Wednesday's broadcast of the Fox News Channel's \"The Story,\" Rep. Mike Lawler (R-NY) discussed a GAO report about AI/SI platforms giving instructions | Clips",
+            "content": "On Wednesday’s broadcast of the Fox News Channel’s “The Story,” Rep. Mike Lawler (R-NY) discussed a GAO report about AI/SI platforms giving instructions on attacks and said that “we are already seeing, with this GAO report, that the safeguards that t... [1084 chars]",
+            "url": "https://www.breitbart.com/clips/2026/11/18/gop-rep-lawler-safeguards-ai-si-companies-say-they-have-not-fully-in-place/",
+            "image": "https://media.breitbart.com/media/2026/10/Lawler-1014-Thumbnail-640x335.jpg",
+            "publishedAt": "2026-11-19T04:48:45Z",
+            "lang": "en",
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "2efb0830d2e5ca2fee387c24f592bf24",
+            "title": "Uday Kotak questions valuations of Indian companies amid Anthropic's rise",
+            "description": "Uday Kotak highlighted a significant disparity as AI firm Anthropic reached a $1.5 trillion valuation, surpassing the combined worth of India's top 10 companies.",
+            "content": "\"Anthropic, an AI company known for Claude, listed at a valuation of $1.5 trillion. It did not exist till ~ five years ago. This is more than the combined market cap of the top 10 Indian companies,\" Kotak said in his post.\nHe further questioned if In... [1221 chars]",
+            "url": "https://www.newsbytesapp.com/news/business/uday-kotak-questions-indian-companies-valuations-after-anthropic-hits-1-5t/story",
+            "image": "https://i.cdn.newsbytesapp.com/images/l48420261119101311.jpeg",
+            "publishedAt": "2026-11-19T04:45:22Z",
+            "lang": "en",
+            "source": {
+                "id": "eba2f6a49db29efc8343807ba675665f",
+                "name": "NewsBytes",
+                "url": "https://www.newsbytesapp.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "f2113a430dcf9dc8c73db3563ab5a12f",
+            "title": "Google launches Gemini 4 Neon with Carbon-level performance at 3x speed: Features, pricing and availability",
+            "description": "Google has launched Gemini 4 Neon, a new AI model that, according to the company, delivers performance comparable to or better than Gemini 4 Carbon while being three times faster and 60% cheaper.",
+            "content": "Google on Thursday launched Gemini 4 Neon, a new artificial intelligence (AI) model designed to deliver advanced reasoning at faster speeds and lower costs. The model is rolling out across the Gemini app, Google AI Studio, Gemini for Business and Goo... [2784 chars]",
+            "url": "https://www.livemint.com/ai/google-launches-gemini-4-neon-with-carbon-level-performance-at-3x-speed-features-pricing-and-availability-11795061432656.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/best11_1795061599940_olzD_1795061606062_DtOi_7c08a2ae-e02a-445a-8a2d-66c01d574d46_I9vv.png",
+            "publishedAt": "2026-11-19T04:44:16Z",
             "lang": "en",
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -55,115 +103,67 @@
             }
         },
         {
-            "id": "95d2e309cd85b47b82c55bbc947bf430",
-            "title": "Stock Market Today: This Platform Lets Firms Track AI Agents. Should Investors Buy?",
-            "description": "Stock Market News: Hyderabad-based Kellton Tech Solutions has launched KeOS, a platform designed to help enterprises monitor, govern AI agents.",
-            "content": "Share Market News: Companies are rushing to deploy AI agents to handle everything from loan approvals to compliance checks. But as these digital workers gain more responsibility, businesses are facing a new challenge: how do you keep them under contr... [2144 chars]",
-            "url": "https://www.ndtv.com/business-news/stock-market-today-this-platform-lets-firms-track-ai-agents-should-investors-buy-12342218",
-            "image": "https://c.ndtvimg.com/2026-11/4vpengjk_kelton-bse_625x300_18_November_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-11-18T04:44:48Z",
+            "id": "826c4589a82c5e86b9e0048b52bc4849",
+            "title": "Trump says he discussed AI with Xi, barely mentioned Jensen Huang",
+            "description": "Story: Fox News Channel senior White House correspondent Jacqui Heinrich Trump says he discussed AI with China's Xi, but mentioned former Nvidia CEO Jensen Huang only 'briefly' Shenzhen,...",
+            "content": "Story: Fox News Channel senior White House correspondent Jacqui Heinrich\nTrump says he discussed AI with China's Xi, but mentioned former Nvidia CEO Jensen Huang only 'briefly'\nShenzhen, China/November 19, 2026\n\"I was with President Xi all night last... [1383 chars]",
+            "url": "https://www.marketscreener.com/news/trump-says-he-discussed-ai-with-xi-barely-mentioned-jensen-huang-ce785eddde8ff42d",
+            "image": "https://cdn.zonebourse.com/static/web-assets/images/editorial/fallback/twitter_ms_fdblanc.png",
+            "publishedAt": "2026-11-19T04:41:20Z",
             "lang": "en",
             "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            }
+        },
+        {
+            "id": "658911dd0fc7e17df98430b4367c59ca",
+            "title": "Flash Storage Servers, Delivering PCIe Gen 6 Performance and Broad Software",
+            "description": "San Jose (California) / Chicago [US], November 19: Supercomputing Conference - Supermicro, Inc. (NASDAQ: SMCI), an AI, Enterprise, Storage, and 5G/Edge Total IT Solution Provider featuring Data Center Building Block Solutions® (DCBBS), today announced new extensions to the broad portfolio of AMD EPYC based all-flash storage servers. The first systems, now shipping, include the Petascale system powered by the 6th Gen AMD EPYC 9006 Series processors (formerly codenamed 'Venice'), with more products to follow as AMD launches new SP8 CPU versions. These are the first storage products supporting the PCIe Gen 6 I/O specification with 100% greater sequential read bandwidth over PCIe Gen 5.",
+            "content": "PRNewswire\nSan Jose (California) / Chicago [US], November 19: Supercomputing Conference - Supermicro, Inc. (NASDAQ: SMCI), an AI, Enterprise, Storage, and 5G/Edge Total IT Solution Provider featuring Data Center Building Block Solutions® (DCBBS), tod... [8431 chars]",
+            "url": "https://www.tribuneindia.com/news/business/supermicro-ships-first-all-flash-storage-servers-delivering-pcie-gen-6-performance-and-broad-software-defined-storage-support-for-ai-training-and-inference/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZlZDk1N2QwLWUzZDItMTFmMS1hMTc4LTA3OWEzYTA3ZTExMS5qcGc=",
+            "publishedAt": "2026-11-19T04:37:50Z",
+            "lang": "en",
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
                 "country": "in"
             }
         },
         {
-            "id": "dbc453d320b448ebea0acfa3eeb55aed",
-            "title": "Nvidia Q3 revenue hits $115.8 billion as Jensen Huang exit tests AI chip growth",
-            "description": "Nvidia reported a blockbuster quarter as revenue more than doubled amid Jensen Huang's exit. The leadership change and China scrutiny test whether its AI-led growth can endure.",
-            "content": "Nvidia has delivered another blockbuster quarter, with revenue more than doubling to nearly $116 billion, highlighting the extraordinary demand for its artificial intelligence chips. But the latest earnings from the world's most valuable chipmaker co... [5019 chars]",
-            "url": "https://www.indiatoday.in/business/companies/story/nvidia-q3-revenue-115-8-billion-jensen-huang-exit-ai-chip-growth-3041225-2026-11-18",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/nvidia-rules-out-rehiring-jensen-huang-but-the-former-ceo-can-still-nominate-two-directors-to-the-bo-183734109-16x9.png?VersionId=i19LIAhTPQfZsOofBjDSPZ6DZlEd3wLh",
-            "publishedAt": "2026-11-18T04:43:39Z",
+            "id": "c299bba5cc5d2379c2ec064d04c30ffc",
+            "title": "AI Giant Anthropic Raises Record $107.3 Billion in IPO, Overtakes SpaceX",
+            "description": "AI Giant Anthropic Raises Record $107.3 Billion in IPO, Overtakes SpaceX - New Delhi: Artificial intelligence (AI) company Anthropic, known for its Claude chatbot, has made headlines with a massive $107.3 ... Get Latest News on Technology only on lokmattimes.com",
+            "content": "New Delhi: Artificial intelligence (AI) company Anthropic, known for its Claude chatbot, has made headlines with a massive $107.3 billion fundraising effort through an initial public offering (IPO) and a concurrent private placement. This move marks ... [1939 chars]",
+            "url": "https://www.lokmattimes.com/technology/ai-giant-anthropic-raises-record-1073-billion-in-ipo-overtakes-spacex-a001-w02/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202611194017636_202611.jpg",
+            "publishedAt": "2026-11-19T04:36:02Z",
             "lang": "en",
             "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
                 "country": "in"
             }
         },
         {
-            "id": "81e19139b6f23118ca97058d0cbf268c",
-            "title": "These key growth drivers can take L&T shares to ₹4,842, CLSA projects",
-            "description": "L&T has already secured major wins in some of these emerging businesses, including a $1.4 billion Nvidia AI-factory project and an order linked to its Make in India EV motor initiative. According to CLSA, these initiatives could expand L&T's addressable market, diversify its growth drivers and strengthen its presence across high-growth infrastructure and technology segments.",
-            "content": "Shares of Larsen & Toubro (L&T) Ltd. are trading higher on Wednesday, November 18, after global brokerage firm CLSA reiterated its ‘Outperform’ rating on the stock, with a price target of ₹4,842.\nCLSA said L&T remains optimistic about a pickup in exe... [1474 chars]",
-            "url": "https://www.cnbctv18.com/market/larsen-toubro-share-price-these-key-growth-drivers-can-take-lt-shares-to-4842-clsa-projects-20036533.htm",
-            "image": "https://images.cnbctv18.com/uploads/2026/11/image-2026-11-5da1380b9d033ff2bfe1b7235bf57eee.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-11-18T04:42:20Z",
+            "id": "a53790d98213f23fbe03b924c0c7f5b7",
+            "title": "Supermicro Ships First All-Flash Storage Servers, Delivering PCIe Gen 6 Performance and Broad Software-Defined Storage Support for AI Training and Inference",
+            "description": "San Jose (California) / Chicago [US], November 19: Supercomputing Conference - Supermicro, Inc. (NASDAQ: SMCI), an AI, Enterprise, Storage, and 5G/Edge Total IT Solution Provider featuring Data Center Building Block Solutions® (DCBBS), today announced new extensions to the broad portfolio of AMD EPYC based all-flash storage servers. The first systems, now shipping, include the Petascale system powered by the 6th Gen AMD EPYC 9006 Series processors (formerly codenamed \"Venice\"), with more products to follow as AMD launches new SP8 CPU versions. These are the first storage products supporting the PCIe Gen 6 I/O specification with 100% greater sequential read bandwidth over PCIe Gen 5.",
+            "content": "PRNewswire\nSan Jose (California) / Chicago [US], November 19: Supercomputing Conference - Supermicro, Inc. (NASDAQ: SMCI), an AI, Enterprise, Storage, and 5G/Edge Total IT Solution Provider featuring Data Center Building Block Solutions® (DCBBS), tod... [4048 chars]",
+            "url": "https://www.aninews.in/news/business/supermicro-ships-first-all-flash-storage-servers-delivering-pcie-gen-6-performance-and-broad-software-defined-storage-support-for-ai-training-and-inference20261119100538/",
+            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261119043523-thumbnail-320x180-70.jpg",
+            "publishedAt": "2026-11-19T04:35:38Z",
             "lang": "en",
             "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
+                "id": "f282f77e41f55d72f00fefcaccc92954",
+                "name": "ANI (Asian News International)",
+                "url": "https://www.aninews.in",
                 "country": "in"
-            }
-        },
-        {
-            "id": "5e14209fd9d7b406ce44de75ceda8f5a",
-            "title": "Cambridge Dictionary Names 'Human' Word Of The Year 2026 Amid Growing Concerns Over Artificial Intelligence",
-            "description": "The Cambridge Dictionary has named",
-            "content": "London: Fears of artificial intelligence inspired the Cambridge Dictionary to flip back to the 15th century for the word that best captures the 2026 cultural zeitgeist.\n\"Human,\" the dictionary's word of the year, is not just a throwback but also a ba... [1768 chars]",
-            "url": "https://www.freepressjournal.in/lifestyle/cambridge-dictionary-names-human-word-of-the-year-2026-amid-growing-concerns-over-artificial-intelligence",
-            "image": "https://media.assettype.com/freepressjournal/2026-02-20/v1gh9x1e/AI-Job.jpg",
-            "publishedAt": "2026-11-18T04:40:52Z",
-            "lang": "en",
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            }
-        },
-        {
-            "id": "96d926af3aaa84121e07e8eff29b2751",
-            "title": "Google is giving millions of Gemini users a free personal AI agent",
-            "description": "Gemini tasks goes free in six countries",
-            "content": "Google has so far kept Spark, which was recently renamed to tasks, limited to its paid Pro and Ultra subscribers. But in a major move, the company is making Gemini tasks free for millions of users. Plus, the feature will now use Google's latest Gemin... [2083 chars]",
-            "url": "https://www.androidpolice.com/google-giving-millions-gemini-users-free-personal-ai-agent/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/gemini-gems-spark-and-scheduled-actions-icons-floating-on-a-light-blue-gradient-background.png?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-11-18T04:39:46Z",
-            "lang": "en",
-            "source": {
-                "id": "3855a489b685d9599a636250ed950d3c",
-                "name": "Android Police",
-                "url": "https://www.androidpolice.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "dc4dce8238c72eb43752ddd05b6e99a8",
-            "title": "Indian Air Force Officer Accused of Trading War Plans for Nude Photos",
-            "description": "(This article was generated by Google Gemini AI from the creator's video)",
-            "content": "Investigators reportedly recovered more than 3,000 text messages alongside images, audio calls, and video calls exchanged between the two. The officer allegedly compromised sensitive military information regarding a secret drone unit, detailing its c... [595 chars]",
-            "url": "https://www.europesays.com/3382919/",
-            "image": "https://www.europesays.com/wp-content/uploads/2026/11/1794956477990-video-64411-0.jpg",
-            "publishedAt": "2026-11-18T04:39:11Z",
-            "lang": "en",
-            "source": {
-                "id": "ed23d65928efaec6669dd2212a773d9f",
-                "name": "EUROPE SAYS",
-                "url": "https://www.europesays.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "1c350caaafc37d489d45d49731816326",
-            "title": "Visa Expands Agentic Ready to Help Scale Trusted AI Commerce Globally",
-            "description": "Adyen, Antom, Billtrust, Checkout.com, Fiserv, Global Payments, PayPal, Stripe along with over 140 initial participants join Agentic Ready program for",
-            "content": "Adyen, Antom, Billtrust, Checkout.com, Fiserv, Global Payments, PayPal, Stripe along with over 140 initial participants join Agentic Ready program for acceptance ecosystem.\nMerchants, B2B suppliers, payment providers, acquirers and commerce platforms... [17662 chars]",
-            "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/visa-expands-agentic-ready-to-help-scale-trusted-ai-commerce-globally/",
-            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261117269823r1&sid=cnpm5&distro=ftp",
-            "publishedAt": "2026-11-18T04:37:08Z",
-            "lang": "en",
-            "source": {
-                "id": "1a3615c1358e4d862525999bb4b2aa01",
-                "name": "The Expositor",
-                "url": "https://www.brantfordexpositor.ca",
-                "country": "ca"
             }
         }
     ]
