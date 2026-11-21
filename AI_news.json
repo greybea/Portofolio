@@ -4,48 +4,16 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 507808,
+    "totalArticles": 509012,
     "articles": [
         {
-            "id": "93c7c38152a008d3cfb86561e55f8509",
-            "title": "SpaceXSI defends Grok over sexualised AI images of UK lawmaker, says fake content cannot violate privacy",
-            "description": "Elon Musk’s SpaceX Super Intelligence has challenged a British lawmaker’s lawsuit over sexually explicit AI-generated images of her, arguing that content which is clearly fictitious cannot amount to an invasion of privacy. The case could set an important precedent for determining whether AI companies can be held responsible for content their platforms generate.",
-            "content": "Elon Musk’s artificial intelligence company SpaceX Super Intelligence (SpaceXSI) has pushed back against a lawsuit filed by British lawmaker Jess Asato over sexually explicit images of her generated using its Grok AI platform. The company has argued ... [3703 chars]",
-            "url": "https://www.firstpost.com/tech/elon-musks-spacexsi-defends-grok-over-sexualised-ai-images-of-uk-lawmaker-says-fake-content-cannot-violate-privacy-14061417.html",
-            "image": "https://images.firstpost.com/uploads/2026/01/2026-01-10T071240Z_1643871076_RC2PVCA7FSED_RTRMADP_3_XAI-GROK-INDONESIA-2026-01-3dc4de39deecff39461176d3e508c1e9-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-11-20T04:27:39Z",
-            "lang": "en",
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "6e493f8e49bd8970c5beab2340bba63b",
-            "title": "Gold set for worst week since March on hawkish Fed, AI selloff",
-            "description": "Gold has shed nearly 9% this week, while silver has lost around 14%, with both metals touching their weakest levels in months. | Business News",
-            "content": "Bullion tumbled as much as 2.4% to below $3,540 an ounce on Friday, on track to lose nearly 9% in a week that’s seen the metal slide to the lowest since September 2025. Silver has fallen about 14% in the same period. Fed Bank of Chicago President Aus... [1680 chars]",
-            "url": "https://www.hindustantimes.com/business/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff-101795147909146.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/11/20/1600x900/logo/photo-1601121141418-c1caa10a2a0b_1795148778653_2WHZ_1795148788735_euPT_f9d5caca-fad3-4c7d-af44-765635174d21_IpuN.jpg",
-            "publishedAt": "2026-11-20T04:24:52Z",
-            "lang": "en",
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "afd794a0463dc7cd93f8410c70936cee",
-            "title": "India's AI boom is creating investment opportunities beyond technology stocks: 5 ways ordinary investors can participate",
-            "description": "Artificial intelligence is no longer just a technology story. It is creating demand for data centres, electricity, semiconductors, computing equipment and specialised software.Investors can participate through mutual funds, listed companies and international investments without having to bet everything on one AI stock. India's AI boom is creating investment opportunities beyond technology stocks: 5 ways ordinary investors can participate",
-            "content": "AI needs much more than sophisticated algorithms. It requires powerful computers, semiconductor chips, reliable electricity, high-speed connectivity and large data centres.\nIndia is building capabilities across this ecosystem.\nThe government's IndiaA... [5159 chars]",
-            "url": "https://economictimes.indiatimes.com/wealth/invest/indias-ai-boom-5-ways-ordinary-investors-can-invest-in-artificial-intelligence/slideshow/136013133.cms",
-            "image": "https://img.etimg.com/thumb/msid-136013133,width-1200,height-900,overlay-etwealth/slideshow.jpg",
-            "publishedAt": "2026-11-20T04:24:00Z",
+            "id": "8401eb7af45bf0368a1dc06c6d9c7de6",
+            "title": "Why leadership agility, data and innovation now define enterprise resilience",
+            "description": "Enterprises that bring these three together will be better positioned to respond to disruption, adopt AI responsibly, and turn change into measurable value.",
+            "content": "Synopsis\nEnterprises that bring these three together will be better positioned to respond to disruption, adopt AI responsibly, and turn change into measurable value.\nThe question that surfaces most consistently across enterprise leadership conversati... [6259 chars]",
+            "url": "https://economictimes.indiatimes.com/small-biz/security-tech/technology/why-leadership-agility-data-and-innovation-now-define-enterprise-resilience/articleshow/136043845.cms",
+            "image": "https://img.etimg.com/thumb/msid-136043878,width-1200,height-900,imgsize-167704,overlay-etrise/articleshow.jpg",
+            "publishedAt": "2026-11-21T03:34:00Z",
             "lang": "en",
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -55,93 +23,45 @@
             }
         },
         {
-            "id": "99c168e486362c1c201cf393aae99417",
-            "title": "Ashton Kutcher Heading Towards Billionaire Status After Anthropic IPO",
-            "description": "Actor Ashton Kutcher is edging towards billionaire status with his venture capital firm holding a $7 billion stake in AI giant Anthropic.",
-            "content": "Ashton Kutcher is perhaps better known for his savvy tech investments than he is for his acting these days, and that reputation will only solidify after the blockbuster IPO of AI giant Anthropic this week.\nThe venture capital firm Sound Ventures, whi... [2045 chars]",
-            "url": "https://www.hollywoodreporter.com/news/general-news/ashton-kutcher-billionaire-anthropic-ipo-1236759822/",
-            "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ashton-Kutcher.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2026-11-20T04:22:43Z",
+            "id": "fca6a6e69ce31acfa00b16dec3c708e1",
+            "title": "Drug discovery benchmark reveals gaps in molecular reasoning",
+            "description": "New benchmark tests AI models on molecular structures, experimental evidence, and drug property predictions.",
+            "content": "Advanced computing models can reconstruct complex molecular structures with high accuracy, but predicting how potential drug compounds behave remains a challenge, according to a new medicinal chemistry benchmark introduced by OpenAI.\nCalled MedChemBe... [3783 chars]",
+            "url": "https://interestingengineering.com/ai-robotics/ai-models-medicinal-chemistry-drug-discovery-benchmark",
+            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/GettyImages-2233977474.jpg",
+            "publishedAt": "2026-11-21T03:24:40Z",
             "lang": "en",
             "source": {
-                "id": "e83df266d4bbd78d7528c3ee4fc0fc5f",
-                "name": "The Hollywood Reporter",
-                "url": "https://www.hollywoodreporter.com",
+                "id": "1a6c3258d04827f52d40713ad8166b1b",
+                "name": "Interesting Engineering",
+                "url": "https://interestingengineering.com",
                 "country": "us"
             }
         },
         {
-            "id": "6f177c0f61297b1bbef5a8be4a7605bd",
-            "title": "Anthropic becomes world's 7th most valuable company with $1.8 trn valuation",
-            "description": "The AI company closed 17 per cent above its offer price, reaching a fully diluted market value of $1.8 trillion and placing it ahead of Saudi Aramco, Broadcom and TSMC",
-            "content": "The AI company closed 17 per cent above its offer price, reaching a fully diluted market value of $1.8 trillion and placing it ahead of Saudi Aramco, Broadcom and TSMC\nAnthropic PBC, on screen, during a closing bell ceremony during Anthropic PBC init... [843 chars]",
-            "url": "https://www.business-standard.com/world-news/anthropic-becomes-world-s-7th-most-valuable-company-with-1-8-trn-valuation-126112000235_1.html",
-            "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/20/thumb/featurecrop/1200X628/1795148325-4159.jpg",
-            "publishedAt": "2026-11-20T04:21:24Z",
+            "id": "d292ea12ff528741ed3f0643390be0d7",
+            "title": "Nvidia loses $2.6 trillion, slips behind Alphabet as shares suffer 7th straight weekly loss",
+            "description": "Nvidia shares fell for the sixth straight week, hitting their longest losing streak since 2012 amid CEO Jensen Huang's sudden resignation and concerns over AI market pressures. The company also reported strong Q3 earnings and a $150 billion buyback plan.",
+            "content": "The stock plunged 14% on Friday, taking its total decline over the seven-week period to around 46%. Nvidia has also lost about $2.6 trillion in market value during this period.\nThe latest fall came after reports that the US Securities and Exchange Co... [3997 chars]",
+            "url": "https://www.financialexpress.com/market/global-markets/nvidia-loses-2-6-trillion-slips-behind-alphabet-as-shares-suffer-7th-straight-weekly-loss/4390357/",
+            "image": "https://images.financialexpressdigital.com/2026/11/jensen-huang-nvidia-board.jpg",
+            "publishedAt": "2026-11-21T03:24:36Z",
             "lang": "en",
             "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
                 "country": "in"
             }
         },
         {
-            "id": "44f9a0041e3654c01cef03261155726f",
-            "title": "Nifty IT jumps over 1% as TCS, Tech Mahindra, HCL Tech gain; Indian IT stocks buck global AI selloff",
-            "description": "Nifty IT jumped on Friday, with TCS, Tech Mahindra, HCL Tech and Infosys among the top Nifty gainers. Midcap IT stocks, including Persistent Systems and Coforge, also rallied, defying weakness in Indian benchmarks and a sharp global AI stock selloff.",
-            "content": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nIndian information technology stocks rallied on Friday, defying a sharp selloff in global technology shares and weakness across most domestic sectors. The ... [3294 chars]",
-            "url": "https://www.moneycontrol.com/news/business/markets/nifty-it-jumps-over-1-as-tcs-tech-mahindra-hcl-tech-gain-indian-it-stocks-buck-global-ai-selloff-14085395.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260822042520_Nifty_sensex_marketup.jpg",
-            "publishedAt": "2026-11-20T04:21:18Z",
-            "lang": "en",
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "ccce8fe738a03a52bc1f763257a1152d",
-            "title": "Israel Innovation Authority Chairman calls for strategic mega-projects in AI, semiconductors and quantum for tech sovereignty",
-            "description": "Israel Innovation Authority Chairman Dr. Alon Stopel told ANI that India and Israel can expand their R&D ties into mega-projects across AI, semiconductors, and quantum computing. He highlighted combining Israeli deep-tech expertise with India's talent and market scale, alongside launching a dedicated initiative to help Israeli startups enter India.",
-            "content": "New Delhi [India], : Underscoring the vast untapped potential in bilateral technological ties, Dr. Alon Stopel, Chairman of the Israel Innovation Authority and Chief Scientist for Innovation at Israel's Ministry of Innovation, Science and Technology,... [5932 chars]",
-            "url": "https://www.livemint.com/technology/israel-innovation-authority-chairman-calls-for-strategic-mega-projects-in-ai-semiconductors-and-quantum-for-tech-sovereignty-11795148393893.html",
-            "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
-            "publishedAt": "2026-11-20T04:19:53Z",
-            "lang": "en",
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "fbd0ded9a5be0936f1a971e11d67d89f",
-            "title": "projects in AI, semiconductors and quantum for tech sovereignty",
-            "description": "Israel Innovation Authority Chairman Dr. Alon Stopel told ANI that India and Israel can expand their R&D ties into mega-projects across AI, semiconductors, and quantum computing. He highlighted combining Israeli deep-tech expertise with India's talent and market scale, alongside launching a dedicated initiative to help Israeli startups enter India.",
-            "content": "New Delhi [India], November 20 (ANI): Underscoring the vast untapped potential in bilateral technological ties, Dr. Alon Stopel, Chairman of the Israel Innovation Authority and Chief Scientist for Innovation at Israel's Ministry of Innovation, Scienc... [6041 chars]",
-            "url": "https://www.tribuneindia.com/news/business/israel-innovation-authority-chairman-calls-for-strategic-mega-projects-in-ai-semiconductors-and-quantum-for-tech-sovereignty/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTUyYzk3NjYwLWU0OTktMTFmMS1hMTc4LTA3OWEzYTA3ZTExMS5qcGc=",
-            "publishedAt": "2026-11-20T04:17:29Z",
-            "lang": "en",
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "9ceaa4e87c99bb184bb65df25be97eb0",
-            "title": "School Students Handcuffed, Searched After AI Mistook Doritos Bag For Gun",
-            "description": "Four Baltimore students were handcuffed and searched by the police after AI mistook a Doritos bag for a gun.",
-            "content": "Students at a US school were stopped, handcuffed, searched and left traumatised by the local police after an AI tool mistook a Doritos bag for a gun. The four students at Kenwood High School have filed a lawsuit against the company that developed the... [1947 chars]",
-            "url": "https://www.ndtv.com/world-news/school-students-handcuffed-searched-after-ai-mistook-doritos-bag-for-gun-12352509",
-            "image": "https://c.ndtvimg.com/2026-11/pmqjntjo_as_625x300_20_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-11-20T04:17:27Z",
+            "id": "b6e0a4e47e0e03e4a560d7b16d6481e4",
+            "title": "IIT Madras Opens Registrations For 20 Online Courses For School Students",
+            "description": "IIT Madras School Connect Programme provides students with an opportunity to explore emerging fields such as artificial intelligence (AI), data science, aerospace engineering, cybersecurity, game technology, and more before entering college.",
+            "content": "The Indian Institute of Technology Madras (IIT Madras) has opened registrations for the January 2027 batch of its School Connect Programme, offering 20 online certificate courses to students of Classes 9 to 12. The programme provides students with an... [2203 chars]",
+            "url": "https://www.ndtv.com/education/ai-data-science-aerospace-engineering-iit-madras-opens-registrations-for-20-online-courses-for-school-students-12357165",
+            "image": "https://c.ndtvimg.com/2024-10/3928vl9_artificial-intelligence-_625x300_17_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-11-21T03:23:14Z",
             "lang": "en",
             "source": {
                 "id": "7daf04fa6272ed0a29583b211dcfe1d4",
@@ -151,18 +71,98 @@
             }
         },
         {
-            "id": "c0b238f7629b156a9800dec8ca3b9ea3",
-            "title": "Israel Innovation Authority Chairman calls for strategic mega-projects in AI, semiconductors and quantum for tech sovereignty",
-            "description": "Israel Innovation Authority Chairman Dr. Alon Stopel told ANI that India and Israel can expand their R&D ties into mega-projects across AI, semiconductors, and quantum computing. He highlighted combining Israeli deep-tech expertise with India's talent and market scale, alongside launching a dedicated initiative to help Israeli startups enter India.",
-            "content": "New Delhi [India], November 20 (ANI): Underscoring the vast untapped potential in bilateral technological ties, Dr. Alon Stopel, Chairman of the Israel Innovation Authority and Chief Scientist for Innovation at Israel's Ministry of Innovation, Scienc... [2845 chars]",
-            "url": "https://www.aninews.in/news/business/israel-innovation-authority-chairman-calls-for-strategic-mega-projects-in-ai-semiconductors-and-quantum-for-tech-sovereignty20261120094406/",
-            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261120041351-thumbnail-320x180-70.jpg",
-            "publishedAt": "2026-11-20T04:14:06Z",
+            "id": "cb16d9af816f3cdbc3848f47de045b46",
+            "title": "CJI to inaugurate CLEA’s first annual conference in Hyd",
+            "description": "CJI Surya Kant to inaugurate CLEA’s first annual legal education conference in Hyderabad on Nov 21-22, focusing on globalising legal education and AI.",
+            "content": "Hyderabad: Hyderabad is all set to host the Commonwealth Legal Education Association’s first annual international conference on legal education. The two-day event, to be held on Nov 21-22 at Novotel Hyderabad Airport, will be formally inaugurated by ... [2379 chars]",
+            "url": "https://timesofindia.indiatimes.com/city/hyderabad/cji-to-inaugurate-cleas-first-annual-conference-in-hyd/articleshow/136038100.cms",
+            "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+            "publishedAt": "2026-11-21T03:23:00Z",
             "lang": "en",
             "source": {
-                "id": "f282f77e41f55d72f00fefcaccc92954",
-                "name": "ANI (Asian News International)",
-                "url": "https://www.aninews.in",
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "721b44e2d32aec50bb1b9bb1c9352d83",
+            "title": "Did Claude AI Crack Mathematics' $1 Million Riemann Hypothesis? Anthropic Mathematician Makes Big Claim",
+            "description": "Anthropic mathematician Levent Alpoge claims to have proved the 166-year-old Riemann Hypothesis with Claude AI. The proposed proof, which also addresses the Generalized Riemann Hypothesis, will now undergo expert verification. The problem carries a $1 million prize.",
+            "content": "Santa Clara: One of the last frontiers of Mathematics appears to have been breached with AI playing its part.\nLevent Alpoge, a mathematician at Anthropic, had claimed to have completed a proof of the Riemann hypothesis by collaborating with Claude AI... [2523 chars]",
+            "url": "https://www.freepressjournal.in/tech/did-claude-ai-crack-mathematics-1-million-riemann-hypothesis-anthropic-mathematician-makes-big-claim",
+            "image": "https://media.assettype.com/freepressjournal/2026-06-13/li22xwf1/Untitled-design-2026-06-13T115106.959.jpg",
+            "publishedAt": "2026-11-21T03:22:51Z",
+            "lang": "en",
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            }
+        },
+        {
+            "id": "31c5363cbbb2a4dc4edb4de053f23d0b",
+            "title": "Trump seeks to penalize US companies that build AI data centers abroad, even as they face backlash",
+            "description": "WASHINGTON — President Donald Trump on Friday threatened 'a tremendous tax' on U.S. companies that build artificial intelligence data centers abroad, highlighting a divide between a president who sees their expansion as critical to winning the AI race and an American public that is deeply skeptical of their benefits.",
+            "content": "WASHINGTON — President Donald Trump on Friday threatened \"a tremendous tax\" on U.S. companies that build artificial intelligence data centers abroad, highlighting a divide between a president who sees their expansion as critical to winning the AI rac... [4781 chars]",
+            "url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/trump-seeks-to-penalize-us-companies-that-build-ai-data-centers-abroad-even-as-they-face-backlash/2475389",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/21/1319310.jpg",
+            "publishedAt": "2026-11-21T03:22:00Z",
+            "lang": "en",
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            }
+        },
+        {
+            "id": "b7f1ce6451a43564d8cdf81dbdfc21da",
+            "title": "Can AI solve a 167-year-old maths problem? Anthropic researcher says Claude may have done it",
+            "description": "An Anthropic mathematician says Claude AI helped him develop a proof of the 165-year-old Riemann Hypothesis using Lean. If verified, the finding could transform our understanding of mathematics.",
+            "content": "The Anthropic employee posted his Claude proof coded in Lean, a programming language that verifies mathematical arguments. While Lean is not perfect, experts can verify whether the hypothesis is properly coded and whether the proof is accurate. In ca... [6734 chars]",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-ai-riemann-hypothesis-proof-claim-10972258/",
+            "image": "https://images.indianexpress.com/2026/11/Prime-Numbers.jpg",
+            "publishedAt": "2026-11-21T03:20:43Z",
+            "lang": "en",
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "2b4682729f81f18a1c77218a96236c77",
+            "title": "CERT-In flags unauthorised transactions, AI-driven cyberattacks in India",
+            "description": "CERT-In flags unauthorised payment transactions at banking and government-linked platforms, while warning of AI-driven cyberattacks across sectors.",
+            "content": "India's cyber ​agency said on Friday it had reported ‌unauthorised transactions at service providers for banking ​and financial services entities, ⁠and also at technology service providers supporting government-linked payments.\n* Payment fraud incide... [1175 chars]",
+            "url": "https://www.thehindubusinessline.com/money-and-banking/cert-in-flags-unauthorised-transactions-across-banking-financial-and-government-payment-platforms/article71727168.ece",
+            "image": "https://bl-i.thgim.com/public/incoming/ysv2bh/article71637533.ece/alternates/LANDSCAPE_1200/IMG_TH11-BU-ISTOCK_2_1_1CGL7BUR.jpg",
+            "publishedAt": "2026-11-21T03:18:06Z",
+            "lang": "en",
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "59a9853b1e27c0b76367eea874549dc8",
+            "title": "Actor Chiranjeevi writes to Amit Shah, seeks stricter AI laws",
+            "description": "Chiranjeevi sought a dedicated grievance redressal mechanism and urgent provisions to penalise offenders, drawing on global best practices.",
+            "content": "HYDERABAD: Actor Chiranjeevi has sought stronger legal safeguards against AI-generated deepfakes, digital impersonation and the misuse of actors’ identities, in a letter to Union Home Minister Amit Shah. He said artists who have spent decades buildin... [904 chars]",
+            "url": "https://www.newindianexpress.com/states/telangana/2026/Nov/21/actor-chiranjeevi-writes-to-shah-seeks-stricter-ai-laws",
+            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-21%2Fmq1hkcuz%2FChiru-meets-Shah.jpg?rect=0%2C0%2C782%2C411&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2026-11-21T03:18:03Z",
+            "lang": "en",
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
                 "country": "in"
             }
         }
