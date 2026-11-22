@@ -4,80 +4,16 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 509012,
+    "totalArticles": 509590,
     "articles": [
         {
-            "id": "8401eb7af45bf0368a1dc06c6d9c7de6",
-            "title": "Why leadership agility, data and innovation now define enterprise resilience",
-            "description": "Enterprises that bring these three together will be better positioned to respond to disruption, adopt AI responsibly, and turn change into measurable value.",
-            "content": "Synopsis\nEnterprises that bring these three together will be better positioned to respond to disruption, adopt AI responsibly, and turn change into measurable value.\nThe question that surfaces most consistently across enterprise leadership conversati... [6259 chars]",
-            "url": "https://economictimes.indiatimes.com/small-biz/security-tech/technology/why-leadership-agility-data-and-innovation-now-define-enterprise-resilience/articleshow/136043845.cms",
-            "image": "https://img.etimg.com/thumb/msid-136043878,width-1200,height-900,imgsize-167704,overlay-etrise/articleshow.jpg",
-            "publishedAt": "2026-11-21T03:34:00Z",
-            "lang": "en",
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "fca6a6e69ce31acfa00b16dec3c708e1",
-            "title": "Drug discovery benchmark reveals gaps in molecular reasoning",
-            "description": "New benchmark tests AI models on molecular structures, experimental evidence, and drug property predictions.",
-            "content": "Advanced computing models can reconstruct complex molecular structures with high accuracy, but predicting how potential drug compounds behave remains a challenge, according to a new medicinal chemistry benchmark introduced by OpenAI.\nCalled MedChemBe... [3783 chars]",
-            "url": "https://interestingengineering.com/ai-robotics/ai-models-medicinal-chemistry-drug-discovery-benchmark",
-            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/GettyImages-2233977474.jpg",
-            "publishedAt": "2026-11-21T03:24:40Z",
-            "lang": "en",
-            "source": {
-                "id": "1a6c3258d04827f52d40713ad8166b1b",
-                "name": "Interesting Engineering",
-                "url": "https://interestingengineering.com",
-                "country": "us"
-            }
-        },
-        {
-            "id": "d292ea12ff528741ed3f0643390be0d7",
-            "title": "Nvidia loses $2.6 trillion, slips behind Alphabet as shares suffer 7th straight weekly loss",
-            "description": "Nvidia shares fell for the sixth straight week, hitting their longest losing streak since 2012 amid CEO Jensen Huang's sudden resignation and concerns over AI market pressures. The company also reported strong Q3 earnings and a $150 billion buyback plan.",
-            "content": "The stock plunged 14% on Friday, taking its total decline over the seven-week period to around 46%. Nvidia has also lost about $2.6 trillion in market value during this period.\nThe latest fall came after reports that the US Securities and Exchange Co... [3997 chars]",
-            "url": "https://www.financialexpress.com/market/global-markets/nvidia-loses-2-6-trillion-slips-behind-alphabet-as-shares-suffer-7th-straight-weekly-loss/4390357/",
-            "image": "https://images.financialexpressdigital.com/2026/11/jensen-huang-nvidia-board.jpg",
-            "publishedAt": "2026-11-21T03:24:36Z",
-            "lang": "en",
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "b6e0a4e47e0e03e4a560d7b16d6481e4",
-            "title": "IIT Madras Opens Registrations For 20 Online Courses For School Students",
-            "description": "IIT Madras School Connect Programme provides students with an opportunity to explore emerging fields such as artificial intelligence (AI), data science, aerospace engineering, cybersecurity, game technology, and more before entering college.",
-            "content": "The Indian Institute of Technology Madras (IIT Madras) has opened registrations for the January 2027 batch of its School Connect Programme, offering 20 online certificate courses to students of Classes 9 to 12. The programme provides students with an... [2203 chars]",
-            "url": "https://www.ndtv.com/education/ai-data-science-aerospace-engineering-iit-madras-opens-registrations-for-20-online-courses-for-school-students-12357165",
-            "image": "https://c.ndtvimg.com/2024-10/3928vl9_artificial-intelligence-_625x300_17_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-11-21T03:23:14Z",
-            "lang": "en",
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "cb16d9af816f3cdbc3848f47de045b46",
-            "title": "CJI to inaugurate CLEA’s first annual conference in Hyd",
-            "description": "CJI Surya Kant to inaugurate CLEA’s first annual legal education conference in Hyderabad on Nov 21-22, focusing on globalising legal education and AI.",
-            "content": "Hyderabad: Hyderabad is all set to host the Commonwealth Legal Education Association’s first annual international conference on legal education. The two-day event, to be held on Nov 21-22 at Novotel Hyderabad Airport, will be formally inaugurated by ... [2379 chars]",
-            "url": "https://timesofindia.indiatimes.com/city/hyderabad/cji-to-inaugurate-cleas-first-annual-conference-in-hyd/articleshow/136038100.cms",
-            "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-            "publishedAt": "2026-11-21T03:23:00Z",
+            "id": "ef48352e9bd88d29b2587ec7791801bf",
+            "title": "17L UP youths trained under PM’s skill mission initiative: Yogi",
+            "description": "UP CM Yogi says 17 lakh youths trained under PM Skill India Mission; 7 lakh got jobs via campus placements; skilling expanded to ITIs, AI, robotics, drones.",
+            "content": "Prime Minister Narendra Modi with CM Yogi Adityanath, defence minister Rajnath Singh, Union minister Jayant Chaudhary, UP BJP chief Pankaj Chaudhary, deputy CM Keshav Maurya and UP skill devpt minister Kapil Dev Aggarwal during the 5th Kaushal Deeksh... [2629 chars]",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/17l-up-youths-trained-under-pms-skill-mission-initiative-yogi/articleshow/136062666.cms",
+            "image": "https://static.toiimg.com/thumb/msid-136062665,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-11-22T03:44:00Z",
             "lang": "en",
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -87,82 +23,146 @@
             }
         },
         {
-            "id": "721b44e2d32aec50bb1b9bb1c9352d83",
-            "title": "Did Claude AI Crack Mathematics' $1 Million Riemann Hypothesis? Anthropic Mathematician Makes Big Claim",
-            "description": "Anthropic mathematician Levent Alpoge claims to have proved the 166-year-old Riemann Hypothesis with Claude AI. The proposed proof, which also addresses the Generalized Riemann Hypothesis, will now undergo expert verification. The problem carries a $1 million prize.",
-            "content": "Santa Clara: One of the last frontiers of Mathematics appears to have been breached with AI playing its part.\nLevent Alpoge, a mathematician at Anthropic, had claimed to have completed a proof of the Riemann hypothesis by collaborating with Claude AI... [2523 chars]",
-            "url": "https://www.freepressjournal.in/tech/did-claude-ai-crack-mathematics-1-million-riemann-hypothesis-anthropic-mathematician-makes-big-claim",
-            "image": "https://media.assettype.com/freepressjournal/2026-06-13/li22xwf1/Untitled-design-2026-06-13T115106.959.jpg",
-            "publishedAt": "2026-11-21T03:22:51Z",
+            "id": "a91f9ed8ab692728d1b1b7a1fa29e009",
+            "title": "Two separate maths groups confirm Anthropic’s Levent Alpöge solved the Riemann Hypothesis",
+            "description": "Anthropic mathematician Levent Alpöge says he solved the 166-year-old Riemann Hypothesis with AI tool Claude. The Lean and Mathlib communities have independently verified his proof, marking a major development in one of mathematics' most challenging problems.",
+            "content": "A day after a mathematician working at artificial intelligence (AI) company Anthropic announced that he had solved the Riemann Hypothesis, one of mathematics' most challenging unsolved problems, with the help of the company's AI tool Claude, the Lean... [3660 chars]",
+            "url": "https://www.livemint.com/ai/artificial-intelligence/two-separate-maths-groups-confirm-anthropic-s-levent-alp-ge-solved-the-riemann-hypothesis-here-s-what-they-said-11795318253608.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/Anthropic_AI_image_1795318833385_xgEn_1795318833514_ClvC_58bda20b-d3a1-48d0-8b77-53ae253626b9_112p.jpg",
+            "publishedAt": "2026-11-22T03:43:12Z",
             "lang": "en",
             "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
                 "country": "in"
             }
         },
         {
-            "id": "31c5363cbbb2a4dc4edb4de053f23d0b",
-            "title": "Trump seeks to penalize US companies that build AI data centers abroad, even as they face backlash",
-            "description": "WASHINGTON — President Donald Trump on Friday threatened 'a tremendous tax' on U.S. companies that build artificial intelligence data centers abroad, highlighting a divide between a president who sees their expansion as critical to winning the AI race and an American public that is deeply skeptical of their benefits.",
-            "content": "WASHINGTON — President Donald Trump on Friday threatened \"a tremendous tax\" on U.S. companies that build artificial intelligence data centers abroad, highlighting a divide between a president who sees their expansion as critical to winning the AI rac... [4781 chars]",
-            "url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/trump-seeks-to-penalize-us-companies-that-build-ai-data-centers-abroad-even-as-they-face-backlash/2475389",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/21/1319310.jpg",
-            "publishedAt": "2026-11-21T03:22:00Z",
+            "id": "d4068951bc789a9c3403c8904cc03f3a",
+            "title": "‘No one can take away livelihood of a skilled person’: PM Modi on AI, calls for equal respect for ITI, IIT students",
+            "description": "Stressing that India can progress in the 21st century only by respecting its skilled workforce, Modi pointed to government efforts such as the 'Shramev Jayate' initiative",
+            "content": "Prime Minister Narendra Modi on Saturday addressed growing anxieties around artificial intelligence (AI) and job security, asserting that while AI is widely discussed, it cannot threaten the livelihood of someone who possesses real skills.\nSpeaking a... [6078 chars]",
+            "url": "https://www.livemint.com/news/india/no-one-can-take-away-livelihood-of-a-skilled-person-pm-modi-on-ai-calls-for-equal-respect-for-iti-iit-students-11795317394197.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/Prime-Minister-Narendra-Modi-addresses-the-gatheri_1795318242895_YXkw_1795318243015_K9OR_9a9a02a7-3b0f-43e9-b109-d2daa826d2d5_dD4T.jpeg",
+            "publishedAt": "2026-11-22T03:41:44Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            }
-        },
-        {
-            "id": "b7f1ce6451a43564d8cdf81dbdfc21da",
-            "title": "Can AI solve a 167-year-old maths problem? Anthropic researcher says Claude may have done it",
-            "description": "An Anthropic mathematician says Claude AI helped him develop a proof of the 165-year-old Riemann Hypothesis using Lean. If verified, the finding could transform our understanding of mathematics.",
-            "content": "The Anthropic employee posted his Claude proof coded in Lean, a programming language that verifies mathematical arguments. While Lean is not perfect, experts can verify whether the hypothesis is properly coded and whether the proof is accurate. In ca... [6734 chars]",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-ai-riemann-hypothesis-proof-claim-10972258/",
-            "image": "https://images.indianexpress.com/2026/11/Prime-Numbers.jpg",
-            "publishedAt": "2026-11-21T03:20:43Z",
-            "lang": "en",
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
                 "country": "in"
             }
         },
         {
-            "id": "2b4682729f81f18a1c77218a96236c77",
-            "title": "CERT-In flags unauthorised transactions, AI-driven cyberattacks in India",
-            "description": "CERT-In flags unauthorised payment transactions at banking and government-linked platforms, while warning of AI-driven cyberattacks across sectors.",
-            "content": "India's cyber ​agency said on Friday it had reported ‌unauthorised transactions at service providers for banking ​and financial services entities, ⁠and also at technology service providers supporting government-linked payments.\n* Payment fraud incide... [1175 chars]",
-            "url": "https://www.thehindubusinessline.com/money-and-banking/cert-in-flags-unauthorised-transactions-across-banking-financial-and-government-payment-platforms/article71727168.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/ysv2bh/article71637533.ece/alternates/LANDSCAPE_1200/IMG_TH11-BU-ISTOCK_2_1_1CGL7BUR.jpg",
-            "publishedAt": "2026-11-21T03:18:06Z",
+            "id": "3366e2cab046e5614610da9dc8d999db",
+            "title": "Nvidia employees complained about Huang’s behaviour 2 decades before the recent scandal",
+            "description": "Jenseng Huang, disgraced former CEO of AI chipmaking giant, had allegedly ‘threatened’ staff and made sexually explicit remarks according to a California lawsuit filed in 2007.",
+            "content": "Another employee, Michael Winston, the senior vice president for human resources, filed a discrimination complaint in 2005 alleging he was fired after objecting to “Huang’s abusive treatment of employees, including conduct he believed constituted sex... [3734 chars]",
+            "url": "https://theprint.in/world/nvidia-employees-complained-about-huangs-behaviour-2-decades-before-the-recent-scandal/3105484/",
+            "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/11/475966398-scaled-e1795318621243.jpg",
+            "publishedAt": "2026-11-22T03:41:24Z",
             "lang": "en",
             "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
+                "id": "34cc62608b4607dc3a776802caadb7bd",
+                "name": "ThePrint",
+                "url": "https://theprint.in",
                 "country": "in"
             }
         },
         {
-            "id": "59a9853b1e27c0b76367eea874549dc8",
-            "title": "Actor Chiranjeevi writes to Amit Shah, seeks stricter AI laws",
-            "description": "Chiranjeevi sought a dedicated grievance redressal mechanism and urgent provisions to penalise offenders, drawing on global best practices.",
-            "content": "HYDERABAD: Actor Chiranjeevi has sought stronger legal safeguards against AI-generated deepfakes, digital impersonation and the misuse of actors’ identities, in a letter to Union Home Minister Amit Shah. He said artists who have spent decades buildin... [904 chars]",
-            "url": "https://www.newindianexpress.com/states/telangana/2026/Nov/21/actor-chiranjeevi-writes-to-shah-seeks-stricter-ai-laws",
-            "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-21%2Fmq1hkcuz%2FChiru-meets-Shah.jpg?rect=0%2C0%2C782%2C411&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2026-11-21T03:18:03Z",
+            "id": "5866225d108897d833ab601daf6eb2a2",
+            "title": "Tech outages are only the beginning. AI will bring more disruptions",
+            "description": "Sometimes, especially lately, it can seem like computer software is built on a house of cards. That is how cyber security researcher Paulos Yibelo felt when...",
+            "content": "Yibelo’s finding, which has not been previously reported, is another example of how advanced AI has in a matter of months radically transformed cyber security and plunged the world into a disorienting new digital chapter in which severe technological... [10433 chars]",
+            "url": "https://www.nzherald.co.nz/business/tech-outages-are-only-the-beginning-ai-will-bring-more-disruptions/premium/VT4DSVV2PZGKNIWVALKNG6GVRA/",
+            "image": "https://www.nzherald.co.nz/resizer/v2/RFAD74M3CFDYDCDK7G4DNLLSXE.jpg?auth=55185966ca7cbae13251db97b76832219d9419b9e85f08d0c2fd9d43b7ae856b&width=1200&height=675&quality=70&focal=998%2C400&smart=false",
+            "publishedAt": "2026-11-22T03:40:41Z",
             "lang": "en",
             "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
+                "id": "321f3fa90dde0946a7b4a17731c0314d",
+                "name": "The New Zealand Herald",
+                "url": "https://www.nzherald.co.nz",
+                "country": "nz"
+            }
+        },
+        {
+            "id": "3ca4559deab8f0f7ec3e7473357a4c66",
+            "title": "Multilingual AI to Boost Medical Access, Says DIBD CEO",
+            "description": "Multilingual AI to Boost Medical Access, Says DIBD CEO - New Delhi, Nov 22: Multilingual artificial intelligence (AI) holds the key to improving healthcare access, simplifying communication, and streamlining ... Get Latest News on Technology only on lokmattimes.com",
+            "content": "New Delhi, Nov 22: Multilingual artificial intelligence (AI) holds the key to improving healthcare access, simplifying communication, and streamlining clinical documentation, according to Amitabh Nag, CEO of the Digital India BHASHINI Division (DIBD)... [2058 chars]",
+            "url": "https://www.lokmattimes.com/technology/multilingual-ai-to-boost-medical-access-says-dibd-ceo-a001-w02/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202611224020978_202611.jpg",
+            "publishedAt": "2026-11-22T03:30:37Z",
+            "lang": "en",
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "a5a075b52974fab97d35b5f45fa3123a",
+            "title": "Multilingual AI Bridges Healthcare Gap, Bhashini CEO Amitabh Nag Emphasizes Empathy",
+            "description": "Multilingual AI Bridges Healthcare Gap, Bhashini CEO Amitabh Nag Emphasizes Empathy - New Delhi, Nov 22: Multilingual Artificial Intelligence (AI) holds the key to revolutionizing healthcare accessibility in India, asserts Amitabh ... Get Latest News on Health only on lokmattimes.com",
+            "content": "New Delhi, Nov 22: Multilingual Artificial Intelligence (AI) holds the key to revolutionizing healthcare accessibility in India, asserts Amitabh Nag, CEO of the Digital India BHASHINI Division (DIBD). Speaking at the Global Digital Health Summit (GDH... [2212 chars]",
+            "url": "https://www.lokmattimes.com/health/multilingual-ai-bridges-healthcare-gap-bhashini-ceo-amitabh-nag-emphasizes-empathy-a001-w02/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202611224020978_202611.jpg",
+            "publishedAt": "2026-11-22T03:30:37Z",
+            "lang": "en",
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "e56eca35b9c0d6770a071cafcb41c364",
+            "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+            "description": "Anthropics shares fell about 9% after their market debut, deepening concerns over stretched AI valuations and showing that even a marquee listing has not revived investor enthusiasm for the sector. The focus is now shifting to whether Anthropic can justify its roughly 40-times-sales valuation and whether a potential OpenAI IPO next year can restore appetite for AI stocks.",
+            "content": "Synopsis\nAnthropic’s shares fell about 9% after their market debut, deepening concerns over stretched AI valuations and showing that even a marquee listing has not revived investor enthusiasm for the sector. The focus is now shifting to whether Anthr... [5358 chars]",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
+            "image": "https://img.etimg.com/thumb/msid-136066646,width-1200,height-900,imgsize-42900,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2026-11-22T03:30:00Z",
+            "lang": "en",
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "b359f31e5e8bfe18f2aca65bd5376919",
+            "title": "Fake AI websites mimic ChatGPT, Gemini and Claude in malware threat",
+            "description": "Cybersecurity firm Island has uncovered 186 fake websites impersonating 27 major artificial intelligence (AI) brands including ChatGPT, Gemini, Claude, Copilot, DeepSeek and Perplexity. The attackers use a typosquatting technique dubbed \"TypoPrompting\" to snare users who mistype web addresses, diverting them to malicious sites that trick victims into installing malware or leaking sensitive search data to third parties.",
+            "content": "Cybersecurity firm Island has uncovered 186 fake websites impersonating 27 major artificial intelligence (AI) brands including ChatGPT, Gemini, Claude, Copilot, DeepSeek and Perplexity. The attackers use a typosquatting technique dubbed \"TypoPromptin... [3716 chars]",
+            "url": "https://www.bangkokpost.com/life/tech/3359246/fake-ai-websites-mimic-chatgpt-gemini-and-claude-in-malware-threat",
+            "image": "https://static.bangkokpost.com/media/content/20261122/c2_3359246.jpg",
+            "publishedAt": "2026-11-22T03:28:00Z",
+            "lang": "en",
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            }
+        },
+        {
+            "id": "a1c6f5e95b783d98cc394bd24602c3ca",
+            "title": "‘In the US, 400 ‘hyperscale’ AI data centres rely on dirty fossil fuel energy - their emissions match Denmark’",
+            "description": "Gianluca Guidi is a Research Fellow in Biostatistics at Harvard University’s TH Chan School of Public Health.",
+            "content": "Gianluca Guidi is Research Fellow in Biostatistics at Harvard University’s TH Chan School of Public Health.\nGianluca Guidi is a Research Fellow in Biostatistics at Harvard University’s TH Chan School of Public Health. He spoke with Srijana Mitra Das ... [7824 chars]",
+            "url": "https://timesofindia.indiatimes.com/in-the-us-400-hyperscale-ai-data-centres-rely-on-dirty-fossil-fuel-energy-their-emissions-match-denmark/articleshow/136066142.cms",
+            "image": "https://static.toiimg.com/thumb/msid-136066655,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-11-22T03:20:00Z",
+            "lang": "en",
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
                 "country": "in"
             }
         }
