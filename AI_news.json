@@ -4,32 +4,16 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 510362,
+    "totalArticles": 511665,
     "articles": [
         {
-            "id": "758761f26f005fc92e7694036e3e354f",
-            "title": "Zoho founder Sridhar Vembu says, ‘What machines did to weavers, AI is starting to do to…’",
-            "description": "Zoho founder Sridhar Vembu has drawn parallels between the impact of artificial intelligence on knowledge workers and the effect mechanisation had on",
-            "content": "Zoho founder Sridhar Vembu\nZoho founder Sridhar Vembu has drawn parallels between the impact of artificial intelligence on knowledge workers and the effect mechanisation had on traditional craftsmen during the industrial revolution, warning that AI b... [5629 chars]",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/zoho-founder-sridhar-vembu-says-what-machines-did-to-weavers-ai-is-starting-to-do-to/articleshow/136093687.cms",
-            "image": "https://static.toiimg.com/thumb/msid-136093748,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "publishedAt": "2026-11-23T07:34:00Z",
-            "lang": "en",
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "6d210aabb2d3438e112ccc6f33ad01d0",
-            "title": "Sensex Crashes 1,000 Points, Nifty Slips To 25,500 As Bank Stocks Tumble, Global AI Sell-Off Weighs",
-            "description": "Indian benchmark indices reversed early gains on November 23, with the Sensex plunging over 1,000 points and the Nifty falling 1.14% amid profit booking and heavy selling in banking stocks. Weak Asian markets, concerns surrounding artificial intelligence valuations and persistent global technology stock sell-offs further weighed on domestic equity market sentiment.",
-            "content": "Indian equity benchmarks witnessed a sharp reversal on Monday, surrendering early gains as profit booking, heavy selling in banking shares and weakness across Asian markets dampened investor sentiment.\nAt 12:40 pm on Monday, the Sensex plunged 1,000 ... [2046 chars]",
-            "url": "https://www.freepressjournal.in/business/sensex-crashes-1000-points-nifty-slips-to-25500-as-bank-stocks-tumble-global-ai-sell-off-weighs",
-            "image": "https://media.assettype.com/freepressjournal/2026-04-14/54abnguq/bse-nse.jpg",
-            "publishedAt": "2026-11-23T07:31:49Z",
+            "id": "1e92cf90f918ca9120d62533370f0505",
+            "title": "Microsoft Develops Rocket AI Framework To Train Advanced Models Independently And Reduce Reliance On Other Companies",
+            "description": "Microsoft has developed Rocket, an in-house reinforcement learning framework to train advanced AI models over extended periods. The technology powers its three-trillion-parameter MAI Base 2 model, which Microsoft claims has surpassed Claude Opus 4.8 on an aggregate reasoning benchmark.",
+            "content": "New Delhi: Microsoft is strengthening its efforts to develop advanced artificial intelligence (AI) models by building its own technology to train them, aiming to improve their capabilities and reduce dependence on models developed by other companies.... [2759 chars]",
+            "url": "https://www.freepressjournal.in/tech/microsoft-develops-rocket-ai-framework-to-train-advanced-models-independently-and-reduce-reliance-on-other-companies",
+            "image": "https://media.assettype.com/freepressjournal/2021-06/97a98da2-bc42-478f-9947-5e3bc14d98f2/Untitled_design___2021_06_17T115421_094.png",
+            "publishedAt": "2026-11-24T07:05:27Z",
             "lang": "en",
             "source": {
                 "id": "7eeaf9a839918543cc708f2d331c3be4",
@@ -39,131 +23,147 @@
             }
         },
         {
-            "id": "0b31eb38c804ca8c9dd5a15e35c88697",
-            "title": "How GTA 6 is powering a gaming café revival in Mumbai",
-            "description": "From 6-hour overnight marathons to back-to-back PS5 bookings, Mumbai’s gaming lounges are cashing in on Rockstar’s biggest launch aided by console exclusivity and an AI-driven surge in hardware costs.",
-            "content": "At a suburban Mumbai gaming café, four PlayStation 5 consoles have barely had a five-minute break since Grand Theft Auto VI (GTA 6) hit the shelves. On launch night, all four were booked for a six-hour overnight gaming marathon starting at midnight.\n... [4171 chars]",
-            "url": "https://www.cnbctv18.com/entertainment/how-gta-6-is-powering-a-gaming-cafe-revival-in-mumbai-20039658.htm",
-            "image": "https://images.cnbctv18.com/uploads/2026/11/gta-vi-1-2026-11-5db7d9acb380f9968ea3fc0f5d6652a6.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-11-23T07:29:47Z",
+            "id": "f17338532adbaf15390c7044483f51c7",
+            "title": "Datassential Expands Global Food and Beverage Intelligence with AI-Driven Menu Analysis and New AI Agent",
+            "description": "/PRNewswire/ -- Datassential, the leading food and beverage intelligence platform, today announced a major expansion of its global offering with two AI-driven...",
+            "content": "Built on 25 years of leadership in menu trend tracking, the dual launches put menu and operator data from 80+ countries to work for food and beverage teams.\nLONDON, Nov. 24, 2026 /PRNewswire/ -- Datassential, the leading food and beverage intelligenc... [4018 chars]",
+            "url": "https://www.prnewswire.co.uk/news-releases/datassential-expands-global-food-and-beverage-intelligence-with-ai-driven-menu-analysis-and-new-ai-agent-302948773.html",
+            "image": "https://mmx.prnewswire.com/media/MS1046083/Datassential-Logo-Teal-Black-Logo.jpg?id=OA3097651&p=facebook",
+            "publishedAt": "2026-11-24T07:03:00Z",
             "lang": "en",
             "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            }
+        },
+        {
+            "id": "16b6991d62f92a9ca642228f9ce9324b",
+            "title": "US States Sue Elon Musk Companies Over Sexualized Images Made With AI Chatbot Grok",
+            "description": "The choices that went into building Grok led to a proliferation of child sexual abuse material and other nonconsensual intimate imagery on the companies' platforms, the lawsuits said",
+            "content": "Richmond: Elon Musk’s businesses harmed consumers by avoiding safeguards when they designed and launched an artificial intelligence chatbot capable of creating sexualized images, two Democratic attorneys general argued in lawsuits filed Monday.\nThe c... [5466 chars]",
+            "url": "https://www.deccanchronicle.com/technology/us-states-sue-elon-musk-companies-over-sexualized-images-made-with-ai-chatbot-grok-2007434",
+            "image": "https://www.deccanchronicle.com/h-upload/2026/11/24/2117518-la-3271040.jpg",
+            "publishedAt": "2026-11-24T07:02:43Z",
+            "lang": "en",
+            "source": {
+                "id": "214d496d625fc657723cf4da80cff8ce",
+                "name": "Deccan Chronicle",
+                "url": "https://www.deccanchronicle.com",
                 "country": "in"
             }
         },
         {
-            "id": "1d181f6454ea92a4806cec1ab4987250",
-            "title": "Why India could be a major winner in the global AI revolution",
-            "description": "India could benefit from the global AI revolution through digital infrastructure, skilled workers and adoption across banking, healthcare, education and agriculture, says Deutsche Bank.",
-            "content": "India could emerge as one of the biggest long-term beneficiaries of the global artificial intelligence (AI) revolution, driven by its large population, expanding digital infrastructure, technology workforce and growing demand for AI-based services ac... [3120 chars]",
-            "url": "https://www.thehindubusinessline.com/info-tech/india-may-emerge-as-a-long-term-ai-winner-despite-reliance-on-foreign-technology-deutsche-bank/article71733631.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/dt3j8s/article71733827.ece/alternates/LANDSCAPE_1200/IMG_BL21_Think_AI_2_1_HRB4RJB2.jpg",
-            "publishedAt": "2026-11-23T07:26:51Z",
+            "id": "9639bf598dbc2b595bf43a52cc12c2d0",
+            "title": "DITO’s homegrown AI-powered KAi wins fourth award in 2026",
+            "description": "DITO Telecommunity has secured its fourth award for AI-driven customer service innovation this year, earning a Silver Stevie at the 2026 International Business Awards (IBA) for its homegrown AI-powered digital companion, KAi, recognized for AI for Customer Experience under the AI Innovation and Transformation category.",
+            "content": "DITO Telecommunity has secured its fourth award for AI-driven customer service innovation this year, earning a Silver Stevie at the 2026 International Business Awards (IBA) for its homegrown AI-powered digital companion, KAi, recognized for AI for Cu... [1752 chars]",
+            "url": "https://www.manilatimes.net/2026/11/24/tmt-newswire/ditos-homegrown-ai-powered-kai-wins-fourth-award-in-2026/2476844",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/24/1322516.jpg",
+            "publishedAt": "2026-11-24T07:02:00Z",
             "lang": "en",
             "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "16333e3e01fe10b3d6cada30c34b9276",
-            "title": "Bulls take a breather! Sensex dives 1,000 pts intraday; a short-term blip?",
-            "description": "Analysts said that Indian equity markets are likely to remain volatile, with weak global cues weighing on sentiment after a sharp technology-led sell-off in the US reignited concerns over AI valuation",
-            "content": "Analysts said that Indian equity markets are likely to remain volatile, with weak global cues weighing on sentiment after a sharp technology-led sell-off in the US reignited concerns over AI valuation\nBulls take a breather! Sensex dives 1,000 pts int... [3975 chars]",
-            "url": "https://www.business-standard.com/markets/news/bulls-take-a-breather-sensex-dives-1-000-pts-intraday-a-short-term-blip-126112300436_1.html",
-            "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/14/thumb/fitandfill/1200X628/1789409297-5101.jpg",
-            "publishedAt": "2026-11-23T07:26:19Z",
+            "id": "0d852e609c0547678ef4e221cab8b61c",
+            "title": "Trump’s intervention on behalf of Jensen Huang gives Democrats another 2028 target",
+            "description": "For Democrats eyeing the White House, President Donald Trump’s coziness with tech executives was already a potent target even before he successfully pressured Nvidia to reinstate Jensen Huang as chief executive. Now his extraordinary intervention has crystallized their concerns about the growing power of artificial intelligence companies and his blending",
+            "content": "For Democrats eyeing the White House, President Donald Trump’s coziness with tech executives was already a potent target even before he successfully pressured Nvidia to reinstate Jensen Huang as chief executive.\nNow his extraordinary intervention has... [4698 chars]",
+            "url": "https://triblive.com/news/world/trumps-intervention-on-behalf-of-jensen-huang-gives-democrats-another-2028-target/",
+            "image": "https://assets-varnish.triblive.com/2026/11/10158910_web1_10158910-0c4e8e2d99e64904a872afc2ee472bf2.jpg",
+            "publishedAt": "2026-11-24T07:01:20Z",
             "lang": "en",
             "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "26b9c0ab7140905e2a858ebdd416d4ef",
-            "title": "Chen Yixin: The man at the heart of China’s ‘spying machine’ in the AI war against US",
-            "description": "Amid the Jensen Huang scandal, reports state that China has been running a years-long operation to acquire AI chips and intelligence. Chen Yixin, the head of the Ministry of State Security and a very close confidante of Xi Jinping, is at the forefront of this campaign",
-            "content": "The Jensen Huang ‘spy’ saga continues. Over a week after the former Nvidia boss stepped down amid claims of extramarital affairs, including one with Alice Huang, who is suspected to be a Chinese spy, it has been revealed that this could just be the t... [6627 chars]",
-            "url": "https://www.firstpost.com/explainers/chen-yixin-ministry-of-state-security-nvidia-spying-scandal-ai-war-operation-14061963.html",
-            "image": "https://images.firstpost.com/uploads/2026/11/china1-2026-11-13c8a5a76165033c45da186bd40dd454.jpg?im=FitAndFill,width=1200,height=675",
-            "publishedAt": "2026-11-23T07:26:12Z",
-            "lang": "en",
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            }
-        },
-        {
-            "id": "37c17752a3237d48099df40e4a76d1f2",
-            "title": "'Better than GTA 6'",
-            "description": "Tesla's new Full Self-Driving V15 update uses real-time AI video visuals and is claimed to be 25 times safer during critical interventions.",
-            "content": "Just days after “Grand Theft Auto 6” sent the internet into a frenzy, Tesla has given fans another glimpse of the future with a jaw-dropping new update to its Full Self-Driving technology.\nThe electric car giant has unveiled a new AI-powered driving ... [2375 chars]",
-            "url": "https://nypost.com/2026/11/23/business/elon-musk-reveals-new-tesla-self-driving-technology-with-real-time-video-game-visuals-better-than-gta-6/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-8d62fhdxk-1795418291617.jpg?quality=75&strip=all&1795400349&w=1200",
-            "publishedAt": "2026-11-23T07:23:40Z",
-            "lang": "en",
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
                 "country": "us"
             }
         },
         {
-            "id": "18523a6f3f65653012e86f21ea36b17e",
-            "title": "Opinion | Anthropic's Seven Billionaires Create A New Kind Of AI Hazard",
-            "description": "Anthropic does have a Long-Term Benefit Trust, a group including former Federal Reserve Chair Ben Bernanke, tasked with protecting its integrity and which can appoint and remove members of the board",
-            "content": "When Dario Amodei rang the Nasdaq bell last week, marking a stock-market debut that proved just how tightly America's economy is bound to its artificial intelligence pioneers, he was surrounded by his fellow Anthropic PBC founders and executives.\nThe... [4558 chars]",
-            "url": "https://www.ndtv.com/opinion/opinion-anthropics-seven-billionaires-create-a-new-kind-of-ai-hazard-12364835",
-            "image": "https://c.ndtvimg.com/2026-11/66mtopcc_anthropic_625x300_23_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-11-23T07:18:49Z",
+            "id": "9e902e3f7cede3f09bd446fbfe9a49e0",
+            "title": "How AI can help law firms give better legal advice-and pull ahead of competitors",
+            "description": "Making predictions of how courts or regulators will interpret the law calls for a consistency of judgment that even the best lawyers struggle to deliver. However, bespoke legal-AI products can distil partner-level knowledge and make their intelligence systems better.",
+            "content": "At its core, legal advice is a prediction of how a court or a regulator will interpret the law in the context of a given set of facts. Making predictions like these calls for a consistency of judgment that even the best of us struggle to deliver.\nIn ... [4738 chars]",
+            "url": "https://www.livemint.com/opinion/online-views/how-ai-can-help-law-firms-give-better-legal-advice-and-pull-ahead-of-competitors-11795431939459.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/11/23/1600x900/logo/indian_lawyer_chatgpt_1795441071724_3EfN_1795441079399_Lxjv_b5ac90bc-d46c-457c-8d2d-60f2bef366b3_3fy5.png",
+            "publishedAt": "2026-11-24T07:01:05Z",
             "lang": "en",
             "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
                 "country": "in"
             }
         },
         {
-            "id": "d6ff17fb48762829eb81202d3b5b922d",
-            "title": "Ant Group's AI App Afu Open Sources Medical and Health AI Model Family",
-            "description": "https://mms.businesswire.com/media/20261122564652/en/2979576/19/LingSante-3_1-flash_Launch.mp4HANGZHOU, China -- Ant Group’s AI health app Afu today",
-            "content": "HANGZHOU, China — Ant Group’s AI health app Afu today announced the launch of LingSante, a comprehensive medical and health AI model family, marking a significant step in applying advanced artificial intelligence to healthcare services. Built on the ... [3927 chars]",
-            "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/ant-groups-ai-app-afu-open-sources-medical-and-health-ai-model-family/",
-            "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261122564652r1&sid=cnpm5&distro=ftp",
-            "publishedAt": "2026-11-23T07:16:21Z",
+            "id": "24facd92903e5b4e53b101677cf61fc0",
+            "title": "Anthropic rolls out zero data retention policy for advanced AI",
+            "description": "Anthropic PBC is releasing a new safety system that lets business customers keep control of their data when using its most capable artificial intelligence models – a stark change from an earlier data-retention policy the company had announced to mitigate potential cyberattacks.",
+            "content": "Anthropic PBC is releasing a new safety system that lets business customers keep control of their data when using its most capable artificial intelligence models – a stark change from an earlier data-retention policy the company had announced to miti... [2781 chars]",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/11/24/anthropic-rolls-out-zero-data-retention-policy-for-advanced-ai",
+            "image": "https://apicms.thestar.com.my/uploads/images/2026/11/24/4228759.jpg",
+            "publishedAt": "2026-11-24T07:00:00Z",
             "lang": "en",
             "source": {
-                "id": "1a3615c1358e4d862525999bb4b2aa01",
-                "name": "The Expositor",
-                "url": "https://www.brantfordexpositor.ca",
-                "country": "ca"
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
             }
         },
         {
-            "id": "43d03f70f3c05681ef1b079d83226838",
-            "title": "Written By Claude Fable 5.2 And Trained By Opus 5.5, A Developer Fit A 367,000-Parameter AI Model Onto A Single 1.44MB Floppy Disk",
-            "description": "Developer WollyMonjac used Claude Fable 5.2 and Opus 5.5 to build and train Tiny 2.1, a 367,000-parameter question-answering transformer that fits on a 1.44MB floppy disk",
-            "content": "A new AI feat that transcends beyond being able to run a 270M model on a laser printer involves vintage hardware from the 1990s; a single floppy disk. A developer has successfully managed to bring Tiny 2.1, a miniature question-answering transformer ... [1965 chars]",
-            "url": "https://wccftech.com/claude-fable-5-2-opus-5-5-tiny-2-1-ai-model-floppy-disk/",
-            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/AI-model-running-on-a-floppy-disk.jpg",
-            "publishedAt": "2026-11-23T07:16:18Z",
+            "id": "a4b04399ab40784c6e2bff0f8b6efbf2",
+            "title": "AI adoption to sustain demand for Indian IT services firms; labour-based models face pressure: Report",
+            "description": "India's IT services companies could continue to benefit from the growing adoption of artificial intelligence as businesses require support for integrating AI solutions, managing data and deploying them at scale, even as automation puts pressure on traditional labour-based delivery models, according to a Systematix report.",
+            "content": "New Delhi [India], November 24 (ANI): India's IT services companies could continue to benefit from the growing adoption of artificial intelligence as businesses require support for integrating AI solutions, managing data and deploying them at scale, ... [2572 chars]",
+            "url": "https://www.livemint.com/technology/ai-adoption-to-sustain-demand-for-indian-it-services-firms-labour-based-models-face-pressure-report-11795503561451.html",
+            "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
+            "publishedAt": "2026-11-24T06:59:20Z",
             "lang": "en",
             "source": {
-                "id": "9a68172fefded1b86fc9a95d43faf501",
-                "name": "Wccftech",
-                "url": "https://wccftech.com",
-                "country": "us"
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "13496fefe09c4aee03e4af1ca0d1ab24",
+            "title": "AI adoption to sustain demand for Indian IT services firms; labour-based models face pressure: Report",
+            "description": "India's IT services companies could continue to benefit from the growing adoption of artificial intelligence as businesses require support for integrating AI solutions, managing data and deploying them at scale, even as automation puts pressure on traditional labour-based delivery models, according to a Systematix report.",
+            "content": "India's IT services companies could continue to benefit from the growing adoption of artificial intelligence as businesses require support for integrating AI solutions, managing data and deploying them at scale, even as automation puts pressure on tr... [2635 chars]",
+            "url": "https://www.devdiscourse.com/article/business/4011203-ai-adoption-to-sustain-demand-for-indian-it-services-firms-labour-based-models-face-pressure-report",
+            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/24_11_2026_12_28_51_9943186.jpg&width=920&format=jpeg",
+            "publishedAt": "2026-11-24T06:58:57Z",
+            "lang": "en",
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            }
+        },
+        {
+            "id": "08b40a4083d212fdd42aead688eda0a4",
+            "title": "AI adoption to sustain demand for Indian IT services firms; labour",
+            "description": "India's IT services companies could continue to benefit from the growing adoption of artificial intelligence as businesses require support for integrating AI solutions, managing data and deploying them at scale, even as automation puts pressure on traditional labour-based delivery models, according to a Systematix report.",
+            "content": "New Delhi [India], November 24 (ANI): India's IT services companies could continue to benefit from the growing adoption of artificial intelligence as businesses require support for integrating AI solutions, managing data and deploying them at scale, ... [2746 chars]",
+            "url": "https://www.tribuneindia.com/news/business/ai-adoption-to-sustain-demand-for-indian-it-services-firms-labour-based-models-face-pressure-report/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZiYWUzY2UwLWU3ZDQtMTFmMS05NjM3LTViY2YwYzFjMTk4YS5qcGc=",
+            "publishedAt": "2026-11-24T06:58:07Z",
+            "lang": "en",
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
             }
         }
     ]
