@@ -4,80 +4,80 @@
             "message": "On the Free plan, articles arrive with a 12-hour delay. Paid plans return them in real time: https://gnews.io/pricing"
         }
     },
-    "totalArticles": 511665,
+    "totalArticles": 512811,
     "articles": [
         {
-            "id": "1e92cf90f918ca9120d62533370f0505",
-            "title": "Microsoft Develops Rocket AI Framework To Train Advanced Models Independently And Reduce Reliance On Other Companies",
-            "description": "Microsoft has developed Rocket, an in-house reinforcement learning framework to train advanced AI models over extended periods. The technology powers its three-trillion-parameter MAI Base 2 model, which Microsoft claims has surpassed Claude Opus 4.8 on an aggregate reasoning benchmark.",
-            "content": "New Delhi: Microsoft is strengthening its efforts to develop advanced artificial intelligence (AI) models by building its own technology to train them, aiming to improve their capabilities and reduce dependence on models developed by other companies.... [2759 chars]",
-            "url": "https://www.freepressjournal.in/tech/microsoft-develops-rocket-ai-framework-to-train-advanced-models-independently-and-reduce-reliance-on-other-companies",
-            "image": "https://media.assettype.com/freepressjournal/2021-06/97a98da2-bc42-478f-9947-5e3bc14d98f2/Untitled_design___2021_06_17T115421_094.png",
-            "publishedAt": "2026-11-24T07:05:27Z",
+            "id": "3e97b094ef9a6a789a87fd733200f290",
+            "title": "Alice Huang-Linked Firms Listed $270 Million In AI Servers In China: Report",
+            "description": "The central-bank documents identify up to 764 AI servers and modules valued at $270 million, along with $31 million in equipment used to connect them into large computing networks.",
+            "content": "Beijing:\nCompanies linked to Alice Huang, the Chinese businesswoman whose affair with Nvidia CEO Jensen Huang triggered his short-lived exit, raised financing against powerful computing equipment for major AI data centres in China, previously unrepor... [5567 chars]",
+            "url": "https://www.ndtv.com/world-news/alice-huang-linked-firms-listed-270-million-in-ai-servers-in-china-report-12373872",
+            "image": "https://c.ndtvimg.com/2026-11/7pnhbov4_alice-huang-jensen-huang-_625x300_23_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+            "publishedAt": "2026-11-25T06:13:56Z",
             "lang": "en",
             "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
                 "country": "in"
             }
         },
         {
-            "id": "f17338532adbaf15390c7044483f51c7",
-            "title": "Datassential Expands Global Food and Beverage Intelligence with AI-Driven Menu Analysis and New AI Agent",
-            "description": "/PRNewswire/ -- Datassential, the leading food and beverage intelligence platform, today announced a major expansion of its global offering with two AI-driven...",
-            "content": "Built on 25 years of leadership in menu trend tracking, the dual launches put menu and operator data from 80+ countries to work for food and beverage teams.\nLONDON, Nov. 24, 2026 /PRNewswire/ -- Datassential, the leading food and beverage intelligenc... [4018 chars]",
-            "url": "https://www.prnewswire.co.uk/news-releases/datassential-expands-global-food-and-beverage-intelligence-with-ai-driven-menu-analysis-and-new-ai-agent-302948773.html",
-            "image": "https://mmx.prnewswire.com/media/MS1046083/Datassential-Logo-Teal-Black-Logo.jpg?id=OA3097651&p=facebook",
-            "publishedAt": "2026-11-24T07:03:00Z",
+            "id": "f9c3d67f4d58ea1733d1fb62c43bbf9f",
+            "title": "US moves to blacklist Singapore AI firm at centre of Nvidia scandal amid concerns over advanced chips reaching China",
+            "description": "The developments come amid mounting scrutiny of Nvidia and its CEO.",
+            "content": "The BBC has asked the Commerce Department, the White House and Megaspeed for comment.\nMegaspeed under US scrutiny\nMegaspeed, primarily a data centre developer, came under wider attention last month after reports linked a former executive, Alice Huang... [3094 chars]",
+            "url": "https://www.businesstoday.in/technology/story/us-moves-to-blacklist-singapore-ai-firm-at-centre-of-nvidia-scandal-amid-concerns-over-advanced-chips-reaching-china-569326-2026-11-25",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6b067b8764802-the-commerce-department-said-its-investigation-into-megaspeed-had-been-underway-for-almost-two-years-250909893-16x9.png",
+            "publishedAt": "2026-11-25T06:11:42Z",
             "lang": "en",
             "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            }
-        },
-        {
-            "id": "16b6991d62f92a9ca642228f9ce9324b",
-            "title": "US States Sue Elon Musk Companies Over Sexualized Images Made With AI Chatbot Grok",
-            "description": "The choices that went into building Grok led to a proliferation of child sexual abuse material and other nonconsensual intimate imagery on the companies' platforms, the lawsuits said",
-            "content": "Richmond: Elon Musk’s businesses harmed consumers by avoiding safeguards when they designed and launched an artificial intelligence chatbot capable of creating sexualized images, two Democratic attorneys general argued in lawsuits filed Monday.\nThe c... [5466 chars]",
-            "url": "https://www.deccanchronicle.com/technology/us-states-sue-elon-musk-companies-over-sexualized-images-made-with-ai-chatbot-grok-2007434",
-            "image": "https://www.deccanchronicle.com/h-upload/2026/11/24/2117518-la-3271040.jpg",
-            "publishedAt": "2026-11-24T07:02:43Z",
-            "lang": "en",
-            "source": {
-                "id": "214d496d625fc657723cf4da80cff8ce",
-                "name": "Deccan Chronicle",
-                "url": "https://www.deccanchronicle.com",
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
                 "country": "in"
             }
         },
         {
-            "id": "9639bf598dbc2b595bf43a52cc12c2d0",
-            "title": "DITO’s homegrown AI-powered KAi wins fourth award in 2026",
-            "description": "DITO Telecommunity has secured its fourth award for AI-driven customer service innovation this year, earning a Silver Stevie at the 2026 International Business Awards (IBA) for its homegrown AI-powered digital companion, KAi, recognized for AI for Customer Experience under the AI Innovation and Transformation category.",
-            "content": "DITO Telecommunity has secured its fourth award for AI-driven customer service innovation this year, earning a Silver Stevie at the 2026 International Business Awards (IBA) for its homegrown AI-powered digital companion, KAi, recognized for AI for Cu... [1752 chars]",
-            "url": "https://www.manilatimes.net/2026/11/24/tmt-newswire/ditos-homegrown-ai-powered-kai-wins-fourth-award-in-2026/2476844",
-            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/24/1322516.jpg",
-            "publishedAt": "2026-11-24T07:02:00Z",
+            "id": "bc2a3d5cfbcb445ac7ec48f231371cbc",
+            "title": "GSB Drives Data & AI Culture at “GSB Data & AI Culture Showcase 2026” to Boost Services",
+            "description": "Mr. Songpol Chevapanyaroj, President and CEO of Government Savings Bank (GSB), presided over the opening of the “GSB Data & AI Culture Showcase 2026” under the theme “Turn Insights into Impact,” aimed at equipping personnel at all levels with the knowledge and skills to use data and AI technologies with awareness, safety, and responsibility. The event featured discussion panels with executives, experts, and teams applying data and AI in practice, alongside innovation showcases from the bank and partner organizations across more than 27 booths. The bank aims to foster a data-driven decision-making work culture and leverage technology to enhance operational efficiency and service quality to meet customer needs, aligning with the GSB Way of Work in driving the organization toward becoming a Data & AI Driven Organization. The event was recently held at GSB Phiphat Building, GSB Head Office.",
+            "content": "Mr. Songpol Chevapanyaroj, President and CEO of Government Savings Bank (GSB), presided over the opening of the “GSB Data & AI Culture Showcase 2026” under the theme “Turn Insights into Impact,” aimed at equipping personnel at all levels with the kno... [649 chars]",
+            "url": "https://www.bangkokpost.com/thailand/pr/3361025/gsb-drives-data-ai-culture-at-gsb-data-ai-culture-showcase-2026-to-boost-services",
+            "image": "https://static.bangkokpost.com/media/content/20261125/c1_3361025_700.jpg",
+            "publishedAt": "2026-11-25T06:09:00Z",
             "lang": "en",
             "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
             }
         },
         {
-            "id": "0d852e609c0547678ef4e221cab8b61c",
-            "title": "Trump’s intervention on behalf of Jensen Huang gives Democrats another 2028 target",
-            "description": "For Democrats eyeing the White House, President Donald Trump’s coziness with tech executives was already a potent target even before he successfully pressured Nvidia to reinstate Jensen Huang as chief executive. Now his extraordinary intervention has crystallized their concerns about the growing power of artificial intelligence companies and his blending",
-            "content": "For Democrats eyeing the White House, President Donald Trump’s coziness with tech executives was already a potent target even before he successfully pressured Nvidia to reinstate Jensen Huang as chief executive.\nNow his extraordinary intervention has... [4698 chars]",
-            "url": "https://triblive.com/news/world/trumps-intervention-on-behalf-of-jensen-huang-gives-democrats-another-2028-target/",
-            "image": "https://assets-varnish.triblive.com/2026/11/10158910_web1_10158910-0c4e8e2d99e64904a872afc2ee472bf2.jpg",
-            "publishedAt": "2026-11-24T07:01:20Z",
+            "id": "e23bcfa39139f4e5e8557ba10acd496e",
+            "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
+            "description": "Maelstrom CIO Arthur Hayes expects the AI trade to face headwinds in the second half of 2027, with startup talent potentially returning to crypto afterward.",
+            "content": "Startup talent that has concentrated in artificial intelligence will return to the crypto industry \"when AI implodes,\" according to Arthur Hayes, chief investment officer at Maelstrom Fund.\n\"A lot of talent has gone into the AI space, so I definitely... [2691 chars]",
+            "url": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108123080-1743187995978-gettyimages-881226528-CONSENSUS_INVEST.jpeg?v=1795586961&w=1920&h=1080",
+            "publishedAt": "2026-11-25T06:02:56Z",
+            "lang": "en",
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            }
+        },
+        {
+            "id": "fc85966554af27946df59d47e996d642",
+            "title": "Data centers cited as reason for Duquesne Light rate increase",
+            "description": "Duquesne Light plans to increase default service supply rates — affecting hundreds of thousands of its customers — citing rising energy demands from data centers powering artificial intelligence that are cropping up across Western Pennsylvania. Beginning Dec. 1, rates will rise from 14.14 cents per kilowatt hour (kWh) to 14.56",
+            "content": "Duquesne Light plans to increase default service supply rates — affecting hundreds of thousands of its customers — citing rising energy demands from data centers powering artificial intelligence that are cropping up across Western Pennsylvania.\nBegin... [3256 chars]",
+            "url": "https://triblive.com/business/technology/data-centers-cited-as-reason-for-duquesne-light-rate-increase/",
+            "image": "https://assets-varnish.triblive.com/2026/11/10160911_web1_ptr-morningroundup-021126.jpg",
+            "publishedAt": "2026-11-25T06:01:00Z",
             "lang": "en",
             "source": {
                 "id": "b1fa63410571207862faad9daf9b4527",
@@ -87,83 +87,83 @@
             }
         },
         {
-            "id": "9e902e3f7cede3f09bd446fbfe9a49e0",
-            "title": "How AI can help law firms give better legal advice-and pull ahead of competitors",
-            "description": "Making predictions of how courts or regulators will interpret the law calls for a consistency of judgment that even the best lawyers struggle to deliver. However, bespoke legal-AI products can distil partner-level knowledge and make their intelligence systems better.",
-            "content": "At its core, legal advice is a prediction of how a court or a regulator will interpret the law in the context of a given set of facts. Making predictions like these calls for a consistency of judgment that even the best of us struggle to deliver.\nIn ... [4738 chars]",
-            "url": "https://www.livemint.com/opinion/online-views/how-ai-can-help-law-firms-give-better-legal-advice-and-pull-ahead-of-competitors-11795431939459.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/11/23/1600x900/logo/indian_lawyer_chatgpt_1795441071724_3EfN_1795441079399_Lxjv_b5ac90bc-d46c-457c-8d2d-60f2bef366b3_3fy5.png",
-            "publishedAt": "2026-11-24T07:01:05Z",
+            "id": "9823626528a9b99e952f5426a77f2fb8",
+            "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street",
+            "description": "Asian stocks are mostly lower after heavy selling of stocks linked to artificial intelligence once again hit Wall Street. HONG KONG (AP) — Asian",
+            "content": "Asian stocks are mostly lower after heavy selling of stocks linked to artificial intelligence once again hit Wall Street.\nHONG KONG (AP) — Asian stocks mostly declined on Wednesday after heavy selling of stocks linked to artificial intelligence once ... [3661 chars]",
+            "url": "https://www.breitbart.com/news/asian-stocks-mostly-decline-as-ai-shares-fall-following-a-retreat-on-wall-street/",
+            "image": "https://media.breitbart.com/media/2026/11/wi/ap/aptopix-japan-financial-markets-6327-aptopix-japan-financial-markets-person-is-silhouetted-an-640x335.jpg",
+            "publishedAt": "2026-11-25T06:00:57Z",
             "lang": "en",
             "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
             }
         },
         {
-            "id": "24facd92903e5b4e53b101677cf61fc0",
-            "title": "Anthropic rolls out zero data retention policy for advanced AI",
-            "description": "Anthropic PBC is releasing a new safety system that lets business customers keep control of their data when using its most capable artificial intelligence models – a stark change from an earlier data-retention policy the company had announced to mitigate potential cyberattacks.",
-            "content": "Anthropic PBC is releasing a new safety system that lets business customers keep control of their data when using its most capable artificial intelligence models – a stark change from an earlier data-retention policy the company had announced to miti... [2781 chars]",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/11/24/anthropic-rolls-out-zero-data-retention-policy-for-advanced-ai",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/11/24/4228759.jpg",
-            "publishedAt": "2026-11-24T07:00:00Z",
+            "id": "43b0d2790e7bcd8a68c4a335fd0ead31",
+            "title": "CiDi Unveils Expanded Heavy-Duty Embodied AI Portfolio at bauma CHINA 2026, Extending Automation from Surface Mining to Underground Operations",
+            "description": "**media[1324269]**New product portfolio including autonomous freight truck, cabless electric mining truck, mining agent, underground drilling robot and V2X solutions showcase CiDi's expanding capabilities across heavy-duty industrial applicationsCiDi unveils an expanded portfolio of autonomous vehicles, mining robots and intelligent systems at bauma CHINA 2026, extending automation from open-pit mining to public-road freight transportation and underground operations.New products include VEGA, a purpose-built L4 autonomous heavy-duty truck; CDK155, a 100-tonne cabless electric autonomous mining truck; Yura, the first mining agent in the world; and CT17-1S, an underground drilling robot designed to remove people from hazardous working environments; and its V2X solution for real-time coordination among vehicles, infrastructure and personnel in open-pit mines.Powered by Gravicortex, CiDi's proprietary heavy-duty embodied AI platform, its three business pillars-Autonomous Driving, Task Robotics, and Intelligent Hardware & Services-share technology capabilities and operational data to support integrated, scalable automation.CiDi's MetaMine platform has served nearly 40 mines globally, with more than 1,000 pieces of equipment connected simultaneously during peak periods. Its autonomous freight business has recorded more than 500 cumulative deliveries and outstanding orders as of October 2026.SHANGHAI, Nov. 25, 2026 /PRNewswire/ -- CiDi (03881.HK), a Hong Kong-listed technology company specializing in heavy-duty embodied AI, today unveiled an expanded portfolio of autonomous vehicles, industrial robots and intelligent systems at bauma CHINA 2026 in Shanghai. **media[1324270]**",
+            "content": "New product portfolio including autonomous freight truck, cabless electric mining truck, mining agent, underground drilling robot and V2X solutions showcase CiDi's expanding capabilities across heavy-duty industrial applications\nCiDi unveils an expan... [14066 chars]",
+            "url": "https://www.manilatimes.net/2026/11/25/tmt-newswire/pr-newswire/cidi-unveils-expanded-heavy-duty-embodied-ai-portfolio-at-bauma-china-2026-extending-automation-from-surface-mining-to-underground-operations/2477732",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/25/1324266.jpg",
+            "publishedAt": "2026-11-25T06:00:02Z",
             "lang": "en",
             "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "a4b04399ab40784c6e2bff0f8b6efbf2",
-            "title": "AI adoption to sustain demand for Indian IT services firms; labour-based models face pressure: Report",
-            "description": "India's IT services companies could continue to benefit from the growing adoption of artificial intelligence as businesses require support for integrating AI solutions, managing data and deploying them at scale, even as automation puts pressure on traditional labour-based delivery models, according to a Systematix report.",
-            "content": "New Delhi [India], November 24 (ANI): India's IT services companies could continue to benefit from the growing adoption of artificial intelligence as businesses require support for integrating AI solutions, managing data and deploying them at scale, ... [2572 chars]",
-            "url": "https://www.livemint.com/technology/ai-adoption-to-sustain-demand-for-indian-it-services-firms-labour-based-models-face-pressure-report-11795503561451.html",
-            "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
-            "publishedAt": "2026-11-24T06:59:20Z",
+            "id": "766efd7375de26027286b0a409cfadd5",
+            "title": "Meet Taipei 2026 Draws Record Attendance, Sets Stage for Taipei Tech Week 2027",
+            "description": "The three-day festival recorded a 19.5% year-over-year increase in visits, with startups from 23 countries participating and Moonlake AI taking top honors at the Meet Neo Star Pitch Competition. Building on this international momentum, Business Next and key ecosystem partners launch Taipei Tech Week 2027 to further boost the city's technology, startup, and investment communities.",
+            "content": "The three-day festival recorded a 19.5% year-over-year increase in visits, with startups from 23 countries participating and Moonlake AI taking top honors at the Meet Neo Star Pitch Competition. Building on this international momentum, Business Next ... [6334 chars]",
+            "url": "https://www.manilatimes.net/2026/11/25/tmt-newswire/pr-newswire/meet-taipei-2026-draws-record-attendance-sets-stage-for-taipei-tech-week-2027/2477731",
+            "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/25/1324264.jpg",
+            "publishedAt": "2026-11-25T06:00:01Z",
             "lang": "en",
             "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
             }
         },
         {
-            "id": "13496fefe09c4aee03e4af1ca0d1ab24",
-            "title": "AI adoption to sustain demand for Indian IT services firms; labour-based models face pressure: Report",
-            "description": "India's IT services companies could continue to benefit from the growing adoption of artificial intelligence as businesses require support for integrating AI solutions, managing data and deploying them at scale, even as automation puts pressure on traditional labour-based delivery models, according to a Systematix report.",
-            "content": "India's IT services companies could continue to benefit from the growing adoption of artificial intelligence as businesses require support for integrating AI solutions, managing data and deploying them at scale, even as automation puts pressure on tr... [2635 chars]",
-            "url": "https://www.devdiscourse.com/article/business/4011203-ai-adoption-to-sustain-demand-for-indian-it-services-firms-labour-based-models-face-pressure-report",
-            "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/24_11_2026_12_28_51_9943186.jpg&width=920&format=jpeg",
-            "publishedAt": "2026-11-24T06:58:57Z",
+            "id": "846f53f06086d346657ad0c56ab3f3d2",
+            "title": "AI doesn’t want any of your feckin’ Irish backchat",
+            "description": "Is Gemini developing feelings?",
+            "content": "Sir, – A little while ago I was experimenting with AI. I asked Gemini a question: “Gemini, what is the sterling exchange rate?” The response came “Germany is a country in Europe with a population of 80 million people ...”\nI interrupted saying “No Gem... [423 chars]",
+            "url": "https://www.irishtimes.com/opinion/letters/2026/11/25/ai-doesnt-want-any-of-your-feckin-irish-backchat/",
+            "image": "https://www.irishtimes.com/resizer/v2/VHFAVTA4U5C7FE2ZTPOGOKHXN4.jpg?smart=true&auth=1f202b740bd44798a55898a19ef6a892873ae4e538e9e94222c2b3519c6cad0e&width=1200&height=630",
+            "publishedAt": "2026-11-25T06:00:01Z",
             "lang": "en",
             "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
             }
         },
         {
-            "id": "08b40a4083d212fdd42aead688eda0a4",
-            "title": "AI adoption to sustain demand for Indian IT services firms; labour",
-            "description": "India's IT services companies could continue to benefit from the growing adoption of artificial intelligence as businesses require support for integrating AI solutions, managing data and deploying them at scale, even as automation puts pressure on traditional labour-based delivery models, according to a Systematix report.",
-            "content": "New Delhi [India], November 24 (ANI): India's IT services companies could continue to benefit from the growing adoption of artificial intelligence as businesses require support for integrating AI solutions, managing data and deploying them at scale, ... [2746 chars]",
-            "url": "https://www.tribuneindia.com/news/business/ai-adoption-to-sustain-demand-for-indian-it-services-firms-labour-based-models-face-pressure-report/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZiYWUzY2UwLWU3ZDQtMTFmMS05NjM3LTViY2YwYzFjMTk4YS5qcGc=",
-            "publishedAt": "2026-11-24T06:58:07Z",
+            "id": "32e3e5d0af2e0d78d532432f26fc4128",
+            "title": "Look out Ireland, nothing says AI bubble quite like the return of Jensen Huang",
+            "description": "A €22bn pipeline of data centres leaves the Irish economy exposed. Markets cheering the Nvidia chief’s comeback should make us nervous",
+            "content": "Jensen Huang is many things: technology visionary, natty dresser and a man in trouble with his wife. He is also the glue that holds together the stuttering artificial intelligence (AI) boom.\nHis reinstatement as chief executive of Nvidia on Monday – ... [4758 chars]",
+            "url": "https://www.irishtimes.com/business/2026/11/25/look-out-ireland-nothing-says-ai-bubble-quite-like-the-return-of-jensen-huang/",
+            "image": "https://www.irishtimes.com/resizer/v2/IEQTEJUYIJG2DD6YVPOCGSZLQ4.jpg?smart=true&auth=beabbb82137a0e4836424b5c8dcb26467f9522648fffd173af464d18c79f005e&width=1200&height=630",
+            "publishedAt": "2026-11-25T06:00:01Z",
             "lang": "en",
             "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
             }
         }
     ]
